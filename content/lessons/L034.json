@@ -272,6 +272,73 @@
       "fr": "rien",
       "it": "niente, nulla",
       "pos": "pron"
+    },
+    {
+      "fr": "s'arrêter",
+      "it": "fermarsi",
+      "pos": "v",
+      "note": "je m'arrête"
+    },
+    {
+      "fr": "l'arrivée (f.)",
+      "it": "l'arrivo",
+      "pos": "n"
+    },
+    {
+      "fr": "l'artiste (m./f.)",
+      "it": "l'artista",
+      "pos": "n",
+      "note": "invariabile al femminile: un artiste, une artiste"
+    },
+    {
+      "fr": "le bijou",
+      "it": "il gioiello",
+      "pos": "n",
+      "note": "plurale in -x: les bijoux"
+    },
+    {
+      "fr": "le caillou",
+      "it": "il sassolino, il ciottolo",
+      "pos": "n",
+      "note": "plurale in -x: les cailloux"
+    },
+    {
+      "fr": "mauvais / mauvaise",
+      "it": "cattivo, brutto",
+      "pos": "adj",
+      "note": "le mauvais temps = il brutto tempo"
+    },
+    {
+      "fr": "sentir",
+      "it": "sentire (odore, sensazione)",
+      "pos": "v",
+      "note": "je sens; se sentir = sentirsi"
+    },
+    {
+      "fr": "la pluie",
+      "it": "la pioggia",
+      "pos": "n"
+    },
+    {
+      "fr": "la porte",
+      "it": "la porta",
+      "pos": "n"
+    },
+    {
+      "fr": "le randonneur / la randonneuse",
+      "it": "l'escursionista",
+      "pos": "n"
+    },
+    {
+      "fr": "le soleil",
+      "it": "il sole",
+      "pos": "n"
+    },
+    {
+      "fr": "vouloir dire",
+      "it": "voler dire, significare",
+      "pos": "expr",
+      "note": "tu veux dire = vuoi dire"
     }
   ],
   "expressions": [
@@ -817,6 +884,31 @@
       "front": "Come si costruisce ne...rien con un infinito?",
       "back": "ne + verbo coniugato + rien + infinito: je ne peux rien faire. Mai pas rien, che è una doppia negazione.",
       "explain_it": "Rien va davanti all'infinito e la negazione ne...rien sostituisce ne...pas."
+    },
+    {
+      "id": "L034-e44",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Il pleut, mais la ___ ne me gêne pas.",
+      "answers": [
+        "pluie"
+      ],
+      "hint": "(pioggia)",
+      "prompt": "Piove, ma la pioggia non mi disturba.",
+      "explain_it": "La pluie è il nome, pleuvoir il verbo: il pleut."
+    },
+    {
+      "id": "L034-e45",
+      "type": "write",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Gli escursionisti si fermano vicino alla porta.",
+      "answers": [
+        "Les randonneurs s'arrêtent près de la porte.",
+        "Les randonneuses s'arrêtent près de la porte."
+      ],
+      "explain_it": "S'arrêter è pronominale: ils s'arrêtent."
     }
   ]
 }

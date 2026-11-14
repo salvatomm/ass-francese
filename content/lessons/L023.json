@@ -288,6 +288,47 @@
       "it": "finire",
       "pos": "v",
       "note": "je finis; participio finissant"
+    },
+    {
+      "fr": "l'appartement (m.)",
+      "it": "l'appartamento",
+      "pos": "n"
+    },
+    {
+      "fr": "celui",
+      "it": "colui, quello",
+      "pos": "pron",
+      "note": "f. celle; pl. ceux, celles; tous ceux = tutti quelli"
+    },
+    {
+      "fr": "servir",
+      "it": "servire",
+      "pos": "v",
+      "note": "je sers; Qu'est-ce que je vous sers ? = cosa le servo?"
+    },
+    {
+      "fr": "les échecs (m. pl.)",
+      "it": "gli scacchi",
+      "pos": "n",
+      "note": "jouer aux échecs"
+    },
+    {
+      "fr": "les gens (m. pl.)",
+      "it": "la gente, le persone",
+      "pos": "n",
+      "note": "sempre plurale; d'autres gens"
+    },
+    {
+      "fr": "le nombre",
+      "it": "il numero (quantità), il numerale",
+      "pos": "n",
+      "note": "chiffre = cifra, numéro = numero di telefono o civico"
+    },
+    {
+      "fr": "le tabac",
+      "it": "il tabaccaio, il bar-tabacchi",
+      "pos": "n",
+      "note": "il locale che vende anche giornali e biglietti della lotteria"
     }
   ],
   "expressions": [
@@ -882,6 +923,30 @@
       "back": "Je n'ai pas d'amis ici.",
       "note": "Dopo la negazione des diventa de, davanti a vocale d'.",
       "explain_it": "La negazione toglie l'articolo indeterminativo e lascia solo de."
+    },
+    {
+      "id": "L023-e46",
+      "type": "cloze",
+      "level": 2,
+      "concept": "present-irregular",
+      "text": "Qu'est-ce que je vous ___ ?",
+      "answers": [
+        "sers"
+      ],
+      "hint": "(servir, présent)",
+      "prompt": "Cosa Le servo?",
+      "explain_it": "Servir al presente: je sers, tu sers, il sert."
+    },
+    {
+      "id": "L023-e47",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Ci sono molte persone al banco.",
+      "answers": [
+        "Il y a beaucoup de gens au comptoir."
+      ],
+      "explain_it": "Gens è plurale e si usa per indicare 'le persone' in generale."
     }
   ]
 }

@@ -226,6 +226,12 @@
       "fr": "elle",
       "it": "lei",
       "pos": "pron"
+    },
+    {
+      "fr": "être",
+      "it": "essere",
+      "pos": "v",
+      "note": "il est, c'est (c'est ça = è così)"
     }
   ],
   "expressions": [

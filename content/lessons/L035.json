@@ -201,6 +201,30 @@
       "it": "freddo",
       "pos": "adj",
       "note": "il fait froid: fa freddo"
+    },
+    {
+      "fr": "anglais / anglaise",
+      "it": "inglese",
+      "pos": "adj",
+      "note": "l'anglais (m.) = la lingua inglese"
+    },
+    {
+      "fr": "la neige",
+      "it": "la neve",
+      "pos": "n",
+      "note": "il verbo è neiger: il neige"
+    },
+    {
+      "fr": "tutoyer",
+      "it": "dare del tu",
+      "pos": "v",
+      "note": "je tutoie; le tutoiement"
+    },
+    {
+      "fr": "vouvoyer",
+      "it": "dare del lei / del voi",
+      "pos": "v",
+      "note": "je vouvoie; le vouvoiement"
     }
   ],
   "expressions": [
@@ -780,6 +804,31 @@
       ],
       "correct": 0,
       "explain_it": "Con vous il verbo essere è êtes; la forma tu è riservata a persone familiari."
+    },
+    {
+      "id": "L035-e43",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Entre amis, on se ___ en général.",
+      "answers": [
+        "tutoie"
+      ],
+      "hint": "(tutoyer, présent)",
+      "prompt": "Tra amici, in genere ci si dà del tu.",
+      "explain_it": "Tutoyer = dire tu; i verbi in -oyer cambiano y in i davanti a e muta."
+    },
+    {
+      "id": "L035-e44",
+      "type": "write",
+      "level": 2,
+      "concept": "register",
+      "prompt": "Do del lei al mio direttore.",
+      "answers": [
+        "Je vouvoie mon directeur.",
+        "Je vouvoie mon patron."
+      ],
+      "explain_it": "Vouvoyer = usare vous; je vouvoie (y → i)."
     }
   ]
 }

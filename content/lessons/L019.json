@@ -200,6 +200,88 @@
       "fr": "le placard à balais",
       "it": "lo sgabuzzino per le scope",
       "pos": "n"
+    },
+    {
+      "fr": "le copain",
+      "it": "l'amico, il compagno",
+      "pos": "n",
+      "note": "f. la copine; familiare"
+    },
+    {
+      "fr": "le cœur",
+      "it": "il cuore",
+      "pos": "n",
+      "note": "œ si pronuncia [ø/œ]: [kœr]"
+    },
+    {
+      "fr": "sacré / sacrée",
+      "it": "sacro",
+      "pos": "adj",
+      "note": "Sacré Cœur"
+    },
+    {
+      "fr": "la dizaine",
+      "it": "una decina",
+      "pos": "n",
+      "note": "une dizaine de = circa dieci"
+    },
+    {
+      "fr": "la douzaine",
+      "it": "la dozzina",
+      "pos": "n",
+      "note": "une douzaine d'œufs"
+    },
+    {
+      "fr": "la quinzaine",
+      "it": "una quindicina",
+      "pos": "n",
+      "note": "anche: due settimane"
+    },
+    {
+      "fr": "la vingtaine",
+      "it": "una ventina",
+      "pos": "n"
+    },
+    {
+      "fr": "l'œuf (m.)",
+      "it": "l'uovo",
+      "pos": "n",
+      "note": "pl. les œufs: la f non si pronuncia"
+    },
+    {
+      "fr": "espérer",
+      "it": "sperare",
+      "pos": "v",
+      "note": "j'espère"
+    },
+    {
+      "fr": "louer",
+      "it": "affittare, noleggiare",
+      "pos": "v",
+      "note": "falso amico: non 'lodare'"
+    },
+    {
+      "fr": "organiser",
+      "it": "organizzare",
+      "pos": "v"
+    },
+    {
+      "fr": "la matinée",
+      "it": "la mattinata",
+      "pos": "n",
+      "note": "come la soirée"
+    },
+    {
+      "fr": "moins",
+      "it": "meno",
+      "pos": "adv",
+      "note": "moins cher = meno caro"
+    },
+    {
+      "fr": "petit / petite",
+      "it": "piccolo",
+      "pos": "adj",
+      "note": "plus petit = più piccolo"
     }
   ],
   "expressions": [
@@ -699,6 +781,30 @@
         "La fête commence à vingt heures."
       ],
       "explain_it": "Nell'orario delle 24 ore si usa vingt heures per le venti, e la preposizione è à."
+    },
+    {
+      "id": "L019-e37",
+      "type": "write",
+      "level": 2,
+      "prompt": "Alla festa ci sono una quindicina di persone.",
+      "answers": [
+        "Il y a une quinzaine de personnes à la fête."
+      ],
+      "concept": "numbers",
+      "explain_it": "-aine dopo un numero indica una quantità approssimativa."
+    },
+    {
+      "id": "L019-e38",
+      "type": "cloze",
+      "level": 2,
+      "text": "J'___ que la salle est libre.",
+      "answers": [
+        "espère"
+      ],
+      "hint": "(espérer, presente)",
+      "prompt": "Spero che la sala sia libera.",
+      "concept": "vocab",
+      "explain_it": "Espérer: j'espère que + frase."
     }
   ]
 }

@@ -185,6 +185,34 @@
       "fr": "au revoir",
       "it": "arrivederci",
       "pos": "interj"
+    },
+    {
+      "fr": "l'arrondissement (m.)",
+      "it": "il distretto, il quartiere",
+      "pos": "n",
+      "note": "Parigi ne ha 20, numerati"
+    },
+    {
+      "fr": "le présent",
+      "it": "il presente",
+      "pos": "n",
+      "note": "le temps présent"
+    },
+    {
+      "fr": "le temps",
+      "it": "il tempo",
+      "pos": "n",
+      "note": "beaucoup de temps"
+    },
+    {
+      "fr": "le ticket",
+      "it": "il biglietto (della metro)",
+      "pos": "n"
+    },
+    {
+      "fr": "la visite",
+      "it": "la visita",
+      "pos": "n"
     }
   ],
   "expressions": [
@@ -709,6 +737,29 @@
       "front": "Come si chiede «A che ora?» in francese, e come si concorda quel?",
       "back": "À quelle heure ? Quelle è femminile perché heure è femminile; quel/quelle/quels/quelles concordano con il nome.",
       "note": "Esempio: À quelle heure est-ce qu'il rentre ?"
+    },
+    {
+      "id": "L008-e40",
+      "level": 2,
+      "type": "write",
+      "concept": "vocab",
+      "prompt": "Ha molto tempo?",
+      "answers": [
+        "Vous avez beaucoup de temps ?",
+        "Avez-vous beaucoup de temps ?"
+      ],
+      "explain_it": "Beaucoup de + nome: nessun articolo dopo de; temps è maschile."
+    },
+    {
+      "id": "L008-e41",
+      "level": 2,
+      "type": "write",
+      "concept": "vocab",
+      "prompt": "Cerco il mio carnet.",
+      "answers": [
+        "Je cherche mon carnet."
+      ],
+      "explain_it": "Chercher vuole l'oggetto senza preposizione (cercare qualcosa); il presente francese traduce anche la forma progressiva."
     }
   ]
 }

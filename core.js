@@ -95,7 +95,15 @@ export function wordDiff(given, expected) {
 }
 
 // ── content → items ─────────────────────────────────────────────────────────
-const bare = fr => fr.replace(/\s*\([^)]*\)/g, '').trim(); // "l'hôtel (m.)" → "l'hôtel"
+const LABEL = /\s*\((?:m|f|pl|m\.\/f|m\. ?pl|f\. ?pl)\.?\)/g;   // "(m.)", "(f. pl.)": display-only labels
+
+/** Typed answers for a vocab/expression `fr` (format in agent/CONTENT_SPEC.md): "grand / grande" →
+ *  either form; "désolé(e)" → désolé | désolée; "réussir (à)" → with or without the complement. */
+export const entryAnswers = fr => fr.replace(LABEL, '').split(/\s+\/\s+/).map(f => f.trim()
+  .replace(/(\p{L})\((\p{Ll}+)\)/gu, '$1[|$2]').replace(/\s+\(([^)]+)\)/g, '[ $1|]'));
+
+/** What text-to-speech reads for an entry: each form once, "grand, grande". */
+export const sayable = fr => entryAnswers(fr).map(a => expand(a)[0]).join(', ');
 
 /** Flashcards + typed vocab drills generated from a lesson's vocab/expressions/grammar. Stable ids. */
 export function deriveItems(L) {
@@ -104,13 +112,15 @@ export function deriveItems(L) {
   for (const v of L.vocab || []) {
     const s = slug(v.fr), note = [v.note, v.pos && `(${v.pos})`].filter(Boolean).join(' ');
     out.push({ id: uid(`${p}-v-${s}-fi`), type: 'flash', level: 1, concept: 'vocab', kind: 'vocab',
-      front: v.fr, back: v.it, note, speak: bare(v.fr) });
+      front: v.fr, back: v.it, note, speak: sayable(v.fr) });
     out.push({ id: uid(`${p}-v-${s}-w`), type: 'write', level: 2, concept: 'vocab', kind: 'vocab',
-      prompt: v.it, answers: [bare(v.fr)], front: v.it, back: v.fr, note, ask: 'Scrivi in francese' });
+      prompt: v.it, answers: entryAnswers(v.fr), front: v.it, back: v.fr, note, ask: 'Scrivi in francese',
+      explain_it: [/[/(]/.test(v.fr) && v.fr, v.note].filter(Boolean).join(' · ') });
   }
   for (const x of L.expressions || [])
     out.push({ id: uid(`${p}-x-${slug(x.fr)}`), type: 'write', level: 2, concept: 'idioms', kind: 'expr',
-      prompt: x.it, answers: [bare(x.fr)], front: x.it, back: x.fr, note: x.note || '', ask: 'Come si dice in francese?' });
+      prompt: x.it, answers: entryAnswers(x.fr), front: x.it, back: x.fr, note: x.note || '', ask: 'Come si dice in francese?',
+      explain_it: [/[/(]/.test(x.fr) && x.fr, x.note].filter(Boolean).join(' · ') });
   for (const g of L.grammar || [])
     out.push({ id: uid(`${p}-g-${slug(g.title_it)}`), type: 'flash', level: 2, concept: g.id, kind: 'rule',
       front: g.title_it, back: g.explain_it, examples: g.examples || [] });

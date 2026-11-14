@@ -209,12 +209,12 @@
       "pos": "adj"
     },
     {
-      "fr": "génial, géniale",
+      "fr": "génial / géniale",
       "it": "geniale, fantastico",
       "pos": "adj"
     },
     {
-      "fr": "joli, jolie",
+      "fr": "joli / jolie",
       "it": "carino, grazioso",
       "pos": "adj"
     },
@@ -225,17 +225,17 @@
       "note": "invariabile al femminile (chic); plurale chics"
     },
     {
-      "fr": "vert, verte",
+      "fr": "vert / verte",
       "it": "verde",
       "pos": "adj"
     },
     {
-      "fr": "noir, noire",
+      "fr": "noir / noire",
       "it": "nero",
       "pos": "adj"
     },
     {
-      "fr": "bleu, bleue",
+      "fr": "bleu / bleue",
       "it": "blu, azzurro",
       "pos": "adj"
     },
@@ -288,6 +288,30 @@
       "fr": "quand même",
       "it": "comunque, lo stesso",
       "pos": "expr"
+    },
+    {
+      "fr": "entrer",
+      "it": "entrare",
+      "pos": "v",
+      "note": "imperativo tu: entre !"
+    },
+    {
+      "fr": "orange",
+      "it": "arancione",
+      "pos": "adj",
+      "note": "invariabile: une robe orange, des pulls orange"
+    },
+    {
+      "fr": "rouge",
+      "it": "rosso, rossa",
+      "pos": "adj",
+      "note": "uguale al maschile e al femminile"
+    },
+    {
+      "fr": "le site",
+      "it": "il sito",
+      "pos": "n",
+      "note": "le site Internet"
     }
   ],
   "expressions": [
@@ -792,6 +816,31 @@
       "concept": "negation-other",
       "text": "Je ne veux rien acheter aujourd'hui.",
       "explain_it": "Con un verbo all'infinito, rien va dopo il verbo coniugato con ne, e la negazione resta unica."
+    },
+    {
+      "id": "L033-e40",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Cette robe existe en ___ et en orange.",
+      "answers": [
+        "rouge"
+      ],
+      "hint": "(rosso)",
+      "prompt": "Questo vestito esiste in rosso e in arancione.",
+      "explain_it": "Rouge e orange sono i colori citati nel dialogo; con en indicano la variante."
+    },
+    {
+      "id": "L033-e41",
+      "type": "write",
+      "level": 2,
+      "concept": "imperative",
+      "prompt": "Entra e guarda questo sito!",
+      "answers": [
+        "Entre et regarde ce site !",
+        "Entrez et regardez ce site !"
+      ],
+      "explain_it": "L'imperativo di entrer con tu perde la -s: entre !"
     }
   ]
 }

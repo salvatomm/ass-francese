@@ -298,6 +298,30 @@
       "fr": "jamais",
       "it": "mai",
       "pos": "adv"
+    },
+    {
+      "fr": "chaque",
+      "it": "ogni",
+      "pos": "adj",
+      "note": "invariabile, sempre seguito da un nome: chaque jour; senza nome si usa chacun(e)"
+    },
+    {
+      "fr": "refuser",
+      "it": "rifiutare",
+      "pos": "v",
+      "note": "refuser de + infinito"
+    },
+    {
+      "fr": "la société",
+      "it": "la società, l'azienda",
+      "pos": "n",
+      "note": "sinonimo di l'entreprise"
+    },
+    {
+      "fr": "plaire",
+      "it": "piacere",
+      "pos": "v",
+      "note": "il me plaît = mi piace; il/elle plaît, ils/elles plaisent"
     }
   ],
   "expressions": [
@@ -907,6 +931,32 @@
       "hint": "(pronome dimostrativo maschile, quello)",
       "prompt": "Preferisce questo vino o quello?",
       "explain_it": "Quando il nome è già noto, si usa il pronome composto celui-là al posto di vin."
+    },
+    {
+      "id": "L032-e46",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Il ne ___ jamais de répondre à ses clients.",
+      "answers": [
+        "refuse"
+      ],
+      "hint": "(refuser, présent)",
+      "prompt": "Non rifiuta mai di rispondere ai suoi clienti.",
+      "explain_it": "Refuser de + infinito; jamais sostituisce pas nella negazione."
+    },
+    {
+      "id": "L032-e47",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Ogni cliente riceve una mail.",
+      "answers": [
+        "Chaque client reçoit un mail.",
+        "Chaque client reçoit un e-mail.",
+        "Chaque client reçoit un courriel."
+      ],
+      "explain_it": "Chaque è seguito da un nome singolare e non ha plurale."
     }
   ]
 }

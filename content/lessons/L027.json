@@ -190,6 +190,36 @@
       "fr": "moins",
       "it": "meno",
       "pos": "adv"
+    },
+    {
+      "fr": "confortable",
+      "it": "comodo",
+      "pos": "adj",
+      "note": "identico al maschile e al femminile"
+    },
+    {
+      "fr": "partagé",
+      "it": "diviso, discordante",
+      "pos": "adj",
+      "note": "f. partagée; les avis sont partagés"
+    },
+    {
+      "fr": "tôt",
+      "it": "presto",
+      "pos": "adv",
+      "note": "non confondere con tard; plus tôt = prima"
+    },
+    {
+      "fr": "voler",
+      "it": "volare; rubare",
+      "pos": "v",
+      "note": "un vol = un volo o un furto"
+    },
+    {
+      "fr": "le voyageur",
+      "it": "il viaggiatore",
+      "pos": "n",
+      "note": "f. la voyageuse"
     }
   ],
   "expressions": [
@@ -826,6 +856,30 @@
       "concept": "pronunciation",
       "text": "Nous réservons une chambre supérieure au premier étage.",
       "explain_it": "Attenzione alla r francese e alle e mute: réservons, chambre, premier."
+    },
+    {
+      "id": "L027-e47",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Il mio volo parte molto presto.",
+      "answers": [
+        "Mon vol part très tôt"
+      ],
+      "explain_it": "Tôt = presto (di mattina); un vol è un volo."
+    },
+    {
+      "id": "L027-e48",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Cette chambre a l'air très ___.",
+      "answers": [
+        "confortable"
+      ],
+      "hint": "(comodo)",
+      "prompt": "Questa camera sembra molto comoda.",
+      "explain_it": "Confortable è invariabile al femminile; avoir l'air = sembrare."
     }
   ]
 }

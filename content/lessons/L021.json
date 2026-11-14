@@ -210,6 +210,28 @@
       "fr": "presque",
       "it": "quasi",
       "pos": "adv"
+    },
+    {
+      "fr": "pauvre",
+      "it": "povero",
+      "pos": "adj",
+      "note": "uguale al femminile; prima del nome = 'poveretto', dopo = senza denaro"
+    },
+    {
+      "fr": "janvier",
+      "it": "gennaio",
+      "pos": "n",
+      "note": "mesi: maschili, senza maiuscola"
+    },
+    {
+      "fr": "février",
+      "it": "febbraio",
+      "pos": "n"
+    },
+    {
+      "fr": "avril",
+      "it": "aprile",
+      "pos": "n"
     }
   ],
   "expressions": [
@@ -845,6 +867,30 @@
       "explain_it": "Vous è anche plurale: il verbo si coniuga come al plurale.",
       "front": "Quando si usa vous invece di tu?",
       "back": "Con sconosciuti, con persone a cui si deve rispetto, e per il plurale; tu solo con familiari, amici e coetanei."
+    },
+    {
+      "id": "L021-e08",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "text": "Il n'a pas d'argent : il est ___.",
+      "answers": [
+        "pauvre"
+      ],
+      "hint": "(povero)",
+      "prompt": "Non ha soldi: è povero.",
+      "explain_it": "Pauvre termina in -e e ha la stessa forma al maschile e al femminile."
+    },
+    {
+      "id": "L021-e09",
+      "type": "write",
+      "level": 2,
+      "concept": "time-date",
+      "prompt": "Lunedì 10 febbraio.",
+      "answers": [
+        "[Le|] lundi dix février."
+      ],
+      "explain_it": "La data si dice con il numero cardinale; giorno e mese non hanno la maiuscola."
     }
   ]
 }

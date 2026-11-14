@@ -133,7 +133,66 @@
       ]
     }
   ],
-  "vocab": [],
+  "vocab": [
+    {
+      "fr": "beau",
+      "it": "bello",
+      "pos": "adj",
+      "note": "f. belle; il fait beau = fa bel tempo"
+    },
+    {
+      "fr": "blond",
+      "it": "biondo",
+      "pos": "adj",
+      "note": "f. blonde"
+    },
+    {
+      "fr": "demi",
+      "it": "mezzo",
+      "pos": "adj",
+      "note": "f. demie: huit heures et demie"
+    },
+    {
+      "fr": "dernier",
+      "it": "ultimo",
+      "pos": "adj",
+      "note": "f. dernière"
+    },
+    {
+      "fr": "le frère",
+      "it": "il fratello",
+      "pos": "n"
+    },
+    {
+      "fr": "la sœur",
+      "it": "la sorella",
+      "pos": "n"
+    },
+    {
+      "fr": "jeune",
+      "it": "giovane",
+      "pos": "adj",
+      "note": "invariabile al femminile"
+    },
+    {
+      "fr": "joli",
+      "it": "carino, grazioso",
+      "pos": "adj",
+      "note": "f. jolie"
+    },
+    {
+      "fr": "occupé",
+      "it": "occupato",
+      "pos": "adj",
+      "note": "f. occupée"
+    },
+    {
+      "fr": "le pouvoir",
+      "it": "il potere",
+      "pos": "n",
+      "note": "come nome; il verbo è pouvoir"
+    }
+  ],
   "expressions": [
     {
       "fr": "avoir besoin de",
@@ -671,6 +730,30 @@
       ],
       "correct": 0,
       "explain_it": "Con i determinanti plurali (vos, mes, nos, leurs) la -s si pronuncia davanti a vocale: vo-z-amis."
+    },
+    {
+      "id": "L014-e41",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "text": "Ma sœur est ___ toute la journée.",
+      "answers": [
+        "occupée"
+      ],
+      "hint": "(occupé)",
+      "prompt": "Mia sorella è occupata tutto il giorno.",
+      "explain_it": "Sœur è femminile: occupé prende una e e diventa occupée."
+    },
+    {
+      "id": "L014-e42",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "Mio fratello è biondo e mia sorella è bionda.",
+      "answers": [
+        "Mon frère est blond et ma sœur est blonde."
+      ],
+      "explain_it": "Blond prende una e al femminile (blonde); la e finale muta non cambia la pronuncia della d."
     }
   ]
 }

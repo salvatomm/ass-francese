@@ -259,6 +259,30 @@
       "fr": "l'ordre (m.)",
       "it": "l'ordine",
       "pos": "n"
+    },
+    {
+      "fr": "la Belgique",
+      "it": "il Belgio",
+      "pos": "n",
+      "note": "paese femminile (finisce in -e)"
+    },
+    {
+      "fr": "français(e)",
+      "it": "francese",
+      "pos": "adj",
+      "note": "l'ambassadeur français; senza maiuscola, mentre un Français / une Française con maiuscola"
+    },
+    {
+      "fr": "humain(e)",
+      "it": "umano",
+      "pos": "adj",
+      "note": "les droits humains"
+    },
+    {
+      "fr": "suivant(e)",
+      "it": "seguente",
+      "pos": "adj",
+      "note": "la question suivante"
     }
   ],
   "expressions": [
@@ -760,6 +784,31 @@
       "concept": "partitif",
       "text": "Mon collègue japonais pense que tout le monde veut de la santé et du travail.",
       "explain_it": "Dopo veut, il partitivo si mantiene: de la santé (f.) e du travail (m.)."
+    },
+    {
+      "id": "L020-e38",
+      "type": "cloze",
+      "level": 2,
+      "text": "Nous avons un ambassadeur ___ et un ambassadeur américain.",
+      "answers": [
+        "français"
+      ],
+      "hint": "(francese)",
+      "prompt": "Abbiamo un ambasciatore francese e un ambasciatore americano.",
+      "concept": "adjective-agreement",
+      "explain_it": "Gli aggettivi di nazionalità non hanno la maiuscola; al femminile si aggiunge -e."
+    },
+    {
+      "id": "L020-e39",
+      "type": "write",
+      "level": 2,
+      "prompt": "Ecco la domanda seguente.",
+      "answers": [
+        "Voici la question suivante.",
+        "Voilà la question suivante."
+      ],
+      "concept": "vocab",
+      "explain_it": "Suivant(e) si accorda col nome: la question suivante."
     }
   ]
 }

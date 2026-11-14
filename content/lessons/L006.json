@@ -182,6 +182,17 @@
       "fr": "le centre",
       "it": "il centro",
       "pos": "n"
+    },
+    {
+      "fr": "la famille",
+      "it": "la famiglia",
+      "pos": "n"
+    },
+    {
+      "fr": "le nom de famille",
+      "it": "il cognome",
+      "pos": "expr",
+      "note": "le prénom = nome di battesimo"
     }
   ],
   "expressions": [
@@ -734,6 +745,17 @@
       "front": "Bonsoir: quando si usa?",
       "back": "Dopo le 18 come saluto formale; prima delle 18 si usa bonjour.",
       "explain_it": "Il saluto cambia con l'ora, come in italiano buongiorno e buonasera."
+    },
+    {
+      "id": "L006-e43",
+      "level": 2,
+      "type": "write",
+      "concept": "vocab",
+      "prompt": "Qual è il suo cognome?",
+      "answers": [
+        "Quel est votre nom de famille ?"
+      ],
+      "explain_it": "Il cognome si dice nom de famille; nom da solo è spesso il cognome, prénom il nome di battesimo."
     }
   ]
 }

@@ -15,6 +15,32 @@ CONCEPTS = set(SPEC.split("## Concept keys")[1].split("```")[1].split())
 TYPES = {"mcq", "order", "cloze", "write", "dictation", "flash"}
 POS = {"n", "v", "adj", "adv", "prep", "conj", "pron", "expr", "num", "interj"}
 ALT = re.compile(r"\[([^\[\]]*)\]")
+LABEL = re.compile(r"\s*\((?:m|f|pl|m\./f|m\. ?pl|f\. ?pl)\.?\)")
+LOWER = "a-zà-öø-ÿœæ"
+
+
+def entry_answers(fr: str) -> list[str]:
+    """Typed answers of a vocab/expression fr. Mirrors core.js entryAnswers()."""
+    out = []
+    for f in re.split(r"\s+/\s+", LABEL.sub("", fr)):
+        f = re.sub(rf"(?<=[^\W\d_])\(([{LOWER}]+)\)", r"[|\1]", f.strip())
+        out.append(re.sub(r"\s+\(([^)]+)\)", r"[ \1|]", f))
+    return out
+
+
+def check_entry(fr: str, where: str, err, warn, vocab: bool = True) -> None:
+    """fr format (CONTENT_SPEC): forms split by " / ", "x(e)" endings, "(m.)"-style labels,
+    " (complement)" optional parts. Anything else would turn into an untypeable drill answer."""
+    if any(c in fr for c in "[]|"):
+        err(f"{where}: {fr!r} must not use answer syntax [a|b]")
+        return
+    for a in entry_answers(fr):
+        if re.search(r"[()/]", a) or not a:
+            err(f"{where}: {fr!r} doesn't parse (gender pairs: 'grand / grande'; labels only (m.) (f.) (m./f.) (m. pl.) (f. pl.); 'désolé(e)'; optional complement 'réussir (à)'; plural or other info goes in note)")
+            return
+        expand(a)
+    if vocab and re.fullmatch(r"[^,]+, [^,]+", fr) and len(fr.split()) <= 4:
+        warn(f"{where}: {fr!r} looks like a gender pair: write 'a / b'")
 
 
 def expand(ans: str, cap: int = 256) -> list[str]:
@@ -115,9 +141,13 @@ def validate_lesson(path: Path, err, warn, seen_ids: set) -> None:
         if v.get("fr") in fr_seen:
             err(f"{w}: duplicate vocab {v.get('fr')!r}")
         fr_seen.add(v.get("fr"))
+        if v.get("fr"):
+            check_entry(v["fr"], f"{w}: vocab[{i}]", err, warn)
     for i, x in enumerate(L.get("expressions", [])):
         if not (x.get("fr") and x.get("it")):
             err(f"{w}: expressions[{i}] needs fr+it")
+        elif "/" in x["fr"] or "(" in x["fr"]:
+            check_entry(x["fr"], f"{w}: expressions[{i}]", err, warn, vocab=False)
     exs = L.get("exercises", [])
     for i, ex in enumerate(exs):
         eid = ex.get("id", "")

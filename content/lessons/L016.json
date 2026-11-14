@@ -196,25 +196,25 @@
       "note": "dell'autobus; non significa 'arresto'"
     },
     {
-      "fr": "grand, grande",
+      "fr": "grand / grande",
       "it": "grande",
       "pos": "adj",
       "note": "prima del nome: un grand architecte; dopo il nome: alto"
     },
     {
-      "fr": "vieux, vieille",
+      "fr": "vieux / vieille",
       "it": "vecchio, vecchia",
       "pos": "adj",
       "note": "femminile irregolare: vieille"
     },
     {
-      "fr": "ancien, ancienne",
+      "fr": "ancien / ancienne",
       "it": "antico, vecchio",
       "pos": "adj",
       "note": "ancienne: raddoppio della -n e -e"
     },
     {
-      "fr": "bon, bonne",
+      "fr": "bon / bonne",
       "it": "buono, buona",
       "pos": "adj",
       "note": "bonne: raddoppio della -n e -e"
@@ -266,6 +266,40 @@
       "fr": "là-bas",
       "it": "laggiù",
       "pos": "adv"
+    },
+    {
+      "fr": "autre",
+      "it": "altro",
+      "pos": "adj",
+      "note": "pl. autres: d'autres capitales"
+    },
+    {
+      "fr": "c'est-à-dire",
+      "it": "cioè, vale a dire",
+      "pos": "expr"
+    },
+    {
+      "fr": "construire",
+      "it": "costruire",
+      "pos": "v",
+      "note": "participio construit"
+    },
+    {
+      "fr": "l'image (f.)",
+      "it": "l'immagine",
+      "pos": "n"
+    },
+    {
+      "fr": "long / longue",
+      "it": "lungo",
+      "pos": "adj",
+      "note": "f. longue"
+    },
+    {
+      "fr": "malade",
+      "it": "malato",
+      "pos": "adj",
+      "note": "invariabile al femminile: une personne malade"
     }
   ],
   "expressions": [
@@ -816,6 +850,30 @@
       "concept": "adjective-position",
       "text": "Le vieux monsieur traverse la grande place.",
       "explain_it": "Vieux va prima del nome maschile e grande, prima di place, prende la forma femminile."
+    },
+    {
+      "id": "L016-e43",
+      "type": "cloze",
+      "level": 2,
+      "text": "Cette avenue est très ___.",
+      "answers": [
+        "longue"
+      ],
+      "hint": "(lungo, f.)",
+      "prompt": "Questo viale è molto lungo.",
+      "concept": "adjective-agreement",
+      "explain_it": "Long fa il femminile longue perché avenue è femminile."
+    },
+    {
+      "id": "L016-e44",
+      "type": "write",
+      "level": 2,
+      "prompt": "Ho bisogno di un'altra foto.",
+      "answers": [
+        "J'ai besoin d'une autre photo."
+      ],
+      "concept": "vocab",
+      "explain_it": "Autre si accorda: une autre photo (femminile singolare)."
     }
   ]
 }

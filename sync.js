@@ -2,7 +2,8 @@
 // the outbox is flushed when online, then remote changes are pulled.
 import * as db from './db.js';
 
-const TABLE_KEY = { fr_attempts: 'id', fr_progress: 'ex_id', fr_meta: 'k' };
+const TABLE_KEY = { fr_attempts: 'id', fr_progress: 'ex_id', fr_meta: 'k' };          // pushed
+const PULL_KEY = { fr_progress: 'ex_id', fr_exercises: 'id', fr_reports: 'id', fr_meta: 'k' }; // pulled
 
 async function cfg() {
   const c = await db.kvGet('sync', {});
@@ -20,14 +21,24 @@ async function api(c, path, opts = {}) {
   return r.status === 204 || opts.method === 'POST' ? null : r.json();
 }
 
-/** GET every row matching `query`, 1000 at a time (PostgREST caps responses). */
-async function getAllRows(c, table, query) {
+const quoted = v => encodeURIComponent(`"${v}"`);
+
+/** Rows of `table` changed on the server since this device last looked. The cursor is the
+ *  server-stamped (synced_at, primary key) of the last row seen, so other devices' clocks don't
+ *  matter, and keyset paging neither skips nor repeats rows written while we page (1000/request). */
+async function changed(c, table, cursors) {
+  const key = PULL_KEY[table];
+  let [ts, id] = cursors[table] ?? ['1970-01-01T00:00:00Z', ''];
   const rows = [];
-  for (let off = 0; ; off += 1000) {
-    const page = await api(c, `${table}?${query}&limit=1000&offset=${off}`);
+  for (;;) {
+    const after = `or=(synced_at.gt.${quoted(ts)},and(synced_at.eq.${quoted(ts)},${key}.gt.${quoted(id)}))`;
+    const page = await api(c, `${table}?select=*&${after}&order=synced_at,${key}&limit=1000`);
     rows.push(...page);
-    if (page.length < 1000) return rows;
+    if (page.length) [ts, id] = [page.at(-1).synced_at, page.at(-1)[key]];
+    if (page.length < 1000) break;
   }
+  cursors[table] = [ts, id];
+  return rows;
 }
 
 async function push(c) {
@@ -46,29 +57,27 @@ async function push(c) {
 }
 
 async function pull(c) {
-  const since = await db.kvGet('pulledAt', '1970-01-01T00:00:00Z');
-  const started = new Date().toISOString();
-  const q = `select=*&updated_at=gt.${encodeURIComponent(since)}&order=updated_at`;
+  const cursors = await db.kvGet('cursors', {});
+  const newer = (a, b) => !b || Date.parse(a) > Date.parse(b);   // device clocks: last write wins
 
   const local = Object.fromEntries((await db.getAll('progress')).map(p => [p.ex_id, p]));
-  const remoteProg = (await getAllRows(c, 'fr_progress', q)).filter(r => !local[r.ex_id] || r.updated_at > local[r.ex_id].updated_at);
-  await db.putMany('progress', remoteProg);
+  const progress = (await changed(c, 'fr_progress', cursors)).filter(r => newer(r.updated_at, local[r.ex_id]?.updated_at));
+  await db.putMany('progress', progress.map(r => ({ ex_id: r.ex_id, state: r.state, updated_at: r.updated_at })));
 
-  const ex = await getAllRows(c, 'fr_exercises', q);
+  const ex = await changed(c, 'fr_exercises', cursors);
   await db.putMany('agentEx', ex.map(r => ({ ...r.payload, id: r.id, lesson: r.lesson, reason: r.reason,
     parent: r.parent, active: r.active, agent: true })));
 
-  const reports = await getAllRows(c, 'fr_reports', `select=*&created_at=gt.${encodeURIComponent(since)}`);
+  const reports = await changed(c, 'fr_reports', cursors);
   await db.putMany('reports', reports);
 
-  const meta = await getAllRows(c, 'fr_meta', q);
-  const cur = meta.find(m => m.k === 'current_lesson');
-  if (cur && cur.updated_at > (await db.kvGet('current_lesson_at', ''))) {
+  const cur = (await changed(c, 'fr_meta', cursors)).find(m => m.k === 'current_lesson');
+  if (cur && newer(cur.updated_at, await db.kvGet('current_lesson_at', ''))) {
     await db.kvSet('current_lesson', cur.v);
     await db.kvSet('current_lesson_at', cur.updated_at);
   }
-  await db.kvSet('pulledAt', started);
-  return { progress: remoteProg.length, exercises: ex.length, reports: reports.length };
+  await db.kvSet('cursors', cursors);   // only after everything is stored: a failed pull is simply redone
+  return { progress: progress.length, exercises: ex.length, reports: reports.length };
 }
 
 let running = null;

@@ -56,6 +56,18 @@ authors and by the coaching agent (see `AGENT.md`). Validate with
 
 `pos` ∈ `n v adj adv prep conj pron expr num interj`.
 
+A vocab/expression `fr` is shown as written and also becomes the answer of a typed drill
+(Italian → French), so it may only use these forms (`tools/validate.py` enforces it):
+
+| form | example | the drill accepts |
+|---|---|---|
+| alternative forms, ` / ` | `grand / grande`, `le joueur / la joueuse` | either form |
+| feminine ending glued on | `désolé(e)`, `quel(le)` | désolé, désolée |
+| label | `l'hôtel (m.)`, `les gens (m. pl.)`, `l'artiste (m./f.)` | l'hôtel (label is display only) |
+| optional complement, ` (…)` | `réussir (à)`, `le carnet (d'adresses)` | with or without it |
+
+Plurals, irregular forms and anything else go in `note` (`le cheval`, note `pl. les chevaux`).
+
 ## Exercises
 
 Common fields:

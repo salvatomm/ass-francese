@@ -223,6 +223,23 @@
       "it": "il fornaio",
       "pos": "n",
       "note": "la boulangerie (f.)"
+    },
+    {
+      "fr": "le garçon",
+      "it": "il ragazzo, il bambino",
+      "pos": "n"
+    },
+    {
+      "fr": "l'homme (m.)",
+      "it": "l'uomo",
+      "pos": "n",
+      "note": "h muta: cet homme"
+    },
+    {
+      "fr": "sa",
+      "it": "suo/sua (femminile: sa mère)",
+      "pos": "adj",
+      "note": "son davanti a nome maschile o vocale; sa + nome femminile"
     }
   ],
   "expressions": [
@@ -807,6 +824,29 @@
       "front": "Quando si usa chez?",
       "back": "Con una persona (chez moi, chez ma mère) o con un negozio e un mestiere (chez le boulanger).",
       "note": "È l'equivalente di «da» in italiano."
+    },
+    {
+      "id": "L009-e45",
+      "level": 2,
+      "type": "cloze",
+      "concept": "vocab",
+      "text": "Ce ___ a huit ans.",
+      "answers": [
+        "garçon"
+      ],
+      "prompt": "Questo ragazzo ha otto anni.",
+      "explain_it": "Garçon è maschile, quindi ce garçon."
+    },
+    {
+      "id": "L009-e46",
+      "level": 2,
+      "type": "write",
+      "concept": "possessives",
+      "prompt": "Quest'uomo abita da sua madre.",
+      "answers": [
+        "Cet homme habite chez sa mère."
+      ],
+      "explain_it": "Homme comincia con h muta, quindi cet; mère è femminile, quindi sa."
     }
   ]
 }

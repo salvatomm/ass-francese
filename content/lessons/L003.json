@@ -171,6 +171,11 @@
       "fr": "pas du tout",
       "it": "niente affatto",
       "pos": "expr"
+    },
+    {
+      "fr": "la présentation",
+      "it": "la presentazione",
+      "pos": "n"
     }
   ],
   "expressions": [

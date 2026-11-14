@@ -130,6 +130,18 @@
       "fr": "deux",
       "it": "due",
       "pos": "num"
+    },
+    {
+      "fr": "tu",
+      "it": "tu (forma informale)",
+      "pos": "pron",
+      "note": "si usa con familiari e amici; con gli altri vous"
+    },
+    {
+      "fr": "bon",
+      "it": "buono",
+      "pos": "adj",
+      "note": "f. bonne; in bonjour = buon giorno"
     }
   ],
   "expressions": [

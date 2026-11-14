@@ -97,9 +97,10 @@
   ],
   "vocab": [
     {
-      "fr": "le jeu (les jeux)",
+      "fr": "le jeu",
       "it": "il gioco",
-      "pos": "n"
+      "pos": "n",
+      "note": "pl. les jeux"
     },
     {
       "fr": "le hasard",
@@ -131,14 +132,16 @@
       "note": "les courses de chevaux: le corse ippiche"
     },
     {
-      "fr": "le cheval (les chevaux)",
+      "fr": "le cheval",
       "it": "il cavallo",
-      "pos": "n"
+      "pos": "n",
+      "note": "pl. les chevaux"
     },
     {
-      "fr": "le journal (les journaux)",
+      "fr": "le journal",
       "it": "il giornale",
-      "pos": "n"
+      "pos": "n",
+      "note": "pl. les journaux"
     },
     {
       "fr": "spécialisé",
@@ -153,7 +156,7 @@
       "note": "un journal intitulé"
     },
     {
-      "fr": "le gagnant (la gagnante)",
+      "fr": "le gagnant / la gagnante",
       "it": "il vincitore (la vincitrice)",
       "pos": "n"
     },
@@ -216,7 +219,7 @@
       "pos": "n"
     },
     {
-      "fr": "prêt (prête)",
+      "fr": "prêt / prête",
       "it": "pronto",
       "pos": "adj"
     },
@@ -232,7 +235,7 @@
       "pos": "adj"
     },
     {
-      "fr": "le joueur (la joueuse)",
+      "fr": "le joueur / la joueuse",
       "it": "il giocatore (la giocatrice)",
       "pos": "n"
     },
@@ -258,6 +261,45 @@
       "fr": "la loterie",
       "it": "la lotteria",
       "pos": "n"
+    },
+    {
+      "fr": "aimer",
+      "it": "amare, piacere",
+      "pos": "v",
+      "note": "j'aime; aimer bien = gradire, piacere (in modo moderato)"
+    },
+    {
+      "fr": "devenir",
+      "it": "diventare",
+      "pos": "v",
+      "note": "si coniuga come venir: je deviens"
+    },
+    {
+      "fr": "finir",
+      "it": "finire",
+      "pos": "v",
+      "note": "je finis; finir en premier = arrivare primo"
+    },
+    {
+      "fr": "la liste",
+      "it": "la lista, l'elenco",
+      "pos": "n"
+    },
+    {
+      "fr": "puis",
+      "it": "poi, quindi",
+      "pos": "adv"
+    },
+    {
+      "fr": "lequel",
+      "it": "quale (tra più)",
+      "pos": "pron",
+      "note": "f. laquelle; pl. lesquels, lesquelles"
+    },
+    {
+      "fr": "surtout",
+      "it": "soprattutto",
+      "pos": "adv"
     }
   ],
   "expressions": [
@@ -762,6 +804,29 @@
       "front": "Gagner significa sempre 'guadagnare'?",
       "back": "No: gagner vuol dire 'vincere' (una partita, un gioco, una lotteria) oppure 'guadagnare' (denaro, uno stipendio). Il contesto decide.",
       "explain_it": "Il verbo gagner ha due significati: quale usare dipende da ciò che si vince o si guadagna."
+    },
+    {
+      "id": "L022-e39",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adverbs",
+      "text": "Elle aime les jeux, ___ les courses de chevaux.",
+      "answers": [
+        "surtout"
+      ],
+      "prompt": "Le piacciono i giochi, soprattutto le corse dei cavalli.",
+      "explain_it": "Surtout = soprattutto, e introduce ciò che si preferisce."
+    },
+    {
+      "id": "L022-e40",
+      "type": "write",
+      "level": 2,
+      "concept": "present-ir",
+      "prompt": "Voglio diventare ricco.",
+      "answers": [
+        "Je veux devenir riche."
+      ],
+      "explain_it": "Dopo vouloir si usa l'infinito: devenir."
     }
   ]
 }

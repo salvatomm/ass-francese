@@ -240,6 +240,41 @@
       "fr": "faciliter",
       "it": "facilitare",
       "pos": "v"
+    },
+    {
+      "fr": "dedans",
+      "it": "dentro",
+      "pos": "adv",
+      "note": "contrario di dehors"
+    },
+    {
+      "fr": "prochain",
+      "it": "prossimo",
+      "pos": "adj",
+      "note": "f. prochaine; samedi prochain"
+    },
+    {
+      "fr": "Salut !",
+      "it": "Ciao!",
+      "pos": "interj",
+      "note": "saluto familiare, anche per congedarsi"
+    },
+    {
+      "fr": "le dessert",
+      "it": "il dolce, il dessert",
+      "pos": "n",
+      "note": "si pronuncia [dessèr], con s sorda"
+    },
+    {
+      "fr": "souvent",
+      "it": "spesso",
+      "pos": "adv"
+    },
+    {
+      "fr": "vendre",
+      "it": "vendere",
+      "pos": "v",
+      "note": "il vend"
     }
   ],
   "expressions": [
@@ -764,6 +799,32 @@
       "front": "Che significato ha «plutôt» in «je prends plutôt un thé»?",
       "back": "piuttosto: indica la scelta di una cosa al posto di un'altra. Davanti a un aggettivo attenua: plutôt froid = piuttosto freddo.",
       "explain_it": "Plutôt non significa più presto (quello è plus tôt)."
+    },
+    {
+      "id": "L029-e41",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Vendono spesso dolci deliziosi.",
+      "answers": [
+        "Ils vendent souvent des gâteaux délicieux",
+        "Ils vendent souvent de délicieux gâteaux",
+        "Elles vendent souvent des gâteaux délicieux"
+      ],
+      "explain_it": "Souvent si mette dopo il verbo coniugato; vendre fa il vend, ils vendent."
+    },
+    {
+      "id": "L029-e42",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adjectives-irregular",
+      "text": "Nous allons dîner chez eux samedi ___.",
+      "answers": [
+        "prochain"
+      ],
+      "hint": "(prossimo)",
+      "prompt": "Andiamo a cena da loro sabato prossimo.",
+      "explain_it": "Prochain segue il giorno: samedi prochain."
     }
   ]
 }

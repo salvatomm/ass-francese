@@ -163,12 +163,12 @@
       "pos": "n"
     },
     {
-      "fr": "excellent, excellente",
+      "fr": "excellent / excellente",
       "it": "eccellente",
       "pos": "adj"
     },
     {
-      "fr": "cher, chère",
+      "fr": "cher / chère",
       "it": "caro",
       "pos": "adj",
       "note": "pas cher = economico"
@@ -179,7 +179,7 @@
       "pos": "adv"
     },
     {
-      "fr": "pressé, pressée",
+      "fr": "pressé / pressée",
       "it": "di fretta",
       "pos": "adj",
       "note": "je suis pressé(e)"
@@ -195,7 +195,7 @@
       "pos": "adv"
     },
     {
-      "fr": "fermé, fermée",
+      "fr": "fermé / fermée",
       "it": "chiuso",
       "pos": "adj"
     },
@@ -223,6 +223,23 @@
       "fr": "tout droit",
       "it": "dritto",
       "pos": "adv"
+    },
+    {
+      "fr": "le plaisir",
+      "it": "il piacere",
+      "pos": "n",
+      "note": "avec plaisir = volentieri"
+    },
+    {
+      "fr": "plusieurs",
+      "it": "parecchi, diversi",
+      "pos": "adj",
+      "note": "invariabile al femminile; sempre plurale"
+    },
+    {
+      "fr": "le mètre",
+      "it": "il metro",
+      "pos": "n"
     }
   ],
   "expressions": [
@@ -726,6 +743,29 @@
       "front": "Quali sono le forme di lequel?",
       "back": "Masc. sing. lequel; femm. sing. laquelle; masc. plur. lesquels; femm. plur. lesquelles. Si accorda con il nome a cui si riferisce.",
       "explain_it": "Lequel si usa quando si sceglie tra elementi già nominati, come l'italiano quale."
+    },
+    {
+      "id": "L025-e37",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Je connais ___ restaurants dans le quartier.",
+      "answers": [
+        "plusieurs"
+      ],
+      "prompt": "Conosco diversi ristoranti nel quartiere.",
+      "explain_it": "Plusieurs è sempre plurale e non cambia al femminile."
+    },
+    {
+      "id": "L025-e38",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Il ristorante è a cento metri da qui.",
+      "answers": [
+        "Le restaurant est à cent mètres d'ici."
+      ],
+      "explain_it": "Mètre è maschile: cent mètres, con la -s del plurale."
     }
   ]
 }

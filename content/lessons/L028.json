@@ -109,6 +109,24 @@
       "it": "dimenticare",
       "pos": "v",
       "note": "je n'oublie pas"
+    },
+    {
+      "fr": "avoir peur",
+      "it": "avere paura",
+      "pos": "expr",
+      "note": "je n'ai pas peur"
+    },
+    {
+      "fr": "avoir sommeil",
+      "it": "avere sonno",
+      "pos": "expr",
+      "note": "elle a sommeil"
+    },
+    {
+      "fr": "avoir tort",
+      "it": "avere torto",
+      "pos": "expr",
+      "note": "contrario di avoir raison"
     }
   ],
   "expressions": [
@@ -700,6 +718,30 @@
       "level": 3,
       "concept": "pronoun-cod",
       "text": "Il peut les finir avant midi."
+    },
+    {
+      "id": "L028-e44",
+      "type": "write",
+      "level": 2,
+      "concept": "avoir",
+      "prompt": "Hai paura? No, ho sonno.",
+      "answers": [
+        "Tu as peur ? Non, j'ai sommeil"
+      ],
+      "explain_it": "Avoir peur e avoir sommeil si costruiscono con avoir + nome, come avoir faim."
+    },
+    {
+      "id": "L028-e45",
+      "type": "cloze",
+      "level": 2,
+      "concept": "avoir",
+      "text": "Ils n'ont pas ___ : le service est compris.",
+      "answers": [
+        "tort"
+      ],
+      "hint": "(avoir ...)",
+      "prompt": "Non hanno torto: il servizio è compreso.",
+      "explain_it": "Avoir tort è l'opposto di avoir raison."
     }
   ]
 }

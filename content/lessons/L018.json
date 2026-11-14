@@ -223,6 +223,100 @@
       "it": "prendere",
       "pos": "v",
       "note": "nous prenons; prendre rendez-vous"
+    },
+    {
+      "fr": "août (m.)",
+      "it": "agosto",
+      "pos": "n"
+    },
+    {
+      "fr": "décembre (m.)",
+      "it": "dicembre",
+      "pos": "n"
+    },
+    {
+      "fr": "novembre (m.)",
+      "it": "novembre",
+      "pos": "n"
+    },
+    {
+      "fr": "octobre (m.)",
+      "it": "ottobre",
+      "pos": "n"
+    },
+    {
+      "fr": "septembre (m.)",
+      "it": "settembre",
+      "pos": "n"
+    },
+    {
+      "fr": "juillet (m.)",
+      "it": "luglio",
+      "pos": "n"
+    },
+    {
+      "fr": "juin (m.)",
+      "it": "giugno",
+      "pos": "n"
+    },
+    {
+      "fr": "mars (m.)",
+      "it": "marzo",
+      "pos": "n"
+    },
+    {
+      "fr": "mardi (m.)",
+      "it": "martedì",
+      "pos": "n",
+      "note": "giorni senza maiuscola"
+    },
+    {
+      "fr": "mercredi (m.)",
+      "it": "mercoledì",
+      "pos": "n"
+    },
+    {
+      "fr": "vendredi (m.)",
+      "it": "venerdì",
+      "pos": "n"
+    },
+    {
+      "fr": "samedi (m.)",
+      "it": "sabato",
+      "pos": "n"
+    },
+    {
+      "fr": "dimanche (m.)",
+      "it": "domenica",
+      "pos": "n"
+    },
+    {
+      "fr": "déjà",
+      "it": "già",
+      "pos": "adv"
+    },
+    {
+      "fr": "passer",
+      "it": "trascorrere; passare",
+      "pos": "v",
+      "note": "mes parents passent trois semaines chez nous"
+    },
+    {
+      "fr": "l'exemple (m.)",
+      "it": "l'esempio",
+      "pos": "n",
+      "note": "par exemple = per esempio"
+    },
+    {
+      "fr": "le mariage",
+      "it": "il matrimonio",
+      "pos": "n"
+    },
+    {
+      "fr": "l'agence de voyages (f.)",
+      "it": "l'agenzia di viaggi",
+      "pos": "n",
+      "note": "voyages al plurale"
     }
   ],
   "expressions": [
@@ -820,6 +914,29 @@
       "explain_it": "Je regrette è più cortese di un semplice 'non posso'.",
       "front": "Come si rifiuta un invito con cortesia in francese?",
       "back": "Je regrette, mais... (Mi dispiace, ma...)."
+    },
+    {
+      "id": "L018-e46",
+      "type": "write",
+      "level": 2,
+      "prompt": "Passiamo luglio dai miei genitori.",
+      "answers": [
+        "Nous passons [le mois de |]juillet chez mes parents."
+      ],
+      "concept": "time-date",
+      "explain_it": "I giorni e i mesi non vogliono la maiuscola in francese."
+    },
+    {
+      "id": "L018-e47",
+      "type": "write",
+      "level": 2,
+      "prompt": "Sabato e domenica siamo liberi.",
+      "answers": [
+        "Nous sommes libres [le |]samedi et [le |]dimanche.",
+        "Samedi et dimanche, nous sommes libres."
+      ],
+      "concept": "vocab",
+      "explain_it": "Senza articolo = ogni sabato/domenica in generale; con le = ogni volta."
     }
   ]
 }

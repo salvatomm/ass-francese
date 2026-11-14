@@ -1,7 +1,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { expand, normalize, check, grade, newState, buildSession, deriveItems, addDays, wordDiff,
-  streakDays, requeue, lessonItems, FIX_DAYS } from '../core.js';
+  streakDays, requeue, lessonItems, entryAnswers, sayable, FIX_DAYS } from '../core.js';
 
 test('expand alternatives and optional parts', () => {
   assert.deepEqual(expand("s'il [vous|te] plaît"), ["s'il vous plaît", "s'il te plaît"]);
@@ -50,6 +50,20 @@ test('addDays crosses month and DST boundaries', () => {
   assert.equal(addDays('2026-10-31', 1), '2026-11-01');
   assert.equal(addDays('2026-03-28', 2), '2026-03-30');
   assert.equal(addDays('2026-01-01', -1), '2025-12-31');
+});
+
+test('entryAnswers: every documented vocab form gives typeable answers', () => {
+  const ok = (fr, typed) => typed.forEach(t => assert.equal(check(t, entryAnswers(fr)).score, 1, `${fr} ← ${t}`));
+  ok('grand / grande', ['grand', 'grande']);
+  ok('le joueur / la joueuse', ['le joueur', 'la joueuse']);
+  ok('désolé(e)', ['désolé', 'désolée']);
+  ok("l'artiste (m./f.)", ["l'artiste"]);
+  ok('les gens (m. pl.)', ['les gens']);
+  ok("le carnet (d'adresses)", ['le carnet', "le carnet d'adresses"]);
+  ok('Je suis pressé(e)', ['Je suis pressé', 'Je suis pressée']);
+  assert.equal(check('grand / grande', entryAnswers('grand / grande')).score, 0);
+  assert.equal(sayable('grand / grande'), 'grand, grande');
+  assert.equal(sayable("l'hôtel (m.)"), "l'hôtel");
 });
 
 test('deriveItems: stable ids, article kept, annotation stripped', () => {

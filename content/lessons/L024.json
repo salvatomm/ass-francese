@@ -137,9 +137,10 @@
       "note": "pl. les oreilles"
     },
     {
-      "fr": "le genou (les genoux)",
+      "fr": "le genou",
       "it": "il ginocchio",
-      "pos": "n"
+      "pos": "n",
+      "note": "pl. les genoux"
     },
     {
       "fr": "droit / droite",
@@ -258,6 +259,36 @@
       "fr": "ensuite",
       "it": "poi, in seguito",
       "pos": "adv"
+    },
+    {
+      "fr": "s'asseoir",
+      "it": "sedersi",
+      "pos": "v",
+      "note": "imperativo: asseyez-vous"
+    },
+    {
+      "fr": "donner",
+      "it": "dare",
+      "pos": "v",
+      "note": "je vous donne"
+    },
+    {
+      "fr": "falloir",
+      "it": "occorrere, bisognare",
+      "pos": "v",
+      "note": "solo impersonale: il faut"
+    },
+    {
+      "fr": "le soir",
+      "it": "la sera",
+      "pos": "n",
+      "note": "le matin, le midi, le soir"
+    },
+    {
+      "fr": "le verre",
+      "it": "il bicchiere",
+      "pos": "n",
+      "note": "un verre d'eau"
     }
   ],
   "expressions": [
@@ -945,6 +976,29 @@
         "avons"
       ],
       "explain_it": "Avoir de la fièvre: si dice de la fièvre, con de la davanti al nome."
+    },
+    {
+      "id": "L024-e49",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Il faut avaler les comprimés avec un grand ___ d'eau.",
+      "answers": [
+        "verre"
+      ],
+      "prompt": "Bisogna ingoiare le compresse con un grande bicchiere d'acqua.",
+      "explain_it": "Un verre d'eau: un bicchiere d'acqua."
+    },
+    {
+      "id": "L024-e50",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Le do uno sciroppo per la sera.",
+      "answers": [
+        "Je vous donne un sirop pour le soir."
+      ],
+      "explain_it": "Donner si coniuga come un verbo in -er: je donne."
     }
   ]
 }

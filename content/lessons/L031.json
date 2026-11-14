@@ -128,12 +128,12 @@
       "note": "en argent: d'argento"
     },
     {
-      "fr": "sophistiqué, sophistiquée",
+      "fr": "sophistiqué / sophistiquée",
       "it": "sofisticato, sofisticata",
       "pos": "adj"
     },
     {
-      "fr": "connecté, connectée",
+      "fr": "connecté / connectée",
       "it": "connesso, connessa",
       "pos": "adj"
     },
@@ -161,12 +161,12 @@
       "note": "je vous assure: vi assicuro"
     },
     {
-      "fr": "certain, certaine",
+      "fr": "certain / certaine",
       "it": "certo, sicuro",
       "pos": "adj"
     },
     {
-      "fr": "content, contente",
+      "fr": "content / contente",
       "it": "contento, contenta",
       "pos": "adj"
     },
@@ -239,7 +239,7 @@
       "note": "ça marche: funziona, va bene"
     },
     {
-      "fr": "sûr, sûre",
+      "fr": "sûr / sûre",
       "it": "sicuro, sicura",
       "pos": "adj",
       "note": "attenzione: sur (su) si pronuncia uguale"
@@ -260,6 +260,24 @@
       "it": "fuori",
       "pos": "prep",
       "note": "hors de + nome"
+    },
+    {
+      "fr": "la médaille",
+      "it": "la medaglia",
+      "pos": "n",
+      "note": "la médaille d'argent = medaglia d'argento"
+    },
+    {
+      "fr": "le hors-d'œuvre",
+      "it": "l'antipasto",
+      "pos": "n",
+      "note": "invariabile al plurale: des hors-d'œuvre"
+    },
+    {
+      "fr": "pire",
+      "it": "peggiore, peggio",
+      "pos": "adj",
+      "note": "comparativo di mauvais; in 'tant pis' è la forma letteraria 'pis'"
     }
   ],
   "expressions": [
@@ -821,6 +839,33 @@
       "front": "Qual è la differenza tra «sur» e «sûr»?",
       "back": "sur è la preposizione «su» (sur la table = sul tavolo); sûr è l'aggettivo «sicuro» con circonflesso (je suis sûr = sono sicuro).",
       "explain_it": "Si pronunciano allo stesso modo: si distinguono solo per il circonflesso e per la funzione grammaticale."
+    },
+    {
+      "id": "L031-e43",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Elle a gagné la ___ d'argent.",
+      "answers": [
+        "médaille"
+      ],
+      "hint": "(medaglia)",
+      "prompt": "Ha vinto la medaglia d'argento.",
+      "explain_it": "La médaille d'argent: argent + de, come nella nota 6 della lezione."
+    },
+    {
+      "id": "L031-e44",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Prendo una zuppa come antipasto.",
+      "answers": [
+        "Je prends une soupe comme hors-d'œuvre.",
+        "Comme hors-d'œuvre, je prends une soupe.",
+        "Je prends de la soupe comme hors-d'œuvre.",
+        "Comme hors-d'œuvre, je prends de la soupe."
+      ],
+      "explain_it": "Hors-d'œuvre significa 'antipasto' (letteralmente 'fuori opera')."
     }
   ]
 }

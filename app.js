@@ -145,9 +145,9 @@ function theoryScreen(n) {
     ${L.grammar.map(g => `<div class="rule"><b>${h(g.title_it)}</b><p>${h(g.explain_it)}</p>
       ${(g.examples || []).map(e => `<p class="ex">${sp(e.fr)}<span lang="fr">${h(e.fr)}</span><small>${h(e.it)}</small></p>`).join('')}</div>`).join('')}
     ${L.vocab.length ? `<h3>Vocabolario</h3><table class="vocab">${L.vocab.map(v =>
-      `<tr><td>${sp(v.fr.replace(/\s*\([^)]*\)/g, ''))}</td><td lang="fr">${h(v.fr)}</td><td>${h(v.it)}${v.note ? `<small>${h(v.note)}</small>` : ''}</td></tr>`).join('')}</table>` : ''}
+      `<tr><td>${sp(C.sayable(v.fr))}</td><td lang="fr">${h(v.fr)}</td><td>${h(v.it)}${v.note ? `<small>${h(v.note)}</small>` : ''}</td></tr>`).join('')}</table>` : ''}
     ${L.expressions.length ? `<h3>Espressioni</h3><table class="vocab">${L.expressions.map(x =>
-      `<tr><td>${sp(x.fr)}</td><td lang="fr">${h(x.fr)}</td><td>${h(x.it)}${x.note ? `<small>${h(x.note)}</small>` : ''}</td></tr>`).join('')}</table>` : ''}
+      `<tr><td>${sp(C.sayable(x.fr))}</td><td lang="fr">${h(x.fr)}</td><td>${h(x.it)}${x.note ? `<small>${h(x.note)}</small>` : ''}</td></tr>`).join('')}</table>` : ''}
     ${(L.notes_it || []).length ? `<h3>Note</h3><ul>${L.notes_it.map(t => `<li>${h(t)}</li>`).join('')}</ul>` : ''}
   </article>`;
 }
@@ -281,7 +281,7 @@ function flashView(x) {
   const frontFr = x.kind === 'vocab' && x.speak;
   return `<p class="ask">${x.kind === 'rule' ? 'Ricordi la regola?' : 'Ricordi la risposta?'}</p>
     <div class="flash"><div class="front">${frontFr ? sp(x.speak) : ''}<span ${frontFr ? 'lang="fr"' : ''}>${h(x.front)}</span></div>
-    <div class="back" hidden><p>${x.kind === 'vocab' && !frontFr ? sp(x.back.replace(/\s*\([^)]*\)/g, '')) : ''}<b>${h(x.back)}</b></p>
+    <div class="back" hidden><p>${x.kind === 'vocab' && !frontFr ? sp(C.sayable(x.back)) : ''}<b>${h(x.back)}</b></p>
       ${x.note ? `<p class="muted">${h(x.note)}</p>` : ''}${ex}</div></div>
     <button class="primary wide" data-act="reveal">Mostra</button>
     <div class="grade" hidden><button class="bad" data-act="self" data-s="0">No</button>
@@ -429,7 +429,7 @@ const A = {
     document.querySelector('.grade').hidden = false;
     e.target.closest('button').hidden = true;
     const x = S.session.queue[S.session.pos];
-    if (x.kind === 'vocab' && !x.speak) speak(x.back.replace(/\s*\([^)]*\)/g, ''));
+    if (x.kind === 'vocab' && !x.speak) speak(C.sayable(x.back));
   },
   self: async d => {
     const x = S.session.queue[S.session.pos], score = Number(d.s);
@@ -484,7 +484,7 @@ const A = {
   saveSync: async () => {
     await db.kvSet('sync', { url: document.getElementById('surl').value.trim(),
       key: document.getElementById('skey').value.trim(), syncKey: document.getElementById('ssk').value });
-    await db.kvSet('pulledAt', '1970-01-01T00:00:00Z');
+    await db.kvSet('cursors', {});   // new or changed server: pull everything again
     const r = await sync();
     toast(r.msg, 4000);
     if (r.ok) await reload();
@@ -589,7 +589,10 @@ if ('serviceWorker' in navigator) {
     const offer = w => {
       const b = document.getElementById('update');
       b.hidden = false;
-      b.onclick = () => w.postMessage('skipWaiting');
+      b.onclick = () => {   // reload only for an update the user accepted, not for the first install's claim()
+        navigator.serviceWorker.addEventListener('controllerchange', () => location.reload(), { once: true });
+        w.postMessage('skipWaiting');
+      };
     };
     if (reg.waiting) offer(reg.waiting);
     reg.addEventListener('updatefound', () => {
@@ -597,8 +600,6 @@ if ('serviceWorker' in navigator) {
       w.addEventListener('statechange', () => { if (w.state === 'installed' && navigator.serviceWorker.controller) offer(w); });
     });
   }).catch(e => console.warn('service worker not registered:', e));
-  let reloading = false;
-  navigator.serviceWorker.addEventListener('controllerchange', () => { if (!reloading) { reloading = true; location.reload(); } });
 }
 
 (async () => {

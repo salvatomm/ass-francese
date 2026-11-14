@@ -256,6 +256,44 @@
       "fr": "trop",
       "it": "troppo",
       "pos": "adv"
+    },
+    {
+      "fr": "cent",
+      "it": "cento",
+      "pos": "num",
+      "note": "con multiplo senza altro numero prende -s: trois cents"
+    },
+    {
+      "fr": "le gramme",
+      "it": "il grammo",
+      "pos": "n"
+    },
+    {
+      "fr": "la partie",
+      "it": "la parte",
+      "pos": "n",
+      "note": "nel titolo: Première partie"
+    },
+    {
+      "fr": "premier",
+      "it": "primo",
+      "pos": "adj",
+      "note": "f. première"
+    },
+    {
+      "fr": "quelque chose",
+      "it": "qualcosa",
+      "pos": "pron"
+    },
+    {
+      "fr": "quelque part",
+      "it": "da qualche parte",
+      "pos": "adv"
+    },
+    {
+      "fr": "quelqu'un",
+      "it": "qualcuno",
+      "pos": "pron"
     }
   ],
   "expressions": [
@@ -748,6 +786,29 @@
       "front": "Cent e cents: quando prende la -s?",
       "back": "Cent prende la -s solo quando è l'ultima parola del numero: deux cents, trois cents. Se è seguito da un altro numero, la -s cade: deux cent cinq.",
       "note": "Trois cents grammes, ma trois cent cinq grammes."
+    },
+    {
+      "id": "L011-e38",
+      "type": "cloze",
+      "level": 2,
+      "concept": "numbers",
+      "text": "Je voudrais trois ___ de champignons, s'il vous plaît.",
+      "answers": [
+        "cents grammes"
+      ],
+      "prompt": "Vorrei trecento grammi di funghi, per favore.",
+      "explain_it": "Trois cents ha la -s perché cent è moltiplicato e non seguito da un altro numero; gramme è maschile (le gramme)."
+    },
+    {
+      "id": "L011-e39",
+      "type": "write",
+      "level": 2,
+      "concept": "indefinites",
+      "prompt": "Volete qualcosa?",
+      "answers": [
+        "[Vous voulez|Voulez-vous|Est-ce que vous voulez] quelque chose ?"
+      ],
+      "explain_it": "Quelque chose significa qualcosa ed è invariabile; non ha preposizione prima del verbo."
     }
   ]
 }

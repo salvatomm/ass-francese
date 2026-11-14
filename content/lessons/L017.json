@@ -244,6 +244,22 @@
       "fr": "donc",
       "it": "quindi, dunque",
       "pos": "conj"
+    },
+    {
+      "fr": "presque",
+      "it": "quasi",
+      "pos": "adv"
+    },
+    {
+      "fr": "précisément",
+      "it": "precisamente",
+      "pos": "adv"
+    },
+    {
+      "fr": "vers",
+      "it": "verso; verso le (ore)",
+      "pos": "prep",
+      "note": "con le ore: vers dix-sept heures"
     }
   ],
   "expressions": [
@@ -868,6 +884,32 @@
       "concept": "il-y-a",
       "text": "Quelles sont les choses à voir ? Il y a beaucoup de musées.",
       "explain_it": "Quelles si accorda con choses, femminile plurale; il y a resta invariato."
+    },
+    {
+      "id": "L017-e47",
+      "type": "cloze",
+      "level": 2,
+      "text": "Il est ___ midi : nous avons le temps.",
+      "answers": [
+        "presque"
+      ],
+      "hint": "(quasi)",
+      "prompt": "È quasi mezzogiorno: abbiamo tempo.",
+      "concept": "time-date",
+      "explain_it": "Presque significa 'quasi', vers indica un'ora approssimativa."
+    },
+    {
+      "id": "L017-e48",
+      "type": "cloze",
+      "level": 2,
+      "text": "Mon rendez-vous est ___ dix-sept heures.",
+      "answers": [
+        "vers"
+      ],
+      "hint": "(verso)",
+      "prompt": "Il mio appuntamento è verso le diciassette.",
+      "concept": "vocab",
+      "explain_it": "Vers + ora = intorno a quell'ora."
     }
   ]
 }

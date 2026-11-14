@@ -246,6 +246,51 @@
       "fr": "la semaine",
       "it": "la settimana",
       "pos": "n"
+    },
+    {
+      "fr": "Allô ?",
+      "it": "Pronto?",
+      "pos": "interj",
+      "note": "solo al telefono"
+    },
+    {
+      "fr": "après-demain",
+      "it": "dopodomani",
+      "pos": "adv"
+    },
+    {
+      "fr": "l'autoroute (f.)",
+      "it": "l'autostrada",
+      "pos": "n"
+    },
+    {
+      "fr": "nettoyer",
+      "it": "pulire",
+      "pos": "v",
+      "note": "je nettoie"
+    },
+    {
+      "fr": "rendre",
+      "it": "restituire",
+      "pos": "v",
+      "note": "3° gruppo come vendre; rendre qc à qn"
+    },
+    {
+      "fr": "sans",
+      "it": "senza",
+      "pos": "prep"
+    },
+    {
+      "fr": "la sortie",
+      "it": "l'uscita",
+      "pos": "n",
+      "note": "quitter l'autoroute à la sortie 30"
+    },
+    {
+      "fr": "la voix",
+      "it": "la voce",
+      "pos": "n",
+      "note": "invariabile al plurale: les voix"
     }
   ],
   "expressions": [
@@ -902,6 +947,31 @@
       "concept": "imperative",
       "text": "Ne quittez pas, je reviens tout de suite.",
       "explain_it": "Ne quittez pas è l'imperativo negativo di vous; ne...pas circonda il verbo."
+    },
+    {
+      "id": "L030-e47",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Dopodomani ti restituisco l'aspirapolvere.",
+      "answers": [
+        "Après-demain, je [te|vous] rends l'aspirateur",
+        "Je [te|vous] rends l'aspirateur après-demain"
+      ],
+      "explain_it": "Rendre = restituire; je rends, come vendre."
+    },
+    {
+      "id": "L030-e48",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Nous sommes à la campagne, ___ antenne de téléphone.",
+      "answers": [
+        "sans"
+      ],
+      "hint": "(senza)",
+      "prompt": "Siamo in campagna, senza antenna del telefono.",
+      "explain_it": "Sans = senza, e non vuole l'articolo davanti al nome."
     }
   ]
 }

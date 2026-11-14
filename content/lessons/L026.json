@@ -189,6 +189,81 @@
       "fr": "dans ce cas",
       "it": "in questo caso",
       "pos": "expr"
+    },
+    {
+      "fr": "apporter",
+      "it": "portare",
+      "pos": "v",
+      "note": "je vous apporte le menu"
+    },
+    {
+      "fr": "arriver",
+      "it": "arrivare",
+      "pos": "v",
+      "note": "j'arrive = arrivo subito"
+    },
+    {
+      "fr": "la bière",
+      "it": "la birra",
+      "pos": "n"
+    },
+    {
+      "fr": "la carte des vins",
+      "it": "la lista dei vini",
+      "pos": "n",
+      "note": "non 'le menu des vins'"
+    },
+    {
+      "fr": "conseiller",
+      "it": "consigliare",
+      "pos": "v",
+      "note": "conseiller de + infinito"
+    },
+    {
+      "fr": "la facture",
+      "it": "la fattura",
+      "pos": "n",
+      "note": "il conto al ristorante è l'addition"
+    },
+    {
+      "fr": "froid",
+      "it": "freddo",
+      "pos": "adj",
+      "note": "f. froide"
+    },
+    {
+      "fr": "juste",
+      "it": "solo, soltanto",
+      "pos": "adv",
+      "note": "qui avverbio, come 'just' in inglese"
+    },
+    {
+      "fr": "le menu",
+      "it": "il menù a prezzo fisso",
+      "pos": "n",
+      "note": "diverso da la carte (alla carta)"
+    },
+    {
+      "fr": "la note",
+      "it": "il conto",
+      "pos": "n",
+      "note": "sinonimo di l'addition"
+    },
+    {
+      "fr": "saigner",
+      "it": "sanguinare",
+      "pos": "v",
+      "note": "da cui saignant"
+    },
+    {
+      "fr": "sinon",
+      "it": "altrimenti, se no",
+      "pos": "conj"
+    },
+    {
+      "fr": "la table",
+      "it": "il tavolo",
+      "pos": "n"
     }
   ],
   "expressions": [
@@ -644,6 +719,30 @@
       "concept": "register",
       "text": "Si vous voulez bien me suivre, je vous conseille l'entrecôte saignante avec des frites.",
       "explain_it": "La forma cortese si vous voulez bien introduce la richiesta; le frasi successive usano il vous di cortesia."
+    },
+    {
+      "id": "L026-e33",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Ti porto la lista dei vini.",
+      "answers": [
+        "Je [t'|vous] apporte la carte des vins"
+      ],
+      "explain_it": "Apporter = portare (qualcosa a qualcuno); la lista dei vini è la carte des vins."
+    },
+    {
+      "id": "L026-e34",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Je prends ___ une bouteille d'eau minérale.",
+      "answers": [
+        "juste"
+      ],
+      "hint": "(solo)",
+      "prompt": "Prendo solo una bottiglia d'acqua minerale.",
+      "explain_it": "Juste davanti a un nome significa «solo»."
     }
   ]
 }

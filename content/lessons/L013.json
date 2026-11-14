@@ -247,6 +247,23 @@
       "it": "tutto",
       "pos": "pron",
       "note": "pronome invariabile"
+    },
+    {
+      "fr": "la chose",
+      "it": "la cosa",
+      "pos": "n"
+    },
+    {
+      "fr": "possible",
+      "it": "possibile",
+      "pos": "adj",
+      "note": "Ce n'est pas possible"
+    },
+    {
+      "fr": "venir",
+      "it": "venire",
+      "pos": "v",
+      "note": "venez = imperativo con vous"
     }
   ],
   "expressions": [
@@ -789,6 +806,29 @@
         "Est-ce que vous pouvez envoyer le code ?"
       ],
       "explain_it": "Pouvez con vous è la forma di cortesia per chiedere un favore; envoyer resta all'infinito."
+    },
+    {
+      "id": "L013-e40",
+      "type": "write",
+      "level": 2,
+      "concept": "imperative",
+      "prompt": "Venite a vedere il mio nuovo telefono!",
+      "answers": [
+        "Venez voir mon nouveau téléphone !"
+      ],
+      "explain_it": "Venez è la forma di venir con vous usata come imperativo; l'infinito voir segue senza preposizione."
+    },
+    {
+      "id": "L013-e41",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Ce n'est pas ___ aujourd'hui.",
+      "answers": [
+        "possible"
+      ],
+      "prompt": "Oggi non è possibile.",
+      "explain_it": "Possible è invariabile al maschile e al femminile e si usa nella formula Ce n'est pas possible."
     }
   ]
 }
