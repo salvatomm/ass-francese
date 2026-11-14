@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+# the book PDFs stay out of git
+source/
+*.pdf
