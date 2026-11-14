@@ -252,6 +252,104 @@
       "fr": "le bâtiment",
       "it": "l'edificio",
       "pos": "n"
+    },
+    {
+      "fr": "adopter",
+      "it": "adottare",
+      "pos": "v"
+    },
+    {
+      "fr": "centenaire",
+      "it": "centenario",
+      "pos": "adj",
+      "note": "più che centenaire = ha più di cent'anni"
+    },
+    {
+      "fr": "la cheminée",
+      "it": "il camino, la ciminiera",
+      "pos": "n"
+    },
+    {
+      "fr": "dont",
+      "it": "di cui, del quale",
+      "pos": "pron",
+      "note": "pronome relativo: un symbole dont la France est fière"
+    },
+    {
+      "fr": "un entrepreneur / une entrepreneuse",
+      "it": "un imprenditore / un'imprenditrice",
+      "pos": "n"
+    },
+    {
+      "fr": "épouser",
+      "it": "sposare",
+      "pos": "v",
+      "note": "transitivo diretto: épouser quelqu'un"
+    },
+    {
+      "fr": "la fierté",
+      "it": "l'orgoglio",
+      "pos": "n"
+    },
+    {
+      "fr": "gigantesque",
+      "it": "gigantesco",
+      "pos": "adj",
+      "note": "invariabile al femminile"
+    },
+    {
+      "fr": "inspirer",
+      "it": "ispirare",
+      "pos": "v"
+    },
+    {
+      "fr": "magnifique",
+      "it": "magnifico",
+      "pos": "adj",
+      "note": "invariabile al femminile"
+    },
+    {
+      "fr": "les origines (f. pl.)",
+      "it": "le origini",
+      "pos": "n",
+      "note": "d'origine basque = di origine basca"
+    },
+    {
+      "fr": "recommander",
+      "it": "raccomandare, consigliare",
+      "pos": "v"
+    },
+    {
+      "fr": "récupérer",
+      "it": "recuperare",
+      "pos": "v"
+    },
+    {
+      "fr": "le symbole",
+      "it": "il simbolo",
+      "pos": "n"
+    },
+    {
+      "fr": "la téléphonie",
+      "it": "la telefonia",
+      "pos": "n"
+    },
+    {
+      "fr": "destiner (à)",
+      "it": "destinare",
+      "pos": "v",
+      "note": "être destiné à = essere destinato a"
+    },
+    {
+      "fr": "universel / universelle",
+      "it": "universale",
+      "pos": "adj"
+    },
+    {
+      "fr": "vif / vive",
+      "it": "vivace, vivo",
+      "pos": "adj",
+      "note": "l'avverbio è vivement"
     }
   ],
   "expressions": [
@@ -789,6 +887,30 @@
       "hint": "(vendre, passato prossimo)",
       "prompt": "Quel truffatore ha venduto la torre a un uomo ingenuo.",
       "explain_it": "Con avoir il passato prossimo si forma con a + participio vendu (da vendre)."
+    },
+    {
+      "id": "L071-e40",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-position",
+      "prompt": "Questa torre è un magnifico simbolo della Francia.",
+      "answers": [
+        "Cette tour est [un magnifique symbole|un symbole magnifique] de la France."
+      ],
+      "explain_it": "Magnifique può stare prima o dopo il nome; il femminile è invariato."
+    },
+    {
+      "id": "L071-e41",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Je vous ___ ce guide : il est très bien.",
+      "answers": [
+        "recommande"
+      ],
+      "hint": "(recommander, presente)",
+      "prompt": "Vi consiglio questa guida: è molto buona.",
+      "explain_it": "Recommander è regolare in -er: je recommande."
     }
   ]
 }

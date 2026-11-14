@@ -10,7 +10,7 @@
     {
       "id": "idioms",
       "title_it": "Modi di dire con gli animali",
-      "explain_it": "Molte espressioni francesi usano un animale come immagine (un lapin, un chien, un poisson, un loup, un chat). Non vanno tradotte parola per parola: vanno imparate come blocchi fissi, perché l'animale non si può cambiare (si dice « avoir le cafard », non « avoir le chien »). Alcune hanno lo stesso paragone in italiano (être heureux comme un poisson dans l'eau, avoir une faim de loup); altre no (poser un lapin = dare buca; passer du coq à l'âne = saltare di palo in frasca). La struttura « comme un + animale » è un paragone rafforzativo, come l'italiano « come un cane ».",
+      "explain_it": "Molte espressioni francesi usano un animale come immagine (un lapin, un chien, un poisson, un loup, un chat). Non vanno tradotte parola per parola: vanno imparate come blocchi fissi, perché l'animale non si può cambiare. Alcune hanno lo stesso paragone in italiano (heureux comme un poisson dans l'eau, avoir une faim de loup); altre no (poser un lapin = dare buca; passer du coq à l'âne = saltare di palo in frasca). La struttura « comme un + animale » è un paragone rafforzativo, come l'italiano « come un cane ».",
       "examples": [
         {
           "fr": "Il m'a posé un lapin.",
@@ -29,7 +29,7 @@
     {
       "id": "plural",
       "title_it": "Plurale irregolare: cheval → chevaux",
-      "explain_it": "Il sostantivo cheval (cavallo) fa il plurale in -aux, non in -s: des chevaux. Lo stesso vale per animal (animaux) e journal (journaux). I sostantivi in -eau prendono una -x (agneau → agneaux). L'errore tipico di chi parla italiano è scrivere « chevals » aggiungendo una -s come di consueto: queste forme vanno memorizzate una per una.",
+      "explain_it": "Di norma i nomi in -al fanno il plurale in -aux: cheval → chevaux, animal → animaux, journal → journaux (qualche eccezione, come un bal → des bals). I nomi in -eau prendono -x (agneau → agneaux). L'errore tipico di chi parla italiano è scrivere « chevals » aggiungendo la -s come di consueto: queste forme vanno memorizzate.",
       "examples": [
         {
           "fr": "Il y a deux chevaux dans le pré.",
@@ -44,7 +44,7 @@
     {
       "id": "adjectives-irregular",
       "title_it": "Il femminile di malin: maligne",
-      "explain_it": "L'aggettivo malin (furbo, astuto) fa il femminile in -igne: maligne. Attenzione al falso amico: nel francese di tutti i giorni malin vuol dire « furbo, sveglio » e non « maligno » nel senso italiano del termine, che in francese si rende con malveillant o méchant. Al femminile l'accordo segue il sostantivo: une femme maligne, une fille maligne.",
+      "explain_it": "L'aggettivo malin (furbo, astuto) fa il femminile in -igne: maligne. Nel francese di tutti i giorni vuol dire « furbo, sveglio »; il senso « maligno » esiste soprattutto in medicina (une tumeur maligne), mentre per una persona cattiva si dice méchant o malveillant. L'accordo segue il sostantivo: une femme maligne, une fille maligne.",
       "examples": [
         {
           "fr": "Elle est très maligne, cette petite.",
@@ -277,7 +277,7 @@
     },
     {
       "fr": "donner sa langue au chat",
-      "it": "darsi per vinto",
+      "it": "rinunciare a indovinare, arrendersi",
       "note": "si dice quando non si riesce a indovinare"
     },
     {
@@ -289,7 +289,7 @@
   "notes_it": [
     "Pronuncia: lapin si legge circa [lapɛ̃]. La n non si pronuncia come consonante ma rende la vocale nasale, e la parola finisce senza suono.",
     "Falso amico: malin significa « furbo, astuto » e non « maligno »; in italiano « maligno » corrisponde piuttosto a méchant o malveillant.",
-    "Genere: lièvre è maschile in francese, mentre lepre è femminile in italiano. Il genere non si trasporta dall'italiano.",
+    "Genere: lièvre è maschile in francese, mentre lepre è femminile in italiano. Il genere non si trasporta sempre da una lingua all'altra.",
     "Ortografia: fouetter (frustare) ha la doppia t, come nel sostantivo le fouet (la frusta). Anche qui conviene memorizzare la grafia.",
     "Registro: vachement e cafard sono familiari; in un contesto formale o scritto si usano espressioni più neutre, come très o la déprime."
   ],
@@ -346,7 +346,7 @@
       "concept": "idioms",
       "prompt": "Sono felice come un pesce nell'acqua.",
       "answers": [
-        "Je suis heureux comme un poisson dans l'eau."
+        "Je suis [heureux|heureuse] comme un poisson dans l'eau."
       ],
       "distractors": [
         "chat",
@@ -376,7 +376,7 @@
       "concept": "register",
       "prompt": "Fa davvero freddo stamattina.",
       "answers": [
-        "Il fait vachement froid ce matin."
+        "Il fait [vachement|vraiment|très] froid ce matin."
       ],
       "distractors": [
         "vache",
@@ -391,7 +391,7 @@
       "concept": "plural",
       "prompt": "Ci sono due cavalli nel prato.",
       "answers": [
-        "Il y a deux chevaux dans le pré."
+        "Il y a deux chevaux dans [le pré|le champ|la prairie]."
       ],
       "distractors": [
         "chevals"
@@ -403,13 +403,13 @@
       "type": "cloze",
       "level": 1,
       "concept": "passe-compose-avoir",
-      "text": "Hier, nous ___ un bon déjeuner.",
+      "text": "Hier soir, nous ___ très bien mangé.",
       "answers": [
-        "avons pris"
+        "avons"
       ],
-      "hint": "(prendre, passato prossimo)",
-      "prompt": "Ieri abbiamo pranzato bene.",
-      "explain_it": "Prendre un repas è transitivo e vuole avoir; il participio pris al passato prossimo resta come da regola."
+      "hint": "(avoir, presente)",
+      "prompt": "Ieri sera abbiamo mangiato molto bene.",
+      "explain_it": "Manger si coniuga con avoir al passato prossimo: nous avons mangé."
     },
     {
       "id": "L069-e09",
@@ -498,7 +498,8 @@
       "concept": "conditionnel",
       "text": "Si j'avais le temps, je ___ avec toi.",
       "answers": [
-        "déjeunerais"
+        "déjeunerais",
+        "mangerais"
       ],
       "hint": "(déjeuner, conditionnel présent)",
       "prompt": "Se avessi tempo, pranzerei con te.",
@@ -511,8 +512,8 @@
       "concept": "idioms",
       "prompt": "Ieri mi ha dato buca.",
       "answers": [
-        "Hier, il m'a posé un lapin.",
-        "Il m'a posé un lapin hier."
+        "Hier, [il|elle] m'a posé un lapin.",
+        "[Il|Elle] m'a posé un lapin hier."
       ],
       "explain_it": "Poser un lapin è il modo idiomatico per dire « dare buca »; non tradurre con donner un rendez-vous."
     },
@@ -534,8 +535,7 @@
       "concept": "imparfait",
       "prompt": "Avevo la febbre alta.",
       "answers": [
-        "J'avais [une forte|une haute] fièvre.",
-        "J'avais de la fièvre."
+        "J'avais [une forte fièvre|une fièvre élevée|beaucoup de fièvre|une fièvre de cheval]."
       ],
       "explain_it": "Lo stato di malattia nel passato si esprime con l'imperfetto di avoir."
     },
@@ -557,7 +557,7 @@
       "concept": "register",
       "prompt": "Questo film è davvero molto bello.",
       "answers": [
-        "Ce film est vachement [bien|beau]."
+        "Ce film est [vachement|vraiment|très] [bien|beau]."
       ],
       "explain_it": "Vachement esprime « davvero » in modo familiare e si può usare con bien."
     },
@@ -614,7 +614,9 @@
       "prompt": "Ieri il mio vicino mi ha fatto visita.",
       "answers": [
         "Hier, mon voisin m'a rendu visite.",
-        "Hier, mon voisin est venu me voir."
+        "Mon voisin m'a rendu visite hier.",
+        "Hier, mon voisin est venu me voir.",
+        "Hier, mon voisin est passé me voir."
       ],
       "explain_it": "Rendre visite è transitivo e vuole avoir; venir voir è un verbo di movimento e vuole être."
     },
@@ -626,7 +628,8 @@
       "prompt": "Mentre mangiavo, è arrivato il postino.",
       "answers": [
         "Pendant que je mangeais, le facteur est arrivé.",
-        "Je mangeais quand le facteur est arrivé."
+        "Je mangeais quand le facteur est arrivé.",
+        "Alors que je mangeais, le facteur est arrivé."
       ],
       "explain_it": "L'imperfetto descrive l'azione in corso, il passato prossimo l'evento che interrompe."
     },
@@ -637,7 +640,8 @@
       "concept": "idioms",
       "prompt": "Dopo la malattia ho ripreso le forze.",
       "answers": [
-        "Après ma maladie, j'ai repris du poil de la bête."
+        "Après [ma|la] maladie, j'ai repris du poil de la bête.",
+        "Après [ma|la] maladie, j'ai repris des forces."
       ],
       "explain_it": "Reprendre du poil de la bête significa riprendersi; poil è il pelo degli animali, non cheveu."
     },
@@ -649,7 +653,8 @@
       "prompt": "Mia cugina è una persona molto furba.",
       "answers": [
         "Ma cousine est une personne très maligne.",
-        "Ma cousine est une femme très maligne."
+        "Ma cousine est une femme très maligne.",
+        "Ma cousine est très maligne."
       ],
       "explain_it": "Maligne è il femminile di malin; très resta invariato davanti all'aggettivo."
     },

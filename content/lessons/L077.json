@@ -99,7 +99,37 @@
       ]
     }
   ],
-  "vocab": [],
+  "vocab": [
+    {
+      "fr": "allemand(e)",
+      "it": "tedesco",
+      "pos": "adj",
+      "note": "anche sostantivo: un Allemand, une Allemande"
+    },
+    {
+      "fr": "briller",
+      "it": "brillare",
+      "pos": "v",
+      "note": "Tout ce qui brille n'est pas or"
+    },
+    {
+      "fr": "dernièrement",
+      "it": "ultimamente, di recente",
+      "pos": "adv",
+      "note": "da dernière, forma femminile di dernier"
+    },
+    {
+      "fr": "dorénavant",
+      "it": "d'ora in poi",
+      "pos": "adv"
+    },
+    {
+      "fr": "la profondeur",
+      "it": "la profondità",
+      "pos": "n",
+      "note": "trois mètres de profondeur"
+    }
+  ],
   "expressions": [
     {
       "fr": "Je n'en peux plus.",
@@ -816,6 +846,33 @@
       ],
       "correct": 0,
       "explain_it": "Il verbo pronominale si coniuga con être e il participio concorda con il soggetto femminile: s'est mise."
+    },
+    {
+      "id": "L077-e51",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adverbs",
+      "text": "___, je me lève à sept heures.",
+      "answers": [
+        "Dorénavant"
+      ],
+      "hint": "(d'ora in poi)",
+      "prompt": "D'ora in poi mi alzo alle sette.",
+      "explain_it": "Dorénavant significa 'd'ora in poi' ed è formato su avant; di solito sta a inizio frase."
+    },
+    {
+      "id": "L077-e52",
+      "type": "write",
+      "level": 2,
+      "concept": "adverbs",
+      "prompt": "Ho visto il suo collega tedesco di recente.",
+      "answers": [
+        "J'ai vu son collègue allemand dernièrement.",
+        "J'ai dernièrement vu son collègue allemand.",
+        "J'ai vu son collègue allemand récemment.",
+        "J'ai récemment vu son collègue allemand."
+      ],
+      "explain_it": "Dernièrement (come récemment) sta dopo il verbo o tra ausiliare e participio."
     }
   ]
 }

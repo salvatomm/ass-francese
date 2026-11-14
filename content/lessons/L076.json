@@ -277,6 +277,50 @@
       "it": "una decina",
       "pos": "n",
       "note": "une dizaine de"
+    },
+    {
+      "fr": "la culture",
+      "it": "la cultura",
+      "pos": "n"
+    },
+    {
+      "fr": "général / générale",
+      "it": "generale",
+      "pos": "adj",
+      "note": "m. pl. généraux"
+    },
+    {
+      "fr": "modéré(e)",
+      "it": "moderato",
+      "pos": "adj"
+    },
+    {
+      "fr": "écoulé(e)",
+      "it": "trascorso, scaduto",
+      "pos": "adj",
+      "note": "participio di s'écouler: votre temps est écoulé"
+    },
+    {
+      "fr": "le personnage",
+      "it": "il personaggio",
+      "pos": "n"
+    },
+    {
+      "fr": "quelques-uns / quelques-unes",
+      "it": "alcuni, alcune",
+      "pos": "pron",
+      "note": "quelques-uns des personnages = alcuni dei personaggi"
+    },
+    {
+      "fr": "récent(e)",
+      "it": "recente",
+      "pos": "adj"
+    },
+    {
+      "fr": "le type",
+      "it": "il tipo, il genere",
+      "pos": "n",
+      "note": "ce type de jeux = questo genere di giochi"
     }
   ],
   "expressions": [
@@ -882,6 +926,30 @@
         "Je ne m'y connais pas en football, mais je vais tenter le coup."
       ],
       "explain_it": "Tenter le coup è la formula per 'ci provo', e s'y connaître richiede il pronome y davanti al verbo."
+    },
+    {
+      "id": "L076-e44",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Victor Hugo a créé des ___ mémorables.",
+      "answers": [
+        "personnages"
+      ],
+      "hint": "(le personnage, plurale)",
+      "prompt": "Victor Hugo ha creato personaggi memorabili.",
+      "explain_it": "Personnage è maschile e in francese indica il personaggio di un romanzo o di un film; qui il plurale prende la -s."
+    },
+    {
+      "id": "L076-e45",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "Ho letto un articolo recente sulla cultura generale.",
+      "answers": [
+        "J'ai lu un article récent sur la culture générale."
+      ],
+      "explain_it": "Récent segue il nome maschile; général si accorda con culture (femminile) e diventa générale."
     }
   ]
 }

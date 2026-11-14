@@ -260,6 +260,45 @@
       "fr": "il vous faut",
       "it": "vi serve, vi occorre",
       "pos": "expr"
+    },
+    {
+      "fr": "la botte",
+      "it": "lo stivale",
+      "pos": "n",
+      "note": "les bottes = gli stivali"
+    },
+    {
+      "fr": "la boutique",
+      "it": "il negozio, la boutique",
+      "pos": "n"
+    },
+    {
+      "fr": "la chasse",
+      "it": "la caccia",
+      "pos": "n",
+      "note": "la chasse aux bonnes affaires = la caccia alle occasioni"
+    },
+    {
+      "fr": "décorer",
+      "it": "decorare",
+      "pos": "v"
+    },
+    {
+      "fr": "la plume",
+      "it": "la piuma, la penna",
+      "pos": "n"
+    },
+    {
+      "fr": "la taille",
+      "it": "la taglia, la misura",
+      "pos": "n",
+      "note": "être à sa taille = andare bene di taglia"
+    },
+    {
+      "fr": "aller bien (à)",
+      "it": "stare bene (a), donare",
+      "pos": "expr",
+      "note": "la parka lui va bien; pronome indiretto"
     }
   ],
   "expressions": [
@@ -867,6 +906,29 @@
         "Merci, non."
       ],
       "explain_it": "Il rifiuto gentile è non merci; merci da solo è ambiguo."
+    },
+    {
+      "id": "L074-e45",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Questo cappello ti sta molto bene.",
+      "answers": [
+        "Ce chapeau [te|vous] va [très|] bien."
+      ],
+      "explain_it": "Aller bien à qqn: il pronome è indiretto (te, vous). Très è facoltativo."
+    },
+    {
+      "id": "L074-e46",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Ma femme cherche des ___ noires dans cette boutique.",
+      "answers": [
+        "bottes"
+      ],
+      "prompt": "Mia moglie cerca degli stivali neri in questo negozio.",
+      "explain_it": "Bottes è femminile plurale: les bottes."
     }
   ]
 }

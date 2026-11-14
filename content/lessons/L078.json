@@ -253,6 +253,52 @@
       "fr": "le chèque",
       "it": "l'assegno",
       "pos": "n"
+    },
+    {
+      "fr": "l'ascension (f.)",
+      "it": "l'ascensione",
+      "pos": "n",
+      "note": "le pont de l'Ascension = il ponte dell'Ascensione"
+    },
+    {
+      "fr": "la cigale",
+      "it": "la cicala",
+      "pos": "n"
+    },
+    {
+      "fr": "former",
+      "it": "formare",
+      "pos": "v",
+      "note": "les voyages forment la jeunesse"
+    },
+    {
+      "fr": "l'herbe (f.)",
+      "it": "l'erba",
+      "pos": "n",
+      "note": "les herbes de Provence = le erbe di Provenza"
+    },
+    {
+      "fr": "le motif",
+      "it": "il motivo, il disegno",
+      "pos": "n"
+    },
+    {
+      "fr": "risquer (de)",
+      "it": "rischiare (di)",
+      "pos": "v",
+      "note": "ça risque de revenir cher = rischia di costare caro"
+    },
+    {
+      "fr": "arriver (à)",
+      "it": "riuscire (a)",
+      "pos": "v",
+      "note": "arriver à + infinito; je n'arrive pas à les convaincre"
+    },
+    {
+      "fr": "vu que",
+      "it": "visto che, dato che",
+      "pos": "conj",
+      "note": "anche: vu + nome"
     }
   ],
   "expressions": [
@@ -880,6 +926,30 @@
       "hint": "(s'amuser, passato composto)",
       "prompt": "L'anno scorso si sono divertiti a Nîmes.",
       "explain_it": "Il passato composto dei verbi pronominali usa essere e il participio concorda con il soggetto; qui è maschile plurale."
+    },
+    {
+      "id": "L078-e47",
+      "type": "cloze",
+      "level": 2,
+      "concept": "connectors",
+      "text": "Vu ___ il pleut, nous restons à la maison.",
+      "answers": [
+        "qu'"
+      ],
+      "hint": "(vu que)",
+      "prompt": "Visto che piove, restiamo a casa.",
+      "explain_it": "Vu que introduce una causa e si elide davanti a il: vu qu'il pleut."
+    },
+    {
+      "id": "L078-e48",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Rischia di piovere domani.",
+      "answers": [
+        "Il risque de pleuvoir demain."
+      ],
+      "explain_it": "Risquer de + infinito esprime un rischio o una probabilità; il soggetto impersonale è il."
     }
   ]
 }

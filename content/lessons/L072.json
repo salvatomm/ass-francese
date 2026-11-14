@@ -260,6 +260,64 @@
       "fr": "aussitôt",
       "it": "subito, immediatamente",
       "pos": "adv"
+    },
+    {
+      "fr": "le chef",
+      "it": "il capo, il responsabile",
+      "pos": "n",
+      "note": "le chef d'équipe = il caposquadra"
+    },
+    {
+      "fr": "dynamique",
+      "it": "dinamico",
+      "pos": "adj",
+      "note": "invariabile al femminile"
+    },
+    {
+      "fr": "lors de",
+      "it": "durante, in occasione di",
+      "pos": "prep",
+      "note": "registro più formale di pendant"
+    },
+    {
+      "fr": "mentionner",
+      "it": "menzionare, citare",
+      "pos": "v"
+    },
+    {
+      "fr": "moderne",
+      "it": "moderno",
+      "pos": "adj",
+      "note": "invariabile al femminile"
+    },
+    {
+      "fr": "prononcer",
+      "it": "pronunciare",
+      "pos": "v",
+      "note": "un discours est prononcé = si tiene un discorso"
+    },
+    {
+      "fr": "la province",
+      "it": "la provincia",
+      "pos": "n",
+      "note": "en province = fuori Parigi, nelle province"
+    },
+    {
+      "fr": "sucré(e)",
+      "it": "zuccherato, dolce",
+      "pos": "adj",
+      "note": "salé = salato"
+    },
+    {
+      "fr": "faire appel à",
+      "it": "fare appello a, ricorrere a",
+      "pos": "expr",
+      "note": "faire appel à quelqu'un = rivolgersi a qualcuno"
+    },
+    {
+      "fr": "un cadeau de départ",
+      "it": "un regalo d'addio",
+      "pos": "n"
     }
   ],
   "expressions": [
@@ -741,6 +799,29 @@
       "concept": "il-faut",
       "text": "Il faut préparer les petits fours avant onze heures.",
       "explain_it": "Il faut seguito dall'infinito esprime un obbligo impersonale."
+    },
+    {
+      "id": "L072-e36",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Durante la riunione il capo ha menzionato questo progetto.",
+      "answers": [
+        "[Lors de|Pendant] la réunion, le chef a mentionné ce projet."
+      ],
+      "explain_it": "Lors de + nome = durante, in occasione di (pendant è accettabile)."
+    },
+    {
+      "id": "L072-e37",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Nous sommes une entreprise ___ et dynamique.",
+      "answers": [
+        "moderne"
+      ],
+      "prompt": "Siamo un'azienda moderna e dinamica.",
+      "explain_it": "Moderne e dynamique sono invariabili al femminile: une entreprise moderne."
     }
   ]
 }

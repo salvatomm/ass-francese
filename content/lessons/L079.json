@@ -242,6 +242,35 @@
       "it": "valere",
       "pos": "v",
       "note": "il vaudrait mieux que"
+    },
+    {
+      "fr": "délicat(e)",
+      "it": "delicato",
+      "pos": "adj",
+      "note": "anche: difficile, che richiede cautela"
+    },
+    {
+      "fr": "maniaque",
+      "it": "pignolo, maniaco",
+      "pos": "adj",
+      "note": "come nome: un maniaque, un fanatico"
+    },
+    {
+      "fr": "utile",
+      "it": "utile",
+      "pos": "adj",
+      "note": "invariabile al maschile/femminile"
+    },
+    {
+      "fr": "la scarlatine",
+      "it": "la scarlattina",
+      "pos": "n"
+    },
+    {
+      "fr": "En résumé,",
+      "it": "in sintesi, riassumendo",
+      "pos": "expr",
+      "note": "le résumé = il riassunto"
     }
   ],
   "expressions": [
@@ -746,6 +775,31 @@
         "de"
       ],
       "explain_it": "Il confronto di uguaglianza è aussi + aggettivo + que, e l'elisione que + intelligent diventa qu'intelligent."
+    },
+    {
+      "id": "L079-e37",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "text": "Peindre les plafonds est un travail ___.",
+      "answers": [
+        "délicat"
+      ],
+      "hint": "(delicato)",
+      "prompt": "Dipingere i soffitti è un lavoro delicato.",
+      "explain_it": "Travail è maschile, quindi délicat senza -e."
+    },
+    {
+      "id": "L079-e38",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "In sintesi, questo sistema è molto utile.",
+      "answers": [
+        "En résumé, ce système est très utile.",
+        "En résumé, ce système est vraiment utile."
+      ],
+      "explain_it": "En résumé introduce una sintesi; utile ha la stessa forma al maschile e al femminile."
     }
   ]
 }

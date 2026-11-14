@@ -12,8 +12,14 @@
       "title_it": "Il condizionale presente",
       "explain_it": "Il condizionale presente si forma sulla radice del futuro semplice (fer-, voudr-, pourr-) con le desinenze dell'imperfetto: -ais, -ais, -ait, -ions, -iez, -aient. Ha le stesse irregolarità del futuro: je ferais, je serais, j'aurais, j'irais. Corrisponde al condizionale italiano (farei, sarei). Si usa per le ipotesi e per le richieste cortesi: je voudrais, pourriez-vous.",
       "examples": [
-        { "fr": "Je voudrais un café, merci.", "it": "Vorrei un caffè, grazie." },
-        { "fr": "Je ferais la même chose.", "it": "Farei la stessa cosa." }
+        {
+          "fr": "Je voudrais un café, merci.",
+          "it": "Vorrei un caffè, grazie."
+        },
+        {
+          "fr": "Je ferais la même chose.",
+          "it": "Farei la stessa cosa."
+        }
       ]
     },
     {
@@ -21,8 +27,14 @@
       "title_it": "Ipotesi irreali con « si »",
       "explain_it": "Per un'ipotesi irreale sul presente si usa « si » + imperfetto nella condizione e il condizionale presente nella conseguenza: Si j'étais riche, je voyagerais. È la stessa logica dell'italiano « se fossi ricco, viaggerei », ma dopo « si » non si usa mai il condizionale (mai « si je serais »). Non confonderla con la lezione 64, dove « si » + presente + futuro esprime un'ipotesi reale.",
       "examples": [
-        { "fr": "Si j'avais le temps, je lirais davantage.", "it": "Se avessi tempo, leggerei di più." },
-        { "fr": "Si tu étais à Paris, tu pourrais venir.", "it": "Se fossi a Parigi, potresti venire." }
+        {
+          "fr": "Si j'avais le temps, je lirais davantage.",
+          "it": "Se avessi tempo, leggerei di più."
+        },
+        {
+          "fr": "Si tu étais à Paris, tu pourrais venir.",
+          "it": "Se fossi a Parigi, potresti venire."
+        }
       ]
     },
     {
@@ -30,8 +42,14 @@
       "title_it": "Domande con il condizionale (inversione)",
       "explain_it": "Nelle domande con il condizionale è molto usata l'inversione del soggetto: Que feriez-vous ? (cosa fareste?), Où iriez-vous ? La forma con « est-ce que » (Qu'est-ce que vous feriez ?) è corretta ma più pesante da pronunciare. Attenzione a non confondere il condizionale feriez con il futuro ferez.",
       "examples": [
-        { "fr": "Où iriez-vous en vacances ?", "it": "Dove andreste in vacanza?" },
-        { "fr": "Est-ce que vous aimeriez venir ?", "it": "Vorreste venire?" }
+        {
+          "fr": "Où iriez-vous en vacances ?",
+          "it": "Dove andreste in vacanza?"
+        },
+        {
+          "fr": "Est-ce que vous aimeriez venir ?",
+          "it": "Vorreste venire?"
+        }
       ]
     },
     {
@@ -39,8 +57,14 @@
       "title_it": "Locuzioni: prendre la parole, croire que, avoir du mal à",
       "explain_it": "« La parole » significa « parola », ma « prendre la parole » vuol dire prendere la parola in pubblico, in un'assemblea o in un dibattito. « Croire que » è sinonimo di « penser que » e si costruisce direttamente con « que »; si risponde con je crois que oui / je crois que non. Attenzione: « croire à » significa credere in qualcosa. « Avoir du mal à » significa avere difficoltà a fare qualcosa, con « du » perché « mal » qui è un sostantivo.",
       "examples": [
-        { "fr": "Je crois que oui.", "it": "Credo di sì." },
-        { "fr": "J'ai du mal à me lever tôt.", "it": "Ho difficoltà ad alzarmi presto." }
+        {
+          "fr": "Je crois que oui.",
+          "it": "Credo di sì."
+        },
+        {
+          "fr": "J'ai du mal à me lever tôt.",
+          "it": "Ho difficoltà ad alzarmi presto."
+        }
       ]
     },
     {
@@ -48,8 +72,14 @@
       "title_it": "Interdire e permettre: à qqn de + infinito",
       "explain_it": "I verbi « interdire » (vietare) e « permettre » (permettere) reggono la persona con « à » (o con il pronome indiretto me, te, lui, nous, vous, leur) e l'azione con « de » + infinito: interdire à quelqu'un de faire qqc. Per esempio je t'interdis de sortir significa « ti vieto di uscire ». Sui cartelli si trova la forma INTERDIT DE + infinito.",
       "examples": [
-        { "fr": "Je vous interdis de fumer ici.", "it": "Vi vieto di fumare qui." },
-        { "fr": "Ma mère me permet de sortir le soir.", "it": "Mia madre mi permette di uscire la sera." }
+        {
+          "fr": "Je vous interdis de fumer ici.",
+          "it": "Vi vieto di fumare qui."
+        },
+        {
+          "fr": "Ma mère me permet de sortir le soir.",
+          "it": "Mia madre mi permette di uscire la sera."
+        }
       ]
     },
     {
@@ -57,8 +87,14 @@
       "title_it": "N'importe: qualsiasi, chiunque, dovunque",
       "explain_it": "« N'importe » seguito da un pronome o da un avverbio forma indefiniti: n'importe qui (chiunque), n'importe quoi (qualsiasi cosa; come esclamazione significa « sciocchezze! »), n'importe où (dovunque). Davanti a un nome si usa l'aggettivo n'importe quel (maschile) o n'importe quelle (femminile), che concorda con il nome: n'importe quel livre, n'importe quelle heure.",
       "examples": [
-        { "fr": "Prends n'importe quel livre.", "it": "Prendi un libro qualsiasi." },
-        { "fr": "N'importe quoi !", "it": "Ma va'! Sciocchezze!" }
+        {
+          "fr": "Prends n'importe quel livre.",
+          "it": "Prendi un libro qualsiasi."
+        },
+        {
+          "fr": "N'importe quoi !",
+          "it": "Ma va'! Sciocchezze!"
+        }
       ]
     },
     {
@@ -66,17 +102,29 @@
       "title_it": "Certain: un certo (prima del nome) o sicuro (dopo)",
       "explain_it": "« Certain » cambia significato secondo la posizione: davanti al nome vuol dire « un certo » (un certain temps, un certain risque); dopo il nome o con être vuol dire « sicuro, certo » (un résultat certain, je suis certain). Al plurale davanti al nome significa « alcuni, certi » e concorda con il nome: certains véhicules, certaines personnes.",
       "examples": [
-        { "fr": "Pendant un certain temps, il a habité à Lyon.", "it": "Per un certo periodo ha abitato a Lione." },
-        { "fr": "Je suis certain de mon choix.", "it": "Sono sicuro della mia scelta." }
+        {
+          "fr": "Pendant un certain temps, il a habité à Lyon.",
+          "it": "Per un certo periodo ha abitato a Lione."
+        },
+        {
+          "fr": "Je suis certain de mon choix.",
+          "it": "Sono sicuro della mia scelta."
+        }
       ]
     },
     {
       "id": "adjectives-irregular",
       "title_it": "Net / nette: netto, nitido",
-      "explain_it": "« Net » ha il femminile « nette », e la t finale si pronuncia in entrambe le forme (ne-t): è un'eccezione, perché al maschile la consonante finale di solito non si sente. Per fotografie e immagini significa « nitido »; al comparativo: moins nettes = meno nitide.",
+      "explain_it": "« Net » ha il femminile « nette » e la t finale si pronuncia in entrambe le forme (di solito le consonanti finali al maschile sono mute: è un'eccezione). Per fotografie e immagini significa « nitido »; riferito a una stanza vuol dire « pulito, in ordine ».",
       "examples": [
-        { "fr": "Ces images sont très nettes.", "it": "Queste immagini sono molto nitide." },
-        { "fr": "Une chambre nette et rangée.", "it": "Una stanza pulita e in ordine." }
+        {
+          "fr": "Ces images sont très nettes.",
+          "it": "Queste immagini sono molto nitide."
+        },
+        {
+          "fr": "Une chambre nette et rangée.",
+          "it": "Una stanza pulita e in ordine."
+        }
       ]
     },
     {
@@ -84,59 +132,234 @@
       "title_it": "Circuler e conduire",
       "explain_it": "« Circuler » è intransitivo: indica il movimento di veicoli, persone o aria (les voitures circulent, l'air circule) e non ha un complemento oggetto diretto. « Conduire » è transitivo e significa « guidare » un veicolo: conduire une voiture. Quindi si dice « les voitures ne peuvent pas circuler » ma « je conduis ma voiture ».",
       "examples": [
-        { "fr": "Les voitures circulent difficilement en ville.", "it": "In città le auto circolano con difficoltà." },
-        { "fr": "Je conduis une voiture depuis dix ans.", "it": "Guido un'auto da dieci anni." }
+        {
+          "fr": "Les voitures circulent difficilement en ville.",
+          "it": "In città le auto circolano con difficoltà."
+        },
+        {
+          "fr": "Je conduis une voiture depuis dix ans.",
+          "it": "Guido un'auto da dieci anni."
+        }
       ]
     }
   ],
   "vocab": [
-    { "fr": "le lycée", "it": "il liceo", "pos": "n" },
-    { "fr": "l'Assemblée nationale (f.)", "it": "l'Assemblea nazionale, la camera bassa del Parlamento francese", "pos": "n" },
-    { "fr": "le débat", "it": "il dibattito", "pos": "n" },
-    { "fr": "le climat", "it": "il clima", "pos": "n" },
-    { "fr": "le député", "it": "il deputato", "pos": "n", "note": "femminile: la députée" },
-    { "fr": "la parole", "it": "la parola", "pos": "n", "note": "prendre la parole = prendere la parola in pubblico" },
-    { "fr": "inviter", "it": "invitare", "pos": "v", "note": "inviter qqn à faire qqc" },
-    { "fr": "combattre", "it": "combattere, contrastare", "pos": "v" },
-    { "fr": "la mesure", "it": "il provvedimento, la misura", "pos": "n", "note": "prendre des mesures = adottare provvedimenti" },
-    { "fr": "agir", "it": "agire", "pos": "v" },
-    { "fr": "le danger", "it": "il pericolo", "pos": "n" },
-    { "fr": "interdire", "it": "vietare", "pos": "v", "note": "interdire à qqn de faire qqc" },
-    { "fr": "le véhicule", "it": "il veicolo", "pos": "n" },
-    { "fr": "l'essence (f.)", "it": "la benzina", "pos": "n" },
-    { "fr": "se déplacer", "it": "spostarsi", "pos": "v" },
-    { "fr": "permettre", "it": "permettere", "pos": "v", "note": "permettre à qqn de faire qqc" },
-    { "fr": "le camion", "it": "il camion", "pos": "n" },
-    { "fr": "la livraison", "it": "la consegna", "pos": "n" },
-    { "fr": "approvisionner", "it": "rifornire, approvvigionare", "pos": "v" },
-    { "fr": "n'importe quel(le)", "it": "qualsiasi, qualunque", "pos": "adj" },
-    { "fr": "polluer", "it": "inquinare", "pos": "v" },
-    { "fr": "la voiture particulière", "it": "l'automobile privata", "pos": "n" },
-    { "fr": "le réchauffement", "it": "il riscaldamento", "pos": "n", "note": "réchauffement planétaire = riscaldamento globale" },
-    { "fr": "l'empreinte carbone (f.)", "it": "l'impronta di carbonio", "pos": "n" },
-    { "fr": "réduire", "it": "ridurre", "pos": "v" },
-    { "fr": "sinon", "it": "altrimenti, se no", "pos": "conj" },
-    { "fr": "certain(e)", "it": "certo, alcuni", "pos": "adj" },
-    { "fr": "net(te)", "it": "netto, nitido", "pos": "adj", "note": "femminile nette" },
-    { "fr": "croire", "it": "credere, pensare", "pos": "v", "note": "je crois que = credo che" },
-    { "fr": "circuler", "it": "circolare", "pos": "v", "note": "verbo intransitivo" }
+    {
+      "fr": "le lycée",
+      "it": "il liceo",
+      "pos": "n"
+    },
+    {
+      "fr": "l'Assemblée nationale (f.)",
+      "it": "l'Assemblea nazionale",
+      "pos": "n"
+    },
+    {
+      "fr": "le débat",
+      "it": "il dibattito",
+      "pos": "n"
+    },
+    {
+      "fr": "le climat",
+      "it": "il clima",
+      "pos": "n"
+    },
+    {
+      "fr": "le député",
+      "it": "il deputato",
+      "pos": "n",
+      "note": "femminile: la députée"
+    },
+    {
+      "fr": "la parole",
+      "it": "la parola",
+      "pos": "n",
+      "note": "prendre la parole = prendere la parola in pubblico"
+    },
+    {
+      "fr": "inviter",
+      "it": "invitare",
+      "pos": "v",
+      "note": "inviter qqn à faire qqc"
+    },
+    {
+      "fr": "combattre",
+      "it": "combattere, contrastare",
+      "pos": "v"
+    },
+    {
+      "fr": "la mesure",
+      "it": "il provvedimento, la misura",
+      "pos": "n",
+      "note": "prendre des mesures = adottare provvedimenti"
+    },
+    {
+      "fr": "agir",
+      "it": "agire",
+      "pos": "v"
+    },
+    {
+      "fr": "le danger",
+      "it": "il pericolo",
+      "pos": "n"
+    },
+    {
+      "fr": "interdire",
+      "it": "vietare",
+      "pos": "v",
+      "note": "interdire à qqn de faire qqc"
+    },
+    {
+      "fr": "le véhicule",
+      "it": "il veicolo",
+      "pos": "n"
+    },
+    {
+      "fr": "l'essence (f.)",
+      "it": "la benzina",
+      "pos": "n"
+    },
+    {
+      "fr": "se déplacer",
+      "it": "spostarsi",
+      "pos": "v"
+    },
+    {
+      "fr": "permettre",
+      "it": "permettere",
+      "pos": "v",
+      "note": "permettre à qqn de faire qqc"
+    },
+    {
+      "fr": "le camion",
+      "it": "il camion",
+      "pos": "n"
+    },
+    {
+      "fr": "la livraison",
+      "it": "la consegna",
+      "pos": "n"
+    },
+    {
+      "fr": "approvisionner",
+      "it": "rifornire, approvvigionare",
+      "pos": "v"
+    },
+    {
+      "fr": "n'importe quel(le)",
+      "it": "qualsiasi, qualunque",
+      "pos": "adj"
+    },
+    {
+      "fr": "polluer",
+      "it": "inquinare",
+      "pos": "v"
+    },
+    {
+      "fr": "la voiture particulière",
+      "it": "l'automobile privata",
+      "pos": "n"
+    },
+    {
+      "fr": "le réchauffement",
+      "it": "il riscaldamento",
+      "pos": "n",
+      "note": "réchauffement planétaire = riscaldamento globale"
+    },
+    {
+      "fr": "l'empreinte carbone (f.)",
+      "it": "l'impronta di carbonio",
+      "pos": "n"
+    },
+    {
+      "fr": "réduire",
+      "it": "ridurre",
+      "pos": "v"
+    },
+    {
+      "fr": "sinon",
+      "it": "altrimenti, se no",
+      "pos": "conj"
+    },
+    {
+      "fr": "certain(e)",
+      "it": "certo, sicuro; alcuni (plurale)",
+      "pos": "adj"
+    },
+    {
+      "fr": "net(te)",
+      "it": "netto, nitido",
+      "pos": "adj",
+      "note": "la t finale si pronuncia"
+    },
+    {
+      "fr": "croire",
+      "it": "credere, pensare",
+      "pos": "v",
+      "note": "je crois que = credo che"
+    },
+    {
+      "fr": "circuler",
+      "it": "circolare",
+      "pos": "v",
+      "note": "verbo intransitivo"
+    }
   ],
   "expressions": [
-    { "fr": "prendre la parole", "it": "prendere la parola (in pubblico)", "note": "registro formale, in assemblee e dibattiti" },
-    { "fr": "n'importe quoi !", "it": "ma va'! sciocchezze!", "note": "esclamazione di disapprovazione, colloquiale" },
-    { "fr": "à tout prix", "it": "a ogni costo", "note": "si usa con un verbo che esprime un'esigenza forte" },
-    { "fr": "avoir du mal à + infinitif", "it": "fare fatica a + infinito", "note": "« du mal » significa difficoltà" },
-    { "fr": "un mal nécessaire", "it": "un male necessario", "note": "« mal » come sostantivo maschile" },
-    { "fr": "avoir la nette impression que", "it": "avere la netta impressione che", "note": "espressione di opinione soggettiva" },
-    { "fr": "au bout d'un certain temps", "it": "dopo un certo tempo", "note": "espressione di sequenza, registro neutro" },
-    { "fr": "être en danger", "it": "essere in pericolo" },
-    { "fr": "prendre au sérieux", "it": "prendere sul serio", "note": "anche nella forma negativa ne pas prendre au sérieux" },
-    { "fr": "de loin", "it": "di gran lunga", "note": "rafforza un comparativo: pires de loin, molto peggiori" }
+    {
+      "fr": "prendre la parole",
+      "it": "prendere la parola (in pubblico)",
+      "note": "registro formale, in assemblee e dibattiti"
+    },
+    {
+      "fr": "n'importe quoi !",
+      "it": "ma va'! sciocchezze!",
+      "note": "esclamazione di disapprovazione, colloquiale"
+    },
+    {
+      "fr": "à tout prix",
+      "it": "a ogni costo",
+      "note": "si usa con un verbo che esprime un'esigenza forte"
+    },
+    {
+      "fr": "avoir du mal à",
+      "it": "fare fatica a",
+      "note": "« du mal » significa difficoltà"
+    },
+    {
+      "fr": "un mal nécessaire",
+      "it": "un male necessario",
+      "note": "« mal » come sostantivo maschile"
+    },
+    {
+      "fr": "avoir la nette impression que",
+      "it": "avere la netta impressione che",
+      "note": "espressione di opinione soggettiva"
+    },
+    {
+      "fr": "au bout d'un certain temps",
+      "it": "dopo un certo tempo",
+      "note": "espressione di sequenza, registro neutro"
+    },
+    {
+      "fr": "être en danger",
+      "it": "essere in pericolo"
+    },
+    {
+      "fr": "prendre au sérieux",
+      "it": "prendere sul serio",
+      "note": "anche nella forma negativa ne pas prendre au sérieux"
+    },
+    {
+      "fr": "de loin",
+      "it": "di gran lunga",
+      "note": "rafforza un comparativo: pires de loin, molto peggiori"
+    }
   ],
   "notes_it": [
     "Il Parlamento francese è composto da due camere: l'Assemblea nazionale, dove siedono i deputati (députés), e il Senato. Il dibattito della lezione si svolge in Assemblea, cioè nella camera bassa.",
-    "Falso amico in parte: « la parole » in francese indica anche il diritto di parlare in pubblico. « Prendre la parole » non significa « prendere la parola » nel senso di parlare con qualcuno, ma iniziare a intervenire.",
-    "« Interdire » significa vietare. Sui cartelli compare nella forma INTERDIT DE + infinito, come nel cartello INTERDIT DE VAPOTER (vietato svapare), che in Italia si legge con un significato analogo.",
+    "« La parole » al singolare indica la facoltà o il diritto di parlare; la singola parola si dice invece « le mot ». « Prendre la parole » è quindi prendere la parola in un dibattito, non pronunciare una parola.",
+    "« Interdire » significa vietare. Sui cartelli compare nella forma INTERDIT DE + infinito, per esempio INTERDIT DE FUMER (vietato fumare).",
     "« Croire » ha due sfumature: credere in qualcuno o qualcosa (croire qqn, croire en qqch.) e pensare che (croire que). Nel dialogo corrisponde all'uso di « penser que », cioè « credo che », e si risponde con je crois que oui o je crois que non.",
     "Pronuncia: « net » è una delle poche parole in cui la t finale si pronuncia anche al maschile, come nel femminile « nette ». In italiano non c'è un caso simile, quindi è utile ascoltarlo più volte."
   ],
@@ -147,7 +370,12 @@
       "level": 1,
       "concept": "conditionnel",
       "prompt": "Quale forma è il condizionale presente di « faire » con « vous »?",
-      "options": ["vous feriez", "vous ferez", "vous faisiez", "vous fassiez"],
+      "options": [
+        "vous feriez",
+        "vous ferez",
+        "vous faisiez",
+        "vous fassiez"
+      ],
       "correct": 0,
       "explain_it": "Il condizionale presente si forma con la radice del futuro (fer-) e le desinenze dell'imperfetto (-iez): vous feriez. Vous ferez è il futuro."
     },
@@ -172,9 +400,13 @@
       "level": 1,
       "concept": "interrogatives",
       "prompt": "Quale domanda significa « Cosa fareste, voi? »",
-      "options": ["Que feriez-vous ?", "Que ferez-vous ?", "Que faisiez-vous ?"],
+      "options": [
+        "Que feriez-vous ?",
+        "Que ferez-vous ?",
+        "Que faisiez-vous ?"
+      ],
       "correct": 0,
-      "explain_it": "Con il condizionale l'inversione « feriez-vous » è molto usata. « Que ferez-vous ? » è il futuro (cosa farete?)."
+      "explain_it": "Con l'inversione del condizionale: feriez-vous. « Que ferez-vous ? » è il futuro (cosa farete?), « que faisiez-vous ? » l'imperfetto."
     },
     {
       "id": "L066-e04",
@@ -182,7 +414,11 @@
       "level": 2,
       "concept": "indefinites",
       "prompt": "Quale espressione significa « un libro qualsiasi »?",
-      "options": ["n'importe quel livre", "n'importe quelle livre", "n'importe quoi livre"],
+      "options": [
+        "n'importe quel livre",
+        "n'importe quelle livre",
+        "n'importe quoi livre"
+      ],
       "correct": 0,
       "explain_it": "Davanti a un nome maschile si usa n'importe quel. « Quoi » è un pronome (qualsiasi cosa) e non accompagna un nome."
     },
@@ -222,7 +458,12 @@
       "level": 1,
       "concept": "adjectives-irregular",
       "prompt": "Qual è il femminile di « net » (netto, nitido) per « photo »?",
-      "options": ["nette", "nete", "nettes", "netté"],
+      "options": [
+        "nette",
+        "nete",
+        "nettes",
+        "netté"
+      ],
       "correct": 0,
       "explain_it": "« Net » fa al femminile « nette », e la t finale si pronuncia in entrambe le forme."
     },
@@ -247,8 +488,14 @@
       "level": 1,
       "concept": "conditionnel",
       "prompt": "Io comprerei una macchina nuova.",
-      "answers": ["J'achèterais une voiture neuve."],
-      "distractors": ["achèterai", "achetais"],
+      "answers": [
+        "J'achèterais une voiture neuve.",
+        "J'achèterais une nouvelle voiture."
+      ],
+      "distractors": [
+        "achèterai",
+        "achetais"
+      ],
       "explain_it": "Il condizionale di « acheter » è « j'achèterais »: la e diventa è davanti alla sillaba con la e muta."
     },
     {
@@ -257,8 +504,13 @@
       "level": 1,
       "concept": "si-clauses",
       "prompt": "Se fossi ricco, viaggerei più spesso.",
-      "answers": ["Si j'étais riche, je voyagerais plus souvent."],
-      "distractors": ["voyagerai", "suis"],
+      "answers": [
+        "Si j'étais riche, je voyagerais plus souvent."
+      ],
+      "distractors": [
+        "voyagerai",
+        "suis"
+      ],
       "explain_it": "Dopo « si » ipotetico si usa l'imperfetto (étais) e nella conseguenza il condizionale (voyagerais)."
     },
     {
@@ -267,8 +519,14 @@
       "level": 2,
       "concept": "interrogatives",
       "prompt": "Dove andreste in vacanza?",
-      "answers": ["Où iriez-vous en vacances ?"],
-      "distractors": ["irez-vous", "allez-vous"],
+      "answers": [
+        "Où iriez-vous en vacances ?",
+        "Où est-ce que vous iriez en vacances ?"
+      ],
+      "distractors": [
+        "irez-vous",
+        "allez-vous"
+      ],
       "explain_it": "Con il condizionale il soggetto si inverte: iriez-vous (andreste). Irez-vous è il futuro."
     },
     {
@@ -277,8 +535,13 @@
       "level": 2,
       "concept": "indefinites",
       "prompt": "Può entrare chiunque, a qualsiasi ora.",
-      "answers": ["N'importe qui peut entrer à n'importe quelle heure."],
-      "distractors": ["quel", "quoi"],
+      "answers": [
+        "N'importe qui peut entrer à n'importe quelle heure."
+      ],
+      "distractors": [
+        "quel",
+        "quoi"
+      ],
       "explain_it": "« N'importe qui » significa chiunque; « n'importe quelle heure » significa qualsiasi ora, con quelle perché heure è femminile."
     },
     {
@@ -287,8 +550,13 @@
       "level": 2,
       "concept": "prepositions",
       "prompt": "Il medico mi ha vietato di bere caffè.",
-      "answers": ["Le médecin m'a interdit de boire du café."],
-      "distractors": ["à", "interdis"],
+      "answers": [
+        "Le médecin m'a interdit de boire du café."
+      ],
+      "distractors": [
+        "à",
+        "interdis"
+      ],
       "explain_it": "Con « interdire » la persona è indicata dal pronome (m' = a me), quindi niente « à »; l'azione segue con « de » + infinito."
     },
     {
@@ -301,7 +569,10 @@
         "Si j'étais toi, je ne prendrais pas la voiture en ville.",
         "Si j'étais à ta place, je ne prendrais pas la voiture en ville."
       ],
-      "distractors": ["prendrai", "serais"],
+      "distractors": [
+        "prendrai",
+        "serais"
+      ],
       "explain_it": "« Se fossi in te » si traduce con « si j'étais toi » (o « à ta place »): imperfetto dopo « si », condizionale nella conseguenza, e « ne … pas » intorno al verbo."
     },
     {
@@ -310,8 +581,13 @@
       "level": 2,
       "concept": "idioms",
       "prompt": "Ho difficoltà a capire questo problema.",
-      "answers": ["J'ai du mal à comprendre ce problème."],
-      "distractors": ["beaucoup", "de"],
+      "answers": [
+        "J'ai du mal à comprendre ce problème."
+      ],
+      "distractors": [
+        "beaucoup",
+        "de"
+      ],
       "explain_it": "« Avoir du mal à » significa avere difficoltà a fare qualcosa; « du mal » contiene il partitivo."
     },
     {
@@ -320,8 +596,13 @@
       "level": 1,
       "concept": "adjective-position",
       "prompt": "Alcuni veicoli inquinano meno.",
-      "answers": ["Certains véhicules polluent moins."],
-      "distractors": ["certaines", "polluant"],
+      "answers": [
+        "Certains véhicules polluent moins."
+      ],
+      "distractors": [
+        "certaines",
+        "polluant"
+      ],
       "explain_it": "Davanti al nome plurale maschile « certains » significa « alcuni » e concorda con il nome: véhicules è maschile."
     },
     {
@@ -330,8 +611,14 @@
       "level": 3,
       "concept": "idioms",
       "prompt": "Credo che sarebbe possibile vietare le auto a benzina.",
-      "answers": ["Je crois qu'il serait possible d'interdire les voitures à essence."],
-      "distractors": ["interdiraient", "sera"],
+      "answers": [
+        "Je crois qu'il serait possible d'interdire les voitures à essence.",
+        "Je pense qu'il serait possible d'interdire les voitures à essence."
+      ],
+      "distractors": [
+        "interdiraient",
+        "sera"
+      ],
       "explain_it": "« Croire que » introduce la frase; « il serait possible de » esprime un'ipotesi con il condizionale, e « interdire » è seguito da « de » + infinito."
     },
     {
@@ -339,10 +626,12 @@
       "type": "cloze",
       "level": 1,
       "concept": "conditionnel",
-      "text": "Je ___ volontiers un café, merci.",
-      "answers": ["voudrais"],
+      "text": "Je ___ un café, s'il vous plaît.",
+      "answers": [
+        "voudrais"
+      ],
       "hint": "(vouloir, condizionale presente)",
-      "prompt": "Prenderei volentieri un caffè, grazie.",
+      "prompt": "Vorrei un caffè, per favore.",
       "explain_it": "Per una richiesta cortese si usa il condizionale di « vouloir »: je voudrais."
     },
     {
@@ -351,7 +640,9 @@
       "level": 2,
       "concept": "si-clauses",
       "text": "Si nous ___ plus riches, nous achèterions une maison.",
-      "answers": ["étions"],
+      "answers": [
+        "étions"
+      ],
       "hint": "(être, imperfetto)",
       "prompt": "Se fossimo più ricchi, compreremmo una casa.",
       "explain_it": "Dopo « si » ipotetico si usa l'imperfetto (nous étions), non il presente (nous sommes) né il condizionale."
@@ -362,7 +653,9 @@
       "level": 2,
       "concept": "interrogatives",
       "text": "Que ___-vous à ma place ?",
-      "answers": ["feriez"],
+      "answers": [
+        "feriez"
+      ],
       "hint": "(faire, condizionale presente)",
       "prompt": "Cosa fareste al mio posto?",
       "explain_it": "Nella domanda con inversione il verbo è al condizionale: feriez-vous."
@@ -373,7 +666,9 @@
       "level": 2,
       "concept": "indefinites",
       "text": "Tu peux venir à ___ heure, je serai là.",
-      "answers": ["n'importe quelle"],
+      "answers": [
+        "n'importe quelle"
+      ],
       "hint": "(qualsiasi, femminile)",
       "prompt": "Puoi venire a qualsiasi ora, ci sarò.",
       "explain_it": "Davanti a « heure », femminile, si usa n'importe quelle."
@@ -384,7 +679,9 @@
       "level": 2,
       "concept": "prepositions",
       "text": "Le professeur nous a ___ de parler pendant le cours.",
-      "answers": ["interdit"],
+      "answers": [
+        "interdit"
+      ],
       "hint": "(interdire, passato prossimo)",
       "prompt": "Il professore ci ha vietato di parlare durante la lezione.",
       "explain_it": "Il verbo « interdire » al passato prossimo con avoir: a interdit, seguito da de + infinito."
@@ -395,7 +692,9 @@
       "level": 2,
       "concept": "adjective-position",
       "text": "Il y a un ___ risque pour la santé.",
-      "answers": ["certain"],
+      "answers": [
+        "certain"
+      ],
       "hint": "(certo, prima del nome)",
       "prompt": "C'è un certo rischio per la salute.",
       "explain_it": "Davanti al nome « certain » significa « un certo »."
@@ -406,7 +705,9 @@
       "level": 2,
       "concept": "adjectives-irregular",
       "text": "Les photos de ce téléphone sont très ___.",
-      "answers": ["nettes"],
+      "answers": [
+        "nettes"
+      ],
       "hint": "(net, femminile plurale)",
       "prompt": "Le foto di questo telefono sono molto nitide.",
       "explain_it": "« Net » al femminile plurale è « nettes », con la t pronunciata."
@@ -417,7 +718,9 @@
       "level": 3,
       "concept": "vocab",
       "text": "Dans ce quartier, les voitures ne peuvent pas ___ la nuit.",
-      "answers": ["circuler"],
+      "answers": [
+        "circuler"
+      ],
       "hint": "(circolare, verbo intransitivo)",
       "prompt": "In questo quartiere le auto non possono circolare di notte.",
       "explain_it": "« Circuler » è intransitivo e indica il movimento di veicoli: non ha un complemento oggetto."
@@ -430,7 +733,8 @@
       "prompt": "Andresti al mare domani?",
       "answers": [
         "Irais-tu [à la mer|à la plage] demain ?",
-        "Est-ce que tu irais [à la mer|à la plage] demain ?"
+        "Est-ce que tu irais [à la mer|à la plage] demain ?",
+        "Tu irais [à la mer|à la plage] demain ?"
       ],
       "explain_it": "Con « tu » il condizionale è irais; l'inversione con « -tu » è la forma più diretta."
     },
@@ -440,7 +744,9 @@
       "level": 1,
       "concept": "si-clauses",
       "prompt": "Se avessi tempo, leggerei di più.",
-      "answers": ["Si j'avais le temps, je lirais [davantage|plus]."],
+      "answers": [
+        "Si j'avais [le|du] temps, je lirais [davantage|plus]."
+      ],
       "explain_it": "Nell'ipotesi irreale si usa l'imperfetto (avais) dopo « si » e il condizionale (lirais) nella conseguenza."
     },
     {
@@ -450,10 +756,10 @@
       "concept": "si-clauses",
       "prompt": "Se fossi in te, parlerei con il direttore.",
       "answers": [
-        "Si j'étais toi, je parlerais au directeur.",
-        "Si j'étais à ta place, je parlerais au directeur."
+        "Si j'étais toi, je parlerais [au directeur|avec le directeur].",
+        "Si j'étais à ta place, je parlerais [au directeur|avec le directeur]."
       ],
-      "explain_it": "« Parler à » con il direttore dà « au directeur » (à + le)."
+      "explain_it": "« Parler à » + le directeur dà « au directeur » (à + le); « parler avec » è l'alternativa."
     },
     {
       "id": "L066-e29",
@@ -463,7 +769,8 @@
       "prompt": "Ci potreste aiutare con questo problema?",
       "answers": [
         "Pourriez-vous nous aider avec ce problème ?",
-        "Pourriez-vous nous aider à résoudre ce problème ?"
+        "Pourriez-vous nous aider à résoudre ce problème ?",
+        "Est-ce que vous pourriez nous aider avec ce problème ?"
       ],
       "explain_it": "« Pourriez » è il condizionale di pouvoir: una richiesta cortese con vous."
     },
@@ -474,10 +781,10 @@
       "concept": "interrogatives",
       "prompt": "Vi piacerebbe andare al cinema stasera invece di restare a casa?",
       "answers": [
-        "Aimeriez-vous aller au cinéma ce soir plutôt que rester à la maison ?",
-        "Est-ce que vous aimeriez aller au cinéma ce soir plutôt que rester à la maison ?"
+        "Aimeriez-vous aller au cinéma ce soir [plutôt que de|plutôt que|au lieu de] rester à la maison ?",
+        "Est-ce que vous aimeriez aller au cinéma ce soir [plutôt que de|plutôt que|au lieu de] rester à la maison ?"
       ],
-      "explain_it": "Con il condizionale l'inversione è « aimeriez-vous », e « plutôt que » introduce il confronto con l'infinito."
+      "explain_it": "Con il condizionale l'inversione è « aimeriez-vous »; « plutôt que de » o « au lieu de » + infinito rendono « invece di »."
     },
     {
       "id": "L066-e31",
@@ -522,8 +829,7 @@
       "concept": "si-clauses",
       "prompt": "Se avessimo più tempo, potremmo risolvere il problema.",
       "answers": [
-        "Si nous avions plus de temps, nous pourrions résoudre le problème.",
-        "Si nous avions plus de temps, nous pourrions régler le problème."
+        "Si nous avions [plus|davantage] de temps, nous pourrions [résoudre|régler] le problème."
       ],
       "explain_it": "Nell'ipotesi irreale: imperfetto dopo « si » (avions) e condizionale nella conseguenza (pourrions)."
     },
@@ -546,8 +852,7 @@
       "concept": "vocab",
       "prompt": "Io guido la macchina tutti i giorni per andare al lavoro.",
       "answers": [
-        "Je conduis [la voiture|ma voiture] tous les jours pour aller au travail.",
-        "Je conduis [la voiture|ma voiture] chaque jour pour aller au travail."
+        "Je conduis [la voiture|ma voiture] [tous les jours|chaque jour] pour aller au travail."
       ],
       "explain_it": "« Conduire » è il verbo giusto per guidare un veicolo; « circuler » non si usa con un complemento oggetto."
     },
@@ -558,8 +863,7 @@
       "concept": "si-clauses",
       "prompt": "Se fossi presidente, vieterei le auto a benzina in città, ma permetterei ai furgoni di circolare.",
       "answers": [
-        "Si j'étais [président|présidente], j'interdirais les voitures à essence en ville, mais je permettrais aux véhicules utilitaires de circuler.",
-        "Si j'étais [président|présidente], j'interdirais les voitures à essence dans les villes, mais je permettrais aux véhicules utilitaires de circuler."
+        "Si j'étais [président|présidente], j'interdirais les voitures à essence [en ville|dans les villes], mais je permettrais aux [véhicules utilitaires|camionnettes|fourgons] de circuler."
       ],
       "explain_it": "Due verbi al condizionale, uno per ciascun'azione: interdirais (vietare) e permettrais (permettere). « Aux véhicules » è à + les."
     },
@@ -568,9 +872,12 @@
       "type": "write",
       "level": 3,
       "concept": "conditionnel",
-      "prompt": "Volgi al condizionale presente: « Io devo parlare al direttore ».",
+      "prompt": "Je dois parler au directeur.",
       "ask": "Volgi al condizionale presente",
-      "answers": ["Je devrais parler au directeur."],
+      "answers": [
+        "Je devrais parler au directeur.",
+        "Je devrais parler avec le directeur."
+      ],
       "explain_it": "Il condizionale di « devoir » è « devrais », con la stessa radice del futuro (devr-)."
     },
     {

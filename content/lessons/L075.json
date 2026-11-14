@@ -280,6 +280,103 @@
       "fr": "contredire",
       "it": "contraddire",
       "pos": "v"
+    },
+    {
+      "fr": "accomplir",
+      "it": "compiere, realizzare",
+      "pos": "v"
+    },
+    {
+      "fr": "l'album (m.)",
+      "it": "l'album",
+      "pos": "n"
+    },
+    {
+      "fr": "avouer",
+      "it": "ammettere, confessare",
+      "pos": "v"
+    },
+    {
+      "fr": "se douter (de)",
+      "it": "sospettare, immaginare",
+      "pos": "v",
+      "note": "Je m'en doutais ! = Lo immaginavo!"
+    },
+    {
+      "fr": "un électricien / une électricienne",
+      "it": "un elettricista",
+      "pos": "n"
+    },
+    {
+      "fr": "l'ensemble (m.)",
+      "it": "l'insieme, l'intero",
+      "pos": "n",
+      "note": "pour l'ensemble de sa carrière = per tutta la carriera"
+    },
+    {
+      "fr": "le guitariste (m./f.)",
+      "it": "il chitarrista",
+      "pos": "n"
+    },
+    {
+      "fr": "imaginer",
+      "it": "immaginare",
+      "pos": "v"
+    },
+    {
+      "fr": "l'interview (f.)",
+      "it": "l'intervista",
+      "pos": "n",
+      "note": "femminile in francese"
+    },
+    {
+      "fr": "la librairie",
+      "it": "la libreria (negozio)",
+      "pos": "n",
+      "note": "falso amico: biblioteca = la bibliothèque"
+    },
+    {
+      "fr": "majeur / majeure",
+      "it": "maggiore",
+      "pos": "adj",
+      "note": "accord majeur = accordo maggiore"
+    },
+    {
+      "fr": "la matière",
+      "it": "la materia",
+      "pos": "n",
+      "note": "materia scolastica"
+    },
+    {
+      "fr": "la modestie",
+      "it": "la modestia",
+      "pos": "n"
+    },
+    {
+      "fr": "la nature",
+      "it": "la natura",
+      "pos": "n",
+      "note": "confiant de nature = fiducioso per natura"
+    },
+    {
+      "fr": "le pianiste (m./f.)",
+      "it": "il pianista",
+      "pos": "n"
+    },
+    {
+      "fr": "la qualité",
+      "it": "la qualità",
+      "pos": "n"
+    },
+    {
+      "fr": "le questionnaire",
+      "it": "il questionario",
+      "pos": "n"
+    },
+    {
+      "fr": "le trompettiste (m./f.)",
+      "it": "il trombettista",
+      "pos": "n"
     }
   ],
   "expressions": [
@@ -829,6 +926,29 @@
         "Je me suis [douté|doutée] de sa réponse"
       ],
       "explain_it": "Il passato prossimo di se douter è con être: il participio concorda con il soggetto (douté per un uomo, doutée per una donna)."
+    },
+    {
+      "id": "L075-e41",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Devo ammettere che dubito delle sue qualità.",
+      "answers": [
+        "Je dois avouer que je doute de ses qualités."
+      ],
+      "explain_it": "Douter de + nome/infinito; avouer = ammettere."
+    },
+    {
+      "id": "L075-e42",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Mon frère est ___ : il joue de la guitare dans un groupe.",
+      "answers": [
+        "guitariste"
+      ],
+      "prompt": "Mio fratello è chitarrista: suona la chitarra in un gruppo.",
+      "explain_it": "I nomi di professione senza articolo dopo être: il est guitariste."
     }
   ]
 }

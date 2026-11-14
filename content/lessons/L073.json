@@ -246,6 +246,58 @@
       "fr": "en pleine nuit",
       "it": "in piena notte",
       "pos": "expr"
+    },
+    {
+      "fr": "le casse-pieds (m./f.)",
+      "it": "il rompiscatole",
+      "pos": "n",
+      "note": "anche aggettivo: C'est casse-pieds. Invariabile al plurale: les casse-pieds"
+    },
+    {
+      "fr": "le coin",
+      "it": "l'angolo",
+      "pos": "n",
+      "note": "la pharmacie du coin = la farmacia dietro l'angolo"
+    },
+    {
+      "fr": "effectivement",
+      "it": "effettivamente, in effetti",
+      "pos": "adv"
+    },
+    {
+      "fr": "l'état (m.)",
+      "it": "lo stato, le condizioni",
+      "pos": "n",
+      "note": "en mauvais état = in cattive condizioni"
+    },
+    {
+      "fr": "fatiguer",
+      "it": "stancare",
+      "pos": "v"
+    },
+    {
+      "fr": "la morale",
+      "it": "la morale",
+      "pos": "n",
+      "note": "non confonderla con le moral (il morale, l'umore)"
+    },
+    {
+      "fr": "la plainte",
+      "it": "la lamentela, la denuncia",
+      "pos": "n",
+      "note": "da se plaindre"
+    },
+    {
+      "fr": "en avoir ras le bol",
+      "it": "averne abbastanza, essere stufo",
+      "pos": "expr",
+      "note": "registro familiare"
+    },
+    {
+      "fr": "soigner",
+      "it": "curare",
+      "pos": "v",
+      "note": "être soigné par un stagiaire = essere curato da un tirocinante"
     }
   ],
   "expressions": [
@@ -881,6 +933,30 @@
       "front": "Casser les pieds: significato e uso di casse-pieds",
       "back": "Significa dare fastidio, rompere le scatole (registro familiare). Casse-pieds è invariabile e può essere aggettivo o nome: c'est casse-pieds ; une casse-pieds.",
       "explain_it": "Casse-pieds è invariabile: si dice sia per il maschile sia per il femminile, sia come aggettivo sia come nome."
+    },
+    {
+      "id": "L073-e48",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Mi stanchi con le tue domande.",
+      "answers": [
+        "Tu me fatigues avec tes questions.",
+        "Vous me fatiguez avec vos questions."
+      ],
+      "explain_it": "Fatiguer è transitivo: qualcuno mi stanca = quelqu'un me fatigue."
+    },
+    {
+      "id": "L073-e49",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Il a été ___ par un stagiaire, et il a encore mal.",
+      "answers": [
+        "soigné"
+      ],
+      "prompt": "È stato curato da un tirocinante e sta ancora male.",
+      "explain_it": "Soigner = curare; al passivo: il a été soigné par."
     }
   ]
 }

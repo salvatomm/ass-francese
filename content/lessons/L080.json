@@ -243,6 +243,144 @@
       "it": "insistere",
       "pos": "v",
       "note": "insister pour que"
+    },
+    {
+      "fr": "l'accès (m.)",
+      "it": "l'accesso",
+      "pos": "n",
+      "note": "pl. les accès"
+    },
+    {
+      "fr": "l'acier (m.)",
+      "it": "l'acciaio",
+      "pos": "n"
+    },
+    {
+      "fr": "le leader",
+      "it": "il leader, il capo",
+      "pos": "n",
+      "note": "anglicismo usato in politica e nell'impresa"
+    },
+    {
+      "fr": "l'agroalimentaire (m.)",
+      "it": "l'industria agroalimentare",
+      "pos": "n"
+    },
+    {
+      "fr": "le camarade / la camarade",
+      "it": "il compagno, il camerata",
+      "pos": "n",
+      "note": "usato tra militanti e colleghi"
+    },
+    {
+      "fr": "démontrer",
+      "it": "dimostrare",
+      "pos": "v"
+    },
+    {
+      "fr": "le dirigeant / la dirigeante",
+      "it": "il dirigente",
+      "pos": "n"
+    },
+    {
+      "fr": "l'employeur (m.)",
+      "it": "il datore di lavoro",
+      "pos": "n"
+    },
+    {
+      "fr": "faiblir",
+      "it": "indebolirsi, calare",
+      "pos": "v"
+    },
+    {
+      "fr": "flagrant(e)",
+      "it": "flagrante, evidente",
+      "pos": "adj"
+    },
+    {
+      "fr": "guérir",
+      "it": "guarire",
+      "pos": "v",
+      "note": "participio guéri"
+    },
+    {
+      "fr": "imposer",
+      "it": "imporre",
+      "pos": "v"
+    },
+    {
+      "fr": "incommoder",
+      "it": "incomodare, dare fastidio a",
+      "pos": "v"
+    },
+    {
+      "fr": "limiter",
+      "it": "limitare",
+      "pos": "v"
+    },
+    {
+      "fr": "massif / massive",
+      "it": "massiccio",
+      "pos": "adj"
+    },
+    {
+      "fr": "le militant / la militante",
+      "it": "l'attivista, il militante",
+      "pos": "n"
+    },
+    {
+      "fr": "le mouvement",
+      "it": "il movimento",
+      "pos": "n"
+    },
+    {
+      "fr": "la négociation",
+      "it": "la trattativa, il negoziato",
+      "pos": "n"
+    },
+    {
+      "fr": "la reconnaissance",
+      "it": "il riconoscimento, la gratitudine",
+      "pos": "n"
+    },
+    {
+      "fr": "salarial(e)",
+      "it": "salariale",
+      "pos": "adj",
+      "note": "m. pl. salariaux"
+    },
+    {
+      "fr": "simplement",
+      "it": "semplicemente",
+      "pos": "adv"
+    },
+    {
+      "fr": "supposer",
+      "it": "supporre",
+      "pos": "v",
+      "note": "Supposez que + congiuntivo"
+    },
+    {
+      "fr": "mériter",
+      "it": "meritare",
+      "pos": "v"
+    },
+    {
+      "fr": "le traitement",
+      "it": "la cura, il trattamento",
+      "pos": "n",
+      "note": "anche: lo stipendio (di un funzionario)"
+    },
+    {
+      "fr": "les congés payés",
+      "it": "le ferie pagate",
+      "pos": "expr",
+      "note": "pl. m."
+    },
+    {
+      "fr": "le médecin du travail",
+      "it": "il medico del lavoro",
+      "pos": "expr"
     }
   ],
   "expressions": [
@@ -820,6 +958,31 @@
       "front": "Réclamer significa 'reclamare' come in italiano?",
       "back": "No: réclamer significa richiedere, esigere con forza. Il reclamo come lamentela è une réclamation.",
       "note": "Falso amico: in italiano reclamare vuol dire lamentarsi."
+    },
+    {
+      "id": "L080-e44",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Le ___ syndical a prononcé un discours devant les militants.",
+      "answers": [
+        "leader"
+      ],
+      "hint": "(il leader)",
+      "prompt": "Il leader sindacale ha pronunciato un discorso davanti agli attivisti.",
+      "explain_it": "Leader è un anglicismo maschile molto usato nel linguaggio politico e sindacale."
+    },
+    {
+      "id": "L080-e45",
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "È un peccato che l'acciaio sia così caro.",
+      "answers": [
+        "Il est dommage que l'acier soit si cher.",
+        "C'est dommage que l'acier soit si cher."
+      ],
+      "explain_it": "Il est dommage que richiede il congiuntivo (soit); acier è maschile."
     }
   ]
 }
