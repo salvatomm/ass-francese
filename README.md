@@ -16,6 +16,7 @@ After changing content or app files: `python3 tools/build.py` (validates lessons
 ## Sync + coaching agent (optional)
 
 1. Supabase → SQL editor → run `supabase/schema.sql`, then `insert into fr_secret values ('<passphrase>');`
+   (Re-running the file is safe; it also adds the server-stamped `synced_at` columns the app pulls by.)
 2. App → Impostazioni → project URL, anon key, passphrase.
 3. Agent session in this repo: follow `agent/AGENT.md` (`agent/fr_agent.py pull | stats | push | report`).
    Without Supabase: *Esporta dati* in the app → `fr_agent.py pull --from-export file.json`, and import
@@ -30,5 +31,6 @@ After changing content or app files: `python3 tools/build.py` (validates lessons
 | `app.js` `db.js` `sync.js` | UI, IndexedDB storage + outbox, Supabase sync |
 | `agent/` | coaching-agent CLI and playbook, book outline |
 | `tools/` | `validate.py`, `build.py` |
+| `tests/browser/` | Playwright checks without a server: `ui.cjs` (walk-through + screenshots), `offline.cjs` (service worker, see header), `sync.cjs` (sync against a PostgREST mock) |
 
 The book PDFs are never committed (`source/` is git-ignored).

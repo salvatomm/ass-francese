@@ -66,6 +66,7 @@ do $$
 declare t text;
 begin
   foreach t in array array['fr_progress','fr_meta','fr_exercises','fr_reports'] loop
+    execute format('alter table %I add column if not exists synced_at timestamptz not null default now()', t);
     execute format('drop trigger if exists fr_touch on %I', t);
     execute format('create trigger fr_touch before insert or update on %I for each row execute function fr_touch()', t);
   end loop;
