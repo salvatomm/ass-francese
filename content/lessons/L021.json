@@ -1,0 +1,850 @@
+{
+  "n": 21,
+  "title_fr": "Révision",
+  "title_it": "Ripasso",
+  "review": true,
+  "status": "verified",
+  "source": "529edcbd p95-98 (libro p.79-82); c15d4fa8 p1-2 (libro p.83-84)",
+  "theme_it": "Ripasso delle lezioni 15-20: i verbi essere, avere e volere, la negazione e le domande, il genere dei nomi e degli aggettivi, i giorni, i mesi, le date e l'ora. Nel dialogo due persone scendono dal bus in place de la Concorde per fotografare un bel palazzo e una chiesa, ma si accorgono che è tardi: rimandano la visita a domani mattina e, con la serata libera, decidono di andare a vedere la Tour Eiffel, che è gratuita.",
+  "grammar": [
+    {
+      "id": "etre",
+      "title_it": "Essere (être) al presente",
+      "explain_it": "Essere è irregolare e si usa sia come verbo principale sia come ausiliare, come in italiano. Forme: je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont. Nel parlato es ed est suonano uguali, quindi il contesto (o il pronome) è l'unico indizio; sont non pronuncia la t finale, salvo in liaison.",
+      "examples": [
+        {
+          "fr": "Nous sommes à Paris ce soir.",
+          "it": "Siamo a Parigi stasera."
+        },
+        {
+          "fr": "Elles sont libres demain.",
+          "it": "Sono libere domani."
+        },
+        {
+          "fr": "Tu es italien ?",
+          "it": "Sei italiano?"
+        }
+      ]
+    },
+    {
+      "id": "avoir",
+      "title_it": "Avere (avoir) al presente",
+      "explain_it": "Avoir è irregolare e, come in italiano, è sia verbo principale sia ausiliare. Forme: j'ai, tu as, il/elle a, nous avons, vous avez, ils/elles ont. Attenzione all'accento: a (verbo, 'ha') non ha l'accento, mentre à (preposizione, 'a') sì. Come in italiano, per la fame e il freddo si usa avoir: avoir faim, avoir froid.",
+      "examples": [
+        {
+          "fr": "Nous avons la soirée libre.",
+          "it": "Abbiamo la serata libera."
+        },
+        {
+          "fr": "Ils ont beaucoup de temps.",
+          "it": "Hanno molto tempo."
+        },
+        {
+          "fr": "Tu as faim ?",
+          "it": "Hai fame?"
+        }
+      ]
+    },
+    {
+      "id": "modals",
+      "title_it": "Volere (vouloir) al presente",
+      "explain_it": "Vouloir (volere) è irregolare e serve a dire che cosa si vuole, ma anche a offrire o a invitare. Forme: je veux, tu veux, il/elle veut, nous voulons, vous voulez, ils/elles veulent. Davanti a un altro verbo si usa l'infinito: je veux descendre (voglio scendere). Il tema cambia tra singolare, noi/voi e plurale di loro.",
+      "examples": [
+        {
+          "fr": "Je veux un café, s'il vous plaît.",
+          "it": "Voglio un caffè, per favore."
+        },
+        {
+          "fr": "Ils veulent aller au cinéma.",
+          "it": "Vogliono andare al cinema."
+        },
+        {
+          "fr": "Vous voulez manger quelque chose ?",
+          "it": "Volete mangiare qualcosa?"
+        }
+      ]
+    },
+    {
+      "id": "register",
+      "title_it": "Tu o vous: il registro",
+      "explain_it": "Il francese distingue il tu, informale (familiari, amici, coetanei), dal vous, formale (sconosciuti o persone a cui si deve rispetto). Vous è anche il plurale di tu. Quando si dà del vous a una sola persona, il verbo resta alla forma plurale: vous êtes, vous voulez. Dare del vous si dice vouvoyer.",
+      "examples": [
+        {
+          "fr": "Vous êtes italien ?",
+          "it": "Lei è italiano?"
+        },
+        {
+          "fr": "Tu veux venir avec nous ?",
+          "it": "Vuoi venire con noi?"
+        }
+      ]
+    },
+    {
+      "id": "negation",
+      "title_it": "La negazione con ne... pas",
+      "explain_it": "La negazione avvolge il verbo: ne (n' davanti a vocale o h muta) prima del verbo e pas dopo. Vale per vouloir e per tutti gli altri verbi: je ne veux pas, nous ne voulons pas. Dopo la negazione l'articolo partitivo o indeterminativo diventa de: je ne veux pas de café (non voglio caffè). Nel parlato ne spesso cade, ma nello scritto va mantenuto.",
+      "examples": [
+        {
+          "fr": "Il ne veut pas venir.",
+          "it": "Non vuole venire."
+        },
+        {
+          "fr": "Nous n'avons pas de voiture.",
+          "it": "Non abbiamo la macchina."
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "title_it": "Tre modi di fare una domanda",
+      "explain_it": "Per fare una domanda ci sono tre costruzioni, valide per tutti i verbi. 1) Intonazione alzata alla fine della frase affermativa: Vous voulez un café ? (molto informale, ma molto comune). 2) Est-ce que prima del soggetto: Est-ce que vous voulez un café ?, la forma più usata nel parlato. 3) Inversione di pronome e verbo: Voulez-vous un café ?, la forma più formale. La scelta dipende dalla persona con cui si parla e dal contesto.",
+      "examples": [
+        {
+          "fr": "Vous voulez venir ?",
+          "it": "Volete venire?"
+        },
+        {
+          "fr": "Est-ce que tu veux venir ?",
+          "it": "Vuoi venire?"
+        },
+        {
+          "fr": "Voulez-vous visiter la ville ?",
+          "it": "Vuole visitare la città?"
+        }
+      ]
+    },
+    {
+      "id": "gender",
+      "title_it": "Il genere dei nomi: le desinenze",
+      "explain_it": "Molti nomi si riconoscono dalla desinenza. Sono generalmente maschili quelli in -age (l'âge), -eau (un bureau), -er (le déjeuner), -ier (le quartier, un banquier) e -in (le jardin, le matin); eccezione frequente: la fin. Sono generalmente femminili quelli in -ion e -té (la santé, la liberté) e la maggior parte in -ée (la soirée). Eccezioni da ricordare: une image, l'eau (femminili in -age ed -eau), le côté, l'avion, un musée.",
+      "examples": [
+        {
+          "fr": "Le jardin est grand.",
+          "it": "Il giardino è grande."
+        },
+        {
+          "fr": "La liberté est importante.",
+          "it": "La libertà è importante."
+        },
+        {
+          "fr": "Une image de l'avion.",
+          "it": "Un'immagine dell'aereo."
+        }
+      ]
+    },
+    {
+      "id": "adjectives-irregular",
+      "title_it": "Aggettivi con femminile irregolare",
+      "explain_it": "Alcuni aggettivi cambiano in modo irregolare al femminile: frais diventa fraîche (con il circonflesso sulla i), blanc diventa blanche, long diventa longue. Il maschile singolare di beau, nouveau e vieux ha due forme: davanti a una parola che inizia per vocale o h muta si usa bel, nouvel, vieil (un bel endroit, un vieil ami). Il femminile di beau è belle, quello di vieux è vieille.",
+      "examples": [
+        {
+          "fr": "Une fraise fraîche.",
+          "it": "Una fragola fresca."
+        },
+        {
+          "fr": "Une carte blanche.",
+          "it": "Una carta bianca."
+        },
+        {
+          "fr": "Une longue avenue.",
+          "it": "Un lungo viale."
+        }
+      ]
+    },
+    {
+      "id": "adjective-agreement",
+      "title_it": "Aggettivi in -e e plurale",
+      "explain_it": "Alcuni aggettivi in -e hanno la stessa forma al maschile e al femminile: facile, malade, moderne, superbe, vide, honnête, faible, pauvre, triste, confortable, drôle, sincère. Al plurale si aggiunge la -s a tutti gli aggettivi: triste diventa tristes, facile diventa faciles.",
+      "examples": [
+        {
+          "fr": "Un homme triste, une femme triste.",
+          "it": "Un uomo triste, una donna triste."
+        },
+        {
+          "fr": "Les filles sont tristes.",
+          "it": "Le ragazze sono tristi."
+        }
+      ]
+    },
+    {
+      "id": "time-date",
+      "title_it": "Giorni, mesi e date",
+      "explain_it": "I giorni (lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche) e i mesi (janvier, février... décembre) sono maschili e si scrivono con l'iniziale minuscola, salvo a inizio frase. Nelle date si usa il numero cardinale (le dix mai, non le dixième). Per dire la data di oggi si dice Nous sommes mardi trois mars oppure Nous sommes le trois mars, senza articolo davanti al giorno. Con le davanti alla data intera (le mardi trois mars, le trois mars) si indica quando avviene qualcosa. Per il primo del mese si dice le premier.",
+      "examples": [
+        {
+          "fr": "Nous sommes mardi trois mars.",
+          "it": "Siamo martedì 3 marzo."
+        },
+        {
+          "fr": "Nous sommes le vingt et un août.",
+          "it": "Siamo il 21 agosto."
+        },
+        {
+          "fr": "Le premier janvier.",
+          "it": "Il primo gennaio."
+        }
+      ]
+    },
+    {
+      "id": "time-date",
+      "title_it": "Dire l'ora",
+      "explain_it": "Per chiedere l'ora si usa l'inversione: Quelle heure est-il ? Si risponde con heure(s), al singolare per l'una (une heure): Il est trois heures dix. Per i minuti prima dell'ora successiva si usa moins: une heure moins dix. Il quarto si dice et quart dopo l'ora e moins le quart prima dell'ora successiva. La mezza è et demie, senza -s perché demie si accorda con heure (femminile singolare). Mezzogiorno è midi, mezzanotte è minuit. Nell'orario delle 24 ore (treni, programmi, appuntamenti) si usano i numeri da tredici a ventiquattro e i minuti seguono semplicemente: quinze heures sono le 15, cioè le tre del pomeriggio.",
+      "examples": [
+        {
+          "fr": "Il est onze heures et quart.",
+          "it": "Sono le undici e un quarto."
+        },
+        {
+          "fr": "Il est une heure moins dix.",
+          "it": "È l'una meno dieci."
+        },
+        {
+          "fr": "Il est dix-neuf heures quarante.",
+          "it": "Sono le diciannove e quaranta."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "presque",
+      "it": "quasi",
+      "pos": "adv"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Ce n'est pas vrai !",
+      "it": "Non è possibile! / Non ci credo!",
+      "note": "esclamazione di sorpresa o di incredulità, registro colloquiale"
+    },
+    {
+      "fr": "Quelle heure est-il ?",
+      "it": "Che ore sono?",
+      "note": "forma formale con inversione; nel parlato si dice anche Vous avez l'heure ?"
+    },
+    {
+      "fr": "Il est huit heures moins le quart.",
+      "it": "Sono le otto meno un quarto.",
+      "note": "si dice l'ora successiva e poi moins le quart"
+    },
+    {
+      "fr": "Il est cinq heures et demie.",
+      "it": "Sono le cinque e mezza.",
+      "note": "et demie resta senza -s"
+    },
+    {
+      "fr": "avoir la soirée libre",
+      "it": "avere la serata libera",
+      "note": "libre significa disponibile, non gratuito"
+    },
+    {
+      "fr": "faire une photo",
+      "it": "fare una foto",
+      "note": "si dice anche prendre une photo, altrettanto corretto"
+    },
+    {
+      "fr": "On peut aller voir",
+      "it": "Si può andare a vedere",
+      "note": "per proporre una visita o un'attività; si usa anche regarder"
+    },
+    {
+      "fr": "ne pas avoir beaucoup de temps",
+      "it": "non avere molto tempo",
+      "note": "dopo beaucoup de il nome non prende l'articolo"
+    }
+  ],
+  "notes_it": [
+    "Pronuncia e registro: nel parlato la particella ne della negazione spesso cade (c'est pas vrai invece di ce n'est pas vrai). Va bene per capire, ma per scrivere e per parlare in modo corretto conviene mantenerla.",
+    "Orario: nella conversazione si usa spesso l'orario delle 12 ore, ma per appuntamenti, treni e programmi tv si usa quello delle 24 ore. Attenzione: quinze heures sono le 15 (tre del pomeriggio) e a voce quinze è facile da confondere con cinq, cioè le cinque.",
+    "Week-end: in Francia e in Belgio si dice le week-end, con il trattino; in Canada si usa la fin de semaine, cioè la fine della settimana.",
+    "Date: in italiano si dice «lunedì 10 maggio», in francese lundi dix mai, con il numero cardinale. Per la data di oggi si dice Nous sommes lundi dix mai, senza articolo. Giorni e mesi non hanno la maiuscola iniziale, a meno che non inizino la frase."
+  ],
+  "exercises": [
+    {
+      "id": "L021-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "etre",
+      "explain_it": "Con nous il verbo essere è sommes; avons è di avoir, mentre êtes e sont sono forme di altre persone.",
+      "prompt": "Come si dice «Siamo a Parigi»?",
+      "options": [
+        "Nous sommes à Paris.",
+        "Nous avons à Paris.",
+        "Nous êtes à Paris.",
+        "Nous sont à Paris."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L021-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "avoir",
+      "explain_it": "Avoir alla terza persona plurale è ont; sont è essere e avez/ai non sono forme corrette con ils.",
+      "prompt": "Come si dice «Loro hanno due figli»?",
+      "options": [
+        "Ils ont deux enfants.",
+        "Ils sont deux enfants.",
+        "Ils avez deux enfants.",
+        "Ils ai deux enfants."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L021-e03",
+      "type": "mcq",
+      "level": 2,
+      "concept": "modals",
+      "explain_it": "Dopo vouloir si mette l'infinito (aller) e la preposizione à davanti a le diventa au.",
+      "prompt": "Quale frase significa «Vogliamo andare al cinema»?",
+      "options": [
+        "Nous voulons aller au cinéma.",
+        "Nous voulons allons au cinéma.",
+        "Nous voulez aller au cinéma.",
+        "Nous voulons à aller au cinéma."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L021-e04",
+      "type": "mcq",
+      "level": 2,
+      "concept": "register",
+      "explain_it": "Con uno sconosciuto si usa vous, quindi il verbo è êtes; la forma tu non si combina con êtes.",
+      "prompt": "Come ti rivolgi con cortesia a un signore sconosciuto: «Lei è italiano?»",
+      "options": [
+        "Vous êtes italien ?",
+        "Tu es italien ?",
+        "Vous es italien ?",
+        "Tu êtes italien ?"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L021-e05",
+      "type": "mcq",
+      "level": 2,
+      "concept": "negation",
+      "explain_it": "La negazione avvolge il verbo (ne ... pas) e l'articolo partitivo diventa de.",
+      "prompt": "Come si dice «Non voglio caffè»?",
+      "options": [
+        "Je ne veux pas de café.",
+        "Je veux pas café.",
+        "Je ne pas veux de café.",
+        "Je ne veux de café pas."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L021-e06",
+      "type": "mcq",
+      "level": 2,
+      "concept": "questions",
+      "explain_it": "L'inversione di pronome e verbo è la costruzione più formale; le altre due sono più informali o più comuni nel parlato.",
+      "prompt": "Quale domanda è la più formale per «Vuole un caffè?» a un signore sconosciuto?",
+      "options": [
+        "Voulez-vous un café ?",
+        "Vous voulez un café ?",
+        "Est-ce que vous voulez un café ?"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L021-e07",
+      "type": "mcq",
+      "level": 1,
+      "concept": "gender",
+      "explain_it": "Liberté finisce in -té ed è femminile; jardin, matin e quartier sono maschili.",
+      "prompt": "Quale parola è femminile?",
+      "options": [
+        "le jardin",
+        "la liberté",
+        "le matin",
+        "le quartier"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "L021-o01",
+      "type": "order",
+      "level": 1,
+      "concept": "etre",
+      "explain_it": "Con nous il verbo è sommes e fatigués resta al plurale maschile.",
+      "prompt": "Siamo molto stanchi.",
+      "answers": [
+        "Nous sommes très fatigués.",
+        "Nous sommes très fatiguées."
+      ],
+      "distractors": [
+        "sont",
+        "avez"
+      ]
+    },
+    {
+      "id": "L021-o02",
+      "type": "order",
+      "level": 2,
+      "concept": "avoir",
+      "explain_it": "Con nous si usa avons, e la soirée è femminile singolare con libre.",
+      "prompt": "Abbiamo la serata libera.",
+      "answers": [
+        "Nous avons la soirée libre."
+      ],
+      "distractors": [
+        "sommes",
+        "ont"
+      ]
+    },
+    {
+      "id": "L021-o03",
+      "type": "order",
+      "level": 2,
+      "concept": "negation",
+      "explain_it": "Ne va prima del verbo, pas dopo; il verbo dopo volere resta all'infinito.",
+      "prompt": "Non vogliamo aspettare.",
+      "answers": [
+        "Nous ne voulons pas attendre."
+      ],
+      "distractors": [
+        "veulent",
+        "jamais"
+      ]
+    },
+    {
+      "id": "L021-o04",
+      "type": "order",
+      "level": 3,
+      "concept": "questions",
+      "explain_it": "Con tu la domanda si forma con est-ce que; la forma invertita sarebbe veux-tu.",
+      "prompt": "Vuoi venire con noi?",
+      "answers": [
+        "Est-ce que tu veux venir avec nous ?",
+        "Tu veux venir avec nous ?",
+        "Veux-tu venir avec nous ?"
+      ],
+      "distractors": [
+        "vous",
+        "voulez"
+      ]
+    },
+    {
+      "id": "L021-o05",
+      "type": "order",
+      "level": 3,
+      "concept": "time-date",
+      "explain_it": "Con l'orario delle 24 ore i minuti si dicono dopo l'ora, senza et demie né et quart.",
+      "prompt": "Sono le diciannove e trenta.",
+      "answers": [
+        "Il est dix-neuf heures trente."
+      ],
+      "distractors": [
+        "demie",
+        "quart"
+      ]
+    },
+    {
+      "id": "L021-c01",
+      "type": "cloze",
+      "level": 1,
+      "concept": "etre",
+      "explain_it": "Con nous il verbo essere è sommes.",
+      "text": "Nous ___ à Paris ce soir.",
+      "answers": [
+        "sommes"
+      ],
+      "hint": "(être, nous)",
+      "prompt": "Siamo a Parigi stasera."
+    },
+    {
+      "id": "L021-c02",
+      "type": "cloze",
+      "level": 1,
+      "concept": "avoir",
+      "explain_it": "Con ils il verbo avere è ont.",
+      "text": "Ils ___ beaucoup de temps.",
+      "answers": [
+        "ont"
+      ],
+      "hint": "(avoir, ils)",
+      "prompt": "Hanno molto tempo."
+    },
+    {
+      "id": "L021-c03",
+      "type": "cloze",
+      "level": 2,
+      "concept": "modals",
+      "explain_it": "Con vous il verbo volere è voulez, e faire resta all'infinito.",
+      "text": "Qu'est-ce que vous ___ faire ?",
+      "answers": [
+        "voulez"
+      ],
+      "hint": "(vouloir, vous)",
+      "prompt": "Che cosa volete fare?"
+    },
+    {
+      "id": "L021-c04",
+      "type": "cloze",
+      "level": 2,
+      "concept": "gender",
+      "explain_it": "Matin è maschile, quindi l'articolo è le (le matin = al mattino, in generale).",
+      "text": "___ matin, nous avons un rendez-vous.",
+      "answers": [
+        "Le"
+      ],
+      "hint": "(articolo determinativo maschile)",
+      "prompt": "Al mattino abbiamo un appuntamento."
+    },
+    {
+      "id": "L021-c05",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adjectives-irregular",
+      "explain_it": "Davanti a una parola che inizia per vocale il maschile di beau diventa bel.",
+      "text": "C'est un ___ endroit pour la fête.",
+      "answers": [
+        "bel"
+      ],
+      "hint": "(beau, davanti a vocale)",
+      "prompt": "È un bel posto per la festa."
+    },
+    {
+      "id": "L021-c06",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "explain_it": "Triste ha la stessa forma al maschile e al femminile, quindi non cambia con sœur.",
+      "text": "Ma sœur est très ___ aujourd'hui.",
+      "answers": [
+        "triste"
+      ],
+      "hint": "(aggettivo in -e, invariabile)",
+      "prompt": "Mia sorella oggi è molto triste."
+    },
+    {
+      "id": "L021-c07",
+      "type": "cloze",
+      "level": 2,
+      "concept": "time-date",
+      "explain_it": "Con l'ora si usa il plurale heures, tranne che per l'una.",
+      "text": "Il est huit ___ moins le quart.",
+      "answers": [
+        "heures"
+      ],
+      "hint": "(ora, plurale)",
+      "prompt": "Sono le otto meno un quarto."
+    },
+    {
+      "id": "L021-c08",
+      "type": "cloze",
+      "level": 3,
+      "concept": "time-date",
+      "explain_it": "Per la data di oggi si dice il giorno senza articolo, seguito dal numero cardinale: samedi quatorze novembre.",
+      "text": "Nous sommes ___ quatorze novembre.",
+      "answers": [
+        "samedi"
+      ],
+      "hint": "(sabato)",
+      "prompt": "Oggi è sabato 14 novembre."
+    },
+    {
+      "id": "L021-w01",
+      "type": "write",
+      "level": 2,
+      "concept": "etre",
+      "explain_it": "Essere con nous è sommes; très heureux d'être usa l'infinito di être.",
+      "prompt": "Siamo molto felici di essere qui.",
+      "answers": [
+        "Nous sommes très [heureux|heureuses|contents|contentes] d'être ici."
+      ]
+    },
+    {
+      "id": "L021-w02",
+      "type": "write",
+      "level": 2,
+      "concept": "avoir",
+      "explain_it": "Avere tempo si dice avoir le temps; con ils la domanda si può fare con est-ce que o con l'inversione.",
+      "prompt": "Hanno tempo domani?",
+      "answers": [
+        "Est-ce qu'[ils|elles] ont le temps demain ?",
+        "[Ils|Elles] ont le temps demain ?",
+        "Ont-[ils|elles] le temps demain ?",
+        "Est-ce qu'[ils|elles] ont du temps demain ?"
+      ]
+    },
+    {
+      "id": "L021-w03",
+      "type": "write",
+      "level": 2,
+      "concept": "avoir",
+      "explain_it": "Con nous si usa avons; in forma parlata si può usare on con la terza persona singolare a.",
+      "prompt": "Non abbiamo molto tempo.",
+      "answers": [
+        "Nous n'avons pas beaucoup de temps.",
+        "On n'a pas beaucoup de temps."
+      ]
+    },
+    {
+      "id": "L021-w04",
+      "type": "write",
+      "level": 2,
+      "concept": "modals",
+      "explain_it": "Con vous il verbo volere è voulez; la domanda può essere con inversione o con l'ordine normale.",
+      "prompt": "Volete mangiare qualcosa?",
+      "answers": [
+        "[Voulez-vous|Vous voulez|Est-ce que vous voulez] manger quelque chose ?"
+      ]
+    },
+    {
+      "id": "L021-w05",
+      "type": "write",
+      "level": 2,
+      "concept": "negation",
+      "explain_it": "Dopo la negazione il partitivo (du dessert) diventa de: je ne veux pas de dessert.",
+      "prompt": "Non voglio del dolce.",
+      "answers": [
+        "Je ne veux pas de dessert."
+      ]
+    },
+    {
+      "id": "L021-w06",
+      "type": "write",
+      "level": 3,
+      "concept": "negation",
+      "explain_it": "Avoir le temps de più infinito significa avere il tempo di fare qualcosa; la negazione avvolge il verbo avoir.",
+      "prompt": "Lei non ha il tempo di venire.",
+      "answers": [
+        "Elle n'a pas le temps de venir."
+      ]
+    },
+    {
+      "id": "L021-w07",
+      "type": "write",
+      "level": 2,
+      "concept": "questions",
+      "explain_it": "Con est-ce que il soggetto tu resta davanti al verbo e l'infinito resta alla fine.",
+      "ask": "Traduci in francese, usando est-ce que",
+      "prompt": "Vuoi venire con noi domani?",
+      "answers": [
+        "Est-ce que tu veux venir avec nous demain ?"
+      ]
+    },
+    {
+      "id": "L021-w08",
+      "type": "write",
+      "level": 2,
+      "concept": "gender",
+      "explain_it": "La libertà è femminile perché finisce in -té.",
+      "prompt": "La libertà è importante.",
+      "answers": [
+        "La liberté est importante."
+      ]
+    },
+    {
+      "id": "L021-w09",
+      "type": "write",
+      "level": 2,
+      "concept": "adjectives-irregular",
+      "explain_it": "Fraîche ha il circonflesso sulla i e il femminile di frais è irregolare.",
+      "prompt": "Voglio una fragola fresca.",
+      "answers": [
+        "Je veux une fraise fraîche."
+      ]
+    },
+    {
+      "id": "L021-w10",
+      "type": "write",
+      "level": 3,
+      "concept": "adjectives-irregular",
+      "explain_it": "Davanti a una parola che inizia per vocale il maschile di vieux diventa vieil.",
+      "prompt": "È un vecchio amico.",
+      "answers": [
+        "C'est un vieil ami."
+      ]
+    },
+    {
+      "id": "L021-w11",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "explain_it": "Tristes è il plurale di triste e ha la -s; gli aggettivi in -e non cambiano al femminile.",
+      "prompt": "Le ragazze sono tristi.",
+      "answers": [
+        "Les filles sont tristes.",
+        "Elles sont tristes."
+      ]
+    },
+    {
+      "id": "L021-w12",
+      "type": "write",
+      "level": 2,
+      "concept": "time-date",
+      "explain_it": "Per la data di oggi si dice il giorno senza articolo, poi il numero cardinale: mardi trois mars.",
+      "prompt": "Siamo martedì 3 marzo.",
+      "answers": [
+        "Nous sommes mardi trois mars.",
+        "On est mardi trois mars."
+      ]
+    },
+    {
+      "id": "L021-w13",
+      "type": "write",
+      "level": 3,
+      "concept": "time-date",
+      "explain_it": "Con l'orario delle 24 ore si dice l'ora e poi i minuti, senza et quart o et demie.",
+      "prompt": "Sono le diciannove e quarantacinque.",
+      "answers": [
+        "Il est dix-neuf heures quarante-cinq.",
+        "Il est vingt heures moins le quart."
+      ]
+    },
+    {
+      "id": "L021-w14",
+      "type": "write",
+      "level": 3,
+      "concept": "modals",
+      "explain_it": "«Costa troppo» si dice ça coûte trop cher o c'est trop cher; dopo vouloir l'infinito resta aller.",
+      "prompt": "Non vogliamo andare al cinema, costa troppo.",
+      "answers": [
+        "Nous ne voulons pas aller au cinéma, [ça coûte|c'est] trop cher.",
+        "On ne veut pas aller au cinéma, [ça coûte|c'est] trop cher."
+      ]
+    },
+    {
+      "id": "L021-w15",
+      "type": "write",
+      "level": 3,
+      "concept": "negation",
+      "explain_it": "Dopo vouloir si mette l'infinito (venir); la negazione avvolge il verbo: je ne veux pas venir. Ce soir traduce «stasera».",
+      "prompt": "Domani mattina non voglio venire, ma stasera sono libero.",
+      "answers": [
+        "Demain matin, je ne veux pas venir, mais ce soir je suis [libre|disponible]."
+      ]
+    },
+    {
+      "id": "L021-w16",
+      "type": "write",
+      "level": 3,
+      "concept": "time-date",
+      "explain_it": "Presque è un avverbio che si mette prima dell'ora, come quasi in italiano.",
+      "prompt": "È quasi cinque e mezza.",
+      "answers": [
+        "Il est presque cinq heures et demie."
+      ]
+    },
+    {
+      "id": "L021-w17",
+      "type": "write",
+      "level": 3,
+      "concept": "time-date",
+      "explain_it": "Avoir alla prima persona plurale è avons; moins le quart indica il quarto prima dell'ora successiva.",
+      "prompt": "Non abbiamo molto tempo: sono già le cinque meno un quarto.",
+      "answers": [
+        "[Nous n'avons|On n'a] pas beaucoup de temps : il est déjà cinq heures moins le quart."
+      ]
+    },
+    {
+      "id": "L021-w18",
+      "type": "write",
+      "level": 2,
+      "concept": "adjectives-irregular",
+      "explain_it": "Cet si usa davanti a un nome maschile che inizia per vocale o h muta, come quest' in italiano; beau dopo être resta beau.",
+      "prompt": "Questo albergo è molto bello.",
+      "answers": [
+        "Cet hôtel est très beau."
+      ]
+    },
+    {
+      "id": "L021-w19",
+      "type": "write",
+      "level": 2,
+      "concept": "modals",
+      "explain_it": "Vouloir alla prima persona plurale è nous voulons e aller voir significa andare a vedere.",
+      "prompt": "Vogliamo andare a vedere la Torre Eiffel stasera.",
+      "answers": [
+        "Nous voulons aller voir la Tour Eiffel ce soir."
+      ]
+    },
+    {
+      "id": "L021-d01",
+      "type": "dictation",
+      "level": 2,
+      "concept": "time-date",
+      "explain_it": "Demie è femminile singolare perché si accorda con heure, quindi non prende la -s.",
+      "text": "Il est cinq heures et demie."
+    },
+    {
+      "id": "L021-d02",
+      "type": "dictation",
+      "level": 3,
+      "concept": "negation",
+      "explain_it": "Ne...pas avvolge il verbo volere; attendre resta all'infinito dopo di esso.",
+      "text": "Ils ne veulent pas attendre le bus, il est presque sept heures."
+    },
+    {
+      "id": "L021-d03",
+      "type": "dictation",
+      "level": 3,
+      "concept": "questions",
+      "explain_it": "Con est-ce que il soggetto vous resta prima del verbo volere, che rimane al plurale.",
+      "text": "Le soir, est-ce que vous voulez aller au cinéma ou regarder un film ?"
+    },
+    {
+      "id": "L021-f01",
+      "type": "flash",
+      "level": 2,
+      "concept": "etre",
+      "explain_it": "Sono le forme di nous e di vous: êtes ha il circonflesso e si pronuncia come una e aperta seguita da t.",
+      "front": "Essere (être): le forme di nous e di vous",
+      "back": "nous sommes, vous êtes (attenzione all'accento circonflesso su êtes)"
+    },
+    {
+      "id": "L021-f02",
+      "type": "flash",
+      "level": 2,
+      "concept": "avoir",
+      "explain_it": "La differenza tra a e à è solo di accento, ma cambia il significato.",
+      "front": "a (verbo avoir) e à (preposizione): che differenza c'è?",
+      "back": "il/elle a = ha (verbo, senza accento); à = a, in (preposizione, con accento)",
+      "note": "Es.: Elle a faim / Il va à Paris."
+    },
+    {
+      "id": "L021-f03",
+      "type": "flash",
+      "level": 2,
+      "concept": "modals",
+      "explain_it": "Il tema di vouloir cambia in tre modi: veu-, vou-, veul-.",
+      "front": "Vouloir: quali forme hanno il tema veu-, quali vou- e quali veul-?",
+      "back": "veu- con je, tu, il/elle (je veux); vou- con nous e vous (nous voulons, vous voulez); veul- con ils/elles (ils veulent)"
+    },
+    {
+      "id": "L021-f04",
+      "type": "flash",
+      "level": 2,
+      "concept": "gender",
+      "explain_it": "Queste desinenze indicano quasi sempre il maschile.",
+      "front": "Quali desinenze sono in genere maschili?",
+      "back": "-age, -eau, -er, -ier, -in (eccezione frequente: la fin)",
+      "note": "Eccezioni da ricordare: une image, l'eau."
+    },
+    {
+      "id": "L021-f05",
+      "type": "flash",
+      "level": 2,
+      "concept": "time-date",
+      "explain_it": "Per la data di oggi il giorno non ha articolo e il mese neppure; il numero è cardinale.",
+      "front": "Come si dice «oggi è mercoledì 4 giugno» in francese?",
+      "back": "Nous sommes mercredi quatre juin.",
+      "note": "Senza articolo davanti al giorno; con le davanti alla data intera si dice quando avviene qualcosa: le quatre juin."
+    },
+    {
+      "id": "L021-f06",
+      "type": "flash",
+      "level": 2,
+      "concept": "register",
+      "explain_it": "Vous è anche plurale: il verbo si coniuga come al plurale.",
+      "front": "Quando si usa vous invece di tu?",
+      "back": "Con sconosciuti, con persone a cui si deve rispetto, e per il plurale; tu solo con familiari, amici e coetanei."
+    }
+  ]
+}

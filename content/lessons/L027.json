@@ -1,0 +1,831 @@
+{
+  "n": 27,
+  "title_fr": "Hôtel complet",
+  "title_it": "Albergo al completo",
+  "review": false,
+  "status": "verified",
+  "source": "c15d4fa8 p27-32 (libro p.109-114)",
+  "theme_it": "Un viaggiatore deve trovare un albergo vicino all'aeroporto, perché il suo volo parte molto presto il sabato mattina. Cerca le offerte su Internet, confronta le camere superiori con quelle del primo e del pianterreno, ma il venerdì sera gli alberghi risultano al completo e bisogna provare un altro hotel.",
+  "grammar": [
+    {
+      "id": "demonstratives",
+      "title_it": "I pronomi dimostrativi: celui, celle, ceux, celles",
+      "explain_it": "Celui (m. sing.), celle (f. sing.), ceux (m. pl.) e celles (f. pl.) sostituiscono un nome già citato per evitare la ripetizione, come «quello, quella, quelli, quelle» in italiano, e concordano con il nome sostituito: le hôtel → celui, la chambre → celle, les chambres → celles. A differenza dell'italiano non stanno mai da soli: vogliono una precisazione, cioè de (celui de Paul), una relativa con qui o que (celui qui arrive), oppure -ci o -là (celui-ci, celui-là). Non si dice «celui près de la gare»: serve celui qui est près de la gare.",
+      "examples": [
+        {
+          "fr": "Je préfère celle qui donne sur la mer.",
+          "it": "Preferisco quella che dà sul mare."
+        },
+        {
+          "fr": "Ceux qui arrivent tôt ont une chambre libre.",
+          "it": "Quelli che arrivano presto hanno una camera libera."
+        },
+        {
+          "fr": "Celles du rez-de-chaussée sont petites.",
+          "it": "Quelle del pianterreno sono piccole."
+        }
+      ]
+    },
+    {
+      "id": "plural",
+      "title_it": "Nomi al plurale in francese: les équipements, les tarifs",
+      "explain_it": "Alcuni nomi che l'italiano usa al singolare (l'attrezzatura, la dotazione) in francese si usano spesso al plurale: les équipements, les tarifs, les offres. Il numero non si ricava dalla lingua madre: va memorizzato insieme al nome. Équipement è maschile e al plurale prende la -s: un équipement, des équipements. La -s finale è muta, quindi il plurale si riconosce dall'articolo (les, des) e dall'accordo.",
+      "examples": [
+        {
+          "fr": "Les équipements de la chambre sont modernes.",
+          "it": "Le dotazioni della camera sono moderne."
+        },
+        {
+          "fr": "Les tarifs ne sont pas affichés ici.",
+          "it": "Le tariffe non sono esposte qui."
+        },
+        {
+          "fr": "Quels sont les tarifs de l'hôtel ?",
+          "it": "Quali sono le tariffe dell'albergo?"
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "l'hôtel (m.)",
+      "it": "albergo",
+      "pos": "n"
+    },
+    {
+      "fr": "complet",
+      "it": "al completo, esaurito",
+      "pos": "adj",
+      "note": "f. complète"
+    },
+    {
+      "fr": "situé",
+      "it": "situato",
+      "pos": "adj",
+      "note": "f. située"
+    },
+    {
+      "fr": "à proximité de",
+      "it": "nelle vicinanze di",
+      "pos": "prep"
+    },
+    {
+      "fr": "l'aéroport (m.)",
+      "it": "aeroporto",
+      "pos": "n"
+    },
+    {
+      "fr": "le vol",
+      "it": "volo (anche: furto)",
+      "pos": "n",
+      "note": "da voler, vedi nota"
+    },
+    {
+      "fr": "partir",
+      "it": "partire",
+      "pos": "v",
+      "note": "je pars, il part"
+    },
+    {
+      "fr": "rater",
+      "it": "perdere (un volo, un treno)",
+      "pos": "v",
+      "note": "ne ratez pas = non perda"
+    },
+    {
+      "fr": "l'envie (f.)",
+      "it": "voglia",
+      "pos": "n"
+    },
+    {
+      "fr": "la recherche",
+      "it": "la ricerca",
+      "pos": "n"
+    },
+    {
+      "fr": "Internet (m.)",
+      "it": "Internet",
+      "pos": "n"
+    },
+    {
+      "fr": "se connecter",
+      "it": "collegarsi",
+      "pos": "v",
+      "note": "je me connecte"
+    },
+    {
+      "fr": "l'étoile (f.)",
+      "it": "stella (categoria dell'albergo)",
+      "pos": "n"
+    },
+    {
+      "fr": "le terminal",
+      "it": "il terminal",
+      "pos": "n"
+    },
+    {
+      "fr": "le kilomètre",
+      "it": "il chilometro",
+      "pos": "n"
+    },
+    {
+      "fr": "la chambre supérieure",
+      "it": "la camera superiore",
+      "pos": "n"
+    },
+    {
+      "fr": "le premier étage",
+      "it": "il primo piano",
+      "pos": "n"
+    },
+    {
+      "fr": "le rez-de-chaussée",
+      "it": "il pianterreno",
+      "pos": "n"
+    },
+    {
+      "fr": "l'ascenseur (m.)",
+      "it": "ascensore",
+      "pos": "n"
+    },
+    {
+      "fr": "bruyant",
+      "it": "rumoroso",
+      "pos": "adj",
+      "note": "f. bruyante"
+    },
+    {
+      "fr": "parier",
+      "it": "scommettere",
+      "pos": "v",
+      "note": "je parie"
+    },
+    {
+      "fr": "l'avis (m.)",
+      "it": "parere, opinione",
+      "pos": "n"
+    },
+    {
+      "fr": "l'équipement (m.)",
+      "it": "attrezzatura, dotazione",
+      "pos": "n",
+      "note": "plurale: les équipements"
+    },
+    {
+      "fr": "identique",
+      "it": "identico",
+      "pos": "adj"
+    },
+    {
+      "fr": "le tarif",
+      "it": "tariffa",
+      "pos": "n"
+    },
+    {
+      "fr": "disponible",
+      "it": "disponibile",
+      "pos": "adj"
+    },
+    {
+      "fr": "moins",
+      "it": "meno",
+      "pos": "adv"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Pourquoi ne pas essayer ?",
+      "it": "Perché non provare?",
+      "note": "per proporre un'idea in modo gentile"
+    },
+    {
+      "fr": "Bonne idée !",
+      "it": "Buona idea!",
+      "note": "approvazione immediata"
+    },
+    {
+      "fr": "Avoir envie de",
+      "it": "avere voglia di",
+      "note": "seguito da infinito o da un nome"
+    },
+    {
+      "fr": "Avoir l'air",
+      "it": "sembrare, avere l'aria",
+      "note": "con aggettivo: avoir l'air confortable"
+    },
+    {
+      "fr": "À mon avis",
+      "it": "secondo me",
+      "note": "per esprimere un'opinione"
+    },
+    {
+      "fr": "Tout est complet",
+      "it": "è tutto esaurito",
+      "note": "detto di alberghi e posti pieni"
+    },
+    {
+      "fr": "Mince alors !",
+      "it": "Accidenti!",
+      "note": "esclamazione eufemistica, simile a «accidenti!»"
+    },
+    {
+      "fr": "Je parie que…",
+      "it": "Scommetto che…",
+      "note": "attenzione: non significa «parere»"
+    },
+    {
+      "fr": "Qu'est-ce que vous en pensez ?",
+      "it": "Che ne pensate?",
+      "note": "en = di questo; forma di cortesia"
+    },
+    {
+      "fr": "Faire une recherche",
+      "it": "fare una ricerca",
+      "note": "faire une recherche sur Internet"
+    }
+  ],
+  "notes_it": [
+    "Vol significa sia «volo» (aereo) sia «furto», e il verbo voler significa «volare» oppure «rubare»: non va confuso con vouloir, «volere». Il contesto di solito chiarisce il senso.",
+    "Rater (perdere un volo o un treno) è un verbo transitivo: si dice rater son avion, senza preposizione. Manquer è un sinonimo usabile nello stesso senso.",
+    "Parier non significa «parere» ma «scommettere»: è un falso amico. Per «mi sembra» in francese si usa sembler oppure avoir l'impression.",
+    "Pronuncia: la h di hôtel è muta, ma si comporta come una vocale: si fa elisione (l'hôtel) e liaison (un‿hôtel, les‿hôtels). Per questo nei gruppi di parole la s finale si pronuncia z.",
+    "«Mince alors !» è un'esclamazione eufemistica, che attenua un'espressione più forte: l'equivalente di «accidenti!»."
+  ],
+  "exercises": [
+    {
+      "id": "L027-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "demonstratives",
+      "prompt": "Come si dice «quello vicino all'aeroporto», riferito a un hotel?",
+      "options": [
+        "Celui qui est près de l'aéroport",
+        "Celle qui est près de l'aéroport",
+        "Ceux qui sont près de l'aéroport",
+        "Celles qui sont près de l'aéroport"
+      ],
+      "correct": 0,
+      "explain_it": "Hôtel è maschile singolare, quindi il pronome è celui. Il dimostrativo non sta mai da solo: qui è seguito da qui est près de l'aéroport."
+    },
+    {
+      "id": "L027-e02",
+      "type": "order",
+      "level": 1,
+      "concept": "demonstratives",
+      "prompt": "Quello (l'hôtel) vicino all'aeroporto è caro.",
+      "answers": [
+        "Celui qui est près de l'aéroport est cher",
+        "Celui qui est à côté de l'aéroport est cher"
+      ],
+      "distractors": [
+        "celle",
+        "ceux"
+      ],
+      "explain_it": "Celui concorda con un nome maschile singolare ed è seguito dalla relativa qui est près de..."
+    },
+    {
+      "id": "L027-e03",
+      "type": "cloze",
+      "level": 1,
+      "concept": "demonstratives",
+      "text": "Les chambres au rez-de-chaussée sont petites ; ___ du premier étage sont grandes.",
+      "answers": [
+        "celles"
+      ],
+      "hint": "(femminile plurale, riferito a les chambres)",
+      "prompt": "Le camere al pianterreno sono piccole; quelle del primo piano sono grandi.",
+      "explain_it": "Chambres è femminile plurale: il pronome è celles. Ceux non va bene, perché il nome non è maschile."
+    },
+    {
+      "id": "L027-e04",
+      "type": "flash",
+      "level": 1,
+      "concept": "demonstratives",
+      "front": "Celui, celle, ceux, celles: come si scelgono?",
+      "back": "Concordano con il nome sostituito: celui (m. sing.), celle (f. sing.), ceux (m. pl.), celles (f. pl.). Non stanno mai da soli: vogliono qui/que (che), de (di), -ci o -là (questo/quello).",
+      "note": "Esempio: celles du premier étage (quelle del primo piano).",
+      "explain_it": "Il pronome si sceglie guardando il genere e il numero del nome che sostituisce."
+    },
+    {
+      "id": "L027-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "numbers",
+      "prompt": "Come si dice «un albergo a tre stelle»?",
+      "options": [
+        "un hôtel trois étoiles",
+        "un hôtel trois étoile",
+        "un hôtel troisième étoile",
+        "un hôtel trente étoiles"
+      ],
+      "correct": 0,
+      "explain_it": "Con i numeri maggiori di uno il nome è al plurale: trois étoiles. Trente significa trenta e troisième è l'ordinale terzo."
+    },
+    {
+      "id": "L027-e06",
+      "type": "mcq",
+      "level": 1,
+      "concept": "gender",
+      "prompt": "Come si scrive «l'aeroporto» in francese?",
+      "options": [
+        "l'aéroport",
+        "le aéroport",
+        "la aéroport",
+        "les aéroport"
+      ],
+      "correct": 0,
+      "explain_it": "Aéroport è maschile e comincia per vocale: le si elide in l'."
+    },
+    {
+      "id": "L027-e07",
+      "type": "cloze",
+      "level": 1,
+      "concept": "adjective-agreement",
+      "text": "La chambre est très ___ : on entend tout le couloir.",
+      "answers": [
+        "bruyante"
+      ],
+      "hint": "(bruyant, femminile singolare)",
+      "prompt": "La camera è molto rumorosa: si sente tutto il corridoio.",
+      "explain_it": "Chambre è femminile: l'aggettivo prende la -e finale, bruyant diventa bruyante."
+    },
+    {
+      "id": "L027-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "pronominal-verbs",
+      "prompt": "Mi collego al sito dell'albergo.",
+      "answers": [
+        "Je me connecte au site de l'hôtel"
+      ],
+      "distractors": [
+        "connais",
+        "vous"
+      ],
+      "explain_it": "Se connecter è pronominale: si usa il pronome riflessivo me prima del verbo. Connais significa «conosco»."
+    },
+    {
+      "id": "L027-e09",
+      "type": "cloze",
+      "level": 1,
+      "concept": "pronominal-verbs",
+      "text": "Pour réserver, ___ sur le site de l'hôtel.",
+      "answers": [
+        "nous nous connectons",
+        "on se connecte"
+      ],
+      "hint": "(se connecter, presente)",
+      "prompt": "Per prenotare, ci colleghiamo al sito dell'albergo.",
+      "explain_it": "Il pronome riflessivo si accorda con il soggetto: nous → nous nous connectons; con on si usa se."
+    },
+    {
+      "id": "L027-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "present-ir",
+      "text": "Mon train ___ très tôt le dimanche matin.",
+      "answers": [
+        "part"
+      ],
+      "hint": "(partir, presente, terza persona singolare)",
+      "prompt": "Il mio treno parte molto presto la domenica mattina.",
+      "explain_it": "Partir è un verbo in -ir irregolare: je pars, tu pars, il part, nous partons. La -t finale di part non si pronuncia."
+    },
+    {
+      "id": "L027-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "il-y-a",
+      "text": "___ deux hôtels près de l'aéroport.",
+      "answers": [
+        "Il y a"
+      ],
+      "hint": "(c'è / ci sono)",
+      "prompt": "Ci sono due alberghi vicino all'aeroporto.",
+      "explain_it": "Il y a è invariabile: vale sia per il singolare sia per il plurale, come c'è e ci sono."
+    },
+    {
+      "id": "L027-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "questions",
+      "text": "___ qu'il y a des chambres libres ce soir ?",
+      "answers": [
+        "Est-ce"
+      ],
+      "hint": "(est-ce que, domanda)",
+      "prompt": "Ci sono camere libere stasera?",
+      "explain_it": "La domanda più comune premette est-ce que alla frase affermativa, senza cambiare l'ordine delle parole."
+    },
+    {
+      "id": "L027-e13",
+      "type": "write",
+      "level": 1,
+      "concept": "time-date",
+      "prompt": "«venerdì sera» (una sola serata)",
+      "answers": [
+        "vendredi soir"
+      ],
+      "explain_it": "Con il giorno non serve preposizione: vendredi soir. Con le si indica un'abitudine, ogni venerdì sera.",
+      "ask": "Traduci in francese"
+    },
+    {
+      "id": "L027-e14",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Buona idea, prenotiamo qui.",
+      "answers": [
+        "Bonne idée, réservons ici"
+      ],
+      "distractors": [
+        "bonjour",
+        "dessus"
+      ],
+      "explain_it": "Bonne idée è l'approvazione immediata; réservons è l'imperativo di noi (réservons = prenotiamo)."
+    },
+    {
+      "id": "L027-e15",
+      "type": "mcq",
+      "level": 1,
+      "concept": "plural",
+      "prompt": "Come si dice «le attrezzature» (plurale) in francese?",
+      "options": [
+        "les équipements",
+        "les équipement",
+        "l'équipements",
+        "des équipement"
+      ],
+      "correct": 0,
+      "explain_it": "Équipement è maschile e il plurale prende la -s: les équipements. La forma senza -s è sbagliata."
+    },
+    {
+      "id": "L027-e16",
+      "type": "mcq",
+      "level": 2,
+      "concept": "prepositions-place",
+      "prompt": "Come si dice «vicino all'aeroporto» (vicinanza)?",
+      "options": [
+        "à proximité de l'aéroport",
+        "au proximité de l'aéroport",
+        "proximité à l'aéroport",
+        "dans proximité de l'aéroport"
+      ],
+      "correct": 0,
+      "explain_it": "Proximité è femminile e non richiede articolo: à proximité de. Au non si usa, perché proximité non è maschile."
+    },
+    {
+      "id": "L027-e17",
+      "type": "dictation",
+      "level": 2,
+      "concept": "liaison",
+      "text": "Un hôtel trois étoiles, s'il vous plaît.",
+      "explain_it": "La h di hôtel è muta ma si comporta come una vocale: si fa liaison (un‿hôtel) ed elisione."
+    },
+    {
+      "id": "L027-e18",
+      "type": "flash",
+      "level": 2,
+      "concept": "false-friends",
+      "front": "Parier: significa «parere», come in italiano?",
+      "back": "No. Parier significa «scommettere»: je parie = scommetto. Per «mi pare / sembra» si usa sembler o avoir l'impression.",
+      "note": "Esempio: Je parie qu'il pleut ici.",
+      "explain_it": "È un falso amico: l'italiano parere non corrisponde a parier."
+    },
+    {
+      "id": "L027-e19",
+      "type": "mcq",
+      "level": 2,
+      "concept": "imperative",
+      "prompt": "Come si dice «Non perda il volo!» (forma di cortesia)?",
+      "options": [
+        "Ne ratez pas votre vol",
+        "Ne rate pas votre vol",
+        "Ne ratons pas votre vol",
+        "Ne pas ratez votre vol"
+      ],
+      "correct": 0,
+      "explain_it": "Con vous il negativo è ne + forma vous + pas: ne ratez pas. Rate è la forma tu, ratons la forma noi."
+    },
+    {
+      "id": "L027-e20",
+      "type": "cloze",
+      "level": 2,
+      "concept": "imperative",
+      "text": "Ne ___ pas le train, il part dans cinq minutes !",
+      "answers": [
+        "ratez"
+      ],
+      "hint": "(rater, imperativo di vous)",
+      "prompt": "Non perdete il treno, parte fra cinque minuti!",
+      "explain_it": "L'imperativo di vous è la forma vous del presente senza il pronome: vous ratez → ratez."
+    },
+    {
+      "id": "L027-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "present-ir",
+      "prompt": "«Noi partiamo domani mattina.»",
+      "answers": [
+        "Nous partons demain matin",
+        "On part demain matin"
+      ],
+      "explain_it": "Partir al plurale noi è nous partons; con on si usa la forma part, come per il singolare."
+    },
+    {
+      "id": "L027-e22",
+      "type": "mcq",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "Cosa significa «Je parie que la chambre est bruyante»?",
+      "options": [
+        "Scommetto che la camera è rumorosa",
+        "Mi pare che la camera sia rumorosa",
+        "Parlo della camera rumorosa",
+        "Pago la camera rumorosa"
+      ],
+      "correct": 0,
+      "explain_it": "Parier vuol dire scommettere. L'errore tipico degli italiani è leggerlo come «parere»."
+    },
+    {
+      "id": "L027-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "«Scommetto che l'albergo è pieno.»",
+      "answers": [
+        "Je parie que l'hôtel est complet",
+        "Je parie que l'hôtel est plein"
+      ],
+      "explain_it": "Parier = scommettere; complet e plein indicano che l'albergo è al completo."
+    },
+    {
+      "id": "L027-e24",
+      "type": "mcq",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "In francese il verbo «voler» (senza -ou-) significa anche:",
+      "options": [
+        "rubare",
+        "volere",
+        "pregare",
+        "pagare"
+      ],
+      "correct": 0,
+      "explain_it": "Voler significa «volare» o «rubare». «Volere» in francese è vouloir: è un falso amico con l'italiano."
+    },
+    {
+      "id": "L027-e25",
+      "type": "cloze",
+      "level": 2,
+      "concept": "demonstratives",
+      "text": "Je n'aime pas ce terminal : je préfère ___ qui est près de la gare.",
+      "answers": [
+        "celui"
+      ],
+      "hint": "(pronome dimostrativo maschile singolare)",
+      "prompt": "Non mi piace questo terminal: preferisco quello vicino alla stazione.",
+      "explain_it": "Terminal è maschile singolare: il pronome è celui, seguito dalla relativa qui est près de la gare."
+    },
+    {
+      "id": "L027-e26",
+      "type": "cloze",
+      "level": 2,
+      "concept": "demonstratives",
+      "text": "Ces deux chambres sont libres ? ___ du premier étage est très calme.",
+      "answers": [
+        "celle"
+      ],
+      "hint": "(femminile singolare, riferito a chambre)",
+      "prompt": "Queste due camere sono libere? Quella del primo piano è molto tranquilla.",
+      "explain_it": "Chambre è femminile singolare: celle. La specificazione si esprime con de: celle du premier étage."
+    },
+    {
+      "id": "L027-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "demonstratives",
+      "prompt": "Riferito a «le bureau», rispondi: «Quello vicino all'ascensore è rumoroso.»",
+      "answers": [
+        "Celui qui est près de l'ascenseur est bruyant",
+        "Celui qui est à côté de l'ascenseur est bruyant"
+      ],
+      "explain_it": "Le bureau è maschile: celui, seguito dalla relativa qui est. Bruyant resta al maschile perché il pronome riprende un nome maschile.",
+      "ask": "Traduci in francese la risposta"
+    },
+    {
+      "id": "L027-e28",
+      "type": "write",
+      "level": 2,
+      "concept": "demonstratives",
+      "prompt": "«Quelli che arrivano presto hanno una camera libera.»",
+      "answers": [
+        "Ceux qui arrivent tôt ont une chambre libre"
+      ],
+      "explain_it": "Ceux è il plurale maschile di celui: ceux qui significa «quelli che»."
+    },
+    {
+      "id": "L027-e29",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "«Secondo me la camera del primo piano è comoda.»",
+      "answers": [
+        "[À mon avis|Selon moi], la chambre [du|au] premier étage est confortable"
+      ],
+      "explain_it": "À mon avis significa «secondo me». Du è la contrazione di de + le, come au per à + le."
+    },
+    {
+      "id": "L027-e30",
+      "type": "write",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Vi collegate alle nove? (vous)",
+      "answers": [
+        "Vous vous connectez à [neuf|9] heures ?",
+        "Est-ce que vous vous connectez à [neuf|9] heures ?"
+      ],
+      "explain_it": "Con il soggetto vous si ripete il pronome riflessivo: vous vous connectez."
+    },
+    {
+      "id": "L027-e31",
+      "type": "cloze",
+      "level": 2,
+      "concept": "contractions-au-du",
+      "text": "Il y a un hôtel ___ terminal, très tranquille.",
+      "answers": [
+        "à côté du",
+        "près du"
+      ],
+      "hint": "(accanto a + articolo il)",
+      "prompt": "C'è un albergo accanto al terminal, molto tranquillo.",
+      "explain_it": "À côté de + le si contrae in à côté du. Tranquille è uguale al maschile e al femminile."
+    },
+    {
+      "id": "L027-e32",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions-place",
+      "prompt": "«L'ascensore è accanto alla camera.»",
+      "answers": [
+        "L'ascenseur est à côté de la chambre",
+        "L'ascenseur est près de la chambre"
+      ],
+      "explain_it": "Davanti a la non c'è contrazione: à côté de la chambre."
+    },
+    {
+      "id": "L027-e33",
+      "type": "dictation",
+      "level": 2,
+      "concept": "liaison",
+      "text": "Les hôtels de cette rue sont complets.",
+      "explain_it": "Dopo les si fa liaison (les‿hôtels, con la s pronunciata z), e la h di hôtel è muta."
+    },
+    {
+      "id": "L027-e34",
+      "type": "write",
+      "level": 2,
+      "concept": "questions",
+      "prompt": "«Ci sono camere libere per sabato sera?»",
+      "answers": [
+        "Est-ce qu'il y a des chambres libres pour samedi soir ?",
+        "Y a-t-il des chambres libres pour samedi soir ?",
+        "Il y a des chambres libres pour samedi soir ?"
+      ],
+      "explain_it": "Tre forme: est-ce que (comune), l'inversione y a-t-il (più formale) o la semplice intonazione crescente."
+    },
+    {
+      "id": "L027-e35",
+      "type": "flash",
+      "level": 2,
+      "concept": "false-friends",
+      "front": "Vol, voler, vouloir: quali significati?",
+      "back": "Le vol = il volo (aereo) o il furto. Voler = volare o rubare. Vouloir = volere.",
+      "note": "Attenzione: voler non significa «volere» in francese.",
+      "explain_it": "Il falso amico è forte: voler e vouloir sembrano simili ma hanno senso diverso."
+    },
+    {
+      "id": "L027-e36",
+      "type": "write",
+      "level": 2,
+      "concept": "demonstratives",
+      "prompt": "Riferito a «la chambre», rispondi: «Quella vicino alla finestra è tranquilla.»",
+      "answers": [
+        "Celle qui est [près|à côté] de la fenêtre est [tranquille|calme]"
+      ],
+      "explain_it": "Chambre è femminile singolare: celle, seguito dalla relativa qui est. Tranquille e calme sono invariabili al femminile.",
+      "ask": "Traduci in francese la risposta"
+    },
+    {
+      "id": "L027-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "imperative",
+      "prompt": "«Non perda il volo del sabato mattina.» (forma di cortesia)",
+      "answers": [
+        "Ne ratez pas le vol du samedi matin",
+        "Ne manquez pas le vol du samedi matin"
+      ],
+      "explain_it": "Rater è transitivo: si dice rater le vol senza preposizione. Manquer è un sinonimo accettato."
+    },
+    {
+      "id": "L027-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "questions",
+      "prompt": "«Quali alberghi sono aperti a Natale?»",
+      "answers": [
+        "Quels hôtels sont ouverts à Noël ?",
+        "Quels hôtels sont ouverts pour Noël ?"
+      ],
+      "explain_it": "Quels è l'aggettivo interrogativo maschile plurale; ouverts concorda con hôtels."
+    },
+    {
+      "id": "L027-e39",
+      "type": "flash",
+      "level": 3,
+      "concept": "demonstratives",
+      "front": "Celui-ci e celui-là: quando si usano?",
+      "back": "Per distinguere «questo» da «quello» fra due nomi dello stesso genere: celui-ci = questo (più vicino), celui-là = quello (più lontano). Con de e qui si usano invece celui de e celui qui.",
+      "note": "Esempio: celui-ci est près, celui-là est loin.",
+      "explain_it": "Il trattino unisce il pronome al suffisso -ci o -là."
+    },
+    {
+      "id": "L027-e40",
+      "type": "write",
+      "level": 3,
+      "concept": "demonstratives",
+      "prompt": "«Quale camera? Quella vicino all'ascensore è rumorosa.»",
+      "answers": [
+        "Quelle chambre ? Celle qui est près de l'ascenseur est bruyante",
+        "Quelle chambre ? Celle qui est à côté de l'ascenseur est bruyante"
+      ],
+      "explain_it": "Quelle è l'interrogativo femminile singolare; celle riprende chambre e la relativa concorda con il femminile bruyante."
+    },
+    {
+      "id": "L027-e41",
+      "type": "write",
+      "level": 3,
+      "concept": "plural",
+      "prompt": "«Le attrezzature delle camere superiori sono identiche a quelle dell'albergo.»",
+      "answers": [
+        "Les équipements des chambres supérieures sont identiques à ceux de l'hôtel"
+      ],
+      "explain_it": "Équipements è maschile plurale (in italiano attrezzature è femminile): il pronome è ceux, non celles."
+    },
+    {
+      "id": "L027-e42",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "«Mi piace la camera, ma scommetto che è rumorosa.»",
+      "answers": [
+        "J'aime la chambre, mais je parie qu'elle est bruyante",
+        "J'aime bien la chambre, mais je parie qu'elle est bruyante"
+      ],
+      "explain_it": "Je parie que significa «scommetto che». Elle riprende la chambre femminile."
+    },
+    {
+      "id": "L027-e43",
+      "type": "write",
+      "level": 3,
+      "concept": "prepositions-place",
+      "prompt": "«Secondo me il terminal è lontano dalla stazione, ma è vicino all'aeroporto.»",
+      "answers": [
+        "À mon avis, le terminal est loin de la gare, mais il est [à proximité de|près de] l'aéroport"
+      ],
+      "explain_it": "Loin de indica la distanza; à proximité de o près de indicano la vicinanza."
+    },
+    {
+      "id": "L027-e44",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "«Le consiglio di scegliere la camera del primo piano.» (forma di cortesia)",
+      "answers": [
+        "Je vous conseille de choisir la chambre du premier étage",
+        "Je vous conseille de choisir la chambre au premier étage"
+      ],
+      "explain_it": "Conseiller + de + infinito. Choisir è un verbo in -ir del secondo gruppo, come finir."
+    },
+    {
+      "id": "L027-e45",
+      "type": "write",
+      "level": 3,
+      "concept": "demonstratives",
+      "prompt": "Gli uffici? Quelli vicino all'ascensore non vanno bene: preferisco quelli vicino alla finestra.",
+      "answers": [
+        "[Les bureaux ?|] Ceux qui sont [près|à côté] de l'ascenseur ne me conviennent pas : je préfère ceux qui sont [près|à côté] de la fenêtre"
+      ],
+      "explain_it": "Ceux riprende bureaux (maschile plurale) e vuole la relativa qui sont. Ne me conviennent pas significa «non vanno bene»."
+    },
+    {
+      "id": "L027-e46",
+      "type": "dictation",
+      "level": 3,
+      "concept": "pronunciation",
+      "text": "Nous réservons une chambre supérieure au premier étage.",
+      "explain_it": "Attenzione alla r francese e alle e mute: réservons, chambre, premier."
+    }
+  ]
+}

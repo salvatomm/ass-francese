@@ -1,0 +1,797 @@
+{
+  "n": 33,
+  "title_fr": "Je n'ai rien dans ma garde-robe",
+  "title_it": "Non ho niente nell'armadio",
+  "review": false,
+  "status": "verified",
+  "source": "c15d4fa8 p61-66 (libro p.143-148; esercizi p.147, soluzioni p.148; lezione 34 da p.149 esclusa)",
+  "theme_it": "Margot va a trovare una persona di casa, che ha bisogno di un vestito estivo nuovo perché nell'armadio non c'è niente di adatto. Le chiede di aiutarla a sceglierlo e cercano insieme su un sito di moda online: ci sono migliaia di modelli, ma nessuno convince davvero, così si rimandano al giorno dopo.",
+  "grammar": [
+    {
+      "id": "imperative",
+      "title_it": "L'imperativo di tu nei verbi in -er",
+      "explain_it": "Alla seconda persona singolare (tu) i verbi in -er perdono la -s finale: tu regardes diventa Regarde! (Guarda!), tu parles diventa Parle! (Parla!). Non esiste una desinenza speciale come in italiano. Per tutti gli altri verbi regolari, e per molti irregolari in -ir e -re, l'imperativo tu è identico all'indicativo: tu attends diventa Attends! (Aspetta!). Con vous e nous la forma coincide con l'indicativo, senza pronome.",
+      "examples": [
+        {
+          "fr": "Regarde cette photo !",
+          "it": "Guarda questa foto!"
+        },
+        {
+          "fr": "Attends un instant !",
+          "it": "Aspetta un momento!"
+        },
+        {
+          "fr": "Réfléchis bien !",
+          "it": "Pensaci bene!"
+        }
+      ]
+    },
+    {
+      "id": "pronoun-order",
+      "title_it": "Me e te all'imperativo affermativo: moi e toi",
+      "explain_it": "Con l'imperativo affermativo i pronomi complemento me e te diventano moi e toi. Vanno dopo il verbo e si uniscono ad esso con un trattino, come in italiano («dammi», «siediti»). Nella forma negativa invece il pronome torna davanti al verbo, nella posizione normale: ne me donne pas.",
+      "examples": [
+        {
+          "fr": "Dis-moi la vérité !",
+          "it": "Dimmi la verità!"
+        },
+        {
+          "fr": "Lève-toi, il est tard.",
+          "it": "Alzati, è tardi."
+        },
+        {
+          "fr": "Ne me parle pas comme ça !",
+          "it": "Non parlarmi così!"
+        }
+      ]
+    },
+    {
+      "id": "negation-other",
+      "title_it": "Ne ... rien: niente, e pas du tout",
+      "explain_it": "Rien significa «niente» ed è una negazione che si costruisce con ne davanti al verbo e rien dopo, senza pas: pas creerebbe una doppia negazione. Si dice je n'ai rien, non je n'ai pas rien. Pas du tout («per niente, affatto») è una negazione rafforzata: si può usare da sola come risposta oppure dopo il verbo, come in je ne le connais pas du tout.",
+      "examples": [
+        {
+          "fr": "Je ne comprends rien.",
+          "it": "Non capisco niente."
+        },
+        {
+          "fr": "Nous n'avons rien à manger.",
+          "it": "Non abbiamo niente da mangiare."
+        },
+        {
+          "fr": "Je ne le connais pas du tout.",
+          "it": "Non lo conosco affatto."
+        }
+      ]
+    },
+    {
+      "id": "plural",
+      "title_it": "Vêtements: il plurale che in italiano è singolare",
+      "explain_it": "Il francese usa il plurale les vêtements per dire «l'abbigliamento», «i vestiti» in generale. In italiano «abbigliamento» è singolare, quindi è un tranello da tenere d'occhio. Un vêtement, al singolare, indica un singolo capo (una gonna, una giacca, un maglione). Gli aggettivi e i pronomi che si riferiscono a vêtements vanno al plurale.",
+      "examples": [
+        {
+          "fr": "Ces vêtements sont très chics.",
+          "it": "Questi vestiti sono molto eleganti."
+        },
+        {
+          "fr": "Ce vêtement est trop petit.",
+          "it": "Questo capo è troppo piccolo."
+        },
+        {
+          "fr": "Mes vêtements sont anciens.",
+          "it": "I miei vestiti sono vecchi."
+        }
+      ]
+    },
+    {
+      "id": "numbers",
+      "title_it": "Mille, un millier, des milliers de",
+      "explain_it": "Mille è invariabile e non prende mai la -s. Un millier (migliaio) è un nome maschile che indica circa mille unità; il plurale des milliers si usa sempre con de davanti al nome: des milliers de personnes (migliaia di persone). Attenzione al genere: un millier è maschile, mentre une dizaine e une centaine sono femminili.",
+      "examples": [
+        {
+          "fr": "Il y a un millier de visiteurs.",
+          "it": "Ci sono circa mille visitatori."
+        },
+        {
+          "fr": "Des milliers de gens attendent dehors.",
+          "it": "Migliaia di persone aspettano fuori."
+        },
+        {
+          "fr": "Une dizaine de personnes attendent.",
+          "it": "Una decina di persone aspetta."
+        }
+      ]
+    },
+    {
+      "id": "adjectives-irregular",
+      "title_it": "Bon marché: aggettivo invariabile",
+      "explain_it": "Bon marché («economico, a buon mercato») è un aggettivo composto invariabile: non cambia né al femminile né al plurale, e non ha il significato negativo di «scadente». Il suo sinonimo pas cher («non caro»), invece, si accorda normalmente: des hôtels pas chers.",
+      "examples": [
+        {
+          "fr": "Ce restaurant est bon marché.",
+          "it": "Questo ristorante è economico."
+        },
+        {
+          "fr": "Ces hôtels sont bon marché.",
+          "it": "Questi hotel sono economici."
+        },
+        {
+          "fr": "Des hôtels pas chers à Paris.",
+          "it": "Hotel economici a Parigi."
+        }
+      ]
+    },
+    {
+      "id": "adjective-agreement",
+      "title_it": "Gli aggettivi di colore",
+      "explain_it": "I colori usati come aggettivi concordano con il nome in genere e numero: un manteau bleu, une robe bleue, des jupes bleues. Se l'aggettivo maschile finisce già in -e (jaune, rouge), al femminile non cambia: un pull jaune, une robe jaune. Alcuni colori come orange e marron restano sempre invariati, come «rosa» e «viola» in italiano.",
+      "examples": [
+        {
+          "fr": "Une chemise verte.",
+          "it": "Una camicia verde."
+        },
+        {
+          "fr": "Des chaussettes noires.",
+          "it": "Dei calzini neri."
+        },
+        {
+          "fr": "Un pull rouge et une jupe orange.",
+          "it": "Un maglione rosso e una gonna arancione."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la garde-robe",
+      "it": "armadio, guardaroba",
+      "pos": "n",
+      "note": "au pluriel: les garde-robes"
+    },
+    {
+      "fr": "la robe",
+      "it": "vestito, abito da donna",
+      "pos": "n",
+      "note": "une robe d'été: un vestito estivo"
+    },
+    {
+      "fr": "l'été (m.)",
+      "it": "estate",
+      "pos": "n"
+    },
+    {
+      "fr": "le vêtement",
+      "it": "capo d'abbigliamento, indumento",
+      "pos": "n",
+      "note": "un vêtement: un singolo capo; les vêtements: l'abbigliamento"
+    },
+    {
+      "fr": "le chemisier",
+      "it": "camicetta",
+      "pos": "n"
+    },
+    {
+      "fr": "la jupe",
+      "it": "gonna",
+      "pos": "n"
+    },
+    {
+      "fr": "le pull",
+      "it": "maglione",
+      "pos": "n"
+    },
+    {
+      "fr": "le manteau",
+      "it": "cappotto",
+      "pos": "n",
+      "note": "au pluriel: les manteaux"
+    },
+    {
+      "fr": "le modèle",
+      "it": "modello",
+      "pos": "n"
+    },
+    {
+      "fr": "le millier",
+      "it": "migliaio",
+      "pos": "n",
+      "note": "des milliers de: migliaia di"
+    },
+    {
+      "fr": "bon marché",
+      "it": "economico, a buon mercato",
+      "pos": "adj",
+      "note": "invariabile"
+    },
+    {
+      "fr": "raisonnable",
+      "it": "ragionevole",
+      "pos": "adj"
+    },
+    {
+      "fr": "génial, géniale",
+      "it": "geniale, fantastico",
+      "pos": "adj"
+    },
+    {
+      "fr": "joli, jolie",
+      "it": "carino, grazioso",
+      "pos": "adj"
+    },
+    {
+      "fr": "chic",
+      "it": "elegante, alla moda",
+      "pos": "adj",
+      "note": "invariabile al femminile (chic); plurale chics"
+    },
+    {
+      "fr": "vert, verte",
+      "it": "verde",
+      "pos": "adj"
+    },
+    {
+      "fr": "noir, noire",
+      "it": "nero",
+      "pos": "adj"
+    },
+    {
+      "fr": "bleu, bleue",
+      "it": "blu, azzurro",
+      "pos": "adj"
+    },
+    {
+      "fr": "jaune",
+      "it": "giallo",
+      "pos": "adj"
+    },
+    {
+      "fr": "exister",
+      "it": "esistere",
+      "pos": "v",
+      "note": "il existe en rouge: esiste in rosso"
+    },
+    {
+      "fr": "intéresser",
+      "it": "interessare",
+      "pos": "v",
+      "note": "ce qui m'intéresse: ciò che mi interessa"
+    },
+    {
+      "fr": "déranger",
+      "it": "disturbare",
+      "pos": "v",
+      "note": "je ne vous dérange pas"
+    },
+    {
+      "fr": "s'asseoir",
+      "it": "sedersi",
+      "pos": "v",
+      "note": "assieds-toi: siediti"
+    },
+    {
+      "fr": "revenir",
+      "it": "tornare, ritornare",
+      "pos": "v",
+      "note": "je peux revenir"
+    },
+    {
+      "fr": "parmi",
+      "it": "tra, fra (in mezzo a)",
+      "pos": "prep"
+    },
+    {
+      "fr": "en ligne",
+      "it": "online, in rete",
+      "pos": "expr"
+    },
+    {
+      "fr": "quand même",
+      "it": "comunque, lo stesso",
+      "pos": "expr"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Quelle importance ?",
+      "it": "Che importanza ha?",
+      "note": "colloquiale: «che differenza fa?»"
+    },
+    {
+      "fr": "Ce n'est pas la même chose",
+      "it": "Non è la stessa cosa",
+      "note": "anche: ce n'est pas pareil"
+    },
+    {
+      "fr": "Merci quand même !",
+      "it": "Grazie lo stesso!",
+      "note": "si usa quando si rifiuta un aiuto o un'offerta gentile"
+    },
+    {
+      "fr": "Pas du tout",
+      "it": "Per niente, affatto",
+      "note": "risposta enfatica a una domanda o a un ringraziamento"
+    },
+    {
+      "fr": "Je ne vous dérange pas ?",
+      "it": "Non disturbo?",
+      "note": "formula di cortesia; con tu: je ne te dérange pas"
+    },
+    {
+      "fr": "À demain",
+      "it": "A domani",
+      "note": "saluto di congedo"
+    },
+    {
+      "fr": "Qu'est-ce que tu en penses ?",
+      "it": "Che cosa ne pensi?",
+      "note": "en = di questo, di ciò"
+    },
+    {
+      "fr": "Je sais bien, mais...",
+      "it": "Lo so bene, ma...",
+      "note": "per ammettere un punto prima di obiettare"
+    }
+  ],
+  "notes_it": [
+    "Franglais: l'inglese «email» è diventato in francese «courriel» (da courrier électronique), molto usato in Canada. In Francia si sente ancora «le mail» (in generale) o «un mail» (una email). Attenzione a émail, con accento acuto: significa smalto.",
+    "Garde-robe significa letteralmente «conserva i vestiti» e indica l'armadio. È un altro esempio di parola francese con un legame con l'inglese (wardrobe). Il plurale è les garde-robes.",
+    "Le Bon Marché è stato il primo grand magasin (grande magazzino) del mondo, aperto a Parigi nel 1852. Per la spesa alimentare si dice faire les courses; per vestiti e altri acquisti si usa faire du shopping, anglicismo che i puristi non amano (preferiscono faire des achats). In Canada si dice faire du magasinage.",
+    "Negli indirizzi web il punto si dice point: mode.fr si legge «mode point effe erre». La chiocciola @ si dice arobase.",
+    "Bon marché non si accorda mai (un hôtel bon marché, des hôtels bon marché), mentre pas cher sì (des hôtels pas chers). Non è un sinonimo perfetto: bon marché non ha connotazione negativa."
+  ],
+  "exercises": [
+    {
+      "id": "L033-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "imperative",
+      "prompt": "Come si dice «Guarda questa camicetta!» (con tu)?",
+      "options": [
+        "Regardes ce chemisier !",
+        "Regarde ce chemisier !",
+        "Regarder ce chemisier !",
+        "Tu regardes ce chemisier !"
+      ],
+      "correct": 1,
+      "explain_it": "Con tu, all'imperativo dei verbi in -er si toglie la -s finale: regardes diventa regarde."
+    },
+    {
+      "id": "L033-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronoun-order",
+      "prompt": "Come si dice «Dammi la chiave!» (con tu)?",
+      "options": [
+        "Donne-me la clé !",
+        "Donne-moi la clé !",
+        "Donne la clé-moi !",
+        "Donnes-moi la clé !"
+      ],
+      "correct": 1,
+      "explain_it": "All'imperativo affermativo il pronome me diventa moi e si attacca al verbo con un trattino."
+    },
+    {
+      "id": "L033-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "negation-other",
+      "prompt": "Quale frase significa «Non capisco niente»?",
+      "options": [
+        "Je ne comprends rien.",
+        "Je ne comprends pas rien.",
+        "Je comprends rien pas.",
+        "Je ne comprends pas du rien."
+      ],
+      "correct": 0,
+      "explain_it": "Con rien si usa solo ne davanti al verbo: aggiungere pas creerebbe una doppia negazione."
+    },
+    {
+      "id": "L033-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "plural",
+      "prompt": "Come si dice «I miei vestiti sono troppo grandi»?",
+      "options": [
+        "Mes vêtements sont trop grands.",
+        "Mon vêtement sont trop grands.",
+        "Mes vêtement est trop grand.",
+        "Mes vêtements est trop grands."
+      ],
+      "correct": 0,
+      "explain_it": "Vêtements è plurale in francese, quindi il possessivo, il verbo e l'aggettivo vanno al plurale."
+    },
+    {
+      "id": "L033-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "adjective-agreement",
+      "prompt": "Come si dice «una gonna verde»?",
+      "options": [
+        "une jupe verte",
+        "une jupe vert",
+        "un jupe verte",
+        "une jupe vertes"
+      ],
+      "correct": 0,
+      "explain_it": "Il colore si accorda con il nome: jupe è femminile singolare, quindi verte."
+    },
+    {
+      "id": "L033-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "imperative",
+      "prompt": "Entra, per favore (con tu).",
+      "answers": [
+        "Entre, s'il te plaît."
+      ],
+      "distractors": [
+        "vous",
+        "Entrez"
+      ],
+      "explain_it": "Con tu l'imperativo di entrer perde la -s finale: entre."
+    },
+    {
+      "id": "L033-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "pronoun-order",
+      "prompt": "Dammi il sale, per favore (con tu).",
+      "answers": [
+        "Donne-moi le sel, s'il te plaît."
+      ],
+      "distractors": [
+        "toi",
+        "vous"
+      ],
+      "explain_it": "Il pronome me, all'imperativo affermativo, diventa moi e segue il verbo."
+    },
+    {
+      "id": "L033-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "negation-other",
+      "prompt": "Non ho niente da fare stasera.",
+      "answers": [
+        "Je n'ai rien à faire ce soir."
+      ],
+      "distractors": [
+        "pas",
+        "du"
+      ],
+      "explain_it": "Niente si dice rien e non si usa con pas."
+    },
+    {
+      "id": "L033-e09",
+      "type": "cloze",
+      "level": 1,
+      "concept": "negation-other",
+      "text": "Je ne comprends ___ de ce film.",
+      "answers": [
+        "rien"
+      ],
+      "hint": "(pronome negativo: niente)",
+      "prompt": "Non capisco niente di questo film.",
+      "explain_it": "Rien completa ne ... in modo da formare la negazione «niente»."
+    },
+    {
+      "id": "L033-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "imperative",
+      "text": "___, il fait froid !",
+      "answers": [
+        "Entre"
+      ],
+      "hint": "(entrer, imperativo tu)",
+      "prompt": "Entra, fa freddo!",
+      "explain_it": "All'imperativo tu dei verbi in -er non si scrive la -s finale."
+    },
+    {
+      "id": "L033-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "pronoun-order",
+      "text": "Lève-___ tout de suite !",
+      "answers": [
+        "toi"
+      ],
+      "hint": "(se lever, imperativo tu)",
+      "prompt": "Alzati subito!",
+      "explain_it": "Nell'imperativo affermativo, te diventa toi e segue il verbo."
+    },
+    {
+      "id": "L033-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "plural",
+      "text": "Ces ___ sont très chics.",
+      "answers": [
+        "vêtements"
+      ],
+      "hint": "(plurale)",
+      "prompt": "Questi capi d'abbigliamento sono molto eleganti.",
+      "explain_it": "In francese «abbigliamento» è plurale: les vêtements, anche se in italiano è singolare."
+    },
+    {
+      "id": "L033-e13",
+      "type": "write",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Non è la stessa cosa.",
+      "answers": [
+        "Ce n'est pas la même chose",
+        "Ce n'est pas pareil",
+        "C'est pas la même chose"
+      ],
+      "explain_it": "Si dice ce n'est pas la même chose, oppure, più informale, ce n'est pas pareil."
+    },
+    {
+      "id": "L033-e14",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "Cerco una gonna nera.",
+      "answers": [
+        "Je cherche une jupe noire."
+      ],
+      "explain_it": "Noire è al femminile perché jupe è femminile."
+    },
+    {
+      "id": "L033-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "negation-other",
+      "prompt": "Nell'armadio non c'è niente.",
+      "answers": [
+        "Il n'y a rien dans [l'armoire|mon armoire|le placard|la garde-robe|ma garde-robe]."
+      ],
+      "explain_it": "Con rien il verbo è incorniciato da ne ... rien e non si aggiunge pas."
+    },
+    {
+      "id": "L033-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-order",
+      "prompt": "Ascoltami un momento (con tu).",
+      "answers": [
+        "Écoute-moi [un moment|un instant|une minute]"
+      ],
+      "explain_it": "Il pronome moi segue il verbo all'imperativo affermativo e si unisce con un trattino."
+    },
+    {
+      "id": "L033-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "imperative",
+      "prompt": "Non entrare (con tu).",
+      "answers": [
+        "N'entre pas !",
+        "N'entre pas"
+      ],
+      "explain_it": "Alla forma negativa l'imperativo tu è entre, senza -s, con pas dopo il verbo."
+    },
+    {
+      "id": "L033-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "plural",
+      "prompt": "Questi vestiti sono nuovi.",
+      "answers": [
+        "Ces vêtements sont [neufs|nouveaux]."
+      ],
+      "explain_it": "Vêtements è plurale in francese, quindi il verbo e l'aggettivo vanno al plurale."
+    },
+    {
+      "id": "L033-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "numbers",
+      "prompt": "Ci sono migliaia di persone.",
+      "answers": [
+        "Il y a des milliers de personnes.",
+        "Il y a des milliers de gens."
+      ],
+      "explain_it": "Migliaia si dice des milliers de, con de prima del nome."
+    },
+    {
+      "id": "L033-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "adjectives-irregular",
+      "prompt": "Questa gonna è economica.",
+      "answers": [
+        "Cette jupe est bon marché.",
+        "Cette jupe n'est pas chère."
+      ],
+      "explain_it": "Bon marché non cambia mai; pas cher si accorda con il nome (pas chère) e richiede ne: n'est pas chère."
+    },
+    {
+      "id": "L033-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-en",
+      "prompt": "Ne hai bisogno subito?",
+      "answers": [
+        "[Tu en as|En as-tu|Est-ce que tu en as] besoin [tout de suite|maintenant] ?"
+      ],
+      "explain_it": "Con avoir besoin de si usa en per riprendere il complemento già nominato."
+    },
+    {
+      "id": "L033-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "imperative",
+      "prompt": "Aspettate un momento, per favore (con vous).",
+      "answers": [
+        "Attendez [un moment|un instant], s'il vous plaît."
+      ],
+      "explain_it": "Con vous l'imperativo è identico all'indicativo: attendez, senza pronome soggetto."
+    },
+    {
+      "id": "L033-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "demonstratives",
+      "prompt": "Preferisco quella verde.",
+      "answers": [
+        "[Je|Moi, je] préfère [celle-là, la verte|celle qui est verte|la verte]."
+      ],
+      "explain_it": "Celle-là si accorda con il genere del nome sostituito (une robe, femminile); -là indica il nome più lontano."
+    },
+    {
+      "id": "L033-e24",
+      "type": "dictation",
+      "level": 2,
+      "concept": "pronoun-order",
+      "text": "Dis-moi ce que tu veux.",
+      "explain_it": "Dis-moi è l'imperativo di dire più il pronome moi unito con un trattino."
+    },
+    {
+      "id": "L033-e25",
+      "type": "dictation",
+      "level": 2,
+      "concept": "numbers",
+      "text": "Il y a des milliers de vêtements dans ce magasin.",
+      "explain_it": "Dopo des milliers il nome segue con de, mentre vêtements resta plurale."
+    },
+    {
+      "id": "L033-e26",
+      "type": "flash",
+      "level": 2,
+      "concept": "imperative",
+      "front": "Imperativo di tu nei verbi in -er (parler, regarder): come si forma?",
+      "back": "Si toglie la -s finale: tu parles diventa Parle!, tu regardes diventa Regarde!",
+      "note": "Per i verbi regolari in -ir e -re e per molti irregolari l'imperativo tu è identico all'indicativo."
+    },
+    {
+      "id": "L033-e27",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronoun-order",
+      "front": "Imperativo affermativo con me e te: quale forma?",
+      "back": "moi e toi, uniti al verbo con un trattino: Donne-moi! Assieds-toi!",
+      "note": "Alla forma negativa l'ordine è quello normale: ne me donne pas."
+    },
+    {
+      "id": "L033-e28",
+      "type": "flash",
+      "level": 2,
+      "concept": "negation-other",
+      "front": "Ne ... rien: come si usa?",
+      "back": "ne davanti al verbo, rien dopo: je n'ai rien. Non si aggiunge pas.",
+      "note": "Pas du tout («per niente») si può usare da solo o dopo il verbo: je ne les connais pas du tout."
+    },
+    {
+      "id": "L033-e29",
+      "type": "flash",
+      "level": 2,
+      "concept": "plural",
+      "front": "Vestiti in francese: plurale o singolare?",
+      "back": "les vêtements è plurale (l'abbigliamento); un vêtement è il singolo capo.",
+      "note": "In italiano «abbigliamento» è singolare: in francese è plurale."
+    },
+    {
+      "id": "L033-e30",
+      "type": "flash",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "front": "Colori in francese: quando non cambiano?",
+      "back": "Quando il maschile finisce già in -e (jaune, rouge) al femminile non cambiano; orange e marron sono sempre invariabili.",
+      "note": "Gli altri si accordano: vert, verte; bleu, bleue; noir, noire."
+    },
+    {
+      "id": "L033-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-cod",
+      "prompt": "Non ti disturbo? Posso tornare più tardi.",
+      "answers": [
+        "Je ne te dérange pas ? Je peux revenir [plus tard|un autre jour]."
+      ],
+      "explain_it": "Il pronome te è complemento oggetto di déranger; con la negazione si mette tra ne e il verbo."
+    },
+    {
+      "id": "L033-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "negation-other",
+      "prompt": "Non voglio niente di questo.",
+      "answers": [
+        "Je ne veux rien de [ça|cela].",
+        "Je n'en veux rien."
+      ],
+      "explain_it": "Niente di questo = rien de ça (o, più letterario, je n'en veux rien): ne davanti al verbo, rien dopo."
+    },
+    {
+      "id": "L033-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "adjective-agreement",
+      "prompt": "Cerco delle camicette arancioni e dei maglioni gialli.",
+      "answers": [
+        "Je cherche des chemisiers orange et des pulls jaunes."
+      ],
+      "explain_it": "Orange è invariabile, mentre jaune è già terminato in -e e al plurale prende solo -s."
+    },
+    {
+      "id": "L033-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "numbers",
+      "prompt": "Ci sono circa mille persone alla festa.",
+      "answers": [
+        "Il y a [un millier|environ mille] [de personnes|personnes] à la [fête|soirée]."
+      ],
+      "explain_it": "Un millier è maschile e vuole de prima del nome."
+    },
+    {
+      "id": "L033-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-order",
+      "prompt": "Parlami del tuo progetto, per favore (con tu).",
+      "answers": [
+        "Parle-moi de ton projet[, s'il te plaît|]."
+      ],
+      "explain_it": "Con l'imperativo affermativo me diventa moi e segue il verbo con un trattino."
+    },
+    {
+      "id": "L033-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "negation-other",
+      "prompt": "Non vedo niente senza occhiali.",
+      "answers": [
+        "Je ne vois rien sans [mes |]lunettes."
+      ],
+      "explain_it": "Ne ... rien incornicia il verbo senza pas: je ne vois rien."
+    },
+    {
+      "id": "L033-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "adjectives-irregular",
+      "prompt": "Queste camicette sono economiche e molto eleganti.",
+      "answers": [
+        "Ces chemisiers sont [bon marché|pas chers] et très chics."
+      ],
+      "explain_it": "Bon marché resta invariato, mentre chics si accorda al plurale."
+    },
+    {
+      "id": "L033-e38",
+      "type": "dictation",
+      "level": 3,
+      "concept": "adjective-agreement",
+      "text": "Cette robe verte est très jolie, mais je préfère la bleue.",
+      "explain_it": "Bleue è al femminile perché sostituisce robe; verte concorda con robe."
+    },
+    {
+      "id": "L033-e39",
+      "type": "dictation",
+      "level": 3,
+      "concept": "negation-other",
+      "text": "Je ne veux rien acheter aujourd'hui.",
+      "explain_it": "Con un verbo all'infinito, rien va dopo il verbo coniugato con ne, e la negazione resta unica."
+    }
+  ]
+}

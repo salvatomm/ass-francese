@@ -1,0 +1,765 @@
+{
+  "n": 20,
+  "title_fr": "Un monde idéal",
+  "title_it": "Un mondo ideale",
+  "review": false,
+  "status": "verified",
+  "source": "529edcbd p89-94 (libro p.73-78; esercizi p.77-78)",
+  "theme_it": "Un programma televisivo chiede a quattro ambasciatori (Giappone, India, Stati Uniti e Francia) che cosa desiderano per il Natale e per un mondo ideale. Le risposte dei primi tre sono tutte di principi generali, mentre quella dell'ambasciatore francese è più curiosa e divertente, e fa sorridere il conduttore.",
+  "grammar": [
+    {
+      "id": "contractions-au-du",
+      "title_it": "Au e aux: la preposizione à con l'articolo",
+      "explain_it": "La preposizione à (a, in) si fonde con l'articolo determinativo maschile le e con il plurale les: à + le diventa au, à + les diventa aux, per entrambi i generi. Il francese non scrive mai à le o à les. Davanti a un nome femminile singolare restano à la e à l' (come in italiano 'alla' e 'all''). Au e aux si usano anche con i nomi di paese: au Japon è maschile, aux États-Unis è plurale. Al plurale la -x di aux è muta, salvo davanti a vocale.",
+      "examples": [
+        {
+          "fr": "Nous allons au marché.",
+          "it": "Andiamo al mercato."
+        },
+        {
+          "fr": "Ils parlent aux ambassadeurs.",
+          "it": "Parlano agli ambasciatori."
+        },
+        {
+          "fr": "Elle habite au Japon.",
+          "it": "Lei abita in Giappone."
+        }
+      ]
+    },
+    {
+      "id": "partitif",
+      "title_it": "Du, de la, des: l'articolo partitivo",
+      "explain_it": "L'articolo partitivo indica una quantità non precisata di qualcosa, come 'del', 'della', 'dei' in italiano, anche se in italiano spesso si può omettere. Si forma con de più l'articolo: du per il maschile singolare, de la per il femminile singolare, des per il plurale. Davanti a un nome singolare che inizia per vocale o h muta si usa de l', per qualsiasi genere: de l'argent (m.), de l'eau (f.). Il genere del nome si ricava dalla parola, non dalla forma del partitivo.",
+      "examples": [
+        {
+          "fr": "Je veux du chocolat.",
+          "it": "Voglio del cioccolato."
+        },
+        {
+          "fr": "Elle achète de la crème.",
+          "it": "Lei compra della panna."
+        },
+        {
+          "fr": "Il y a de l'eau.",
+          "it": "C'è dell'acqua."
+        }
+      ]
+    },
+    {
+      "id": "gender",
+      "title_it": "Paesi e nazionalità: genere, preposizione e maiuscole",
+      "explain_it": "La maggior parte dei paesi che finiscono in -e è femminile (la France, la Belgique, l'Italie) e con loro si usa en. Gli altri sono maschili (le Japon, le Canada) e richiedono au. Alcuni sono plurali, come les États-Unis, e richiedono aux. Per le nazionalità si distingue tra nome e aggettivo: quando indica la persona, il nome prende la maiuscola (un Américain, une Japonaise); quando qualifica una cosa, l'aggettivo si scrive con la minuscola (l'ambassadeur américain).",
+      "examples": [
+        {
+          "fr": "Elle habite en Belgique.",
+          "it": "Lei abita in Belgio."
+        },
+        {
+          "fr": "Un Américain et une Japonaise.",
+          "it": "Un americano e una giapponese."
+        },
+        {
+          "fr": "L'ambassadeur américain.",
+          "it": "L'ambasciatore americano."
+        }
+      ]
+    },
+    {
+      "id": "plural",
+      "title_it": "Il plurale di pays, prix e simili",
+      "explain_it": "Alcuni nomi che finiscono in -s, -x o -z hanno la stessa forma al singolare e al plurale: il pays e les pays, il prix e les prix. Per capire se il nome è singolare o plurale bisogna guardare l'articolo o il possessivo (mon pays / nos pays), non la terminazione. Anche la pronuncia non cambia, perché le consonanti finali sono mute, salvo davanti a vocale.",
+      "examples": [
+        {
+          "fr": "Mon pays est grand.",
+          "it": "Il mio paese è grande."
+        },
+        {
+          "fr": "Nos pays sont voisins.",
+          "it": "I nostri paesi sono vicini."
+        },
+        {
+          "fr": "Le prix est juste.",
+          "it": "Il prezzo è giusto."
+        }
+      ]
+    },
+    {
+      "id": "negation",
+      "title_it": "Ce n'est pas vrai: la negazione e il ne che si perde",
+      "explain_it": "La negazione si costruisce con ne prima del verbo e pas dopo: ce n'est pas vrai (non è vero). Davanti a una vocale o a una h muta ne diventa n'. Nel parlato molti omettono ne (c'est pas vrai), ma nella lingua corretta, soprattutto scritta, il ne va sempre mantenuto. L'espressione ce n'est pas vrai può anche voler dire 'non ci credo'. Vrai (vero) significa anche reale: la vraie raison è la vera ragione.",
+      "examples": [
+        {
+          "fr": "Ce n'est pas vrai !",
+          "it": "Non ci credo! / Non è vero!"
+        },
+        {
+          "fr": "Il n'est pas honnête.",
+          "it": "Non è onesto."
+        },
+        {
+          "fr": "C'est la vraie raison.",
+          "it": "È la vera ragione."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "l'émission (f.)",
+      "it": "la trasmissione (tv o radio)",
+      "pos": "n",
+      "note": "non è l'emissione nel senso di emissione di gas"
+    },
+    {
+      "fr": "idéal(e)",
+      "it": "ideale",
+      "pos": "adj",
+      "note": "un monde idéal"
+    },
+    {
+      "fr": "le monde",
+      "it": "il mondo",
+      "pos": "n",
+      "note": "tout le monde = tutti"
+    },
+    {
+      "fr": "le pays",
+      "it": "il paese, la nazione",
+      "pos": "n"
+    },
+    {
+      "fr": "l'ambassadeur (m.)",
+      "it": "l'ambasciatore",
+      "pos": "n",
+      "note": "al femminile: l'ambassadrice"
+    },
+    {
+      "fr": "la question",
+      "it": "la domanda",
+      "pos": "n"
+    },
+    {
+      "fr": "poser",
+      "it": "porre",
+      "pos": "v",
+      "note": "poser une question = fare una domanda"
+    },
+    {
+      "fr": "le Japon",
+      "it": "il Giappone",
+      "pos": "n"
+    },
+    {
+      "fr": "l'Inde (f.)",
+      "it": "l'India",
+      "pos": "n"
+    },
+    {
+      "fr": "la réponse",
+      "it": "la risposta",
+      "pos": "n"
+    },
+    {
+      "fr": "le bonheur",
+      "it": "la felicità",
+      "pos": "n"
+    },
+    {
+      "fr": "la paix",
+      "it": "la pace",
+      "pos": "n"
+    },
+    {
+      "fr": "le droit",
+      "it": "il diritto",
+      "pos": "n",
+      "note": "les droits humains = i diritti umani"
+    },
+    {
+      "fr": "la santé",
+      "it": "la salute",
+      "pos": "n"
+    },
+    {
+      "fr": "l'éducation (f.)",
+      "it": "l'istruzione, l'educazione",
+      "pos": "n",
+      "note": "attenzione: anche buone maniere"
+    },
+    {
+      "fr": "l'emploi (m.)",
+      "it": "il lavoro, il posto di lavoro",
+      "pos": "n"
+    },
+    {
+      "fr": "l'argent (m.)",
+      "it": "il denaro",
+      "pos": "n"
+    },
+    {
+      "fr": "le bien-être",
+      "it": "il benessere",
+      "pos": "n"
+    },
+    {
+      "fr": "intéressant(e)",
+      "it": "interessante",
+      "pos": "adj"
+    },
+    {
+      "fr": "honnête",
+      "it": "onesto",
+      "pos": "adj",
+      "note": "uguale al maschile e al femminile"
+    },
+    {
+      "fr": "vrai(e)",
+      "it": "vero, vera",
+      "pos": "adj",
+      "note": "anche reale: la vraie réponse"
+    },
+    {
+      "fr": "le collègue",
+      "it": "il collega",
+      "pos": "n",
+      "note": "al femminile: la collègue"
+    },
+    {
+      "fr": "américain(e)",
+      "it": "americano",
+      "pos": "adj",
+      "note": "come nome: un Américain, una Américaine"
+    },
+    {
+      "fr": "indien(ne)",
+      "it": "indiano",
+      "pos": "adj"
+    },
+    {
+      "fr": "japonais(e)",
+      "it": "giapponese",
+      "pos": "adj"
+    },
+    {
+      "fr": "le chocolat",
+      "it": "il cioccolato",
+      "pos": "n"
+    },
+    {
+      "fr": "le vin blanc",
+      "it": "il vino bianco",
+      "pos": "n"
+    },
+    {
+      "fr": "la crème fraîche",
+      "it": "la panna fresca (crème fraîche)",
+      "pos": "n"
+    },
+    {
+      "fr": "l'ordre (m.)",
+      "it": "l'ordine",
+      "pos": "n"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Ah bon ?",
+      "it": "Davvero? Ah sì?",
+      "note": "registro colloquiale: esprime sorpresa, a volte un po' di dubbio"
+    },
+    {
+      "fr": "Ce n'est pas vrai !",
+      "it": "Non ci credo! Non è possibile!",
+      "note": "esclamazione: anche per 'scherzi!'"
+    },
+    {
+      "fr": "au moins",
+      "it": "almeno",
+      "note": "es. Au moins, il ne ment pas."
+    },
+    {
+      "fr": "pour tout le monde",
+      "it": "per tutti",
+      "note": "usato anche come soggetto: tout le monde veut la paix"
+    },
+    {
+      "fr": "dans l'ordre",
+      "it": "nell'ordine indicato",
+      "note": "per elencare le risposte in sequenza"
+    },
+    {
+      "fr": "Qu'est-ce que vous voulez pour Noël ?",
+      "it": "Cosa desidera per Natale?",
+      "note": "forma di cortesia con vous"
+    },
+    {
+      "fr": "Qu'est-ce qu'il veut ?",
+      "it": "Che cosa vuole?",
+      "note": "forma colloquiale, con est-ce que"
+    },
+    {
+      "fr": "Voici leurs réponses.",
+      "it": "Ecco le loro risposte.",
+      "note": "voici introduce ciò che si presenta"
+    }
+  ],
+  "notes_it": [
+    "Pronuncia: la -x di aux non si legge di norma, ma davanti a vocale suona [z], come la -s del plurale nella liaison: aux ambassadeurs.",
+    "Lingua parlata: nel francese di tutti i giorni il ne della negazione si omette spesso (c'est pas vrai). Va bene capirlo, ma è meglio non imitarlo nello scritto e nei contesti formali.",
+    "Falso amico: l'émission non è l'emissione (di gas o di onde nel senso fisico), ma il programma televisivo o radiofonico. Carte blanche, titolo del programma, significa 'carta bianca', cioè spazio libero concesso a qualcuno.",
+    "Falso amico: honnête vuol dire onesto, non onorevole (quello è honorable). L'éducation può significare sia istruzione sia buone maniere: avoir de l'éducation significa essere educati."
+  ],
+  "exercises": [
+    {
+      "id": "L020-e01",
+      "type": "flash",
+      "level": 2,
+      "concept": "partitif",
+      "front": "Come si forma l'articolo partitivo (del, della, dei)?",
+      "back": "Con de più l'articolo: du (maschile singolare), de la (femminile singolare), des (plurale). Davanti a vocale o h muta il singolare diventa de l' per tutti i generi.",
+      "note": "Il partitivo indica una quantità non precisata: Je veux du pain.",
+      "explain_it": "Il partitivo esprime una quantità indefinita, e de l' evita l'incontro di due vocali."
+    },
+    {
+      "id": "L020-e02",
+      "type": "flash",
+      "level": 2,
+      "concept": "contractions-au-du",
+      "front": "Come si contrae à con l'articolo le e con les?",
+      "back": "à + le = au; à + les = aux, per tutti i generi. À la e à l' non cambiano.",
+      "explain_it": "La contrazione serve per fondere la preposizione con l'articolo maschile o plurale."
+    },
+    {
+      "id": "L020-e03",
+      "type": "flash",
+      "level": 2,
+      "concept": "plural",
+      "front": "Come si riconosce il plurale di un nome in -s, -x o -z, come le prix?",
+      "back": "Non dalla terminazione, ma dall'articolo o dal possessivo: le prix / les prix, le pays / les pays. Le consonanti finali sono mute, tranne davanti a vocale.",
+      "explain_it": "Questi nomi non cambiano forma: il contesto dell'articolo è l'unica guida."
+    },
+    {
+      "id": "L020-e04",
+      "type": "flash",
+      "level": 2,
+      "concept": "gender",
+      "front": "Paesi in -e: quale preposizione si usa con i paesi femminili, maschili e plurali?",
+      "back": "Femminili (la France, la Belgique): en. Maschili (le Japon): au. Plurali (les États-Unis): aux.",
+      "explain_it": "Il genere del paese determina la preposizione: la regola serve quando si dice dove si abita o si viaggia."
+    },
+    {
+      "id": "L020-e05",
+      "type": "flash",
+      "level": 3,
+      "concept": "contractions-au-du",
+      "front": "Perché si dice «aux États-Unis» e non «à les États-Unis»?",
+      "back": "Perché à + les si contrae sempre in aux, anche con i nomi di paesi plurali: aux États-Unis.",
+      "explain_it": "La contrazione con l'articolo plurale è obbligatoria, anche quando il nome è un nome proprio."
+    },
+    {
+      "id": "L020-e06",
+      "type": "mcq",
+      "level": 1,
+      "concept": "partitif",
+      "prompt": "Come si dice «voglio del pane» in francese?",
+      "options": [
+        "Je veux du pain.",
+        "Je veux le pain.",
+        "Je veux de pain.",
+        "Je veux les pains."
+      ],
+      "correct": 0,
+      "explain_it": "Pain è maschile singolare: del pane si dice du pain, con du = de + le."
+    },
+    {
+      "id": "L020-e07",
+      "type": "mcq",
+      "level": 1,
+      "concept": "contractions-au-du",
+      "prompt": "Quale frase vuol dire «andiamo al mercato»?",
+      "options": [
+        "Nous allons au marché.",
+        "Nous allons à le marché.",
+        "Nous allons aux marché.",
+        "Nous allons de marché."
+      ],
+      "correct": 0,
+      "explain_it": "À + le si contrae in au; à le non esiste in francese."
+    },
+    {
+      "id": "L020-e08",
+      "type": "mcq",
+      "level": 1,
+      "concept": "gender",
+      "prompt": "Quale di questi paesi è femminile?",
+      "options": [
+        "le Japon",
+        "la Belgique",
+        "les États-Unis",
+        "le Canada"
+      ],
+      "correct": 1,
+      "explain_it": "La Belgique è femminile, come la maggior parte dei paesi in -e; Japon, Canada e États-Unis non lo sono."
+    },
+    {
+      "id": "L020-e09",
+      "type": "mcq",
+      "level": 1,
+      "concept": "negation",
+      "prompt": "Quale frase esprime «non ci credo!»?",
+      "options": [
+        "Ce n'est pas vrai !",
+        "Ce ne est pas vrai !",
+        "Ce n'est vrai pas !",
+        "Ce pas est vrai !"
+      ],
+      "correct": 0,
+      "explain_it": "La negazione ne ... pas circonda il verbo; davanti a est il ne diventa n'."
+    },
+    {
+      "id": "L020-e10",
+      "type": "order",
+      "level": 1,
+      "concept": "possessives",
+      "prompt": "Ecco le loro idee.",
+      "answers": [
+        "Voici leurs idées.",
+        "Voilà leurs idées."
+      ],
+      "distractors": [
+        "mes",
+        "vous"
+      ],
+      "explain_it": "Leurs (loro) concorda con il plurale idées."
+    },
+    {
+      "id": "L020-e11",
+      "type": "order",
+      "level": 1,
+      "concept": "partitif",
+      "prompt": "Lei compra del formaggio e delle ciliegie.",
+      "answers": [
+        "Elle achète du fromage et des cerises."
+      ],
+      "distractors": [
+        "de",
+        "les"
+      ],
+      "explain_it": "Del e delle si rendono con du e des, forme del partitivo."
+    },
+    {
+      "id": "L020-e12",
+      "type": "order",
+      "level": 1,
+      "concept": "negation",
+      "prompt": "Non è vero!",
+      "answers": [
+        "Ce n'est pas vrai !"
+      ],
+      "distractors": [
+        "ne",
+        "vraie"
+      ],
+      "explain_it": "Ce n'est pas vrai è la forma più comune per dire 'non ci credo' o 'non è vero'."
+    },
+    {
+      "id": "L020-e13",
+      "type": "order",
+      "level": 1,
+      "concept": "partitif",
+      "prompt": "Dei biscotti, della birra e del pane.",
+      "answers": [
+        "Des biscuits, de la bière et du pain."
+      ],
+      "distractors": [
+        "les",
+        "le"
+      ],
+      "explain_it": "Tre partitivi in una frase: des per il plurale, de la per il femminile, du per il maschile."
+    },
+    {
+      "id": "L020-e14",
+      "type": "cloze",
+      "level": 1,
+      "concept": "partitif",
+      "text": "Je voudrais ___ chocolat, s'il vous plaît.",
+      "answers": [
+        "du"
+      ],
+      "hint": "(partitivo, maschile singolare)",
+      "prompt": "Vorrei del cioccolato, per favore.",
+      "explain_it": "Chocolat è maschile e singolare: il partitivo è du."
+    },
+    {
+      "id": "L020-e15",
+      "type": "cloze",
+      "level": 1,
+      "concept": "contractions-au-du",
+      "text": "Mon cousin habite ___ Japon.",
+      "answers": [
+        "au"
+      ],
+      "hint": "(à + le)",
+      "prompt": "Mio cugino abita in Giappone.",
+      "explain_it": "Con i paesi maschili si usa au: au Japon."
+    },
+    {
+      "id": "L020-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "contractions-au-du",
+      "text": "Ils parlent ___ ambassadeurs.",
+      "answers": [
+        "aux"
+      ],
+      "hint": "(à + les)",
+      "prompt": "Parlano agli ambasciatori.",
+      "explain_it": "Il plurale di à + les si contrae sempre in aux."
+    },
+    {
+      "id": "L020-e17",
+      "type": "cloze",
+      "level": 2,
+      "concept": "modals",
+      "text": "Qu'est-ce que vous ___ comme dessert ?",
+      "answers": [
+        "voulez"
+      ],
+      "hint": "(vouloir, presente, vous)",
+      "prompt": "Cosa volete come dolce?",
+      "explain_it": "Vouloir alla forma vous fa voulez."
+    },
+    {
+      "id": "L020-e18",
+      "type": "cloze",
+      "level": 2,
+      "concept": "possessives",
+      "text": "Voici ___ idées pour la fête.",
+      "answers": [
+        "leurs"
+      ],
+      "hint": "(loro, plurale)",
+      "prompt": "Ecco le loro idee per la festa.",
+      "explain_it": "Leurs è il possessivo di più persone e concorda con il plurale idées."
+    },
+    {
+      "id": "L020-e19",
+      "type": "cloze",
+      "level": 2,
+      "concept": "partitif",
+      "text": "Ce matin, nous achetons ___ fraises et du pain.",
+      "answers": [
+        "des"
+      ],
+      "hint": "(partitivo, plurale)",
+      "prompt": "Stamattina compriamo delle fragole e del pane.",
+      "explain_it": "Fraises è plurale: il partitivo plurale è des."
+    },
+    {
+      "id": "L020-e20",
+      "type": "cloze",
+      "level": 2,
+      "concept": "negation",
+      "text": "Ce ___ pas vrai ! Elle est très honnête.",
+      "answers": [
+        "n'est"
+      ],
+      "hint": "(essere, presente, con ne davanti a vocale)",
+      "prompt": "Non è vero! È molto onesta.",
+      "explain_it": "Davanti a est il ne diventa n': ce n'est pas."
+    },
+    {
+      "id": "L020-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "partitif",
+      "prompt": "Vorrei del vino bianco.",
+      "answers": [
+        "Je [voudrais|veux] du vin blanc."
+      ],
+      "explain_it": "Del vino è du vin, perché vin è maschile singolare."
+    },
+    {
+      "id": "L020-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "contractions-au-du",
+      "prompt": "Andiamo al mercato.",
+      "answers": [
+        "Nous allons au marché.",
+        "On va au marché."
+      ],
+      "explain_it": "À + le si contrae in au davanti a un nome maschile singolare."
+    },
+    {
+      "id": "L020-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "contractions-au-du",
+      "prompt": "Parliamo agli ambasciatori.",
+      "answers": [
+        "Nous parlons aux ambassadeurs.",
+        "On parle aux ambassadeurs."
+      ],
+      "explain_it": "Con un nome plurale, à + les diventa aux."
+    },
+    {
+      "id": "L020-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "Vivo in Belgio.",
+      "answers": [
+        "J'habite en Belgique.",
+        "Je vis en Belgique."
+      ],
+      "explain_it": "Belgique è femminile e con i paesi femminili si usa en."
+    },
+    {
+      "id": "L020-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "plural",
+      "prompt": "I prezzi sono cari.",
+      "answers": [
+        "Les prix sont chers."
+      ],
+      "explain_it": "Prix non cambia forma al plurale: il plurale si vede da les e da sont."
+    },
+    {
+      "id": "L020-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "negation",
+      "prompt": "Non è onesto.",
+      "answers": [
+        "Il n'est pas honnête.",
+        "Elle n'est pas honnête.",
+        "Ce n'est pas honnête."
+      ],
+      "explain_it": "Ne si contrae in n' davanti a est e la negazione ne ... pas circonda il verbo."
+    },
+    {
+      "id": "L020-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "modals",
+      "prompt": "Cosa desiderate per il vostro compleanno?",
+      "answers": [
+        "[Que voulez-vous|Qu'est-ce que vous voulez] pour votre anniversaire ?"
+      ],
+      "explain_it": "Con la forma di cortesia vous si usa voulez."
+    },
+    {
+      "id": "L020-e28",
+      "type": "write",
+      "level": 2,
+      "concept": "possessives",
+      "prompt": "Ecco le sue risposte.",
+      "answers": [
+        "Voici ses réponses.",
+        "Voilà ses réponses."
+      ],
+      "explain_it": "Ses è il possessivo per un possessore singolare con un oggetto plurale."
+    },
+    {
+      "id": "L020-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "modals",
+      "prompt": "Chiedo ai miei amici: «Cosa volete per il pranzo?»",
+      "answers": [
+        "[Que voulez-vous|Qu'est-ce que vous voulez] pour le déjeuner ?"
+      ],
+      "explain_it": "Le domande con vouloir possono usare due costruzioni: l'inversione e est-ce que."
+    },
+    {
+      "id": "L020-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "partitif",
+      "prompt": "Volgi alla forma negativa: Elle veut du café.",
+      "ask": "Volgi alla forma negativa",
+      "answers": [
+        "Elle ne veut pas de café."
+      ],
+      "explain_it": "Nella frase negativa il partitivo du, de la, des diventa de."
+    },
+    {
+      "id": "L020-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "plural",
+      "prompt": "Volgi al plurale: Le pays est beau.",
+      "ask": "Volgi al plurale",
+      "answers": [
+        "Les pays sont beaux."
+      ],
+      "explain_it": "Pays non cambia forma: il plurale si riconosce da les e da sont."
+    },
+    {
+      "id": "L020-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "negation",
+      "prompt": "Volgi alla forma negativa: Elle est honnête.",
+      "ask": "Volgi alla forma negativa",
+      "answers": [
+        "Elle n'est pas honnête."
+      ],
+      "explain_it": "La negazione ne ... pas si mette intorno al verbo."
+    },
+    {
+      "id": "L020-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "modals",
+      "prompt": "Volgi alla forma di cortesia (vous): Tu veux du chocolat ?",
+      "ask": "Volgi alla forma di cortesia (vous)",
+      "answers": [
+        "Vous voulez du chocolat ?",
+        "Voulez-vous du chocolat ?",
+        "Est-ce que vous voulez du chocolat ?"
+      ],
+      "explain_it": "Con vous il verbo vouloir diventa voulez."
+    },
+    {
+      "id": "L020-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "gender",
+      "prompt": "Ci sono quattro ambasciatori: del Giappone, dell'India, degli Stati Uniti e della Francia.",
+      "answers": [
+        "Il y a quatre ambassadeurs du Japon, de l'Inde, des États-Unis et de la France."
+      ],
+      "explain_it": "Con i paesi si usa de: du Japon (m.), de l'Inde (f.), des États-Unis (pl.), de la France (f.)."
+    },
+    {
+      "id": "L020-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "negation",
+      "prompt": "Non ci credo! Almeno lei è davvero onesta.",
+      "answers": [
+        "Ce n'est pas vrai ! Au moins[,|] elle est vraiment honnête."
+      ],
+      "explain_it": "L'esclamazione ce n'est pas vrai indica incredulità, con il ne mantenuto."
+    },
+    {
+      "id": "L020-e36",
+      "type": "dictation",
+      "level": 2,
+      "concept": "partitif",
+      "text": "Nous achetons des pommes, du beurre et de la crème.",
+      "explain_it": "Tre forme di partitivo in una sola frase: des, du, de la."
+    },
+    {
+      "id": "L020-e37",
+      "type": "dictation",
+      "level": 3,
+      "concept": "partitif",
+      "text": "Mon collègue japonais pense que tout le monde veut de la santé et du travail.",
+      "explain_it": "Dopo veut, il partitivo si mantiene: de la santé (f.) e du travail (m.)."
+    }
+  ]
+}

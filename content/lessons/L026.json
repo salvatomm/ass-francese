@@ -1,0 +1,649 @@
+{
+  "n": 26,
+  "title_fr": "Déjeunons ensemble (suite)",
+  "title_it": "Pranziamo insieme (seguito)",
+  "review": false,
+  "status": "verified",
+  "source": "c15d4fa8 pdf p23-28 (libro p.105-110; dialogo e note p.23-25, esercizi p.27, risposte e box finale p.28)",
+  "theme_it": "Una coppia pranza al ristorante. Il cameriere le fa accomodare al tavolo, chiede se va bene e porta il menu. Tra il menu a venti euro e quello a quaranta, i clienti scelgono due entrecôte al sangue con patatine fritte, poi chiedono una bottiglia d'acqua minerale e il conto con il servizio incluso.",
+  "grammar": [
+    {
+      "id": "register",
+      "title_it": "Forma di cortesia: Si vous voulez bien...",
+      "explain_it": "Al ristorante il cameriere si rivolge al cliente con il vous e con formule di cortesia. Si vous voulez bien me suivre (se vuole seguirmi) è più formale di Suivez-moi o di Suis-moi, che si direbbero a un amico. In italiano il Lei fa un lavoro simile; il francese aggiunge spesso si vous voulez bien o s'il vous plaît per addolcire la richiesta. Il significato di base non cambia, ma la scelta della forma va adattata al registro della situazione.",
+      "examples": [
+        {
+          "fr": "Si vous voulez bien patienter un instant.",
+          "it": "Se vuole aspettare un momento."
+        },
+        {
+          "fr": "Suis-moi, je t'attends dehors.",
+          "it": "Seguimi, ti aspetto fuori."
+        }
+      ]
+    },
+    {
+      "id": "pronoun-coi",
+      "title_it": "Convenir: 'andare bene a qualcuno'",
+      "explain_it": "Il verbo convenir significa 'andare bene', 'essere adatto' e regge il complemento di termine: convenir à quelqu'un. Con io e tu si usano i pronomi me e te, con lui/lei lui, con noi e voi nous e vous: Ça me convient = mi va bene. Il pronome va prima del verbo e la negazione avvolge entrambi: ça ne me convient pas. Con un nome si usa à: Ce menu convient à mon mari. Non si dice mai convenir à moi.",
+      "examples": [
+        {
+          "fr": "Ce restaurant me convient.",
+          "it": "Questo ristorante mi va bene."
+        },
+        {
+          "fr": "Ce prix ne lui convient pas.",
+          "it": "Questo prezzo non gli va bene."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Avoir faim, soif, chaud, froid",
+      "explain_it": "Per le sensazioni fisiche il francese usa avoir + nome, come l'italiano usa avere: avoir faim (aver fame), avoir soif (aver sete), avoir chaud (aver caldo), avoir froid (aver freddo). Non si usa mai être. Il nome non vuole l'articolo: j'ai soif, non 'j'ai la soif'. La negazione segue la regola normale: je n'ai pas chaud.",
+      "examples": [
+        {
+          "fr": "J'ai soif, je voudrais de l'eau.",
+          "it": "Ho sete, vorrei dell'acqua."
+        },
+        {
+          "fr": "Nous n'avons pas froid.",
+          "it": "Non abbiamo freddo."
+        }
+      ]
+    },
+    {
+      "id": "futur-proche",
+      "title_it": "Il presente per un'azione imminente",
+      "explain_it": "Per un'azione che sta per avvenire subito il francese usa spesso il semplice presente accompagnato da tout de suite o dans une minute, come l'italiano 'ti telefono tra un minuto': Je vous apporte le menu tout de suite (vi porto subito il menu). Si può usare anche aller + infinito (je vais vous apporter le menu), ma il presente è più diretto e molto frequente nel parlato.",
+      "examples": [
+        {
+          "fr": "Je te téléphone dans une minute.",
+          "it": "Ti telefono tra un minuto."
+        },
+        {
+          "fr": "Il arrive tout de suite.",
+          "it": "Arriva subito."
+        }
+      ]
+    },
+    {
+      "id": "interrogatives",
+      "title_it": "Quel / quelle / quels / quelles: quale? quali?",
+      "explain_it": "Quel è l'aggettivo interrogativo 'quale/quali' e concorda con il nome che accompagna: quel plat (m. sing.), quelle carte (f. sing.), quels légumes (m. pl.), quelles tables (f. pl.). Le quattro forme si pronunciano allo stesso modo [kel]; davanti a una vocale si fa la liaison (quels amis [kelzami]). Il genere e il numero del nome decidono la forma.",
+      "examples": [
+        {
+          "fr": "Quel vin préférez-vous ?",
+          "it": "Quale vino preferisce?"
+        },
+        {
+          "fr": "Quelles tables sont libres ?",
+          "it": "Quali tavoli sono liberi?"
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la fenêtre",
+      "it": "la finestra",
+      "pos": "n"
+    },
+    {
+      "fr": "les frites (f. pl.)",
+      "it": "le patatine fritte",
+      "pos": "n"
+    },
+    {
+      "fr": "la viande",
+      "it": "la carne",
+      "pos": "n"
+    },
+    {
+      "fr": "la cuisson",
+      "it": "la cottura",
+      "pos": "n"
+    },
+    {
+      "fr": "l'addition (f.)",
+      "it": "il conto",
+      "pos": "n",
+      "note": "falso amico: al ristorante non è l'addizione"
+    },
+    {
+      "fr": "le pourboire",
+      "it": "la mancia",
+      "pos": "n"
+    },
+    {
+      "fr": "le service",
+      "it": "il servizio",
+      "pos": "n",
+      "note": "service compris: servizio incluso"
+    },
+    {
+      "fr": "la bouteille",
+      "it": "la bottiglia",
+      "pos": "n"
+    },
+    {
+      "fr": "l'eau minérale (f.)",
+      "it": "l'acqua minerale",
+      "pos": "n"
+    },
+    {
+      "fr": "le plat",
+      "it": "il piatto",
+      "pos": "n",
+      "note": "le plat du jour: il piatto del giorno"
+    },
+    {
+      "fr": "les spécialités (f. pl.)",
+      "it": "le specialità",
+      "pos": "n"
+    },
+    {
+      "fr": "l'entrecôte (f.)",
+      "it": "la costata di manzo",
+      "pos": "n"
+    },
+    {
+      "fr": "le saumon",
+      "it": "il salmone",
+      "pos": "n"
+    },
+    {
+      "fr": "suivre",
+      "it": "seguire",
+      "pos": "v",
+      "note": "suivez-moi"
+    },
+    {
+      "fr": "convenir",
+      "it": "andare bene (a qualcuno)",
+      "pos": "v",
+      "note": "ça me convient"
+    },
+    {
+      "fr": "saignant(e)",
+      "it": "al sangue (di carne poco cotta)",
+      "pos": "adj"
+    },
+    {
+      "fr": "celui (m.)",
+      "it": "quello",
+      "pos": "pron",
+      "note": "celle (f.), ceux (m. pl.)"
+    },
+    {
+      "fr": "avoir soif",
+      "it": "avere sete",
+      "pos": "expr"
+    },
+    {
+      "fr": "avoir chaud",
+      "it": "avere caldo",
+      "pos": "expr"
+    },
+    {
+      "fr": "dans ce cas",
+      "it": "in questo caso",
+      "pos": "expr"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Si vous voulez bien me suivre",
+      "it": "Se vuole seguirmi",
+      "note": "forma cortese, usata dal cameriere con i clienti"
+    },
+    {
+      "fr": "Est-ce que ça vous convient ?",
+      "it": "Le va bene?",
+      "note": "domanda di cortesia per far confermare il tavolo"
+    },
+    {
+      "fr": "Ça me convient",
+      "it": "Mi va bene",
+      "note": "negativa: Ça ne me convient pas"
+    },
+    {
+      "fr": "Tout de suite",
+      "it": "subito",
+      "note": "anche: Faites-le tout de suite"
+    },
+    {
+      "fr": "Il n'y en a pas",
+      "it": "non ce n'è",
+      "note": "en = ne: 'non ce n'è'; è una forma normale, non solo colloquiale"
+    },
+    {
+      "fr": "Dans ce cas",
+      "it": "in questo caso",
+      "note": "per introdurre una conseguenza o una scelta"
+    },
+    {
+      "fr": "Le plat du jour",
+      "it": "il piatto del giorno",
+      "note": "piatto proposto dal ristorante in giornata"
+    },
+    {
+      "fr": "Service compris",
+      "it": "servizio incluso",
+      "note": "si legge sul conto: il servizio è già nel prezzo"
+    },
+    {
+      "fr": "Saignante, s'il vous plaît",
+      "it": "al sangue, per favore",
+      "note": "richiesta di cottura della carne"
+    },
+    {
+      "fr": "Avoir faim",
+      "it": "avere fame",
+      "note": "come l'italiano, con avoir"
+    }
+  ],
+  "notes_it": [
+    "La brasserie in Francia è un ristorante che serve cucina tradizionale quasi tutto il giorno, spesso fino a tarda notte. Il nome viene da brasser (produrre la birra), perché un tempo le brasserie producevano birra propria.",
+    "Il suffisso -erie indica spesso un negozio o un'attività: boulangerie (panetteria), fromagerie (formaggeria), crêperie (creperia), sandwicherie (tavola calda). Riconoscerlo aiuta a capire molte parole nuove.",
+    "Falso amico: al ristorante l'addition è il conto, non l'addizione matematica. Sinonimo comune è la note. Per la cottura della carne, saignant (al sangue) deriva da sang (sangue) e indica una bistecca poco cotta.",
+    "Nei ristoranti francesi il servizio (le service) è di solito incluso nel prezzo; la mancia (pourboire) non è obbligatoria e si lascia quando il servizio è stato soddisfacente.",
+    "Carte e menu: la carte è la lista completa alla carta, il menu è un menù a prezzo fisso. La lista dei vini si chiama la carte des vins, non le menu. Il plat du jour è il piatto del giorno."
+  ],
+  "exercises": [
+    {
+      "id": "L026-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "register",
+      "prompt": "Quale frase invita con cortesia un cliente a seguire il cameriere?",
+      "options": [
+        "Si vous voulez bien me suivre, s'il vous plaît.",
+        "Tu peux me suivre, s'il te plaît ?",
+        "Suis-moi, on y va !"
+      ],
+      "correct": 0,
+      "explain_it": "Con un cliente si usa il vous e la forma cortese Si vous voulez bien; suis-moi e il tu sono adatti solo tra amici."
+    },
+    {
+      "id": "L026-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronoun-coi",
+      "prompt": "Quale frase significa 'Questo tavolo non mi va bene'?",
+      "options": [
+        "Cette table ne me convient pas.",
+        "Cette table ne convient pas à moi.",
+        "Cette table ne me convenir pas.",
+        "Cette table ne conviens pas moi."
+      ],
+      "correct": 0,
+      "explain_it": "Convenir prende il complemento di termine: con io si usa il pronome me, non la forma tonica moi."
+    },
+    {
+      "id": "L026-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Come si dice in francese 'Ho sete'?",
+      "options": [
+        "J'ai soif.",
+        "Je suis soif.",
+        "J'ai la soif.",
+        "Je fais soif."
+      ],
+      "correct": 0,
+      "explain_it": "Per la sete si usa avoir senza articolo, come avere sete in italiano; être non si usa."
+    },
+    {
+      "id": "L026-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "futur-proche",
+      "prompt": "Il cameriere sta per portare il menu. Quale frase esprime un'azione immediata?",
+      "options": [
+        "Je vous apporte le menu tout de suite.",
+        "Je vous apporte le menu hier.",
+        "Je ne vous apporte jamais le menu."
+      ],
+      "correct": 0,
+      "explain_it": "Il presente con tout de suite indica un'azione immediata, come il futuro vicino italiano: vi porto subito il menu."
+    },
+    {
+      "id": "L026-e05",
+      "type": "order",
+      "level": 1,
+      "concept": "pronoun-coi",
+      "prompt": "Questo ristorante mi va bene.",
+      "answers": [
+        "Ce restaurant me convient."
+      ],
+      "distractors": [
+        "lui"
+      ],
+      "explain_it": "Per dire 'mi va bene' con convenir si usa il pronome me prima del verbo: ce restaurant me convient."
+    },
+    {
+      "id": "L026-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Abbiamo fame e abbiamo sete.",
+      "answers": [
+        "Nous avons faim et nous avons soif.",
+        "Nous avons faim et soif.",
+        "On a faim et on a soif."
+      ],
+      "distractors": [
+        "sommes"
+      ],
+      "explain_it": "Fame e sete si esprimono con avoir, come in italiano: avoir faim, avoir soif."
+    },
+    {
+      "id": "L026-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "futur-proche",
+      "prompt": "Vi porto subito il conto.",
+      "answers": [
+        "Je vous apporte tout de suite l'addition.",
+        "Je vous apporte l'addition tout de suite."
+      ],
+      "distractors": [],
+      "explain_it": "Il presente di apporter con tout de suite indica un'azione immediata; addition qui vuol dire conto."
+    },
+    {
+      "id": "L026-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "interrogatives",
+      "prompt": "Quale piatto preferisce?",
+      "answers": [
+        "Quel plat préférez-vous ?",
+        "Quel plat tu préfères ?",
+        "Quel plat préfères-tu ?",
+        "Quel plat est-ce que vous préférez ?"
+      ],
+      "distractors": [
+        "quelle"
+      ],
+      "explain_it": "Quel concorda con il nome: plat è maschile singolare, quindi si usa quel. Le altre forme sono accettate: con vous o con tu."
+    },
+    {
+      "id": "L026-e09",
+      "type": "cloze",
+      "level": 1,
+      "concept": "idioms",
+      "text": "Nous ___ chaud, ouvrons la fenêtre.",
+      "answers": [
+        "avons"
+      ],
+      "hint": "(avoir, presente, noi)",
+      "prompt": "Abbiamo caldo, apriamo la finestra.",
+      "explain_it": "Il caldo si esprime con avoir chaud, come avere caldo in italiano."
+    },
+    {
+      "id": "L026-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "pronoun-coi",
+      "text": "Cette table ne ___ convient pas.",
+      "answers": [
+        "me"
+      ],
+      "hint": "(pronome di termine, per io)",
+      "prompt": "Questo tavolo non mi va bene.",
+      "explain_it": "Convenir ha un complemento di termine: con io il pronome è me."
+    },
+    {
+      "id": "L026-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "register",
+      "text": "___ vous voulez bien patienter, je vous apporte le menu.",
+      "answers": [
+        "Si"
+      ],
+      "hint": "(formula di cortesia: se...)",
+      "prompt": "Se vuole aspettare, le porto il menu.",
+      "explain_it": "Si vous voulez bien è la formula cortese per fare una richiesta a un cliente."
+    },
+    {
+      "id": "L026-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "interrogatives",
+      "text": "___ vin préférez-vous, le rouge ou le blanc ?",
+      "answers": [
+        "Quel"
+      ],
+      "hint": "(aggettivo interrogativo, maschile singolare)",
+      "prompt": "Quale vino preferisce, il rosso o il bianco?",
+      "explain_it": "Vin è maschile singolare, quindi l'aggettivo interrogativo è quel."
+    },
+    {
+      "id": "L026-e13",
+      "type": "write",
+      "level": 2,
+      "concept": "register",
+      "prompt": "Chiedi con cortesia a un cliente se questa sala va bene.",
+      "answers": [
+        "Est-ce que cette salle vous convient ?",
+        "Cette salle vous convient-elle ?",
+        "Cette salle vous convient ?"
+      ],
+      "explain_it": "Con un cliente si usa vous; convenir si costruisce con il pronome vous prima del verbo."
+    },
+    {
+      "id": "L026-e14",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Ho freddo: chiudiamo la finestra.",
+      "answers": [
+        "J'ai froid, fermons la fenêtre.",
+        "J'ai froid, on ferme la fenêtre."
+      ],
+      "explain_it": "Il freddo si dice con avoir froid, come avere freddo in italiano; fermons è l'imperativo di noi."
+    },
+    {
+      "id": "L026-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "futur-proche",
+      "prompt": "Vi porto subito il menu e la carta dei vini.",
+      "answers": [
+        "Je vous apporte tout de suite le menu et la carte des vins.",
+        "Je vous apporte le menu et la carte des vins tout de suite."
+      ],
+      "explain_it": "Il presente di apporter con tout de suite esprime un'azione immediata."
+    },
+    {
+      "id": "L026-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "interrogatives",
+      "prompt": "Chiedi a un amico (tu) quale tavolo preferisce.",
+      "answers": [
+        "Quelle table préfères-tu ?",
+        "Quelle table tu préfères ?",
+        "Quelle table est-ce que tu préfères ?"
+      ],
+      "explain_it": "Table è femminile singolare, quindi l'aggettivo interrogativo è quelle."
+    },
+    {
+      "id": "L026-e17",
+      "type": "cloze",
+      "level": 2,
+      "concept": "futur-proche",
+      "text": "Je vous ___ tout de suite la carte des vins.",
+      "answers": [
+        "apporte"
+      ],
+      "hint": "(apporter, presente)",
+      "prompt": "Vi porto subito la carta dei vini.",
+      "explain_it": "Con tout de suite il presente indica un'azione che avviene subito."
+    },
+    {
+      "id": "L026-e18",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-coi",
+      "text": "Ce menu ne ___ convient pas, il préfère le plat du jour.",
+      "answers": [
+        "lui"
+      ],
+      "hint": "(pronome di termine, lui)",
+      "prompt": "Questo menu non gli va bene, preferisce il piatto del giorno.",
+      "explain_it": "Per 'a lui' si usa il pronome lui prima del verbo; la negazione ne...pas avvolge pronome e verbo. Qui il soggetto è già mon mari (il), quindi il pronome è lui, non un secondo nome."
+    },
+    {
+      "id": "L026-e19",
+      "type": "dictation",
+      "level": 2,
+      "concept": "vocab",
+      "text": "La bouteille d'eau minérale est sur la table.",
+      "explain_it": "Bouteille è femminile; d'eau richiede l'elisione della e davanti alla vocale di eau."
+    },
+    {
+      "id": "L026-e20",
+      "type": "dictation",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Le service est compris, mais je laisse un pourboire.",
+      "explain_it": "Service compris significa servizio incluso; il pourboire è la mancia facoltativa."
+    },
+    {
+      "id": "L026-e21",
+      "type": "flash",
+      "level": 2,
+      "concept": "register",
+      "front": "Come si invita con cortesia un cliente a seguire il cameriere?",
+      "back": "Si vous voulez bien me suivre.",
+      "note": "Con un amico si direbbe invece Suis-moi. Con il cliente si usa vous.",
+      "explain_it": "La forma di cortesia si costruisce con si vous voulez bien, seguito dall'infinito."
+    },
+    {
+      "id": "L026-e22",
+      "type": "flash",
+      "level": 2,
+      "concept": "interrogatives",
+      "front": "Quali forme ha l'aggettivo interrogativo quel?",
+      "back": "quel (m. sing.), quelle (f. sing.), quels (m. pl.), quelles (f. pl.).",
+      "note": "Si pronunciano tutte [kel]; davanti a vocale c'è la liaison: quels amis [kelzami].",
+      "explain_it": "Come quale/quali in italiano, l'aggettivo concorda con il nome che accompagna."
+    },
+    {
+      "id": "L026-e23",
+      "type": "flash",
+      "level": 2,
+      "concept": "idioms",
+      "front": "Quale verbo si usa per fame, sete, caldo e freddo in francese?",
+      "back": "avoir: avoir faim, avoir soif, avoir chaud, avoir froid. Senza articolo.",
+      "note": "Non si usa être; in italiano si dice 'avere fame/sete/caldo/freddo'.",
+      "explain_it": "Il francese usa avoir come l'italiano avere, quindi la traduzione letterale funziona."
+    },
+    {
+      "id": "L026-e24",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-coi",
+      "prompt": "Questo piatto non ti va bene.",
+      "ask": "Traduci in francese (tu)",
+      "answers": [
+        "Ce plat ne te convient pas."
+      ],
+      "explain_it": "Con tu il pronome di termine è te e la negazione avvolge il pronome e il verbo."
+    },
+    {
+      "id": "L026-e25",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Dica al cameriere (forma di cortesia) che avete fame, sete e caldo, e chieda di aprire la finestra.",
+      "answers": [
+        "Nous avons [faim, soif et chaud|faim, nous avons soif et nous avons chaud|faim, nous avons soif, nous avons chaud] : [ouvrez la fenêtre|pouvez-vous ouvrir la fenêtre|voulez-vous ouvrir la fenêtre], s'il vous plaît."
+      ],
+      "explain_it": "Ogni sensazione usa avoir senza articolo; l'imperativo vous indica la richiesta cortese."
+    },
+    {
+      "id": "L026-e26",
+      "type": "write",
+      "level": 3,
+      "concept": "interrogatives",
+      "prompt": "Chieda con cortesia quale vino preferisce e quali verdure vuole con la carne.",
+      "answers": [
+        "Quel vin [préférez-vous|désirez-vous|voulez-vous] et quels légumes [voulez-vous|désirez-vous|préférez-vous] avec la viande ?"
+      ],
+      "explain_it": "Quel concorda con vin e quels con légumes (maschili plurali): due aggettivi interrogativi nella stessa domanda."
+    },
+    {
+      "id": "L026-e27",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Chieda al cameriere (forma di cortesia) di portarvi subito il conto e se il servizio è incluso.",
+      "answers": [
+        "Apportez-nous [tout de suite l'addition|l'addition tout de suite|tout de suite la note|la note tout de suite], s'il vous plaît. [Le service est-il|Est-ce que le service est|Le service est] [compris|inclus] ?",
+        "Pouvez-vous nous apporter [l'addition|la note] [tout de suite|], s'il vous plaît ? [Le service est-il|Est-ce que le service est|Le service est] [compris|inclus] ?"
+      ],
+      "tags": [
+        "false-friend"
+      ],
+      "explain_it": "Addition qui vuol dire conto, non addizione; service compris significa servizio incluso."
+    },
+    {
+      "id": "L026-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "interrogatives",
+      "prompt": "Chiedi a un amico (tu) quale piatto preferisce tra il saumon e l'entrecôte.",
+      "answers": [
+        "Quel plat [préfères-tu|tu préfères|est-ce que tu préfères], le saumon ou l'entrecôte ?"
+      ],
+      "explain_it": "Quel concorda con plat (maschile singolare). Con un amico si usa tu."
+    },
+    {
+      "id": "L026-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Chieda al cliente se ha sete e quale acqua preferisce.",
+      "answers": [
+        "[Avez-vous soif|Vous avez soif|Est-ce que vous avez soif] ? Quelle eau [préférez-vous|désirez-vous|voulez-vous] ?"
+      ],
+      "explain_it": "Avoir soif senza articolo; quelle concorda con eau, femminile singolare."
+    },
+    {
+      "id": "L026-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-coi",
+      "prompt": "Chiedi a un'amica (tu) se questa scelta le va bene.",
+      "answers": [
+        "[Est-ce que |][ce|ton] choix te convient ?",
+        "Ce choix te convient-il ?"
+      ],
+      "explain_it": "Convenir con te per la seconda persona singolare; il pronome sta prima del verbo."
+    },
+    {
+      "id": "L026-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "interrogatives",
+      "prompt": "Chieda a un cliente quale carne desidera e quale cottura preferisce.",
+      "answers": [
+        "Quelle viande [désirez-vous|voulez-vous] et quelle cuisson [préférez-vous|désirez-vous|voulez-vous] ?"
+      ],
+      "explain_it": "Viande e cuisson sono entrambi femminili singolari, quindi in tutti e due i casi si usa quelle."
+    },
+    {
+      "id": "L026-e32",
+      "type": "dictation",
+      "level": 3,
+      "concept": "register",
+      "text": "Si vous voulez bien me suivre, je vous conseille l'entrecôte saignante avec des frites.",
+      "explain_it": "La forma cortese si vous voulez bien introduce la richiesta; le frasi successive usano il vous di cortesia."
+    }
+  ]
+}

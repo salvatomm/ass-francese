@@ -1,0 +1,826 @@
+{
+  "n": 31,
+  "title_fr": "J'en ai besoin rapidement",
+  "title_it": "Mi serve in fretta",
+  "review": false,
+  "status": "verified",
+  "source": "c15d4fa8 p51-55 (libro p.133-137; soluzioni dell'esercizio 2 fuori dall'intervallo, non visibili)",
+  "theme_it": "Una cliente entra in un negozio di elettrodomestici in cerca di un bollitore elettrico. Il commesso le propone due modelli, uno sotto i cento euro e uno molto più costoso, collegato a Internet. Lei sceglie quello più caro, ma non ce ne sono più in negozio: potrebbe ordinarlo per il giorno dopo, però lei ne ha bisogno subito e alla fine rinuncia, ringraziando.",
+  "grammar": [
+    {
+      "id": "pronoun-en",
+      "title_it": "Il pronome en (ne ... di ciò, di essi)",
+      "explain_it": "En sostituisce un complemento già noto quando è introdotto da un numero, da una quantità o da un partitivo (du, de la, des), oppure quando dipende da de, come in avoir besoin de o parler de. In italiano corrisponde spesso a «ne», ma a volte si omette del tutto. Va sempre davanti al verbo coniugato: j'en ai, il en reste. Con la negazione si scrive je n'en ai pas, nous n'en avons plus.",
+      "examples": [
+        {
+          "fr": "Vous avez du café ? - Oui, j'en ai.",
+          "it": "Avete del caffè? - Sì, ne ho."
+        },
+        {
+          "fr": "Il en reste deux.",
+          "it": "Ne restano due."
+        },
+        {
+          "fr": "Nous n'en avons plus.",
+          "it": "Non ne abbiamo più."
+        }
+      ]
+    },
+    {
+      "id": "demonstratives",
+      "title_it": "I pronomi dimostrativi celui, celle, ceux, celles con -ci e -là",
+      "explain_it": "Celui e le sue forme non stanno quasi mai da sole: si completano con -ci (vicino a chi parla, «questo») o con -là (più lontano, «quello»). Concordano con il nome a cui si riferiscono: celui (m. sing.), celle (f. sing.), ceux (m. pl.), celles (f. pl.). Il genere è quello del nome in francese, anche quando l'italiano usa un genere diverso: per esempio montre è femminile e sac è maschile.",
+      "examples": [
+        {
+          "fr": "Je préfère celle-ci.",
+          "it": "Preferisco questa."
+        },
+        {
+          "fr": "Donnez-moi celle-là, s'il vous plaît.",
+          "it": "Mi dia quella, per favore."
+        },
+        {
+          "fr": "Tu veux ceux-ci ou ceux-là ?",
+          "it": "Vuoi questi o quelli?"
+        }
+      ]
+    },
+    {
+      "id": "modals",
+      "title_it": "Puis-je: la forma antica di pouvoir nelle domande formali",
+      "explain_it": "Puis-je è la prima persona singolare di pouvoir con inversione soggetto-verbo, cioè la forma antica di je peux. Oggi si usa quasi solo nelle domande formali o di cortesia, come Puis-je vous aider? (Posso aiutarla?). Nel parlato corrente si preferisce Est-ce que je peux...? Non esiste la forma peux-je.",
+      "examples": [
+        {
+          "fr": "Puis-je vous aider ?",
+          "it": "Posso aiutarla?"
+        },
+        {
+          "fr": "Puis-je payer par carte ?",
+          "it": "Posso pagare con la carta?"
+        },
+        {
+          "fr": "Est-ce que je peux entrer ?",
+          "it": "Posso entrare?"
+        }
+      ]
+    },
+    {
+      "id": "prepositions",
+      "title_it": "Hors de e en usati come preposizioni",
+      "explain_it": "Hors de significa «fuori da» e vuole sempre de, anche davanti a un articolo che non si contrae: hors de prix (carissimo), hors de question (fuori discussione), hors de la ville (fuori città). Anche en è una preposizione che indica materiale o stato, senza articolo: en or (d'oro), en argent (d'argento), en vacances (in vacanza). Per dire «meno di» una cifra si usa à moins de: à moins de cent euros (sotto i cento euro).",
+      "examples": [
+        {
+          "fr": "Ce restaurant est hors de prix.",
+          "it": "Questo ristorante è carissimo."
+        },
+        {
+          "fr": "Cette montre est en or.",
+          "it": "Quest'orologio è d'oro."
+        },
+        {
+          "fr": "Ce jardin est hors de la ville.",
+          "it": "Questo giardino è fuori città."
+        }
+      ]
+    },
+    {
+      "id": "spelling-accents",
+      "title_it": "Sur (su) e sûr (sicuro): omofoni con accento diverso",
+      "explain_it": "Sur e sûr si pronunciano allo stesso modo, ma hanno funzioni diverse. Sur è una preposizione e significa «su». Sûr è un aggettivo e significa «sicuro», «certo»; il femminile è sûre e il circonflesso sulla u va sempre mantenuto. Con être si usa sûr: Je suis sûr de moi.",
+      "examples": [
+        {
+          "fr": "Le livre est sur la table.",
+          "it": "Il libro è sul tavolo."
+        },
+        {
+          "fr": "Je suis sûre de ma réponse.",
+          "it": "Sono sicura della mia risposta."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la bouilloire",
+      "it": "bollitore",
+      "pos": "n",
+      "note": "une bouilloire électrique: bollitore elettrico"
+    },
+    {
+      "fr": "l'appareil (m.)",
+      "it": "apparecchio",
+      "pos": "n"
+    },
+    {
+      "fr": "électrique",
+      "it": "elettrico",
+      "pos": "adj"
+    },
+    {
+      "fr": "hors de prix",
+      "it": "carissimo, a prezzi proibitivi",
+      "pos": "expr"
+    },
+    {
+      "fr": "l'argent (m.)",
+      "it": "denaro; argento (metallo)",
+      "pos": "n",
+      "note": "en argent: d'argento"
+    },
+    {
+      "fr": "sophistiqué, sophistiquée",
+      "it": "sofisticato, sofisticata",
+      "pos": "adj"
+    },
+    {
+      "fr": "connecté, connectée",
+      "it": "connesso, connessa",
+      "pos": "adj"
+    },
+    {
+      "fr": "Internet (m.)",
+      "it": "internet",
+      "pos": "n"
+    },
+    {
+      "fr": "tout le monde",
+      "it": "tutti, la gente",
+      "pos": "pron",
+      "note": "vuole il verbo al singolare"
+    },
+    {
+      "fr": "vendre",
+      "it": "vendere",
+      "pos": "v",
+      "note": "je vends"
+    },
+    {
+      "fr": "assurer",
+      "it": "assicurare, garantire",
+      "pos": "v",
+      "note": "je vous assure: vi assicuro"
+    },
+    {
+      "fr": "certain, certaine",
+      "it": "certo, sicuro",
+      "pos": "adj"
+    },
+    {
+      "fr": "content, contente",
+      "it": "contento, contenta",
+      "pos": "adj"
+    },
+    {
+      "fr": "presque",
+      "it": "quasi",
+      "pos": "adv"
+    },
+    {
+      "fr": "enfin",
+      "it": "insomma, infine",
+      "pos": "adv"
+    },
+    {
+      "fr": "le choix",
+      "it": "scelta",
+      "pos": "n"
+    },
+    {
+      "fr": "regarder",
+      "it": "guardare, controllare",
+      "pos": "v",
+      "note": "regarder sur mon ordinateur: controllare sul computer"
+    },
+    {
+      "fr": "l'ordinateur (m.)",
+      "it": "computer",
+      "pos": "n"
+    },
+    {
+      "fr": "le besoin",
+      "it": "bisogno",
+      "pos": "n",
+      "note": "avoir besoin de: avere bisogno di"
+    },
+    {
+      "fr": "sinon",
+      "it": "altrimenti, se no",
+      "pos": "conj"
+    },
+    {
+      "fr": "commander",
+      "it": "ordinare",
+      "pos": "v"
+    },
+    {
+      "fr": "vraiment",
+      "it": "davvero, proprio",
+      "pos": "adv"
+    },
+    {
+      "fr": "rapidement",
+      "it": "rapidamente",
+      "pos": "adv"
+    },
+    {
+      "fr": "l'aide (f.)",
+      "it": "aiuto",
+      "pos": "n"
+    },
+    {
+      "fr": "la visite",
+      "it": "visita",
+      "pos": "n"
+    },
+    {
+      "fr": "marcher",
+      "it": "funzionare",
+      "pos": "v",
+      "note": "ça marche: funziona, va bene"
+    },
+    {
+      "fr": "sûr, sûre",
+      "it": "sicuro, sicura",
+      "pos": "adj",
+      "note": "attenzione: sur (su) si pronuncia uguale"
+    },
+    {
+      "fr": "l'or (m.)",
+      "it": "oro",
+      "pos": "n"
+    },
+    {
+      "fr": "à moins de",
+      "it": "per meno di, sotto",
+      "pos": "expr",
+      "note": "à moins de cent euros: a meno di cento euro"
+    },
+    {
+      "fr": "hors",
+      "it": "fuori",
+      "pos": "prep",
+      "note": "hors de + nome"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Que puis-je faire pour vous ?",
+      "it": "Cosa posso fare per Lei?",
+      "note": "formula del commesso, registro formale (vous)"
+    },
+    {
+      "fr": "Je vous en prie.",
+      "it": "Prego (risposta a «grazie»).",
+      "note": "con tu si dice je t'en prie; formula standard"
+    },
+    {
+      "fr": "Tant pis.",
+      "it": "Peccato, pazienza.",
+      "note": "espressione di rassegnazione, usata alla fine di una scelta"
+    },
+    {
+      "fr": "Hors de question !",
+      "it": "Non se ne parla!",
+      "note": "rifiuto deciso, registro neutro"
+    },
+    {
+      "fr": "Tout le monde en parle.",
+      "it": "Ne parlano tutti.",
+      "note": "en riprende l'argomento appena menzionato"
+    },
+    {
+      "fr": "Je vous assure.",
+      "it": "Glielo assicuro.",
+      "note": "rassicurazione rivolta a un cliente"
+    },
+    {
+      "fr": "Bien sûr que non.",
+      "it": "Certo che no.",
+      "note": "risposta enfatica alla negazione"
+    },
+    {
+      "fr": "Ça marche.",
+      "it": "Va bene, d'accordo.",
+      "note": "colloquiale; significa anche «funziona»"
+    }
+  ],
+  "notes_it": [
+    "Pronuncia: in bouilloire la combinazione «ll» dopo «ou» non si legge come una «l» doppia: dà un solo suono [j], come la «i» di «ieri». La parola è [bu-jwar].",
+    "Falso amico: in francese argent significa anche «denaro», mentre l'italiano «argento» indica solo il metallo. Per il metallo si dice en argent o d'argent; per i soldi basta argent.",
+    "Attenzione a sur e sûr: si pronunciano uguali. Il circonflesso è l'unico segno che li distingue e sûr è un aggettivo, sur una preposizione.",
+    "Tout le monde, pur significando «tutti», prende il verbo al singolare: Tout le monde est là (tutti sono qui)."
+  ],
+  "exercises": [
+    {
+      "id": "L031-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronoun-en",
+      "prompt": "Come si dice in francese «Sì, ne ho quattro» (parlando di bicchieri)?",
+      "options": [
+        "Oui, j'en ai quatre.",
+        "Oui, je les ai quatre.",
+        "Oui, j'y ai quatre.",
+        "Oui, je le ai quatre."
+      ],
+      "correct": 0,
+      "explain_it": "Quando non si ripete il nome e c'è un numero, si usa en davanti al verbo: j'en ai quatre. Les, le e y non indicano quantità."
+    },
+    {
+      "id": "L031-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "demonstratives",
+      "prompt": "Come si dice in francese «Preferisci questa lampada o quella?»",
+      "options": [
+        "Tu préfères celui-ci ou celui-là ?",
+        "Tu préfères celle-ci ou celle-là ?",
+        "Tu préfères ceux-ci ou ceux-là ?",
+        "Tu préfères celles-ci ou celles-là ?"
+      ],
+      "correct": 1,
+      "explain_it": "Lampe è femminile singolare, quindi serve celle, con -ci per la più vicina e -là per la più lontana."
+    },
+    {
+      "id": "L031-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "modals",
+      "prompt": "Come si dice in modo formale «Posso aiutarla?»",
+      "options": [
+        "Puis-je vous aider ?",
+        "Peux-je vous aider ?",
+        "Puis-je vous aide ?",
+        "Peux vous aider ?"
+      ],
+      "correct": 0,
+      "explain_it": "Nelle domande formali con inversione si usa puis-je; la forma peux-je non esiste."
+    },
+    {
+      "id": "L031-e04",
+      "type": "mcq",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "Come si dice «Questo ristorante è carissimo»?",
+      "options": [
+        "Ce restaurant est hors de prix.",
+        "Ce restaurant est hors du prix.",
+        "Ce restaurant est en prix.",
+        "Ce restaurant est à prix hors."
+      ],
+      "correct": 0,
+      "explain_it": "Hors de vuole de senza contrazione, anche davanti a prix: hors de prix significa a prezzi molto alti."
+    },
+    {
+      "id": "L031-e05",
+      "type": "mcq",
+      "level": 2,
+      "concept": "spelling-accents",
+      "prompt": "Quale frase è corretta per «Sono sicuro di quello che dico»?",
+      "options": [
+        "Je suis sur de ce que je dis.",
+        "Je suis sûr de ce que je dis.",
+        "Je suis sure de ce que je dis.",
+        "Je suis sûr ce que je dis."
+      ],
+      "correct": 1,
+      "explain_it": "Sûr è l'aggettivo maschile con circonflesso; sur significa «su» e sûre è il femminile."
+    },
+    {
+      "id": "L031-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "pronoun-en",
+      "prompt": "Ne ho tre.",
+      "answers": [
+        "J'en ai trois."
+      ],
+      "distractors": [
+        "le",
+        "sont"
+      ],
+      "explain_it": "En sostituisce il nome sottinteso e va prima di ai, cioè del verbo avoir."
+    },
+    {
+      "id": "L031-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "demonstratives",
+      "prompt": "Preferisco questa.",
+      "answers": [
+        "Je préfère celle-ci."
+      ],
+      "distractors": [
+        "celui-là",
+        "ceux"
+      ],
+      "explain_it": "Il dimostrativo concorda con il nome femminile sottinteso: celle-ci."
+    },
+    {
+      "id": "L031-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "modals",
+      "prompt": "Posso parlarvi un momento?",
+      "answers": [
+        "Puis-je vous parler [un moment|un instant] ?"
+      ],
+      "distractors": [
+        "peux",
+        "parle"
+      ],
+      "explain_it": "Puis-je regge direttamente l'infinito parler, senza preposizione, e vous indica la forma di cortesia."
+    },
+    {
+      "id": "L031-e09",
+      "type": "order",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "Questo ombrello costa meno di venti euro.",
+      "answers": [
+        "Ce parapluie est à moins de vingt euros.",
+        "Ce parapluie coûte moins de vingt euros."
+      ],
+      "distractors": [
+        "hors",
+        "plus"
+      ],
+      "explain_it": "À moins de + cifra indica un prezzo inferiore a quella cifra, cioè sotto i venti euro."
+    },
+    {
+      "id": "L031-e10",
+      "type": "order",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "Partire stasera è fuori discussione.",
+      "answers": [
+        "Partir ce soir, c'est hors de question.",
+        "Partir ce soir est hors de question."
+      ],
+      "distractors": [
+        "sans",
+        "dehors"
+      ],
+      "explain_it": "Hors de question è un'espressione fissa che significa «non se ne parla»."
+    },
+    {
+      "id": "L031-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "pronoun-en",
+      "text": "Vous avez du lait ? - Oui, j'___ ai un peu.",
+      "answers": [
+        "en"
+      ],
+      "hint": "(pronome che sostituisce «du lait»)",
+      "prompt": "Avete del latte? - Sì, ne ho un po'.",
+      "explain_it": "En sostituisce il partitivo del lait: j'en ai un peu."
+    },
+    {
+      "id": "L031-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "demonstratives",
+      "text": "Il y a deux lampes : ___-ci est blanche.",
+      "answers": [
+        "celle"
+      ],
+      "hint": "(dimostrativo femminile singolare)",
+      "prompt": "Ci sono due lampade: questa è bianca.",
+      "explain_it": "Lampe è femminile singolare, quindi celle-ci."
+    },
+    {
+      "id": "L031-e13",
+      "type": "cloze",
+      "level": 1,
+      "concept": "prepositions",
+      "text": "Ce téléphone est ___ de prix.",
+      "answers": [
+        "hors"
+      ],
+      "hint": "(fuori)",
+      "prompt": "Questo telefono è carissimo.",
+      "explain_it": "Hors de prix è l'espressione per «carissimo»."
+    },
+    {
+      "id": "L031-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-en",
+      "text": "Tu as besoin de ce livre ? - Oui, j'___ ai vraiment besoin.",
+      "answers": [
+        "en"
+      ],
+      "hint": "(pronome, al posto di «de ce livre»)",
+      "prompt": "Ti serve questo libro? - Sì, ne ho davvero bisogno.",
+      "explain_it": "Avoir besoin de vuole un complemento con de: il pronome en lo sostituisce."
+    },
+    {
+      "id": "L031-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "modals",
+      "text": "Est-ce que vous ___ m'aider, s'il vous plaît ?",
+      "answers": [
+        "pouvez"
+      ],
+      "hint": "(pouvoir, presente, vous)",
+      "prompt": "Mi potete aiutare, per favore?",
+      "explain_it": "Con vous il presente di pouvoir è pouvez."
+    },
+    {
+      "id": "L031-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "spelling-accents",
+      "text": "Le vase est ___ la table.",
+      "answers": [
+        "sur"
+      ],
+      "hint": "(preposizione: su)",
+      "prompt": "Il vaso è sul tavolo.",
+      "explain_it": "Sur è la preposizione su; sûr senza preposizione sarebbe un aggettivo."
+    },
+    {
+      "id": "L031-e17",
+      "type": "cloze",
+      "level": 3,
+      "concept": "pronoun-en",
+      "text": "Vous avez des œufs ? - Non, nous ___ avons plus.",
+      "answers": [
+        "n'en"
+      ],
+      "hint": "(negazione con pronome)",
+      "prompt": "Avete delle uova? - No, non ne abbiamo più.",
+      "explain_it": "La negazione avvolge il pronome: nous n'en avons plus."
+    },
+    {
+      "id": "L031-e18",
+      "type": "cloze",
+      "level": 3,
+      "concept": "demonstratives",
+      "text": "Tu préfères les chaussures noires ou ___-là ?",
+      "answers": [
+        "celles"
+      ],
+      "hint": "(dimostrativo femminile plurale)",
+      "prompt": "Preferisci le scarpe nere o quelle?",
+      "explain_it": "Chaussures è femminile plurale: celles-là."
+    },
+    {
+      "id": "L031-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-en",
+      "prompt": "Ne ho due (parlando di fiammiferi).",
+      "answers": [
+        "[Oui, |]j'en ai [deux|2]."
+      ],
+      "explain_it": "En riprende i fiammiferi già nominati e va prima del verbo avoir."
+    },
+    {
+      "id": "L031-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-en",
+      "prompt": "No, non ne ho abbastanza (parlando del tempo).",
+      "answers": [
+        "[Non, |]je n'en ai pas assez."
+      ],
+      "explain_it": "Con la negazione en si mette tra ne e il verbo: je n'en ai pas assez."
+    },
+    {
+      "id": "L031-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "demonstratives",
+      "prompt": "Questa valigia è pesante, quella è leggera.",
+      "answers": [
+        "Cette valise est lourde, celle-là est légère."
+      ],
+      "explain_it": "Celle-là concorda con valise, nome femminile singolare."
+    },
+    {
+      "id": "L031-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "demonstratives",
+      "prompt": "Di questi due orologi, preferisco quello d'oro.",
+      "answers": [
+        "[De ces deux montres, je|Je] préfère celle [en or|qui est en or]."
+      ],
+      "explain_it": "Montre è femminile in francese (anche se orologio è maschile in italiano): quindi celle."
+    },
+    {
+      "id": "L031-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "Questo giardino è fuori dalla città.",
+      "answers": [
+        "Ce jardin est [hors de|en dehors de] la ville."
+      ],
+      "explain_it": "Hors de si combina con la senza contrazione: hors de la ville."
+    },
+    {
+      "id": "L031-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "modals",
+      "prompt": "Puoi aiutarmi, per favore?",
+      "answers": [
+        "[Peux-tu|Tu peux|Est-ce que tu peux] m'aider, s'il te plaît ?"
+      ],
+      "explain_it": "Con tu si dice peux-tu (con inversione) oppure tu peux / est-ce que tu peux."
+    },
+    {
+      "id": "L031-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "spelling-accents",
+      "prompt": "Sono sicura di quello che dico.",
+      "answers": [
+        "Je suis [sûre|certaine] de ce que je dis."
+      ],
+      "explain_it": "Sûre è il femminile di sûr e mantiene il circonflesso."
+    },
+    {
+      "id": "L031-e26",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-en",
+      "prompt": "Ne ho molte, ma ne porto poche (parlando di scarpe).",
+      "ask": "Traduci in francese",
+      "answers": [
+        "J'en ai beaucoup, mais j'en porte [peu|très peu|pas beaucoup]."
+      ],
+      "explain_it": "En riprende «scarpe» in entrambe le frasi: la prima con avoir, la seconda con porter."
+    },
+    {
+      "id": "L031-e27",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-en",
+      "prompt": "Non parliamo più di questo problema.",
+      "answers": [
+        "Nous n'en parlons plus.",
+        "On n'en parle plus."
+      ],
+      "explain_it": "Parler de + nome: il complemento diventa en, prima del verbo.",
+      "ask": "Traduci usando il pronome en"
+    },
+    {
+      "id": "L031-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-en",
+      "prompt": "Sì, ce ne sono tanti (parlando di clienti).",
+      "answers": [
+        "[Oui, |]il y en a [beaucoup|plein]."
+      ],
+      "explain_it": "Il y en a equivale a «ce ne sono» e si usa per dire che qualcosa esiste in quantità."
+    },
+    {
+      "id": "L031-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "modals",
+      "prompt": "Posso venire domani?",
+      "answers": [
+        "Puis-je venir demain ?",
+        "Est-ce que je peux venir demain ?",
+        "Je peux venir demain ?"
+      ],
+      "explain_it": "Entrambe le forme sono corrette: puis-je è più formale, est-ce que je peux è più usato nel parlato."
+    },
+    {
+      "id": "L031-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "demonstratives",
+      "prompt": "Di tutte le borse, preferisco quella nera.",
+      "answers": [
+        "[De|Parmi] tous les sacs, je préfère [celui qui est noir|le noir]."
+      ],
+      "explain_it": "Sac è maschile in francese: celui, non celle, anche se borsa è femminile in italiano."
+    },
+    {
+      "id": "L031-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "prepositions",
+      "prompt": "Questa auto è fuori dalla mia portata.",
+      "answers": [
+        "Cette voiture est hors de ma portée."
+      ],
+      "explain_it": "Hors de ma portée = fuori dalla mia portata: hors de regge de e poi il possessivo, senza altro articolo."
+    },
+    {
+      "id": "L031-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "spelling-accents",
+      "prompt": "Sono sicuro che la chiave è sul tavolo.",
+      "answers": [
+        "Je suis [sûr|certain] que la [clé|clef] est sur la table."
+      ],
+      "explain_it": "Sûr (sicuro) prende il circonflesso; sur (su) è la preposizione senza accento."
+    },
+    {
+      "id": "L031-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Sono sicuro: tutti ne parlano in città.",
+      "answers": [
+        "Je suis sûr : tout le monde en parle en ville.",
+        "Je suis sûr : tout le monde en parle dans la ville.",
+        "Je suis sûr que tout le monde en parle en ville.",
+        "Je suis sûr que tout le monde en parle dans la ville."
+      ],
+      "explain_it": "Tout le monde prende il verbo al singolare e en riprende l'argomento."
+    },
+    {
+      "id": "L031-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-en",
+      "prompt": "Non ne abbiamo più, mi dispiace (parlando di bottiglie).",
+      "answers": [
+        "Nous n'en avons plus, je suis [désolé|désolée].",
+        "Je suis [désolé|désolée], nous n'en avons plus.",
+        "Nous n'en avons plus, [désolé|désolée]."
+      ],
+      "explain_it": "En riprende bottiglie e la negazione con plus avvolge il pronome."
+    },
+    {
+      "id": "L031-e35",
+      "type": "dictation",
+      "level": 2,
+      "concept": "pronunciation",
+      "text": "Ma bouilloire est électrique et elle est connectée.",
+      "explain_it": "Nella dettatura attenzione alla «ll» di bouilloire, che dà un solo suono [j], e agli accenti di électrique e connectée."
+    },
+    {
+      "id": "L031-e36",
+      "type": "dictation",
+      "level": 3,
+      "concept": "pronoun-en",
+      "text": "J'en ai besoin tout de suite, sinon je pars.",
+      "explain_it": "En riprende un oggetto già noto; sinon è una congiunzione che significa «altrimenti»."
+    },
+    {
+      "id": "L031-e37",
+      "type": "dictation",
+      "level": 3,
+      "concept": "demonstratives",
+      "text": "Celui-ci est trop cher, celle-là est à moins de cinquante euros.",
+      "explain_it": "Il genere dei dimostrativi segue quello del nome sottinteso: celui per il maschile, celle per il femminile."
+    },
+    {
+      "id": "L031-e38",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronoun-en",
+      "front": "Quando si usa en e dove va nella frase?",
+      "back": "En sostituisce un nome introdotto da un numero, da un partitivo (du, de la, des) o da de (avoir besoin de, être sûr de). Va prima del verbo coniugato: j'en ai, il en reste, nous n'en avons plus.",
+      "explain_it": "Il pronome è la chiave per evitare di ripetere il nome, e sta sempre davanti al verbo."
+    },
+    {
+      "id": "L031-e39",
+      "type": "flash",
+      "level": 2,
+      "concept": "demonstratives",
+      "front": "Come si formano celui, celle, ceux, celles con -ci e -là?",
+      "back": "celui-ci / celui-là (m. sing.), celle-ci / celle-là (f. sing.), ceux-ci / ceux-là (m. pl.), celles-ci / celles-là (f. pl.). -ci indica ciò che è vicino, -là ciò che è lontano.",
+      "explain_it": "Il genere e il numero seguono il nome sottinteso, non l'italiano."
+    },
+    {
+      "id": "L031-e40",
+      "type": "flash",
+      "level": 2,
+      "concept": "modals",
+      "front": "Qual è la forma formale di «posso?» nelle domande con inversione?",
+      "back": "Puis-je ...? (forma antica di je peux). Si usa solo nelle domande formali; nel parlato corrente si dice Est-ce que je peux ...?",
+      "explain_it": "Puis-je è l'unica forma con inversione di pouvoir alla prima persona: peux-je non esiste."
+    },
+    {
+      "id": "L031-e41",
+      "type": "flash",
+      "level": 3,
+      "concept": "prepositions",
+      "front": "Che cosa significa «hors de» e quando si usa «en» come preposizione?",
+      "back": "hors de = fuori da (hors de prix = carissimo, hors de question = non se ne parla). en indica materiale o stato senza articolo: en or (d'oro), en vacances (in vacanza).",
+      "explain_it": "Le due preposizioni hanno usi diversi: hors esprime esclusione, en esprime materiale o stato."
+    },
+    {
+      "id": "L031-e42",
+      "type": "flash",
+      "level": 3,
+      "concept": "spelling-accents",
+      "front": "Qual è la differenza tra «sur» e «sûr»?",
+      "back": "sur è la preposizione «su» (sur la table = sul tavolo); sûr è l'aggettivo «sicuro» con circonflesso (je suis sûr = sono sicuro).",
+      "explain_it": "Si pronunciano allo stesso modo: si distinguono solo per il circonflesso e per la funzione grammaticale."
+    }
+  ]
+}

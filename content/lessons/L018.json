@@ -1,0 +1,825 @@
+{
+  "n": 18,
+  "title_fr": "Prenons rendez-vous avec le banquier",
+  "title_it": "Fissiamo un appuntamento con il banchiere",
+  "review": false,
+  "status": "verified",
+  "source": "529edcbd p79-84 (pagine 63-68 del libro)",
+  "theme_it": "Due persone chiedono al signor Castille, banchiere, un appuntamento. Le date proposte non vanno bene per impegni di lavoro, viaggi e la ripresa della scuola a settembre. Alla fine il banchiere propone il 25 o il 26 dicembre.",
+  "grammar": [
+    {
+      "id": "contractions-au-du",
+      "title_it": "Dal... al: du e au con i giorni",
+      "explain_it": "Per indicare un intervallo di giorni si usa de... à, come l'italiano dal... al. Davanti a un articolo maschile la preposizione si contrae: de + le diventa du e à + le diventa au. I giorni della settimana sono maschili, quindi si dice du lundi au jeudi e non de lundi à jeudi. Con le forme femminili (la, les) la contrazione non avviene.",
+      "examples": [
+        {
+          "fr": "Je travaille du lundi au vendredi.",
+          "it": "Lavoro dal lunedì al venerdì."
+        },
+        {
+          "fr": "Le bureau est ouvert du mardi au samedi.",
+          "it": "L'ufficio è aperto dal martedì al sabato."
+        }
+      ]
+    },
+    {
+      "id": "prepositions",
+      "title_it": "De... à e à cause de",
+      "explain_it": "Per un periodo di tempo il francese usa de... à (dalle... alle...): de neuf heures à dix heures. À cause de è una locuzione fissa che significa 'a causa di' e regge un nome: à cause de la pluie, à cause des conférences.",
+      "examples": [
+        {
+          "fr": "Je suis libre de neuf heures à onze heures.",
+          "it": "Sono libero dalle nove alle undici."
+        },
+        {
+          "fr": "Nous ne venons pas à cause de la pluie.",
+          "it": "Non veniamo a causa della pioggia."
+        }
+      ]
+    },
+    {
+      "id": "register",
+      "title_it": "Rifiutare con cortesia: regretter",
+      "explain_it": "Il verbo regretter (rincrescere, dispiacersi) serve a declinare un invito o una richiesta in modo educato. La formula Je regrette, mais... corrisponde all'italiano Mi dispiace, ma... ed è più gentile di un secco non posso. Si usa nel presente, come in italiano.",
+      "examples": [
+        {
+          "fr": "Je regrette, mais je ne peux pas venir demain.",
+          "it": "Mi dispiace, ma domani non posso venire."
+        },
+        {
+          "fr": "Je regrette, mais je suis en voyage.",
+          "it": "Mi dispiace, ma sono in viaggio."
+        }
+      ]
+    },
+    {
+      "id": "vocab",
+      "title_it": "La giornata e il giorno: journée e jour",
+      "explain_it": "La journée indica il periodo dall'alba al tramonto, cioè la giornata; le jour è il giorno del calendario o un giorno preciso. Toute la journée significa tutto il giorno, mentre le jour de mon mariage è il giorno del mio matrimonio. Bonne journée è il saluto più comune per congedarsi.",
+      "examples": [
+        {
+          "fr": "Je travaille toute la journée.",
+          "it": "Lavoro tutto il giorno."
+        },
+        {
+          "fr": "Le jour de mon anniversaire est en août.",
+          "it": "Il giorno del mio compleanno è in agosto."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le banquier",
+      "it": "il banchiere",
+      "pos": "n"
+    },
+    {
+      "fr": "libre",
+      "it": "libero, libera",
+      "pos": "adj"
+    },
+    {
+      "fr": "entre",
+      "it": "tra, fra",
+      "pos": "prep"
+    },
+    {
+      "fr": "plus tard",
+      "it": "più tardi",
+      "pos": "adv"
+    },
+    {
+      "fr": "pris",
+      "it": "impegnato, occupato",
+      "pos": "adj",
+      "note": "f. prise; être pris = essere impegnato"
+    },
+    {
+      "fr": "la semaine",
+      "it": "la settimana",
+      "pos": "n"
+    },
+    {
+      "fr": "autre",
+      "it": "altro, altra",
+      "pos": "adj"
+    },
+    {
+      "fr": "la date",
+      "it": "la data",
+      "pos": "n"
+    },
+    {
+      "fr": "le pont",
+      "it": "il ponte (festivo)",
+      "pos": "n",
+      "note": "al plurale: i lunghi weekend festivi"
+    },
+    {
+      "fr": "à cause de",
+      "it": "a causa di",
+      "pos": "prep"
+    },
+    {
+      "fr": "chargé",
+      "it": "carico, pieno di impegni",
+      "pos": "adj"
+    },
+    {
+      "fr": "l'emploi du temps (m.)",
+      "it": "l'orario degli impegni",
+      "pos": "n"
+    },
+    {
+      "fr": "le voyage",
+      "it": "il viaggio",
+      "pos": "n"
+    },
+    {
+      "fr": "les vacances (f. pl.)",
+      "it": "le vacanze",
+      "pos": "n"
+    },
+    {
+      "fr": "l'avion (m.)",
+      "it": "l'aereo",
+      "pos": "n"
+    },
+    {
+      "fr": "les États-Unis (m. pl.)",
+      "it": "gli Stati Uniti",
+      "pos": "n"
+    },
+    {
+      "fr": "la rentrée (scolaire)",
+      "it": "la ripresa della scuola, l'inizio dell'anno scolastico",
+      "pos": "n"
+    },
+    {
+      "fr": "la conférence",
+      "it": "la conferenza",
+      "pos": "n"
+    },
+    {
+      "fr": "le stage",
+      "it": "il corso di formazione, il tirocinio",
+      "pos": "n"
+    },
+    {
+      "fr": "la formation",
+      "it": "la formazione professionale",
+      "pos": "n"
+    },
+    {
+      "fr": "le mois",
+      "it": "il mese",
+      "pos": "n"
+    },
+    {
+      "fr": "mai (m.)",
+      "it": "maggio",
+      "pos": "n"
+    },
+    {
+      "fr": "les parents (m. pl.)",
+      "it": "i genitori",
+      "pos": "n"
+    },
+    {
+      "fr": "proposer",
+      "it": "proporre",
+      "pos": "v",
+      "note": "je peux vous proposer"
+    },
+    {
+      "fr": "enfin",
+      "it": "finalmente",
+      "pos": "adv"
+    },
+    {
+      "fr": "vide",
+      "it": "vuoto, vuota",
+      "pos": "adj"
+    },
+    {
+      "fr": "regretter",
+      "it": "rincrescere, dispiacersi",
+      "pos": "v",
+      "note": "je regrette"
+    },
+    {
+      "fr": "la journée",
+      "it": "la giornata (dall'alba al tramonto)",
+      "pos": "n"
+    },
+    {
+      "fr": "l'agenda (m.)",
+      "it": "l'agenda, l'orario degli appuntamenti",
+      "pos": "n"
+    },
+    {
+      "fr": "prendre",
+      "it": "prendere",
+      "pos": "v",
+      "note": "nous prenons; prendre rendez-vous"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "prendre rendez-vous",
+      "it": "fissare un appuntamento",
+      "note": "uso standard, anche con banche e medici"
+    },
+    {
+      "fr": "être pris(e)",
+      "it": "essere impegnato/a",
+      "note": "per dire di non essere disponibili; pris concorda con il soggetto"
+    },
+    {
+      "fr": "hors de question",
+      "it": "fuori discussione, non se ne parla",
+      "note": "tono deciso, da usare con misura"
+    },
+    {
+      "fr": "toute la journée",
+      "it": "tutto il giorno",
+      "note": "non confondere con le jour"
+    },
+    {
+      "fr": "du lundi au jeudi",
+      "it": "dal lunedì al giovedì"
+    },
+    {
+      "fr": "Bonne journée !",
+      "it": "Buona giornata!",
+      "note": "saluto di congedo"
+    },
+    {
+      "fr": "Je regrette, mais...",
+      "it": "Mi dispiace, ma...",
+      "note": "rifiuto educato"
+    },
+    {
+      "fr": "Attendez !",
+      "it": "Un momento! / Aspetti!",
+      "note": "forma di cortesia con vous"
+    }
+  ],
+  "notes_it": [
+    "Pronuncia: -ille si legge di solito [ij], come in Bastille [bastij] o famille: la i è seguita da un suono simile a una j, non dal 'gli' italiano. Eccezioni frequenti: ville e mille, con [il].",
+    "Falsi amici: le stage è un periodo di formazione o di tirocinio in azienda; la formation è la formazione professionale in generale.",
+    "L'agenda è l'agenda dove si segnano gli appuntamenti (non l'ordine del giorno di una riunione, che è l'ordre du jour). Per un orario pieno si dice un emploi du temps chargé: chargé significa 'carico, pieno', non 'caricato'.",
+    "Un voyage è un viaggio di qualsiasi tipo; il verbo è voyager. Una journée è la giornata, un jour il giorno di calendario. Si dice être en voyage per 'essere in viaggio, fuori sede'.",
+    "Cultura: les ponts sono i lunghi weekend creati da un giorno festivo vicino al fine settimana, non ponti fisici. La rentrée è la ripresa della scuola e del lavoro a settembre, un momento importante dell'anno."
+  ],
+  "exercises": [
+    {
+      "id": "L018-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "vocab",
+      "explain_it": "La journée è il periodo dall'alba al tramonto; le jour è il giorno del calendario.",
+      "prompt": "Quale parola indica la giornata, cioè il periodo dall'alba al tramonto?",
+      "options": [
+        "la journée",
+        "le jour",
+        "la semaine",
+        "la nuit"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L018-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "false-friends",
+      "explain_it": "Con orari e programmi, chargé significa pieno di impegni, non caricato.",
+      "prompt": "Nella frase 'Mon emploi du temps est très chargé', che cosa significa 'chargé'?",
+      "options": [
+        "molto impegnato, pieno di impegni",
+        "caricato di merce",
+        "in ritardo",
+        "stanco"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L018-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "false-friends",
+      "explain_it": "In ambito professionale la formation è la formazione (corso di aggiornamento), non la forma fisica.",
+      "prompt": "Che cosa significa 'la formation' in un contesto di lavoro?",
+      "options": [
+        "la formazione professionale",
+        "la forma fisica",
+        "il modulo da compilare",
+        "il formato del file"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L018-e04",
+      "type": "mcq",
+      "level": 2,
+      "concept": "contractions-au-du",
+      "explain_it": "Con un articolo maschile de + le diventa du e à + le diventa au.",
+      "prompt": "Quale forma è corretta per 'dal lunedì al giovedì'?",
+      "options": [
+        "du lundi au jeudi",
+        "de lundi à jeudi",
+        "des lundi aux jeudi",
+        "de le lundi au jeudi"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L018-e05",
+      "type": "mcq",
+      "level": 2,
+      "concept": "register",
+      "explain_it": "Regretter con je regrette, mais... rifiuta con cortesia; le altre frasi sono brusche.",
+      "prompt": "Quale frase rifiuta un invito in modo più cortese?",
+      "options": [
+        "Je regrette, mais je ne peux pas venir.",
+        "Non, je ne veux pas venir du tout.",
+        "Tant pis, je ne viens pas."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L018-e06",
+      "type": "mcq",
+      "level": 2,
+      "concept": "prepositions",
+      "explain_it": "De... à indica l'inizio e la fine di un intervallo, come dalle... alle...",
+      "prompt": "Quale parola completa la frase? 'Je suis libre ___ neuf heures à onze heures.' (dalle nove alle undici)",
+      "options": [
+        "de",
+        "à",
+        "en",
+        "pour"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L018-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "etre",
+      "explain_it": "Con je si usa suis; libre resta uguale per uomo e donna.",
+      "prompt": "Sono libero dalle nove alle undici.",
+      "answers": [
+        "Je suis libre de neuf heures à onze heures.",
+        "Je suis libre entre neuf heures et onze heures."
+      ],
+      "distractors": [
+        "est",
+        "pris"
+      ]
+    },
+    {
+      "id": "L018-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "contractions-au-du",
+      "explain_it": "Con i giorni maschili, de + le = du e à + le = au.",
+      "prompt": "Siamo chiusi dal lunedì al giovedì.",
+      "answers": [
+        "Nous sommes fermés du lundi au jeudi."
+      ],
+      "distractors": [
+        "de",
+        "à"
+      ]
+    },
+    {
+      "id": "L018-e09",
+      "type": "order",
+      "level": 2,
+      "concept": "negation",
+      "explain_it": "Ne... pas incornicia il verbo; toute la journée è tutto il giorno.",
+      "prompt": "Non siamo liberi tutto il giorno.",
+      "answers": [
+        "Nous ne sommes pas libres toute la journée."
+      ],
+      "distractors": [
+        "tout",
+        "jour"
+      ]
+    },
+    {
+      "id": "L018-e10",
+      "type": "order",
+      "level": 2,
+      "concept": "pronoun-coi",
+      "explain_it": "Vous è il complemento di persona: je peux vous proposer = posso proporvi.",
+      "prompt": "Posso proporvi il martedì ventitré.",
+      "answers": [
+        "Je peux vous proposer le mardi vingt-trois.",
+        "Je peux vous proposer mardi vingt-trois."
+      ],
+      "distractors": [
+        "te",
+        "lui"
+      ]
+    },
+    {
+      "id": "L018-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "etre",
+      "explain_it": "Con je la forma è suis, dal verbo être.",
+      "text": "Je ___ libre le lundi.",
+      "answers": [
+        "suis"
+      ],
+      "hint": "(être, presente)",
+      "prompt": "Sono libero il lunedì."
+    },
+    {
+      "id": "L018-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "adjective-agreement",
+      "explain_it": "Con un soggetto femminile pris diventa prise.",
+      "text": "Ma femme est ___ le jeudi.",
+      "answers": [
+        "prise"
+      ],
+      "hint": "(pris, femminile)",
+      "prompt": "Mia moglie è impegnata il giovedì."
+    },
+    {
+      "id": "L018-e13",
+      "type": "cloze",
+      "level": 1,
+      "concept": "time-date",
+      "explain_it": "Con i giorni della settimana si usa l'articolo le: le mardi.",
+      "text": "Je suis libre ___ mardi.",
+      "answers": [
+        "le"
+      ],
+      "hint": "(articolo con il giorno)",
+      "prompt": "Sono libero il martedì."
+    },
+    {
+      "id": "L018-e14",
+      "type": "cloze",
+      "level": 1,
+      "concept": "etre",
+      "explain_it": "Con nous la forma di être è sommes.",
+      "text": "Nous ___ libres le samedi.",
+      "answers": [
+        "sommes"
+      ],
+      "hint": "(être, presente, noi)",
+      "prompt": "Siamo liberi il sabato."
+    },
+    {
+      "id": "L018-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "contractions-au-du",
+      "explain_it": "De + le si contrae in du: du lundi au jeudi.",
+      "text": "Le cabinet est ouvert ___ lundi au jeudi.",
+      "answers": [
+        "du"
+      ],
+      "hint": "(de + le)",
+      "prompt": "Lo studio è aperto dal lunedì al giovedì."
+    },
+    {
+      "id": "L018-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "prepositions",
+      "explain_it": "À cause de è una locuzione fissa: a causa di.",
+      "text": "Nous ne venons pas ___ cause de la pluie.",
+      "answers": [
+        "à"
+      ],
+      "hint": "(à cause de)",
+      "prompt": "Non veniamo a causa della pioggia."
+    },
+    {
+      "id": "L018-e17",
+      "type": "cloze",
+      "level": 2,
+      "concept": "false-friends",
+      "explain_it": "In questo contesto stage indica un corso di formazione.",
+      "text": "Le ___ de formation commence lundi.",
+      "answers": [
+        "stage"
+      ],
+      "hint": "(corso o tirocinio)",
+      "prompt": "Il corso di formazione inizia lunedì."
+    },
+    {
+      "id": "L018-e18",
+      "type": "cloze",
+      "level": 2,
+      "concept": "imperative",
+      "explain_it": "Con vous l'imperativo di prendre è prenez.",
+      "text": "___ rendez-vous avec le banquier, s'il vous plaît.",
+      "answers": [
+        "Prenez"
+      ],
+      "hint": "(prendre, imperativo di cortesia)",
+      "prompt": "Fissate un appuntamento con il banchiere, per favore."
+    },
+    {
+      "id": "L018-e19",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "explain_it": "Toute la journée indica tutto il giorno, dall'alba al tramonto.",
+      "text": "Je travaille toute la ___ au bureau.",
+      "answers": [
+        "journée"
+      ],
+      "hint": "(periodo dall'alba al tramonto)",
+      "prompt": "Lavoro in ufficio tutto il giorno."
+    },
+    {
+      "id": "L018-e20",
+      "type": "cloze",
+      "level": 3,
+      "concept": "register",
+      "explain_it": "Regretter in forma di cortesia: je regrette, con il presente.",
+      "text": "Je ___, mais je suis en voyage.",
+      "answers": [
+        "regrette"
+      ],
+      "hint": "(regretter, presente)",
+      "prompt": "Mi dispiace, ma sono in viaggio."
+    },
+    {
+      "id": "L018-e21",
+      "type": "cloze",
+      "level": 3,
+      "concept": "time-date",
+      "explain_it": "Con i mesi si usa en: en juillet.",
+      "text": "Je suis en vacances ___ juillet.",
+      "answers": [
+        "en"
+      ],
+      "hint": "(preposizione con il mese)",
+      "prompt": "Sono in vacanza a luglio."
+    },
+    {
+      "id": "L018-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "time-date",
+      "explain_it": "Il giorno della settimana prende l'articolo le; il numero del giorno e il mese seguono senza articolo.",
+      "prompt": "Martedì 22 marzo sono libero.",
+      "answers": [
+        "[Le |]mardi [vingt-deux|22] mars, je suis libre.",
+        "Je suis libre [le |]mardi [vingt-deux|22] mars."
+      ]
+    },
+    {
+      "id": "L018-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "explain_it": "Pas de rendez-vous indica nessun appuntamento; toute la journée è tutta la giornata.",
+      "prompt": "Non ho impegni per tutta la giornata.",
+      "answers": [
+        "Je n'ai pas de rendez-vous [pour |]toute la journée.",
+        "Je suis libre toute la journée.",
+        "Je n'ai rien de prévu toute la journée."
+      ]
+    },
+    {
+      "id": "L018-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "negation",
+      "explain_it": "Con un giorno della settimana usato come periodo si mette l'articolo le: le vendredi.",
+      "prompt": "Non siamo liberi venerdì.",
+      "answers": [
+        "Nous ne sommes pas libres [le |]vendredi."
+      ]
+    },
+    {
+      "id": "L018-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-coi",
+      "explain_it": "Vous è il complemento di persona con proposer.",
+      "prompt": "Posso proporvi un altro giorno?",
+      "answers": [
+        "[Puis-je|Est-ce que je peux|Je peux] vous proposer un autre jour ?"
+      ]
+    },
+    {
+      "id": "L018-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "register",
+      "explain_it": "Je regrette, mais... è la forma cortese per rifiutare.",
+      "prompt": "Mi dispiace, ma domani non posso venire.",
+      "answers": [
+        "Je regrette[,|] mais je ne peux pas venir demain."
+      ]
+    },
+    {
+      "id": "L018-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions",
+      "explain_it": "Il periodo dalle... alle... si traduce con de... à.",
+      "prompt": "Lavoro dalle nove alle diciotto.",
+      "answers": [
+        "Je travaille de [neuf|9] heures à [dix-huit|18] heures."
+      ]
+    },
+    {
+      "id": "L018-e28",
+      "type": "write",
+      "level": 2,
+      "concept": "contractions-au-du",
+      "explain_it": "Con il giorno maschile le contrazioni sono du... au.",
+      "prompt": "L'ufficio è aperto dal martedì al venerdì.",
+      "answers": [
+        "Le bureau est ouvert du mardi au vendredi."
+      ]
+    },
+    {
+      "id": "L018-e29",
+      "type": "write",
+      "level": 2,
+      "concept": "time-date",
+      "explain_it": "Con i mesi si può usare au mois de o en.",
+      "prompt": "Sono in vacanza ad agosto.",
+      "answers": [
+        "Je suis en vacances [au mois d'août|en août]."
+      ]
+    },
+    {
+      "id": "L018-e30",
+      "type": "write",
+      "level": 2,
+      "concept": "false-friends",
+      "explain_it": "Chargé con gli impegni significa occupato, non caricato.",
+      "prompt": "Questa settimana sono molto occupata.",
+      "answers": [
+        "Cette semaine[,|] je suis très [prise|occupée].",
+        "Je suis très [prise|occupée] cette semaine.",
+        "Cette semaine[,|] mon emploi du temps est très chargé.",
+        "Mon emploi du temps est très chargé cette semaine."
+      ]
+    },
+    {
+      "id": "L018-e31",
+      "type": "write",
+      "level": 2,
+      "concept": "imperative",
+      "explain_it": "Prenons è l'imperativo di prendre alla prima persona plurale, come in Prenons rendez-vous.",
+      "prompt": "Fissiamo un appuntamento con il banchiere, martedì.",
+      "answers": [
+        "[Prenons|Nous prenons|On prend] rendez-vous avec le banquier[,|] mardi.",
+        "[Prenons|Nous prenons|On prend] rendez-vous mardi avec le banquier."
+      ]
+    },
+    {
+      "id": "L018-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "contractions-au-du",
+      "explain_it": "Du... au si usa per un intervallo di giorni maschili, e il week-end è maschile.",
+      "prompt": "Lavoro molto dal lunedì al venerdì, ma il fine settimana sono libero.",
+      "answers": [
+        "Je travaille beaucoup du lundi au vendredi[,|] mais [le |]week-end[,|] je suis libre."
+      ]
+    },
+    {
+      "id": "L018-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "register",
+      "explain_it": "Je regrette, mais... con un motivo, come già un altro impegno.",
+      "prompt": "Mi dispiace, ma ho già un altro impegno.",
+      "answers": [
+        "Je regrette[,|] mais j'ai déjà un autre [rendez-vous|engagement]."
+      ]
+    },
+    {
+      "id": "L018-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "false-friends",
+      "explain_it": "Faire un stage significa fare un corso di formazione o un tirocinio.",
+      "prompt": "Faccio uno stage di due settimane a settembre.",
+      "answers": [
+        "Je fais un stage de deux semaines [en |au mois de ]septembre."
+      ]
+    },
+    {
+      "id": "L018-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "ce-cest-il-est",
+      "explain_it": "Con c'est si introduce una frase che definisce la situazione: c'est la rentrée scolaire.",
+      "prompt": "Settembre è fuori discussione: è l'inizio dell'anno scolastico.",
+      "answers": [
+        "Septembre est hors de question[,|] c'est la rentrée[ scolaire|].",
+        "Septembre[,|] c'est hors de question[,|] c'est la rentrée[ scolaire|]."
+      ]
+    },
+    {
+      "id": "L018-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "time-date",
+      "explain_it": "Con il giorno della settimana: le jeudi douze, le mercredi trente.",
+      "prompt": "Sono libera il giovedì 12, ma non il mercoledì 30.",
+      "answers": [
+        "Je suis libre le jeudi [douze|12], mais pas le mercredi [trente|30]."
+      ]
+    },
+    {
+      "id": "L018-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "prepositions",
+      "explain_it": "À cause de + nome plurale: à cause des conférences.",
+      "prompt": "Non posso venire a causa delle conferenze.",
+      "answers": [
+        "Je ne peux pas venir à cause des conférences."
+      ]
+    },
+    {
+      "id": "L018-e38",
+      "type": "dictation",
+      "level": 2,
+      "concept": "pronunciation",
+      "explain_it": "Attendez è l'imperativo di cortesia di attendre (aspettare); nel dettato presta attenzione alla pronuncia di après-midi.",
+      "text": "Attendez, je suis libre le mardi après-midi."
+    },
+    {
+      "id": "L018-e39",
+      "type": "dictation",
+      "level": 2,
+      "concept": "contractions-au-du",
+      "explain_it": "Dal... al: con un giorno maschile si usa du... au.",
+      "text": "Je ne travaille pas du mardi au samedi."
+    },
+    {
+      "id": "L018-e40",
+      "type": "dictation",
+      "level": 3,
+      "concept": "register",
+      "explain_it": "Je regrette, mais... seguito da un motivo di viaggio.",
+      "text": "Je regrette, mais je suis en voyage aux États-Unis en juillet."
+    },
+    {
+      "id": "L018-e41",
+      "type": "flash",
+      "level": 2,
+      "concept": "contractions-au-du",
+      "explain_it": "De + le diventa du, à + le diventa au; i giorni della settimana sono maschili.",
+      "front": "Come si dice 'dal lunedì al venerdì' in francese, e perché?",
+      "back": "du lundi au vendredi: de + le = du e à + le = au."
+    },
+    {
+      "id": "L018-e42",
+      "type": "flash",
+      "level": 2,
+      "concept": "prepositions",
+      "explain_it": "De... à indica l'inizio e la fine; à cause de è una locuzione a sé.",
+      "front": "Come si dice 'dalle nove alle dieci' in francese?",
+      "back": "de neuf heures à dix heures (de... à = dalle... alle...)."
+    },
+    {
+      "id": "L018-e43",
+      "type": "flash",
+      "level": 1,
+      "concept": "vocab",
+      "explain_it": "La journée è il periodo dal giorno alla notte; le jour è il giorno di calendario.",
+      "front": "Journée o jour: qual è la differenza?",
+      "back": "journée = giornata dall'alba al tramonto (toute la journée); jour = giorno del calendario (le jour de mon mariage)."
+    },
+    {
+      "id": "L018-e44",
+      "type": "flash",
+      "level": 2,
+      "concept": "false-friends",
+      "explain_it": "Voyage indica un viaggio in generale, non solo per mare come in inglese.",
+      "front": "Che cosa significa 'un voyage' e come si dice 'viaggiare'?",
+      "back": "Un voyage è un viaggio (in treno, in aereo, in bus...); il verbo è voyager. Una agence de voyages è un'agenzia di viaggi."
+    },
+    {
+      "id": "L018-e45",
+      "type": "flash",
+      "level": 2,
+      "concept": "register",
+      "explain_it": "Je regrette è più cortese di un semplice 'non posso'.",
+      "front": "Come si rifiuta un invito con cortesia in francese?",
+      "back": "Je regrette, mais... (Mi dispiace, ma...)."
+    }
+  ]
+}

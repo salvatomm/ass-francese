@@ -1,7 +1,7 @@
 {
   "n": 7,
-  "title_fr": "Septième leçon - Révision",
-  "title_it": "Settima lezione - Ripasso",
+  "title_fr": "Révision",
+  "title_it": "Ripasso",
   "review": true,
   "status": "verified",
   "source": "529edcbd p19-24 (pdf 35-40)",
@@ -12,8 +12,14 @@
       "title_it": "Il genere dei nomi",
       "explain_it": "In francese ogni nome è maschile o femminile, e non esiste un neutro (come il 'it' inglese). Il genere non sempre si può indovinare: le parole che indicano donne e parentela sono di solito femminili (femme, fille), quelle che indicano uomini e ragazzi maschili (homme, garçon). Per gli altri nomi conviene memorizzare l'articolo insieme alla parola, perché a volte il genere è diverso dall'italiano: 'la montre' (l'orologio da polso) è femminile, 'le café' maschile come 'il caffè'. Gli aggettivi concordano con il nome: un grand lit, une grande chambre.",
       "examples": [
-        { "fr": "un café / une tartine", "it": "un caffè / una tartina" },
-        { "fr": "un grand lit / une grande chambre", "it": "un letto grande / una camera grande" }
+        {
+          "fr": "un café / une tartine",
+          "it": "un caffè / una tartina"
+        },
+        {
+          "fr": "un grand lit / une grande chambre",
+          "it": "un letto grande / una camera grande"
+        }
       ]
     },
     {
@@ -21,9 +27,18 @@
       "title_it": "Verbi del primo gruppo (-er) al presente",
       "explain_it": "I verbi che finiscono in -er sono il gruppo più numeroso del francese. Al presente si toglie -er e si aggiungono le terminazioni -e, -es, -e, -ons, -ez, -ent. Il francese ha una sola forma per il presente: 'je cherche' significa sia 'cerco' sia 'sto cercando'. La forma 'vous' si usa sia per il plurale sia per dare del Lei. Nella pronuncia, le desinenze -e, -es, -ent non si sentono.",
       "examples": [
-        { "fr": "Je cherche le métro.", "it": "Cerco la metropolitana." },
-        { "fr": "Nous traversons le boulevard.", "it": "Attraversiamo il boulevard." },
-        { "fr": "Vous tournez à gauche.", "it": "Voi girate a sinistra (oppure: Lei gira a sinistra)." }
+        {
+          "fr": "Je cherche le métro.",
+          "it": "Cerco la metropolitana."
+        },
+        {
+          "fr": "Nous traversons le boulevard.",
+          "it": "Attraversiamo il boulevard."
+        },
+        {
+          "fr": "Vous tournez à gauche.",
+          "it": "Voi girate a sinistra (oppure: Lei gira a sinistra)."
+        }
       ]
     },
     {
@@ -31,9 +46,18 @@
       "title_it": "Il verbo être (essere)",
       "explain_it": "Essere è irregolare: je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont. Rispetto all'italiano, il soggetto (je, tu, il...) è sempre obbligatorio. Il verbo serve anche come ausiliare nei tempi composti, ma questo si vedrà nelle lezioni successive. 'C'est' corrisponde a 'è' quando si indica una cosa o una persona.",
       "examples": [
-        { "fr": "Je suis italienne.", "it": "Sono italiana." },
-        { "fr": "Vous êtes à l'hôtel.", "it": "Siete all'albergo (oppure: Lei è all'albergo)." },
-        { "fr": "Elles sont en retard.", "it": "Sono in ritardo." }
+        {
+          "fr": "Je suis italienne.",
+          "it": "Sono italiana."
+        },
+        {
+          "fr": "Vous êtes à l'hôtel.",
+          "it": "Siete all'albergo (oppure: Lei è all'albergo)."
+        },
+        {
+          "fr": "Elles sont en retard.",
+          "it": "Sono in ritardo."
+        }
       ]
     },
     {
@@ -41,9 +65,18 @@
       "title_it": "Il verbo aller (andare)",
       "explain_it": "Andare è irregolare: je vais, tu vas, il/elle va, nous allons, vous allez, ils/elles vont. Con 'à' davanti a un articolo maschile si ha la contrazione: à + le = au (au métro, au café). Con 'ça va' si dice 'va bene' o 'sto bene' e serve per chiedere come sta qualcuno, come in 'Comment allez-vous ?'.",
       "examples": [
-        { "fr": "Je vais à l'hôtel.", "it": "Vado all'albergo." },
-        { "fr": "Ça va très bien.", "it": "Sto molto bene." },
-        { "fr": "Ils vont au café.", "it": "Vanno al caffè." }
+        {
+          "fr": "Je vais à l'hôtel.",
+          "it": "Vado all'albergo."
+        },
+        {
+          "fr": "Ça va très bien.",
+          "it": "Sto molto bene."
+        },
+        {
+          "fr": "Ils vont au café.",
+          "it": "Vanno al caffè."
+        }
       ]
     },
     {
@@ -51,120 +84,788 @@
       "title_it": "La negazione: ne ... pas",
       "explain_it": "La frase negativa in francese si costruisce con due parole che circondano il verbo: 'ne' prima del verbo e 'pas' dopo. 'Ne' diventa n' davanti a vocale o h muta. È diverso dall'italiano, dove 'non' sta solo prima del verbo. Dopo la negazione, l'articolo indeterminativo (un, une, des) diventa 'de' (pas de montre), mentre l'articolo determinativo resta (pas la clé).",
       "examples": [
-        { "fr": "Je ne suis pas breton.", "it": "Non sono bretone." },
-        { "fr": "Il n'est que midi.", "it": "È solo mezzogiorno." },
-        { "fr": "Nous n'avons pas de chambre libre.", "it": "Non abbiamo una camera libera." }
+        {
+          "fr": "Je ne suis pas breton.",
+          "it": "Non sono bretone."
+        },
+        {
+          "fr": "Il n'est que midi.",
+          "it": "È solo mezzogiorno."
+        },
+        {
+          "fr": "Nous n'avons pas de chambre libre.",
+          "it": "Non abbiamo una camera libera."
+        }
       ]
     }
   ],
   "vocab": [
-    { "fr": "la femme", "it": "la donna, la moglie", "pos": "n" },
-    { "fr": "la fille", "it": "la figlia, la ragazza", "pos": "n", "note": "vedi falsi amici" },
-    { "fr": "la tartine", "it": "la tartina", "pos": "n" },
-    { "fr": "le café", "it": "il caffè", "pos": "n" },
-    { "fr": "le croissant", "it": "il croissant", "pos": "n" },
-    { "fr": "le boulevard", "it": "il viale (boulevard)", "pos": "n" },
-    { "fr": "l'hôtel (m.)", "it": "l'albergo", "pos": "n" },
-    { "fr": "le lit", "it": "il letto", "pos": "n" },
-    { "fr": "le métro", "it": "la metropolitana", "pos": "n" },
-    { "fr": "le plan", "it": "la pianta (della città)", "pos": "n" },
-    { "fr": "la chambre", "it": "la camera", "pos": "n" },
-    { "fr": "la fontaine", "it": "la fontana", "pos": "n" },
-    { "fr": "l'heure (f.)", "it": "l'ora", "pos": "n" },
-    { "fr": "la minute", "it": "il minuto", "pos": "n" },
-    { "fr": "la montre", "it": "l'orologio da polso", "pos": "n" },
-    { "fr": "la nuit", "it": "la notte", "pos": "n" },
-    { "fr": "la salle de bains", "it": "il bagno (la stanza)", "pos": "n" },
-    { "fr": "la clé", "it": "la chiave", "pos": "n" },
-    { "fr": "le retard", "it": "il ritardo", "pos": "n", "note": "être en retard" },
-    { "fr": "le rendez-vous", "it": "l'appuntamento", "pos": "n" },
-    { "fr": "midi (m.)", "it": "mezzogiorno", "pos": "n" },
-    { "fr": "toujours", "it": "sempre", "pos": "adv" },
-    { "fr": "parce que", "it": "perché", "pos": "conj" },
-    { "fr": "désolé(e)", "it": "dispiaciuto (-a)", "pos": "adj", "note": "désolée se parla una donna" },
-    { "fr": "appeler", "it": "chiamare", "pos": "v", "note": "je m'appelle" },
-    { "fr": "chercher", "it": "cercare", "pos": "v", "note": "je cherche" },
-    { "fr": "désirer", "it": "desiderare, volere (in senso cortese)", "pos": "v", "note": "vous désirez ?" },
-    { "fr": "penser", "it": "pensare", "pos": "v", "note": "je pense" },
-    { "fr": "présenter", "it": "presentare", "pos": "v", "note": "je présente" },
-    { "fr": "tourner", "it": "girare", "pos": "v", "note": "vous tournez" },
-    { "fr": "traverser", "it": "attraversare", "pos": "v", "note": "je traverse" }
+    {
+      "fr": "désolé(e)",
+      "it": "dispiaciuto (-a)",
+      "pos": "adj",
+      "note": "désolée se parla una donna"
+    },
+    {
+      "fr": "appeler",
+      "it": "chiamare",
+      "pos": "v",
+      "note": "je m'appelle"
+    }
   ],
   "expressions": [
-    { "fr": "Bienvenue à l'hôtel.", "it": "Benvenuto all'albergo.", "note": "formula di accoglienza alla reception" },
-    { "fr": "Voici la clé.", "it": "Ecco la chiave.", "note": "usato quando si consegna qualcosa" },
-    { "fr": "Ça va très bien, merci.", "it": "Sto molto bene, grazie.", "note": "risposta standard a 'Comment allez-vous ?'" },
-    { "fr": "Vous avez l'heure ?", "it": "Ha l'ora?", "note": "domanda cortese per chiedere che ore sono" },
-    { "fr": "Je suis désolé(e).", "it": "Mi dispiace.", "note": "désolée se parla una donna" },
-    { "fr": "Merci beaucoup.", "it": "Grazie mille.", "note": "il beaucoup si può usare anche dopo un verbo" },
-    { "fr": "Comment le savez-vous ?", "it": "Come lo sa?", "note": "forma di cortesia con vous" },
-    { "fr": "Je m'appelle Alain.", "it": "Mi chiamo Alain.", "note": "presentazione standard" },
-    { "fr": "Quel est votre nom ?", "it": "Come si chiama?", "note": "domanda formale" },
-    { "fr": "J'ai rendez-vous.", "it": "Ho un appuntamento.", "note": "usato per dire che si ha un impegno" },
-    { "fr": "Être en retard.", "it": "Essere in ritardo.", "note": "non dire 'être retard'" }
+    {
+      "fr": "Bienvenue à l'hôtel.",
+      "it": "Benvenuto all'albergo.",
+      "note": "formula di accoglienza alla reception"
+    },
+    {
+      "fr": "Voici la clé.",
+      "it": "Ecco la chiave.",
+      "note": "usato quando si consegna qualcosa"
+    },
+    {
+      "fr": "Ça va très bien, merci.",
+      "it": "Sto molto bene, grazie.",
+      "note": "risposta standard a 'Comment allez-vous ?'"
+    },
+    {
+      "fr": "Vous avez l'heure ?",
+      "it": "Ha l'ora?",
+      "note": "domanda cortese per chiedere che ore sono"
+    },
+    {
+      "fr": "Je suis désolé(e).",
+      "it": "Mi dispiace.",
+      "note": "désolée se parla una donna"
+    },
+    {
+      "fr": "Merci beaucoup.",
+      "it": "Grazie mille.",
+      "note": "il beaucoup si può usare anche dopo un verbo"
+    },
+    {
+      "fr": "Comment le savez-vous ?",
+      "it": "Come lo sa?",
+      "note": "forma di cortesia con vous"
+    },
+    {
+      "fr": "Je m'appelle Alain.",
+      "it": "Mi chiamo Alain.",
+      "note": "presentazione standard"
+    },
+    {
+      "fr": "Quel est votre nom ?",
+      "it": "Qual è il suo nome?",
+      "note": "domanda formale"
+    },
+    {
+      "fr": "J'ai rendez-vous.",
+      "it": "Ho un appuntamento.",
+      "note": "usato per dire che si ha un impegno"
+    },
+    {
+      "fr": "Être en retard.",
+      "it": "Essere in ritardo.",
+      "note": "non dire 'être retard'"
+    }
   ],
   "notes_it": [
     "Alfabeto: le lettere hanno nomi propri che si usano per sillabare. La 'y' si chiama 'i grec' (i greca), la 'w' 'double v' (doppia v). Quando si compita un nome con due lettere uguali, si ripete la lettera oppure si dice 'double'.",
     "Liaison: la consonante finale della parola precedente si legge davanti a una vocale, come in 'nous avons' o 'votre aide'. Non sempre si fa, ma è comune nel parlato e aiuta a riconoscere le parole.",
     "Falsi amici: 'fille' non è 'fila' (che in francese è 'file'), ma significa ragazza o figlia. 'Désirer' significa desiderare, ma nel linguaggio cortese 'Vous désirez ?' vuol dire 'Cosa desidera?'.",
-    "'Retard' somiglia all'inglese ma significa solo 'ritardo'. Il nome 'Jean' si pronuncia con una vocale nasale [ʒɑ̃] e non va letto come 'gin'. Conviene sottolineare queste parole ingannevoli per ricordarle."
+    "«Retard» significa ritardo («être en retard»); non va confuso con l'italiano «ritardato». Il nome «Jean» si pronuncia con una vocale nasale [ʒɑ̃] e non va letto come «gin»."
   ],
   "exercises": [
-    { "id": "L007-e01", "type": "mcq", "level": 1, "concept": "gender", "prompt": "Quale articolo è corretto per 'montre' (orologio da polso)?", "options": ["la montre", "le montre", "un montre"], "correct": 0, "explain_it": "'Montre' è femminile: si dice 'la montre', anche se in italiano 'orologio' è maschile." },
-    { "id": "L007-e02", "type": "mcq", "level": 2, "concept": "adjective-agreement", "prompt": "Completa: 'une ___ chambre' (camera grande)", "options": ["grande", "grand", "grands"], "correct": 0, "explain_it": "L'aggettivo prende la desinenza femminile -e perché il nome 'chambre' è femminile." },
-    { "id": "L007-e03", "type": "write", "level": 2, "concept": "gender", "prompt": "Un caffè e un croissant, per favore.", "answers": ["Un café et un croissant, s'il [vous|te] plaît."], "explain_it": "'Café' e 'croissant' sono maschili, quindi entrambi usano 'un'." },
-    { "id": "L007-e04", "type": "write", "level": 2, "concept": "gender", "prompt": "La fontana è grande.", "answers": ["La fontaine est grande."], "explain_it": "'Fontaine' è femminile, quindi l'aggettivo prende la -e finale." },
-    { "id": "L007-e05", "type": "write", "level": 3, "concept": "adjective-agreement", "prompt": "La camera è grande, ma il letto è piccolo.", "answers": ["La chambre est grande, mais le lit est petit."], "explain_it": "'Grande' concorda con 'chambre' (femminile), 'petit' con 'lit' (maschile)." },
-    { "id": "L007-e06", "type": "cloze", "level": 1, "concept": "articles-definite", "text": "Voici ___ clé.", "answers": ["la"], "hint": "(articolo determinativo)", "prompt": "Ecco la chiave.", "explain_it": "'Clé' è femminile e specifica un oggetto noto: si usa l'articolo determinativo 'la'." },
-    { "id": "L007-e07", "type": "cloze", "level": 2, "concept": "de-after-negation", "text": "Il n'a pas ___ plan de la ville.", "answers": ["de"], "hint": "(dopo la negazione)", "prompt": "Lui non ha una pianta della città.", "explain_it": "Dopo una negazione l'articolo indeterminativo diventa 'de'." },
-    { "id": "L007-e08", "type": "mcq", "level": 1, "concept": "present-er", "prompt": "Come si dice 'Noi cerchiamo la fontana'?", "options": ["Nous cherchons la fontaine.", "Nous cherchons le fontaine.", "Nous cherchent la fontaine.", "Nous cherchez la fontaine."], "correct": 0, "explain_it": "Con 'nous' la desinenza del presente di -er è -ons, e 'fontaine' richiede 'la'." },
-    { "id": "L007-e09", "type": "cloze", "level": 2, "concept": "present-er", "text": "Vous ___ à gauche après le boulevard.", "answers": ["tournez"], "hint": "(tourner, presente, vous)", "prompt": "Voi girate a sinistra dopo il viale.", "explain_it": "Con 'vous' la desinenza di -er è -ez." },
-    { "id": "L007-e10", "type": "cloze", "level": 2, "concept": "present-er", "text": "Mon frère ___ l'hôtel sur le plan.", "answers": ["cherche"], "hint": "(chercher, presente, il)", "prompt": "Mio fratello cerca l'albergo sulla pianta.", "explain_it": "Con 'il' il verbo di -er al presente finisce in -e, senza la -s." },
-    { "id": "L007-e11", "type": "write", "level": 2, "concept": "present-er", "prompt": "Noi attraversiamo il boulevard.", "answers": ["Nous traversons le boulevard.", "On traverse le boulevard."], "explain_it": "Con 'nous' si usa -ons; 'on' è un'alternativa colloquiale che richiede la forma in -e." },
-    { "id": "L007-e12", "type": "write", "level": 2, "concept": "present-er", "ask": "Traduci in francese, dando del Lei", "prompt": "Vuole una tartina?", "answers": ["Vous désirez une tartine ?", "Désirez-vous une tartine ?"], "explain_it": "Con 'vous' si usa -ez; la frase è una domanda di cortesia." },
-    { "id": "L007-e13", "type": "order", "level": 1, "concept": "present-er", "prompt": "Io cerco la chiave della camera.", "answers": ["Je cherche la clé de la chambre"], "distractors": ["cherches", "le"], "explain_it": "'Je cherche' è la prima persona del presente di chercher; 'clé' è femminile e vuole 'la'." },
-    { "id": "L007-e14", "type": "write", "level": 3, "concept": "present-er", "prompt": "Attraversiamo il boulevard e giriamo a sinistra alla fontana.", "answers": ["Nous traversons le boulevard et [nous |]tournons à gauche à la fontaine."], "explain_it": "Due verbi di -er al presente; 'à la' è la contrazione obbligatoria con un nome femminile." },
-    { "id": "L007-e15", "type": "mcq", "level": 1, "concept": "etre", "prompt": "Quale forma completa: 'Vous ___ à l'hôtel.' (voi siete)", "options": ["êtes", "sommes", "sont", "suis"], "correct": 0, "explain_it": "Con 'vous' il verbo essere è 'êtes'." },
-    { "id": "L007-e16", "type": "cloze", "level": 2, "concept": "etre", "text": "Nous ___ en retard, désolés.", "answers": ["sommes"], "hint": "(être, presente, nous)", "prompt": "Siamo in ritardo, scusate.", "explain_it": "Con 'nous' essere diventa 'sommes'." },
-    { "id": "L007-e17", "type": "write", "level": 2, "concept": "etre", "prompt": "Io sono italiana.", "answers": ["Je suis italienne."], "explain_it": "Con 'je' si usa 'suis'; l'aggettivo di nazionalità prende la -e perché la persona è femmina." },
-    { "id": "L007-e18", "type": "write", "level": 2, "concept": "etre", "prompt": "Loro sono in ritardo.", "answers": ["Ils sont en retard.", "Elles sont en retard."], "explain_it": "'Ils' e 'elles' hanno la forma 'sont'; la scelta dipende dal genere del gruppo." },
-    { "id": "L007-e19", "type": "dictation", "level": 2, "concept": "etre", "text": "Vous êtes très aimable.", "explain_it": "'Vous êtes' si legge con la s di 'êtes' muta; 'aimable' ha la stessa forma per il maschile e il femminile." },
-    { "id": "L007-e20", "type": "write", "level": 3, "concept": "etre", "prompt": "Ho una camera e sono felice.", "answers": ["J'ai une chambre et je suis [heureux|heureuse]."], "explain_it": "Qui si combinano 'avoir' con 'être', e l'aggettivo 'heureux' concorda con chi parla." },
-    { "id": "L007-e21", "type": "flash", "level": 2, "concept": "etre", "front": "Coniuga ÊTRE al presente: je ... / vous ... / ils ...", "back": "je suis, vous êtes, ils/elles sont (le altre forme: tu es, il/elle est, nous sommes)", "explain_it": "Questi tre casi coprono le forme più usate e irregolari di essere." },
-    { "id": "L007-e22", "type": "mcq", "level": 1, "concept": "aller", "prompt": "Come si dice 'Tu vai in metropolitana'?", "options": ["Tu vas au métro.", "Tu vas le métro.", "Tu vas à le métro.", "Tu allez au métro."], "correct": 0, "explain_it": "Con 'tu' si dice 'vas'; 'à' + 'le' diventa 'au' davanti a un nome maschile." },
-    { "id": "L007-e23", "type": "cloze", "level": 1, "concept": "aller", "text": "Ça ___ très bien, merci.", "answers": ["va"], "hint": "(aller, presente, ça)", "prompt": "Sto molto bene, grazie.", "explain_it": "Con 'ça' il verbo andare è 'va'." },
-    { "id": "L007-e24", "type": "write", "level": 2, "concept": "aller", "prompt": "Noi andiamo all'albergo.", "answers": ["Nous allons à l'hôtel.", "On va à l'hôtel."], "explain_it": "Con 'nous' si usa 'allons'; 'l'hôtel' inizia per vocale e non richiede contrazione." },
-    { "id": "L007-e25", "type": "write", "level": 2, "concept": "aller", "prompt": "Loro vanno al caffè.", "answers": ["Ils vont au café.", "Elles vont au café."], "explain_it": "'Vont' è la forma per 'ils/elles', e 'à + le' diventa 'au'." },
-    { "id": "L007-e26", "type": "write", "level": 3, "concept": "aller", "prompt": "Vai a sinistra, poi attraversi il boulevard.", "answers": ["Tu vas à gauche, puis tu traverses le boulevard.", "Tu vas à gauche, ensuite tu traverses le boulevard."], "explain_it": "Si combinano 'aller' (vas) e un verbo di -er (traverses) con due soggetti 'tu'." },
-    { "id": "L007-e27", "type": "flash", "level": 1, "concept": "aller", "front": "Coniuga ALLER al presente (je, tu, il, nous, vous, ils)", "back": "je vais, tu vas, il va, nous allons, vous allez, ils vont", "explain_it": "È un verbo irregolare molto frequente, da memorizzare in ogni persona." },
-    { "id": "L007-e28", "type": "mcq", "level": 2, "concept": "negation", "prompt": "Come si nega 'Je suis breton' (sono bretone)?", "options": ["Je ne suis pas breton.", "Je ne suis breton pas.", "Je suis pas ne breton.", "Je suis ne pas breton."], "correct": 0, "explain_it": "La negazione si costruisce con 'ne' prima del verbo e 'pas' dopo." },
-    { "id": "L007-e29", "type": "cloze", "level": 2, "concept": "negation", "text": "Nous n'___ pas de chambre libre.", "answers": ["avons"], "hint": "(avoir, presente, nous)", "prompt": "Non abbiamo una camera libera.", "explain_it": "Con 'nous' il verbo avoir è 'avons', e la negazione lo circonda." },
-    { "id": "L007-e30", "type": "cloze", "level": 3, "concept": "de-after-negation", "text": "Nous n'avons pas ___ lit libre.", "answers": ["de"], "hint": "(articolo dopo la negazione)", "prompt": "Non abbiamo un letto libero.", "explain_it": "Dopo 'pas' l'articolo indeterminativo 'un' diventa 'de' anche davanti a un aggettivo." },
-    { "id": "L007-e31", "type": "write", "level": 3, "concept": "negation", "prompt": "Non sono in ritardo, è solo mezzogiorno.", "answers": ["Je ne suis pas en retard, il n'est que midi.", "Je ne suis pas en retard, c'est seulement midi."], "explain_it": "Due negazioni nella stessa frase: 'ne ... pas' per il verbo e 'ne ... que' per 'solo'." },
-    { "id": "L007-e32", "type": "write", "level": 2, "concept": "negation", "prompt": "Non ho la chiave.", "answers": ["Je n'ai pas la clé.", "Je n'ai pas la clef."], "explain_it": "L'articolo determinativo 'la' resta dopo la negazione." },
-    { "id": "L007-e33", "type": "cloze", "level": 2, "concept": "articles-indefinite", "text": "Voici ___ plan de la ville.", "answers": ["un"], "hint": "(articolo indeterminativo)", "prompt": "Ecco una pianta della città.", "explain_it": "'Plan' è maschile e non è un oggetto già noto: si usa 'un'." },
-    { "id": "L007-e34", "type": "mcq", "level": 2, "concept": "liaison", "prompt": "In quale coppia la consonante finale si pronuncia davanti alla vocale seguente (liaison)?", "options": ["vous avez", "le lit", "il pense", "je désire"], "correct": 0, "explain_it": "'Vous' finisce in consonante muta, che si pronuncia davanti alla vocale di 'avez' (vuz avez)." },
-    { "id": "L007-e35", "type": "write", "level": 2, "concept": "spelling-accents", "ask": "Traduci in francese, con gli accenti corretti", "prompt": "Dov'è la chiave?", "answers": ["Où est la clé ?"], "explain_it": "'Où' ha l'accento grave e 'clé' ha l'accento acuto: senza accenti il francese cambia significato." },
-    { "id": "L007-e36", "type": "dictation", "level": 2, "concept": "liaison", "text": "Nous avons un plan de la ville.", "explain_it": "Tra 'nous' e 'avons', e tra 'avons' e 'un', la consonante si collega alla vocale successiva." },
-    { "id": "L007-e37", "type": "dictation", "level": 3, "concept": "time-date", "text": "Il est midi et demi, je pense.", "explain_it": "'Midi et demi' indica le dodici e mezza; 'je pense' regge una frase secondaria." },
-    { "id": "L007-e38", "type": "mcq", "level": 2, "concept": "time-date", "prompt": "Come si dice 'sono le tre e cinque' in francese?", "options": ["Il est trois heures cinq.", "Il est trois heures et cinq.", "Il est cinq trois heures.", "Il a trois heures cinq."], "correct": 1, "explain_it": "Per i minuti dopo l'ora si usa 'et' e poi il numero: 'trois heures et cinq'." },
-    { "id": "L007-e39", "type": "write", "level": 3, "concept": "time-date", "prompt": "Sono le sette meno cinque.", "answers": ["Il est [sept heures moins cinq|six heures cinquante-cinq]."], "explain_it": "I minuti prima dell'ora si dicono con 'moins' oppure si conta fino all'ora successiva." },
-    { "id": "L007-e40", "type": "order", "level": 1, "concept": "time-date", "prompt": "Sono le dodici e venti.", "answers": ["Il est douze heures vingt"], "distractors": ["onze"], "explain_it": "L'ora si esprime con 'il est' + numero + 'heures' + minuti." },
-    { "id": "L007-e41", "type": "cloze", "level": 2, "concept": "possessives", "text": "___ fille est en retard.", "answers": ["Ma"], "hint": "(possessivo, nome femminile)", "prompt": "Mia figlia è in ritardo.", "explain_it": "'Fille' è femminile, quindi il possessivo è 'ma'." },
-    { "id": "L007-e42", "type": "write", "level": 3, "concept": "possessives", "prompt": "Il mio cognome è Dubois.", "answers": ["Mon nom de famille est Dubois.", "Mon nom est Dubois."], "explain_it": "'Nom' è maschile, quindi il possessivo è 'mon', anche se la parola inizia per vocale." },
-    { "id": "L007-e43", "type": "write", "level": 2, "concept": "possessives", "prompt": "Grazie mille per il tuo aiuto.", "answers": ["Merci beaucoup pour ton aide."], "explain_it": "Con 'tu' si usa 'ton' davanti a un nome femminile che inizia per vocale ('aide')." },
-    { "id": "L007-e44", "type": "write", "level": 2, "concept": "questions", "ask": "Traduci in francese, dando del Lei", "prompt": "Ha la chiave?", "answers": ["Est-ce que vous avez la clé ?", "Avez-vous la clé ?", "Vous avez la clé ?"], "explain_it": "Una domanda si può fare con 'Est-ce que', con l'inversione o con la sola intonazione." },
-    { "id": "L007-e45", "type": "mcq", "level": 1, "concept": "questions", "prompt": "Quale frase è una domanda corretta?", "options": ["Est-ce que tu es breton ?", "Tu es breton est-ce ?", "Ce que tu es breton ?", "Est-ce tu que breton ?"], "correct": 0, "explain_it": "'Est-ce que' va all'inizio della frase, seguito dalla frase normale." },
-    { "id": "L007-e46", "type": "flash", "level": 2, "concept": "negation", "front": "Come si costruisce la frase negativa in francese?", "back": "ne + verbo + pas (ne diventa n' davanti a vocale o h muta)", "explain_it": "Entrambe le parti circondano il verbo, mentre in italiano 'non' sta solo prima." },
-    { "id": "L007-e47", "type": "flash", "level": 2, "concept": "gender", "front": "Regola base per il genere dei nomi", "back": "Donne, parentela e ragazze sono femminili (femme, fille); uomini e ragazzi sono maschili (homme, garçon); il resto si impara con l'articolo.", "explain_it": "Le regole aiutano per le parole più comuni, ma per gli altri nomi serve l'articolo." },
-    { "id": "L007-e48", "type": "flash", "level": 2, "concept": "false-friends", "front": "Cosa significa 'retard' in francese?", "back": "ritardo. Si dice 'être en retard' (essere in ritardo).", "explain_it": "È un falso amico per chi vede la parola inglese, ma in francese ha un significato neutro." },
-    { "id": "L007-e49", "type": "flash", "level": 2, "concept": "present-er", "front": "Terminazioni di 'chercher' al presente", "back": "-e, -es, -e, -ons, -ez, -ent: je cherche, tu cherches, il cherche, nous cherchons, vous cherchez, ils cherchent.", "explain_it": "Le sei forme seguono lo stesso schema per tutti i verbi del primo gruppo." },
-    { "id": "L007-e50", "type": "mcq", "level": 2, "concept": "false-friends", "prompt": "In italiano, 'une fille' può significare:", "options": ["una ragazza o una figlia", "una fila", "un filo", "una figura"], "correct": 0, "explain_it": "'Fille' non è 'fila': la fila in francese si dice 'file'." },
-    { "id": "L007-e51", "type": "write", "level": 2, "concept": "avoir", "prompt": "Ho una camera per quattro notti.", "answers": ["J'ai une chambre pour quatre nuits."], "explain_it": "Con 'avoir' e un nome femminile si usa 'une'; 'nuits' è il plurale di 'nuit'." },
-    { "id": "L007-e52", "type": "mcq", "level": 1, "concept": "avoir", "prompt": "Scegli il verbo: 'Nous ___ une chambre libre.'", "options": ["avons", "sommes", "allons", "tournons"], "correct": 0, "explain_it": "Il verbo avere con 'nous' è 'avons'." },
-    { "id": "L007-e53", "type": "write", "level": 3, "concept": "time-date", "prompt": "Non sono in ritardo, sono le dodici e dieci.", "answers": ["Je ne suis pas en retard, il est [midi dix|douze heures dix]."], "explain_it": "Si combina la negazione con l'ora: 'midi' e 'douze heures' indicano entrambi le dodici." },
-    { "id": "L007-e54", "type": "write", "level": 3, "concept": "aller", "prompt": "Dove vai, Chloé?", "answers": ["Où vas-tu, Chloé ?", "Où est-ce que tu vas, Chloé ?", "Tu vas où, Chloé ?"], "explain_it": "Con 'tu' la domanda si può fare con l'inversione, con 'est-ce que' o con l'intonazione." },
-    { "id": "L007-e55", "type": "cloze", "level": 2, "concept": "etre", "text": "Il n'___ pas en retard.", "answers": ["est"], "hint": "(être, presente, il)", "prompt": "Lui non è in ritardo.", "explain_it": "Con 'il' essere diventa 'est', e la negazione circonda il verbo." },
-    { "id": "L007-e56", "type": "order", "level": 3, "concept": "negation", "prompt": "Non siamo in ritardo e sono le dodici.", "answers": ["Nous ne sommes pas en retard et il est midi"], "distractors": ["sont", "de"], "explain_it": "La negazione 'ne ... pas' circonda 'sommes', e 'midi' indica le dodici." }
+    {
+      "id": "L007-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "gender",
+      "prompt": "Quale articolo è corretto per 'montre' (orologio da polso)?",
+      "options": [
+        "la montre",
+        "le montre",
+        "un montre"
+      ],
+      "correct": 0,
+      "explain_it": "'Montre' è femminile: si dice 'la montre', anche se in italiano 'orologio' è maschile."
+    },
+    {
+      "id": "L007-e02",
+      "type": "mcq",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "Completa: 'une ___ chambre' (camera grande)",
+      "options": [
+        "grande",
+        "grand",
+        "grands"
+      ],
+      "correct": 0,
+      "explain_it": "L'aggettivo prende la desinenza femminile -e perché il nome 'chambre' è femminile."
+    },
+    {
+      "id": "L007-e03",
+      "type": "write",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "Un caffè e un croissant, per favore.",
+      "answers": [
+        "Un café et un croissant, s'il [vous|te] plaît."
+      ],
+      "explain_it": "'Café' e 'croissant' sono maschili, quindi entrambi usano 'un'."
+    },
+    {
+      "id": "L007-e04",
+      "type": "write",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "La fontana è grande.",
+      "answers": [
+        "La fontaine est grande."
+      ],
+      "explain_it": "'Fontaine' è femminile, quindi l'aggettivo prende la -e finale."
+    },
+    {
+      "id": "L007-e05",
+      "type": "write",
+      "level": 3,
+      "concept": "adjective-agreement",
+      "prompt": "La camera è grande, ma il letto è piccolo.",
+      "answers": [
+        "La chambre est grande, mais le lit est petit."
+      ],
+      "explain_it": "'Grande' concorda con 'chambre' (femminile), 'petit' con 'lit' (maschile)."
+    },
+    {
+      "id": "L007-e06",
+      "type": "cloze",
+      "level": 1,
+      "concept": "articles-definite",
+      "text": "Voici ___ clé.",
+      "answers": [
+        "la"
+      ],
+      "hint": "(articolo determinativo)",
+      "prompt": "Ecco la chiave.",
+      "explain_it": "'Clé' è femminile e specifica un oggetto noto: si usa l'articolo determinativo 'la'."
+    },
+    {
+      "id": "L007-e07",
+      "type": "cloze",
+      "level": 2,
+      "concept": "de-after-negation",
+      "text": "Il n'a pas ___ plan de la ville.",
+      "answers": [
+        "de"
+      ],
+      "hint": "(dopo la negazione)",
+      "prompt": "Lui non ha una pianta della città.",
+      "explain_it": "Dopo una negazione l'articolo indeterminativo diventa 'de'."
+    },
+    {
+      "id": "L007-e08",
+      "type": "mcq",
+      "level": 1,
+      "concept": "present-er",
+      "prompt": "Come si dice 'Noi cerchiamo la fontana'?",
+      "options": [
+        "Nous cherchons la fontaine.",
+        "Nous cherchons le fontaine.",
+        "Nous cherchent la fontaine.",
+        "Nous cherchez la fontaine."
+      ],
+      "correct": 0,
+      "explain_it": "Con 'nous' la desinenza del presente di -er è -ons, e 'fontaine' richiede 'la'."
+    },
+    {
+      "id": "L007-e09",
+      "type": "cloze",
+      "level": 2,
+      "concept": "present-er",
+      "text": "Vous ___ à gauche après le boulevard.",
+      "answers": [
+        "tournez"
+      ],
+      "hint": "(tourner, presente, vous)",
+      "prompt": "Voi girate a sinistra dopo il viale.",
+      "explain_it": "Con 'vous' la desinenza di -er è -ez."
+    },
+    {
+      "id": "L007-e10",
+      "type": "cloze",
+      "level": 2,
+      "concept": "present-er",
+      "text": "Mon frère ___ l'hôtel sur le plan.",
+      "answers": [
+        "cherche"
+      ],
+      "hint": "(chercher, presente, il)",
+      "prompt": "Mio fratello cerca l'albergo sulla pianta.",
+      "explain_it": "Con 'il' il verbo di -er al presente finisce in -e, senza la -s."
+    },
+    {
+      "id": "L007-e11",
+      "type": "write",
+      "level": 2,
+      "concept": "present-er",
+      "prompt": "Noi attraversiamo il boulevard.",
+      "answers": [
+        "Nous traversons le boulevard.",
+        "On traverse le boulevard."
+      ],
+      "explain_it": "Con 'nous' si usa -ons; 'on' è un'alternativa colloquiale che richiede la forma in -e."
+    },
+    {
+      "id": "L007-e12",
+      "type": "write",
+      "level": 2,
+      "concept": "present-er",
+      "ask": "Traduci in francese, dando del Lei",
+      "prompt": "Vuole una tartina?",
+      "answers": [
+        "Vous désirez une tartine ?",
+        "Désirez-vous une tartine ?",
+        "Vous voulez une tartine ?",
+        "Voulez-vous une tartine ?"
+      ],
+      "explain_it": "Con 'vous' si usa -ez; la frase è una domanda di cortesia."
+    },
+    {
+      "id": "L007-e13",
+      "type": "order",
+      "level": 1,
+      "concept": "present-er",
+      "prompt": "Io cerco la chiave della camera.",
+      "answers": [
+        "Je cherche la clé de la chambre"
+      ],
+      "distractors": [
+        "cherches",
+        "le"
+      ],
+      "explain_it": "'Je cherche' è la prima persona del presente di chercher; 'clé' è femminile e vuole 'la'."
+    },
+    {
+      "id": "L007-e14",
+      "type": "write",
+      "level": 3,
+      "concept": "present-er",
+      "prompt": "Attraversiamo il boulevard e giriamo a sinistra alla fontana.",
+      "answers": [
+        "Nous traversons le boulevard et [nous |]tournons à gauche à la fontaine.",
+        "On traverse le boulevard et [on |]tourne à gauche à la fontaine."
+      ],
+      "explain_it": "Due verbi in -er al presente, con nous: -ons. «À la fontaine» è à + la (nessuna contrazione davanti a un nome femminile)."
+    },
+    {
+      "id": "L007-e15",
+      "type": "mcq",
+      "level": 1,
+      "concept": "etre",
+      "prompt": "Quale forma completa: 'Vous ___ à l'hôtel.' (voi siete)",
+      "options": [
+        "êtes",
+        "sommes",
+        "sont",
+        "suis"
+      ],
+      "correct": 0,
+      "explain_it": "Con 'vous' il verbo essere è 'êtes'."
+    },
+    {
+      "id": "L007-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "etre",
+      "text": "Nous ___ en retard, désolés.",
+      "answers": [
+        "sommes"
+      ],
+      "hint": "(être, presente, nous)",
+      "prompt": "Siamo in ritardo, scusate.",
+      "explain_it": "Con 'nous' essere diventa 'sommes'."
+    },
+    {
+      "id": "L007-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "etre",
+      "prompt": "Io sono italiana.",
+      "answers": [
+        "Je suis italienne."
+      ],
+      "explain_it": "Con 'je' si usa 'suis'; l'aggettivo di nazionalità prende la -e perché la persona è femmina."
+    },
+    {
+      "id": "L007-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "etre",
+      "prompt": "Loro sono in ritardo.",
+      "answers": [
+        "Ils sont en retard.",
+        "Elles sont en retard."
+      ],
+      "explain_it": "'Ils' e 'elles' hanno la forma 'sont'; la scelta dipende dal genere del gruppo."
+    },
+    {
+      "id": "L007-e19",
+      "type": "dictation",
+      "level": 2,
+      "concept": "etre",
+      "text": "Vous êtes très aimable.",
+      "explain_it": "In «vous êtes» la s di vous si legge z davanti a êtes (liaison), mentre la s finale di êtes è muta; «aimable» ha la stessa forma al maschile e al femminile."
+    },
+    {
+      "id": "L007-e20",
+      "type": "write",
+      "level": 3,
+      "concept": "etre",
+      "prompt": "Ho una camera e sono felice.",
+      "answers": [
+        "J'ai une chambre et je suis [heureux|heureuse]."
+      ],
+      "explain_it": "Qui si combinano 'avoir' con 'être', e l'aggettivo 'heureux' concorda con chi parla."
+    },
+    {
+      "id": "L007-e21",
+      "type": "flash",
+      "level": 2,
+      "concept": "etre",
+      "front": "Coniuga ÊTRE al presente: je ... / vous ... / ils ...",
+      "back": "je suis, vous êtes, ils/elles sont (le altre forme: tu es, il/elle est, nous sommes)",
+      "explain_it": "Questi tre casi coprono le forme più usate e irregolari di essere."
+    },
+    {
+      "id": "L007-e22",
+      "type": "mcq",
+      "level": 1,
+      "concept": "aller",
+      "prompt": "Come si dice 'Tu vai in metropolitana'?",
+      "options": [
+        "Tu vas au métro.",
+        "Tu vas le métro.",
+        "Tu vas à le métro.",
+        "Tu allez au métro."
+      ],
+      "correct": 0,
+      "explain_it": "Con 'tu' si dice 'vas'; 'à' + 'le' diventa 'au' davanti a un nome maschile."
+    },
+    {
+      "id": "L007-e23",
+      "type": "cloze",
+      "level": 1,
+      "concept": "aller",
+      "text": "Ça ___ très bien, merci.",
+      "answers": [
+        "va"
+      ],
+      "hint": "(aller, presente, ça)",
+      "prompt": "Sto molto bene, grazie.",
+      "explain_it": "Con 'ça' il verbo andare è 'va'."
+    },
+    {
+      "id": "L007-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "aller",
+      "prompt": "Noi andiamo all'albergo.",
+      "answers": [
+        "Nous allons à l'hôtel.",
+        "On va à l'hôtel."
+      ],
+      "explain_it": "Con 'nous' si usa 'allons'; 'l'hôtel' inizia per vocale e non richiede contrazione."
+    },
+    {
+      "id": "L007-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "aller",
+      "prompt": "Loro vanno al caffè.",
+      "answers": [
+        "Ils vont au café.",
+        "Elles vont au café."
+      ],
+      "explain_it": "'Vont' è la forma per 'ils/elles', e 'à + le' diventa 'au'."
+    },
+    {
+      "id": "L007-e26",
+      "type": "write",
+      "level": 3,
+      "concept": "aller",
+      "prompt": "Vai a sinistra, poi attraversi il boulevard.",
+      "answers": [
+        "Tu vas à gauche, puis tu traverses le boulevard.",
+        "Tu vas à gauche, ensuite tu traverses le boulevard."
+      ],
+      "explain_it": "Si combinano 'aller' (vas) e un verbo di -er (traverses) con due soggetti 'tu'."
+    },
+    {
+      "id": "L007-e27",
+      "type": "flash",
+      "level": 1,
+      "concept": "aller",
+      "front": "Coniuga ALLER al presente (je, tu, il, nous, vous, ils)",
+      "back": "je vais, tu vas, il va, nous allons, vous allez, ils vont",
+      "explain_it": "È un verbo irregolare molto frequente, da memorizzare in ogni persona."
+    },
+    {
+      "id": "L007-e28",
+      "type": "mcq",
+      "level": 2,
+      "concept": "negation",
+      "prompt": "Come si nega 'Je suis breton' (sono bretone)?",
+      "options": [
+        "Je ne suis pas breton.",
+        "Je ne suis breton pas.",
+        "Je suis pas ne breton.",
+        "Je suis ne pas breton."
+      ],
+      "correct": 0,
+      "explain_it": "La negazione si costruisce con 'ne' prima del verbo e 'pas' dopo."
+    },
+    {
+      "id": "L007-e29",
+      "type": "cloze",
+      "level": 2,
+      "concept": "negation",
+      "text": "Nous n'___ pas de chambre libre.",
+      "answers": [
+        "avons"
+      ],
+      "hint": "(avoir, presente, nous)",
+      "prompt": "Non abbiamo una camera libera.",
+      "explain_it": "Con 'nous' il verbo avoir è 'avons', e la negazione lo circonda."
+    },
+    {
+      "id": "L007-e30",
+      "type": "cloze",
+      "level": 3,
+      "concept": "de-after-negation",
+      "text": "Nous n'avons pas ___ lit libre.",
+      "answers": [
+        "de"
+      ],
+      "hint": "(articolo dopo la negazione)",
+      "prompt": "Non abbiamo un letto libero.",
+      "explain_it": "Dopo una negazione l'articolo indeterminativo un/une/des diventa de: pas de lit."
+    },
+    {
+      "id": "L007-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "negation",
+      "prompt": "Non sono in ritardo, è solo mezzogiorno.",
+      "answers": [
+        "Je ne suis pas en retard, il n'est que midi.",
+        "Je ne suis pas en retard, il est seulement midi."
+      ],
+      "explain_it": "Due negazioni nella stessa frase: 'ne ... pas' per il verbo e 'ne ... que' per 'solo'."
+    },
+    {
+      "id": "L007-e32",
+      "type": "write",
+      "level": 2,
+      "concept": "negation",
+      "prompt": "Non ho la chiave.",
+      "answers": [
+        "Je n'ai pas la clé.",
+        "Je n'ai pas la clef."
+      ],
+      "explain_it": "L'articolo determinativo 'la' resta dopo la negazione."
+    },
+    {
+      "id": "L007-e33",
+      "type": "cloze",
+      "level": 2,
+      "concept": "articles-indefinite",
+      "text": "Voici ___ plan de la ville.",
+      "answers": [
+        "un"
+      ],
+      "hint": "(articolo indeterminativo)",
+      "prompt": "Ecco una pianta della città.",
+      "explain_it": "'Plan' è maschile e non è un oggetto già noto: si usa 'un'."
+    },
+    {
+      "id": "L007-e34",
+      "type": "mcq",
+      "level": 2,
+      "concept": "liaison",
+      "prompt": "In quale coppia la consonante finale si pronuncia davanti alla vocale seguente (liaison)?",
+      "options": [
+        "vous avez",
+        "le lit",
+        "il pense",
+        "je désire"
+      ],
+      "correct": 0,
+      "explain_it": "'Vous' finisce in consonante muta, che si pronuncia davanti alla vocale di 'avez' (vuz avez)."
+    },
+    {
+      "id": "L007-e35",
+      "type": "write",
+      "level": 2,
+      "concept": "spelling-accents",
+      "ask": "Traduci in francese, con gli accenti corretti",
+      "prompt": "Dov'è la chiave?",
+      "answers": [
+        "Où est la clé ?"
+      ],
+      "explain_it": "'Où' ha l'accento grave e 'clé' ha l'accento acuto: senza accenti il francese cambia significato."
+    },
+    {
+      "id": "L007-e36",
+      "type": "dictation",
+      "level": 2,
+      "concept": "liaison",
+      "text": "Nous avons un plan de la ville.",
+      "explain_it": "Nous avons: la s di nous si pronuncia z davanti a avons (liaison obbligatoria). Fra avons e un il legame è facoltativo."
+    },
+    {
+      "id": "L007-e37",
+      "type": "dictation",
+      "level": 3,
+      "concept": "time-date",
+      "text": "Il est midi et demi, je pense.",
+      "explain_it": "«Midi et demi» indica le dodici e mezza; «je pense» qui è un inciso («penso») e non regge nessuna subordinata."
+    },
+    {
+      "id": "L007-e38",
+      "type": "mcq",
+      "level": 2,
+      "concept": "time-date",
+      "prompt": "Come si dice 'sono le tre e cinque' in francese?",
+      "options": [
+        "Il est trois heures cinq.",
+        "Il est trois heures et cinq.",
+        "Il est cinq trois heures.",
+        "Il a trois heures cinq."
+      ],
+      "correct": 0,
+      "explain_it": "Con i minuti si dice solo «trois heures cinq»: «et» si usa soltanto con quart (et quart) e demie (et demie)."
+    },
+    {
+      "id": "L007-e39",
+      "type": "write",
+      "level": 3,
+      "concept": "time-date",
+      "prompt": "Sono le sette meno cinque.",
+      "answers": [
+        "Il est [sept heures moins cinq|six heures cinquante-cinq]."
+      ],
+      "explain_it": "I minuti prima dell'ora si dicono con 'moins' oppure si conta fino all'ora successiva."
+    },
+    {
+      "id": "L007-e40",
+      "type": "order",
+      "level": 1,
+      "concept": "time-date",
+      "prompt": "Sono le dodici e venti.",
+      "answers": [
+        "Il est douze heures vingt",
+        "Il est midi vingt"
+      ],
+      "distractors": [
+        "onze"
+      ],
+      "explain_it": "L'ora si esprime con 'il est' + numero + 'heures' + minuti."
+    },
+    {
+      "id": "L007-e41",
+      "type": "cloze",
+      "level": 2,
+      "concept": "possessives",
+      "text": "___ fille est en retard.",
+      "answers": [
+        "Ma"
+      ],
+      "hint": "(possessivo, nome femminile)",
+      "prompt": "Mia figlia è in ritardo.",
+      "explain_it": "'Fille' è femminile, quindi il possessivo è 'ma'."
+    },
+    {
+      "id": "L007-e42",
+      "type": "write",
+      "level": 3,
+      "concept": "possessives",
+      "prompt": "Il mio cognome è Dubois.",
+      "answers": [
+        "Mon nom de famille est Dubois.",
+        "Mon nom est Dubois."
+      ],
+      "explain_it": "«Nom» è maschile, quindi il possessivo è mon."
+    },
+    {
+      "id": "L007-e43",
+      "type": "write",
+      "level": 2,
+      "concept": "possessives",
+      "prompt": "Grazie mille per il tuo aiuto.",
+      "answers": [
+        "Merci beaucoup pour [ton|votre] aide."
+      ],
+      "explain_it": "Con 'tu' si usa 'ton' davanti a un nome femminile che inizia per vocale ('aide')."
+    },
+    {
+      "id": "L007-e44",
+      "type": "write",
+      "level": 2,
+      "concept": "questions",
+      "ask": "Traduci in francese, dando del Lei",
+      "prompt": "Ha la chiave?",
+      "answers": [
+        "Est-ce que vous avez la clé ?",
+        "Avez-vous la clé ?",
+        "Vous avez la clé ?"
+      ],
+      "explain_it": "Una domanda si può fare con 'Est-ce que', con l'inversione o con la sola intonazione."
+    },
+    {
+      "id": "L007-e45",
+      "type": "mcq",
+      "level": 1,
+      "concept": "questions",
+      "prompt": "Quale frase è una domanda corretta?",
+      "options": [
+        "Est-ce que tu es breton ?",
+        "Tu es breton est-ce ?",
+        "Ce que tu es breton ?",
+        "Est-ce tu que breton ?"
+      ],
+      "correct": 0,
+      "explain_it": "'Est-ce que' va all'inizio della frase, seguito dalla frase normale."
+    },
+    {
+      "id": "L007-e46",
+      "type": "flash",
+      "level": 2,
+      "concept": "negation",
+      "front": "Come si costruisce la frase negativa in francese?",
+      "back": "ne + verbo + pas (ne diventa n' davanti a vocale o h muta)",
+      "explain_it": "Entrambe le parti circondano il verbo, mentre in italiano 'non' sta solo prima."
+    },
+    {
+      "id": "L007-e47",
+      "type": "flash",
+      "level": 2,
+      "concept": "gender",
+      "front": "Regola base per il genere dei nomi",
+      "back": "Donne, parentela e ragazze sono femminili (femme, fille); uomini e ragazzi sono maschili (homme, garçon); il resto si impara con l'articolo.",
+      "explain_it": "Le regole aiutano per le parole più comuni, ma per gli altri nomi serve l'articolo."
+    },
+    {
+      "id": "L007-e48",
+      "type": "flash",
+      "level": 2,
+      "concept": "false-friends",
+      "front": "Cosa significa 'retard' in francese?",
+      "back": "ritardo. Si dice 'être en retard' (essere in ritardo).",
+      "explain_it": "«Retard» significa solo ritardo: attenzione a non confonderlo con l'italiano «ritardato»."
+    },
+    {
+      "id": "L007-e49",
+      "type": "flash",
+      "level": 2,
+      "concept": "present-er",
+      "front": "Terminazioni di 'chercher' al presente",
+      "back": "-e, -es, -e, -ons, -ez, -ent: je cherche, tu cherches, il cherche, nous cherchons, vous cherchez, ils cherchent.",
+      "explain_it": "Le sei forme seguono lo stesso schema per tutti i verbi del primo gruppo."
+    },
+    {
+      "id": "L007-e50",
+      "type": "mcq",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "In francese, «une fille» può significare:",
+      "options": [
+        "una ragazza o una figlia",
+        "una fila",
+        "un filo",
+        "una figura"
+      ],
+      "correct": 0,
+      "explain_it": "'Fille' non è 'fila': la fila in francese si dice 'file'."
+    },
+    {
+      "id": "L007-e51",
+      "type": "write",
+      "level": 2,
+      "concept": "avoir",
+      "prompt": "Ho una camera per quattro notti.",
+      "answers": [
+        "J'ai une chambre pour quatre nuits."
+      ],
+      "explain_it": "Con 'avoir' e un nome femminile si usa 'une'; 'nuits' è il plurale di 'nuit'."
+    },
+    {
+      "id": "L007-e52",
+      "type": "mcq",
+      "level": 1,
+      "concept": "avoir",
+      "prompt": "Scegli il verbo: 'Nous ___ une chambre libre.'",
+      "options": [
+        "avons",
+        "sommes",
+        "allons",
+        "tournons"
+      ],
+      "correct": 0,
+      "explain_it": "Il verbo avere con 'nous' è 'avons'."
+    },
+    {
+      "id": "L007-e53",
+      "type": "write",
+      "level": 3,
+      "concept": "time-date",
+      "prompt": "Non sono in ritardo, sono le dodici e dieci.",
+      "answers": [
+        "Je ne suis pas en retard, il est [midi dix|douze heures dix]."
+      ],
+      "explain_it": "Si combina la negazione con l'ora: 'midi' e 'douze heures' indicano entrambi le dodici."
+    },
+    {
+      "id": "L007-e54",
+      "type": "write",
+      "level": 3,
+      "concept": "aller",
+      "prompt": "Dove vai, Chloé?",
+      "answers": [
+        "Où vas-tu, Chloé ?",
+        "Où est-ce que tu vas, Chloé ?",
+        "Tu vas où, Chloé ?"
+      ],
+      "explain_it": "Con 'tu' la domanda si può fare con l'inversione, con 'est-ce que' o con l'intonazione."
+    },
+    {
+      "id": "L007-e55",
+      "type": "cloze",
+      "level": 2,
+      "concept": "etre",
+      "text": "Il n'___ pas en retard.",
+      "answers": [
+        "est"
+      ],
+      "hint": "(être, presente, il)",
+      "prompt": "Lui non è in ritardo.",
+      "explain_it": "Con 'il' essere diventa 'est', e la negazione circonda il verbo."
+    },
+    {
+      "id": "L007-e56",
+      "type": "order",
+      "level": 3,
+      "concept": "negation",
+      "prompt": "Non siamo in ritardo e sono le dodici.",
+      "answers": [
+        "Nous ne sommes pas en retard et il est midi"
+      ],
+      "distractors": [
+        "sont",
+        "de"
+      ],
+      "explain_it": "La negazione 'ne ... pas' circonda 'sommes', e 'midi' indica le dodici."
+    }
   ]
 }

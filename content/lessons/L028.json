@@ -1,0 +1,705 @@
+{
+  "n": 28,
+  "title_fr": "Révision",
+  "title_it": "Ripasso",
+  "review": true,
+  "status": "verified",
+  "source": "c15d4fa8 pdf p33-40 (libro p.115-122; ripasso grammaticale p.115-120, dialogo di revisione e traduzione p.121-122)",
+  "theme_it": "Ripasso delle lezioni 22-27: André gioca ogni settimana alla lotteria e spiega a un amico come sceglie i numeri. Poi decidono insieme di pranzare, perché entrambi hanno fame e sete, e scelgono un ristorante bretone del quartiere.",
+  "grammar": [
+    {
+      "id": "present-ir",
+      "title_it": "Verbi del secondo gruppo in -ir (choisir, finir)",
+      "explain_it": "I verbi in -ir del secondo gruppo si coniugano aggiungendo al tema (l'infinito senza -ir) le desinenze -is, -is, -it, -issons, -issez, -issent: je choisis, tu choisis, il choisit, nous choisissons, vous choisissez, ils choisissent. Al plurale compare la sillaba -iss-. Je finis, tu finis e il finit si pronunciano allo stesso modo [fini]; al plurale la -ss- si sente, e ils finissent [finis] si distingue da il finit. Le domande si fanno come con i verbi in -er: Vous finissez votre café ? oppure Est-ce que vous finissez votre café ? (l'inversione Finissez-vous... è più formale). La negazione è ne ... pas: je ne finis pas. Il pronome on prende la terza persona singolare: on finit = si finisce.",
+      "examples": [
+        {
+          "fr": "Nous choisissons toujours le même numéro.",
+          "it": "Scegliamo sempre lo stesso numero."
+        },
+        {
+          "fr": "Est-ce que tu finis ton café ?",
+          "it": "Finisci il tuo caffè?"
+        }
+      ]
+    },
+    {
+      "id": "pronoun-cod",
+      "title_it": "Pronomi complemento oggetto diretto (me, te, le/la, nous, vous, les)",
+      "explain_it": "I pronomi complemento oggetto diretto sono me (m'), te (t'), le/la (l'), nous, vous, les. Si mettono davanti al verbo coniugato, come in italiano: Je le vois = lo vedo, Nous les achetons = li compriamo. Le, la e les hanno la stessa forma degli articoli ma stanno prima del verbo; le e la si elidono davanti a vocale: je l'écoute. Con un verbo seguito da infinito il pronome va davanti all'infinito, non al verbo modale (in italiano può unirsi alla fine): Je peux le voir = posso vederlo, Nous voulons vous aider = vogliamo aiutarvi.",
+      "examples": [
+        {
+          "fr": "Je l'écoute tous les jours.",
+          "it": "La ascolto tutti i giorni."
+        },
+        {
+          "fr": "Nous voulons vous aider.",
+          "it": "Vogliamo aiutarvi."
+        }
+      ]
+    },
+    {
+      "id": "interrogatives",
+      "title_it": "Quel, quelle, quels, quelles: quale? quali?",
+      "explain_it": "Quel è l'aggettivo interrogativo e concorda con il nome: quel (m. sing.), quelle (f. sing.), quels (m. pl.), quelles (f. pl.). Si può mettere davanti a un nome (Quelle chambre préférez-vous ?) o davanti a être (Quelle heure est-il ? Quel est ton numéro ?). Le quattro forme si pronunciano [kel]; davanti a vocale si fa la liaison (quels amis, quels hôtels, con -s pronunciata z).",
+      "examples": [
+        {
+          "fr": "Quelle chambre préférez-vous ?",
+          "it": "Quale camera preferisce?"
+        },
+        {
+          "fr": "Quelles tables sont libres ?",
+          "it": "Quali tavoli sono liberi?"
+        }
+      ]
+    },
+    {
+      "id": "demonstratives",
+      "title_it": "Pronomi dimostrativi celui, celle, ceux, celles",
+      "explain_it": "Celui, celle, ceux, celles servono a non ripetere un nome già citato e corrispondono a 'quello, quella, quelli, quelle'. Non stanno mai da soli: sono sempre seguiti da de (celui de droite = quello di destra), da una relativa come qui o que, oppure da -ci o -là. Il genere e il numero si adeguano al nome di riferimento, come in italiano.",
+      "examples": [
+        {
+          "fr": "Celui de droite est plus petit.",
+          "it": "Quello di destra è più piccolo."
+        },
+        {
+          "fr": "Celles du premier étage sont chères.",
+          "it": "Quelle del primo piano sono care."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Avoir + nome per stati fisici e altre espressioni",
+      "explain_it": "Molte sensazioni e situazioni si esprimono con avoir + nome, spesso come in italiano: avoir faim, avoir soif, avoir chaud / froid, avoir raison / tort, avoir peur, avoir sommeil, avoir besoin de. Altre espressioni invece divergono dall'italiano: «essere fortunato» si dice avoir de la chance. Il nome non concorda con il soggetto e non vuole l'articolo (tranne in de la chance): J'ai raison, Vous avez raison, Elles ont soif.",
+      "examples": [
+        {
+          "fr": "Elles ont très soif après la course.",
+          "it": "Hanno molta sete dopo la corsa."
+        },
+        {
+          "fr": "Tu as raison, il fait froid.",
+          "it": "Hai ragione, fa freddo."
+        }
+      ]
+    },
+    {
+      "id": "numbers",
+      "title_it": "Numeri cardinali fino a 100 (70, 80, 90)",
+      "explain_it": "Fino a 69 i numeri seguono le decine. Da 70 a 99 il francese usa un sistema a base venti: soixante-dix (60+10), soixante et onze (71), soixante-douze, quatre-vingts (4 x 20, con la -s solo se il numero finisce lì), quatre-vingt-un (81), quatre-vingt-dix (4 x 20 + 10), quatre-vingt-onze (91). Si usa et solo con 21, 31, 41, 51, 61 e 71 (vingt et un, soixante et onze); dopo 80 e 90 no. Il trattino lega le parole del numero. In Belgio e Svizzera si usano le forme septante (70), huitante (80, solo in Svizzera) e nonante (90).",
+      "examples": [
+        {
+          "fr": "Cela fait soixante-douze euros.",
+          "it": "Fa settantadue euro."
+        },
+        {
+          "fr": "Il y a quatre-vingt-dix-neuf bouteilles.",
+          "it": "Ci sono novantanove bottiglie."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le mariage",
+      "it": "il matrimonio",
+      "pos": "n"
+    },
+    {
+      "fr": "oublier",
+      "it": "dimenticare",
+      "pos": "v",
+      "note": "je n'oublie pas"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Tu as raison !",
+      "it": "Hai ragione!",
+      "note": "forma familiare; con il Lei si dice Vous avez raison"
+    },
+    {
+      "fr": "Ça m'est égal.",
+      "it": "Per me è uguale. / Non mi importa.",
+      "note": "risposta neutra quando non si ha preferenza"
+    },
+    {
+      "fr": "Je suis tout à fait d'accord.",
+      "it": "Sono pienamente d'accordo.",
+      "note": "registro neutro e cortese"
+    },
+    {
+      "fr": "Il a de la chance.",
+      "it": "È fortunato.",
+      "note": "avoir de la chance, non 'être de la chance'"
+    },
+    {
+      "fr": "Remplir la grille de jeu.",
+      "it": "Compilare la schedina.",
+      "note": "lessico della lotteria"
+    },
+    {
+      "fr": "Avoir mal au ventre.",
+      "it": "Avere mal di pancia.",
+      "note": "mal à + parte del corpo; au = à + le"
+    },
+    {
+      "fr": "Voilà.",
+      "it": "Ecco.",
+      "note": "si usa anche per chiudere un'azione appena completata"
+    }
+  ],
+  "notes_it": [
+    "Belgio e Svizzera usano septante, huitante e nonante al posto di soixante-dix, quatre-vingts e quatre-vingt-dix: sono varianti regionali da riconoscere, ma in Francia il sistema standard è quello a base venti.",
+    "Nei verbi in -ir al singolare la -s e la -t finali sono mute: je finis e il finit si pronunciano uguale [fini]. Al plurale la -ss- si sente (ils finissent [finis]), perciò singolare e plurale si distinguono anche all'orecchio.",
+    "Attenzione ai casi in cui italiano e francese divergono: «essere fortunato» = avoir de la chance, «avere fretta» = être pressé, «avere ragione» = avoir raison.",
+    "L'inversione del soggetto (Finissez-vous votre café ?) è formale e poco usata nel parlato quotidiano: nella conversazione si preferisce Est-ce que..."
+  ],
+  "exercises": [
+    {
+      "id": "L028-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "present-ir",
+      "prompt": "Quale forma significa 'noi scegliamo'?",
+      "options": [
+        "nous choisissons",
+        "nous choisisons",
+        "nous choisissez",
+        "nous choisissont"
+      ],
+      "correct": 0,
+      "explain_it": "Al plurale i verbi in -ir del secondo gruppo prendono -iss- prima della desinenza -ons: nous choisissons."
+    },
+    {
+      "id": "L028-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "present-ir",
+      "prompt": "Quale forma completa la frase? 'Tu ___ ton travail à six heures.'",
+      "options": [
+        "finis",
+        "finit",
+        "finissons",
+        "finissent"
+      ],
+      "correct": 0,
+      "explain_it": "Con tu si usa la desinenza -is: tu finis, la s finale è muta."
+    },
+    {
+      "id": "L028-e03",
+      "type": "cloze",
+      "level": 2,
+      "concept": "present-ir",
+      "text": "Les enfants ___ leurs devoirs avant le dîner.",
+      "answers": [
+        "finissent"
+      ],
+      "hint": "(finir, presente)",
+      "prompt": "I bambini finiscono i compiti prima di cena.",
+      "explain_it": "Con ils/elles il verbo prende -issent."
+    },
+    {
+      "id": "L028-e04",
+      "type": "cloze",
+      "level": 2,
+      "concept": "present-ir",
+      "text": "Nous ___ toujours le même menu.",
+      "answers": [
+        "choisissons"
+      ],
+      "hint": "(choisir, presente)",
+      "prompt": "Noi scegliamo sempre lo stesso menù.",
+      "explain_it": "Con nous la radice si allunga con -iss- e la desinenza è -ons."
+    },
+    {
+      "id": "L028-e05",
+      "type": "write",
+      "level": 2,
+      "concept": "present-ir",
+      "prompt": "Scegli tu il vino?",
+      "ask": "Traduci in francese (forma tu)",
+      "answers": [
+        "Tu choisis le vin ?",
+        "Est-ce que tu choisis le vin ?",
+        "Choisis-tu le vin ?"
+      ],
+      "explain_it": "Con tu la domanda si costruisce con intonazione, con est-ce que o con l'inversione."
+    },
+    {
+      "id": "L028-e06",
+      "type": "write",
+      "level": 2,
+      "concept": "present-ir",
+      "prompt": "Voi finite il caffè?",
+      "ask": "Traduci in francese (forma vous)",
+      "answers": [
+        "Vous finissez votre café ?",
+        "Est-ce que vous finissez votre café ?",
+        "Finissez-vous votre café ?"
+      ],
+      "explain_it": "Con vous la forma è finissez; l'inversione è formale ma corretta."
+    },
+    {
+      "id": "L028-e07",
+      "type": "write",
+      "level": 3,
+      "concept": "present-ir",
+      "prompt": "Io non finisco il lavoro prima delle diciotto.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Je ne finis pas [le|mon] travail avant [dix-huit|18] heures."
+      ],
+      "explain_it": "La negazione ne ... pas circonda il verbo coniugato, e 'prima delle diciotto' si dice avant dix-huit heures."
+    },
+    {
+      "id": "L028-e08",
+      "type": "write",
+      "level": 3,
+      "concept": "interrogatives",
+      "prompt": "Quale ristorante scegliete?",
+      "ask": "Traduci in francese (forma vous)",
+      "answers": [
+        "Quel restaurant choisissez-vous ?",
+        "Quel restaurant est-ce que vous choisissez ?",
+        "Vous choisissez quel restaurant ?"
+      ],
+      "explain_it": "Quel accompagna il nome restaurant, maschile singolare, e il verbo -ir va alla forma vous."
+    },
+    {
+      "id": "L028-e09",
+      "type": "order",
+      "level": 1,
+      "concept": "pronoun-cod",
+      "prompt": "Lo ascolto ogni mattina.",
+      "answers": [
+        "Je l'écoute chaque matin.",
+        "Je l'écoute tous les matins."
+      ],
+      "distractors": [
+        "le",
+        "écoutez"
+      ],
+      "explain_it": "Il pronome complemento va davanti al verbo e si elide con l'écoute."
+    },
+    {
+      "id": "L028-e10",
+      "type": "order",
+      "level": 1,
+      "concept": "pronoun-cod",
+      "prompt": "Ti vedo domani.",
+      "answers": [
+        "Je te vois demain."
+      ],
+      "distractors": [
+        "tu",
+        "vous"
+      ],
+      "explain_it": "Te è il pronome di seconda persona singolare complemento oggetto e precede il verbo."
+    },
+    {
+      "id": "L028-e11",
+      "type": "order",
+      "level": 2,
+      "concept": "pronoun-cod",
+      "prompt": "Posso vederlo adesso.",
+      "answers": [
+        "Je peux le voir maintenant."
+      ],
+      "distractors": [
+        "la",
+        "vois"
+      ],
+      "explain_it": "Con pouvoir seguito da infinito il pronome si mette tra i due verbi, prima di voir."
+    },
+    {
+      "id": "L028-e12",
+      "type": "mcq",
+      "level": 2,
+      "concept": "pronoun-cod",
+      "prompt": "Quale frase è corretta? ('Li ascoltiamo spesso.')",
+      "options": [
+        "Nous les écoutons souvent.",
+        "Nous écoutons les souvent.",
+        "Nous écoutons souvent les.",
+        "Nous les souvent écoutons."
+      ],
+      "correct": 0,
+      "explain_it": "Il pronome les precede direttamente il verbo coniugato, e l'avverbio sta dopo."
+    },
+    {
+      "id": "L028-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-cod",
+      "text": "Tu ___ connais bien.",
+      "answers": [
+        "me"
+      ],
+      "hint": "(pronome complemento, 1a persona singolare)",
+      "prompt": "Tu mi conosci bene.",
+      "explain_it": "Me è il pronome di prima persona singolare complemento oggetto e precede il verbo."
+    },
+    {
+      "id": "L028-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-cod",
+      "text": "Nous ___ attendons devant la gare.",
+      "answers": [
+        "les"
+      ],
+      "hint": "(pronome complemento, plurale)",
+      "prompt": "Li aspettiamo davanti alla stazione.",
+      "explain_it": "Les si usa per il complemento plurale, prima del verbo."
+    },
+    {
+      "id": "L028-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-cod",
+      "prompt": "Vi vedo stasera.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Je vous vois ce soir."
+      ],
+      "explain_it": "Vous è complemento oggetto e va prima del verbo, come in italiano il «vi» precede."
+    },
+    {
+      "id": "L028-e16",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-cod",
+      "prompt": "Volete aiutarmi?",
+      "ask": "Traduci in francese (forma vous)",
+      "answers": [
+        "Voulez-vous m'aider ?",
+        "Vous voulez m'aider ?",
+        "Est-ce que vous voulez m'aider ?"
+      ],
+      "explain_it": "Il pronome me si elide in m' e va prima dell'infinito aider, che dipende da vouloir."
+    },
+    {
+      "id": "L028-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-cod",
+      "prompt": "Posso aiutarlo domani.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Je peux l'aider demain.",
+        "Je peux l'aider demain"
+      ],
+      "explain_it": "Con pouvoir il pronome complemento lo diventa l' e va prima dell'infinito aider."
+    },
+    {
+      "id": "L028-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "interrogatives",
+      "prompt": "Che ore sono?",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Quelle heure est-il ?",
+        "Quelle heure est-il",
+        "Il est quelle heure ?"
+      ],
+      "explain_it": "Quelle è femminile singolare perché accompagna heure."
+    },
+    {
+      "id": "L028-e19",
+      "type": "mcq",
+      "level": 2,
+      "concept": "interrogatives",
+      "prompt": "Quale forma completa la frase? '___ hôtels préférez-vous ?' (Quali alberghi preferite?)",
+      "options": [
+        "Quels",
+        "Quelles",
+        "Quel",
+        "Quelle"
+      ],
+      "correct": 0,
+      "explain_it": "Hôtel è maschile plurale: quels, con la liaison davanti alla vocale."
+    },
+    {
+      "id": "L028-e20",
+      "type": "mcq",
+      "level": 3,
+      "concept": "interrogatives",
+      "prompt": "Quale forma completa la frase? '___ est le numéro de votre chambre ?' (Qual è il numero della vostra camera?)",
+      "options": [
+        "Quel",
+        "Quelle",
+        "Quels",
+        "Quelles"
+      ],
+      "correct": 0,
+      "explain_it": "Numéro è maschile singolare: quel, anche davanti a être."
+    },
+    {
+      "id": "L028-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "interrogatives",
+      "prompt": "Quali amici conosci?",
+      "ask": "Traduci in francese (forma tu)",
+      "answers": [
+        "Quels amis connais-tu ?",
+        "Quels amis est-ce que tu connais ?",
+        "Tu connais quels amis ?",
+        "Quels amis tu connais ?"
+      ],
+      "explain_it": "Quels concorda con amis, maschile plurale; con tu l'inversione è accettata nel parlato."
+    },
+    {
+      "id": "L028-e22",
+      "type": "write",
+      "level": 3,
+      "concept": "interrogatives",
+      "prompt": "Quali tavoli sono liberi stasera?",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Quelles tables sont libres ce soir ?",
+        "Quelles tables sont libres ce soir"
+      ],
+      "explain_it": "Tables è femminile plurale: quelles."
+    },
+    {
+      "id": "L028-e23",
+      "type": "mcq",
+      "level": 2,
+      "concept": "demonstratives",
+      "prompt": "Completa: '___ de droite est plus grand.' (Quello di destra è più grande.)",
+      "options": [
+        "Celui",
+        "Celle",
+        "Ceux",
+        "Celles"
+      ],
+      "correct": 0,
+      "explain_it": "Il riferimento è maschile singolare, quindi celui seguito da de."
+    },
+    {
+      "id": "L028-e24",
+      "type": "cloze",
+      "level": 2,
+      "concept": "demonstratives",
+      "text": "Les chambres du rez-de-chaussée sont petites, mais ___ du premier étage sont grandes.",
+      "answers": [
+        "celles"
+      ],
+      "hint": "(pronome dimostrativo, femminile plurale)",
+      "prompt": "Le camere al pianterreno sono piccole, ma quelle del primo piano sono grandi.",
+      "explain_it": "Celles riprende chambres, femminile plurale, e si completa con du premier étage."
+    },
+    {
+      "id": "L028-e25",
+      "type": "cloze",
+      "level": 2,
+      "concept": "demonstratives",
+      "text": "Je préfère ___ qui donne sur le jardin.",
+      "answers": [
+        "celle"
+      ],
+      "hint": "(pronome dimostrativo, femminile singolare)",
+      "prompt": "Preferisco quella che dà sul giardino.",
+      "explain_it": "Celle riprende un nome femminile singolare e la relativa qui chiarisce quale."
+    },
+    {
+      "id": "L028-e26",
+      "type": "write",
+      "level": 3,
+      "concept": "demonstratives",
+      "prompt": "Quello vicino alla porta è più comodo.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Celui [qui est|qui se trouve] près de la porte est plus confortable."
+      ],
+      "explain_it": "Celui non sta da solo: è seguito da una relativa con qui."
+    },
+    {
+      "id": "L028-e27",
+      "type": "write",
+      "level": 3,
+      "concept": "demonstratives",
+      "prompt": "Preferisco i menù del ristorante, non quelli del bar.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Je préfère les menus du restaurant, pas ceux du bar.",
+        "Je préfère les menus du restaurant, et non ceux du bar."
+      ],
+      "explain_it": "Ceux riprende menus, maschile plurale, e si completa con du bar."
+    },
+    {
+      "id": "L028-e28",
+      "type": "flash",
+      "level": 2,
+      "concept": "demonstratives",
+      "front": "Celui / celle / ceux / celles",
+      "back": "Significano 'quello / quella / quelli / quelle'. Non stanno mai da soli: sono seguiti da de, da qui / que o da -ci / -là. Es.: celui de droite = quello di destra.",
+      "explain_it": "Il pronome dimostrativo evita di ripetere un nome già detto."
+    },
+    {
+      "id": "L028-e29",
+      "type": "flash",
+      "level": 2,
+      "concept": "present-ir",
+      "front": "Come si forma il presente dei verbi in -ir del secondo gruppo?",
+      "back": "Radice (infinito senza -ir) + -is, -is, -it, -issons, -issez, -issent. Es.: finir -> je finis, nous finissons.",
+      "explain_it": "La sillaba -iss- compare in tutte le persone tranne je, tu, il."
+    },
+    {
+      "id": "L028-e30",
+      "type": "flash",
+      "level": 2,
+      "concept": "interrogatives",
+      "front": "Quel: come cambia?",
+      "back": "Concorda con il nome: quel (m. sing.), quelle (f. sing.), quels (m. pl.), quelles (f. pl.). Anche con être: Quel est ton numéro ? Quelle heure est-il ?",
+      "explain_it": "Quel è l'aggettivo interrogativo 'quale/quali' e si accorda con il nome."
+    },
+    {
+      "id": "L028-e31",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronoun-cod",
+      "front": "Dove va il pronome complemento con pouvoir o vouloir più infinito?",
+      "back": "Tra il verbo modale e l'infinito: Je peux le voir. Vous voulez me parler ?",
+      "explain_it": "Il pronome si lega al verbo che lo richiede, cioè l'infinito, ma sta prima di esso."
+    },
+    {
+      "id": "L028-e32",
+      "type": "flash",
+      "level": 2,
+      "concept": "idioms",
+      "front": "Come si dice 'avere fame' in francese, e il nome concorda con il soggetto?",
+      "back": "avoir faim: avoir + nome. Il nome non concorda: nous avons faim, elles ont faim.",
+      "explain_it": "Il nome descrive lo stato e resta invariato, a differenza di un aggettivo."
+    },
+    {
+      "id": "L028-e33",
+      "type": "flash",
+      "level": 2,
+      "concept": "numbers",
+      "front": "Come si dicono 70, 80 e 90 in francese?",
+      "back": "70 = soixante-dix (60+10); 80 = quatre-vingts (4 x 20); 90 = quatre-vingt-dix (4 x 20 + 10). In Belgio e Svizzera: septante, huitante, nonante.",
+      "explain_it": "Il sistema francese dei numeri da 70 a 99 è a base venti, non a base dieci."
+    },
+    {
+      "id": "L028-e34",
+      "type": "write",
+      "level": 2,
+      "concept": "numbers",
+      "prompt": "Novantasette euro.",
+      "ask": "Scrivi il numero in lettere in francese",
+      "answers": [
+        "quatre-vingt-dix-sept euros",
+        "nonante-sept euros"
+      ],
+      "explain_it": "97 è quatre-vingt-dix-sept (4 x 20 + 10 + 7); in Belgio e Svizzera si dice nonante-sept."
+    },
+    {
+      "id": "L028-e35",
+      "type": "write",
+      "level": 2,
+      "concept": "numbers",
+      "prompt": "Settantasei pagine.",
+      "ask": "Scrivi il numero in lettere in francese",
+      "answers": [
+        "soixante-seize pages"
+      ],
+      "explain_it": "76 è 60 + 16, quindi soixante-seize."
+    },
+    {
+      "id": "L028-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "numbers",
+      "prompt": "Mio nonno ha ottantuno anni.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Mon grand-père a quatre-vingt-un ans.",
+        "Mon grand-père a 81 ans.",
+        "Mon grand-père a huitante et un ans."
+      ],
+      "explain_it": "81 è quatre-vingt-un; la forma con huitante è usata in Belgio e Svizzera."
+    },
+    {
+      "id": "L028-e37",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Ha ragione, fa molto caldo.",
+      "ask": "Traduci in francese (forma vous)",
+      "answers": [
+        "Vous avez raison, il fait très chaud."
+      ],
+      "explain_it": "Avoir raison si costruisce con avoir e non con être; molto caldo è très chaud."
+    },
+    {
+      "id": "L028-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Ho paura del buio.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "J'ai peur du noir.",
+        "J'ai peur de l'obscurité."
+      ],
+      "explain_it": "Avoir peur più de + nome; de + le diventa du."
+    },
+    {
+      "id": "L028-e39",
+      "type": "mcq",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Come si dice 'avere sonno'?",
+      "options": [
+        "avoir sommeil",
+        "être sommeil",
+        "faire sommeil",
+        "avoir le sommeil"
+      ],
+      "correct": 0,
+      "explain_it": "Si usa avoir con il nome sommeil: non si usa être, come farebbe un calco dall'italiano."
+    },
+    {
+      "id": "L028-e40",
+      "type": "mcq",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Quale espressione significa 'essere fortunati'?",
+      "options": [
+        "avoir de la chance",
+        "être de la chance",
+        "faire de la chance",
+        "avoir du chance"
+      ],
+      "correct": 0,
+      "explain_it": "Si dice avoir de la chance; chance è femminile, quindi de la. Être non si usa."
+    },
+    {
+      "id": "L028-e41",
+      "type": "dictation",
+      "level": 2,
+      "concept": "present-ir",
+      "text": "Nous choisissons toujours le même numéro."
+    },
+    {
+      "id": "L028-e42",
+      "type": "dictation",
+      "level": 3,
+      "concept": "interrogatives",
+      "text": "Quelles tables préférez-vous, celles qui sont près de la fenêtre ou celles du fond ?",
+      "answers": [
+        "Quelles tables préférez-vous, celles qui sont près de la fenêtre ou celles du fond ?"
+      ]
+    },
+    {
+      "id": "L028-e43",
+      "type": "dictation",
+      "level": 3,
+      "concept": "pronoun-cod",
+      "text": "Il peut les finir avant midi."
+    }
+  ]
+}

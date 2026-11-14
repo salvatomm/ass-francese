@@ -1,0 +1,714 @@
+{
+  "n": 12,
+  "title_fr": "Au marché (Deuxième partie)",
+  "title_it": "Al mercato (seconda parte)",
+  "review": false,
+  "status": "verified",
+  "source": "529edcbd pdf 53-58 (libro p.37-42)",
+  "theme_it": "Al banco del mercato il venditore chiede se il cliente vuole anche delle fragole, che sono biologiche. Il cliente le assaggia, le trova buonissime ma troppo care per quello che vuole, compra solo ciò che gli serve, paga e riceve il resto.",
+  "grammar": [
+    {
+      "id": "articles-indefinite",
+      "title_it": "Des: l'articolo indeterminativo plurale",
+      "explain_it": "Con un, une, des hai i tre articoli indeterminativi: un (m. sing.), une (f. sing.), des (plurale per entrambi i generi). Des corrisponde all'italiano 'delle/dei/degli' oppure a 'alcuni, alcune', e in italiano spesso non si traduce. In francese però il plurale indeterminativo va sempre espresso: Vous voulez des fraises ? (Volete delle fragole?). Dopo una negazione des diventa de: Je ne veux pas de fraises.",
+      "examples": [
+        {
+          "fr": "Nous avons des amis à Paris.",
+          "it": "Abbiamo degli amici a Parigi."
+        },
+        {
+          "fr": "Tu veux des bananes ?",
+          "it": "Vuoi delle banane?"
+        },
+        {
+          "fr": "Je ne veux pas de cerises.",
+          "it": "Non voglio delle ciliegie."
+        }
+      ]
+    },
+    {
+      "id": "imperative",
+      "title_it": "Allez-y e allons-y: l'imperativo di aller con y",
+      "explain_it": "Allez-y (voi), allons-y (noi), vas-y (tu) sono l'imperativo di aller seguito dal pronome y, che qui richiama un luogo o un'azione chiara dal contesto. Il significato è 'andate pure, avanti, provate' oppure 'andiamo'. Nell'imperativo affermativo y segue il verbo, unito da un trattino. Per il tu, l'imperativo di aller è va, ma davanti a y recupera la s: vas-y.",
+      "examples": [
+        {
+          "fr": "Allez-y, goûtez !",
+          "it": "Prego, assaggiate!"
+        },
+        {
+          "fr": "Allons-y, il est tard !",
+          "it": "Andiamo, è tardi!"
+        },
+        {
+          "fr": "Vas-y, mange !",
+          "it": "Vai avanti, mangia!"
+        }
+      ]
+    },
+    {
+      "id": "adjectives-irregular",
+      "title_it": "Bio: un aggettivo invariabile",
+      "explain_it": "Bio è l'abbreviazione di biologique (biologico). Come aggettivo non cambia né al femminile né al plurale: une pomme bio, des fraises bio. È un uso idiomatico tipico del mercato e dei negozi: non serve accordarlo come si farebbe con biologique.",
+      "examples": [
+        {
+          "fr": "Ce pain est bio.",
+          "it": "Questo pane è biologico."
+        },
+        {
+          "fr": "Toutes mes fraises sont bio.",
+          "it": "Tutte le mie fragole sono biologiche."
+        },
+        {
+          "fr": "Des légumes bio.",
+          "it": "Verdure biologiche."
+        }
+      ]
+    },
+    {
+      "id": "adjective-agreement",
+      "title_it": "Cher, chère: il femminile in -ère",
+      "explain_it": "Gli aggettivi maschili che finiscono in -er fanno il femminile in -ère: cher diventa chère. Si ha accento grave sulla e e una -e muta finale. Il plurale è chers, chères. Attenzione: quando cher è avverbio (coûter cher, costare caro) resta sempre invariato, nella forma maschile. Come in italiano 'caro' significa anche 'affezionato': mon cher è 'mio caro' in senso affettivo.",
+      "examples": [
+        {
+          "fr": "Cette maison est chère.",
+          "it": "Questa casa è cara."
+        },
+        {
+          "fr": "Les cerises sont très chères.",
+          "it": "Le ciliegie sono molto care."
+        },
+        {
+          "fr": "Le café est cher ici.",
+          "it": "Il caffè è caro qui."
+        }
+      ]
+    },
+    {
+      "id": "interrogatives",
+      "title_it": "Combien (de): quanto, quanti",
+      "explain_it": "Combien significa 'quanto/quanti'. Davanti a un nome si dice combien de + nome senza articolo: combien de kilos ? (quanti chili?). Davanti a una vocale si elide: combien d'euros. Per chiedere il prezzo al negozio si usa la formula Elles sont à combien ? (a quanto sono?, cioè quanto costano), oppure Ça fait combien ? (quanto fa, in totale).",
+      "examples": [
+        {
+          "fr": "Combien de pommes voulez-vous ?",
+          "it": "Quante mele volete?"
+        },
+        {
+          "fr": "Ça fait combien ?",
+          "it": "Quanto fa?"
+        },
+        {
+          "fr": "Combien d'euros ?",
+          "it": "Quanti euro?"
+        }
+      ]
+    },
+    {
+      "id": "indefinites",
+      "title_it": "Tout come pronome: tutto, tutto quello che",
+      "explain_it": "Tout usato da solo come pronome significa 'tutto' e resta invariabile. In tout ce que (tutto quello che) il pronome introduce una relativa: tout ce que je veux significa 'tutto ciò che voglio'. Come aggettivo, invece, tout si accorda con il nome (vedi la lezione 11).",
+      "examples": [
+        {
+          "fr": "Tout est prêt.",
+          "it": "Tutto è pronto."
+        },
+        {
+          "fr": "Tout le monde aime les fraises.",
+          "it": "Tutti amano le fragole."
+        },
+        {
+          "fr": "J'achète tout ce que je vois.",
+          "it": "Compro tutto ciò che vedo."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la fraise",
+      "it": "la fragola",
+      "pos": "n"
+    },
+    {
+      "fr": "vouloir",
+      "it": "volere",
+      "pos": "v",
+      "note": "je veux / vous voulez"
+    },
+    {
+      "fr": "peut-être",
+      "it": "forse",
+      "pos": "adv"
+    },
+    {
+      "fr": "goûter",
+      "it": "assaggiare",
+      "pos": "v",
+      "note": "vous goûtez"
+    },
+    {
+      "fr": "bio",
+      "it": "biologico",
+      "pos": "adj",
+      "note": "invariabile"
+    },
+    {
+      "fr": "délicieux",
+      "it": "delizioso",
+      "pos": "adj",
+      "note": "délicieuse (f.)"
+    },
+    {
+      "fr": "vraiment",
+      "it": "davvero, proprio",
+      "pos": "adv"
+    },
+    {
+      "fr": "combien",
+      "it": "quanto, quanti",
+      "pos": "adv"
+    },
+    {
+      "fr": "le prix",
+      "it": "il prezzo",
+      "pos": "n"
+    },
+    {
+      "fr": "seulement",
+      "it": "solo, soltanto",
+      "pos": "adv"
+    },
+    {
+      "fr": "l'euro (m.)",
+      "it": "l'euro",
+      "pos": "n",
+      "note": "au pluriel: les euros"
+    },
+    {
+      "fr": "voilà",
+      "it": "ecco",
+      "pos": "interj"
+    },
+    {
+      "fr": "la monnaie",
+      "it": "il resto, gli spiccioli",
+      "pos": "n"
+    },
+    {
+      "fr": "penser",
+      "it": "pensare",
+      "pos": "v",
+      "note": "je pense"
+    },
+    {
+      "fr": "midi (m.)",
+      "it": "mezzogiorno",
+      "pos": "n"
+    },
+    {
+      "fr": "la journée",
+      "it": "la giornata",
+      "pos": "n"
+    },
+    {
+      "fr": "hésiter",
+      "it": "esitare",
+      "pos": "v",
+      "note": "n'hésitez pas"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Et avec ceci ?",
+      "it": "E con questo?",
+      "note": "formula tipica del negoziante, come l'italiano 'altro?'"
+    },
+    {
+      "fr": "Allez-y !",
+      "it": "Prego, si accomodi! / Avanti!",
+      "note": "invito a provare o a servirsi"
+    },
+    {
+      "fr": "N'hésitez pas !",
+      "it": "Non esitate!",
+      "note": "tono cortese, con vous (anche 'non esiti')"
+    },
+    {
+      "fr": "Elles sont à combien ?",
+      "it": "Quanto costano?",
+      "note": "domanda sul prezzo al chilo o al pezzo"
+    },
+    {
+      "fr": "Ça vous fait dix euros.",
+      "it": "Fa dieci euro.",
+      "note": "il cliente sente il totale da pagare"
+    },
+    {
+      "fr": "Pour l'instant.",
+      "it": "Per il momento.",
+      "note": "frase di chiusura, detta anche da sola"
+    },
+    {
+      "fr": "Bonne journée !",
+      "it": "Buona giornata!",
+      "note": "saluto di congedo, con bonne al femminile"
+    },
+    {
+      "fr": "Voilà trente euros.",
+      "it": "Ecco trenta euro.",
+      "note": "voilà = ecco, da usare quando si consegna qualcosa"
+    }
+  ],
+  "notes_it": [
+    "Monnaie significa sia 'moneta' sia 'resto' (spiccioli). Nel negozio voici votre monnaie vuol dire 'ecco il resto': non confonderlo con l'argent, che è il denaro in generale.",
+    "Cher è un vero amico: come l'italiano 'caro' significa sia 'costoso' sia 'affettuoso' (mon cher ami). Al mercato è sempre 'costoso'.",
+    "Bio è invariabile e non va confuso con biologique, che è la forma piena. In Italia il termine è molto diffuso anche nei supermercati.",
+    "Peut-être (forse) si scrive con il trattino e l'accento circonflesso sulla ê di être: senza trattino (peut être) è un'altra cosa, 'può essere' come verbo + infinito.",
+    "Est-ce que serve a fare una domanda senza invertire il soggetto: Est-ce que je peux les goûter ? è un modo molto comune di chiedere il permesso di assaggiare."
+  ],
+  "exercises": [
+    {
+      "id": "L012-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "articles-indefinite",
+      "prompt": "Completa: « Vous voulez ___ fraises ? » (Volete delle fragole?)",
+      "options": [
+        "des",
+        "de",
+        "les",
+        "du"
+      ],
+      "correct": 0,
+      "explain_it": "Dopo vouloir in frase positiva si usa l'articolo indeterminativo plurale des; de compare solo dopo una negazione."
+    },
+    {
+      "id": "L012-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "imperative",
+      "prompt": "Completa: « Il est midi, ___ ! Nous sommes en retard. » (Andiamo! Siamo in ritardo)",
+      "options": [
+        "Allons-y",
+        "Allons-nous",
+        "Allez-vous",
+        "Ça va"
+      ],
+      "correct": 0,
+      "explain_it": "Allons-y è l'imperativo di noi di aller con y; allons-nous e allez-vous sono domande, non inviti."
+    },
+    {
+      "id": "L012-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "adjectives-irregular",
+      "prompt": "Quale forma è corretta? « Toutes mes fraises sont ___. » (Tutte le mie fragole sono biologiche)",
+      "options": [
+        "bio",
+        "bios",
+        "bioe",
+        "bioes"
+      ],
+      "correct": 0,
+      "explain_it": "Bio è invariabile: non prende la -s né la -e, anche al plurale e al femminile."
+    },
+    {
+      "id": "L012-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "interrogatives",
+      "prompt": "Completa: « Elles sont à ___ ? » (Quanto costano?)",
+      "options": [
+        "combien",
+        "pourquoi",
+        "comment",
+        "quand"
+      ],
+      "correct": 0,
+      "explain_it": "Per chiedere il prezzo si usa à combien; pourquoi chiede il motivo e comment il modo."
+    },
+    {
+      "id": "L012-e05",
+      "type": "cloze",
+      "level": 1,
+      "concept": "adjective-agreement",
+      "text": "Les fraises sont ___.",
+      "answers": [
+        "chères"
+      ],
+      "hint": "(cher, femminile plurale)",
+      "prompt": "Le fragole sono care.",
+      "explain_it": "Fraises è femminile plurale: cher diventa chères, con l'accento grave e la -s finale."
+    },
+    {
+      "id": "L012-e06",
+      "type": "cloze",
+      "level": 1,
+      "concept": "articles-indefinite",
+      "text": "Nous achetons ___ légumes au marché.",
+      "answers": [
+        "des"
+      ],
+      "hint": "(articolo indeterminativo plurale)",
+      "prompt": "Compriamo delle verdure al mercato.",
+      "explain_it": "Con un nome plurale non determinato si usa des, che in italiano spesso si traduce con 'delle' o 'dei'."
+    },
+    {
+      "id": "L012-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "imperative",
+      "prompt": "Andate pure, assaggiate!",
+      "answers": [
+        "Allez-y, goûtez !"
+      ],
+      "distractors": [
+        "allons",
+        "goûtes"
+      ],
+      "explain_it": "Allez-y è l'imperativo di voi con y, e goûtez è l'imperativo di voi del verbo goûter."
+    },
+    {
+      "id": "L012-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "interrogatives",
+      "prompt": "Quanto costano?",
+      "answers": [
+        "Elles sont à combien ?"
+      ],
+      "distractors": [
+        "combien",
+        "est"
+      ],
+      "explain_it": "La formula idiomatica non ha de dopo combien e il soggetto elles riprende les fraises."
+    },
+    {
+      "id": "L012-e09",
+      "type": "order",
+      "level": 1,
+      "concept": "adjectives-irregular",
+      "prompt": "Le fragole sono biologiche.",
+      "answers": [
+        "Les fraises sont bio."
+      ],
+      "distractors": [
+        "bios",
+        "bien"
+      ],
+      "explain_it": "Bio non cambia: anche con fraises (femminile plurale) resta bio."
+    },
+    {
+      "id": "L012-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "imperative",
+      "text": "___ ! Nous sommes en retard.",
+      "answers": [
+        "Allons-y"
+      ],
+      "hint": "(aller, imperativo noi)",
+      "prompt": "Andiamo! Siamo in ritardo.",
+      "explain_it": "Per 'andiamo!' in forma di invito si usa allons-y, con y dopo il verbo e il trattino."
+    },
+    {
+      "id": "L012-e11",
+      "type": "cloze",
+      "level": 2,
+      "concept": "articles-indefinite",
+      "text": "Vous voulez ___ cerises ?",
+      "answers": [
+        "des"
+      ],
+      "hint": "(articolo indeterminativo plurale)",
+      "prompt": "Volete delle ciliegie?",
+      "explain_it": "Il plurale indeterminativo des va espresso anche se in italiano si potrebbe omettere."
+    },
+    {
+      "id": "L012-e12",
+      "type": "write",
+      "level": 2,
+      "concept": "articles-indefinite",
+      "prompt": "Vuole delle fragole?",
+      "answers": [
+        "[Vous voulez|Voulez-vous|Est-ce que vous voulez] des fraises ?"
+      ],
+      "explain_it": "Con il vous di cortesia, il verbo vouloir si coniuga come voulez, anche in inversione con des."
+    },
+    {
+      "id": "L012-e13",
+      "type": "write",
+      "level": 2,
+      "concept": "imperative",
+      "prompt": "Andiamo, siamo in ritardo!",
+      "answers": [
+        "Allons-y, nous sommes en retard.",
+        "Allons-y, on est en retard."
+      ],
+      "explain_it": "Allons-y è l'invito a partire; on est è la forma colloquiale di nous sommes."
+    },
+    {
+      "id": "L012-e14",
+      "type": "write",
+      "level": 2,
+      "concept": "imperative",
+      "prompt": "Vai, assaggia la fragola!",
+      "answers": [
+        "Vas-y, goûte la fraise !"
+      ],
+      "explain_it": "Con il tu l'imperativo di aller è vas (con -s), seguito da y con un trattino."
+    },
+    {
+      "id": "L012-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "adjectives-irregular",
+      "prompt": "Tutte le mie fragole sono biologiche.",
+      "answers": [
+        "Toutes mes fraises sont [bio|biologiques]."
+      ],
+      "explain_it": "Bio è la forma abbreviata e invariabile; biologiques è accettato ma più lungo."
+    },
+    {
+      "id": "L012-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "interrogatives",
+      "prompt": "Quanto fa?",
+      "answers": [
+        "Ça fait combien ?",
+        "Combien ça fait ?"
+      ],
+      "explain_it": "Ça fait combien è la domanda standard per chiedere il totale da pagare."
+    },
+    {
+      "id": "L012-e17",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "text": "La crème est ___.",
+      "answers": [
+        "chère"
+      ],
+      "hint": "(cher, femminile singolare)",
+      "prompt": "La panna è cara.",
+      "explain_it": "Crème è femminile singolare: cher prende la forma chère con accento grave."
+    },
+    {
+      "id": "L012-e18",
+      "type": "mcq",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "Completa: « Le café est très ___. » (Il caffè è molto caro)",
+      "options": [
+        "cher",
+        "chère",
+        "chers",
+        "chères"
+      ],
+      "correct": 0,
+      "explain_it": "Café è maschile singolare: la forma è cher, senza -e finale."
+    },
+    {
+      "id": "L012-e19",
+      "type": "mcq",
+      "level": 2,
+      "concept": "indefinites",
+      "prompt": "Completa: « J'ai ___ ce que je veux. » (Ho tutto quello che voglio)",
+      "options": [
+        "tout",
+        "tous",
+        "toute",
+        "toutes"
+      ],
+      "correct": 0,
+      "explain_it": "Tout come pronome resta invariabile: non prende la -s né la -e, e introduce ce que."
+    },
+    {
+      "id": "L012-e20",
+      "type": "cloze",
+      "level": 2,
+      "concept": "indefinites",
+      "text": "___ ce que tu dis est vrai.",
+      "answers": [
+        "Tout"
+      ],
+      "hint": "(tutto, pronome)",
+      "prompt": "Tutto quello che dici è vero.",
+      "explain_it": "Tout ce que significa 'tutto quello che' e il pronome è sempre tout, senza accordo."
+    },
+    {
+      "id": "L012-e21",
+      "type": "dictation",
+      "level": 2,
+      "concept": "articles-indefinite",
+      "text": "Nous voulons des fraises et des cerises."
+    },
+    {
+      "id": "L012-e22",
+      "type": "dictation",
+      "level": 2,
+      "concept": "numbers",
+      "text": "Ça vous fait quarante-deux euros cinquante.",
+      "explain_it": "Cinquante: la parte decimale si legge dopo euros: quarante-deux euros cinquante."
+    },
+    {
+      "id": "L012-e23",
+      "type": "flash",
+      "level": 2,
+      "concept": "imperative",
+      "front": "Allez-y, allons-y, vas-y: quando si usano?",
+      "back": "Sono imperativi di aller con il pronome y: allez-y (voi), allons-y (noi), vas-y (tu). Significano 'andate/andiamo/vai pure, avanti, provate'.",
+      "note": "Allons-y in senso figurato è anche 'su, forza, andiamo'."
+    },
+    {
+      "id": "L012-e24",
+      "type": "flash",
+      "level": 2,
+      "concept": "interrogatives",
+      "front": "Combien de + nome: come si usa?",
+      "back": "Combien de + nome senza articolo: combien de kilos ? (quanti chili?), combien de fraises ? Davanti a vocale si elide: combien d'euros ?",
+      "note": "Per il prezzo si dice Elles sont à combien ? senza de."
+    },
+    {
+      "id": "L012-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "articles-indefinite",
+      "prompt": "Voglio delle ciliegie e delle fragole.",
+      "answers": [
+        "[Je veux|Je voudrais] des cerises et des fraises."
+      ],
+      "explain_it": "Con des si ripete l'articolo davanti a ogni nome plurale coordinato: des cerises et des fraises."
+    },
+    {
+      "id": "L012-e26",
+      "type": "write",
+      "level": 3,
+      "concept": "indefinites",
+      "prompt": "Ho bisogno di tutto ciò che c'è nel cestino.",
+      "answers": [
+        "J'ai besoin de tout ce qu'il y a dans le panier."
+      ],
+      "explain_it": "Tout ce qu'il y a è la costruzione con il pronome tout seguito da una relativa; de precede tout perché avoir besoin de regge il complemento."
+    },
+    {
+      "id": "L012-e27",
+      "type": "write",
+      "level": 3,
+      "concept": "interrogatives",
+      "prompt": "Quante ciliegie volete, e quanto costano?",
+      "answers": [
+        "Combien de cerises [voulez-vous|vous voulez] ? Elles sont à combien ?"
+      ],
+      "explain_it": "Combien de introduce il nome senza articolo e la seconda domanda usa la formula idiomatica del prezzo."
+    },
+    {
+      "id": "L012-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "imperative",
+      "prompt": "Non esitate, assaggiate le fragole!",
+      "answers": [
+        "N'hésitez pas, goûtez les fraises !"
+      ],
+      "explain_it": "Goûtez è l'imperativo di voi; nella seconda versione les fraises diventa il pronome les, che segue il verbo con trattino."
+    },
+    {
+      "id": "L012-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "adjectives-irregular",
+      "prompt": "Le mie ciliegie sono biologiche e davvero deliziose.",
+      "answers": [
+        "Mes cerises sont [bio|biologiques] et vraiment délicieuses."
+      ],
+      "explain_it": "Bio resta invariato, mentre délicieuses concorda con cerises (femminile plurale)."
+    },
+    {
+      "id": "L012-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "adjective-agreement",
+      "prompt": "Le fragole non sono care, ma le ciliegie sono molto care.",
+      "answers": [
+        "Les fraises ne sont pas chères, mais les cerises sont très chères."
+      ],
+      "explain_it": "Cher al femminile plurale diventa chères, e la negazione ne ... pas circonda il verbo essere."
+    },
+    {
+      "id": "L012-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "articles-indefinite",
+      "prompt": "Non voglio delle fragole, voglio delle ciliegie.",
+      "answers": [
+        "Je ne veux pas de fraises, [je veux|je voudrais] des cerises."
+      ],
+      "explain_it": "Dopo la negazione des diventa de, mentre nella seconda parte positiva resta des."
+    },
+    {
+      "id": "L012-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "indefinites",
+      "prompt": "Oggi tutto è troppo caro.",
+      "answers": [
+        "Tout est trop cher aujourd'hui.",
+        "Aujourd'hui, tout est trop cher."
+      ],
+      "explain_it": "Tout come pronome soggetto è invariabile; trop precede l'aggettivo cher, che resta maschile singolare."
+    },
+    {
+      "id": "L012-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "numbers",
+      "prompt": "Fanno trentacinque euro e venti.",
+      "answers": [
+        "[Ça vous fait|Ça fait] trente-cinq euros vingt."
+      ],
+      "explain_it": "Nel prezzo francese i centesimi si dicono come numero semplice: euros vingt, senza parola per i centesimi."
+    },
+    {
+      "id": "L012-e34",
+      "type": "dictation",
+      "level": 3,
+      "concept": "articles-indefinite",
+      "text": "Nous voulons des fraises, des cerises et des pommes, s'il vous plaît."
+    },
+    {
+      "id": "L012-e35",
+      "type": "dictation",
+      "level": 3,
+      "concept": "imperative",
+      "text": "Je pense qu'il est midi, allons-y !"
+    },
+    {
+      "id": "L012-e36",
+      "type": "flash",
+      "level": 3,
+      "concept": "indefinites",
+      "front": "Tout come pronome: si accorda?",
+      "back": "No: quando tout è pronome (tutto, tutto ciò che) resta invariabile. Esempi: tout ce que je veux, tout est cher. Come aggettivo si accorda: toutes les fraises.",
+      "note": "Tout ce que = tutto quello che."
+    },
+    {
+      "id": "L012-e37",
+      "type": "flash",
+      "level": 2,
+      "concept": "adjectives-irregular",
+      "front": "Bio: si accorda con il nome?",
+      "back": "No, bio è invariabile (abbreviazione di biologique): une pomme bio, des fraises bio.",
+      "note": "Non si scrive bios né bioe."
+    },
+    {
+      "id": "L012-e38",
+      "type": "flash",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "front": "Cher: come si forma il femminile?",
+      "back": "Gli aggettivi maschili in -er diventano -ère: cher → chère, con accento grave e -e muta. Plurale: chers, chères.",
+      "note": "Come avverbio (coûter cher, costare caro) cher resta invariato."
+    }
+  ]
+}

@@ -1,0 +1,714 @@
+{
+  "n": 8,
+  "title_fr": "Huitième leçon - Une visite",
+  "title_it": "Ottava lezione - Una visita",
+  "review": false,
+  "status": "verified",
+  "source": "529edcbd p25-28 (pdf 41-44)",
+  "theme_it": "Una visita a casa di una ragazza: il visitatore chiede se il padre è in casa e scopre che è in ufficio. Chiede a che ora rientra e ottiene l'indirizzo dell'ufficio dal taccuino delle rubriche.",
+  "grammar": [
+    {
+      "id": "prepositions-place",
+      "title_it": "Le preposizioni di luogo: à la, au",
+      "explain_it": "La preposizione à corrisponde a «a» o «in» davanti ai luoghi: à la maison (a casa), au bureau (in ufficio). Con l'articolo maschile le si contrae: à + le = au; con la resta à la; con les diventa aux. Poiché ogni nome è maschile o femminile, conviene imparare l'articolo insieme alla parola.",
+      "examples": [
+        {
+          "fr": "Il est à la maison.",
+          "it": "È a casa."
+        },
+        {
+          "fr": "Il est au bureau.",
+          "it": "È in ufficio."
+        },
+        {
+          "fr": "Ma fille est au bureau.",
+          "it": "Mia figlia è in ufficio."
+        }
+      ]
+    },
+    {
+      "id": "present-er",
+      "title_it": "Il presente dei verbi in -er (rentrer, habiter, chercher)",
+      "explain_it": "Il presente francese copre sia la forma semplice sia quella progressiva dell'italiano: je cherche significa sia 'cerco' sia 'sto cercando'. Per i verbi in -er si toglie -er e si aggiungono le desinenze -e, -es, -e, -ons, -ez, -ent; la -e finale delle forme je, il, elle non si pronuncia. Davanti a vocale je diventa j': j'habite. Nel dialogo compaiono je cherche, il habite e il verbo rentrer, che ha la stessa coniugazione.",
+      "examples": [
+        {
+          "fr": "Je cherche mon carnet d'adresses.",
+          "it": "Cerco la mia rubrica."
+        },
+        {
+          "fr": "Il habite rue Marbeuf.",
+          "it": "Abita in via Marbeuf."
+        },
+        {
+          "fr": "Mon père rentre après le travail.",
+          "it": "Mio padre rientra dopo il lavoro."
+        }
+      ]
+    },
+    {
+      "id": "adverbs",
+      "title_it": "L'avverbio beaucoup",
+      "explain_it": "Beaucoup è un avverbio di quantità che corrisponde a 'molto' e 'molti'. Non distingue tra nomi numerabili e non numerabili. Davanti a un nome si usa la preposizione de, senza articolo, sia con il singolare sia con il plurale: beaucoup de temps (molto tempo), beaucoup de croissants (molti croissant). Merci beaucoup ('grazie mille') è un'espressione fissa in cui beaucoup non è seguito da de.",
+      "examples": [
+        {
+          "fr": "J'ai beaucoup de temps.",
+          "it": "Ho molto tempo."
+        },
+        {
+          "fr": "Nous avons beaucoup de travail.",
+          "it": "Abbiamo molto lavoro."
+        },
+        {
+          "fr": "Merci beaucoup, mademoiselle.",
+          "it": "Grazie mille, signorina."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la maison",
+      "it": "la casa",
+      "pos": "n"
+    },
+    {
+      "fr": "le père",
+      "it": "il padre",
+      "pos": "n"
+    },
+    {
+      "fr": "le bureau",
+      "it": "l'ufficio",
+      "pos": "n",
+      "note": "au bureau = in ufficio"
+    },
+    {
+      "fr": "la rue",
+      "it": "la via",
+      "pos": "n"
+    },
+    {
+      "fr": "l'adresse (f.)",
+      "it": "l'indirizzo",
+      "pos": "n",
+      "note": "una sola d"
+    },
+    {
+      "fr": "le carnet (d'adresses)",
+      "it": "la rubrica (taccuino)",
+      "pos": "n",
+      "note": "carnet = blocchetto, quaderno"
+    },
+    {
+      "fr": "le travail",
+      "it": "il lavoro",
+      "pos": "n"
+    },
+    {
+      "fr": "le moment",
+      "it": "il momento",
+      "pos": "n",
+      "note": "un moment"
+    },
+    {
+      "fr": "mademoiselle",
+      "it": "la signorina",
+      "pos": "n"
+    },
+    {
+      "fr": "aujourd'hui",
+      "it": "oggi",
+      "pos": "adv"
+    },
+    {
+      "fr": "normalement",
+      "it": "normalmente",
+      "pos": "adv"
+    },
+    {
+      "fr": "après",
+      "it": "dopo",
+      "pos": "prep"
+    },
+    {
+      "fr": "avant",
+      "it": "prima (di)",
+      "pos": "prep"
+    },
+    {
+      "fr": "à",
+      "it": "a, in",
+      "pos": "prep",
+      "note": "à la maison, au bureau"
+    },
+    {
+      "fr": "rentrer",
+      "it": "rientrare, tornare a casa",
+      "pos": "v",
+      "note": "je rentre"
+    },
+    {
+      "fr": "habiter",
+      "it": "abitare",
+      "pos": "v",
+      "note": "il habite"
+    },
+    {
+      "fr": "vouloir",
+      "it": "volere",
+      "pos": "v",
+      "note": "vous voulez"
+    },
+    {
+      "fr": "sept",
+      "it": "sette",
+      "pos": "num"
+    },
+    {
+      "fr": "huit",
+      "it": "otto",
+      "pos": "num"
+    },
+    {
+      "fr": "huitième",
+      "it": "ottavo",
+      "pos": "num",
+      "note": "ordinale: sixième, huitième"
+    },
+    {
+      "fr": "son",
+      "it": "suo, sua (di lui/lei)",
+      "pos": "adj",
+      "note": "son bureau = il suo ufficio"
+    },
+    {
+      "fr": "au revoir",
+      "it": "arrivederci",
+      "pos": "interj"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Au revoir.",
+      "it": "Arrivederci.",
+      "note": "congedo neutro; tra amici si usa anche Salut"
+    },
+    {
+      "fr": "De rien.",
+      "it": "Prego. / Di niente.",
+      "note": "risposta a «merci»"
+    },
+    {
+      "fr": "Pas avant huit heures.",
+      "it": "Non prima delle otto.",
+      "note": "pas avant = non prima di"
+    },
+    {
+      "fr": "À quelle heure ?",
+      "it": "A che ora?"
+    },
+    {
+      "fr": "Attendez un moment.",
+      "it": "Aspetti un momento.",
+      "note": "forma di cortesia (vous)"
+    },
+    {
+      "fr": "Être à la maison.",
+      "it": "Essere a casa."
+    },
+    {
+      "fr": "Être au bureau.",
+      "it": "Essere in ufficio."
+    },
+    {
+      "fr": "Vous voulez l'adresse ?",
+      "it": "Vuole l'indirizzo?",
+      "note": "domanda di cortesia"
+    }
+  ],
+  "notes_it": [
+    "Liaison: nel dialogo compaiono diversi legamenti (est-ce, à quelle heure, huit heures). Dopo un numero davanti a heures il legame è normale (deux heures, trois heures: la s si legge z).",
+    "Bureau significa «ufficio» (au bureau = in ufficio) ma anche «scrivania». Non confonderlo con l'italiano «burò», che indica un mobile.",
+    "Ortografia: adresse (indirizzo) ha una sola d e due s. È femminile: l'adresse, mon adresse, son adresse.",
+    "Parigi è divisa in 20 arrondissements numerati. Per dire il quartiere si può omettere la parola: elle habite dans le septième, 'abita nel settimo'.",
+    "Gli ordinali si formano con -ième (sixième, huitième). Eccezione: premier (primo). Nel dialogo i numeri sono letti come nomi di distretto."
+  ],
+  "exercises": [
+    {
+      "id": "L008-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "prepositions-place",
+      "prompt": "Come si dice «Lui è a casa»?",
+      "options": [
+        "Il est à la maison.",
+        "Il est au maison.",
+        "Il est dans maison.",
+        "Il est à le maison."
+      ],
+      "correct": 0,
+      "explain_it": "Maison è femminile, quindi si dice à la maison: à non si contrae davanti a la."
+    },
+    {
+      "id": "L008-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "prepositions-place",
+      "prompt": "Come si dice «È in ufficio»?",
+      "options": [
+        "Il est au bureau.",
+        "Il est à la bureau.",
+        "Il est dans la bureau.",
+        "Il est au bureaux."
+      ],
+      "correct": 0,
+      "explain_it": "Bureau è maschile: à + le si contrae in au."
+    },
+    {
+      "id": "L008-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "present-er",
+      "prompt": "Quale forma francese può tradurre sia «cerco» sia «sto cercando»?",
+      "options": [
+        "je cherche",
+        "je cherches",
+        "je chercher",
+        "je cherchons"
+      ],
+      "correct": 0,
+      "explain_it": "Il presente francese ha una sola forma: je cherche vale per entrambe le traduzioni italiane."
+    },
+    {
+      "id": "L008-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "present-er",
+      "prompt": "Qual è la forma corretta di «rientro» (io, rientrare)?",
+      "options": [
+        "je rentre",
+        "je rentres",
+        "je rentrent",
+        "je rentrons"
+      ],
+      "correct": 0,
+      "explain_it": "Con je i verbi in -er prendono la desinenza -e: je rentre."
+    },
+    {
+      "id": "L008-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "adverbs",
+      "prompt": "Quale frase significa «Ho molto tempo»?",
+      "options": [
+        "J'ai beaucoup de temps.",
+        "J'ai beaucoup du temps.",
+        "J'ai beaucoup temps.",
+        "J'ai beaucoup des temps."
+      ],
+      "correct": 0,
+      "explain_it": "Dopo beaucoup si usa sempre de, senza articolo, anche davanti a un nome plurale: beaucoup de croissants."
+    },
+    {
+      "id": "L008-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "prepositions-place",
+      "prompt": "No, lui è in ufficio oggi.",
+      "answers": [
+        "Non, il est au bureau aujourd'hui."
+      ],
+      "distractors": [
+        "à",
+        "dans"
+      ],
+      "explain_it": "Bureau è maschile, quindi à + le = au: au bureau."
+    },
+    {
+      "id": "L008-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "time-date",
+      "prompt": "Non prima delle otto.",
+      "answers": [
+        "Pas avant huit heures."
+      ],
+      "distractors": [
+        "après",
+        "sept"
+      ],
+      "explain_it": "Pas avant significa «non prima di»: avant introduce il limite di tempo."
+    },
+    {
+      "id": "L008-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "present-er",
+      "prompt": "Lui abita in via Marbeuf.",
+      "answers": [
+        "Il habite rue Marbeuf."
+      ],
+      "distractors": [
+        "habitent",
+        "habiter"
+      ],
+      "explain_it": "Habiter è un verbo in -er: con il diventa habite. Davanti alla via non serve preposizione: habite rue."
+    },
+    {
+      "id": "L008-e09",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Vuole l'indirizzo?",
+      "answers": [
+        "Vous voulez l'adresse ?"
+      ],
+      "distractors": [
+        "veut",
+        "voulons"
+      ],
+      "explain_it": "Vouloir è irregolare; alla forma vous diventa voulez. È una domanda di cortesia."
+    },
+    {
+      "id": "L008-e10",
+      "type": "order",
+      "level": 1,
+      "concept": "imperative",
+      "prompt": "Aspetti un momento.",
+      "answers": [
+        "Attendez un moment."
+      ],
+      "distractors": [
+        "attends",
+        "minute"
+      ],
+      "explain_it": "Attendre all'imperativo di cortesia (vous) prende -ez: attendez, senza pronome soggetto."
+    },
+    {
+      "id": "L008-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "prepositions-place",
+      "text": "Il est au ___ aujourd'hui.",
+      "answers": [
+        "bureau"
+      ],
+      "hint": "(ufficio)",
+      "prompt": "È in ufficio oggi.",
+      "explain_it": "Il luogo di lavoro è un nome maschile, quindi la preposizione è au."
+    },
+    {
+      "id": "L008-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "present-er",
+      "text": "Je ___ mon carnet d'adresses.",
+      "answers": [
+        "cherche"
+      ],
+      "hint": "(chercher, presente)",
+      "prompt": "Cerco la mia rubrica.",
+      "explain_it": "Chercher è un verbo in -er: je cherche vale sia 'cerco' sia 'sto cercando'."
+    },
+    {
+      "id": "L008-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "etre",
+      "text": "Est-ce que votre père ___ à la maison ?",
+      "answers": [
+        "est"
+      ],
+      "hint": "(être, presente)",
+      "prompt": "Suo padre è a casa?",
+      "explain_it": "Être è irregolare: alla terza persona singolare fa est."
+    },
+    {
+      "id": "L008-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "present-er",
+      "text": "Mon père ___ dans le sixième.",
+      "answers": [
+        "habite"
+      ],
+      "hint": "(habiter, presente)",
+      "prompt": "Mio padre abita nel sesto distretto.",
+      "explain_it": "Habiter in -er alla terza persona singolare prende -e; la -e finale non si pronuncia."
+    },
+    {
+      "id": "L008-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "present-er",
+      "text": "À quelle heure est-ce qu'il ___ ?",
+      "answers": [
+        "rentre"
+      ],
+      "hint": "(rentrer, presente)",
+      "prompt": "A che ora rientra?",
+      "explain_it": "Con il il verbo in -er prende -e; est-ce qu'il introduce la domanda."
+    },
+    {
+      "id": "L008-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Vous ___ l'adresse de son bureau ?",
+      "answers": [
+        "voulez"
+      ],
+      "hint": "(vouloir, presente)",
+      "prompt": "Vuole l'indirizzo del suo ufficio?",
+      "explain_it": "Vouloir è irregolare: alla forma vous diventa voulez."
+    },
+    {
+      "id": "L008-e17",
+      "type": "cloze",
+      "level": 3,
+      "concept": "negation",
+      "text": "Mon père ___ pas à la maison aujourd'hui.",
+      "answers": [
+        "n'est"
+      ],
+      "hint": "(être, negazione, presente)",
+      "prompt": "Mio padre non è a casa oggi.",
+      "explain_it": "La negazione circonda il verbo: ne prima, pas dopo; davanti a vocale ne diventa n'."
+    },
+    {
+      "id": "L008-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions-place",
+      "prompt": "Mio padre è in ufficio oggi.",
+      "answers": [
+        "Mon père est au bureau aujourd'hui.",
+        "Aujourd'hui, mon père est au bureau."
+      ],
+      "explain_it": "Ufficio è bureau, maschile: si usa au. Aujourd'hui può stare in testa o in coda."
+    },
+    {
+      "id": "L008-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "present-er",
+      "prompt": "Lui abita nel sesto distretto.",
+      "answers": [
+        "Il habite dans le sixième.",
+        "Il habite dans le sixième arrondissement."
+      ],
+      "explain_it": "Con il il verbo abitare prende -e; il sesto distretto si dice dans le sixième."
+    },
+    {
+      "id": "L008-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "present-er",
+      "prompt": "Cerco il mio taccuino degli indirizzi.",
+      "answers": [
+        "Je cherche mon carnet d'adresses."
+      ],
+      "explain_it": "Je cherche rende sia 'cerco' sia 'sto cercando': non serve un secondo verbo."
+    },
+    {
+      "id": "L008-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "questions",
+      "prompt": "A che ora rientra suo padre?",
+      "answers": [
+        "À quelle heure est-ce que [son|votre] père rentre ?",
+        "À quelle heure [son|votre] père rentre-t-il ?",
+        "À quelle heure rentre [son|votre] père ?"
+      ],
+      "explain_it": "Est-ce que introduce la domanda; quelle concorda con heure, femminile."
+    },
+    {
+      "id": "L008-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions-place",
+      "prompt": "Dopo le sette è a casa.",
+      "answers": [
+        "Après [sept|7] heures, il est à la maison.",
+        "Il est à la maison après [sept|7] heures."
+      ],
+      "explain_it": "A casa è à la maison: la preposizione à resta invariata davanti a un nome femminile."
+    },
+    {
+      "id": "L008-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "register",
+      "prompt": "Grazie mille, signorina. Arrivederci.",
+      "answers": [
+        "Merci beaucoup, mademoiselle. Au revoir.",
+        "Merci beaucoup, mademoiselle, au revoir."
+      ],
+      "explain_it": "Mademoiselle è la forma di cortesia per una giovane donna; merci beaucoup è il ringraziamento più cordiale."
+    },
+    {
+      "id": "L008-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "negation",
+      "prompt": "No, lui non è a casa.",
+      "answers": [
+        "Non, il n'est pas à la maison.",
+        "Il n'est pas à la maison."
+      ],
+      "explain_it": "Ne diventa n' davanti alla vocale di est; pas segue il verbo."
+    },
+    {
+      "id": "L008-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "adverbs",
+      "prompt": "Abbiamo molto tempo.",
+      "answers": [
+        "Nous avons beaucoup de temps."
+      ],
+      "explain_it": "Beaucoup de + nome: nessun articolo dopo de."
+    },
+    {
+      "id": "L008-e26",
+      "type": "write",
+      "level": 3,
+      "concept": "present-er",
+      "prompt": "Mio padre è in ufficio oggi, ma rientra prima delle sette.",
+      "answers": [
+        "Mon père est au bureau aujourd'hui, mais il rentre avant [sept|7] heures."
+      ],
+      "explain_it": "Avant indica il limite temporale: rientra prima delle sette, quindi avant sept heures."
+    },
+    {
+      "id": "L008-e27",
+      "type": "write",
+      "level": 3,
+      "concept": "imperative",
+      "prompt": "Aspetti un momento, cerco l'indirizzo di suo padre.",
+      "answers": [
+        "Attendez un [moment|instant], je cherche l'adresse de [son|votre] père."
+      ],
+      "explain_it": "Attendez è l'imperativo di cortesia; l'indirizzo di qualcuno si esprime con de più possessivo."
+    },
+    {
+      "id": "L008-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "present-er",
+      "prompt": "Mio padre è in ufficio e rientra dopo le sette.",
+      "answers": [
+        "Mon père est au bureau et il rentre après [sept|7] heures."
+      ],
+      "explain_it": "Dopo si traduce après; rentrer al presente con il diventa rentre."
+    },
+    {
+      "id": "L008-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "negation",
+      "prompt": "Non ho l'indirizzo di mio padre.",
+      "answers": [
+        "Je n'ai pas l'adresse de mon père."
+      ],
+      "explain_it": "La negazione circonda il verbo avere: je n'ai pas. Di mio padre si dice de mon père."
+    },
+    {
+      "id": "L008-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "negation",
+      "prompt": "Ecco il taccuino di mio padre, ma l'indirizzo non c'è.",
+      "answers": [
+        "Voici le carnet de mon père, mais l'adresse n'est pas [là|ici]."
+      ],
+      "explain_it": "Non c'è si traduce con n'est pas là: la negazione circonda est."
+    },
+    {
+      "id": "L008-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "possessives",
+      "prompt": "Vuole l'indirizzo del suo ufficio, signorina?",
+      "answers": [
+        "Vous voulez l'adresse de [son|votre] bureau, mademoiselle ?",
+        "Voulez-vous l'adresse de [son|votre] bureau, mademoiselle ?"
+      ],
+      "explain_it": "Vouloir con vous fa voulez; son (o votre) concorda con bureau, maschile."
+    },
+    {
+      "id": "L008-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "negation",
+      "prompt": "Non abito in via Marbeuf, ma nel sesto distretto.",
+      "answers": [
+        "Je n'habite pas rue Marbeuf, mais dans le sixième.",
+        "Je n'habite pas rue Marbeuf, mais dans le sixième arrondissement."
+      ],
+      "explain_it": "Davanti a h muta ne diventa n': je n'habite pas."
+    },
+    {
+      "id": "L008-e33",
+      "type": "dictation",
+      "level": 2,
+      "concept": "prepositions-place",
+      "text": "Mon père est à la maison aujourd'hui.",
+      "explain_it": "Maison è femminile: à la, non au. Attenzione all'apostrofo e alla grafia di aujourd'hui."
+    },
+    {
+      "id": "L008-e34",
+      "type": "dictation",
+      "level": 3,
+      "concept": "present-er",
+      "text": "Mon père rentre à la maison après le travail, et il habite rue Marbeuf.",
+      "explain_it": "Rentre e habite sono verbi in -er con la desinenza -e: la -e non si sente, ma va scritta."
+    },
+    {
+      "id": "L008-e35",
+      "type": "flash",
+      "level": 2,
+      "concept": "contractions-au-du",
+      "front": "Come si combina «à» con l'articolo maschile «le»?",
+      "back": "à + le = au (au bureau). Con l'articolo femminile resta à la (à la maison); con les diventa aux.",
+      "note": "Plurale maschile: aux bureaux."
+    },
+    {
+      "id": "L008-e36",
+      "type": "flash",
+      "level": 2,
+      "concept": "present-er",
+      "front": "Coniuga «habiter» al presente: je..., il..., vous...",
+      "back": "j'habite, il habite, vous habitez",
+      "note": "Davanti a vocale je diventa j'; la -e di habite non si pronuncia."
+    },
+    {
+      "id": "L008-e37",
+      "type": "flash",
+      "level": 2,
+      "concept": "adverbs",
+      "front": "Dopo «beaucoup» davanti a un nome, quale parola segue?",
+      "back": "de, senza articolo: beaucoup de temps, beaucoup de croissants.",
+      "note": "Merci beaucoup è un'espressione fissa senza de."
+    },
+    {
+      "id": "L008-e38",
+      "type": "flash",
+      "level": 2,
+      "concept": "prepositions",
+      "front": "Differenza tra «avant» e «après»",
+      "back": "avant = prima (di); après = dopo. Pas avant huit heures = non prima delle otto.",
+      "note": "Il contrario di avant è après."
+    },
+    {
+      "id": "L008-e39",
+      "type": "flash",
+      "level": 2,
+      "concept": "time-date",
+      "front": "Come si chiede «A che ora?» in francese, e come si concorda quel?",
+      "back": "À quelle heure ? Quelle è femminile perché heure è femminile; quel/quelle/quels/quelles concordano con il nome.",
+      "note": "Esempio: À quelle heure est-ce qu'il rentre ?"
+    }
+  ]
+}

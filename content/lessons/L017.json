@@ -1,0 +1,873 @@
+{
+  "n": 17,
+  "title_fr": "Quels sont vos projets ?",
+  "title_it": "Quali sono i vostri progetti?",
+  "review": false,
+  "status": "verified",
+  "source": "529edcbd p75-79 (libro p.59-63)",
+  "theme_it": "Due persone parlano dei propri programmi per il giorno dopo. C'è una nuova mostra alla Piscina che uno dei due vuole vedere, ma l'altro ha un appuntamento dal medico nel pomeriggio: si confrontano gli orari, tenendo conto che la mostra chiude alle diciotto, e si decide di andarci insieme.",
+  "grammar": [
+    {
+      "id": "interrogatives",
+      "title_it": "L'aggettivo interrogativo quel",
+      "explain_it": "Quel significa 'quale' o 'che' e funziona come aggettivo: si accorda con il nome a cui si riferisce. Le forme sono quel (maschile singolare), quelle (femminile singolare), quels (maschile plurale) e quelles (femminile plurale). In italiano 'quale' resta uguale, quindi l'accordo va imparato: quelle heure, quels projets, quelles expositions. Con il verbo être si chiede il nome o la cosa: Quel est votre nom ?",
+      "examples": [
+        {
+          "fr": "Quel est votre nom ?",
+          "it": "Qual è il suo nome?"
+        },
+        {
+          "fr": "Quelle heure est-il ?",
+          "it": "Che ore sono?"
+        },
+        {
+          "fr": "Quels sont tes projets ?",
+          "it": "Quali sono i tuoi progetti?"
+        }
+      ]
+    },
+    {
+      "id": "il-y-a",
+      "title_it": "Il y a: c'è, ci sono",
+      "explain_it": "Il y a significa 'c'è' e 'ci sono' ed è invariabile: si dice il y a un livre e il y a deux livres, mai 'ils y ont'. Il nome che segue ha un articolo indefinito, un numero o una quantità. Nella domanda si usa est-ce qu'il y a, y a-t-il oppure la sola intonazione. Davanti a un periodo di tempo, il y a vale 'fa': il y a trois jours significa 'tre giorni fa'.",
+      "examples": [
+        {
+          "fr": "Il y a une exposition ici.",
+          "it": "C'è una mostra qui."
+        },
+        {
+          "fr": "Il y a deux choses à voir.",
+          "it": "Ci sono due cose da vedere."
+        },
+        {
+          "fr": "Il y a trois jours.",
+          "it": "Tre giorni fa."
+        }
+      ]
+    },
+    {
+      "id": "modals",
+      "title_it": "Il verbo devoir: dovere, essere obbligati",
+      "explain_it": "Devoir esprime il dovere o l'obbligo, come l'italiano 'dovere'. È irregolare: je dois, tu dois, il/elle doit, nous devons, vous devez, ils/elles doivent. Al singolare dois e doit si pronunciano [dwa] (la -s e la -t finali sono mute), mentre doivent si pronuncia [dwav]. Davanti a un verbo resta l'infinito, come con pouvoir: je dois partir. Nella negazione ne ... pas circonda il verbo devoir.",
+      "examples": [
+        {
+          "fr": "Je dois partir.",
+          "it": "Devo partire."
+        },
+        {
+          "fr": "Nous devons attendre.",
+          "it": "Dobbiamo aspettare."
+        },
+        {
+          "fr": "Tu ne dois pas parler.",
+          "it": "Non devi parlare."
+        }
+      ]
+    },
+    {
+      "id": "avoir",
+      "title_it": "Avoir envie de: avere voglia di",
+      "explain_it": "Avoir envie de più infinito significa 'avere voglia di fare qualcosa', come l'italiano 'ho voglia di'. Il verbo avoir si coniuga normalmente, mentre envie è un nome femminile e resta invariato. Il verbo che segue è all'infinito e si collega con de, che diventa d' davanti a vocale. È un blocco da memorizzare, non va tradotto parola per parola. Attenzione: in francese non si dice je suis envie.",
+      "examples": [
+        {
+          "fr": "J'ai envie de manger.",
+          "it": "Ho voglia di mangiare."
+        },
+        {
+          "fr": "J'ai envie d'aller à la piscine.",
+          "it": "Ho voglia di andare in piscina."
+        }
+      ]
+    },
+    {
+      "id": "time-date",
+      "title_it": "L'orario di 24 ore",
+      "explain_it": "Nell'uso ufficiale (orari dei treni, delle mostre, degli uffici) e spesso anche nel parlato le ore si contano da 0 a 24, come in italiano negli orari. Treize heures è l'una del pomeriggio, dix-sept heures sono le cinque del pomeriggio. I minuti seguono l'ora: seize heures trente, dix-huit heures. Per chiedere l'ora si dice Quelle heure est-il ?; per mezzogiorno e mezzanotte si dice anche Il est midi, Il est minuit.",
+      "examples": [
+        {
+          "fr": "Il est treize heures.",
+          "it": "È l'una del pomeriggio."
+        },
+        {
+          "fr": "Le train part à seize heures trente.",
+          "it": "Il treno parte alle sedici e trenta."
+        }
+      ]
+    },
+    {
+      "id": "vocab",
+      "title_it": "Parole in -jet di origine latina: projet, sujet, objet",
+      "explain_it": "Molte parole francesi in -jet corrispondono all'italiano -getto: le projet è il progetto, l'objet è l'oggetto, le sujet è il soggetto o l'argomento. Attenzione: sujet significa 'argomento' nella conversazione (le sujet de la discussion) e 'soggetto' in grammatica. Sono tutti maschili: si impara sempre il nome con l'articolo.",
+      "examples": [
+        {
+          "fr": "Le sujet est intéressant.",
+          "it": "L'argomento è interessante."
+        },
+        {
+          "fr": "C'est un objet très simple.",
+          "it": "È un oggetto molto semplice."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le projet",
+      "it": "il progetto",
+      "pos": "n",
+      "note": "dal latino, come l'italiano progetto"
+    },
+    {
+      "fr": "demain",
+      "it": "domani",
+      "pos": "adv"
+    },
+    {
+      "fr": "aujourd'hui",
+      "it": "oggi",
+      "pos": "adv"
+    },
+    {
+      "fr": "la piscine",
+      "it": "la piscina",
+      "pos": "n",
+      "note": "ma anche La Piscine, il nome del museo"
+    },
+    {
+      "fr": "l'exposition (f.)",
+      "it": "la mostra, l'esposizione",
+      "pos": "n"
+    },
+    {
+      "fr": "l'expo (f.)",
+      "it": "la mostra (forma abbreviata)",
+      "pos": "n",
+      "note": "familiare, da evitare nello scritto formale"
+    },
+    {
+      "fr": "l'envie (f.)",
+      "it": "la voglia, il desiderio",
+      "pos": "n"
+    },
+    {
+      "fr": "venir",
+      "it": "venire",
+      "pos": "v",
+      "note": "je viens, vous venez"
+    },
+    {
+      "fr": "voir",
+      "it": "vedere",
+      "pos": "v",
+      "note": "je vois"
+    },
+    {
+      "fr": "dire",
+      "it": "dire",
+      "pos": "v",
+      "note": "dites-moi = ditemi"
+    },
+    {
+      "fr": "devoir",
+      "it": "dovere, essere obbligato a",
+      "pos": "v",
+      "note": "je dois"
+    },
+    {
+      "fr": "le médecin",
+      "it": "il medico",
+      "pos": "n",
+      "note": "stesso articolo per uomo e donna"
+    },
+    {
+      "fr": "tard",
+      "it": "tardi",
+      "pos": "adv",
+      "note": "assez tard = piuttosto tardi"
+    },
+    {
+      "fr": "le temps",
+      "it": "il tempo",
+      "pos": "n",
+      "note": "avoir le temps = avere tempo"
+    },
+    {
+      "fr": "fermer",
+      "it": "chiudere",
+      "pos": "v",
+      "note": "je ferme"
+    },
+    {
+      "fr": "la chose",
+      "it": "la cosa",
+      "pos": "n"
+    },
+    {
+      "fr": "le titre",
+      "it": "il titolo",
+      "pos": "n"
+    },
+    {
+      "fr": "le sujet",
+      "it": "l'argomento, il soggetto",
+      "pos": "n",
+      "note": "falso amico con 'subject' inglese"
+    },
+    {
+      "fr": "l'objet (m.)",
+      "it": "l'oggetto",
+      "pos": "n"
+    },
+    {
+      "fr": "l'eau (f.)",
+      "it": "l'acqua",
+      "pos": "n"
+    },
+    {
+      "fr": "profond",
+      "it": "profondo",
+      "pos": "adj",
+      "note": "femminile profonde"
+    },
+    {
+      "fr": "clair",
+      "it": "chiaro",
+      "pos": "adj",
+      "note": "femminile claire"
+    },
+    {
+      "fr": "assez",
+      "it": "abbastanza, piuttosto",
+      "pos": "adv"
+    },
+    {
+      "fr": "donc",
+      "it": "quindi, dunque",
+      "pos": "conj"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Pourquoi pas ?",
+      "it": "Perché no?",
+      "note": "risposta di accordo, colloquiale"
+    },
+    {
+      "fr": "Ça laisse beaucoup de temps.",
+      "it": "Così resta molto tempo.",
+      "note": "laisser nel senso di lasciare disponibile"
+    },
+    {
+      "fr": "Je suis désolé(e).",
+      "it": "Mi dispiace.",
+      "note": "désolée se parla una donna"
+    },
+    {
+      "fr": "Dites-moi.",
+      "it": "Ditemi.",
+      "note": "formula di cortesia per chiedere informazioni"
+    },
+    {
+      "fr": "avoir envie de",
+      "it": "avere voglia di",
+      "note": "da memorizzare come blocco"
+    },
+    {
+      "fr": "Pas très clair !",
+      "it": "Non molto chiaro!",
+      "note": "commento critico, anche ironico"
+    },
+    {
+      "fr": "Assez tard.",
+      "it": "Piuttosto tardi.",
+      "note": "risposta all'orario"
+    }
+  ],
+  "notes_it": [
+    "Pronuncia: in 'treize heures' la -e di treize non si legge e la -z fa liaison con heures: [trɛ-zœr]. Nelle inversioni come est-il, la -t finale si collega alla vocale seguente: 'Quelle heure est-il ?' [kɛl œr ɛ-til].",
+    "Parole in -jet: projet (progetto), objet (oggetto), sujet (argomento, soggetto). Il francese scrive -jet dove l'italiano ha -getto; per le sfumature di sujet vedi la grammatica sopra.",
+    "Abbreviazioni: nel parlato corrente i nomi lunghi si accorciano (expo per exposition, petit-déj per petit-déjeuner). È un registro familiare: è utile riconoscerle, ma nello scritto formale meglio usare la forma piena.",
+    "Gli orari: l'uso delle 24 ore è diffuso nel francese ufficiale e anche quotidiano. Conviene esercitarsi a convertire (treize heures = l'una del pomeriggio).",
+    "Cultura: Parigi non è l'unica città ricca di musei e monumenti. Marsiglia, Lione e Tolosa ne hanno molti, ma anche città più piccole come Lens, che ospita una filiale del Louvre, e Metz, dove c'è una parte del Centro Pompidou di Parigi."
+  ],
+  "exercises": [
+    {
+      "id": "L017-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "interrogatives",
+      "prompt": "Come si dice «Quali sono i vostri progetti?»",
+      "options": [
+        "Quels sont vos projets ?",
+        "Quelles sont vos projets ?",
+        "Quel sont vos projets ?",
+        "Quels est vos projets ?"
+      ],
+      "correct": 0,
+      "explain_it": "Quel si accorda con projets, maschile plurale: quels; il verbo è sont e l'aggettivo possessivo è vos."
+    },
+    {
+      "id": "L017-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "interrogatives",
+      "prompt": "Completa la domanda: «___ heure est-il ?» (Che ore sono?)",
+      "options": [
+        "Quel",
+        "Quelle",
+        "Quels",
+        "Quelles"
+      ],
+      "correct": 1,
+      "explain_it": "Heure è femminile singolare, quindi quel diventa quelle."
+    },
+    {
+      "id": "L017-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "modals",
+      "prompt": "Completa: «Je ___ partir maintenant.» (Devo partire adesso.)",
+      "options": [
+        "dois",
+        "peux",
+        "veux",
+        "sais"
+      ],
+      "correct": 0,
+      "explain_it": "Devoir esprime l'obbligo: je dois. Peux è di pouvoir (potere), quindi cambia il significato."
+    },
+    {
+      "id": "L017-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "il-y-a",
+      "prompt": "Che cosa significa «Il y a une exposition» ?",
+      "options": [
+        "C'è una mostra.",
+        "Lui ha una mostra.",
+        "Ci sono due mostre.",
+        "È una mostra."
+      ],
+      "correct": 0,
+      "explain_it": "Il y a è invariabile e significa c'è o ci sono; non va confuso con il verbo avoir."
+    },
+    {
+      "id": "L017-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "avoir",
+      "prompt": "Come si dice «ho voglia di» in francese?",
+      "options": [
+        "j'ai envie de",
+        "je suis envie de",
+        "je fais envie de",
+        "j'ai envie à"
+      ],
+      "correct": 0,
+      "explain_it": "Si usa avoir envie de con il verbo all'infinito; con être non si dice."
+    },
+    {
+      "id": "L017-e06",
+      "type": "mcq",
+      "level": 1,
+      "concept": "time-date",
+      "prompt": "A quale ora corrisponde «treize heures»?",
+      "options": [
+        "l'una del pomeriggio",
+        "mezzogiorno",
+        "le tre",
+        "l'una di notte"
+      ],
+      "correct": 0,
+      "explain_it": "Con l'orologio delle 24 ore, treize heures è l'una del pomeriggio."
+    },
+    {
+      "id": "L017-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "il-y-a",
+      "prompt": "C'è una nuova mostra.",
+      "answers": [
+        "Il y a une nouvelle exposition."
+      ],
+      "distractors": [
+        "est",
+        "ont"
+      ],
+      "explain_it": "Con il y a non serve un verbo coniugato: il nome è preceduto dall'articolo indefinito."
+    },
+    {
+      "id": "L017-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "modals",
+      "prompt": "Devo andare dal medico.",
+      "answers": [
+        "Je dois aller chez le médecin."
+      ],
+      "distractors": [
+        "doit",
+        "vais"
+      ],
+      "explain_it": "Con devoir il verbo aller resta all'infinito, e la forma è je dois."
+    },
+    {
+      "id": "L017-e09",
+      "type": "order",
+      "level": 1,
+      "concept": "avoir",
+      "prompt": "Ho voglia di venire.",
+      "answers": [
+        "J'ai envie de venir."
+      ],
+      "distractors": [
+        "suis",
+        "fais"
+      ],
+      "explain_it": "Avoir envie de si costruisce con il verbo avoir, non con être."
+    },
+    {
+      "id": "L017-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "il-y-a",
+      "text": "Il ___ deux choses à voir.",
+      "answers": [
+        "y a"
+      ],
+      "hint": "(il y a, presente)",
+      "prompt": "Ci sono due cose da vedere.",
+      "explain_it": "Con il y a non si cambia la forma per il plurale: si usa sempre y a."
+    },
+    {
+      "id": "L017-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "interrogatives",
+      "text": "___ est le titre de ce livre ?",
+      "answers": [
+        "Quel"
+      ],
+      "hint": "(quale, maschile singolare)",
+      "prompt": "Qual è il titolo di questo libro?",
+      "explain_it": "Titre è maschile singolare: quel è la forma corretta."
+    },
+    {
+      "id": "L017-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "modals",
+      "text": "Vous ___ partir avant midi ?",
+      "answers": [
+        "devez"
+      ],
+      "hint": "(devoir, presente, vous)",
+      "prompt": "Dovete partire prima di mezzogiorno?",
+      "explain_it": "Con vous, devoir diventa devez e il verbo che segue resta all'infinito."
+    },
+    {
+      "id": "L017-e13",
+      "type": "cloze",
+      "level": 1,
+      "concept": "avoir",
+      "text": "Nous ___ envie de manger.",
+      "answers": [
+        "avons"
+      ],
+      "hint": "(avoir, presente, noi)",
+      "prompt": "Abbiamo voglia di mangiare.",
+      "explain_it": "Il verbo avoir si coniuga: nous avons, e envie resta invariato."
+    },
+    {
+      "id": "L017-e14",
+      "type": "order",
+      "level": 1,
+      "concept": "time-date",
+      "prompt": "Sono le diciassette.",
+      "answers": [
+        "Il est dix-sept heures."
+      ],
+      "distractors": [
+        "dix",
+        "minuit"
+      ],
+      "explain_it": "Nell'orario di 24 ore, diciassette si dice dix-sept heures, cioè le cinque del pomeriggio."
+    },
+    {
+      "id": "L017-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "interrogatives",
+      "prompt": "Quali sono le vostre domande?",
+      "ask": "Traduci in francese (dando del voi)",
+      "answers": [
+        "Quelles sont vos questions ?"
+      ],
+      "explain_it": "Questions è femminile plurale, quindi quel diventa quelles e il possessivo è vos."
+    },
+    {
+      "id": "L017-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "avoir",
+      "prompt": "Ho voglia di vedere la mostra.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "J'ai envie de voir l'exposition.",
+        "J'ai envie de voir l'expo."
+      ],
+      "explain_it": "Avoir envie de più infinito; l'expo è la forma colloquiale di exposition."
+    },
+    {
+      "id": "L017-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "il-y-a",
+      "prompt": "C'è un medico qui?",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Il y a un [médecin|docteur] ici ?",
+        "Est-ce qu'il y a un [médecin|docteur] ici ?",
+        "Y a-t-il un [médecin|docteur] ici ?"
+      ],
+      "explain_it": "Il y a resta invariato anche nella domanda; con l'inversione diventa y a-t-il."
+    },
+    {
+      "id": "L017-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "time-date",
+      "prompt": "Abbiamo appuntamento alle sedici e trenta.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "[Nous avons|On a] rendez-vous à seize heures trente."
+      ],
+      "explain_it": "Sedici e trenta si dice seize heures trente nell'orario di 24 ore."
+    },
+    {
+      "id": "L017-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "modals",
+      "prompt": "Devi chiamare il medico?",
+      "ask": "Traduci in francese (dando del tu)",
+      "answers": [
+        "Dois-tu appeler le [médecin|docteur] ?",
+        "Est-ce que tu dois appeler le [médecin|docteur] ?",
+        "Tu dois appeler le [médecin|docteur] ?"
+      ],
+      "explain_it": "Con tu, devoir diventa dois e il verbo appeler resta all'infinito."
+    },
+    {
+      "id": "L017-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "modals",
+      "prompt": "Dobbiamo partire alle dieci.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "[Nous devons|On doit] partir à dix heures."
+      ],
+      "explain_it": "Con nous, devoir diventa devons; partir resta all'infinito."
+    },
+    {
+      "id": "L017-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Il progetto è chiaro.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Le projet est clair."
+      ],
+      "explain_it": "Projet è una parola in -ect di origine latina, simile all'italiano progetto; il genere maschile dà le come articolo."
+    },
+    {
+      "id": "L017-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "avoir",
+      "prompt": "Ho voglia di mangiare qualcosa.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "J'ai envie de manger quelque chose."
+      ],
+      "explain_it": "Quelque chose è il pronome indefinito per qualcosa, e segue avoir envie de con il verbo all'infinito."
+    },
+    {
+      "id": "L017-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "interrogatives",
+      "prompt": "Quale mostra volete vedere?",
+      "ask": "Traduci in francese (dando del voi)",
+      "answers": [
+        "Quelle exposition voulez-vous voir ?",
+        "Quelle exposition vous voulez voir ?"
+      ],
+      "explain_it": "Exposition è femminile singolare, quindi quel diventa quelle; vouloir con vous diventa voulez."
+    },
+    {
+      "id": "L017-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "time-date",
+      "prompt": "Sono le diciotto.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Il est dix-huit heures."
+      ],
+      "explain_it": "Diciotto nell'orario di 24 ore è dix-huit heures, cioè le sei del pomeriggio."
+    },
+    {
+      "id": "L017-e25",
+      "type": "cloze",
+      "level": 2,
+      "concept": "modals",
+      "text": "Tu ___ parler maintenant.",
+      "answers": [
+        "dois"
+      ],
+      "hint": "(devoir, presente, tu)",
+      "prompt": "Devi parlare adesso.",
+      "explain_it": "Con tu, devoir diventa dois, che si pronuncia come doit."
+    },
+    {
+      "id": "L017-e26",
+      "type": "cloze",
+      "level": 2,
+      "concept": "avoir",
+      "text": "Je n'ai pas ___ de manger.",
+      "answers": [
+        "envie"
+      ],
+      "hint": "(voglia, femminile)",
+      "prompt": "Non ho voglia di mangiare.",
+      "explain_it": "Nella negazione avoir envie de diventa n'ai pas envie de; envie resta invariato."
+    },
+    {
+      "id": "L017-e27",
+      "type": "cloze",
+      "level": 2,
+      "concept": "present-irregular",
+      "text": "Vous ___ avec nous ce soir ?",
+      "answers": [
+        "venez"
+      ],
+      "hint": "(venir, presente, vous)",
+      "prompt": "Venite con noi stasera?",
+      "explain_it": "Venir è irregolare: vous venez, con la desinenza -ez."
+    },
+    {
+      "id": "L017-e28",
+      "type": "cloze",
+      "level": 2,
+      "concept": "interrogatives",
+      "text": "___ sont tes projets ?",
+      "answers": [
+        "Quels"
+      ],
+      "hint": "(quale, maschile plurale)",
+      "prompt": "Quali sono i tuoi progetti?",
+      "explain_it": "Projets è maschile plurale, quindi quel diventa quels."
+    },
+    {
+      "id": "L017-e29",
+      "type": "cloze",
+      "level": 2,
+      "concept": "time-date",
+      "text": "Il est treize ___.",
+      "answers": [
+        "heures"
+      ],
+      "hint": "(ore)",
+      "prompt": "È l'una del pomeriggio.",
+      "explain_it": "Nell'orario di 24 ore si dice l'ora e poi heures."
+    },
+    {
+      "id": "L017-e30",
+      "type": "cloze",
+      "level": 2,
+      "concept": "il-y-a",
+      "text": "Il ___ trois jours.",
+      "answers": [
+        "y a"
+      ],
+      "hint": "(il y a, con valore di 'fa')",
+      "prompt": "Tre giorni fa.",
+      "explain_it": "Con un periodo di tempo, il y a significa 'fa': si traduce con fa."
+    },
+    {
+      "id": "L017-e31",
+      "type": "dictation",
+      "level": 2,
+      "concept": "il-y-a",
+      "text": "Il y a deux chiens dans le jardin.",
+      "explain_it": "Il y a non cambia forma al plurale: il verbo è sempre y a, anche con due chiens."
+    },
+    {
+      "id": "L017-e32",
+      "type": "dictation",
+      "level": 2,
+      "concept": "imperative",
+      "text": "Dites-moi pourquoi vous ne venez pas.",
+      "explain_it": "Dites è l'imperativo di dire, e moi lo segue con il trattino; pourquoi vuol dire perché."
+    },
+    {
+      "id": "L017-e33",
+      "type": "flash",
+      "level": 2,
+      "concept": "interrogatives",
+      "front": "Quel, quelle, quels, quelles: quando si usa ciascuna forma?",
+      "back": "Quel concorda con il nome che segue: quel (m. sing.), quelle (f. sing.), quels (m. pl.), quelles (f. pl.). Esempi: quel jour, quelle heure, quels projets, quelles expositions.",
+      "note": "Il nome decide la forma, non il soggetto della frase.",
+      "explain_it": "Quel è un aggettivo interrogativo e si accorda come gli altri aggettivi."
+    },
+    {
+      "id": "L017-e34",
+      "type": "flash",
+      "level": 2,
+      "concept": "il-y-a",
+      "front": "Il y a: è invariabile? Che cosa significa con un periodo di tempo?",
+      "back": "Sì, è invariabile: il y a un livre, il y a deux livres. Significa c'è o ci sono. Con un periodo di tempo significa 'fa': il y a trois jours = tre giorni fa.",
+      "note": "Nella domanda: y a-t-il.",
+      "explain_it": "Il y a non va confuso con il verbo avoir, perché esprime l'esistenza o il tempo trascorso."
+    },
+    {
+      "id": "L017-e35",
+      "type": "flash",
+      "level": 2,
+      "concept": "modals",
+      "front": "Devoir: come si coniuga al presente e che cosa segue?",
+      "back": "je dois, tu dois, il/elle doit, nous devons, vous devez, ils/elles doivent. Segue un infinito: je dois partir. Significa dovere o essere obbligati.",
+      "note": "Dois e doit si pronunciano [dwa], doivent [dwav]: la -s e la -t finali sono mute.",
+      "explain_it": "Devoir si usa come pouvoir: il verbo successivo resta all'infinito."
+    },
+    {
+      "id": "L017-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "interrogatives",
+      "prompt": "Vuoi venire con me domani? Ho voglia di vedere la mostra alle sedici.",
+      "ask": "Traduci in francese (dando del tu)",
+      "answers": [
+        "[Tu veux|Est-ce que tu veux|Veux-tu] venir avec moi demain ? J'ai envie de voir [l'exposition|l'expo] à seize heures."
+      ],
+      "explain_it": "Si combinano avoir envie de, venir e l'orario di 24 ore, con la forma tu e il ritmo della domanda."
+    },
+    {
+      "id": "L017-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "il-y-a",
+      "prompt": "Quali sono i tuoi progetti? C'è una mostra interessante.",
+      "ask": "Traduci in francese (dando del tu)",
+      "answers": [
+        "Quels sont tes projets ? Il y a une exposition intéressante."
+      ],
+      "explain_it": "Prima la domanda con quels, poi la frase con il y a e l'aggettivo dopo il nome."
+    },
+    {
+      "id": "L017-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "modals",
+      "prompt": "Non devo andare dal medico oggi.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Je ne dois pas aller chez le médecin aujourd'hui.",
+        "Je ne dois pas aller chez le docteur aujourd'hui."
+      ],
+      "explain_it": "La negazione ne ... pas circonda il verbo devoir, e aller resta all'infinito."
+    },
+    {
+      "id": "L017-e39",
+      "type": "write",
+      "level": 3,
+      "concept": "modals",
+      "prompt": "Vous devez partir maintenant.",
+      "ask": "Volgi alla forma negativa",
+      "answers": [
+        "Vous ne devez pas partir maintenant."
+      ],
+      "explain_it": "Nella forma negativa, ne ... pas circonda devez e il verbo partir resta all'infinito."
+    },
+    {
+      "id": "L017-e40",
+      "type": "write",
+      "level": 3,
+      "concept": "modals",
+      "prompt": "Non posso venire, perché devo lavorare.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Je ne peux pas venir[,|] parce que je dois travailler.",
+        "Je ne peux pas venir[,|] car je dois travailler."
+      ],
+      "explain_it": "Pouvoir e devoir sono seguiti dall'infinito: peux venir, dois travailler."
+    },
+    {
+      "id": "L017-e41",
+      "type": "write",
+      "level": 3,
+      "concept": "il-y-a",
+      "prompt": "Ci sono due mostre interessanti in questa città.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Il y a deux expositions intéressantes dans cette ville."
+      ],
+      "explain_it": "Il y a resta invariato anche davanti a un numero; cette è il dimostrativo femminile davanti a una consonante."
+    },
+    {
+      "id": "L017-e42",
+      "type": "write",
+      "level": 3,
+      "concept": "time-date",
+      "prompt": "Sono le ventidue e quarantacinque.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Il est vingt-deux heures quarante-cinq."
+      ],
+      "explain_it": "Nell'orario di 24 ore i minuti seguono l'ora senza preposizioni."
+    },
+    {
+      "id": "L017-e43",
+      "type": "write",
+      "level": 3,
+      "concept": "avoir",
+      "prompt": "Ho voglia di andare in piscina, ma non ho tempo.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "J'ai envie d'aller à la piscine[,|] mais je n'ai pas le temps."
+      ],
+      "explain_it": "Davanti a una vocale de diventa d', e avoir le temps significa avere tempo."
+    },
+    {
+      "id": "L017-e44",
+      "type": "write",
+      "level": 3,
+      "concept": "vocab",
+      "prompt": "Il titolo del libro è chiaro, ma l'argomento è profondo.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Le titre du livre est clair[,|] mais le sujet est profond."
+      ],
+      "explain_it": "Sujet significa argomento, non soggetto in questo contesto; profond prende la e al femminile."
+    },
+    {
+      "id": "L017-e45",
+      "type": "dictation",
+      "level": 3,
+      "concept": "modals",
+      "text": "Nous voulons venir à la piscine demain, mais nous ne pouvons pas partir avant midi.",
+      "explain_it": "Vouloir e pouvoir sono seguiti dall'infinito; nous pouvons con la negazione ne ... pas."
+    },
+    {
+      "id": "L017-e46",
+      "type": "dictation",
+      "level": 3,
+      "concept": "il-y-a",
+      "text": "Quelles sont les choses à voir ? Il y a beaucoup de musées.",
+      "explain_it": "Quelles si accorda con choses, femminile plurale; il y a resta invariato."
+    }
+  ]
+}

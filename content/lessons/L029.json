@@ -1,0 +1,769 @@
+{
+  "n": 29,
+  "title_fr": "Comment vas-tu ?",
+  "title_it": "Come stai?",
+  "review": false,
+  "status": "verified",
+  "source": "c15d4fa8 p41-45 (libro p.123-127; soluzioni dell'esercizio 2 fuori dall'intervallo, non visibili)",
+  "theme_it": "Due amici si incontrano per strada. Louis sta facendo la spesa e cerca una pasticceria dove comprare una torta o un dolce, perché la sera stessa a cena arrivano i Mercier. Deve anche trovare un regalo per il loro anniversario di matrimonio, ma non ha idee precise: l'amica gli indica un centro commerciale vicino all'ufficio postale e discutono delle possibili scelte, dai dolci alle tisane.",
+  "grammar": [
+    {
+      "id": "stressed-pronouns",
+      "title_it": "Il pronome tonico toi (tu, te)",
+      "explain_it": "Toi è la forma tonica della seconda persona singolare: corrisponde all'italiano «te» (o «tu» enfatico) quando sta da solo, dopo et o dopo una preposizione. Non sostituisce il soggetto davanti al verbo: si dice tu viens, ma Et toi ? (E tu?), avec toi (con te), pour toi (per te). Si usa anche nelle risposte brevi e per mettere in rilievo il soggetto: Toi, tu viens ?",
+      "examples": [
+        {
+          "fr": "Et toi, tu viens ce soir ?",
+          "it": "E tu, vieni stasera?"
+        },
+        {
+          "fr": "Ce cadeau est pour toi.",
+          "it": "Questo regalo è per te."
+        },
+        {
+          "fr": "Je viens avec toi.",
+          "it": "Vengo con te."
+        }
+      ]
+    },
+    {
+      "id": "plural",
+      "title_it": "Plurale dei nomi in -eau e dei cognomi",
+      "explain_it": "I sostantivi singolari che finiscono in -eau fanno il plurale aggiungendo una -x muta invece della -s: un gâteau → des gâteaux, un tableau → des tableaux, un cadeau, un bureau, un morceau. Attenzione anche ai cognomi di famiglia: in francese non prendono la -s al plurale, quindi si dice les Mercier, anche se in italiano il cognome plurale cambia (i Rossi). Il plurale non cambia la pronuncia del cognome.",
+      "examples": [
+        {
+          "fr": "Il y a deux tableaux dans le salon.",
+          "it": "Nel salotto ci sono due quadri."
+        },
+        {
+          "fr": "Les Dubois habitent près d'ici.",
+          "it": "I Dubois abitano qui vicino."
+        },
+        {
+          "fr": "J'aime les gâteaux au chocolat.",
+          "it": "Mi piacciono i dolci al cioccolato."
+        }
+      ]
+    },
+    {
+      "id": "adverbs",
+      "title_it": "L'avverbio plutôt: piuttosto",
+      "explain_it": "Plutôt corrisponde all'italiano «piuttosto» e ha due usi. Davanti a un aggettivo attenua o precisa il giudizio: il fait plutôt froid (fa piuttosto freddo), ce café est plutôt fort. Con un verbo indica una scelta fatta al posto di un'altra: Je prends plutôt un thé (prendo piuttosto un tè). Evita je préfère plutôt, che è ridondante. Non confonderlo con plus tôt (più presto), l'opposto di plus tard.",
+      "examples": [
+        {
+          "fr": "Il fait plutôt froid aujourd'hui.",
+          "it": "Oggi fa piuttosto freddo."
+        },
+        {
+          "fr": "Je n'aime pas le thé, je prends plutôt un café.",
+          "it": "Non mi piace il tè, prendo piuttosto un caffè."
+        }
+      ]
+    },
+    {
+      "id": "present-irregular",
+      "title_it": "Savoir e connaître: sapere e conoscere",
+      "explain_it": "Come in italiano, il francese distingue due verbi. Savoir (je sais, tu sais, il sait, nous savons, vous savez, ils savent) si usa per informazioni e fatti, con où/comment/si/que, e per «sapere fare» qualcosa: je sais nager. Connaître (je connais, tu connais, il connaît, nous connaissons, vous connaissez, ils connaissent) si usa per persone, luoghi e cose che si conoscono: je connais Paul, je connais ce quartier. Dopo connaître non si mette una frase introdotta da dove/come/che: lì serve savoir.",
+      "examples": [
+        {
+          "fr": "Je sais nager.",
+          "it": "So nuotare."
+        },
+        {
+          "fr": "Tu connais ce quartier ?",
+          "it": "Conosci questo quartiere?"
+        },
+        {
+          "fr": "Je ne connais pas ta sœur.",
+          "it": "Non conosco tua sorella."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la forme",
+      "it": "forma fisica, buona salute",
+      "pos": "n",
+      "note": "être en forme: stare bene"
+    },
+    {
+      "fr": "les courses (f. pl.)",
+      "it": "la spesa, le commissioni",
+      "pos": "n",
+      "note": "faire les courses: fare la spesa"
+    },
+    {
+      "fr": "la pâtisserie",
+      "it": "pasticceria (negozio o dolce)",
+      "pos": "n"
+    },
+    {
+      "fr": "la tarte",
+      "it": "crostata",
+      "pos": "n"
+    },
+    {
+      "fr": "le gâteau",
+      "it": "torta, dolce",
+      "pos": "n",
+      "note": "pl. gâteaux"
+    },
+    {
+      "fr": "dîner",
+      "it": "cenare",
+      "pos": "v"
+    },
+    {
+      "fr": "adorer",
+      "it": "adorare",
+      "pos": "v",
+      "note": "j'adore"
+    },
+    {
+      "fr": "offrir",
+      "it": "regalare, offrire",
+      "pos": "v",
+      "note": "j'offre"
+    },
+    {
+      "fr": "le cadeau",
+      "it": "regalo",
+      "pos": "n",
+      "note": "pl. cadeaux"
+    },
+    {
+      "fr": "l'anniversaire (m.)",
+      "it": "compleanno, anniversario",
+      "pos": "n"
+    },
+    {
+      "fr": "précis",
+      "it": "preciso",
+      "pos": "adj",
+      "note": "f. précise"
+    },
+    {
+      "fr": "connaître",
+      "it": "conoscere",
+      "pos": "v",
+      "note": "je connais"
+    },
+    {
+      "fr": "savoir",
+      "it": "sapere",
+      "pos": "v",
+      "note": "je sais"
+    },
+    {
+      "fr": "le goût",
+      "it": "gusto",
+      "pos": "n",
+      "note": "pl. goûts"
+    },
+    {
+      "fr": "original",
+      "it": "originale, insolito",
+      "pos": "adj",
+      "note": "f. originale"
+    },
+    {
+      "fr": "le centre commercial",
+      "it": "centro commerciale",
+      "pos": "n"
+    },
+    {
+      "fr": "là-bas",
+      "it": "laggiù, là in fondo",
+      "pos": "adv"
+    },
+    {
+      "fr": "le bureau de poste",
+      "it": "ufficio postale",
+      "pos": "n"
+    },
+    {
+      "fr": "superbe",
+      "it": "splendido, magnifico",
+      "pos": "adj"
+    },
+    {
+      "fr": "délicieux",
+      "it": "delizioso",
+      "pos": "adj",
+      "note": "f. délicieuse"
+    },
+    {
+      "fr": "la noix",
+      "it": "noce",
+      "pos": "n"
+    },
+    {
+      "fr": "le morceau",
+      "it": "pezzo, boccone",
+      "pos": "n",
+      "note": "pl. morceaux"
+    },
+    {
+      "fr": "la chantilly",
+      "it": "panna montata",
+      "pos": "n"
+    },
+    {
+      "fr": "gourmand",
+      "it": "goloso",
+      "pos": "adj",
+      "note": "f. gourmande"
+    },
+    {
+      "fr": "le tableau",
+      "it": "quadro, dipinto",
+      "pos": "n",
+      "note": "pl. tableaux"
+    },
+    {
+      "fr": "la tisane",
+      "it": "tisana, infuso",
+      "pos": "n"
+    },
+    {
+      "fr": "la digestion",
+      "it": "digestione",
+      "pos": "n"
+    },
+    {
+      "fr": "plutôt",
+      "it": "piuttosto, più che altro",
+      "pos": "adv"
+    },
+    {
+      "fr": "faciliter",
+      "it": "facilitare",
+      "pos": "v"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Comment vas-tu ?",
+      "it": "Come stai?",
+      "note": "forma informale tra amici; con il lei si dice Comment allez-vous ?"
+    },
+    {
+      "fr": "La forme ?",
+      "it": "Tutto bene?",
+      "note": "abbreviazione informale di «tu es en forme ?»; intonazione ascendente"
+    },
+    {
+      "fr": "Ça va, merci.",
+      "it": "Tutto bene, grazie.",
+      "note": "risposta standard, anche quando si sta solo così così"
+    },
+    {
+      "fr": "Qu'est-ce que tu fais ici ?",
+      "it": "Che cosa fai qui?",
+      "note": "registro familiare, tra conoscenti"
+    },
+    {
+      "fr": "Faire ses courses",
+      "it": "fare la spesa",
+      "note": "anche solo «mes courses»: la spesa"
+    },
+    {
+      "fr": "Excellente idée !",
+      "it": "Ottima idea!",
+      "note": "per approvare una proposta"
+    },
+    {
+      "fr": "Quelque chose d'original",
+      "it": "qualcosa di originale",
+      "note": "quelque chose de + aggettivo maschile, con d' davanti a vocale"
+    },
+    {
+      "fr": "Je n'ai pas d'idées précises.",
+      "it": "Non ho idee precise.",
+      "note": "dopo la negazione pas l'articolo indefinito diventa d'"
+    },
+    {
+      "fr": "Je prends plutôt un thé",
+      "it": "Prendo piuttosto un tè",
+      "note": "plutôt = al posto di un'altra scelta"
+    }
+  ],
+  "notes_it": [
+    "Falsi amici e doppi significati: les courses vuol dire «la spesa» o «le commissioni», ma anche «le corse» (dei cavalli). Un anniversaire può essere sia il compleanno sia l'anniversario di matrimonio: il contesto chiarisce quale dei due.",
+    "La forme non significa «forma» geometrica ma «forma fisica» o «buona salute». La domanda informale La forme ? equivale a «Tutto bene?» e ha intonazione ascendente; è un modo rapido per chiedere come sta qualcuno.",
+    "Pronuncia: in pâtisserie la -ss- è sorda [s], come in «sasso»; in chantilly la -ll- si pronuncia [j] come una i breve (shan-ti-yi), non come la doppia l italiana. Pâtisserie indica sia il negozio sia il dolce (il pasticcino).",
+    "Tra amici e in famiglia si usa il tu (Comment vas-tu ?, tu es); con adulti poco conosciuti si usa il vous (Comment allez-vous ?). Il passaggio al tu si propone di solito spontaneamente tra persone che si frequentano."
+  ],
+  "exercises": [
+    {
+      "id": "L029-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "stressed-pronouns",
+      "prompt": "Come si dice «E tu, Paul?» in francese?",
+      "options": [
+        "Et toi, Paul ?",
+        "Et te, Paul ?",
+        "Et lui, Paul ?",
+        "Et moi, Paul ?"
+      ],
+      "correct": 0,
+      "explain_it": "Dopo et, nelle domande brevi, si usa il pronome tonico toi, non il soggetto tu né te."
+    },
+    {
+      "id": "L029-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "plural",
+      "prompt": "Qual è il plurale corretto di «un tableau» (un quadro)?",
+      "options": [
+        "des tableaux",
+        "des tableaus",
+        "des tableau",
+        "des tableaix"
+      ],
+      "correct": 0,
+      "explain_it": "I singolari in -eau prendono una -x muta al plurale, non la -s."
+    },
+    {
+      "id": "L029-e03",
+      "type": "mcq",
+      "level": 2,
+      "concept": "adverbs",
+      "prompt": "Completa: «Je prends ___ un café.» (piuttosto)",
+      "options": [
+        "plutôt",
+        "plus tôt",
+        "peut-être",
+        "toujours"
+      ],
+      "correct": 0,
+      "explain_it": "Plutôt significa piuttosto; plus tôt vuol dire più presto e peut-être significa forse."
+    },
+    {
+      "id": "L029-e04",
+      "type": "mcq",
+      "level": 2,
+      "concept": "present-irregular",
+      "prompt": "Completa: «Je ___ où se trouve la pâtisserie.» (sapere)",
+      "options": [
+        "sais",
+        "connais",
+        "sait",
+        "savons"
+      ],
+      "correct": 0,
+      "explain_it": "Per informazioni e fatti si usa savoir; con je la forma è sais, e connais è il verbo per le persone e i luoghi."
+    },
+    {
+      "id": "L029-e05",
+      "type": "order",
+      "level": 1,
+      "concept": "stressed-pronouns",
+      "prompt": "Questo dolce è per te.",
+      "answers": [
+        "Ce gâteau est pour toi."
+      ],
+      "distractors": [
+        "moi",
+        "tu"
+      ],
+      "explain_it": "Dopo la preposizione pour si usa il pronome tonico toi."
+    },
+    {
+      "id": "L029-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "plural",
+      "prompt": "Nella camera ci sono due quadri.",
+      "answers": [
+        "Il y a deux tableaux dans la chambre."
+      ],
+      "distractors": [
+        "tableau",
+        "sont"
+      ],
+      "explain_it": "Il plurale di tableau è tableaux, con la -x, e con il numero deux non serve alcun articolo."
+    },
+    {
+      "id": "L029-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "adverbs",
+      "prompt": "Oggi fa piuttosto freddo.",
+      "answers": [
+        "Il fait plutôt froid aujourd'hui."
+      ],
+      "distractors": [
+        "plus",
+        "tôt"
+      ],
+      "explain_it": "Plutôt davanti a un aggettivo attenua il giudizio e corrisponde a piuttosto."
+    },
+    {
+      "id": "L029-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "present-irregular",
+      "prompt": "Non conosco la città.",
+      "answers": [
+        "Je ne connais pas la ville."
+      ],
+      "distractors": [
+        "sais",
+        "savons"
+      ],
+      "explain_it": "Conoscere una città, un luogo o una persona si esprime con connaître, non con savoir."
+    },
+    {
+      "id": "L029-e09",
+      "type": "order",
+      "level": 3,
+      "concept": "present-irregular",
+      "prompt": "Non conosco questa pasticceria, ma so dov'è.",
+      "answers": [
+        "Je ne connais pas cette pâtisserie, mais je sais où elle [est|se trouve]."
+      ],
+      "distractors": [
+        "sait",
+        "connaissent"
+      ],
+      "explain_it": "Due verbi nella stessa frase: connaître per il luogo e savoir per l'informazione su dove si trova."
+    },
+    {
+      "id": "L029-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "plural",
+      "text": "Dans le salon, il y a deux ___.",
+      "answers": [
+        "tableaux"
+      ],
+      "hint": "(tableau, plurale)",
+      "prompt": "In salotto ci sono due quadri.",
+      "explain_it": "Il plurale di tableau richiede la -x, come in gâteaux e cadeaux."
+    },
+    {
+      "id": "L029-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "stressed-pronouns",
+      "text": "Et ___, tu aimes le chocolat ?",
+      "answers": [
+        "toi"
+      ],
+      "hint": "(pronome tonico, seconda persona singolare)",
+      "prompt": "E tu, ti piace il cioccolato?",
+      "explain_it": "Nella domanda introdotta da et si usa il pronome tonico toi."
+    },
+    {
+      "id": "L029-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "present-irregular",
+      "text": "Tu ___ où se trouve la gare ?",
+      "answers": [
+        "sais"
+      ],
+      "hint": "(savoir, presente)",
+      "prompt": "Sai dove si trova la stazione?",
+      "explain_it": "Savoir si usa per le informazioni, qui il luogo della stazione; la forma di tu è sais."
+    },
+    {
+      "id": "L029-e13",
+      "type": "cloze",
+      "level": 1,
+      "concept": "vocab",
+      "text": "Je voudrais une ___ aux fraises, s'il vous plaît.",
+      "answers": [
+        "tarte"
+      ],
+      "hint": "(femminile singolare)",
+      "prompt": "Vorrei una crostata alle fragole, per favore.",
+      "explain_it": "La tarte è la crostata, un dolce con base di pasta e frutta: è femminile, da cui l'articolo une."
+    },
+    {
+      "id": "L029-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adverbs",
+      "text": "Ce gâteau est ___ bon.",
+      "answers": [
+        "plutôt"
+      ],
+      "hint": "(piuttosto)",
+      "prompt": "Questo dolce è piuttosto buono.",
+      "explain_it": "Plutôt davanti a un aggettivo attenua il giudizio, come piuttosto in italiano."
+    },
+    {
+      "id": "L029-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "stressed-pronouns",
+      "prompt": "Il regalo è per te, Manon.",
+      "answers": [
+        "Ce cadeau est pour toi, Manon.",
+        "Le cadeau est pour toi, Manon."
+      ],
+      "explain_it": "Il pronome tonico toi segue la preposizione pour; cadeau è maschile, quindi ce o le."
+    },
+    {
+      "id": "L029-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "plural",
+      "prompt": "Due pezzi di cioccolato.",
+      "answers": [
+        "deux morceaux de chocolat"
+      ],
+      "explain_it": "Morceau fa il plurale in -aux; dopo un nome di quantità (morceau, tasse, kilo) si usa de senza articolo."
+    },
+    {
+      "id": "L029-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "plural",
+      "prompt": "I Dubois arrivano stasera.",
+      "answers": [
+        "Les Dubois arrivent ce soir."
+      ],
+      "explain_it": "Il cognome Dubois non prende la -s al plurale: il plurale si segnala con l'articolo les."
+    },
+    {
+      "id": "L029-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "adverbs",
+      "prompt": "Questo caffè è piuttosto forte.",
+      "answers": [
+        "Ce café est plutôt fort."
+      ],
+      "explain_it": "Plutôt davanti all'aggettivo fort attenua il giudizio, come piuttosto in italiano."
+    },
+    {
+      "id": "L029-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "adverbs",
+      "prompt": "Prendo piuttosto una tisana.",
+      "answers": [
+        "Je prends plutôt une tisane."
+      ],
+      "explain_it": "Con un verbo plutôt indica la scelta di una cosa al posto di un'altra: je prends plutôt..."
+    },
+    {
+      "id": "L029-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "present-irregular",
+      "prompt": "Non conosco il tuo indirizzo.",
+      "answers": [
+        "Je ne [connais|sais] pas ton adresse."
+      ],
+      "explain_it": "Con un indirizzo si possono usare connaître (non l'ho mai visto/so) o savoir (non ho l'informazione): entrambi sono corretti."
+    },
+    {
+      "id": "L029-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "present-irregular",
+      "prompt": "Sai dove si trova la farmacia?",
+      "answers": [
+        "[Tu sais|Est-ce que tu sais|Sais-tu] où [se trouve|est] la pharmacie ?"
+      ],
+      "explain_it": "Per chiedere un'informazione su dove si trova qualcosa si usa savoir, seguito da où."
+    },
+    {
+      "id": "L029-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "relative-pronouns",
+      "prompt": "Una pasticceria che vende dolci al cioccolato.",
+      "answers": [
+        "Une pâtisserie qui vend des gâteaux au chocolat."
+      ],
+      "explain_it": "Il pronome relativo qui è il soggetto che sostituisce «che» e il verbo concorda con la parola a cui si riferisce."
+    },
+    {
+      "id": "L029-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions-place",
+      "prompt": "Un centro commerciale vicino all'ufficio postale.",
+      "answers": [
+        "Un centre commercial près du bureau de poste.",
+        "Un centre commercial à côté du bureau de poste."
+      ],
+      "explain_it": "Près de e à côté de indicano la vicinanza; con il bureau de poste si usa la preposizione de con l'articolo le."
+    },
+    {
+      "id": "L029-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "indefinites",
+      "prompt": "Qualcosa di originale",
+      "answers": [
+        "quelque chose d'original"
+      ],
+      "explain_it": "Quelque chose è seguito da de e dall'aggettivo maschile, con d' davanti alla vocale."
+    },
+    {
+      "id": "L029-e25",
+      "type": "write",
+      "level": 3,
+      "concept": "present-irregular",
+      "prompt": "Sai dove posso comprare una torta? Prendo piuttosto una crostata alle noci.",
+      "answers": [
+        "[Tu sais|Est-ce que tu sais|Sais-tu] où je peux acheter un gâteau ? Je prends plutôt une tarte aux noix."
+      ],
+      "explain_it": "Qui savoir introduce una domanda indiretta sull'informazione, mentre plutôt esprime la preferenza."
+    },
+    {
+      "id": "L029-e26",
+      "type": "write",
+      "level": 3,
+      "concept": "plural",
+      "prompt": "I Dubois vengono a cena sabato prossimo per il compleanno di tua sorella.",
+      "answers": [
+        "Les Dubois viennent dîner samedi prochain pour l'anniversaire de ta sœur."
+      ],
+      "explain_it": "Il cognome resta invariato con les; venir dîner significa venire a cena."
+    },
+    {
+      "id": "L029-e27",
+      "type": "write",
+      "level": 3,
+      "concept": "adverbs",
+      "prompt": "Non mi piace molto il caffè, prendo piuttosto una tisana.",
+      "answers": [
+        "Je n'aime pas beaucoup le café, je prends plutôt une tisane."
+      ],
+      "explain_it": "Ne...pas va attorno a aime; plutôt introduce la scelta alternativa."
+    },
+    {
+      "id": "L029-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "stressed-pronouns",
+      "prompt": "Questo regalo non è per me, è per te.",
+      "answers": [
+        "Ce cadeau n'est pas pour moi, il est pour toi.",
+        "Ce cadeau n'est pas pour moi, c'est pour toi."
+      ],
+      "explain_it": "Dopo pour il pronome tonico è moi per io e toi per tu; c'est o il est possono introdurre la seconda parte."
+    },
+    {
+      "id": "L029-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "present-irregular",
+      "prompt": "Conosci questo ristorante? Sai dove si trova?",
+      "answers": [
+        "[Tu connais|Est-ce que tu connais|Connais-tu] ce restaurant ? [Tu sais|Est-ce que tu sais|Sais-tu] où il se trouve ?"
+      ],
+      "explain_it": "Connaître per il ristorante come luogo noto, savoir per l'informazione su dove si trova."
+    },
+    {
+      "id": "L029-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "plural",
+      "prompt": "Vado a comprare due regali per i Dubois, che sono golosi.",
+      "answers": [
+        "Je vais acheter deux cadeaux pour les Dubois, qui sont gourmands."
+      ],
+      "explain_it": "Cadeaux fa il plurale in -x e il cognome Dubois resta invariato; gourmands è l'aggettivo plurale di goloso."
+    },
+    {
+      "id": "L029-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "stressed-pronouns",
+      "prompt": "Per me una tisana, per te un caffè.",
+      "answers": [
+        "Une tisane pour moi, un café pour toi.",
+        "Pour moi une tisane, pour toi un café."
+      ],
+      "explain_it": "Dopo pour si usano i pronomi tonici moi e toi; il secondo elemento è introdotto senza verbo."
+    },
+    {
+      "id": "L029-e32",
+      "type": "dictation",
+      "level": 2,
+      "concept": "stressed-pronouns",
+      "text": "Et toi, tu veux du café ou du thé ?",
+      "explain_it": "Et toi apre la domanda rivolta all'altro, e du indica il partitivo con i nomi non numerabili."
+    },
+    {
+      "id": "L029-e33",
+      "type": "dictation",
+      "level": 2,
+      "concept": "plural",
+      "text": "Il y a trois gâteaux et deux tableaux dans la cuisine.",
+      "explain_it": "Gâteaux e tableaux hanno entrambi il plurale in -x, diversamente dal regolare -s."
+    },
+    {
+      "id": "L029-e34",
+      "type": "dictation",
+      "level": 3,
+      "concept": "present-irregular",
+      "text": "Je connais une boulangerie qui fait de très bons croissants, mais je ne sais pas où elle se trouve.",
+      "explain_it": "Connaître vale per il negozio come luogo noto, savoir per l'informazione sul punto in cui si trova."
+    },
+    {
+      "id": "L029-e35",
+      "type": "flash",
+      "level": 2,
+      "concept": "stressed-pronouns",
+      "front": "Pronome tonico della seconda persona singolare: quale forma si usa dopo «et» o dopo una preposizione?",
+      "back": "toi (te, con te: avec toi, pour toi). Il soggetto resta tu: tu viens.",
+      "explain_it": "Il pronome tonico toi sostituisce il pronome dopo preposizioni e nelle domande brevi."
+    },
+    {
+      "id": "L029-e36",
+      "type": "flash",
+      "level": 2,
+      "concept": "stressed-pronouns",
+      "front": "Differenza tra «tu» e «toi»",
+      "back": "tu è il soggetto davanti al verbo (tu parles). toi è tonico: si usa da solo, dopo et, dopo una preposizione (avec toi, pour toi) o per enfasi (toi, tu viens ?).",
+      "explain_it": "Davanti al verbo di norma tu; senza verbo o dopo preposizione toi."
+    },
+    {
+      "id": "L029-e37",
+      "type": "flash",
+      "level": 2,
+      "concept": "plural",
+      "front": "Plurale di «un morceau» (pezzo)",
+      "back": "des morceaux: i nomi singolari in -eau prendono -x al plurale.",
+      "explain_it": "La stessa regola vale per gâteau, cadeau, tableau e bureau."
+    },
+    {
+      "id": "L029-e38",
+      "type": "flash",
+      "level": 2,
+      "concept": "plural",
+      "front": "I cognomi francesi prendono la -s al plurale?",
+      "back": "No: restano invariati, come in les Dubois. La -s si aggiunge ai nomi comuni, non ai cognomi.",
+      "explain_it": "Il plurale di una famiglia si indica con l'articolo les, non con una -s sul cognome."
+    },
+    {
+      "id": "L029-e39",
+      "type": "flash",
+      "level": 2,
+      "concept": "present-irregular",
+      "front": "savoir o connaître: quale verbo si usa per le persone, i luoghi e le cose familiari?",
+      "back": "connaître (je connais, nous connaissons). Savoir (je sais, nous savons) serve per fatti, informazioni e per «sapere fare» qualcosa.",
+      "explain_it": "Come in italiano, ciò che si conosce (persone, luoghi) si dice con connaître, ciò che si sa (informazioni, abilità) con savoir."
+    },
+    {
+      "id": "L029-e40",
+      "type": "flash",
+      "level": 2,
+      "concept": "adverbs",
+      "front": "Che significato ha «plutôt» in «je prends plutôt un thé»?",
+      "back": "piuttosto: indica la scelta di una cosa al posto di un'altra. Davanti a un aggettivo attenua: plutôt froid = piuttosto freddo.",
+      "explain_it": "Plutôt non significa più presto (quello è plus tôt)."
+    }
+  ]
+}

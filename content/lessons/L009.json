@@ -1,0 +1,812 @@
+{
+  "n": 9,
+  "title_fr": "À la mairie",
+  "title_it": "Al municipio",
+  "review": false,
+  "status": "verified",
+  "source": "529edcbd pdf 45-48 (libro p.29-32)",
+  "theme_it": "Al municipio, Jérôme Laforge e la moglie chiedono una nuova carta d'identità per il figlio. L'impiegato chiede l'età del bambino e se vive con i genitori. La lezione introduce i dimostrativi ce, cette e cet, l'età espressa con avere e il valore di chez.",
+  "grammar": [
+    {
+      "id": "demonstratives",
+      "title_it": "Ce, cette, cet: il dimostrativo davanti al nome",
+      "explain_it": "In francese il dimostrativo (come l'italiano questo/questa) si accorda con il nome che accompagna. Davanti a un nome maschile si usa ce (ce garçon), davanti a un nome femminile si usa cette (cette femme). Davanti a un nome maschile che inizia con vocale o h muta si usa cet (cet ami, cet homme): cet e cette si pronunciano allo stesso modo, quindi l'orecchio non aiuta a riconoscere il genere. Conviene memorizzare il genere insieme al nome. In italiano la forma cambia solo con il genere, ma davanti a vocale si ha quest'uomo; il francese fa lo stesso con cet.",
+      "examples": [
+        {
+          "fr": "Ce garçon a huit ans.",
+          "it": "Questo ragazzo ha otto anni."
+        },
+        {
+          "fr": "Cette femme travaille à la mairie.",
+          "it": "Questa donna lavora in municipio."
+        },
+        {
+          "fr": "Cet ami habite à Lyon.",
+          "it": "Questo amico abita a Lione."
+        }
+      ]
+    },
+    {
+      "id": "avoir",
+      "title_it": "Avere per l'età: j'ai, il a... ans",
+      "explain_it": "Per dire l'età il francese usa il verbo avoir, come l'italiano «avere anni», e non être come in inglese. La struttura è avoir + numero + ans: j'ai vingt ans, il a huit ans. La parola ans è plurale (an è al singolare, come in un an) e va sempre dopo il numero. Per chiedere l'età si usa Quel âge, seguito da avoir.",
+      "examples": [
+        {
+          "fr": "Elle a dix ans.",
+          "it": "Lei ha dieci anni."
+        },
+        {
+          "fr": "J'ai trente-cinq ans.",
+          "it": "Ho trentacinque anni."
+        },
+        {
+          "fr": "Quel âge a ce petit garçon ?",
+          "it": "Quanti anni ha questo bambino?"
+        }
+      ]
+    },
+    {
+      "id": "spelling-accents",
+      "title_it": "A (verbo) e à (preposizione): stessa pronuncia, accento diverso",
+      "explain_it": "Le due parole si pronunciano uguali, quindi bisogna guardare la grafia. «a» senza accento è la terza persona singolare del verbo avoir (il a, elle a: lui/lei ha). «à» con l'accento grave è la preposizione «a, in» (à Paris, à la mairie). Per distinguerle: se in italiano la frase regge «ha», è a; se regge «a/in/presso», è à. Anche qui l'accento conta nella correzione.",
+      "examples": [
+        {
+          "fr": "Il a un frère.",
+          "it": "Lui ha un fratello."
+        },
+        {
+          "fr": "Je vais à Paris.",
+          "it": "Vado a Parigi."
+        }
+      ]
+    },
+    {
+      "id": "prepositions",
+      "title_it": "Chez: a casa di, presso una persona o un negozio",
+      "explain_it": "Chez è una preposizione che indica la casa di una persona oppure il luogo di un professionista o di un negozio. Con i pronomi si usa il pronome tonico: chez moi (a casa mia), chez vous (a casa vostra). Con mestieri e negozi si usa chez + articolo: chez le boulanger, dal fornaio. L'italiano «da» è l'equivalente più vicino. La parola viene dal latino casa, come l'italiano «casa».",
+      "examples": [
+        {
+          "fr": "J'habite chez ma mère.",
+          "it": "Abito da mia madre."
+        },
+        {
+          "fr": "Je vais chez le boulanger.",
+          "it": "Vado dal fornaio."
+        }
+      ]
+    },
+    {
+      "id": "register",
+      "title_it": "Monsieur e madame: il registro educato",
+      "explain_it": "Monsieur (signore) e madame (signora) si usano per rivolgersi con rispetto a un adulto, soprattutto a una persona sconosciuta o a un funzionario, anche senza nome. Rispondere «Oui, monsieur» è molto più educato del semplice «Oui». Con l'articolo, un monsieur, si indica anche un signore in senso formale, come in «un signore distinto».",
+      "examples": [
+        {
+          "fr": "Oui, monsieur.",
+          "it": "Sì, signore."
+        },
+        {
+          "fr": "Bonjour, madame.",
+          "it": "Buongiorno, signora."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la mairie",
+      "it": "il municipio",
+      "pos": "n"
+    },
+    {
+      "fr": "la carte d'identité",
+      "it": "la carta d'identità",
+      "pos": "n"
+    },
+    {
+      "fr": "nouveau",
+      "it": "nuovo",
+      "pos": "adj",
+      "note": "nouvelle (f.)"
+    },
+    {
+      "fr": "le fils",
+      "it": "il figlio",
+      "pos": "n"
+    },
+    {
+      "fr": "la femme",
+      "it": "la donna, la moglie",
+      "pos": "n"
+    },
+    {
+      "fr": "la mère",
+      "it": "la madre",
+      "pos": "n"
+    },
+    {
+      "fr": "l'enfant (m./f.)",
+      "it": "il bambino, la bambina",
+      "pos": "n"
+    },
+    {
+      "fr": "l'âge (m.)",
+      "it": "l'età",
+      "pos": "n",
+      "note": "quel âge ? = quanti anni?"
+    },
+    {
+      "fr": "le monsieur",
+      "it": "il signore",
+      "pos": "n",
+      "note": "messieurs (pl.)"
+    },
+    {
+      "fr": "la dame",
+      "it": "la signora",
+      "pos": "n"
+    },
+    {
+      "fr": "ce",
+      "it": "questo",
+      "pos": "adj",
+      "note": "cet davanti a vocale o h muta"
+    },
+    {
+      "fr": "cette",
+      "it": "questa",
+      "pos": "adj",
+      "note": "forma femminile di ce"
+    },
+    {
+      "fr": "avoir",
+      "it": "avere",
+      "pos": "v",
+      "note": "j'ai, il a, elle a"
+    },
+    {
+      "fr": "l'an (m.)",
+      "it": "l'anno",
+      "pos": "n",
+      "note": "ans (pl.): anni"
+    },
+    {
+      "fr": "chez",
+      "it": "da, presso (casa o negozio di)",
+      "pos": "prep"
+    },
+    {
+      "fr": "habiter",
+      "it": "abitare",
+      "pos": "v",
+      "note": "j'habite, il habite"
+    },
+    {
+      "fr": "évidemment",
+      "it": "ovviamente, certo",
+      "pos": "adv"
+    },
+    {
+      "fr": "demander",
+      "it": "chiedere, richiedere",
+      "pos": "v",
+      "note": "demander qqch à qqn"
+    },
+    {
+      "fr": "à",
+      "it": "a, in",
+      "pos": "prep",
+      "note": "senza accento: a (verbo avoir)"
+    },
+    {
+      "fr": "huit",
+      "it": "otto",
+      "pos": "num"
+    },
+    {
+      "fr": "neuf",
+      "it": "nove",
+      "pos": "num"
+    },
+    {
+      "fr": "vingt",
+      "it": "venti",
+      "pos": "num"
+    },
+    {
+      "fr": "l'ami (m.)",
+      "it": "l'amico",
+      "pos": "n",
+      "note": "l'amie (f.)"
+    },
+    {
+      "fr": "le boulanger",
+      "it": "il fornaio",
+      "pos": "n",
+      "note": "la boulangerie (f.)"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Oui, monsieur.",
+      "it": "Sì, signore.",
+      "note": "risposta educata a un uomo adulto; a una donna si dice Oui, madame."
+    },
+    {
+      "fr": "avoir huit ans",
+      "it": "avere otto anni",
+      "note": "per dire l'età; il verbo è avoir, non être"
+    },
+    {
+      "fr": "Mais évidemment !",
+      "it": "Ma certo!",
+      "note": "risposta enfatica quando la risposta è ovvia"
+    },
+    {
+      "fr": "chez moi",
+      "it": "a casa mia",
+      "note": "chez seguito dal pronome tonico moi"
+    },
+    {
+      "fr": "à la mairie",
+      "it": "in municipio",
+      "note": "in Italia si dice anche «in comune»"
+    },
+    {
+      "fr": "Bien sûr",
+      "it": "Certo, naturalmente",
+      "note": "molto usato nella conversazione, anche come risposta"
+    },
+    {
+      "fr": "Quel âge avez-vous ?",
+      "it": "Quanti anni ha?",
+      "note": "forma di cortesia con vous"
+    }
+  ],
+  "notes_it": [
+    "La mairie (municipio) è l'ufficio dove si fanno le pratiche amministrative: registrare nascite, matrimoni e decessi, ottenere documenti. Attenzione: maire è il sindaco, e la mairie è il luogo che amministra il comune.",
+    "Carte in francese non significa solo «carta»: la carte può essere anche il menu del ristorante o la mappa geografica. La carte d'identité è la carta d'identità.",
+    "Pronuncia: davanti a ans si fanno sentire le consonanti finali di vingt, neuf e huit (vingt ans, neuf ans, huit ans), per via della liaison. Il suono di a e à, come quello di ce, cet e cette, non cambia il significato: solo la grafia.",
+    "Monsieur e madame sono usati come un tratto di cortesia molto forte: in Italia diremmo «signore» solo in situazioni formali, mentre in francese è la forma normale con un adulto sconosciuto."
+  ],
+  "exercises": [
+    {
+      "id": "L009-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "demonstratives",
+      "prompt": "Come si dice «questa donna»?",
+      "options": [
+        "cette femme",
+        "ce femme",
+        "cet femme",
+        "cette homme"
+      ],
+      "correct": 0,
+      "explain_it": "Femme è femminile: davanti si usa cette, non ce."
+    },
+    {
+      "id": "L009-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "demonstratives",
+      "prompt": "Come si dice «questo amico»?",
+      "options": [
+        "cet ami",
+        "ce ami",
+        "cette ami",
+        "ce amie"
+      ],
+      "correct": 0,
+      "explain_it": "Ami è maschile e inizia con vocale: davanti si usa cet."
+    },
+    {
+      "id": "L009-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "avoir",
+      "prompt": "Come si dice «lei ha dieci anni»?",
+      "options": [
+        "Elle a dix ans.",
+        "Elle est dix ans.",
+        "Elle a dix an.",
+        "Elle ait dix ans."
+      ],
+      "correct": 0,
+      "explain_it": "L'età si esprime con avoir, e ans è plurale."
+    },
+    {
+      "id": "L009-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "spelling-accents",
+      "prompt": "Quale frase significa «lui ha un figlio»?",
+      "options": [
+        "Il a un fils.",
+        "Il à un fils.",
+        "Il y a un fils.",
+        "Il est un fils."
+      ],
+      "correct": 0,
+      "explain_it": "Il a è il verbo avoir senza accento; Il à con accento è errato, e Il y a significa «c'è»."
+    },
+    {
+      "id": "L009-e05",
+      "type": "mcq",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "Quale frase significa «vado dal fornaio»?",
+      "options": [
+        "Je vais chez le boulanger.",
+        "Je vais à le boulanger.",
+        "Je vais chez la boulanger.",
+        "Je vais le boulanger."
+      ],
+      "correct": 0,
+      "explain_it": "Con un negozio o un mestiere si usa chez, e il boulanger è maschile."
+    },
+    {
+      "id": "L009-e06",
+      "type": "mcq",
+      "level": 1,
+      "concept": "register",
+      "prompt": "Come si risponde educatamente «sì, signore» a un uomo adulto?",
+      "options": [
+        "Oui, monsieur.",
+        "Oui, madame.",
+        "Oui, enfant.",
+        "Oui, bébé."
+      ],
+      "correct": 0,
+      "explain_it": "Monsieur si usa per un uomo adulto, madame per una donna."
+    },
+    {
+      "id": "L009-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "demonstratives",
+      "prompt": "Questo bambino ha quattro anni.",
+      "answers": [
+        "Cet enfant a quatre ans."
+      ],
+      "distractors": [
+        "ce",
+        "cette"
+      ],
+      "explain_it": "Enfant è qui maschile e davanti a vocale si usa cet."
+    },
+    {
+      "id": "L009-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "avoir",
+      "prompt": "Lei ha venti anni.",
+      "answers": [
+        "Elle a vingt ans."
+      ],
+      "distractors": [
+        "est",
+        "suis"
+      ],
+      "explain_it": "Per l'età si usa avoir, con la terza persona elle a."
+    },
+    {
+      "id": "L009-e09",
+      "type": "order",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "Abito a casa di mia madre.",
+      "answers": [
+        "J'habite chez ma mère."
+      ],
+      "distractors": [
+        "à",
+        "mon"
+      ],
+      "explain_it": "Per dire «a casa di» una persona si usa chez; mère è femminile, quindi ma."
+    },
+    {
+      "id": "L009-e10",
+      "type": "order",
+      "level": 2,
+      "concept": "spelling-accents",
+      "prompt": "Lui abita a Parigi.",
+      "answers": [
+        "Il habite à Paris."
+      ],
+      "distractors": [
+        "a"
+      ],
+      "explain_it": "Qui serve la preposizione à con accento, non il verbo avoir."
+    },
+    {
+      "id": "L009-e11",
+      "type": "order",
+      "level": 2,
+      "concept": "demonstratives",
+      "prompt": "Questa signora ha un figlio.",
+      "answers": [
+        "Cette dame a un fils."
+      ],
+      "distractors": [
+        "ce",
+        "fille"
+      ],
+      "explain_it": "Dame è femminile: il dimostrativo è cette, non ce."
+    },
+    {
+      "id": "L009-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "demonstratives",
+      "text": "___ garçon a huit ans.",
+      "answers": [
+        "Ce"
+      ],
+      "hint": "(dimostrativo maschile davanti a consonante)",
+      "prompt": "Questo ragazzo ha otto anni.",
+      "explain_it": "Garçon è maschile e inizia con consonante: ce."
+    },
+    {
+      "id": "L009-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "demonstratives",
+      "text": "___ dame est ma mère.",
+      "answers": [
+        "Cette"
+      ],
+      "hint": "(dimostrativo femminile)",
+      "prompt": "Questa signora è mia madre.",
+      "explain_it": "Dame è femminile, quindi il dimostrativo è cette."
+    },
+    {
+      "id": "L009-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "demonstratives",
+      "text": "___ ami habite à Lyon.",
+      "answers": [
+        "Cet"
+      ],
+      "hint": "(dimostrativo maschile davanti a vocale)",
+      "prompt": "Questo amico abita a Lione.",
+      "explain_it": "Ami è maschile e inizia con vocale: davanti si usa cet."
+    },
+    {
+      "id": "L009-e15",
+      "type": "cloze",
+      "level": 1,
+      "concept": "avoir",
+      "text": "Mon fils ___ douze ans.",
+      "answers": [
+        "a"
+      ],
+      "hint": "(avoir, presente, terza persona singolare)",
+      "prompt": "Mio figlio ha dodici anni.",
+      "explain_it": "Per l'età si usa il verbo avoir alla terza persona: a, senza accento."
+    },
+    {
+      "id": "L009-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "prepositions",
+      "text": "Elle habite ___ sa mère.",
+      "answers": [
+        "chez"
+      ],
+      "hint": "(a casa di)",
+      "prompt": "Lei abita a casa di sua madre.",
+      "explain_it": "Chez indica la casa di una persona."
+    },
+    {
+      "id": "L009-e17",
+      "type": "cloze",
+      "level": 2,
+      "concept": "spelling-accents",
+      "text": "Je vais ___ Lyon demain.",
+      "answers": [
+        "à"
+      ],
+      "hint": "(preposizione di luogo, con accento)",
+      "prompt": "Vado a Lione domani.",
+      "explain_it": "Con il luogo si usa la preposizione à, con accento grave."
+    },
+    {
+      "id": "L009-e18",
+      "type": "cloze",
+      "level": 2,
+      "concept": "register",
+      "text": "Oui, ___.",
+      "answers": [
+        "madame"
+      ],
+      "hint": "(signora)",
+      "prompt": "Sì, signora.",
+      "explain_it": "A una donna adulta si dice madame, a un uomo monsieur."
+    },
+    {
+      "id": "L009-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "demonstratives",
+      "prompt": "Questa donna lavora in municipio.",
+      "answers": [
+        "Cette femme travaille à la mairie.",
+        "Cette dame travaille à la mairie."
+      ],
+      "explain_it": "Femme e dame sono femminili, quindi il dimostrativo è cette."
+    },
+    {
+      "id": "L009-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "demonstratives",
+      "prompt": "Questo bambino ha sei anni.",
+      "answers": [
+        "Cet enfant a six ans.",
+        "Ce petit garçon a six ans.",
+        "Ce garçon a six ans."
+      ],
+      "explain_it": "Se il bambino è maschio si usa ce o cet, a seconda della vocale che segue."
+    },
+    {
+      "id": "L009-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "avoir",
+      "prompt": "Mia figlia ha quindici anni.",
+      "answers": [
+        "Ma fille a quinze ans."
+      ],
+      "explain_it": "Fille è femminile: il possessivo è ma e il verbo è avoir."
+    },
+    {
+      "id": "L009-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "avoir",
+      "prompt": "Ho trentacinque anni.",
+      "answers": [
+        "J'ai trente-cinq ans.",
+        "J'ai 35 ans."
+      ],
+      "explain_it": "Io ho è j'ai, e ans resta al plurale."
+    },
+    {
+      "id": "L009-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "Abito da mia sorella.",
+      "answers": [
+        "J'habite chez ma [sœur|soeur]."
+      ],
+      "explain_it": "Con una persona si usa chez; sœur è femminile, quindi ma."
+    },
+    {
+      "id": "L009-e24",
+      "type": "write",
+      "level": 1,
+      "concept": "prepositions",
+      "prompt": "Vado dalla mia amica.",
+      "answers": [
+        "Je vais chez mon amie."
+      ],
+      "explain_it": "Amie inizia con vocale: il possessivo è mon anche se il nome è femminile."
+    },
+    {
+      "id": "L009-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "spelling-accents",
+      "prompt": "Lui ha un figlio di otto anni.",
+      "answers": [
+        "Il a un fils de huit ans."
+      ],
+      "explain_it": "Qui il verbo avoir si scrive senza accento: a."
+    },
+    {
+      "id": "L009-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "register",
+      "prompt": "Scusi, signore.",
+      "answers": [
+        "Excusez-moi, monsieur.",
+        "Pardon, monsieur."
+      ],
+      "explain_it": "Con un uomo adulto si usa monsieur anche nelle formule di scusa."
+    },
+    {
+      "id": "L009-e27",
+      "type": "write",
+      "level": 3,
+      "concept": "demonstratives",
+      "prompt": "Quanti anni ha questa bambina?",
+      "answers": [
+        "Quel âge a cette petite fille ?",
+        "Quel âge a cette enfant ?",
+        "Quel âge a cette fille ?"
+      ],
+      "explain_it": "Bambina è femminile, quindi il dimostrativo è cette; per l'età si usa avoir."
+    },
+    {
+      "id": "L009-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "prepositions",
+      "prompt": "Questo signore abita da sua madre a Lione.",
+      "answers": [
+        "Ce monsieur habite chez sa mère à Lyon.",
+        "Ce monsieur habite chez sa mère, à Lyon."
+      ],
+      "explain_it": "Chez indica la casa della madre; a Lione si usa à con accento."
+    },
+    {
+      "id": "L009-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "avoir",
+      "prompt": "Questa signora ha ventidue anni e abita a casa mia.",
+      "answers": [
+        "Cette dame a vingt-deux ans et elle habite chez moi.",
+        "Cette femme a vingt-deux ans et elle habite chez moi."
+      ],
+      "explain_it": "Si combinano l'età con avoir e il luogo con chez + moi."
+    },
+    {
+      "id": "L009-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "demonstratives",
+      "prompt": "Questa ragazza ha dieci anni, ma quel ragazzo ha otto anni.",
+      "answers": [
+        "Cette fille a dix ans, mais ce garçon a huit ans.",
+        "Cette jeune fille a dix ans, mais ce garçon a huit ans."
+      ],
+      "explain_it": "Fille è femminile (cette), garçon è maschile e inizia con consonante (ce)."
+    },
+    {
+      "id": "L009-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "register",
+      "prompt": "Sì, signora. Siamo in municipio e questo signore è mio figlio.",
+      "answers": [
+        "Oui, madame. Nous sommes à la mairie et ce monsieur est mon fils.",
+        "Oui, madame. Nous sommes à la mairie, et ce monsieur est mon fils."
+      ],
+      "explain_it": "Monsieur e madame vanno scelti in base al sesso della persona a cui ci si rivolge."
+    },
+    {
+      "id": "L009-e32",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "Siamo in municipio per una carta d'identità.",
+      "answers": [
+        "Nous sommes à la mairie pour une carte d'identité.",
+        "Nous sommes à la mairie pour une carte d'identité nationale."
+      ],
+      "explain_it": "Il luogo si esprime con à la mairie; carte d'identité è femminile, quindi una."
+    },
+    {
+      "id": "L009-e33",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "Chiedo una nuova carta d'identità.",
+      "answers": [
+        "Je demande une nouvelle carte d'identité."
+      ],
+      "explain_it": "Carte è femminile: l'aggettivo nouveau diventa nouvelle."
+    },
+    {
+      "id": "L009-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "possessives",
+      "prompt": "Chiediamo un documento per nostra figlia.",
+      "answers": [
+        "Nous demandons un document pour notre fille.",
+        "Nous demandons un papier pour notre fille."
+      ],
+      "explain_it": "Demander si coniuga al plurale con nous, e notre concorda con fille."
+    },
+    {
+      "id": "L009-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "avoir",
+      "prompt": "Questa bambina ha sei anni e abita con sua madre.",
+      "answers": [
+        "Cette petite fille a six ans et elle habite avec sa mère.",
+        "Cette enfant a six ans et elle habite avec sa mère."
+      ],
+      "explain_it": "Per l'età si usa avoir, mentre abitare è un verbo in -er."
+    },
+    {
+      "id": "L009-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "avoir",
+      "prompt": "Quanti anni ha il figlio di questa signora?",
+      "answers": [
+        "Quel âge a le fils de cette dame ?",
+        "Quel âge a le fils de cette femme ?"
+      ],
+      "explain_it": "La domanda sull'età usa Quel âge con avoir."
+    },
+    {
+      "id": "L009-e37",
+      "type": "write",
+      "level": 2,
+      "concept": "spelling-accents",
+      "prompt": "Lei ha un'amica a Lione.",
+      "answers": [
+        "Elle a une amie à Lyon."
+      ],
+      "explain_it": "A (senza accento) è il verbo avoir, à con accento indica il luogo."
+    },
+    {
+      "id": "L009-e38",
+      "type": "dictation",
+      "level": 1,
+      "concept": "demonstratives",
+      "text": "Cette femme a quarante ans.",
+      "explain_it": "In «cette» la e finale è muta, ma si sente la t finale: [sɛt]. «Ce» invece termina con un suono vocalico."
+    },
+    {
+      "id": "L009-e39",
+      "type": "dictation",
+      "level": 2,
+      "concept": "prepositions",
+      "text": "Ce monsieur habite chez le boulanger.",
+      "explain_it": "Chez le boulanger indica il luogo di un negozio."
+    },
+    {
+      "id": "L009-e40",
+      "type": "dictation",
+      "level": 2,
+      "concept": "avoir",
+      "text": "Oui, madame, elle a neuf ans.",
+      "explain_it": "Neuf ans si pronuncia con la liaison: la f si sente come v."
+    },
+    {
+      "id": "L009-e41",
+      "type": "flash",
+      "level": 2,
+      "concept": "demonstratives",
+      "front": "Ce, cette, cet: quale forma scegliere?",
+      "back": "ce davanti a consonante (ce garçon); cette per il femminile (cette femme); cet davanti a vocale o h muta per il maschile (cet ami, cet homme).",
+      "note": "Cet e cette si pronunciano allo stesso modo."
+    },
+    {
+      "id": "L009-e42",
+      "type": "flash",
+      "level": 1,
+      "concept": "avoir",
+      "front": "Come si dice l'età in francese?",
+      "back": "Si usa avoir + numero + ans: j'ai vingt ans, il a huit ans. Non si usa être.",
+      "note": "Come in italiano, dove si dice avere anni."
+    },
+    {
+      "id": "L009-e43",
+      "type": "flash",
+      "level": 2,
+      "concept": "spelling-accents",
+      "front": "a o à: quale scegliere?",
+      "back": "a (senza accento) è il verbo avoir: il a un frère. à (con accento) è la preposizione: je vais à Paris.",
+      "note": "Test: se in italiano la frase regge «ha», scrivi a; se regge «a/in», scrivi à."
+    },
+    {
+      "id": "L009-e44",
+      "type": "flash",
+      "level": 2,
+      "concept": "prepositions",
+      "front": "Quando si usa chez?",
+      "back": "Con una persona (chez moi, chez ma mère) o con un negozio e un mestiere (chez le boulanger).",
+      "note": "È l'equivalente di «da» in italiano."
+    }
+  ]
+}

@@ -12,26 +12,44 @@
       "title_it": "Il verbo être (essere): le forme principali",
       "explain_it": "Il verbo être significa «essere» e ha forme irregolari da memorizzare: je suis (io sono), il est (lui è), vous êtes (Lei è, oppure voi siete), nous sommes (noi siamo). Come in italiano la forma vous è sia di cortesia sia plurale. A differenza dell'italiano, il soggetto (je, il, nous...) va sempre espresso.",
       "examples": [
-        { "fr": "Nous sommes parisiens.", "it": "Siamo parigini." },
-        { "fr": "Il est de Nîmes.", "it": "È di Nîmes." }
+        {
+          "fr": "Nous sommes parisiens.",
+          "it": "Siamo parigini."
+        },
+        {
+          "fr": "Il est de Nîmes.",
+          "it": "È di Nîmes."
+        }
       ]
     },
     {
       "id": "questions",
       "title_it": "Domanda formale con inversione: Êtes-vous ... ?",
-      "explain_it": "Per fare una domanda più formale si inverte il verbo e il pronome, uniti da un trattino: vous êtes diventa Êtes-vous ? Esiste anche la domanda con la sola intonazione ascendente (Vous êtes breton ?), più semplice e meno formale. In italiano l'inversione corrisponde a «È lei ...?».",
+      "explain_it": "Per fare una domanda più formale si inverte il verbo e il pronome, uniti da un trattino: vous êtes diventa Êtes-vous ? Esiste anche la domanda con la sola intonazione ascendente (Vous êtes breton ?), più semplice e meno formale. Le due forme hanno lo stesso significato.",
       "examples": [
-        { "fr": "Êtes-vous breton ?", "it": "È bretone?" },
-        { "fr": "Vous êtes parisienne ?", "it": "È parigina? (domanda con intonazione)" }
+        {
+          "fr": "Êtes-vous breton ?",
+          "it": "È bretone?"
+        },
+        {
+          "fr": "Vous êtes parisienne ?",
+          "it": "È parigina? (domanda con intonazione)"
+        }
       ]
     },
     {
       "id": "gender",
       "title_it": "Il femminile degli aggettivi: breton / bretonne",
-      "explain_it": "Ogni sostantivo è maschile o femminile e gli aggettivi che descrivono una persona si accordano con chi è descritto. Il femminile si ottiene di solito aggiungendo -e e raddoppiando la consonante finale: breton diventa bretonne, parisien diventa parisienne. In italiano invece si cambia la vocale finale (bretone, bretona).",
+      "explain_it": "Gli aggettivi che descrivono una persona si accordano con chi è descritto. Il femminile si ottiene di solito aggiungendo -e: parisien diventa parisienne e breton diventa bretonne (con -en e -on la n finale si raddoppia). In italiano si cambia la vocale (parigino, parigina), mentre bretone resta uguale per maschile e femminile.",
       "examples": [
-        { "fr": "Il est breton. Elle est bretonne.", "it": "Lui è bretone. Lei è bretona." },
-        { "fr": "Elle est parisienne.", "it": "Lei è parigina." }
+        {
+          "fr": "Il est breton. Elle est bretonne.",
+          "it": "Lui è bretone. Lei è bretone."
+        },
+        {
+          "fr": "Elle est parisienne.",
+          "it": "Lei è parigina."
+        }
       ]
     },
     {
@@ -39,41 +57,158 @@
       "title_it": "I verbi pronominali: je m'appelle, je me présente",
       "explain_it": "Verbi come s'appeler (chiamarsi) e se présenter (presentarsi) hanno un pronome riflessivo che va davanti al verbo: me, te, se, nous, vous. Davanti a vocale me diventa m' (je m'appelle). Come in italiano il pronome è obbligatorio, quindi non si può dire solo je appelle.",
       "examples": [
-        { "fr": "Je m'appelle Chloé.", "it": "Mi chiamo Chloé." },
-        { "fr": "Je me présente.", "it": "Mi presento." }
+        {
+          "fr": "Je m'appelle Chloé.",
+          "it": "Mi chiamo Chloé."
+        },
+        {
+          "fr": "Je me présente.",
+          "it": "Mi presento."
+        }
       ]
     }
   ],
   "vocab": [
-    { "fr": "se présenter", "it": "presentarsi", "pos": "v", "note": "je me présente" },
-    { "fr": "s'appeler", "it": "chiamarsi", "pos": "v", "note": "je m'appelle" },
-    { "fr": "être", "it": "essere", "pos": "v", "note": "je suis, il est, vous êtes, nous sommes" },
-    { "fr": "voici", "it": "ecco", "pos": "adv" },
-    { "fr": "mon", "it": "mio (m.)", "pos": "adj", "note": "ma (f.)" },
-    { "fr": "l'ami (m.)", "it": "l'amico", "pos": "n", "note": "mon ami = il mio amico" },
-    { "fr": "breton", "it": "bretone", "pos": "adj", "note": "f. bretonne" },
-    { "fr": "parisien", "it": "parigino", "pos": "adj", "note": "f. parisienne" },
-    { "fr": "aussi", "it": "anche", "pos": "adv" },
-    { "fr": "mais", "it": "ma", "pos": "conj" },
-    { "fr": "maintenant", "it": "adesso, ora", "pos": "adv" },
-    { "fr": "nous", "it": "noi", "pos": "pron" },
-    { "fr": "elle", "it": "lei", "pos": "pron" },
-    { "fr": "il", "it": "lui, egli", "pos": "pron" },
-    { "fr": "dans", "it": "in, dentro", "pos": "prep" },
-    { "fr": "de", "it": "di, da", "pos": "prep" },
-    { "fr": "le Midi", "it": "il Sud (della Francia)", "pos": "n", "note": "non significa mezzogiorno" },
-    { "fr": "la France", "it": "la Francia", "pos": "n" },
-    { "fr": "Nîmes", "it": "Nîmes (città del sud della Francia)", "pos": "n" },
-    { "fr": "pas du tout", "it": "niente affatto", "pos": "expr" }
+    {
+      "fr": "se présenter",
+      "it": "presentarsi",
+      "pos": "v",
+      "note": "je me présente"
+    },
+    {
+      "fr": "s'appeler",
+      "it": "chiamarsi",
+      "pos": "v",
+      "note": "je m'appelle"
+    },
+    {
+      "fr": "être",
+      "it": "essere",
+      "pos": "v",
+      "note": "je suis, il est, vous êtes, nous sommes"
+    },
+    {
+      "fr": "voici",
+      "it": "ecco",
+      "pos": "adv"
+    },
+    {
+      "fr": "mon",
+      "it": "mio (m.)",
+      "pos": "adj",
+      "note": "ma (f.)"
+    },
+    {
+      "fr": "l'ami (m.)",
+      "it": "l'amico",
+      "pos": "n",
+      "note": "mon ami = il mio amico"
+    },
+    {
+      "fr": "breton",
+      "it": "bretone",
+      "pos": "adj",
+      "note": "f. bretonne"
+    },
+    {
+      "fr": "parisien",
+      "it": "parigino",
+      "pos": "adj",
+      "note": "f. parisienne"
+    },
+    {
+      "fr": "aussi",
+      "it": "anche",
+      "pos": "adv"
+    },
+    {
+      "fr": "mais",
+      "it": "ma",
+      "pos": "conj"
+    },
+    {
+      "fr": "maintenant",
+      "it": "adesso, ora",
+      "pos": "adv"
+    },
+    {
+      "fr": "nous",
+      "it": "noi",
+      "pos": "pron"
+    },
+    {
+      "fr": "il",
+      "it": "lui, egli",
+      "pos": "pron"
+    },
+    {
+      "fr": "dans",
+      "it": "in, dentro",
+      "pos": "prep"
+    },
+    {
+      "fr": "de",
+      "it": "di, da",
+      "pos": "prep"
+    },
+    {
+      "fr": "le Midi",
+      "it": "il Sud (della Francia)",
+      "pos": "n",
+      "note": "non significa mezzogiorno"
+    },
+    {
+      "fr": "la France",
+      "it": "la Francia",
+      "pos": "n"
+    },
+    {
+      "fr": "Nîmes",
+      "it": "Nîmes (città del sud della Francia)",
+      "pos": "n"
+    },
+    {
+      "fr": "pas du tout",
+      "it": "niente affatto",
+      "pos": "expr"
+    }
   ],
   "expressions": [
-    { "fr": "Je me présente.", "it": "Mi presento.", "note": "formula per presentarsi da soli" },
-    { "fr": "Voici mon ami.", "it": "Ecco il mio amico.", "note": "per presentare una persona" },
-    { "fr": "Et vous ?", "it": "E Lei?", "note": "si restituisce la domanda, come «e tu?»" },
-    { "fr": "Pas du tout !", "it": "Niente affatto!", "note": "risposta negativa rafforzata" },
-    { "fr": "dans le Midi", "it": "nel Sud (della Francia)", "note": "espressione geografica fissa" },
-    { "fr": "Je suis de ...", "it": "Sono di ...", "note": "per dire la provenienza: de + città o regione" },
-    { "fr": "Êtes-vous breton ?", "it": "È bretone?", "note": "domanda formale con inversione" }
+    {
+      "fr": "Je me présente.",
+      "it": "Mi presento.",
+      "note": "formula per presentarsi da soli"
+    },
+    {
+      "fr": "Voici mon ami.",
+      "it": "Ecco il mio amico.",
+      "note": "per presentare una persona"
+    },
+    {
+      "fr": "Et vous ?",
+      "it": "E Lei?",
+      "note": "si restituisce la domanda, come «e tu?»"
+    },
+    {
+      "fr": "Pas du tout !",
+      "it": "Niente affatto!",
+      "note": "risposta negativa rafforzata"
+    },
+    {
+      "fr": "dans le Midi",
+      "it": "nel Sud (della Francia)",
+      "note": "espressione geografica fissa"
+    },
+    {
+      "fr": "Je suis de ...",
+      "it": "Sono di ...",
+      "note": "per dire la provenienza: de + città o regione"
+    },
+    {
+      "fr": "Êtes-vous breton ?",
+      "it": "È bretone?",
+      "note": "domanda formale con inversione"
+    }
   ],
   "notes_it": [
     "Pronuncia: in francese le consonanti finali sono di solito mute, quindi la r finale di Mercier non si pronuncia (come la r finale degli infiniti in -er).",
@@ -83,279 +218,506 @@
   ],
   "exercises": [
     {
-      "id": "L003-e01", "type": "mcq", "level": 1, "concept": "etre",
+      "id": "L003-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "etre",
       "prompt": "Completa: Nous ___ parisiens.",
-      "options": ["sommes", "êtes", "suis", "est"],
+      "options": [
+        "sommes",
+        "êtes",
+        "suis",
+        "est"
+      ],
       "correct": 0,
       "explain_it": "Con nous il verbo être prende la forma sommes (noi siamo)."
     },
     {
-      "id": "L003-e02", "type": "mcq", "level": 1, "concept": "etre",
+      "id": "L003-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "etre",
       "prompt": "Completa: Je ___ de Nîmes.",
-      "options": ["suis", "êtes", "est", "sommes"],
+      "options": [
+        "suis",
+        "êtes",
+        "est",
+        "sommes"
+      ],
       "correct": 0,
       "explain_it": "Con je la forma di être è suis; êtes è per vous, est per il/elle."
     },
     {
-      "id": "L003-e03", "type": "mcq", "level": 1, "concept": "questions",
+      "id": "L003-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "questions",
       "prompt": "Quale frase usa l'inversione tra verbo e pronome per fare una domanda formale?",
-      "options": ["Vous êtes breton ?", "Êtes-vous breton ?", "Vous êtes-breton ?", "Breton vous êtes ?"],
+      "options": [
+        "Vous êtes breton ?",
+        "Êtes-vous breton ?",
+        "Vous êtes-breton ?",
+        "Breton vous êtes ?"
+      ],
       "correct": 1,
       "explain_it": "Con l'inversione il verbo viene prima del pronome e i due si uniscono con un trattino: Êtes-vous ?"
     },
     {
-      "id": "L003-e04", "type": "mcq", "level": 1, "concept": "gender",
+      "id": "L003-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "gender",
       "prompt": "Qual è il femminile di «breton»?",
-      "options": ["bretonne", "bretona", "bretonnes", "bretonte"],
+      "options": [
+        "bretonne",
+        "bretona",
+        "bretonnes",
+        "bretonte"
+      ],
       "correct": 0,
-      "explain_it": "Il femminile di breton è bretonne: si aggiunge -e e la n finale raddoppia. Bretona è la forma italiana, non francese."
+      "explain_it": "Il femminile di breton è bretonne: si aggiunge -e e la n finale raddoppia. Bretona non esiste né in francese né in italiano."
     },
     {
-      "id": "L003-e05", "type": "mcq", "level": 1, "concept": "pronominal-verbs",
+      "id": "L003-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronominal-verbs",
       "prompt": "Come si dice «Mi chiamo Sophie» in francese?",
-      "options": ["Je m'appelle Sophie.", "Je appelle Sophie.", "Je m'appelles Sophie.", "Je suis appelle Sophie."],
+      "options": [
+        "Je m'appelle Sophie.",
+        "Je appelle Sophie.",
+        "Je m'appelles Sophie.",
+        "Je suis appelle Sophie."
+      ],
       "correct": 0,
       "explain_it": "S'appeler è un verbo pronominale: va usato con il pronome m' davanti al verbo, e la forma con je è appelle senza -s."
     },
     {
-      "id": "L003-e06", "type": "mcq", "level": 1, "concept": "false-friends",
+      "id": "L003-e06",
+      "type": "mcq",
+      "level": 1,
+      "concept": "false-friends",
       "prompt": "Nell'espressione «dans le Midi», che cosa significa «le Midi»?",
-      "options": ["il Sud (della Francia)", "il mezzogiorno (l'ora)", "il nord", "il centro"],
+      "options": [
+        "il Sud (della Francia)",
+        "il mezzogiorno (l'ora)",
+        "il nord",
+        "il centro"
+      ],
       "correct": 0,
       "explain_it": "Le Midi indica la regione del sud della Francia; midi da solo significa mezzogiorno, ma qui il senso è geografico.",
-      "tags": ["false-friend"]
+      "tags": [
+        "false-friend"
+      ]
     },
     {
-      "id": "L003-e07", "type": "mcq", "level": 1, "concept": "pronunciation",
+      "id": "L003-e07",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronunciation",
       "prompt": "Nella parola «Mercier», la r finale come si pronuncia?",
-      "options": ["è muta", "si pronuncia come in italiano", "si pronuncia doppia", "diventa s"],
+      "options": [
+        "è muta",
+        "si pronuncia come in italiano",
+        "si pronuncia doppia",
+        "diventa s"
+      ],
       "correct": 0,
       "explain_it": "In francese le consonanti finali sono di solito mute: la r di Mercier non si sente."
     },
     {
-      "id": "L003-e08", "type": "order", "level": 1, "concept": "etre",
+      "id": "L003-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "etre",
       "prompt": "Noi siamo parigini.",
-      "answers": ["Nous sommes parisiens"],
-      "distractors": ["suis", "êtes"],
+      "answers": [
+        "Nous sommes parisiens"
+      ],
+      "distractors": [
+        "suis",
+        "êtes"
+      ],
       "explain_it": "Con nous si usa sommes, e l'aggettivo maschile plurale prende la -s: parisiens."
     },
     {
-      "id": "L003-e09", "type": "order", "level": 1, "concept": "pronominal-verbs",
+      "id": "L003-e09",
+      "type": "order",
+      "level": 1,
+      "concept": "pronominal-verbs",
       "prompt": "Mi presento.",
-      "answers": ["Je me présente"],
-      "distractors": ["m'appelle", "suis"],
+      "answers": [
+        "Je me présente"
+      ],
+      "distractors": [
+        "m'appelle",
+        "suis"
+      ],
       "explain_it": "Presentarsi è un verbo pronominale: il pronome me va tra je e il verbo."
     },
     {
-      "id": "L003-e10", "type": "order", "level": 1, "concept": "etre",
+      "id": "L003-e10",
+      "type": "order",
+      "level": 1,
+      "concept": "etre",
       "prompt": "Io sono di Nîmes.",
-      "answers": ["Je suis de Nîmes"],
-      "distractors": ["est", "sommes"],
+      "answers": [
+        "Je suis de Nîmes"
+      ],
+      "distractors": [
+        "est",
+        "sommes"
+      ],
       "explain_it": "Con je la forma di être è suis, e la provenienza si esprime con de più la città."
     },
     {
-      "id": "L003-e11", "type": "cloze", "level": 1, "concept": "etre",
+      "id": "L003-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "etre",
       "text": "Il ___ breton.",
-      "answers": ["est"],
+      "answers": [
+        "est"
+      ],
       "hint": "(être, presente)",
       "prompt": "Lui è bretone.",
       "explain_it": "Con il/elle la forma di être è est."
     },
     {
-      "id": "L003-e12", "type": "cloze", "level": 1, "concept": "pronominal-verbs",
+      "id": "L003-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "pronominal-verbs",
       "text": "Je ___appelle Loïc.",
-      "answers": ["m'"],
+      "answers": [
+        "m'",
+        "m"
+      ],
       "hint": "(s'appeler, presente)",
       "prompt": "Mi chiamo Loïc.",
       "explain_it": "Davanti alla vocale a di appelle il pronome riflessivo si contrae in m'."
     },
     {
-      "id": "L003-e13", "type": "cloze", "level": 1, "concept": "etre",
+      "id": "L003-e13",
+      "type": "cloze",
+      "level": 1,
+      "concept": "etre",
       "text": "Vous ___ de Nîmes ?",
-      "answers": ["êtes"],
+      "answers": [
+        "êtes"
+      ],
       "hint": "(être, presente)",
       "prompt": "Lei è di Nîmes?",
       "explain_it": "Con vous la forma di être è êtes, con la è accentata."
     },
     {
-      "id": "L003-e14", "type": "write", "level": 2, "concept": "questions",
+      "id": "L003-e14",
+      "type": "write",
+      "level": 2,
+      "concept": "questions",
       "prompt": "Lei è bretone? (a una donna)",
-      "answers": ["Êtes-vous bretonne ?", "Vous êtes bretonne ?"],
+      "answers": [
+        "Êtes-vous bretonne ?",
+        "Vous êtes bretonne ?"
+      ],
       "ask": "Traduci in francese (forma di cortesia)",
       "explain_it": "Alla donna si dà il femminile bretonne, e la domanda formale si può fare con l'inversione o con l'intonazione."
     },
     {
-      "id": "L003-e15", "type": "write", "level": 2, "concept": "pronominal-verbs",
+      "id": "L003-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "pronominal-verbs",
       "prompt": "Mi chiamo Sophie.",
-      "answers": ["Je m'appelle Sophie."],
+      "answers": [
+        "Je m'appelle Sophie."
+      ],
       "ask": "Traduci in francese",
       "explain_it": "Con verbi pronominali come s'appeler il pronome riflessivo è sempre presente."
     },
     {
-      "id": "L003-e16", "type": "write", "level": 2, "concept": "gender",
+      "id": "L003-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "gender",
       "prompt": "Io sono parigina.",
-      "answers": ["Je suis parisienne."],
+      "answers": [
+        "Je suis parisienne."
+      ],
       "ask": "Traduci in francese",
       "explain_it": "Per una donna l'aggettivo prende la -e finale e la n raddoppia: parisienne."
     },
     {
-      "id": "L003-e17", "type": "write", "level": 2, "concept": "adjective-agreement",
+      "id": "L003-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-agreement",
       "prompt": "Noi siamo bretoni.",
-      "answers": ["Nous sommes bretons."],
+      "answers": [
+        "Nous sommes bretons.",
+        "Nous sommes bretonnes."
+      ],
       "ask": "Traduci in francese",
       "explain_it": "Con un gruppo maschile misto o solo maschile l'aggettivo va al plurale maschile in -s."
     },
     {
-      "id": "L003-e18", "type": "write", "level": 2, "concept": "questions",
+      "id": "L003-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "questions",
       "prompt": "Lei è di Nîmes?",
-      "answers": ["Êtes-vous de Nîmes ?", "Vous êtes de Nîmes ?"],
+      "answers": [
+        "Êtes-vous de Nîmes ?",
+        "Vous êtes de Nîmes ?"
+      ],
       "ask": "Traduci in francese (forma di cortesia)",
       "explain_it": "Per la domanda formale si può invertire il verbo e il pronome, oppure usare l'intonazione."
     },
     {
-      "id": "L003-e19", "type": "write", "level": 2, "concept": "possessives",
+      "id": "L003-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "possessives",
       "prompt": "Ecco il mio amico.",
-      "answers": ["Voici mon ami."],
+      "answers": [
+        "Voici mon ami."
+      ],
       "ask": "Traduci in francese",
       "explain_it": "Mon è il possessivo maschile singolare davanti ad ami; per il femminile si userebbe ma."
     },
     {
-      "id": "L003-e20", "type": "write", "level": 2, "concept": "adjective-agreement",
-      "prompt": "Anch'io sono bretona. (parlando di me, donna)",
-      "answers": ["Je suis aussi bretonne.", "Je suis bretonne aussi."],
+      "id": "L003-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "Anch'io sono bretone. (parla una donna)",
+      "answers": [
+        "Je suis aussi bretonne.",
+        "Je suis bretonne aussi."
+      ],
       "ask": "Traduci in francese",
-      "explain_it": "Aussi si può mettere dopo il verbo e l'aggettivo prende il femminile bretonne."
+      "explain_it": "Aussi si può mettere dopo il verbo; l'aggettivo prende il femminile bretonne perché parla una donna."
     },
     {
-      "id": "L003-e21", "type": "write", "level": 2, "concept": "etre",
+      "id": "L003-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "etre",
       "prompt": "No, sono di Nîmes.",
-      "answers": ["Non, je suis de Nîmes."],
+      "answers": [
+        "Non, je suis de Nîmes."
+      ],
       "ask": "Traduci in francese",
       "explain_it": "Per negare una risposta affermativa si apre con Non, e il verbo è suis con je."
     },
     {
-      "id": "L003-e22", "type": "dictation", "level": 2, "concept": "pronominal-verbs",
-      "text": "Je me présente. Je m'appelle Chloé."
+      "id": "L003-e22",
+      "type": "dictation",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "text": "Je me présente. Je m'appelle Chloé.",
+      "explain_it": "Je me présente: me davanti a présente; je m'appelle: m' davanti a vocale."
     },
     {
-      "id": "L003-e23", "type": "dictation", "level": 2, "concept": "etre",
-      "text": "Elle est parisienne."
+      "id": "L003-e23",
+      "type": "dictation",
+      "level": 2,
+      "concept": "etre",
+      "text": "Elle est parisienne.",
+      "explain_it": "Elle est parisienne: il femminile aggiunge -ne (parisien + e), la n si raddoppia."
     },
     {
-      "id": "L003-e24", "type": "flash", "level": 2, "concept": "etre",
+      "id": "L003-e24",
+      "type": "flash",
+      "level": 2,
+      "concept": "etre",
       "front": "Coniugazione di être al presente: io, lui/lei, Lei/voi, noi",
       "back": "je suis · il est · vous êtes · nous sommes",
       "note": "Le forme di être sono irregolari: vanno memorizzate."
     },
     {
-      "id": "L003-e25", "type": "flash", "level": 2, "concept": "questions",
+      "id": "L003-e25",
+      "type": "flash",
+      "level": 2,
+      "concept": "questions",
       "front": "Come si forma una domanda formale con vous e être?",
       "back": "Si inverte il verbo e il pronome e si uniscono con un trattino: Vous êtes → Êtes-vous ?",
       "note": "In alternativa si può usare la sola intonazione ascendente."
     },
     {
-      "id": "L003-e26", "type": "cloze", "level": 2, "concept": "gender",
+      "id": "L003-e26",
+      "type": "cloze",
+      "level": 2,
+      "concept": "gender",
       "text": "Elle est ___.",
-      "answers": ["bretonne"],
+      "answers": [
+        "bretonne"
+      ],
       "hint": "(breton, femminile)",
       "prompt": "Lei è bretone.",
       "explain_it": "Con elle l'aggettivo prende il femminile bretonne."
     },
     {
-      "id": "L003-e27", "type": "cloze", "level": 2, "concept": "questions",
+      "id": "L003-e27",
+      "type": "cloze",
+      "level": 2,
+      "concept": "questions",
       "text": "___-vous de Nîmes ?",
-      "answers": ["Êtes"],
+      "answers": [
+        "Êtes"
+      ],
       "hint": "(être, presente)",
       "prompt": "Lei è di Nîmes?",
       "explain_it": "Nella domanda con inversione il verbo viene prima del pronome: Êtes-vous."
     },
     {
-      "id": "L003-e28", "type": "cloze", "level": 2, "concept": "adjective-agreement",
+      "id": "L003-e28",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adjective-agreement",
       "text": "Ma fille est ___.",
-      "answers": ["parisienne"],
+      "answers": [
+        "parisienne"
+      ],
       "hint": "(parisien, femminile)",
       "prompt": "Mia figlia è parigina.",
       "explain_it": "Fille è femminile, quindi l'aggettivo prende la forma parisienne."
     },
     {
-      "id": "L003-e29", "type": "cloze", "level": 2, "concept": "pronominal-verbs",
+      "id": "L003-e29",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronominal-verbs",
       "text": "Je ___ présente.",
-      "answers": ["me"],
+      "answers": [
+        "me"
+      ],
       "hint": "(se présenter)",
       "prompt": "Mi presento (io).",
       "explain_it": "Con je il pronome riflessivo di se présenter è me, che si contrae in m' solo davanti a vocale."
     },
     {
-      "id": "L003-e30", "type": "cloze", "level": 2, "concept": "false-friends",
+      "id": "L003-e30",
+      "type": "cloze",
+      "level": 2,
+      "concept": "false-friends",
       "text": "Je suis de Nîmes, dans le ___ de la France.",
-      "answers": ["Midi"],
+      "answers": [
+        "Midi"
+      ],
       "hint": "(il Sud della Francia)",
       "prompt": "Sono di Nîmes, nel Sud della Francia.",
       "explain_it": "Le Midi è il nome della regione del sud, non l'ora di mezzogiorno."
     },
     {
-      "id": "L003-e31", "type": "write", "level": 3, "concept": "questions",
+      "id": "L003-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "questions",
       "prompt": "Come sta? Molto bene, grazie. E Lei, è bretone? (a una donna)",
-      "answers": ["Comment allez-vous ? Très bien, merci. [Et vous, |]êtes-vous bretonne ?"],
+      "answers": [
+        "Comment allez-vous ? [Très |]bien, merci. [Et vous, |][êtes-vous|vous êtes] bretonne ?"
+      ],
       "ask": "Traduci in francese (forma di cortesia)",
       "explain_it": "Si combina il saluto di cortesia della lezione 1 con la domanda formale con inversione."
     },
     {
-      "id": "L003-e32", "type": "write", "level": 3, "concept": "etre",
+      "id": "L003-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "etre",
       "prompt": "Io sono bretone, lui è di Nîmes.",
-      "answers": ["Je suis breton, il est de Nîmes.", "Je suis breton et il est de Nîmes."],
+      "answers": [
+        "Je suis breton[,| et] il est de Nîmes."
+      ],
       "ask": "Traduci in francese",
       "explain_it": "Je suis e il est sono le due forme di être al presente che servono per parlare di sé e di un'altra persona."
     },
     {
-      "id": "L003-e33", "type": "write", "level": 3, "concept": "etre",
+      "id": "L003-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "etre",
       "prompt": "Noi siamo parigini, ma io sono di Nîmes.",
-      "answers": ["Nous sommes parisiens, mais je suis de Nîmes.", "Nous sommes parisiens mais je suis de Nîmes."],
+      "answers": [
+        "Nous sommes parisiens[,|] mais je suis de Nîmes."
+      ],
       "ask": "Traduci in francese",
       "explain_it": "Mais unisce due frasi contrapposte: nous sommes e je suis hanno forme diverse di être."
     },
     {
-      "id": "L003-e34", "type": "write", "level": 3, "concept": "questions",
+      "id": "L003-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "questions",
       "prompt": "Lei è parigina? No, sono di Nîmes, nel Sud della Francia.",
-      "answers": ["Êtes-vous parisienne ? Non, je suis de Nîmes, dans le Midi[ de la France|]."],
+      "answers": [
+        "[Êtes-vous|Vous êtes] parisienne ? Non, je suis de Nîmes, dans le Midi[ de la France|]."
+      ],
       "ask": "Traduci in francese (forma di cortesia)",
       "explain_it": "La domanda formale con inversione è seguita da una risposta con Non e je suis de più il luogo."
     },
     {
-      "id": "L003-e35", "type": "write", "level": 3, "concept": "questions",
+      "id": "L003-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "questions",
       "prompt": "Vous êtes parisien.",
-      "answers": ["Êtes-vous parisien ?"],
+      "answers": [
+        "Êtes-vous parisien ?"
+      ],
       "ask": "Trasforma in domanda formale con inversione",
       "explain_it": "Per la domanda formale si inverte vous êtes in Êtes-vous, con il trattino tra verbo e pronome."
     },
     {
-      "id": "L003-e36", "type": "write", "level": 3, "concept": "etre",
+      "id": "L003-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "etre",
       "prompt": "Je suis breton.",
-      "answers": ["Nous sommes bretons."],
+      "answers": [
+        "Nous sommes bretons."
+      ],
       "ask": "Volgi al plurale, con nous",
       "explain_it": "Con nous il verbo diventa sommes e l'aggettivo prende il plurale maschile bretons."
     },
     {
-      "id": "L003-e37", "type": "write", "level": 3, "concept": "gender",
+      "id": "L003-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "gender",
       "prompt": "Il est breton.",
-      "answers": ["Elle est bretonne."],
+      "answers": [
+        "Elle est bretonne."
+      ],
       "ask": "Volgi al femminile",
       "explain_it": "Cambiando il soggetto in elle l'aggettivo prende il femminile bretonne."
     },
     {
-      "id": "L003-e38", "type": "write", "level": 3, "concept": "pronominal-verbs",
+      "id": "L003-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "pronominal-verbs",
       "prompt": "Mi chiamo Chloé. Sono di Nîmes.",
-      "answers": ["Je m'appelle Chloé. Je suis de Nîmes.", "Je m'appelle Chloé, je suis de Nîmes."],
+      "answers": [
+        "Je m'appelle Chloé[.|,] je suis de Nîmes."
+      ],
       "ask": "Traduci in francese",
       "explain_it": "Si presenta prima il nome con il verbo pronominale, poi la provenienza con il verbo être."
     },
     {
-      "id": "L003-e39", "type": "dictation", "level": 3, "concept": "adjective-agreement",
+      "id": "L003-e39",
+      "type": "dictation",
+      "level": 3,
+      "concept": "adjective-agreement",
       "text": "Voici ma fille. Elle est parisienne, et je suis de Nîmes.",
       "explain_it": "Ma è il possessivo femminile e parisienne concorda con elle."
     },
     {
-      "id": "L003-e40", "type": "dictation", "level": 3, "concept": "questions",
+      "id": "L003-e40",
+      "type": "dictation",
+      "level": 3,
+      "concept": "questions",
       "text": "Bonjour ! Je m'appelle Chloé. Êtes-vous breton ? Non, je suis de Nîmes, dans le Midi.",
       "explain_it": "Qui si combinano il saluto, la presentazione, la domanda formale con inversione e la risposta con je suis."
     }

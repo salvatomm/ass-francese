@@ -1,0 +1,753 @@
+{
+  "n": 11,
+  "title_fr": "Au marché (Première partie)",
+  "title_it": "Al mercato (prima parte)",
+  "review": false,
+  "status": "verified",
+  "source": "529edcbd pdf 51-53 (libro p.35-37)",
+  "theme_it": "Due persone decidono di andare al mercato perché in casa non c'è più niente da mangiare: serve frutta, verdura, pane e latticini. Al banco del mercato il venditore chiede cosa desidera e il cliente ordina ciliegie, mele, funghi, banane e patate, con le quantità a peso (un chilo, trecento grammi, una livre).",
+  "grammar": [
+    {
+      "id": "tout",
+      "title_it": "Tout: l'aggettivo che si accorda (tout, toute, tous, toutes)",
+      "explain_it": "Quando è aggettivo, tout si accorda con il nome come l'italiano tutto/tutta/tutti/tutte: tout (m. sing.), toute (f. sing.), tous (m. pl.), toutes (f. pl.). Davanti al nome c'è quasi sempre un articolo: tout le, toute la, tous les, toutes les. Usato da solo, come pronome, tout resta invariabile: J'ai besoin de tout (ho bisogno di tutto).",
+      "examples": [
+        {
+          "fr": "Toute la maison dort.",
+          "it": "Tutta la casa dorme."
+        },
+        {
+          "fr": "Tous les jours, je vais au marché.",
+          "it": "Tutti i giorni vado al mercato."
+        },
+        {
+          "fr": "Toutes les cerises sont rouges.",
+          "it": "Tutte le ciliegie sono rosse."
+        }
+      ]
+    },
+    {
+      "id": "avoir",
+      "title_it": "Avoir besoin de: avere bisogno di",
+      "explain_it": "La costruzione è avoir besoin de, come l'italiano 'avere bisogno di'. Il verbo è avoir, non être: non si dice je suis besoin. Quando il bisogno è generico il nome segue de senza articolo: J'ai besoin de pain (non du pain). Se il nome è determinato si usa l'articolo contratto: J'ai besoin du pain que tu as acheté. Davanti a vocale de si elide in d': besoin d'un kilo, besoin d'argent.",
+      "examples": [
+        {
+          "fr": "Nous avons besoin de fruits.",
+          "it": "Abbiamo bisogno di frutta."
+        },
+        {
+          "fr": "Ils ont besoin de sel.",
+          "it": "Hanno bisogno di sale."
+        },
+        {
+          "fr": "J'ai besoin d'un kilo de pommes.",
+          "it": "Ho bisogno di un chilo di mele."
+        }
+      ]
+    },
+    {
+      "id": "indefinites",
+      "title_it": "Quelque, quelques, quelqu'un, quelque chose",
+      "explain_it": "Quelque significa 'qualche' ed è al singolare solo in alcune espressioni; al plurale prende la -s e diventa quelques (qualche, alcuni), con un nome plurale: quelques bananes. Quelqu'un (qualcuno) e quelque chose (qualcosa) sono fissi e non cambiano. Quelque part significa 'da qualche parte'.",
+      "examples": [
+        {
+          "fr": "Il y a quelques bananes dans le panier.",
+          "it": "Ci sono alcune banane nel cestino."
+        },
+        {
+          "fr": "Quelqu'un frappe à la porte.",
+          "it": "Qualcuno bussa alla porta."
+        },
+        {
+          "fr": "Je cherche quelque chose.",
+          "it": "Cerco qualcosa."
+        }
+      ]
+    },
+    {
+      "id": "connectors",
+      "title_it": "Pourquoi e parce que: perché domanda e perché risposta",
+      "explain_it": "Pourquoi (una sola parola) introduce una domanda e corrisponde all'italiano 'perché?'. Parce que (sempre due parole) introduce la risposta e corrisponde a 'perché' causale. Non confonderlo con pour (per, con lo scopo). Davanti a il o ils si ha l'elisione: parce qu'il. Per una causa si può usare anche car, più formale e letterario.",
+      "examples": [
+        {
+          "fr": "Pourquoi tu es fatigué ?",
+          "it": "Perché sei stanco?"
+        },
+        {
+          "fr": "Parce que je suis fatigué.",
+          "it": "Perché sono stanco."
+        },
+        {
+          "fr": "Parce qu'il est tard.",
+          "it": "Perché è tardi."
+        }
+      ]
+    },
+    {
+      "id": "numbers",
+      "title_it": "Quantità al mercato: chili, grammi e la livre",
+      "explain_it": "Per ordinare a peso si dice il numero seguito da kilo o grammes: un kilo, deux kilos, trois cents grammes. Sia kilo sia gramme sono nomi regolari e prendono la -s al plurale. Una livre indica mezzo chilo (500 g) ed è molto usata al mercato. Cent prende la -s solo quando è moltiplicato e non è seguito da altri numeri: trois cents, ma trois cent cinq.",
+      "examples": [
+        {
+          "fr": "Un kilo de pommes, s'il vous plaît.",
+          "it": "Un chilo di mele, per favore."
+        },
+        {
+          "fr": "Deux kilos de pommes de terre.",
+          "it": "Due chili di patate."
+        },
+        {
+          "fr": "Huit cents grammes de fromage.",
+          "it": "Ottocento grammi di formaggio."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le marché",
+      "it": "il mercato",
+      "pos": "n"
+    },
+    {
+      "fr": "acheter",
+      "it": "comprare",
+      "pos": "v",
+      "note": "j'achète / nous achetons"
+    },
+    {
+      "fr": "le fruit",
+      "it": "il frutto",
+      "pos": "n"
+    },
+    {
+      "fr": "le légume",
+      "it": "l'ortaggio, la verdura (al plurale: les légumes)",
+      "pos": "n"
+    },
+    {
+      "fr": "la cerise",
+      "it": "la ciliegia",
+      "pos": "n"
+    },
+    {
+      "fr": "la pomme",
+      "it": "la mela",
+      "pos": "n"
+    },
+    {
+      "fr": "la pomme de terre",
+      "it": "la patata",
+      "pos": "n"
+    },
+    {
+      "fr": "le pain",
+      "it": "il pane",
+      "pos": "n"
+    },
+    {
+      "fr": "le fromage",
+      "it": "il formaggio",
+      "pos": "n"
+    },
+    {
+      "fr": "le beurre",
+      "it": "il burro",
+      "pos": "n"
+    },
+    {
+      "fr": "le jambon",
+      "it": "il prosciutto cotto",
+      "pos": "n"
+    },
+    {
+      "fr": "le placard",
+      "it": "l'armadio a muro, la credenza",
+      "pos": "n",
+      "note": "au pluriel: les placards"
+    },
+    {
+      "fr": "vide",
+      "it": "vuoto",
+      "pos": "adj"
+    },
+    {
+      "fr": "cher",
+      "it": "caro",
+      "pos": "adj",
+      "note": "chère (f.)"
+    },
+    {
+      "fr": "comprendre",
+      "it": "capire",
+      "pos": "v",
+      "note": "je comprends"
+    },
+    {
+      "fr": "manger",
+      "it": "mangiare",
+      "pos": "v"
+    },
+    {
+      "fr": "le lait",
+      "it": "il latte",
+      "pos": "n"
+    },
+    {
+      "fr": "frais",
+      "it": "fresco",
+      "pos": "adj",
+      "note": "fraîche (f.)"
+    },
+    {
+      "fr": "la livre",
+      "it": "il mezzo chilo (500 g)",
+      "pos": "n",
+      "note": "nome femminile; le livre = il libro"
+    },
+    {
+      "fr": "le kilo",
+      "it": "il chilo",
+      "pos": "n"
+    },
+    {
+      "fr": "le champignon",
+      "it": "il fungo",
+      "pos": "n"
+    },
+    {
+      "fr": "la banane",
+      "it": "la banana",
+      "pos": "n"
+    },
+    {
+      "fr": "tout",
+      "it": "tutto / tutti / tutte",
+      "pos": "adj",
+      "note": "tout, toute, tous, toutes"
+    },
+    {
+      "fr": "pourquoi",
+      "it": "perché (in domande)",
+      "pos": "adv"
+    },
+    {
+      "fr": "parce que",
+      "it": "perché (causa)",
+      "pos": "conj"
+    },
+    {
+      "fr": "quelque",
+      "it": "qualche",
+      "pos": "adj",
+      "note": "quelques (pl.)"
+    },
+    {
+      "fr": "avoir besoin de",
+      "it": "avere bisogno di",
+      "pos": "expr"
+    },
+    {
+      "fr": "rien",
+      "it": "niente",
+      "pos": "pron"
+    },
+    {
+      "fr": "trop",
+      "it": "troppo",
+      "pos": "adv"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Allons-y.",
+      "it": "Andiamo.",
+      "note": "colloquiale; si usa anche per 'su, forza'"
+    },
+    {
+      "fr": "Il est trop cher.",
+      "it": "È troppo caro.",
+      "note": "trop davanti all'aggettivo"
+    },
+    {
+      "fr": "Il n'y a rien à faire.",
+      "it": "Non c'è niente da fare.",
+      "note": "frase di uso frequente"
+    },
+    {
+      "fr": "Qu'est-ce que je peux faire pour vous ?",
+      "it": "Cosa posso fare per Lei?",
+      "note": "formula tipica del negoziante, con vous di cortesia"
+    },
+    {
+      "fr": "Bon, je comprends.",
+      "it": "Ok, capisco.",
+      "note": "registro colloquiale"
+    },
+    {
+      "fr": "un kilo de pommes",
+      "it": "un chilo di mele",
+      "note": "quantità a peso, con de"
+    },
+    {
+      "fr": "un peu de lait frais",
+      "it": "un po' di latte fresco",
+      "note": "un peu de + nome senza articolo"
+    },
+    {
+      "fr": "J'ai besoin de tout.",
+      "it": "Ho bisogno di tutto.",
+      "note": "tout come pronome, invariabile"
+    }
+  ],
+  "notes_it": [
+    "Pourquoi (una parola) è la domanda, parce que (due parole) è la risposta: si scrive sempre staccato.",
+    "Falso amico: la livre (femminile) al mercato è il mezzo chilo (500 g), mentre le livre (maschile) è il libro.",
+    "Pomme de terre vuol dire letteralmente 'mela di terra' e significa patata: non confonderla con pomme (mela).",
+    "Accenti: cher/chère e frais/fraîche hanno l'accento circonflesso dove la s è caduta; non trascurarlo nella scrittura.",
+    "Pronuncia: tout [tu]; tous come aggettivo (tous les) si legge [tu], mentre come pronome (je les prends tous) si legge [tus]."
+  ],
+  "exercises": [
+    {
+      "id": "L011-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "tout",
+      "prompt": "Quale forma completa la frase: « ___ la famille est à table. » (tutta la famiglia è a tavola)",
+      "options": [
+        "Tout",
+        "Toute",
+        "Tous",
+        "Toutes"
+      ],
+      "correct": 1,
+      "explain_it": "Famille è femminile singolare, quindi tout diventa toute, come l'italiano 'tutta'."
+    },
+    {
+      "id": "L011-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "negation-other",
+      "prompt": "Completa: « Dans la cuisine, il n'y a ___. » (in cucina non c'è niente)",
+      "options": [
+        "rien",
+        "personne",
+        "pas",
+        "tout"
+      ],
+      "correct": 0,
+      "explain_it": "Per 'niente' si usa rien; personne significa 'nessuno', pas da solo non basta."
+    },
+    {
+      "id": "L011-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "avoir",
+      "prompt": "Quale frase significa «ho bisogno di pane»?",
+      "options": [
+        "J'ai besoin de pain.",
+        "Je suis besoin de pain.",
+        "J'ai faim de pain.",
+        "Je fais besoin de pain."
+      ],
+      "correct": 0,
+      "explain_it": "Si dice avoir besoin de: l'errore tipico è tradurre 'avere' con être (essere) o con faire."
+    },
+    {
+      "id": "L011-e04",
+      "type": "order",
+      "level": 1,
+      "concept": "avoir",
+      "prompt": "Ho bisogno di frutta.",
+      "answers": [
+        "J'ai besoin de fruits."
+      ],
+      "distractors": [
+        "suis",
+        "des"
+      ],
+      "explain_it": "Con avoir besoin de il nome generico resta senza articolo: de fruits, non des fruits."
+    },
+    {
+      "id": "L011-e05",
+      "type": "order",
+      "level": 1,
+      "concept": "negation-other",
+      "prompt": "Nella cucina non c'è niente.",
+      "answers": [
+        "Il n'y a rien dans la cuisine.",
+        "Dans la cuisine, il n'y a rien."
+      ],
+      "distractors": [
+        "est",
+        "pas"
+      ],
+      "explain_it": "La negazione ne ... rien circonda il verbo: n'y a rien, con ne elisa davanti a y."
+    },
+    {
+      "id": "L011-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "plural",
+      "prompt": "Le mele sono fresche.",
+      "answers": [
+        "Les pommes sont fraîches."
+      ],
+      "distractors": [
+        "frais",
+        "le"
+      ],
+      "explain_it": "Pomme è femminile plurale: les pommes sont fraîches, con -es nell'aggettivo."
+    },
+    {
+      "id": "L011-e07",
+      "type": "cloze",
+      "level": 1,
+      "concept": "present-er",
+      "text": "Nous ___ des cerises au marché.",
+      "answers": [
+        "achetons"
+      ],
+      "hint": "(acheter, presente)",
+      "prompt": "Compriamo ciliegie al mercato.",
+      "explain_it": "Acheter è un verbo in -er con la radice che cambia davanti a -e muta: nous achetons, senza accento."
+    },
+    {
+      "id": "L011-e08",
+      "type": "cloze",
+      "level": 1,
+      "concept": "adjective-agreement",
+      "text": "Les champignons ne sont pas ___.",
+      "answers": [
+        "chers"
+      ],
+      "hint": "(cher, plurale)",
+      "prompt": "I funghi non sono cari.",
+      "explain_it": "L'aggettivo si accorda con il soggetto plurale: chers con la -s."
+    },
+    {
+      "id": "L011-e09",
+      "type": "write",
+      "level": 1,
+      "concept": "tout",
+      "prompt": "Ho bisogno di tutto.",
+      "answers": [
+        "J'ai besoin de tout."
+      ],
+      "explain_it": "Usato come pronome, tout è invariabile e non prende articolo."
+    },
+    {
+      "id": "L011-e10",
+      "type": "write",
+      "level": 1,
+      "concept": "questions",
+      "prompt": "Perché vai al mercato?",
+      "answers": [
+        "Pourquoi [vas-tu|allez-vous|tu vas|vous allez|est-ce que tu vas|est-ce que vous allez] au marché ?"
+      ],
+      "explain_it": "Pourquoi è una parola sola e introduce la domanda; con il soggetto tu o vous si può usare l'inversione o la forma normale."
+    },
+    {
+      "id": "L011-e11",
+      "type": "mcq",
+      "level": 2,
+      "concept": "connectors",
+      "prompt": "Completa: « Je reste à la maison ___ je suis fatigué. » (resto a casa perché sono stanco)",
+      "options": [
+        "parce que",
+        "pourquoi",
+        "pour",
+        "alors"
+      ],
+      "correct": 0,
+      "explain_it": "La risposta causale è parce que; pourquoi si usa solo per fare la domanda, anche se in italiano 'perché' serve per entrambe."
+    },
+    {
+      "id": "L011-e12",
+      "type": "mcq",
+      "level": 2,
+      "concept": "avoir",
+      "prompt": "Completa: « Ils ___ besoin de sel. » (hanno bisogno di sale)",
+      "options": [
+        "ont",
+        "sont",
+        "vont",
+        "font"
+      ],
+      "correct": 0,
+      "explain_it": "Avoir besoin si coniuga con avoir: ils ont; sont è il verbo essere, un errore frequente per chi pensa in italiano."
+    },
+    {
+      "id": "L011-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "tout",
+      "text": "___ les légumes sont frais.",
+      "answers": [
+        "Tous"
+      ],
+      "hint": "(tutto, maschile plurale)",
+      "prompt": "Tutti gli ortaggi sono freschi.",
+      "explain_it": "Legumes è maschile plurale: tous les, con la s di tous che in questa posizione è muta."
+    },
+    {
+      "id": "L011-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "indefinites",
+      "text": "Il y a ___ cerises dans le panier.",
+      "answers": [
+        "quelques"
+      ],
+      "hint": "(qualche, femminile plurale)",
+      "prompt": "Ci sono alcune ciliegie nel cestino.",
+      "explain_it": "Davanti a un nome plurale 'qualche' diventa quelques, con la -s."
+    },
+    {
+      "id": "L011-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "text": "La salade est ___.",
+      "answers": [
+        "fraîche"
+      ],
+      "hint": "(frais, femminile singolare)",
+      "prompt": "L'insalata è fresca.",
+      "explain_it": "Salade è femminile singolare: frais diventa fraîche, con il circonflesso sulla i."
+    },
+    {
+      "id": "L011-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "avoir",
+      "prompt": "Ho bisogno di un chilo di mele.",
+      "answers": [
+        "J'ai besoin d'un kilo de pommes."
+      ],
+      "explain_it": "De si elide davanti a una vocale: d'un. Dopo avoir besoin de non c'è articolo davanti a kilo, ma c'è il numerale un."
+    },
+    {
+      "id": "L011-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "tout",
+      "prompt": "Tutte le mele sono buone.",
+      "answers": [
+        "Toutes les pommes sont bonnes."
+      ],
+      "explain_it": "Pomme è femminile plurale: toutes les, e bon diventa bonnes."
+    },
+    {
+      "id": "L011-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "il-y-a",
+      "prompt": "Non c'è niente da fare.",
+      "answers": [
+        "Il n'y a rien à faire."
+      ],
+      "explain_it": "La costruzione è il n'y a rien à + infinito, con la preposizione à davanti al verbo."
+    },
+    {
+      "id": "L011-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "present-er",
+      "prompt": "Compro delle banane e dei funghi.",
+      "answers": [
+        "J'achète des bananes et des champignons."
+      ],
+      "explain_it": "Con acheter si usa la forma j'achète, e des davanti ai nomi plurali indeterminati."
+    },
+    {
+      "id": "L011-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "questions",
+      "prompt": "Perché non andate al mercato?",
+      "answers": [
+        "Pourquoi [n'allez-vous|vous n'allez] pas au marché ?"
+      ],
+      "explain_it": "Con la negazione la struttura è ne ... pas intorno al verbo, anche nell'inversione o con vous n'allez pas."
+    },
+    {
+      "id": "L011-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "numbers",
+      "prompt": "Due chili di patate.",
+      "answers": [
+        "Deux kilos de pommes de terre."
+      ],
+      "explain_it": "Kilo prende la -s al plurale e la preposizione de precede il nome."
+    },
+    {
+      "id": "L011-e22",
+      "type": "order",
+      "level": 2,
+      "concept": "numbers",
+      "prompt": "Quattrocento grammi di formaggio.",
+      "answers": [
+        "Quatre cents grammes de fromage."
+      ],
+      "distractors": [
+        "cent",
+        "kilos"
+      ],
+      "explain_it": "Cent prende la -s perché è moltiplicato e chiude il numero: quatre cents. Grammes prende la -s come ogni plurale."
+    },
+    {
+      "id": "L011-e23",
+      "type": "dictation",
+      "level": 2,
+      "concept": "indefinites",
+      "text": "Nous achetons quelques kilos de cerises."
+    },
+    {
+      "id": "L011-e24",
+      "type": "dictation",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "text": "Les cerises sont fraîches, mais elles sont chères."
+    },
+    {
+      "id": "L011-e25",
+      "type": "flash",
+      "level": 2,
+      "concept": "tout",
+      "front": "Tout, tous, toute, toutes: come si accordano?",
+      "back": "Tout si accorda con il nome come un aggettivo: tout (m. sing.), toute (f. sing.), tous (m. pl.), toutes (f. pl.). Esempi: tout le fromage, toute la maison, tous les fruits, toutes les pommes.",
+      "note": "Da solo, come pronome (tout), è invariabile."
+    },
+    {
+      "id": "L011-e26",
+      "type": "flash",
+      "level": 2,
+      "concept": "avoir",
+      "front": "Avoir besoin de: come si usa de con il nome?",
+      "back": "Si dice avoir besoin de + nome senza articolo quando il bisogno è generico: J'ai besoin de sucre. Con un numerale resta de + un/une (d'un kilo); con un nome determinato si usa du/de la/des: besoin du pain.",
+      "note": "Davanti a vocale: besoin d'argent, besoin d'un kilo."
+    },
+    {
+      "id": "L011-e27",
+      "type": "write",
+      "level": 3,
+      "concept": "tout",
+      "prompt": "Compro tutte le mele e tutti gli ortaggi per la famiglia.",
+      "answers": [
+        "J'achète toutes les pommes et tous les légumes pour la famille."
+      ],
+      "explain_it": "Tutte e tutti si rendono con toutes les e tous les, ciascuno concordato con il nome che segue."
+    },
+    {
+      "id": "L011-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "avoir",
+      "prompt": "Ogni giorno abbiamo bisogno di pane, latte e frutta.",
+      "answers": [
+        "[Tous les jours|Chaque jour], [nous avons|on a] besoin de pain, de lait et de fruits.",
+        "[Nous avons|On a] besoin de pain, de lait et de fruits [tous les jours|chaque jour]."
+      ],
+      "explain_it": "Il de resta senza articolo per tutti e tre i nomi, perché il bisogno è generico."
+    },
+    {
+      "id": "L011-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "connectors",
+      "prompt": "Non compro i funghi perché sono troppo cari.",
+      "answers": [
+        "Je n'achète pas les champignons parce qu'ils sont trop chers.",
+        "Je n'achète pas les champignons car ils sont trop chers."
+      ],
+      "explain_it": "Parce que davanti a ils diventa parce qu'ils, con elisione; car è la variante più formale."
+    },
+    {
+      "id": "L011-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "numbers",
+      "prompt": "Voglio sei mele e mezzo chilo di ciliegie.",
+      "answers": [
+        "[Je voudrais|Je veux] six pommes et [une livre|un demi-kilo|cinq cents grammes] de cerises."
+      ],
+      "explain_it": "Una livre equivale a circa mezzo chilo (500 g), ma è una parola francese da non confondere con il libro."
+    },
+    {
+      "id": "L011-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "indefinites",
+      "prompt": "C'è qualcuno in cucina?",
+      "answers": [
+        "[Il y a|Y a-t-il|Est-ce qu'il y a] quelqu'un dans la cuisine ?"
+      ],
+      "explain_it": "Quelqu'un (qualcuno) è invariabile e vuole il verbo al singolare; la domanda si fa con l'intonazione, con est-ce que o con l'inversione y a-t-il."
+    },
+    {
+      "id": "L011-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "present-er",
+      "prompt": "Cerchiamo un mercato dove gli ortaggi non sono cari.",
+      "answers": [
+        "Nous cherchons un marché où les légumes ne sont pas chers.",
+        "On cherche un marché où les légumes ne sont pas chers."
+      ],
+      "explain_it": "Chercher è un verbo in -er; dove si rende con où e la negazione attorno al verbo essere."
+    },
+    {
+      "id": "L011-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "negation-other",
+      "prompt": "Non c'è nessuno al mercato.",
+      "answers": [
+        "Il n'y a personne au marché."
+      ],
+      "explain_it": "Personne fa la negazione con ne ... personne intorno al verbo, come rien."
+    },
+    {
+      "id": "L011-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "questions",
+      "prompt": "Quanti chili di mele volete?",
+      "answers": [
+        "Combien de kilos de pommes [voulez-vous|vous voulez|est-ce que vous voulez] ?"
+      ],
+      "explain_it": "Combien de + nome senza articolo: combien de kilos ? Il verbo segue con l'inversione (voulez-vous) o nell'ordine normale (vous voulez)."
+    },
+    {
+      "id": "L011-e35",
+      "type": "cloze",
+      "level": 3,
+      "concept": "de-after-negation",
+      "text": "Dans la cuisine, il n'y a ___ de fromage.",
+      "answers": [
+        "pas"
+      ],
+      "hint": "(negazione)",
+      "prompt": "In cucina non c'è formaggio.",
+      "explain_it": "Dopo una negazione l'articolo partitivo si riduce a de: il n'y a pas de fromage."
+    },
+    {
+      "id": "L011-e36",
+      "type": "dictation",
+      "level": 3,
+      "concept": "numbers",
+      "text": "Cinq cent cinquante grammes de fromage, s'il vous plaît."
+    },
+    {
+      "id": "L011-e37",
+      "type": "flash",
+      "level": 3,
+      "concept": "numbers",
+      "front": "Cent e cents: quando prende la -s?",
+      "back": "Cent prende la -s solo quando è l'ultima parola del numero: deux cents, trois cents. Se è seguito da un altro numero, la -s cade: deux cent cinq.",
+      "note": "Trois cents grammes, ma trois cent cinq grammes."
+    }
+  ]
+}

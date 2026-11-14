@@ -1,0 +1,704 @@
+{
+  "n": 19,
+  "title_fr": "Un bel endroit pour une fête",
+  "title_it": "Un bel posto per una festa",
+  "review": false,
+  "status": "verified",
+  "source": "529edcbd p85-88 (libro p.69-72; esercizi p.73-74)",
+  "theme_it": "Un cliente chiama un hotel per organizzare la festa del proprio compleanno e chiede una sala per una cinquantina di persone. Parla del periodo, del numero di invitati e soprattutto del budget: alla fine l'hotel propone una sala più piccola e meno cara, che si può avere gratis.",
+  "grammar": [
+    {
+      "id": "adjectives-irregular",
+      "title_it": "Beau: la forma bel davanti a vocale",
+      "explain_it": "Beau (bello) è irregolare. Il femminile è belle, il plurale maschile è beaux, il plurale femminile è belles. Il maschile singolare ha una forma in più: davanti a un nome maschile che inizia per vocale o per h muta si usa bel, perché il francese non ammette l'incontro di due vocali (hiato). Quindi si dice un bel endroit, non *un beau endroit. La stessa regola vale per nouveau (nouvel an). Attenzione: la belle-famille (con il trattino) è la famiglia acquisita e non ha nulla a che fare con la bellezza.",
+      "examples": [
+        {
+          "fr": "C'est un bel hôtel.",
+          "it": "È un bell'albergo."
+        },
+        {
+          "fr": "Il fait beau aujourd'hui.",
+          "it": "Oggi fa bel tempo."
+        },
+        {
+          "fr": "Ils ont deux beaux chiens.",
+          "it": "Hanno due bei cani."
+        }
+      ]
+    },
+    {
+      "id": "interrogatives",
+      "title_it": "Combien: quanto, quanti",
+      "explain_it": "Combien significa 'quanto' e 'quanti' e può stare da solo oppure seguito da de e un nome: combien de personnes ? (quante persone?). Per chiedere il prezzo si usa Ça coûte combien ? oppure, più formale, Combien est-ce que ça coûte ? o Combien coûte ce livre ? Il verbo coûter (costare) regge la domanda sul prezzo.",
+      "examples": [
+        {
+          "fr": "Combien de personnes ?",
+          "it": "Quante persone?"
+        },
+        {
+          "fr": "Ça coûte combien ?",
+          "it": "Quanto costa?"
+        },
+        {
+          "fr": "Combien est-ce que ça coûte ?",
+          "it": "Quanto costa?"
+        }
+      ]
+    },
+    {
+      "id": "numbers",
+      "title_it": "I suffissi -aine: circa dieci, circa cinquanta",
+      "explain_it": "Aggiungendo il suffisso -aine a un numero (di solito un multiplo di cinque o di dieci) si ottiene un'approssimazione, come l'italiano 'una decina', 'una trentina'. Le forme sono une dizaine (circa dieci), une quinzaine (circa quindici), une vingtaine (circa venti), une trentaine (circa trenta) e une cinquantaine (circa cinquanta). Sono nomi femminili: si usano con l'articolo e con de: une trentaine de personnes. Attenzione: une douzaine significa proprio 'una dozzina' (una dozzina di uova).",
+      "examples": [
+        {
+          "fr": "Il y a une trentaine de personnes.",
+          "it": "Ci sono una trentina di persone."
+        },
+        {
+          "fr": "Une vingtaine d'étudiants.",
+          "it": "Una ventina di studenti."
+        }
+      ]
+    },
+    {
+      "id": "vocab",
+      "title_it": "Le soir e la soirée: la sera e la serata",
+      "explain_it": "Le soir indica il momento della giornata (la sera), mentre la soirée è un evento o un periodo di tempo della sera, come una festa o un ballo. Lo stesso schema vale per le matin e la matinée. In italiano 'serata' copre entrambe le idee, quindi in francese bisogna scegliere la parola giusta: il soir è il momento, la soirée è l'evento.",
+      "examples": [
+        {
+          "fr": "Je travaille le soir.",
+          "it": "Lavoro la sera."
+        },
+        {
+          "fr": "Une soirée dansante.",
+          "it": "Una serata danzante."
+        }
+      ]
+    },
+    {
+      "id": "false-friends",
+      "title_it": "Libre e gratuit: due traduzioni di 'free'",
+      "explain_it": "Libre e gratuit non sono intercambiabili. Libre significa libero nel senso di disponibile, senza impegni: une salle libre, une soirée libre. Gratuit significa gratis, senza costo: l'entrée est gratuite. Chi conosce l'inglese 'free' deve stare attento: in francese bisogna scegliere tra le due parole a seconda del senso.",
+      "examples": [
+        {
+          "fr": "La salle est libre jusqu'à minuit.",
+          "it": "La sala è libera fino a mezzanotte."
+        },
+        {
+          "fr": "Le bus est gratuit ce soir.",
+          "it": "L'autobus è gratis stasera."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la fête",
+      "it": "la festa (celebrazione)",
+      "pos": "n",
+      "note": "non è il giorno festivo, che si dice jour férié"
+    },
+    {
+      "fr": "aider",
+      "it": "aiutare",
+      "pos": "v",
+      "note": "je peux vous aider"
+    },
+    {
+      "fr": "la soirée",
+      "it": "la serata, l'evento serale",
+      "pos": "n"
+    },
+    {
+      "fr": "la fin",
+      "it": "la fine",
+      "pos": "n"
+    },
+    {
+      "fr": "l'année (f.)",
+      "it": "l'anno",
+      "pos": "n"
+    },
+    {
+      "fr": "Noël (m.)",
+      "it": "il Natale",
+      "pos": "n"
+    },
+    {
+      "fr": "le Nouvel An",
+      "it": "il Capodanno",
+      "pos": "n"
+    },
+    {
+      "fr": "minuit (m.)",
+      "it": "la mezzanotte",
+      "pos": "n"
+    },
+    {
+      "fr": "jusqu'à",
+      "it": "fino a",
+      "pos": "prep"
+    },
+    {
+      "fr": "le budget",
+      "it": "il budget",
+      "pos": "n"
+    },
+    {
+      "fr": "coûter",
+      "it": "costare",
+      "pos": "v",
+      "note": "ça coûte"
+    },
+    {
+      "fr": "gratuit / gratuite",
+      "it": "gratuito / gratuita",
+      "pos": "adj"
+    },
+    {
+      "fr": "libre",
+      "it": "libero / libera, disponibile",
+      "pos": "adj"
+    },
+    {
+      "fr": "beau / belle",
+      "it": "bello / bella",
+      "pos": "adj",
+      "note": "pl. beaux / belles; davanti a vocale: bel"
+    },
+    {
+      "fr": "la belle-famille",
+      "it": "la famiglia acquisita (suoceri e cognati)",
+      "pos": "n"
+    },
+    {
+      "fr": "la belle-mère",
+      "it": "la suocera",
+      "pos": "n"
+    },
+    {
+      "fr": "le beau-père",
+      "it": "il suocero",
+      "pos": "n"
+    },
+    {
+      "fr": "une trentaine",
+      "it": "una trentina",
+      "pos": "n"
+    },
+    {
+      "fr": "une cinquantaine",
+      "it": "una cinquantina",
+      "pos": "n"
+    },
+    {
+      "fr": "le balai",
+      "it": "la scopa",
+      "pos": "n"
+    },
+    {
+      "fr": "le placard à balais",
+      "it": "lo sgabuzzino per le scope",
+      "pos": "n"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Je peux vous aider ?",
+      "it": "Posso aiutarla?",
+      "note": "formula di cortesia, rivolta a un cliente o a uno sconosciuto con vous"
+    },
+    {
+      "fr": "C'est pour quand ?",
+      "it": "Per quando è?",
+      "note": "registro colloquiale"
+    },
+    {
+      "fr": "Ça coûte combien ?",
+      "it": "Quanto costa?",
+      "note": "forma parlata; la versione più formale è Combien est-ce que ça coûte ?"
+    },
+    {
+      "fr": "Voyons voir.",
+      "it": "Vediamo un po'.",
+      "note": "si dice mentre si cerca qualcosa o si controlla un'agenda"
+    },
+    {
+      "fr": "C'est gratuit !",
+      "it": "È gratis!"
+    },
+    {
+      "fr": "Pas de problème.",
+      "it": "Nessun problema.",
+      "note": "molto frequente nel parlato"
+    },
+    {
+      "fr": "une trentaine de personnes",
+      "it": "una trentina di persone",
+      "note": "approssimazione con il suffisso -aine"
+    },
+    {
+      "fr": "faire le pont",
+      "it": "fare il ponte",
+      "note": "prendere un giorno di ferie tra un festivo e il fine settimana"
+    },
+    {
+      "fr": "à la fin de l'année",
+      "it": "alla fine dell'anno"
+    },
+    {
+      "fr": "pas trop cher",
+      "it": "non troppo caro",
+      "note": "pas trop significa non troppo"
+    }
+  ],
+  "notes_it": [
+    "Pronuncia: la legatura œ di cœur (come nel nome Sacré-Cœur) e di œuf non si legge 'oe'. Suona come una vocale intermedia tra e e o, simile alla eu aperta di 'peur'. Le altre pronunce dell'œ si vedranno più avanti.",
+    "Cultura: faire le pont significa fare il 'ponte', cioè prendere un giorno di ferie per allungare il weekend quando il festivo cade di martedì o di giovedì. La rentrée è il ritorno dopo le vacanze, di solito l'inizio dell'anno scolastico, ma si usa anche per la ripresa della vita politica o per l'uscita dei libri in autunno.",
+    "Famiglia: la belle-famille (con il trattino) è la famiglia del coniuge, cioè i suoceri e i cognati. Il beau-père è il suocero e la belle-mère è la suocera. Non c'è nessun legame con la bellezza.",
+    "Falsi amici per gli italiani: la fête è la festa come celebrazione, mentre il giorno festivo è le jour férié. La soirée non è la sera ma la serata-evento, come la soirée dansante.",
+    "Numeri: il suffisso -aine forma sempre un nome femminile e serve per stime approssimative; si usa più spesso con i multipli di dieci e di cinque."
+  ],
+  "exercises": [
+    {
+      "id": "L019-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "adjectives-irregular",
+      "prompt": "Come si dice «un bell'albergo» in francese?",
+      "options": [
+        "un beau hôtel",
+        "un bel hôtel",
+        "une belle hôtel",
+        "un beaux hôtel"
+      ],
+      "correct": 1,
+      "explain_it": "Davanti a hôtel, che ha la h muta, si usa la forma bel del maschile singolare."
+    },
+    {
+      "id": "L019-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "interrogatives",
+      "prompt": "Quale frase chiede il prezzo, cioè «quanto costa?»",
+      "options": [
+        "Ça coûte combien ?",
+        "Ça coûte quand ?",
+        "Ça coûte où ?",
+        "Ça coûte comment ?"
+      ],
+      "correct": 0,
+      "explain_it": "Per chiedere quanto costa si usa combien, che significa quanto, non quand (quando), où (dove) o comment (come)."
+    },
+    {
+      "id": "L019-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "false-friends",
+      "prompt": "Quale frase vuol dire «la sala è libera fino a mezzanotte»?",
+      "options": [
+        "La salle est libre jusqu'à minuit.",
+        "La salle est gratuite jusqu'à minuit.",
+        "La salle est libérée jusqu'à minuit.",
+        "La salle est libre à minuit."
+      ],
+      "correct": 0,
+      "explain_it": "Libre significa disponibile; gratuite vorrebbe dire gratis e libérée significa liberata o sgomberata."
+    },
+    {
+      "id": "L019-e04",
+      "type": "order",
+      "level": 1,
+      "concept": "false-friends",
+      "prompt": "È gratis!",
+      "answers": [
+        "C'est gratuit !"
+      ],
+      "distractors": [
+        "libre",
+        "fête"
+      ],
+      "explain_it": "Per dire che qualcosa non costa nulla si usa gratuit, non libre, che indica disponibilità."
+    },
+    {
+      "id": "L019-e05",
+      "type": "order",
+      "level": 1,
+      "concept": "modals",
+      "prompt": "Posso aiutarla?",
+      "answers": [
+        "Je peux vous aider ?",
+        "Puis-je vous aider ?"
+      ],
+      "distractors": [
+        "veux",
+        "aide"
+      ],
+      "explain_it": "Con pouvoir il verbo che segue va all'infinito: peux aider, con vous per la cortesia."
+    },
+    {
+      "id": "L019-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "interrogatives",
+      "prompt": "Per quando è la festa?",
+      "answers": [
+        "C'est pour quand, la fête ?",
+        "La fête, c'est pour quand ?"
+      ],
+      "distractors": [
+        "quel",
+        "est-ce"
+      ],
+      "explain_it": "Quand chiede il momento; cette si accorda con il femminile réunion."
+    },
+    {
+      "id": "L019-e07",
+      "type": "cloze",
+      "level": 1,
+      "concept": "modals",
+      "text": "Je ___ vous aider ?",
+      "answers": [
+        "peux"
+      ],
+      "hint": "(pouvoir, presente)",
+      "prompt": "Posso aiutarla?",
+      "explain_it": "Il verbo pouvoir alla prima persona singolare è peux, da non confondere con veux di vouloir."
+    },
+    {
+      "id": "L019-e08",
+      "type": "cloze",
+      "level": 1,
+      "concept": "adjectives-irregular",
+      "text": "C'est un ___ hôtel au centre-ville.",
+      "answers": [
+        "bel"
+      ],
+      "hint": "(beau, forma davanti a vocale o h muta)",
+      "prompt": "È un bell'albergo in centro.",
+      "explain_it": "Davanti a una parola che inizia con h muta non si può usare beau: si scrive bel."
+    },
+    {
+      "id": "L019-e09",
+      "type": "cloze",
+      "level": 1,
+      "concept": "numbers",
+      "text": "Il y a une ___ de personnes dans la salle.",
+      "answers": [
+        "trentaine"
+      ],
+      "hint": "(circa trenta)",
+      "prompt": "C'è una trentina di persone nella sala.",
+      "explain_it": "Il suffisso -aine di trente indica un'approssimazione, quindi si dice trentaine."
+    },
+    {
+      "id": "L019-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "prepositions",
+      "text": "Je travaille ___ minuit, puis je rentre.",
+      "answers": [
+        "jusqu'à"
+      ],
+      "hint": "(fino a)",
+      "prompt": "Lavoro fino a mezzanotte, poi torno a casa.",
+      "explain_it": "Jusqu'à indica il limite di tempo, come l'italiano fino a, e la à rimane davanti al nome."
+    },
+    {
+      "id": "L019-e11",
+      "type": "write",
+      "level": 2,
+      "concept": "adjectives-irregular",
+      "prompt": "Una bella sala per una festa.",
+      "answers": [
+        "Une belle salle pour une fête."
+      ],
+      "explain_it": "Belle è il femminile singolare di beau, e davanti a un nome femminile non serve la forma bel."
+    },
+    {
+      "id": "L019-e12",
+      "type": "write",
+      "level": 2,
+      "concept": "adjectives-irregular",
+      "prompt": "I bei ragazzi.",
+      "answers": [
+        "Les beaux garçons."
+      ],
+      "explain_it": "Il plurale maschile di beau è beaux, con la x e non con la s."
+    },
+    {
+      "id": "L019-e13",
+      "type": "write",
+      "level": 2,
+      "concept": "adjectives-irregular",
+      "prompt": "Un bel compleanno.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Un bel anniversaire."
+      ],
+      "explain_it": "Anniversaire inizia con vocale: il maschile singolare di beau diventa bel."
+    },
+    {
+      "id": "L019-e14",
+      "type": "write",
+      "level": 2,
+      "concept": "interrogatives",
+      "prompt": "Quanto costa questo libro?",
+      "answers": [
+        "Combien coûte ce livre ?",
+        "Combien est-ce que ce livre coûte ?",
+        "Ce livre coûte combien ?"
+      ],
+      "explain_it": "Combien può aprire la frase o stare alla fine; con ce livre si usa la forma semplice del dimostrativo."
+    },
+    {
+      "id": "L019-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "numbers",
+      "prompt": "Una quindicina di giorni.",
+      "answers": [
+        "Une quinzaine de jours.",
+        "Environ quinze jours."
+      ],
+      "explain_it": "Quinze più -aine dà quinzaine, un nome femminile che indica circa quindici."
+    },
+    {
+      "id": "L019-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "numbers",
+      "prompt": "Circa cinquanta persone.",
+      "answers": [
+        "Une cinquantaine de personnes.",
+        "Environ cinquante personnes."
+      ],
+      "explain_it": "Il suffisso -aine forma un nome femminile, quindi si scrive una cinquantaine con l'articolo indeterminativo."
+    },
+    {
+      "id": "L019-e17",
+      "type": "cloze",
+      "level": 2,
+      "concept": "numbers",
+      "text": "Il y a une ___ d'étudiants dans la classe.",
+      "answers": [
+        "vingtaine"
+      ],
+      "hint": "(circa venti)",
+      "prompt": "Ci sono una ventina di studenti nella classe.",
+      "explain_it": "Vingt più -aine dà vingtaine, e davanti a una vocale la preposizione diventa d'."
+    },
+    {
+      "id": "L019-e18",
+      "type": "mcq",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Quale parola si usa per «la sera» come momento della giornata?",
+      "options": [
+        "le soir",
+        "la soirée",
+        "le soirée",
+        "la soir"
+      ],
+      "correct": 0,
+      "explain_it": "Le soir indica il momento della giornata; la soirée è un evento serale e ha genere femminile."
+    },
+    {
+      "id": "L019-e19",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Nous allons à une ___ dansante samedi soir.",
+      "answers": [
+        "soirée"
+      ],
+      "hint": "(serata, evento)",
+      "prompt": "Sabato sera andiamo a una serata danzante.",
+      "explain_it": "Una serata come evento si dice soirée, non soir, che indica il momento della giornata."
+    },
+    {
+      "id": "L019-e20",
+      "type": "flash",
+      "level": 2,
+      "concept": "false-friends",
+      "front": "Libre o gratuit: quando si usa ciascuno?",
+      "back": "Libre significa libero nel senso di disponibile o senza impegni: une salle libre, une soirée libre. Gratuit significa gratuito, cioè senza costo: une entrée gratuite, c'est gratuit.",
+      "note": "In italiano libero e gratuito sono due parole diverse, ma chi pensa all'inglese 'free' può confonderle: in francese libre = disponibile, gratuit = gratis.",
+      "explain_it": "Il francese distingue due idee che l'italiano esprime con la stessa parola."
+    },
+    {
+      "id": "L019-e21",
+      "type": "flash",
+      "level": 2,
+      "concept": "adjectives-irregular",
+      "front": "Beau: quali forme ha e quando si usa bel?",
+      "back": "beau (m. sing.), bel (m. sing. davanti a vocale o h muta: un bel hôtel), belle (f. sing.), beaux (m. pl.), belles (f. pl.).",
+      "note": "La forma bel evita l'incontro di due vocali.",
+      "explain_it": "La forma bel è l'unica eccezione al maschile singolare di beau."
+    },
+    {
+      "id": "L019-e22",
+      "type": "flash",
+      "level": 2,
+      "concept": "numbers",
+      "front": "Il suffisso -aine: che cosa indica?",
+      "back": "Aggiunto a un numero, di solito un multiplo di cinque o di dieci, indica un'approssimazione e forma un nome femminile: une dizaine (circa dieci), une vingtaine (circa venti), une cinquantaine (circa cinquanta).",
+      "note": "Attenzione: douzaine significa dozzina, di solito esatta.",
+      "explain_it": "Il suffisso non dà un numero preciso: è una stima."
+    },
+    {
+      "id": "L019-e23",
+      "type": "dictation",
+      "level": 2,
+      "concept": "adjectives-irregular",
+      "text": "Un bel hôtel au bord de la mer.",
+      "explain_it": "Bel si usa davanti a hôtel perché la h è muta, quindi non si pronuncia la vocale finale di beau."
+    },
+    {
+      "id": "L019-e24",
+      "type": "dictation",
+      "level": 2,
+      "concept": "false-friends",
+      "text": "La salle est libre, et l'entrée est gratuite.",
+      "explain_it": "Libre indica che la sala è disponibile, gratuite che l'ingresso non costa nulla."
+    },
+    {
+      "id": "L019-e25",
+      "type": "cloze",
+      "level": 2,
+      "concept": "de-after-negation",
+      "text": "Je n'ai ___ budget important.",
+      "answers": [
+        "pas de"
+      ],
+      "hint": "(avoir, presente, negazione)",
+      "prompt": "Non ho un budget importante.",
+      "explain_it": "Dopo una negazione l'articolo indefinito diventa de, quindi si dice pas de budget."
+    },
+    {
+      "id": "L019-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "modals",
+      "prompt": "Vogliamo affittare una sala.",
+      "answers": [
+        "Nous voulons louer une salle.",
+        "On veut louer une salle."
+      ],
+      "explain_it": "Vouloir seguito dall'infinito indica il desiderio; louer è il verbo affittare e non cambia la costruzione."
+    },
+    {
+      "id": "L019-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "possessives",
+      "prompt": "Il mio compleanno è in maggio.",
+      "answers": [
+        "Mon anniversaire est [en mai|au mois de mai]."
+      ],
+      "explain_it": "Il possessivo mon si usa davanti a un nome maschile, e anniversaire inizia con vocale."
+    },
+    {
+      "id": "L019-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "present-er",
+      "prompt": "Organizziamo una grande festa per il compleanno di mio padre.",
+      "answers": [
+        "Nous organisons une grande fête pour l'anniversaire de mon père.",
+        "On organise une grande fête pour l'anniversaire de mon père."
+      ],
+      "explain_it": "Organiser è un verbo in -er che alla prima persona plurale fa organisons; grande è il femminile di grand e si accorda con fête."
+    },
+    {
+      "id": "L019-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "il-y-a",
+      "prompt": "Ci sono una trentina di persone?",
+      "ask": "Traduci in francese, con la domanda",
+      "answers": [
+        "Y a-t-il une trentaine de personnes ?",
+        "Est-ce qu'il y a une trentaine de personnes ?",
+        "Il y a une trentaine de personnes ?"
+      ],
+      "explain_it": "Nella domanda con il y a si può usare l'inversione oppure est-ce qu'il y a, e la forma resta invariata."
+    },
+    {
+      "id": "L019-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "false-friends",
+      "prompt": "L'ingresso è gratuito, ma la sala è libera fino alle diciotto.",
+      "answers": [
+        "L'entrée est gratuite, mais la salle est libre jusqu'à dix-huit heures."
+      ],
+      "explain_it": "Gratuite per l'ingresso senza costo e libre per la sala disponibile: due parole diverse per un'unica parola italiana."
+    },
+    {
+      "id": "L019-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "possessives",
+      "prompt": "Mia suocera è una persona molto gentile.",
+      "answers": [
+        "Ma belle-mère est une personne très [gentille|sympathique|aimable]."
+      ],
+      "explain_it": "Mon, ma, mes: il possessivo ma concorda con il nome femminile belle-mère, che è la suocera."
+    },
+    {
+      "id": "L019-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "indefinites",
+      "prompt": "Voglio qualcosa di bello e non troppo caro.",
+      "answers": [
+        "[Je veux|Je voudrais] quelque chose de beau et pas trop cher."
+      ],
+      "explain_it": "Quelque chose de seguito da un aggettivo maschile singolare: il de precede l'aggettivo, che resta al maschile."
+    },
+    {
+      "id": "L019-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "interrogatives",
+      "prompt": "Quanto costa l'ingresso della mostra?",
+      "answers": [
+        "Combien coûte l'entrée de l'exposition ?",
+        "Combien est-ce que l'entrée de l'exposition coûte ?"
+      ],
+      "explain_it": "Combien resta invariato e si accompagna al verbo coûter; de l'exposition indica il complemento di specificazione."
+    },
+    {
+      "id": "L019-e34",
+      "type": "dictation",
+      "level": 3,
+      "concept": "vocab",
+      "text": "Nous organisons une soirée dansante pour une trentaine de personnes en juin.",
+      "explain_it": "Soirée è il nome femminile per l'evento serale; trentaine indica circa trenta persone."
+    },
+    {
+      "id": "L019-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "adjectives-irregular",
+      "prompt": "Hanno una bella casa e due bei cani.",
+      "answers": [
+        "Ils ont une belle maison et deux beaux chiens.",
+        "Elles ont une belle maison et deux beaux chiens."
+      ],
+      "explain_it": "Belle è il femminile singolare e beaux il maschile plurale di beau: le forme cambiano con il genere e il numero del nome."
+    },
+    {
+      "id": "L019-e36",
+      "type": "write",
+      "level": 2,
+      "concept": "time-date",
+      "prompt": "La festa comincia alle venti.",
+      "answers": [
+        "La fête commence à vingt heures."
+      ],
+      "explain_it": "Nell'orario delle 24 ore si usa vingt heures per le venti, e la preposizione è à."
+    }
+  ]
+}

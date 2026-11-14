@@ -10,10 +10,16 @@
     {
       "id": "articles-definite",
       "title_it": "Gli articoli determinativi le, la, l'",
-      "explain_it": "In francese l'articolo determinativo è le per il maschile e la per il femminile, come «il» e «la» in italiano. Davanti a una vocale o a una h muta diventa l' per entrambi i generi, come in italiano «l'amico». Il genere però non si cambia: l'heure (l'ora) è femminile, come in italiano «l'ora», quindi si dice sempre la parola con il suo articolo.",
+      "explain_it": "In francese l'articolo determinativo è le per il maschile e la per il femminile, come «il» e «la» in italiano. Davanti a vocale o h muta diventa l' per entrambi i generi, come in italiano «l'amico», «l'ora». Dall'l' non si capisce il genere: l'heure è femminile, l'ami è maschile, quindi conviene imparare ogni parola con il suo articolo.",
       "examples": [
-        { "fr": "La fille est là.", "it": "La figlia è lì." },
-        { "fr": "L'ami est de Nîmes.", "it": "L'amico è di Nîmes." }
+        {
+          "fr": "La fille est là.",
+          "it": "La figlia è lì."
+        },
+        {
+          "fr": "L'ami est de Nîmes.",
+          "it": "L'amico è di Nîmes."
+        }
       ]
     },
     {
@@ -21,407 +27,788 @@
       "title_it": "Domanda introdotta da est-ce que",
       "explain_it": "Davanti a una frase affermativa si può premettere est-ce que («è che»), senza cambiare l'ordine delle parole: Est-ce que vous avez l'heure ? ha lo stesso significato di Avez-vous l'heure ?. È la forma più comune nel parlato. Rispetto all'inversione, est-ce que non richiede di unire il verbo al pronome con il trattino.",
       "examples": [
-        { "fr": "Est-ce que vous êtes breton ?", "it": "È bretone?" },
-        { "fr": "Est-ce que Loïc est là ?", "it": "Loïc è lì?" }
+        {
+          "fr": "Est-ce que vous êtes breton ?",
+          "it": "È bretone?"
+        },
+        {
+          "fr": "Est-ce que Loïc est là ?",
+          "it": "Loïc è lì?"
+        }
       ]
     },
     {
       "id": "negation",
       "title_it": "La negazione ne ... pas con il verbo avoir",
-      "explain_it": "La negazione in francese usa due parole: ne (che davanti a vocale o h diventa n') va subito prima del verbo, e pas va subito dopo il verbo. In italiano basta «non» davanti al verbo, quindi la coppia è un'abitudine da imparare. Con avoir alla forma negativa l'articolo dopo il verbo diventa de: je n'ai pas de montre (non ho l'orologio). Non è una forma con «ne» da sola: serve sempre la coppia.",
+      "explain_it": "La negazione in francese usa due parole: ne (che davanti a vocale o h muta diventa n') va subito prima del verbo, e pas subito dopo. In italiano basta «non» davanti al verbo. Nel parlato familiare ne spesso cade, ma nello scritto serve la coppia. Dopo una negazione gli articoli un/une/des diventano de (d'): je n'ai pas de montre (non ho un orologio). L'articolo determinativo invece non cambia: je n'ai pas l'heure.",
       "examples": [
-        { "fr": "Je n'ai pas l'heure.", "it": "Non ho l'ora." },
-        { "fr": "Je n'ai pas de montre.", "it": "Non ho l'orologio." }
+        {
+          "fr": "Je n'ai pas l'heure.",
+          "it": "Non ho l'ora."
+        },
+        {
+          "fr": "Je n'ai pas de montre.",
+          "it": "Non ho l'orologio."
+        }
       ]
     },
     {
       "id": "avoir",
       "title_it": "Il verbo avoir (avere): ai, avez",
-      "explain_it": "Il verbo avoir significa «avere», come in italiano. In questa lezione compaiono due forme: ai (io ho; davanti a vocale diventa j'ai) e avez (voi o Lei avete). Nella domanda con l'inversione la forma diventa avez-vous. Le altre forme del verbo arriveranno più avanti: per ora memorizza soprattutto ai e avez.",
+      "explain_it": "Il verbo avoir significa «avere», come in italiano. In questa lezione compaiono due forme: ai (io ho; davanti a vocale diventa j'ai: j'ai rendez-vous) e avez (voi avete, Lei ha). Nella domanda con l'inversione si ha avez-vous. Le altre forme arriveranno più avanti: per ora memorizza soprattutto ai e avez.",
       "examples": [
-        { "fr": "J'ai rendez-vous.", "it": "Ho un appuntamento." },
-        { "fr": "Avez-vous l'heure ?", "it": "Mi sa dire l'ora?" }
+        {
+          "fr": "J'ai rendez-vous.",
+          "it": "Ho un appuntamento."
+        },
+        {
+          "fr": "Avez-vous l'heure ?",
+          "it": "Mi sa dire l'ora?"
+        }
       ]
     },
     {
       "id": "time-date",
       "title_it": "Dire l'ora: il est ...",
-      "explain_it": "Per dire l'ora si usa il est seguito dall'ora: Il est midi (è mezzogiorno), Il est dix heures (sono le dieci). Il francese non ha un pronome neutro come «esso» per le frasi impersonali, quindi si usa sempre il, anche quando in italiano si direbbe «sono le...». Il verbo è est, dalla forma di être vista nella lezione 3.",
+      "explain_it": "Per dire l'ora si usa il est seguito dall'ora: Il est midi (è mezzogiorno), Il est dix heures (sono le dieci). In francese il soggetto impersonale il è obbligatorio: non si può dire solo Est midi. Si usa sempre il est, anche quando in italiano si direbbe «sono le...». Est è la forma di être vista nella lezione 3.",
       "examples": [
-        { "fr": "Il est midi.", "it": "È mezzogiorno." },
-        { "fr": "Il est dix heures.", "it": "Sono le dieci." }
+        {
+          "fr": "Il est midi.",
+          "it": "È mezzogiorno."
+        },
+        {
+          "fr": "Il est dix heures.",
+          "it": "Sono le dieci."
+        }
       ]
     },
     {
       "id": "pronoun-cod",
       "title_it": "Il pronome le (lo, questo fatto)",
-      "explain_it": "Le può essere un pronome che sostituisce un oggetto già noto o un'intera informazione, come «lo» in italiano. Va sempre prima del verbo: Je le sais (lo so). Diversamente dall'inglese, non si mette dopo il verbo. Il pronome le non va confuso con l'articolo le della lezione: qui ha il valore di «questo, lo».",
+      "explain_it": "Le può essere un pronome che sostituisce un'informazione già nota, come «lo» in italiano. Va sempre prima del verbo: Je le sais (lo so). Non va confuso con l'articolo le: qui ha il valore di «lo, questo». In questa lezione serve soprattutto con savoir.",
       "examples": [
-        { "fr": "Je le sais.", "it": "Lo so." },
-        { "fr": "Vous le savez ?", "it": "Lo sa?" }
+        {
+          "fr": "Je le sais.",
+          "it": "Lo so."
+        },
+        {
+          "fr": "Vous le savez ?",
+          "it": "Lo sa?"
+        }
       ]
     }
   ],
   "vocab": [
-    { "fr": "l'heure (f.)", "it": "l'ora", "pos": "n" },
-    { "fr": "pardon", "it": "scusi, mi scusi", "pos": "interj" },
-    { "fr": "la montre", "it": "l'orologio (da polso)", "pos": "n" },
-    { "fr": "avoir", "it": "avere", "pos": "v", "note": "j'ai, avez-vous" },
-    { "fr": "savoir", "it": "sapere", "pos": "v", "note": "vous savez" },
-    { "fr": "penser", "it": "pensare", "pos": "v", "note": "je pense" },
-    { "fr": "midi (m.)", "it": "mezzogiorno", "pos": "n" },
-    { "fr": "le rendez-vous", "it": "l'appuntamento", "pos": "n", "note": "avoir rendez-vous" },
-    { "fr": "la femme", "it": "la moglie, la donna", "pos": "n" },
-    { "fr": "la fille", "it": "la figlia, la ragazza", "pos": "n" },
-    { "fr": "toujours", "it": "sempre", "pos": "adv" },
-    { "fr": "le retard", "it": "il ritardo", "pos": "n", "note": "être en retard" },
-    { "fr": "la minute", "it": "il minuto", "pos": "n" },
-    { "fr": "dix", "it": "dieci", "pos": "num" },
-    { "fr": "comment", "it": "come", "pos": "adv" },
-    { "fr": "parce que", "it": "perché", "pos": "conj" },
-    { "fr": "troisième", "it": "terzo", "pos": "num" },
-    { "fr": "quatrième", "it": "quarto", "pos": "num" },
-    { "fr": "la leçon", "it": "la lezione", "pos": "n" },
-    { "fr": "là", "it": "lì, là", "pos": "adv" }
+    {
+      "fr": "l'heure (f.)",
+      "it": "l'ora",
+      "pos": "n"
+    },
+    {
+      "fr": "pardon",
+      "it": "scusi, mi scusi",
+      "pos": "interj"
+    },
+    {
+      "fr": "la montre",
+      "it": "l'orologio (da polso)",
+      "pos": "n"
+    },
+    {
+      "fr": "avoir",
+      "it": "avere",
+      "pos": "v",
+      "note": "j'ai, avez-vous"
+    },
+    {
+      "fr": "savoir",
+      "it": "sapere",
+      "pos": "v",
+      "note": "vous savez"
+    },
+    {
+      "fr": "penser",
+      "it": "pensare",
+      "pos": "v",
+      "note": "je pense"
+    },
+    {
+      "fr": "midi (m.)",
+      "it": "mezzogiorno",
+      "pos": "n"
+    },
+    {
+      "fr": "le rendez-vous",
+      "it": "l'appuntamento",
+      "pos": "n",
+      "note": "avoir rendez-vous"
+    },
+    {
+      "fr": "la femme",
+      "it": "la moglie, la donna",
+      "pos": "n"
+    },
+    {
+      "fr": "toujours",
+      "it": "sempre",
+      "pos": "adv"
+    },
+    {
+      "fr": "le retard",
+      "it": "il ritardo",
+      "pos": "n",
+      "note": "être en retard"
+    },
+    {
+      "fr": "la minute",
+      "it": "il minuto",
+      "pos": "n"
+    },
+    {
+      "fr": "dix",
+      "it": "dieci",
+      "pos": "num"
+    },
+    {
+      "fr": "parce que",
+      "it": "perché",
+      "pos": "conj"
+    },
+    {
+      "fr": "troisième",
+      "it": "terzo",
+      "pos": "num"
+    },
+    {
+      "fr": "quatrième",
+      "it": "quarto",
+      "pos": "num"
+    },
+    {
+      "fr": "la leçon",
+      "it": "la lezione",
+      "pos": "n"
+    },
+    {
+      "fr": "là",
+      "it": "lì, là",
+      "pos": "adv"
+    }
   ],
   "expressions": [
-    { "fr": "Pardon !", "it": "Scusi!", "note": "per attirare l'attenzione di uno sconosciuto prima di chiedere qualcosa" },
-    { "fr": "Avez-vous l'heure ?", "it": "Mi sa dire l'ora?", "note": "forma cortese per chiedere l'ora a qualcuno che non si conosce" },
-    { "fr": "Est-ce que ... ?", "it": "(domanda introdotta da «è che»)", "note": "si premette a una frase affermativa per farne una domanda" },
-    { "fr": "Je pense que", "it": "Penso che", "note": "per esprimere un'opinione o una supposizione, seguito da una frase" },
-    { "fr": "avoir rendez-vous avec", "it": "avere un appuntamento con", "note": "si usa per persone e anche per mezzi di trasporto" },
-    { "fr": "être en retard", "it": "essere in ritardo", "note": "in ritardo di X minuti si dice dix minutes de retard o en retard de dix minutes" }
+    {
+      "fr": "Pardon !",
+      "it": "Scusi!",
+      "note": "per attirare l'attenzione di uno sconosciuto prima di chiedere qualcosa"
+    },
+    {
+      "fr": "Avez-vous l'heure ?",
+      "it": "Mi sa dire l'ora?",
+      "note": "forma cortese per chiedere l'ora a qualcuno che non si conosce"
+    },
+    {
+      "fr": "Est-ce que ... ?",
+      "it": "(domanda introdotta da «è che»)",
+      "note": "si premette a una frase affermativa per farne una domanda"
+    },
+    {
+      "fr": "Je pense que",
+      "it": "Penso che",
+      "note": "per esprimere un'opinione o una supposizione, seguito da una frase"
+    },
+    {
+      "fr": "avoir rendez-vous avec",
+      "it": "avere un appuntamento con",
+      "note": "si usa per un appuntamento con una persona (medico, amico, collega)"
+    },
+    {
+      "fr": "être en retard",
+      "it": "essere in ritardo",
+      "note": "in ritardo di X minuti si dice dix minutes de retard o en retard de dix minutes"
+    }
   ],
   "notes_it": [
-    "Pronuncia: la -z di avez e savez, come la -s finale, è di solito muta. La x di dix si pronuncia [s] quando la parola chiude la frase, ma è muta davanti a un'altra parola (dix minutes si dice quasi [dee meenewt]).",
-    "Falso amico e doppio senso: midi significa «mezzogiorno», ma le Midi con l'articolo maiuscolo indica il Sud della Francia. Anche una delle stazioni di Bruxelles si chiama Bruxelles-Midi, perché si trova nel sud della città.",
+    "Pronuncia: la -z di avez e savez, come la -s finale, è di solito muta. La x di dix si pronuncia [s] quando la parola chiude la frase, mentre davanti a consonante è muta: dix minutes si dice [di minut].",
+    "Falso amico e doppio senso: midi significa «mezzogiorno», ma le Midi con l'articolo e la maiuscola indica il Sud della Francia. Anche una delle stazioni di Bruxelles si chiama Bruxelles-Midi, perché si trova nel sud della città.",
     "Cultura: la Francia è il paese più grande dell'Europa occidentale, con paesaggi molto vari, dalle coste di granito della Bretagna agli uliveti del Sud, dove si trova la regione del Midi.",
     "Il genere dei sostantivi va imparato insieme all'articolo. Davanti a vocale o h muta l'articolo appare come l', e non si capisce il genere guardandolo: bisogna memorizzare la parola con il suo articolo. L'heure è femminile, come «l'ora» in italiano, ma molte parole non coincidono con il genere italiano."
   ],
   "exercises": [
     {
-      "id": "L004-e01", "type": "mcq", "level": 1, "concept": "articles-definite",
+      "id": "L004-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "articles-definite",
       "prompt": "Quale forma è corretta per «l'ora» (femminile)?",
-      "options": ["l'heure", "le heure", "la heure", "un heure"],
+      "options": [
+        "l'heure",
+        "le heure",
+        "la heure",
+        "un heure"
+      ],
       "correct": 0,
       "explain_it": "Davanti a una h muta l'articolo si elide in l': heure è femminile, quindi si dice l'heure."
     },
     {
-      "id": "L004-e02", "type": "mcq", "level": 1, "concept": "questions",
+      "id": "L004-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "questions",
       "prompt": "Quale frase è una domanda con est-ce que?",
-      "options": ["Est-ce que vous êtes breton ?", "Vous est-ce que êtes breton ?", "Est que vous êtes breton ?", "Est-ce vous êtes breton ?"],
+      "options": [
+        "Est-ce que vous êtes breton ?",
+        "Vous est-ce que êtes breton ?",
+        "Est que vous êtes breton ?",
+        "Est-ce vous êtes breton ?"
+      ],
       "correct": 0,
       "explain_it": "Con est-ce que si premette la frase affermativa senza invertire il soggetto e il verbo: Est-ce que vous êtes breton ?"
     },
     {
-      "id": "L004-e03", "type": "mcq", "level": 1, "concept": "negation",
+      "id": "L004-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "negation",
       "prompt": "Completa: Je ___ai pas de montre.",
-      "options": ["n'", "ne", "pas", "non"],
+      "options": [
+        "n'",
+        "ne",
+        "pas",
+        "non"
+      ],
       "correct": 0,
       "explain_it": "Davanti a vocale ne si elide in n': n'ai, e pas va dopo il verbo."
     },
     {
-      "id": "L004-e04", "type": "mcq", "level": 1, "concept": "time-date",
+      "id": "L004-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "time-date",
       "prompt": "Come si dice «Sono le dieci» in francese?",
-      "options": ["Il est dix heures.", "Elle est dix heures.", "Ils sont dix heures.", "Je suis dix heures."],
+      "options": [
+        "Il est dix heures.",
+        "Elle est dix heures.",
+        "Ils sont dix heures.",
+        "Je suis dix heures."
+      ],
       "correct": 0,
       "explain_it": "Per l'ora si usa sempre il est: il francese non usa elle o ils per indicare l'ora."
     },
     {
-      "id": "L004-e05", "type": "mcq", "level": 1, "concept": "pronoun-cod",
+      "id": "L004-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronoun-cod",
       "prompt": "Come si dice «Lo so» (lo = questo fatto) in francese?",
-      "options": ["Je le sais.", "Je la sais.", "Je lui sais.", "Je les sais."],
+      "options": [
+        "Je le sais.",
+        "Je la sais.",
+        "Je lui sais.",
+        "Je les sais."
+      ],
       "correct": 0,
       "explain_it": "Il pronome le sostituisce un'informazione già nota e va prima del verbo: Je le sais."
     },
     {
-      "id": "L004-e06", "type": "mcq", "level": 1, "concept": "avoir",
+      "id": "L004-e06",
+      "type": "mcq",
+      "level": 1,
+      "concept": "avoir",
       "prompt": "Quale forma di avoir si usa con je?",
-      "options": ["ai", "avez", "a", "avons"],
+      "options": [
+        "ai",
+        "avez",
+        "a",
+        "avons"
+      ],
       "correct": 0,
       "explain_it": "Con je la forma di avoir è ai; davanti a vocale diventa j'ai. Avez è per vous."
     },
     {
-      "id": "L004-e07", "type": "order", "level": 1, "concept": "negation",
+      "id": "L004-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "negation",
       "prompt": "Io non ho l'ora.",
-      "answers": ["Je n'ai pas l'heure"],
-      "distractors": ["ne", "avez"],
+      "answers": [
+        "Je n'ai pas l'heure"
+      ],
+      "distractors": [
+        "ne",
+        "avez"
+      ],
       "explain_it": "La negazione si costruisce con n' prima del verbo e pas dopo il verbo."
     },
     {
-      "id": "L004-e08", "type": "order", "level": 1, "concept": "questions",
+      "id": "L004-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "questions",
       "prompt": "Loïc è lì?",
-      "answers": ["Est-ce que Loïc est là"],
-      "distractors": ["vous", "êtes"],
+      "answers": [
+        "[Est-ce que |]Loïc est là"
+      ],
+      "distractors": [
+        "vous",
+        "êtes"
+      ],
       "explain_it": "Con est-ce que la frase resta nell'ordine normale: soggetto, verbo, complemento."
     },
     {
-      "id": "L004-e09", "type": "order", "level": 1, "concept": "time-date",
+      "id": "L004-e09",
+      "type": "order",
+      "level": 1,
+      "concept": "time-date",
       "prompt": "Sono le dodici.",
-      "answers": ["Il est midi"],
-      "distractors": ["elle", "sont"],
+      "answers": [
+        "Il est midi",
+        "Il est douze heures"
+      ],
+      "distractors": [
+        "elle",
+        "sont"
+      ],
       "explain_it": "Per l'ora si usa il est, e midi indica il mezzogiorno."
     },
     {
-      "id": "L004-e10", "type": "cloze", "level": 1, "concept": "avoir",
+      "id": "L004-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "avoir",
       "text": "Je n'___ pas l'heure.",
-      "answers": ["ai"],
+      "answers": [
+        "ai"
+      ],
       "hint": "(avoir, presente)",
       "prompt": "Non ho l'ora.",
       "explain_it": "Con je la forma di avoir è ai, quindi n'ai pas."
     },
     {
-      "id": "L004-e11", "type": "cloze", "level": 1, "concept": "articles-definite",
+      "id": "L004-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "articles-definite",
       "text": "___ fille est là.",
-      "answers": ["La"],
+      "answers": [
+        "La"
+      ],
       "hint": "(femminile)",
       "prompt": "La figlia è lì.",
       "explain_it": "Fille è femminile e inizia con consonante, quindi l'articolo è la."
     },
     {
-      "id": "L004-e12", "type": "cloze", "level": 1, "concept": "time-date",
+      "id": "L004-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "time-date",
       "text": "___ est midi.",
-      "answers": ["Il"],
+      "answers": [
+        "Il"
+      ],
       "hint": "(pronome per l'ora)",
       "prompt": "È mezzogiorno.",
       "explain_it": "Per indicare l'ora in francese si usa il come soggetto, anche se in italiano non c'è un soggetto espresso."
     },
     {
-      "id": "L004-e13", "type": "cloze", "level": 1, "concept": "questions",
+      "id": "L004-e13",
+      "type": "cloze",
+      "level": 1,
+      "concept": "questions",
       "text": "___ que vous êtes parisienne ?",
-      "answers": ["Est-ce"],
+      "answers": [
+        "Est-ce"
+      ],
       "hint": "(domanda con est-ce que)",
       "prompt": "Lei è parigina?",
       "explain_it": "Est-ce que apre la domanda, poi segue la frase affermativa: Est-ce que vous êtes parisienne ?"
     },
     {
-      "id": "L004-e14", "type": "write", "level": 2, "concept": "articles-definite",
+      "id": "L004-e14",
+      "type": "write",
+      "level": 2,
+      "concept": "articles-definite",
       "prompt": "La figlia è di Nîmes.",
-      "answers": ["La fille est de Nîmes."],
+      "answers": [
+        "La fille est de Nîmes."
+      ],
       "ask": "Traduci in francese",
       "explain_it": "Fille è femminile e l'articolo è la; con de si indica la provenienza."
     },
     {
-      "id": "L004-e15", "type": "write", "level": 2, "concept": "negation",
+      "id": "L004-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "negation",
       "prompt": "Non ho l'orologio.",
-      "answers": ["Je n'ai pas de montre.", "Je n'ai pas la montre."],
+      "answers": [
+        "Je n'ai pas de montre.",
+        "Je n'ai pas la montre."
+      ],
       "ask": "Traduci in francese",
       "explain_it": "Con avoir alla negazione si usa de con il nome generico (de montre); con la montre si parla di un orologio preciso."
     },
     {
-      "id": "L004-e16", "type": "write", "level": 2, "concept": "avoir",
+      "id": "L004-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "avoir",
       "prompt": "Ho un appuntamento.",
-      "answers": ["J'ai rendez-vous.", "J'ai un rendez-vous."],
+      "answers": [
+        "J'ai rendez-vous.",
+        "J'ai un rendez-vous."
+      ],
       "ask": "Traduci in francese",
       "explain_it": "Avoir rendez-vous è un'espressione fissa: si può mettere o no l'articolo un davanti a rendez-vous."
     },
     {
-      "id": "L004-e17", "type": "write", "level": 2, "concept": "questions",
+      "id": "L004-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "questions",
       "prompt": "Lei ha l'ora?",
-      "answers": ["Avez-vous l'heure ?", "Est-ce que vous avez l'heure ?"],
+      "answers": [
+        "[Avez-vous|Est-ce que vous avez|Vous avez] l'heure ?"
+      ],
       "ask": "Traduci in francese (forma di cortesia)",
       "explain_it": "Per la forma di cortesia si usa vous; la domanda si può fare con l'inversione o con est-ce que."
     },
     {
-      "id": "L004-e18", "type": "write", "level": 2, "concept": "time-date",
+      "id": "L004-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "time-date",
       "prompt": "Sono le dieci.",
-      "answers": ["Il est dix heures."],
+      "answers": [
+        "Il est dix heures."
+      ],
       "ask": "Traduci in francese",
       "explain_it": "Per l'ora si usa il est, seguito dal numero e da heures."
     },
     {
-      "id": "L004-e19", "type": "write", "level": 2, "concept": "pronoun-cod",
+      "id": "L004-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-cod",
       "prompt": "Lei lo sa? (a un uomo)",
-      "answers": ["Le savez-vous ?", "Vous le savez ?"],
+      "answers": [
+        "Le savez-vous ?",
+        "Vous le savez ?",
+        "Est-ce que vous le savez ?"
+      ],
       "ask": "Traduci in francese (forma di cortesia)",
       "explain_it": "Il pronome le va prima del verbo: nella domanda con inversione si scrive Le savez-vous."
     },
     {
-      "id": "L004-e20", "type": "write", "level": 2, "concept": "negation",
+      "id": "L004-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "negation",
       "prompt": "Non lo so.",
-      "answers": ["Je ne le sais pas."],
+      "answers": [
+        "Je ne le sais pas."
+      ],
       "ask": "Traduci in francese",
       "explain_it": "Nella negazione il pronome le si mette tra ne e il verbo: ne le sais pas."
     },
     {
-      "id": "L004-e21", "type": "write", "level": 2, "concept": "negation",
+      "id": "L004-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "negation",
       "prompt": "Non sono in ritardo.",
-      "answers": ["Je ne suis pas en retard."],
+      "answers": [
+        "Je ne suis pas en retard."
+      ],
       "ask": "Traduci in francese",
       "explain_it": "Con être la negazione è ne suis pas: ne prima del verbo, pas dopo."
     },
     {
-      "id": "L004-e22", "type": "write", "level": 2, "concept": "time-date",
+      "id": "L004-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "time-date",
       "prompt": "Ho un appuntamento a mezzogiorno.",
-      "answers": ["J'ai rendez-vous à midi.", "J'ai un rendez-vous à midi."],
+      "answers": [
+        "J'ai rendez-vous à midi.",
+        "J'ai un rendez-vous à midi."
+      ],
       "ask": "Traduci in francese",
       "explain_it": "Per indicare il momento si usa à con midi, senza articolo."
     },
     {
-      "id": "L004-e23", "type": "write", "level": 2, "concept": "present-er",
+      "id": "L004-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "present-er",
       "prompt": "Penso che siano le dieci.",
-      "answers": ["Je pense qu'il est dix heures."],
+      "answers": [
+        "Je pense qu'il est dix heures."
+      ],
       "ask": "Traduci in francese",
       "explain_it": "Penser è un verbo in -er regolare: je pense. Dopo la frase con que si usa di nuovo il est per l'ora."
     },
     {
-      "id": "L004-e24", "type": "write", "level": 2, "concept": "avoir",
+      "id": "L004-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "avoir",
       "prompt": "Ho dieci minuti di ritardo.",
-      "answers": ["J'ai dix minutes de retard."],
+      "answers": [
+        "J'ai dix minutes de retard.",
+        "Je suis en retard de dix minutes."
+      ],
       "ask": "Traduci in francese",
-      "explain_it": "Con avoir si esprime il ritardo con de retard: avoir dix minutes de retard."
+      "explain_it": "Il ritardo si esprime con avoir ... de retard oppure con être en retard de + durata."
     },
     {
-      "id": "L004-e25", "type": "write", "level": 2, "concept": "articles-definite",
+      "id": "L004-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "articles-definite",
       "prompt": "La moglie è sempre in ritardo.",
-      "answers": ["La femme est toujours en retard."],
+      "answers": [
+        "La femme est toujours en retard."
+      ],
       "ask": "Traduci in francese",
       "explain_it": "Femme è femminile, quindi l'articolo è la; toujours va dopo il verbo essere."
     },
     {
-      "id": "L004-e26", "type": "cloze", "level": 2, "concept": "avoir",
+      "id": "L004-e26",
+      "type": "cloze",
+      "level": 2,
+      "concept": "avoir",
       "text": "Vous ___ rendez-vous avec Loïc ?",
-      "answers": ["avez"],
+      "answers": [
+        "avez"
+      ],
       "hint": "(avoir, presente)",
       "prompt": "Lei ha un appuntamento con Loïc?",
       "explain_it": "Con vous la forma di avoir è avez."
     },
     {
-      "id": "L004-e27", "type": "cloze", "level": 2, "concept": "pronoun-cod",
+      "id": "L004-e27",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-cod",
       "text": "Je ___ sais, merci.",
-      "answers": ["le"],
+      "answers": [
+        "le"
+      ],
       "hint": "(pronome, lo)",
       "prompt": "Lo so, grazie.",
       "explain_it": "Il pronome le si mette prima del verbo sais."
     },
     {
-      "id": "L004-e28", "type": "cloze", "level": 2, "concept": "questions",
+      "id": "L004-e28",
+      "type": "cloze",
+      "level": 2,
+      "concept": "questions",
       "text": "___ vous êtes bretonne ?",
-      "answers": ["Est-ce que"],
+      "answers": [
+        "Est-ce que"
+      ],
       "hint": "(domanda con est-ce que)",
-      "prompt": "È bretona? (a una donna)",
+      "prompt": "È bretone? (a una donna)",
       "explain_it": "Con est-ce que la domanda resta nell'ordine normale della frase affermativa."
     },
     {
-      "id": "L004-e29", "type": "cloze", "level": 2, "concept": "negation",
+      "id": "L004-e29",
+      "type": "cloze",
+      "level": 2,
+      "concept": "negation",
       "text": "Je ne suis ___ en retard.",
-      "answers": ["pas"],
+      "answers": [
+        "pas"
+      ],
       "hint": "(negazione)",
       "prompt": "Non sono in ritardo.",
       "explain_it": "Pas completa la negazione e va dopo il verbo."
     },
     {
-      "id": "L004-e30", "type": "cloze", "level": 2, "concept": "time-date",
+      "id": "L004-e30",
+      "type": "cloze",
+      "level": 2,
+      "concept": "time-date",
       "text": "Il est dix ___.",
-      "answers": ["heures"],
+      "answers": [
+        "heures"
+      ],
       "hint": "(heure, plurale)",
       "prompt": "Sono le dieci.",
       "explain_it": "Per l'ora in forma plurale si dice heures: dix heures."
     },
     {
-      "id": "L004-e31", "type": "cloze", "level": 2, "concept": "articles-definite",
+      "id": "L004-e31",
+      "type": "cloze",
+      "level": 2,
+      "concept": "articles-definite",
       "text": "___ femme est là.",
-      "answers": ["La"],
+      "answers": [
+        "La"
+      ],
       "hint": "(femminile)",
       "prompt": "La moglie è lì.",
       "explain_it": "Femme è femminile, quindi l'articolo è la."
     },
     {
-      "id": "L004-e32", "type": "dictation", "level": 2, "concept": "negation",
+      "id": "L004-e32",
+      "type": "dictation",
+      "level": 2,
+      "concept": "negation",
       "text": "Pardon, je suis en retard.",
       "explain_it": "Ascolta la frase e scrivi ogni parola: attenzione alla s di suis, che è muta."
     },
     {
-      "id": "L004-e33", "type": "dictation", "level": 2, "concept": "questions",
+      "id": "L004-e33",
+      "type": "dictation",
+      "level": 2,
+      "concept": "questions",
       "text": "Ma fille est toujours en retard.",
-      "explain_it": "Ascolta la frase e scrivi ogni parola con l'accento corretto."
+      "explain_it": "Ascolta e scrivi ogni parola: la -s di toujours è muta, ma si scrive."
     },
     {
-      "id": "L004-e34", "type": "flash", "level": 2, "concept": "articles-definite",
+      "id": "L004-e34",
+      "type": "flash",
+      "level": 2,
+      "concept": "articles-definite",
       "front": "Quando si usa l' al posto di le o la?",
       "back": "Davanti a vocale o h muta: l'heure, l'ami (m.). Il genere della parola non cambia.",
       "note": "L'articolo si elide, ma il genere della parola resta quello che è: l'heure è femminile.",
       "explain_it": "Il francese elide l'articolo per ragioni di pronuncia, non di genere."
     },
     {
-      "id": "L004-e35", "type": "flash", "level": 2, "concept": "questions",
+      "id": "L004-e35",
+      "type": "flash",
+      "level": 2,
+      "concept": "questions",
       "front": "Tre modi per fare una domanda con vous",
       "back": "Avez-vous ? (inversione) · Est-ce que vous avez ? (est-ce que) · Vous avez ? (solo intonazione)",
       "note": "L'inversione è la più formale; l'intonazione è la più semplice e colloquiale.",
       "explain_it": "Tutte e tre le forme sono corrette; cambia solo il registro."
     },
     {
-      "id": "L004-e36", "type": "flash", "level": 2, "concept": "negation",
+      "id": "L004-e36",
+      "type": "flash",
+      "level": 2,
+      "concept": "negation",
       "front": "Come si costruisce una frase negativa con avoir?",
       "back": "ne (n' davanti a vocale) prima del verbo, pas dopo: je n'ai pas",
-      "note": "Con avoir l'articolo dopo la negazione diventa de: je n'ai pas de montre.",
+      "note": "Dopo la negazione un/une/des diventano de: je n'ai pas de montre. L'articolo determinativo non cambia: je n'ai pas l'heure.",
       "explain_it": "La coppia ne ... pas circonda il verbo: è una regola da ricordare sempre insieme."
     },
     {
-      "id": "L004-e37", "type": "flash", "level": 2, "concept": "time-date",
+      "id": "L004-e37",
+      "type": "flash",
+      "level": 2,
+      "concept": "time-date",
       "front": "Come si dice l'ora in francese?",
       "back": "il est + ora: il est midi, il est dix heures",
       "note": "Si usa sempre il come soggetto, anche se in italiano il soggetto non c'è.",
       "explain_it": "È la struttura base per ogni indicazione dell'ora."
     },
     {
-      "id": "L004-e38", "type": "write", "level": 3, "concept": "questions",
+      "id": "L004-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "questions",
       "prompt": "Scusi, ha l'ora? Penso che sia mezzogiorno.",
-      "answers": ["Pardon, avez-vous l'heure ? Je pense qu'il est midi.", "Pardon, est-ce que vous avez l'heure ? Je pense qu'il est midi."],
+      "answers": [
+        "Pardon, [avez-vous|est-ce que vous avez|vous avez] l'heure ? Je pense qu'il est midi."
+      ],
       "ask": "Traduci in francese (forma di cortesia)",
       "explain_it": "Combina la domanda di cortesia con la struttura per dire l'ora dopo je pense que."
     },
     {
-      "id": "L004-e39", "type": "write", "level": 3, "concept": "negation",
+      "id": "L004-e39",
+      "type": "write",
+      "level": 3,
+      "concept": "negation",
       "prompt": "Io non ho l'orologio e non sono in ritardo.",
-      "answers": ["Je n'ai pas de montre et je ne suis pas en retard.", "Je n'ai pas de montre. Je ne suis pas en retard."],
+      "answers": [
+        "Je n'ai pas [de|la] montre[,| et] je ne suis pas en retard."
+      ],
       "ask": "Traduci in francese",
       "explain_it": "Ogni frase negativa ha la sua coppia ne ... pas: una con avoir e una con être."
     },
     {
-      "id": "L004-e40", "type": "write", "level": 3, "concept": "pronoun-cod",
+      "id": "L004-e40",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-cod",
       "prompt": "Lo sa, signore?",
-      "answers": ["Le savez-vous, monsieur ?", "Vous le savez, monsieur ?"],
+      "answers": [
+        "Le savez-vous, monsieur ?",
+        "Vous le savez, monsieur ?"
+      ],
       "ask": "Traduci in francese (forma di cortesia)",
       "explain_it": "Il pronome le si usa con savoir e si mette prima del verbo, nella forma di cortesia con monsieur."
     },
     {
-      "id": "L004-e41", "type": "write", "level": 3, "concept": "time-date",
+      "id": "L004-e41",
+      "type": "write",
+      "level": 3,
+      "concept": "time-date",
       "prompt": "Sono le dieci e mia moglie è sempre in ritardo di dieci minuti.",
-      "answers": ["Il est dix heures et ma femme est toujours en retard de dix minutes."],
+      "answers": [
+        "Il est dix heures et ma femme est toujours en retard de dix minutes.",
+        "Il est dix heures et ma femme a toujours dix minutes de retard."
+      ],
       "ask": "Traduci in francese",
       "explain_it": "Si combina l'ora (il est) con l'espressione en retard de per indicare quanto si è in ritardo."
     },
     {
-      "id": "L004-e42", "type": "write", "level": 3, "concept": "avoir",
+      "id": "L004-e42",
+      "type": "write",
+      "level": 3,
+      "concept": "avoir",
       "prompt": "Non ho l'orologio, ma ho un appuntamento a mezzogiorno con mia moglie.",
-      "answers": ["Je n'ai pas de montre, mais j'ai rendez-vous à midi avec ma femme.", "Je n'ai pas la montre, mais j'ai rendez-vous à midi avec ma femme."],
+      "answers": [
+        "Je n'ai pas [de|la] montre, mais j'ai [un |]rendez-vous à midi avec ma femme."
+      ],
       "ask": "Traduci in francese",
       "explain_it": "Con avoir si usano la negazione e l'espressione avoir rendez-vous insieme, con à midi per l'ora."
     },
     {
-      "id": "L004-e43", "type": "write", "level": 3, "concept": "questions",
-      "prompt": "Lei è parigina. Faccia una domanda con est-ce que (a una donna).",
-      "answers": ["Est-ce que vous êtes parisienne ?"],
-      "ask": "Volgi in domanda con est-ce que",
+      "id": "L004-e43",
+      "type": "write",
+      "level": 3,
+      "concept": "questions",
+      "prompt": "Vous êtes parisienne.",
+      "answers": [
+        "Est-ce que vous êtes parisienne ?"
+      ],
+      "ask": "Trasforma in domanda con est-ce que",
       "explain_it": "Con est-ce que si mette la frase affermativa dopo la particella, e parisienne è al femminile."
     },
     {
-      "id": "L004-e44", "type": "write", "level": 3, "concept": "negation",
-      "prompt": "È mezzogiorno.",
-      "answers": ["Il n'est pas midi."],
+      "id": "L004-e44",
+      "type": "write",
+      "level": 3,
+      "concept": "negation",
+      "prompt": "Il est midi.",
+      "answers": [
+        "Il n'est pas midi."
+      ],
       "ask": "Volgi alla forma negativa",
       "explain_it": "La negazione di Il est midi si costruisce con n'est pas: ne prima di est e pas dopo."
     },
     {
-      "id": "L004-e45", "type": "write", "level": 3, "concept": "negation",
+      "id": "L004-e45",
+      "type": "write",
+      "level": 3,
+      "concept": "negation",
       "prompt": "Io non sono in ritardo, ma mia moglie è sempre in ritardo.",
-      "answers": ["Je ne suis pas en retard, mais ma femme est toujours en retard."],
+      "answers": [
+        "Je ne suis pas en retard, mais ma femme est toujours en retard."
+      ],
       "ask": "Traduci in francese",
       "explain_it": "Mais unisce le due frasi; la negazione compare solo nella prima frase, la seconda è affermativa."
     },
     {
-      "id": "L004-e46", "type": "dictation", "level": 3, "concept": "negation",
+      "id": "L004-e46",
+      "type": "dictation",
+      "level": 3,
+      "concept": "negation",
       "text": "Mon ami est toujours en retard, et je n'ai pas de montre.",
       "explain_it": "Ascolta con attenzione la negazione e il genere di ami, maschile."
     }

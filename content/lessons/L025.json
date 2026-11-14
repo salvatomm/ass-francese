@@ -1,0 +1,731 @@
+{
+  "n": 25,
+  "title_fr": "Déjeunons ensemble",
+  "title_it": "Pranziamo insieme",
+  "review": false,
+  "status": "verified",
+  "source": "c15d4fa8 p17-22 (libro p.99-105)",
+  "theme_it": "A mezzogiorno due persone decidono di pranzare insieme nel quartiere. Una conosce i ristoranti della zona e propone una pizzeria, una crêperie o una brasserie: la crêperie sarebbe la scelta preferita, ma è chiusa il lunedì, quindi si ripiega sulla brasserie, più vicina. Una delle due ha un appuntamento alle due, perciò bisogna fare in fretta.",
+  "grammar": [
+    {
+      "id": "imperative",
+      "title_it": "L'imperativo con nous e vous (Déjeunons, faisons vite)",
+      "explain_it": "Per dire «andiamo», «facciamo» o «pranziamo insieme» si usa l'imperativo alla prima persona plurale, cioè la forma nous senza il pronome. Per i verbi in -er si prende il presente e si toglie il soggetto: nous déjeunons diventa Déjeunons. Il -s finale non si pronuncia. Con i verbi del tipo faire, nous faisons diventa Faisons. L'imperativo di vous si ottiene allo stesso modo: vous tournez diventa Tournez. In italiano è l'equivalente di «mangiamo!», «andiamo!», «girate!». Attenzione: nous mangeons (noi mangiamo) è un indicativo, non un imperativo: la differenza sta nel contesto e nell'intonazione.",
+      "examples": [
+        {
+          "fr": "Déjeunons ensemble !",
+          "it": "Pranziamo insieme!"
+        },
+        {
+          "fr": "Faisons vite, nous sommes en retard.",
+          "it": "Facciamo in fretta, siamo in ritardo."
+        },
+        {
+          "fr": "Tournez à droite, puis allez tout droit.",
+          "it": "Girate a destra, poi andate dritto."
+        }
+      ]
+    },
+    {
+      "id": "passe-recent",
+      "title_it": "Venir de + infinito: il passato prossimo immediato",
+      "explain_it": "Per dire che un'azione è appena avvenuta si usa venir (al presente) + de + infinito: je viens de manger = ho appena mangiato. Corrisponde all'italiano «appena» + passato prossimo. Non va confuso con je viens manger (vengo a mangiare), dove manca il de e il senso è di movimento o intenzione. Davanti a un infinito che inizia per vocale il de si elide: elle vient d'arriver.",
+      "examples": [
+        {
+          "fr": "Je viens d'arriver.",
+          "it": "Sono appena arrivato."
+        },
+        {
+          "fr": "Elle vient de finir son travail.",
+          "it": "Lei ha appena finito il lavoro."
+        },
+        {
+          "fr": "Nous venons de manger.",
+          "it": "Abbiamo appena mangiato."
+        }
+      ]
+    },
+    {
+      "id": "interrogatives",
+      "title_it": "Lequel, laquelle, lesquels, lesquelles: quale, quali",
+      "explain_it": "Quando si deve scegliere tra più cose già nominate, si usa il pronome interrogativo formato da le/la/les e quel: lequel (masch. sing.), laquelle (femm. sing.), lesquels (masch. plur.), lesquelles (femm. plur.). Concorda con il nome a cui si riferisce, come l'italiano «quale/quali». Non va confuso con quel, quelle, quels, quelles, che è un aggettivo e vuole sempre un nome subito dopo (quel restaurant?).",
+      "examples": [
+        {
+          "fr": "Lequel de ces menus préfères-tu ?",
+          "it": "Quale di questi menu preferisci?"
+        },
+        {
+          "fr": "Laquelle est fermée le lundi ?",
+          "it": "Quale (femminile) è chiusa il lunedì?"
+        },
+        {
+          "fr": "Lesquels aimez-vous ?",
+          "it": "Quali (maschili) vi piacciono?"
+        }
+      ]
+    },
+    {
+      "id": "adjective-agreement",
+      "title_it": "Droit, droite e tout droit (dritto, a destra)",
+      "explain_it": "L'aggettivo droit ha due sensi: «destro» (contrario di gauche) e «dritto», cioè senza curve (una strada diritta). Come aggettivo concorda: droit (masch.), droite (femm.), come in «la mano destra» o in «une route droite». Nelle indicazioni stradali si usa invece l'avverbio tout droit, sempre invariabile: Allez tout droit = andate dritto. Con à si dice à droite (a destra) e à gauche (a sinistra), sempre senza concordanza: non va detto «à droit».",
+      "examples": [
+        {
+          "fr": "Allez tout droit jusqu'à la gare.",
+          "it": "Andate dritto fino alla stazione."
+        },
+        {
+          "fr": "Tournez à droite au feu.",
+          "it": "Girate a destra al semaforo."
+        },
+        {
+          "fr": "C'est une rue droite.",
+          "it": "È una strada diritta."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Espressioni idiomatiche: Ça m'est égal, Ça vous dit ?",
+      "explain_it": "Alcune frasi non si possono capire dalla traduzione letterale. Ça m'est égal (letteralmente «mi è indifferente») significa «per me è uguale»: si usa per dire che non si ha preferenza. Ça vous dit ? (letteralmente «questo vi dice?») si usa per proporre qualcosa: «vi va?». Nell'uso informale si può usare Ça te dit ? con il tu. Sono espressioni da memorizzare intere, come Ça vous dit une glace ?.",
+      "examples": [
+        {
+          "fr": "Le restaurant ou le café, ça m'est égal.",
+          "it": "Il ristorante o il bar, per me è uguale."
+        },
+        {
+          "fr": "Ça vous dit un café ?",
+          "it": "Vi va un caffè?"
+        }
+      ]
+    },
+    {
+      "id": "false-friends",
+      "title_it": "Falsi amici: quartier, quart e accompagner",
+      "explain_it": "Quartier è «quartiere» (zona di una città): non va confuso con quart, che è «quarto», come in un quart d'heure (un quarto d'ora). Accompagner corrisponde all'italiano accompagnare, ma nel parlato Je vous accompagne vuol dire semplicemente «vengo con voi». Attenzione anche a déjeuner, che è «pranzare» e non «fare colazione» (la colazione è il petit déjeuner).",
+      "examples": [
+        {
+          "fr": "J'habite dans un quartier calme.",
+          "it": "Abito in un quartiere tranquillo."
+        },
+        {
+          "fr": "Je t'accompagne au restaurant.",
+          "it": "Ti accompagno al ristorante (vengo con te)."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "déjeuner",
+      "it": "pranzare",
+      "pos": "v",
+      "note": "déjeunons = pranziamo"
+    },
+    {
+      "fr": "avoir faim",
+      "it": "avere fame",
+      "pos": "expr"
+    },
+    {
+      "fr": "un peu",
+      "it": "un po'",
+      "pos": "adv"
+    },
+    {
+      "fr": "accompagner",
+      "it": "accompagnare (anche: venire con qualcuno)",
+      "pos": "v",
+      "note": "j'accompagne"
+    },
+    {
+      "fr": "le quartier ",
+      "it": "il quartiere",
+      "pos": "n"
+    },
+    {
+      "fr": "le restaurant ",
+      "it": "il ristorante",
+      "pos": "n"
+    },
+    {
+      "fr": "la pizzeria ",
+      "it": "la pizzeria",
+      "pos": "n"
+    },
+    {
+      "fr": "la crêperie ",
+      "it": "la crêperia",
+      "pos": "n"
+    },
+    {
+      "fr": "la brasserie ",
+      "it": "la brasserie (ristorante aperto tutto il giorno)",
+      "pos": "n"
+    },
+    {
+      "fr": "excellent, excellente",
+      "it": "eccellente",
+      "pos": "adj"
+    },
+    {
+      "fr": "cher, chère",
+      "it": "caro",
+      "pos": "adj",
+      "note": "pas cher = economico"
+    },
+    {
+      "fr": "loin",
+      "it": "lontano",
+      "pos": "adv"
+    },
+    {
+      "fr": "pressé, pressée",
+      "it": "di fretta",
+      "pos": "adj",
+      "note": "je suis pressé(e)"
+    },
+    {
+      "fr": "le rendez-vous ",
+      "it": "l'appuntamento",
+      "pos": "n"
+    },
+    {
+      "fr": "à pied",
+      "it": "a piedi",
+      "pos": "adv"
+    },
+    {
+      "fr": "fermé, fermée",
+      "it": "chiuso",
+      "pos": "adj"
+    },
+    {
+      "fr": "le lundi",
+      "it": "il lunedì (ogni lunedì)",
+      "pos": "n"
+    },
+    {
+      "fr": "vite",
+      "it": "in fretta, velocemente",
+      "pos": "adv"
+    },
+    {
+      "fr": "ensemble",
+      "it": "insieme",
+      "pos": "adv"
+    },
+    {
+      "fr": "la rue ",
+      "it": "la strada",
+      "pos": "n"
+    },
+    {
+      "fr": "tout droit",
+      "it": "dritto",
+      "pos": "adv"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Il est déjà midi",
+      "it": "È già mezzogiorno",
+      "note": "per dire che è ora di pranzo"
+    },
+    {
+      "fr": "J'ai faim",
+      "it": "Ho fame",
+      "note": "si usa avoir, non être"
+    },
+    {
+      "fr": "Ça vous dit ?",
+      "it": "Vi va?",
+      "note": "proposta colloquiale, anche con il tu: Ça te dit ?"
+    },
+    {
+      "fr": "Ça m'est égal",
+      "it": "Per me è uguale",
+      "note": "risposta cortese quando non si ha preferenza"
+    },
+    {
+      "fr": "Je suis pressé(e)",
+      "it": "Ho fretta",
+      "note": "pressé con -e se parla una donna"
+    },
+    {
+      "fr": "Avoir rendez-vous",
+      "it": "Avere un appuntamento",
+      "note": "rendez-vous è invariabile"
+    },
+    {
+      "fr": "Faisons vite",
+      "it": "Sbrighiamoci",
+      "note": "imperativo di noi, molto usato"
+    },
+    {
+      "fr": "Je viens de penser à quelque chose",
+      "it": "Ho appena pensato a una cosa",
+      "note": "per introdurre un ricordo improvviso"
+    }
+  ],
+  "notes_it": [
+    "Déjeuner significa «pranzare», non «colazione»: la colazione è il petit déjeuner, la cena è il dîner. Il pranzo è un pasto importante anche per i francesi, quindi a mezzogiorno si cerca spesso un posto dove mangiare.",
+    "Accompagner non significa solo «accompagnare»: nel parlato corrente vuol dire anche «venire con qualcuno». Quando un francese dice Je vous accompagne, sta dicendo che viene con voi.",
+    "Quartier non è «quarto»: la confusione è frequente per chi viene dall'italiano. Un restaurant de quartier è un ristorante di quartiere, cioè frequentato dagli abitanti della zona.",
+    "Pronuncia: restaurant ha sillabe di durata quasi uguale, come in italiano; il francese non accentua la prima sillaba come l'inglese. Il suffisso -erie (crêperie, brasserie) indica il locale dove si svolge un'attività, come l'italiano -eria."
+  ],
+  "exercises": [
+    {
+      "id": "L025-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "imperative",
+      "prompt": "Come si dice «Mangiamo insieme!» (esortazione alla prima persona plurale)?",
+      "options": [
+        "Mangeons ensemble",
+        "Nous mangeons ensemble",
+        "Mangeez ensemble",
+        "Manger ensemble"
+      ],
+      "correct": 0,
+      "explain_it": "L'imperativo di noi si forma dal presente di nous togliendo il pronome: mangeons, con la -s finale muta. Nous mangeons è l'indicativo, cioè «noi mangiamo»."
+    },
+    {
+      "id": "L025-e02",
+      "type": "order",
+      "level": 1,
+      "concept": "imperative",
+      "prompt": "Andiamo dritto, poi giriamo a sinistra.",
+      "answers": [
+        "Allons tout droit puis tournons à gauche"
+      ],
+      "distractors": [
+        "tournez",
+        "tourne"
+      ],
+      "explain_it": "Entrambe le esortazioni sono alla prima persona plurale: allons e tournons. Tournez è la forma di vous, che non serve qui."
+    },
+    {
+      "id": "L025-e03",
+      "type": "cloze",
+      "level": 1,
+      "concept": "imperative",
+      "text": "___ ensemble au restaurant !",
+      "answers": [
+        "Mangeons"
+      ],
+      "hint": "(manger, imperativo di noi)",
+      "prompt": "Mangiamo insieme al ristorante!",
+      "explain_it": "Con noi si usa la forma nous del presente senza il pronome: nous mangeons diventa Mangeons."
+    },
+    {
+      "id": "L025-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "passe-recent",
+      "prompt": "Come si dice «Ho appena visto Marc»?",
+      "options": [
+        "Je viens de voir Marc",
+        "Je suis venu voir Marc",
+        "Je vais voir Marc",
+        "Je viens voir Marc"
+      ],
+      "correct": 0,
+      "explain_it": "Venir de + infinito indica un'azione appena conclusa. Je viens voir Marc significa «vengo a trovare Marc», senza il senso di passato immediato."
+    },
+    {
+      "id": "L025-e05",
+      "type": "cloze",
+      "level": 1,
+      "concept": "passe-recent",
+      "text": "Elle ___ de finir son travail.",
+      "answers": [
+        "vient"
+      ],
+      "hint": "(venir, presente)",
+      "prompt": "Lei ha appena finito il lavoro.",
+      "explain_it": "Il passato immediato si costruisce con il presente di venir e de più l'infinito: elle vient de finir."
+    },
+    {
+      "id": "L025-e06",
+      "type": "mcq",
+      "level": 1,
+      "concept": "interrogatives",
+      "prompt": "Come si dice «Quale preferisci?» riferito a un menu (maschile singolare)?",
+      "options": [
+        "Lequel préfères-tu ?",
+        "Quel préfères-tu ?",
+        "Laquelle préfères-tu ?",
+        "Lesquelles préfères-tu ?"
+      ],
+      "correct": 0,
+      "explain_it": "Il pronome interrogativo concorda con il nome a cui si riferisce: menu è maschile singolare, quindi lequel. Quel richiederebbe un nome dopo."
+    },
+    {
+      "id": "L025-e07",
+      "type": "mcq",
+      "level": 1,
+      "concept": "adjective-agreement",
+      "prompt": "Come si dice «Vada dritto» (forma di lei)?",
+      "options": [
+        "Allez tout droit",
+        "Allez à droite",
+        "Allez droite",
+        "Allez à droit"
+      ],
+      "correct": 0,
+      "explain_it": "Tout droit è un avverbio invariabile che significa «dritto». À droite vuol dire «a destra», quindi è un'indicazione diversa."
+    },
+    {
+      "id": "L025-e08",
+      "type": "mcq",
+      "level": 1,
+      "concept": "false-friends",
+      "prompt": "Come si dice «quartiere» (zona di una città)?",
+      "options": [
+        "le quartier",
+        "le quart",
+        "le quarter",
+        "le quartiere"
+      ],
+      "correct": 0,
+      "explain_it": "Quartier è il quartiere; quart è «quarto», come in un quart d'heure."
+    },
+    {
+      "id": "L025-e09",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Come si dice «Per me è uguale»?",
+      "options": [
+        "Ça m'est égal",
+        "Ça me fait égal",
+        "C'est égal à moi",
+        "Ça m'égale"
+      ],
+      "correct": 0,
+      "explain_it": "L'espressione idiomatica è Ça m'est égal. Non si traduce letteralmente con «c'est égal à moi» o con verbi inventati."
+    },
+    {
+      "id": "L025-e10",
+      "type": "order",
+      "level": 1,
+      "concept": "passe-recent",
+      "prompt": "Ho appena mangiato.",
+      "answers": [
+        "Je viens de manger"
+      ],
+      "distractors": [
+        "vais",
+        "suis"
+      ],
+      "explain_it": "Il passato immediato usa venir al presente più de e l'infinito. Vais e suis non sono adatti a questo significato."
+    },
+    {
+      "id": "L025-e11",
+      "type": "order",
+      "level": 1,
+      "concept": "imperative",
+      "prompt": "Girate a destra, poi andate dritto.",
+      "answers": [
+        "Tournez à droite puis allez tout droit"
+      ],
+      "distractors": [
+        "tournons",
+        "vais"
+      ],
+      "explain_it": "L'imperativo di vous si forma dalla forma vous del presente senza il pronome: tournez, allez. Tournons è la forma di noi."
+    },
+    {
+      "id": "L025-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "false-friends",
+      "text": "Il y a une pizzeria dans le ___ de la gare.",
+      "answers": [
+        "quartier"
+      ],
+      "hint": "(quartiere)",
+      "prompt": "C'è una pizzeria nel quartiere della stazione.",
+      "explain_it": "Quartier è il quartiere. Non va confuso con quart, che significa «quarto»."
+    },
+    {
+      "id": "L025-e13",
+      "type": "cloze",
+      "level": 1,
+      "concept": "interrogatives",
+      "text": "___ préfères-tu, la pizzeria ou la crêperie ?",
+      "answers": [
+        "Laquelle"
+      ],
+      "hint": "(pronome interrogativo femminile singolare)",
+      "prompt": "Quale preferisci, la pizzeria o la crêperia?",
+      "explain_it": "Pizzeria e crêperie sono femminili singolari, quindi il pronome è laquelle."
+    },
+    {
+      "id": "L025-e14",
+      "type": "dictation",
+      "level": 2,
+      "concept": "avoir",
+      "text": "Il est déjà une heure et j'ai très faim.",
+      "explain_it": "Il est déjà indica che è tardi; j'ai faim usa il verbo avoir, come in italiano avere fame."
+    },
+    {
+      "id": "L025-e15",
+      "type": "dictation",
+      "level": 3,
+      "concept": "passe-recent",
+      "text": "Je viens de finir mon travail, alors je suis libre pour déjeuner avec toi.",
+      "explain_it": "Venir de più infinito esprime un'azione appena finita: je viens de finir. Libre pour déjeuner è la costruzione con pour più infinito."
+    },
+    {
+      "id": "L025-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "imperative",
+      "prompt": "Andiamo a piedi!",
+      "answers": [
+        "Allons à pied",
+        "Allons-y à pied"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Allons è l'imperativo di noi del verbo aller. À pied significa «a piedi»."
+    },
+    {
+      "id": "L025-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "imperative",
+      "prompt": "Venite a pranzare con noi! (rivolgendovi a più persone)",
+      "answers": [
+        "Venez [manger|déjeuner] avec nous"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Con vous l'imperativo è la forma vous del presente senza pronome: venez. Déjeuner e manger possono reggere il senso di pranzare."
+    },
+    {
+      "id": "L025-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-recent",
+      "prompt": "Ho appena finito.",
+      "answers": [
+        "Je viens [juste |]de finir",
+        "Je viens [juste |]de terminer"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Il passato immediato si forma con venir al presente, de e l'infinito. Juste è facoltativo e rafforza il senso."
+    },
+    {
+      "id": "L025-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "interrogatives",
+      "prompt": "Quali tra questi menu preferisci?",
+      "answers": [
+        "Lesquels de ces menus [préfères-tu|préférez-vous]"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Menus è maschile plurale: il pronome è lesquels. Con il tu si dice préfères-tu, con il vous préférez-vous."
+    },
+    {
+      "id": "L025-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "Vada sempre dritto (forma di lei).",
+      "answers": [
+        "Allez toujours tout droit",
+        "Continuez tout droit",
+        "Allez tout droit"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Tout droit è un avverbio invariabile che non concorda: si scrive sempre così, senza -e."
+    },
+    {
+      "id": "L025-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Ti va un gelato?",
+      "answers": [
+        "Ça [te|vous] dit une glace"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Ça te dit ? è la proposta informale; una glace è un gelato. Per il tu si usa te, per il vous si usa vous."
+    },
+    {
+      "id": "L025-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "Una pizzeria di quartiere",
+      "answers": [
+        "une pizzeria de quartier"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Quartier è il quartiere, non il quarto. Un restaurant de quartier è un locale della zona."
+    },
+    {
+      "id": "L025-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "imperative",
+      "prompt": "Mangiamo in fretta!",
+      "answers": [
+        "Mangeons [vite|rapidement]"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Mangeons è l'imperativo di noi; vite è l'avverbio di velocità, che corrisponde all'italiano in fretta."
+    },
+    {
+      "id": "L025-e24",
+      "type": "write",
+      "level": 3,
+      "concept": "imperative",
+      "prompt": "Girate a sinistra, poi andate dritto per cinque minuti.",
+      "answers": [
+        "Tournez à gauche, puis allez tout droit pendant cinq minutes"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Tournez e allez sono gli imperativi di vous di tourner e aller; pendant cinq minutes indica la durata."
+    },
+    {
+      "id": "L025-e25",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-recent",
+      "prompt": "Ho appena parlato con Marie, e lei è in ritardo.",
+      "answers": [
+        "Je viens de parler [à|avec] Marie, et elle est en retard"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Parler si costruisce con à o avec a seconda della frase; il passato immediato usa venir de più l'infinito, mentre il ritardo si dice être en retard."
+    },
+    {
+      "id": "L025-e26",
+      "type": "write",
+      "level": 3,
+      "concept": "interrogatives",
+      "prompt": "Quale dei due menu preferisci?",
+      "answers": [
+        "Lequel [des deux menus|de ces deux menus] [préfères-tu|préférez-vous]"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Menu è maschile singolare, quindi il pronome è lequel; si sceglie tra due elementi con des deux menus."
+    },
+    {
+      "id": "L025-e27",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Per me è uguale: scegli tu!",
+      "answers": [
+        "Ça m'est égal, [choisis|choisissez]"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Ça m'est égal esprime che non si ha preferenza; poi si chiede all'altro di scegliere con l'imperativo di choisir."
+    },
+    {
+      "id": "L025-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "adjective-agreement",
+      "prompt": "La strada è dritta fino alla chiesa, poi girate a destra.",
+      "answers": [
+        "La [rue|route] est droite jusqu'à l'église, puis tournez à droite"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Droit come aggettivo concorda con il nome: la rue est droite. Girare a destra si dice tournez à droite, senza concordanza sull'indicazione."
+    },
+    {
+      "id": "L025-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "false-friends",
+      "prompt": "Il quartiere è a trecento metri, quindi cinque minuti a piedi.",
+      "answers": [
+        "Le quartier est à [trois cents|300] mètres, donc cinq minutes à pied"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Quartier è il quartiere. Cents prende la -s quando è l'ultimo elemento del numero, come in trois cents mètres."
+    },
+    {
+      "id": "L025-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "imperative",
+      "prompt": "Dai, andiamo a mangiare alla brasserie, ma facciamo in fretta!",
+      "answers": [
+        "[Allez, |]allons manger à la brasserie, mais faisons vite"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Allons e faisons sono imperativi di noi; allez è un'esclamazione facoltativa che ha il senso di dai."
+    },
+    {
+      "id": "L025-e31",
+      "type": "cloze",
+      "level": 2,
+      "concept": "passe-recent",
+      "text": "Nous ___ d'arriver à la gare.",
+      "answers": [
+        "venons"
+      ],
+      "hint": "(venir, presente)",
+      "prompt": "Siamo appena arrivati alla stazione.",
+      "explain_it": "Con nous il presente di venir è venons; seguono de e l'infinito arriver, con elisione del de."
+    },
+    {
+      "id": "L025-e32",
+      "type": "cloze",
+      "level": 2,
+      "concept": "interrogatives",
+      "text": "Dans ces deux restaurants, ___ est fermé le lundi ?",
+      "answers": [
+        "Lequel"
+      ],
+      "hint": "(pronome interrogativo maschile singolare)",
+      "prompt": "Tra questi due ristoranti, quale è chiuso il lunedì?",
+      "explain_it": "Restaurant è maschile singolare, quindi il pronome è lequel e non laquelle."
+    },
+    {
+      "id": "L025-e33",
+      "type": "cloze",
+      "level": 2,
+      "concept": "false-friends",
+      "text": "Attendons un ___ d'heure.",
+      "answers": [
+        "quart"
+      ],
+      "hint": "(quarto)",
+      "prompt": "Aspettiamo un quarto d'ora.",
+      "explain_it": "Quart significa «quarto»: non è quartier, che vuol dire quartiere."
+    },
+    {
+      "id": "L025-e34",
+      "type": "flash",
+      "level": 2,
+      "concept": "imperative",
+      "front": "Come si forma l'imperativo di noi e di vous con i verbi in -er?",
+      "back": "Si prende il presente di nous o vous e si toglie il pronome: nous mangeons diventa Mangeons, vous mangez diventa Mangez. La -s finale di nous non si pronuncia.",
+      "explain_it": "È la regola che permette di usare Déjeunons, Tournez e simili senza il soggetto."
+    },
+    {
+      "id": "L025-e35",
+      "type": "flash",
+      "level": 2,
+      "concept": "passe-recent",
+      "front": "Come si dice «ho appena fatto qualcosa» in francese?",
+      "back": "Venir (al presente) + de + infinito: je viens de manger = ho appena mangiato. Senza de, je viens manger significa «vengo a mangiare».",
+      "explain_it": "La presenza di de cambia completamente il significato della frase."
+    },
+    {
+      "id": "L025-e36",
+      "type": "flash",
+      "level": 2,
+      "concept": "interrogatives",
+      "front": "Quali sono le forme di lequel?",
+      "back": "Masc. sing. lequel; femm. sing. laquelle; masc. plur. lesquels; femm. plur. lesquelles. Si accorda con il nome a cui si riferisce.",
+      "explain_it": "Lequel si usa quando si sceglie tra elementi già nominati, come l'italiano quale."
+    }
+  ]
+}

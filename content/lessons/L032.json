@@ -1,0 +1,912 @@
+{
+  "n": 32,
+  "title_fr": "Je ne peux plus continuer comme ça",
+  "title_it": "Non posso più andare avanti così",
+  "review": false,
+  "status": "verified",
+  "source": "c15d4fa8 pdf p55-60 (libro p.137-142; lezione 33 inizia a pdf p61)",
+  "theme_it": "Un impiegato del reparto commerciale di una piccola azienda racconta a un conoscente perché la sera è così stanco: risponde alla posta dei clienti, ne riceve centinaia ogni giorno e coordina una decina di colleghi. Quando sente che un collega si è dimesso per la stanchezza, decide di dire al direttore che non può più continuare così.",
+  "grammar": [
+    {
+      "id": "present-irregular",
+      "title_it": "Verbi in -oir al presente: devoir, pouvoir, recevoir, savoir, voir",
+      "explain_it": "Sono il secondo sottogruppo dei verbi del terzo gruppo che finiscono in -oir. Al presente hanno desinenze irregolari al singolare e radici che cambiano dal plurale: je dois / nous devons (dovere), je peux / nous pouvons (potere), je reçois / nous recevons (ricevere), je sais / nous savons (sapere), je vois / nous voyons (vedere). Attenzione alla cedilla di reçois e recevons. Pouvoir e devoir seguiti da un infinito esprimono possibilità e obbligo, come in italiano con «potere» e «dovere».",
+      "examples": [
+        {
+          "fr": "Nous ne pouvons pas répondre à tout le monde.",
+          "it": "Non possiamo rispondere a tutti."
+        },
+        {
+          "fr": "Je reçois des mails chaque jour.",
+          "it": "Ricevo mail ogni giorno."
+        },
+        {
+          "fr": "Tu sais nager ?",
+          "it": "Sai nuotare?"
+        }
+      ]
+    },
+    {
+      "id": "numbers",
+      "title_it": "I nomi collettivi in -aine: une dizaine, une centaine",
+      "explain_it": "Dizaine (circa dieci) e centaine (circa cento) sono nomi femminili che indicano un gruppo approssimativo. Si usano con de: une dizaine de personnes, une centaine de clients. Al plurale diventano des dizaines de e des centaines de. In italiano si dice «una decina» e «un centinaio», ma in francese il nome è sempre femminile: è sbagliato dire «un centaine».",
+      "examples": [
+        {
+          "fr": "Il y a une dizaine de collègues dans le service.",
+          "it": "Nel reparto ci sono una decina di colleghi."
+        },
+        {
+          "fr": "Nous avons reçu des centaines de messages.",
+          "it": "Abbiamo ricevuto centinaia di messaggi."
+        }
+      ]
+    },
+    {
+      "id": "indefinites",
+      "title_it": "Il pronome indefinito chacun / chacune",
+      "explain_it": "Chacun (maschile) e chacune (femminile) significano «ciascuno/ciascuna». Derivano da chaque + un/une. Come pronome sostituisce il nome e si accorda con il nome a cui si riferisce: Ces tartes coûtent dix euros chacune. Quando è seguito da un nome si usa chaque, invariabile (chaque jour). Chacun de nous / de mes collègues è la forma più comune con de. Non ha plurale.",
+      "examples": [
+        {
+          "fr": "Chacun de nous reçoit des mails.",
+          "it": "Ciascuno di noi riceve mail."
+        },
+        {
+          "fr": "Ces livres coûtent dix euros chacun.",
+          "it": "Questi libri costano dieci euro ciascuno."
+        }
+      ]
+    },
+    {
+      "id": "negation-other",
+      "title_it": "Le negazioni ne... plus e ne... jamais",
+      "explain_it": "Plus (non più) e jamais (mai) sostituiscono pas nella negazione e, come pas, si collocano intorno al verbo con ne: ne... plus, ne... jamais. Non si combinano con pas: non si dice «ne... pas jamais». Con i pronomi il ne resta davanti a tutto il gruppo pronominale-verbale: je ne le fais jamais (non lo faccio mai). Plus può anche significare «più» come quantità, ma nella negazione vuol dire «non più».",
+      "examples": [
+        {
+          "fr": "Je ne mange plus de viande.",
+          "it": "Non mangio più carne."
+        },
+        {
+          "fr": "Vous ne cherchez jamais de solution facile.",
+          "it": "Non cercate mai una soluzione facile."
+        }
+      ]
+    },
+    {
+      "id": "pronoun-coi",
+      "title_it": "I pronomi di termine: me, te, lui, nous, vous, leur",
+      "explain_it": "Con verbi come donner, prêter, dire, répondre à, i pronomi di termine sostituiscono «a me, a te, a lui/lei, a noi, a voi, a loro». Max nous donne un coup de main = Max ci dà una mano. Lui vale sia per lui sia per lei, e leur vale per loro. Vanno davanti al verbo coniugato: je lui donne un conseil. Il pronome leur è invariabile, diverso dall'aggettivo possessivo leur (il loro), che si accorda con il nome.",
+      "examples": [
+        {
+          "fr": "Peux-tu me prêter ton stylo ?",
+          "it": "Mi presti la tua penna?"
+        },
+        {
+          "fr": "Je leur dis bonjour chaque matin.",
+          "it": "Saluto loro ogni mattina."
+        }
+      ]
+    },
+    {
+      "id": "plural",
+      "title_it": "Plurali irregolari: un œil / des yeux, un mal / des maux",
+      "explain_it": "Alcuni nomi hanno un plurale irregolare: un œil [œj] (occhio) fa des yeux [jø] (occhi); un mal (male) fa des maux (mali), come in des maux de tête (mal di testa). Le espressioni con œil, come un coup d'œil (un'occhiata), usano il singolare. Sono eccezioni da imparare insieme alla parola, perché non seguono la regola della -s.",
+      "examples": [
+        {
+          "fr": "J'ai mal aux yeux.",
+          "it": "Ho male agli occhi."
+        },
+        {
+          "fr": "Je jette un coup d'œil à la fenêtre.",
+          "it": "Do un'occhiata alla finestra."
+        }
+      ]
+    },
+    {
+      "id": "adverbs",
+      "title_it": "Si con valore di intensificatore (così... che)",
+      "explain_it": "Si significa «se» come congiunzione, ma può anche essere un avverbio che rafforza un aggettivo, come «così» in italiano. Di solito è seguito da que: Je suis si fatigué que je ne peux plus parler (Sono così stanco che non riesco più a parlare). Non va confuso con aussi (anche, altrettanto).",
+      "examples": [
+        {
+          "fr": "Il fait si froid ce matin.",
+          "it": "Stamattina fa così freddo."
+        },
+        {
+          "fr": "Elle est si gentille.",
+          "it": "È così gentile."
+        }
+      ]
+    },
+    {
+      "id": "demonstratives",
+      "title_it": "I pronomi dimostrativi composti: celui-ci, celle-là, ceux-ci, ceux-là",
+      "explain_it": "Quando il nome è già noto e non si vuole ripeterlo, si usa il pronome dimostrativo composto: celui (m. sing.), celle (f. sing.), ceux (m. plur.), celles (f. plur.), seguito da -ci (questo, vicino) o -là (quello, lontano). Si accorda in genere e numero con il nome a cui si riferisce: celle-ci è al cioccolato, celle-là alle fragole.",
+      "examples": [
+        {
+          "fr": "Je préfère celui-ci.",
+          "it": "Preferisco questo."
+        },
+        {
+          "fr": "Ces pulls ? Ceux-là sont plus jolis.",
+          "it": "Questi maglioni? Quelli là sono più belli."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "fatigué",
+      "it": "stanco",
+      "pos": "adj",
+      "note": "f. fatiguée"
+    },
+    {
+      "fr": "rentrer",
+      "it": "tornare a casa",
+      "pos": "v",
+      "note": "vous rentrez"
+    },
+    {
+      "fr": "le soir",
+      "it": "la sera",
+      "pos": "n"
+    },
+    {
+      "fr": "épuisant",
+      "it": "estenuante, sfiancante",
+      "pos": "adj",
+      "note": "f. épuisante"
+    },
+    {
+      "fr": "responsable",
+      "it": "responsabile",
+      "pos": "adj"
+    },
+    {
+      "fr": "une équipe",
+      "it": "una squadra",
+      "pos": "n"
+    },
+    {
+      "fr": "une dizaine",
+      "it": "una decina",
+      "pos": "n"
+    },
+    {
+      "fr": "le service commercial",
+      "it": "il reparto commerciale",
+      "pos": "n"
+    },
+    {
+      "fr": "une entreprise",
+      "it": "un'azienda",
+      "pos": "n"
+    },
+    {
+      "fr": "le client",
+      "it": "il cliente",
+      "pos": "n",
+      "note": "f. la cliente"
+    },
+    {
+      "fr": "le mail",
+      "it": "la mail, l'e-mail",
+      "pos": "n",
+      "note": "pl. des mails; maschile in francese"
+    },
+    {
+      "fr": "répondre à",
+      "it": "rispondere a",
+      "pos": "v",
+      "note": "je réponds"
+    },
+    {
+      "fr": "recevoir",
+      "it": "ricevere",
+      "pos": "v",
+      "note": "je reçois"
+    },
+    {
+      "fr": "une centaine",
+      "it": "un centinaio",
+      "pos": "n"
+    },
+    {
+      "fr": "systématiquement",
+      "it": "sistematicamente",
+      "pos": "adv"
+    },
+    {
+      "fr": "lire",
+      "it": "leggere",
+      "pos": "v",
+      "note": "nous lisons"
+    },
+    {
+      "fr": "pouvoir",
+      "it": "potere",
+      "pos": "v",
+      "note": "je peux"
+    },
+    {
+      "fr": "devoir",
+      "it": "dovere",
+      "pos": "v",
+      "note": "je dois"
+    },
+    {
+      "fr": "savoir",
+      "it": "sapere",
+      "pos": "v",
+      "note": "je sais"
+    },
+    {
+      "fr": "voir",
+      "it": "vedere",
+      "pos": "v",
+      "note": "je vois"
+    },
+    {
+      "fr": "chacun",
+      "it": "ciascuno",
+      "pos": "pron",
+      "note": "f. chacune"
+    },
+    {
+      "fr": "un œil",
+      "it": "un occhio",
+      "pos": "n",
+      "note": "pl. des yeux"
+    },
+    {
+      "fr": "un mal",
+      "it": "un male",
+      "pos": "n",
+      "note": "pl. des maux"
+    },
+    {
+      "fr": "le collègue",
+      "it": "il collega",
+      "pos": "n",
+      "note": "f. la collègue"
+    },
+    {
+      "fr": "le directeur",
+      "it": "il direttore",
+      "pos": "n"
+    },
+    {
+      "fr": "la fatigue",
+      "it": "la stanchezza",
+      "pos": "n"
+    },
+    {
+      "fr": "démissionner",
+      "it": "dimettersi",
+      "pos": "v"
+    },
+    {
+      "fr": "la télé",
+      "it": "la TV",
+      "pos": "n"
+    },
+    {
+      "fr": "plus",
+      "it": "non più",
+      "pos": "adv"
+    },
+    {
+      "fr": "jamais",
+      "it": "mai",
+      "pos": "adv"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Je ne peux plus continuer comme ça",
+      "it": "Non posso più andare avanti così",
+      "note": "sfogo: quando una situazione è diventata insostenibile"
+    },
+    {
+      "fr": "donner un coup de main",
+      "it": "dare una mano",
+      "note": "aiutare qualcuno in modo informale"
+    },
+    {
+      "fr": "jeter un coup d'œil",
+      "it": "dare un'occhiata",
+      "note": "guardare in fretta"
+    },
+    {
+      "fr": "faire de son mieux",
+      "it": "fare del proprio meglio",
+      "note": "si coniuga col possessivo: je fais de mon mieux"
+    },
+    {
+      "fr": "à cause de",
+      "it": "a causa di",
+      "note": "introduce la causa, spesso negativa"
+    },
+    {
+      "fr": "être au courant",
+      "it": "essere al corrente",
+      "note": "je ne suis pas au courant: non ne so nulla"
+    },
+    {
+      "fr": "Tout le monde en parle",
+      "it": "Ne parlano tutti",
+      "note": "en riprende un argomento già nominato"
+    },
+    {
+      "fr": "avoir mal aux yeux",
+      "it": "avere male agli occhi",
+      "note": "avoir mal à + parte del corpo"
+    },
+    {
+      "fr": "en principe",
+      "it": "In linea di principio",
+      "note": "per dire «di solito, in teoria»"
+    },
+    {
+      "fr": "Bien sûr",
+      "it": "Certo, naturalmente",
+      "note": "molto comune nelle risposte"
+    }
+  ],
+  "notes_it": [
+    "Falsi amici: «épuisant» vuol dire estenuante, sfiancante, non «esauriente». «Le service commercial» è il reparto commerciale: «service» in francese indica spesso un reparto o un ufficio, non il servizio.",
+    "«Une société» e «une entreprise» possono indicare entrambe un'azienda; «société» significa anche «società» in senso sociale (la société française), mentre «entreprise» è più concreto.",
+    "Il mail in francese è maschile (un mail, des mails), anche se in italiano diciamo «la mail». Esiste anche il termine ufficiale «courriel».",
+    "Pronuncia: il suono œ di «un œil» [œj] e il suono eu di «des yeux» [jø] non esistono in italiano. Per imitarli, pronuncia una e con le labbra arrotondate: aperta in œil, chiusa in yeux."
+  ],
+  "exercises": [
+    {
+      "id": "L032-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "present-irregular",
+      "prompt": "Come si dice «Ricevo centinaia di mail ogni giorno»?",
+      "options": [
+        "Je reçoit des centaines de mails chaque jour.",
+        "Je recevons des centaines de mails chaque jour.",
+        "Je reçois des centaines de mails chaque jour.",
+        "Je recois des centaines de mails chaque jour."
+      ],
+      "correct": 2,
+      "explain_it": "Recevoir è un verbo in -oir: je reçois, con la cedilla davanti alla o. Recois senza cedilla è un errore di ortografia, e recevons è la forma del noi."
+    },
+    {
+      "id": "L032-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronoun-coi",
+      "prompt": "Come si dice «Mi presti dieci euro?» (a un amico)?",
+      "options": [
+        "Peux-tu me prêter dix euros ?",
+        "Peux-tu prêter-me dix euros ?",
+        "Peux-tu moi prêter dix euros ?",
+        "Peux-tu me prêtes dix euros ?"
+      ],
+      "correct": 0,
+      "explain_it": "Con prêter la persona è indiretta e il pronome me va davanti al verbo all'infinito. Moi e prêtes sono errori tipici di chi traduce parola per parola."
+    },
+    {
+      "id": "L032-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "negation-other",
+      "prompt": "Come si dice «Non rispondo mai al telefono»?",
+      "options": [
+        "Je réponds jamais au téléphone.",
+        "Je ne réponds jamais au téléphone.",
+        "Je ne réponds pas jamais au téléphone.",
+        "Je ne réponds jamais le téléphone."
+      ],
+      "correct": 1,
+      "explain_it": "Jamais sostituisce pas e va con ne davanti al verbo. Ne... pas jamais è doppia negazione errata, e répondre a vuole à, quindi au téléphone."
+    },
+    {
+      "id": "L032-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "numbers",
+      "prompt": "Come si dice «un centinaio di clienti»?",
+      "options": [
+        "un centaine de clients",
+        "une centaine de clients",
+        "une centaine des clients",
+        "une centième de clients"
+      ],
+      "correct": 1,
+      "explain_it": "Centaine è femminile, quindi si dice une centaine de clients. Centième è l'ordinale «centesimo», non il nome collettivo."
+    },
+    {
+      "id": "L032-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "indefinites",
+      "prompt": "Completa: «Queste bottiglie costano dieci euro ___» (ciascuna).",
+      "options": [
+        "chaque",
+        "chacun",
+        "chacune",
+        "chacuns"
+      ],
+      "correct": 2,
+      "explain_it": "Chacune è il pronome femminile e si accorda con bouteilles (femminile). Chaque vuole un nome dopo di sé, quindi non funziona qui."
+    },
+    {
+      "id": "L032-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "negation-other",
+      "prompt": "Il direttore non risponde mai alle mail.",
+      "answers": [
+        "Le directeur ne répond jamais aux mails."
+      ],
+      "distractors": [
+        "plus",
+        "pas"
+      ],
+      "explain_it": "Ne va davanti a répond e jamais segue il verbo; à + les diventa aux."
+    },
+    {
+      "id": "L032-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "pronoun-coi",
+      "prompt": "Mi presti il tuo libro?",
+      "answers": [
+        "Tu me prêtes ton livre ?",
+        "Me prêtes-tu ton livre ?"
+      ],
+      "distractors": [
+        "lui",
+        "prête"
+      ],
+      "explain_it": "Il pronome me è di termine e va prima del verbo prêtes, in forma tu."
+    },
+    {
+      "id": "L032-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "present-irregular",
+      "prompt": "Sappiamo che è molto importante.",
+      "answers": [
+        "Nous savons que c'est très important."
+      ],
+      "distractors": [
+        "voyons"
+      ],
+      "explain_it": "Savoir al noi è nous savons, con la radice sav-; voyons è il noi di voir, non di savoir."
+    },
+    {
+      "id": "L032-e09",
+      "type": "cloze",
+      "level": 1,
+      "concept": "demonstratives",
+      "text": "Nous avons deux tartes : ___ est au chocolat, et celle-là, aux fraises.",
+      "answers": [
+        "celle-ci"
+      ],
+      "hint": "(pronome dimostrativo femminile, vicino)",
+      "prompt": "Abbiamo due torte: questa è al cioccolato e quella alle fragole.",
+      "explain_it": "Celle-ci e celle-là sono i dimostrativi composti femminili: -ci indica il vicino, -là il lontano."
+    },
+    {
+      "id": "L032-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "present-irregular",
+      "text": "Nous ___ des centaines de mails chaque jour.",
+      "answers": [
+        "recevons"
+      ],
+      "hint": "(recevoir, presente, noi)",
+      "prompt": "Riceviamo centinaia di mail ogni giorno.",
+      "explain_it": "Recevoir al noi è recevons, con c dolce davanti alla o (cedilla nella forma je reçois)."
+    },
+    {
+      "id": "L032-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "negation-other",
+      "text": "Je ne peux ___ continuer comme ça.",
+      "answers": [
+        "plus"
+      ],
+      "hint": "(non... più)",
+      "prompt": "Non posso più continuare così.",
+      "explain_it": "Ne... plus indica la fine di uno stato: non più."
+    },
+    {
+      "id": "L032-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "pronoun-coi",
+      "text": "Max ___ donne un coup de main.",
+      "answers": [
+        "nous"
+      ],
+      "hint": "(pronome di termine, a noi)",
+      "prompt": "Max ci dà una mano.",
+      "explain_it": "Donner vuole una persona indiretta: nous è il pronome per «a noi», posto prima del verbo."
+    },
+    {
+      "id": "L032-e13",
+      "type": "cloze",
+      "level": 1,
+      "concept": "plural",
+      "text": "J'ai mal aux ___ après le travail.",
+      "answers": [
+        "yeux"
+      ],
+      "hint": "(plurale irregolare di «un œil»)",
+      "prompt": "Ho male agli occhi dopo il lavoro.",
+      "explain_it": "Œil ha il plurale irregolare yeux, e in mal aux si usa aux davanti al plurale."
+    },
+    {
+      "id": "L032-e14",
+      "type": "write",
+      "level": 2,
+      "concept": "present-irregular",
+      "prompt": "Ricevo molte mail ogni giorno.",
+      "answers": [
+        "Je reçois [beaucoup|énormément] de [mails|e-mails|courriels] [chaque jour|tous les jours|par jour]."
+      ],
+      "explain_it": "Recevoir al presente di io è je reçois; beaucoup de vuole de dopo il quantificatore."
+    },
+    {
+      "id": "L032-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "present-irregular",
+      "prompt": "Sai nuotare? (a un amico, con tu)",
+      "answers": [
+        "Tu sais nager ?",
+        "Sais-tu nager ?"
+      ],
+      "explain_it": "Savoir al presente di tu è tu sais, e nella domanda con inversione diventa sais-tu."
+    },
+    {
+      "id": "L032-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "negation-other",
+      "prompt": "Non ricevo mai risposte dal direttore.",
+      "answers": [
+        "Je ne reçois jamais de réponse du directeur.",
+        "Je ne reçois jamais de réponses du directeur."
+      ],
+      "explain_it": "Dopo una negazione, il partitivo des diventa de, e jamais va tra ne e reçois."
+    },
+    {
+      "id": "L032-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-coi",
+      "prompt": "Puoi prestarmi il tuo telefono?",
+      "answers": [
+        "[Peux-tu|Tu peux|Est-ce que tu peux] me prêter ton [téléphone|portable] ?"
+      ],
+      "explain_it": "Con prêter, me rende «a me»: il pronome va prima dell'infinito prêter."
+    },
+    {
+      "id": "L032-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-coi",
+      "prompt": "Gli do un consiglio.",
+      "answers": [
+        "Je lui donne un conseil."
+      ],
+      "explain_it": "Lui è il pronome di termine per «a lui» o «a lei»: va davanti al verbo donne."
+    },
+    {
+      "id": "L032-e19",
+      "type": "cloze",
+      "level": 2,
+      "concept": "numbers",
+      "text": "Il y a une ___ de personnes dans l'équipe.",
+      "answers": [
+        "dizaine"
+      ],
+      "hint": "(circa dieci)",
+      "prompt": "Nella squadra ci sono una decina di persone.",
+      "explain_it": "Dizaine indica un gruppo di circa dieci e vuole de dopo di sé."
+    },
+    {
+      "id": "L032-e20",
+      "type": "cloze",
+      "level": 2,
+      "concept": "numbers",
+      "text": "Il reçoit des ___ de mails par jour.",
+      "answers": [
+        "centaines"
+      ],
+      "hint": "(plurale, circa cento)",
+      "prompt": "Riceve centinaia di mail al giorno.",
+      "explain_it": "Al plurale, centaines de indica centinaia di oggetti."
+    },
+    {
+      "id": "L032-e21",
+      "type": "cloze",
+      "level": 2,
+      "concept": "indefinites",
+      "text": "Ces appareils coûtent cent euros ___.",
+      "answers": [
+        "chacun"
+      ],
+      "hint": "(ciascuno, maschile)",
+      "prompt": "Questi apparecchi costano cento euro ciascuno.",
+      "explain_it": "Chacun si accorda con il nome a cui si riferisce: appareils è maschile plurale."
+    },
+    {
+      "id": "L032-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "indefinites",
+      "prompt": "Queste torte costano dieci euro ciascuna.",
+      "answers": [
+        "Ces tartes coûtent dix euros chacune."
+      ],
+      "explain_it": "Tartes è femminile plurale, quindi il pronome è chacune."
+    },
+    {
+      "id": "L032-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "demonstratives",
+      "prompt": "Io preferisco questo.",
+      "answers": [
+        "Je préfère celui-ci.",
+        "Moi, je préfère celui-ci."
+      ],
+      "explain_it": "Questo, riferito a un nome maschile singolare, si rende con celui-ci."
+    },
+    {
+      "id": "L032-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "demonstratives",
+      "prompt": "Quei vini sono bianchi, questi sono rossi.",
+      "answers": [
+        "Ceux-là sont blancs, ceux-ci sont rouges.",
+        "Ceux-ci sont rouges, ceux-là sont blancs.",
+        "Ces vins-là sont blancs, ceux-ci sont rouges."
+      ],
+      "explain_it": "Ceux-là (quelli) e ceux-ci (questi) sono i dimostrativi maschili plurali, e si accordano con i loro aggettivi."
+    },
+    {
+      "id": "L032-e25",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-en",
+      "text": "Nous n'en avons ___.",
+      "answers": [
+        "plus"
+      ],
+      "hint": "(non... più)",
+      "prompt": "Non ne abbiamo più.",
+      "explain_it": "En riprende il partitivo e va prima del verbo avons; con la negazione si scrive n'en e plus chiude la frase."
+    },
+    {
+      "id": "L032-e26",
+      "type": "cloze",
+      "level": 2,
+      "concept": "plural",
+      "text": "J'ai souvent des ___ de tête.",
+      "answers": [
+        "maux"
+      ],
+      "hint": "(plurale irregolare di «un mal»)",
+      "prompt": "Ho spesso mal di testa.",
+      "explain_it": "Mal fa il plurale maux, senza -s, come un'eccezione da imparare insieme alla parola."
+    },
+    {
+      "id": "L032-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "plural",
+      "prompt": "Ho gli occhi stanchi.",
+      "answers": [
+        "J'ai les yeux fatigués.",
+        "Mes yeux sont fatigués."
+      ],
+      "explain_it": "Yeux è il plurale di œil, e l'aggettivo fatigué si accorda al maschile plurale."
+    },
+    {
+      "id": "L032-e28",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adverbs",
+      "text": "Il est ___ fatigué qu'il ne peut plus travailler.",
+      "answers": [
+        "si",
+        "tellement"
+      ],
+      "hint": "(così, con que dopo)",
+      "prompt": "È così stanco che non può più lavorare.",
+      "explain_it": "Si, con valore di intensificatore, si usa con que per esprimere la conseguenza."
+    },
+    {
+      "id": "L032-e29",
+      "type": "write",
+      "level": 2,
+      "concept": "adverbs",
+      "prompt": "Sono così contento!",
+      "answers": [
+        "Je suis [si|tellement] [content|contente] !"
+      ],
+      "explain_it": "Si rafforza l'aggettivo content senza bisogno di que quando la frase è esclamativa."
+    },
+    {
+      "id": "L032-e30",
+      "type": "write",
+      "level": 2,
+      "concept": "present-irregular",
+      "prompt": "Dobbiamo leggere tutti i messaggi.",
+      "answers": [
+        "Nous devons lire tous les messages."
+      ],
+      "explain_it": "Devoir al noi è nous devons; tous les messages resta al maschile plurale."
+    },
+    {
+      "id": "L032-e31",
+      "type": "dictation",
+      "level": 2,
+      "concept": "negation-other",
+      "text": "Je ne peux plus répondre à ces mails."
+    },
+    {
+      "id": "L032-e32",
+      "type": "flash",
+      "level": 2,
+      "concept": "present-irregular",
+      "front": "Pouvoir al presente: le forme",
+      "back": "je peux, tu peux, il/elle peut, nous pouvons, vous pouvez, ils/elles peuvent. Seguito da un infinito significa «potere fare qualcosa».",
+      "note": "Il singolare cambia radice rispetto al plurale (peu-/pouv-)."
+    },
+    {
+      "id": "L032-e33",
+      "type": "flash",
+      "level": 2,
+      "concept": "plural",
+      "front": "Il plurale di «un œil» e di «un mal»",
+      "back": "des yeux (si pronuncia [jø]) e des maux. Sono plurali irregolari, senza -s, da imparare insieme alla parola.",
+      "note": "Un coup d'œil e donner un coup de main sono espressioni fisse: il nome resta al singolare."
+    },
+    {
+      "id": "L032-e34",
+      "type": "flash",
+      "level": 2,
+      "concept": "numbers",
+      "front": "Une dizaine e une centaine",
+      "back": "une dizaine = circa dieci; une centaine = circa cento. Si usano con de: une dizaine de personnes; al plurale des centaines de mails.",
+      "note": "Sono nomi femminili, quindi l'articolo è sempre una."
+    },
+    {
+      "id": "L032-e35",
+      "type": "flash",
+      "level": 2,
+      "concept": "negation-other",
+      "front": "Ne... plus e ne... jamais",
+      "back": "plus = non più; jamais = mai. Vanno intorno al verbo: je ne réponds jamais; il ne reçoit plus de mails. Non si combinano con pas.",
+      "note": "Ne... pas jamais è un errore: basta una sola negazione."
+    },
+    {
+      "id": "L032-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "negation-other",
+      "prompt": "Ti dico che non posso più lavorare così.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Je te dis que je ne peux plus travailler [comme ça|ainsi]."
+      ],
+      "explain_it": "Il ne va prima di peux e plus dopo; te è il pronome di termine per «a te» dopo dis que."
+    },
+    {
+      "id": "L032-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-coi",
+      "prompt": "Mi presti il tuo libro? Domani ti rendo il libro.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "[Peux-tu|Tu peux|Est-ce que tu peux] me prêter ton livre ? Je te rends le livre demain.",
+        "[Peux-tu|Tu peux|Est-ce que tu peux] me prêter ton livre ? Demain, je te rends le livre."
+      ],
+      "explain_it": "Me e te sono pronomi di termine e vanno davanti al verbo: me prêter, je te rends."
+    },
+    {
+      "id": "L032-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "indefinites",
+      "prompt": "Ciascuno dei miei colleghi ha un computer.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Chacun de mes collègues a un ordinateur.",
+        "Chacun de mes collègues possède un ordinateur."
+      ],
+      "explain_it": "Chacun, come pronome soggetto, prende il verbo al singolare e si lega con de al gruppo."
+    },
+    {
+      "id": "L032-e39",
+      "type": "write",
+      "level": 3,
+      "concept": "present-irregular",
+      "prompt": "Non vediamo mai il direttore in ufficio.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Nous ne voyons jamais le directeur au bureau.",
+        "Nous ne voyons jamais le directeur dans son bureau."
+      ],
+      "explain_it": "Voir al noi è nous voyons, e la negazione ne... jamais circonda il verbo."
+    },
+    {
+      "id": "L032-e40",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-en",
+      "prompt": "Non ho più caffè.",
+      "ask": "Traduci in francese, sostituendo «du café» con «en»",
+      "answers": [
+        "Je n'en ai plus."
+      ],
+      "explain_it": "En sostituisce il partitivo del caffè e va prima di ai; la negazione diventa n'en, con plus alla fine."
+    },
+    {
+      "id": "L032-e41",
+      "type": "dictation",
+      "level": 3,
+      "concept": "numbers",
+      "text": "Je suis responsable d'une équipe de cinq personnes dans une petite entreprise de Lille."
+    },
+    {
+      "id": "L032-e42",
+      "type": "dictation",
+      "level": 3,
+      "concept": "negation-other",
+      "text": "Je ne peux plus lire tous ces mails, mais je reçois toujours des messages urgents."
+    },
+    {
+      "id": "L032-e43",
+      "type": "write",
+      "level": 3,
+      "concept": "present-irregular",
+      "prompt": "Devo chiamare il cliente domani e dirgli che la consegna è in ritardo.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Je dois [appeler le client|téléphoner au client] demain et lui dire que la livraison est en retard."
+      ],
+      "explain_it": "Devoir con l'infinito esprime l'obbligo; lui è il pronome di termine per «a lui» dopo dire que."
+    },
+    {
+      "id": "L032-e44",
+      "type": "write",
+      "level": 3,
+      "concept": "indefinites",
+      "prompt": "Ciascuno di noi riceve centinaia di mail ogni giorno.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Chacun de nous reçoit des centaines de mails chaque jour.",
+        "Chacun de nous reçoit des centaines de mails par jour."
+      ],
+      "explain_it": "Chacun de nous è il modo più naturale per dire «ciascuno di noi» quando il pronome è soggetto."
+    },
+    {
+      "id": "L032-e45",
+      "type": "cloze",
+      "level": 3,
+      "concept": "demonstratives",
+      "text": "Préférez-vous ce vin ou ___ ?",
+      "answers": [
+        "celui-là"
+      ],
+      "hint": "(pronome dimostrativo maschile, quello)",
+      "prompt": "Preferisce questo vino o quello?",
+      "explain_it": "Quando il nome è già noto, si usa il pronome composto celui-là al posto di vin."
+    }
+  ]
+}

@@ -1,0 +1,794 @@
+{
+  "n": 13,
+  "title_fr": "Un cadeau",
+  "title_it": "Un regalo",
+  "review": false,
+  "status": "verified",
+  "source": "529edcbd p57-61 (libro p.41-45; esercizio 2 solo le frasi di partenza)",
+  "theme_it": "Louise e Lucas sono a casa di un amico che mostra il regalo di compleanno ricevuto: un telefono nuovo, che fa quasi tutto (messaggi, ordinazioni, pagamenti, musica, video, perfino telefonate). Louise chiede di provarlo, ma il telefono non funziona e nessuno conosce il codice segreto.",
+  "grammar": [
+    {
+      "id": "interrogatives",
+      "title_it": "Qu'est-ce que c'est ? (cos'è?)",
+      "explain_it": "Per chiedere 'che cos'è?' si usa Qu'est-ce que c'est ?, cioè la forma completa. Nel parlato corrente si sente anche C'est quoi ?, più informale. La risposta comincia quasi sempre con C'est, come l'italiano 'è un...'. Qu'est-ce que va imparato come blocco: significa 'che cosa' e vale anche con altri verbi (Qu'est-ce que tu fais ? = Cosa fai?).",
+      "examples": [
+        {
+          "fr": "Qu'est-ce que c'est ? – C'est un livre.",
+          "it": "Cos'è? – È un libro."
+        },
+        {
+          "fr": "Qu'est-ce que tu fais ?",
+          "it": "Cosa fai?"
+        }
+      ]
+    },
+    {
+      "id": "adjective-position",
+      "title_it": "Posizione dell'aggettivo: nouveau e portable",
+      "explain_it": "Di solito l'aggettivo francese va dopo il nome, come in italiano: un téléphone portable. Alcuni aggettivi molto comuni, come nouveau (nuovo), beau, grand, petit, vanno invece prima del nome: un nouveau téléphone. Nouveau al femminile diventa nouvelle (con la l pronunciata): une nouvelle maison. Il genere del nome decide la forma.",
+      "examples": [
+        {
+          "fr": "C'est un nouveau téléphone.",
+          "it": "È un telefono nuovo."
+        },
+        {
+          "fr": "C'est une nouvelle maison.",
+          "it": "È una casa nuova."
+        },
+        {
+          "fr": "J'ai un téléphone portable.",
+          "it": "Ho un cellulare."
+        }
+      ]
+    },
+    {
+      "id": "modals",
+      "title_it": "Pouvoir: potere (possibilità)",
+      "explain_it": "Pouvoir significa 'potere' nel senso di 'essere in grado di' o 'avere la possibilità di' ed è seguito direttamente dall'infinito, senza preposizione. Le forme più usate sono je peux, nous pouvons, vous pouvez. Non va confuso con savoir, che indica la capacità acquisita (sapere fare qualcosa). Nel tempo presente il verbo è irregolare.",
+      "examples": [
+        {
+          "fr": "Je peux payer avec la carte.",
+          "it": "Posso pagare con la carta."
+        },
+        {
+          "fr": "Vous pouvez commander un café.",
+          "it": "Potete ordinare un caffè."
+        },
+        {
+          "fr": "Nous pouvons parler demain ?",
+          "it": "Possiamo parlare domani?"
+        }
+      ]
+    },
+    {
+      "id": "prepositions",
+      "title_it": "Verbi senza preposizione: écouter, payer, regarder",
+      "explain_it": "Écouter, payer e regarder si costruiscono direttamente con il complemento oggetto, senza preposizione: écouter la musique, payer le repas, regarder une vidéo. Per chi pensa in inglese è un punto delicato (listen to, look at, pay for); per un italiano la struttura è la stessa di ascoltare, pagare, guardare. Attenzione invece a parler, che richiede à davanti alla persona: parler à quelqu'un.",
+      "examples": [
+        {
+          "fr": "J'écoute la radio.",
+          "it": "Ascolto la radio."
+        },
+        {
+          "fr": "Je paie le repas.",
+          "it": "Pago il pasto."
+        },
+        {
+          "fr": "Je parle à ma sœur.",
+          "it": "Parlo a mia sorella."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Marcher: funzionare (ça marche)",
+      "explain_it": "Marcher significa 'camminare', ma nel parlato è molto usato anche nel senso di 'funzionare', riferito a un oggetto: Le téléphone marche. Ça marche ! è inoltre un'espressione colloquiale per dire 'ok, va bene, d'accordo'. Alla forma negativa: Ça ne marche pas, Le téléphone ne marche pas.",
+      "examples": [
+        {
+          "fr": "Mon ordinateur ne marche pas.",
+          "it": "Il mio computer non funziona."
+        },
+        {
+          "fr": "Ça marche, à demain !",
+          "it": "Ok, a domani!"
+        }
+      ]
+    },
+    {
+      "id": "present-irregular",
+      "title_it": "Savoir e connaître: sapere e conoscere",
+      "explain_it": "In italiano 'sapere' e 'conoscere' sono due verbi; in francese anche, ma vanno scelti con cura. Savoir (je sais) si usa per fatti, informazioni e abilità: je sais la réponse, je sais nager. Connaître (je connais) si usa per persone, luoghi e cose familiari: je connais Paris, je connais son frère. Entrambi sono irregolari: je sais, tu sais, il sait, nous savons; je connais, tu connais, il connaît, nous connaissons.",
+      "examples": [
+        {
+          "fr": "Je sais parler français.",
+          "it": "So parlare francese."
+        },
+        {
+          "fr": "Je connais bien Paris.",
+          "it": "Conosco bene Parigi."
+        },
+        {
+          "fr": "Tu connais ce restaurant ?",
+          "it": "Conosci questo ristorante?"
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le cadeau",
+      "it": "il regalo",
+      "pos": "n"
+    },
+    {
+      "fr": "l'anniversaire (m.)",
+      "it": "il compleanno",
+      "pos": "n"
+    },
+    {
+      "fr": "le téléphone",
+      "it": "il telefono",
+      "pos": "n"
+    },
+    {
+      "fr": "nouveau",
+      "it": "nuovo",
+      "pos": "adj",
+      "note": "nouvelle (f.), prima del nome"
+    },
+    {
+      "fr": "portable",
+      "it": "cellulare, portatile",
+      "pos": "adj",
+      "note": "un téléphone portable"
+    },
+    {
+      "fr": "le message",
+      "it": "il messaggio",
+      "pos": "n"
+    },
+    {
+      "fr": "le repas",
+      "it": "il pasto",
+      "pos": "n"
+    },
+    {
+      "fr": "commander",
+      "it": "ordinare",
+      "pos": "v",
+      "note": "je commande"
+    },
+    {
+      "fr": "payer",
+      "it": "pagare",
+      "pos": "v",
+      "note": "je paie / nous payons"
+    },
+    {
+      "fr": "les courses (f. pl.)",
+      "it": "la spesa",
+      "pos": "n",
+      "note": "faire les courses"
+    },
+    {
+      "fr": "la musique",
+      "it": "la musica",
+      "pos": "n"
+    },
+    {
+      "fr": "la vidéo",
+      "it": "il video",
+      "pos": "n"
+    },
+    {
+      "fr": "écouter",
+      "it": "ascoltare",
+      "pos": "v",
+      "note": "j'écoute"
+    },
+    {
+      "fr": "regarder",
+      "it": "guardare",
+      "pos": "v"
+    },
+    {
+      "fr": "essayer",
+      "it": "provare",
+      "pos": "v",
+      "note": "j'essaie"
+    },
+    {
+      "fr": "marcher",
+      "it": "funzionare",
+      "pos": "v",
+      "note": "nel senso di funzionare"
+    },
+    {
+      "fr": "le code secret",
+      "it": "il codice segreto",
+      "pos": "n"
+    },
+    {
+      "fr": "malheureusement",
+      "it": "purtroppo",
+      "pos": "adv"
+    },
+    {
+      "fr": "absolument",
+      "it": "assolutamente",
+      "pos": "adv"
+    },
+    {
+      "fr": "envoyer",
+      "it": "inviare, spedire",
+      "pos": "v",
+      "note": "j'envoie"
+    },
+    {
+      "fr": "connaître",
+      "it": "conoscere",
+      "pos": "v",
+      "note": "je connais"
+    },
+    {
+      "fr": "savoir",
+      "it": "sapere",
+      "pos": "v",
+      "note": "je sais"
+    },
+    {
+      "fr": "pouvoir",
+      "it": "potere",
+      "pos": "v",
+      "note": "je peux / vous pouvez"
+    },
+    {
+      "fr": "tout",
+      "it": "tutto",
+      "pos": "pron",
+      "note": "pronome invariabile"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Qu'est-ce que c'est ?",
+      "it": "Cos'è?",
+      "note": "forma completa; nel parlato anche c'est quoi ?"
+    },
+    {
+      "fr": "Ça marche !",
+      "it": "Va bene! / Ok!",
+      "note": "colloquiale; anche 'arrivo!'"
+    },
+    {
+      "fr": "Ça ne marche pas.",
+      "it": "Non funziona.",
+      "note": "per un oggetto guasto"
+    },
+    {
+      "fr": "un nouveau téléphone",
+      "it": "un telefono nuovo",
+      "note": "aggettivo prima del nome"
+    },
+    {
+      "fr": "un téléphone portable",
+      "it": "un cellulare",
+      "note": "portable = cellulare"
+    },
+    {
+      "fr": "commander un repas",
+      "it": "ordinare un pasto",
+      "note": "nessuna preposizione"
+    },
+    {
+      "fr": "payer ses courses",
+      "it": "pagare la spesa",
+      "note": "nessuna preposizione"
+    },
+    {
+      "fr": "écouter la musique",
+      "it": "ascoltare la musica",
+      "note": "contrario dell'inglese 'listen to'"
+    },
+    {
+      "fr": "Je peux l'essayer ?",
+      "it": "Posso provarlo?",
+      "note": "chiedere di provare un oggetto"
+    },
+    {
+      "fr": "Je ne sais pas.",
+      "it": "Non lo so.",
+      "note": "savoir: fatto che non si conosce"
+    }
+  ],
+  "notes_it": [
+    "Portable in francese, da solo, significa cellulare: un ordinateur portable è il computer portatile. Non è il significato dell'italiano 'portabile'.",
+    "Con il verbo marcher non bisogna tradurre alla lettera 'camminare': nel parlato indica il funzionamento di un oggetto.",
+    "Savoir e connaître traducono entrambi 'sapere/conoscere': regola pratica, savoir per fatti e abilità, connaître per persone, luoghi e cose note.",
+    "Il pronome tout, usato da solo, è invariabile e significa 'tutto': è diverso dall'aggettivo tout/toute/tous/toutes che si accorda con un nome.",
+    "Nel francese colloquiale si ascolta spesso c'est quoi ? al posto di qu'est-ce que c'est ?, senza che cambi il senso."
+  ],
+  "exercises": [
+    {
+      "id": "L013-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "interrogatives",
+      "prompt": "Quale domanda significa «Cos'è?»",
+      "options": [
+        "Qu'est-ce que c'est ?",
+        "Qui est-ce que c'est ?",
+        "Où est-ce que c'est ?",
+        "Quel est-ce que c'est ?"
+      ],
+      "correct": 0,
+      "explain_it": "Per chiedere 'cos'è' si usa qu'est-ce que; qui vuol dire 'chi' e où 'dove'."
+    },
+    {
+      "id": "L013-e02",
+      "type": "order",
+      "level": 1,
+      "concept": "interrogatives",
+      "prompt": "Cos'è?",
+      "answers": [
+        "Qu'est-ce que c'est ?",
+        "C'est quoi ?"
+      ],
+      "distractors": [
+        "quoi"
+      ],
+      "explain_it": "Qu'est-ce que c'est è la forma completa della domanda 'cos'è?'."
+    },
+    {
+      "id": "L013-e03",
+      "type": "cloze",
+      "level": 1,
+      "concept": "adjective-position",
+      "text": "C'est une ___ maison.",
+      "answers": [
+        "nouvelle"
+      ],
+      "hint": "(nouveau, femminile singolare)",
+      "prompt": "È una casa nuova.",
+      "explain_it": "Maison è femminile, quindi nouveau diventa nouvelle e resta davanti al nome."
+    },
+    {
+      "id": "L013-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "adjective-position",
+      "prompt": "Quale frase è corretta? (un telefono nuovo)",
+      "options": [
+        "un nouveau téléphone",
+        "une nouveau téléphone",
+        "un nouvelle téléphone",
+        "un téléphone nouvelles"
+      ],
+      "correct": 0,
+      "explain_it": "Téléphone è maschile, quindi nouveau; l'aggettivo nouveau sta davanti al nome."
+    },
+    {
+      "id": "L013-e05",
+      "type": "cloze",
+      "level": 1,
+      "concept": "modals",
+      "text": "Je ___ acheter du pain.",
+      "answers": [
+        "peux"
+      ],
+      "hint": "(pouvoir, presente, io)",
+      "prompt": "Posso comprare del pane.",
+      "explain_it": "Pouvoir alla prima persona singolare fa je peux, con la x finale muta."
+    },
+    {
+      "id": "L013-e06",
+      "type": "cloze",
+      "level": 1,
+      "concept": "modals",
+      "text": "Nous ___ regarder une vidéo.",
+      "answers": [
+        "pouvons"
+      ],
+      "hint": "(pouvoir, presente, nous)",
+      "prompt": "Possiamo guardare un video.",
+      "explain_it": "Con nous pouvoir prende la forma pouvons, e l'infinito regarder segue senza preposizione."
+    },
+    {
+      "id": "L013-e07",
+      "type": "mcq",
+      "level": 1,
+      "concept": "prepositions",
+      "prompt": "Come si dice «ascoltare la musica» in francese?",
+      "options": [
+        "écouter la musique",
+        "écouter à la musique",
+        "écouter sur la musique",
+        "écouter pour la musique"
+      ],
+      "correct": 0,
+      "explain_it": "Écouter è costruito direttamente con il complemento: nessuna preposizione, come il verbo 'ascoltare' in italiano."
+    },
+    {
+      "id": "L013-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Il telefono funziona.",
+      "answers": [
+        "Le téléphone marche.",
+        "Le téléphone fonctionne."
+      ],
+      "distractors": [
+        "vient"
+      ],
+      "explain_it": "Marcher, nel senso di funzionare, è il modo colloquiale per dire che un oggetto va."
+    },
+    {
+      "id": "L013-e09",
+      "type": "mcq",
+      "level": 1,
+      "concept": "present-irregular",
+      "prompt": "Quale forma di connaître corrisponde a «io conosco»?",
+      "options": [
+        "je connais",
+        "je connaît",
+        "je connaissent",
+        "je connaissons"
+      ],
+      "correct": 0,
+      "explain_it": "Connaître alla prima persona singolare è je connais, con la s finale; connaît è la terza persona."
+    },
+    {
+      "id": "L013-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "present-irregular",
+      "text": "Tu ___ la réponse ?",
+      "answers": [
+        "sais"
+      ],
+      "hint": "(savoir, presente, tu)",
+      "prompt": "Sai la risposta?",
+      "explain_it": "Savoir alla seconda persona singolare è tu sais: la risposta è un fatto, quindi si usa savoir."
+    },
+    {
+      "id": "L013-e11",
+      "type": "write",
+      "level": 2,
+      "concept": "interrogatives",
+      "prompt": "Chiedi (dando del tu) che cos'è questo telefono.",
+      "answers": [
+        "Qu'est-ce que c'est, ce téléphone ?",
+        "C'est quoi, ce téléphone ?",
+        "Qu'est-ce que c'est que ce téléphone ?"
+      ],
+      "explain_it": "Dopo qu'est-ce que c'est si può precisare l'oggetto con ce (dimostrativo maschile): Qu'est-ce que c'est, ce téléphone ? In modo colloquiale: C'est quoi, ce téléphone ?"
+    },
+    {
+      "id": "L013-e12",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-position",
+      "prompt": "È un nuovo ristorante.",
+      "answers": [
+        "C'est un nouveau restaurant."
+      ],
+      "explain_it": "Restaurant è maschile e nouveau va prima del nome."
+    },
+    {
+      "id": "L013-e13",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-position",
+      "prompt": "Ho un nuovo cellulare.",
+      "answers": [
+        "J'ai un nouveau téléphone portable.",
+        "J'ai un nouveau portable."
+      ],
+      "explain_it": "Nouveau sta prima di téléphone; portable, invece, segue il nome o si usa da solo come nome."
+    },
+    {
+      "id": "L013-e14",
+      "type": "write",
+      "level": 2,
+      "concept": "modals",
+      "prompt": "Puoi pagare con la carta? (dando del tu)",
+      "answers": [
+        "Tu peux payer avec la carte ?",
+        "Peux-tu payer avec la carte ?",
+        "Est-ce que tu peux payer avec la carte ?"
+      ],
+      "explain_it": "Con tu si può usare la forma tu peux, l'inversione peux-tu o est-ce que; payer segue all'infinito, senza preposizione."
+    },
+    {
+      "id": "L013-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "modals",
+      "prompt": "Potete ordinare un caffè?",
+      "answers": [
+        "[Vous pouvez|Pouvez-vous|Est-ce que vous pouvez] commander un café ?"
+      ],
+      "explain_it": "Pouvoir con vous è pouvez; l'infinito commander segue direttamente."
+    },
+    {
+      "id": "L013-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "modals",
+      "text": "Vous ___ parler français ?",
+      "answers": [
+        "pouvez"
+      ],
+      "hint": "(pouvoir, presente, vous)",
+      "prompt": "Potete parlare francese?",
+      "explain_it": "Con vous la forma di pouvoir è pouvez, e il verbo all'infinito non cambia."
+    },
+    {
+      "id": "L013-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "Ascolto la radio.",
+      "answers": [
+        "J'écoute la radio."
+      ],
+      "explain_it": "Écouter non vuole preposizione: il complemento oggetto è diretto."
+    },
+    {
+      "id": "L013-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "Parlo a mia sorella.",
+      "answers": [
+        "Je parle à ma sœur."
+      ],
+      "explain_it": "Parler richiede à davanti alla persona con cui si parla: è l'eccezione rispetto ai verbi del gruppo precedente."
+    },
+    {
+      "id": "L013-e19",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Le téléphone ne ___ pas.",
+      "answers": [
+        "marche"
+      ],
+      "hint": "(marcher, presente)",
+      "prompt": "Il telefono non funziona.",
+      "explain_it": "Marcher nel senso di funzionare è coniugato al presente come un verbo in -er regolare: il marche."
+    },
+    {
+      "id": "L013-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Va bene! (risposta colloquiale, con marcher)",
+      "answers": [
+        "Ça marche !"
+      ],
+      "explain_it": "Ça marche è la risposta colloquiale per dire 'ok, va bene'."
+    },
+    {
+      "id": "L013-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "present-irregular",
+      "prompt": "Conosco bene Parigi.",
+      "answers": [
+        "Je connais bien Paris."
+      ],
+      "explain_it": "Parigi è un luogo: si usa connaître e la città non prende articolo."
+    },
+    {
+      "id": "L013-e22",
+      "type": "cloze",
+      "level": 2,
+      "concept": "present-irregular",
+      "text": "Nous ne ___ pas ce restaurant.",
+      "answers": [
+        "connaissons"
+      ],
+      "hint": "(connaître, presente, nous)",
+      "prompt": "Non conosciamo questo ristorante.",
+      "explain_it": "Con nous connaître diventa connaissons; è un luogo, quindi si usa connaître e non savoir."
+    },
+    {
+      "id": "L013-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "present-irregular",
+      "prompt": "Sai parlare francese? (dando del tu)",
+      "answers": [
+        "Sais-tu parler français ?",
+        "Tu sais parler français ?"
+      ],
+      "explain_it": "Saper fare qualcosa è una competenza: si usa savoir seguito dall'infinito."
+    },
+    {
+      "id": "L013-e24",
+      "type": "mcq",
+      "level": 2,
+      "concept": "indefinites",
+      "prompt": "Completa: « Il fait ___. » (Fa tutto.)",
+      "options": [
+        "tout",
+        "toute",
+        "tous",
+        "toutes"
+      ],
+      "correct": 0,
+      "explain_it": "Usato da solo come pronome, tout resta invariabile: non si accorda con nessun nome."
+    },
+    {
+      "id": "L013-e25",
+      "type": "flash",
+      "level": 2,
+      "concept": "indefinites",
+      "front": "Tout usato da solo (pronome)",
+      "back": "È invariabile e significa 'tutto': Il fait tout (fa tutto). Come aggettivo, invece, si accorda: tout, toute, tous, toutes.",
+      "explain_it": "Il pronome tout non prende mai una desinenza, mentre l'aggettivo concorda con il nome."
+    },
+    {
+      "id": "L013-e26",
+      "type": "flash",
+      "level": 2,
+      "concept": "modals",
+      "front": "Coniugazione di pouvoir al presente",
+      "back": "je peux, tu peux, il/elle peut, nous pouvons, vous pouvez, ils/elles peuvent",
+      "explain_it": "Pouvoir è irregolare: le forme je, tu, il sono peux/peut, mentre nous e vous hanno la radice pouv-."
+    },
+    {
+      "id": "L013-e27",
+      "type": "flash",
+      "level": 2,
+      "concept": "present-irregular",
+      "front": "Savoir o connaître? (sapere o conoscere)",
+      "back": "Savoir (je sais) per fatti e abilità; connaître (je connais) per persone, luoghi e cose familiari.",
+      "explain_it": "La scelta dipende dal tipo di oggetto: un fatto si sa, una persona o un posto si conosce."
+    },
+    {
+      "id": "L013-e28",
+      "type": "flash",
+      "level": 2,
+      "concept": "adjective-position",
+      "front": "Dove si mette nouveau?",
+      "back": "Di solito prima del nome: un nouveau téléphone, une nouvelle maison. Al femminile diventa nouvelle.",
+      "explain_it": "Nouveau è uno degli aggettivi che di norma precedono il nome, come beau e grand."
+    },
+    {
+      "id": "L013-e29",
+      "type": "dictation",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Il ne marche pas.",
+      "answers": [
+        "Il ne marche pas."
+      ],
+      "explain_it": "Qui il pronome il si riferisce a un oggetto maschile, come il telefono, e marche significa 'funziona'."
+    },
+    {
+      "id": "L013-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "indefinites",
+      "prompt": "Lui fa tutto per i suoi amici.",
+      "answers": [
+        "Il fait tout pour ses amis.",
+        "Il fait absolument tout pour ses amis."
+      ],
+      "explain_it": "Tout è pronome invariabile, e l'avverbio absolument può rafforzarlo come nel dialogo."
+    },
+    {
+      "id": "L013-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "interrogatives",
+      "prompt": "Chiedi (dando del tu) che cos'è questo nuovo telefono e se funziona.",
+      "answers": [
+        "Qu'est-ce que c'est, ce nouveau téléphone ? [Il marche|Ça marche|Est-ce qu'il marche] ?",
+        "C'est quoi, ce nouveau téléphone ? [Il marche|Ça marche|Est-ce qu'il marche] ?"
+      ],
+      "explain_it": "Si combinano qu'est-ce que c'est (o c'est quoi), il dimostrativo ce, l'aggettivo nouveau davanti al nome e la domanda sul funzionamento con marcher."
+    },
+    {
+      "id": "L013-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "modals",
+      "prompt": "Lei può chiamare il mio amico, ma non conosce il suo numero.",
+      "answers": [
+        "Elle peut appeler mon ami, mais elle ne connaît pas son numéro.",
+        "Elle peut appeler mon ami mais elle ne connaît pas son numéro."
+      ],
+      "explain_it": "Qui si incrociano pouvoir (possibilità) e connaître (conoscere un numero come dato noto): due verbi con sfumature diverse."
+    },
+    {
+      "id": "L013-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "adjective-position",
+      "prompt": "Non conosciamo questa nuova casa.",
+      "answers": [
+        "Nous ne connaissons pas cette nouvelle maison."
+      ],
+      "explain_it": "Maison è femminile: nouvelle sta davanti al nome e cette è il dimostrativo femminile (questa)."
+    },
+    {
+      "id": "L013-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Il tuo telefono non funziona? (dando del tu)",
+      "answers": [
+        "Ton téléphone ne marche pas ?",
+        "Ton portable ne marche pas ?",
+        "Ton téléphone ne fonctionne pas ?"
+      ],
+      "explain_it": "Marcher è la scelta colloquiale; fonctionner è più neutro e formale per dire la stessa cosa."
+    },
+    {
+      "id": "L013-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "modals",
+      "prompt": "Non posso ascoltare la musica, il telefono non funziona.",
+      "answers": [
+        "Je ne peux pas écouter la musique, le téléphone ne marche pas.",
+        "Je ne peux pas écouter la musique : le téléphone ne marche pas."
+      ],
+      "explain_it": "Pouvoir alla forma negativa si costruisce con ne...pas attorno al verbo, e l'infinito écouter non richiede preposizione."
+    },
+    {
+      "id": "L013-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "present-irregular",
+      "prompt": "Non lo so, ma conosco bene il quartiere.",
+      "answers": [
+        "Je ne sais pas, mais je connais bien le quartier.",
+        "Je ne sais pas mais je connais bien le quartier."
+      ],
+      "explain_it": "Ne lo so (fatto) richiede savoir, mentre conoscere il quartiere (luogo) richiede connaître."
+    },
+    {
+      "id": "L013-e37",
+      "type": "cloze",
+      "level": 3,
+      "concept": "modals",
+      "text": "Est-ce que tu ___ payer ce soir ?",
+      "answers": [
+        "peux"
+      ],
+      "hint": "(pouvoir, presente, tu)",
+      "prompt": "Puoi pagare stasera?",
+      "explain_it": "Con tu la forma di pouvoir è peux; con est-ce que la coniugazione non cambia."
+    },
+    {
+      "id": "L013-e38",
+      "type": "order",
+      "level": 3,
+      "concept": "present-irregular",
+      "prompt": "Lui non conosce il sindaco.",
+      "answers": [
+        "Il ne connaît pas le maire."
+      ],
+      "distractors": [
+        "sait"
+      ],
+      "explain_it": "Con una persona si usa connaître, e alla terza persona singolare la forma è connaît con l'accento circonflesso."
+    },
+    {
+      "id": "L013-e39",
+      "type": "dictation",
+      "level": 3,
+      "concept": "modals",
+      "text": "Est-ce que vous pouvez envoyer le code ?",
+      "answers": [
+        "Est-ce que vous pouvez envoyer le code ?"
+      ],
+      "explain_it": "Pouvez con vous è la forma di cortesia per chiedere un favore; envoyer resta all'infinito."
+    }
+  ]
+}

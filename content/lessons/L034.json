@@ -1,0 +1,822 @@
+{
+  "n": 34,
+  "title_fr": "Les randonneurs",
+  "title_it": "Gli escursionisti",
+  "review": false,
+  "status": "verified",
+  "source": "c15d4fa8 pdf p67-72 (libro p.149-154; la lezione 34 inizia a pdf p67 e finisce prima del titolo della lezione 35 a pdf p71; risposte all'es. 2 a pdf p72)",
+  "theme_it": "Un appassionato di escursioni spiega a un conoscente perché ha smesso di correre: le ginocchia gli fanno male, ma non sa stare fermo. Quest'anno percorre a piedi settanta chilometri tra Colmar e Strasburgo, fermandosi a metà strada per dormire. Al ritorno, nel bar dove arriva sempre il gestore, qualcuno offre il giro a tutti.",
+  "grammar": [
+    {
+      "id": "present-irregular",
+      "title_it": "Verbi irregolari in -ir: courir, dormir, sentir, servir, offrir, ouvrir, souffrir, partir",
+      "explain_it": "Sono verbi in -ir che non seguono il modello regolare di finir. Courir ha la radice invariabile: je cours, nous courons. Dormir, servir, sentir e partir perdono al singolare l'ultima consonante della radice (dor-m, ser-v, sen-t, par-t) e la ritrovano al plurale: je dors / nous dormons, je sers / nous servons, je pars / nous partons. Offrir, ouvrir e souffrir al presente si coniugano come i verbi in -er: j'offre, tu offres, il offre, nous offrons. Conviene memorizzare queste forme a coppie (singolare e plurale).",
+      "examples": [
+        {
+          "fr": "Je ne cours plus, j'ai mal aux genoux.",
+          "it": "Non corro più, ho male alle ginocchia."
+        },
+        {
+          "fr": "Nous dormons à l'hôtel.",
+          "it": "Dormiamo in albergo."
+        },
+        {
+          "fr": "Tu sers le café ?",
+          "it": "Servi tu il caffè?"
+        }
+      ]
+    },
+    {
+      "id": "plural",
+      "title_it": "Il plurale dei nomi in -ou: -s o -x",
+      "explain_it": "La regola normale è aggiungere -s (un trou, des trous: buca, buche). Esistono però alcuni nomi in -ou che prendono -x al plurale; i più comuni sono genou (ginocchio), bijou (gioiello) e caillou (sasso), che fanno des genoux, des bijoux, des cailloux. Sono sette in tutto, quindi conviene impararli a memoria: bijous con la -s è l'errore più frequente di chi viene dall'italiano.",
+      "examples": [
+        {
+          "fr": "J'ai mal aux genoux.",
+          "it": "Ho male alle ginocchia."
+        },
+        {
+          "fr": "Elle porte des bijoux.",
+          "it": "Porta dei gioielli."
+        }
+      ]
+    },
+    {
+      "id": "negation-other",
+      "title_it": "Ne ... rien: niente",
+      "explain_it": "Rien significa «niente» e, come pas, si costruisce con ne davanti al verbo coniugato: je ne mange rien. Con un infinito, rien si mette davanti all'infinito: je ne peux rien faire. Non si dice mai ne ... pas rien, perché sarebbe una doppia negazione.",
+      "examples": [
+        {
+          "fr": "Je ne peux rien faire pour toi.",
+          "it": "Non posso fare niente per te."
+        },
+        {
+          "fr": "Il ne mange rien le matin.",
+          "it": "Non mangia niente la mattina."
+        }
+      ]
+    },
+    {
+      "id": "vocab",
+      "title_it": "Il prefisso mi- (metà)",
+      "explain_it": "Il prefisso mi- significa «metà» e si scrive con il trattino: mi-chemin (metà strada), mi-temps (part-time). Nelle espressioni più usate è preceduto da à: à mi-chemin, à mi-temps. Non confonderlo con demi-, che davanti a un nome è invariabile (une demi-heure, mezz'ora), mentre dopo il nome si accorda (une heure et demie).",
+      "examples": [
+        {
+          "fr": "Il s'arrête à mi-chemin.",
+          "it": "Si ferma a metà strada."
+        },
+        {
+          "fr": "Elle travaille à mi-temps.",
+          "it": "Lei lavora part-time."
+        }
+      ]
+    },
+    {
+      "id": "pronoun-y",
+      "title_it": "Il pronome y: ci, vi, lì",
+      "explain_it": "Y sostituisce un luogo già nominato o introdotto da à, dans, en, sur. Si traduce con «ci» o «vi» e si mette davanti al verbo coniugato, come in italiano («ci abito»). Si usa anche per evitare di ripetere un nome, come en, ma solo per le cose e i luoghi, mai per le persone. In «il y a» (c'è/ci sono) ha lo stesso senso di «ci», e in «y compris» significa «compreso».",
+      "examples": [
+        {
+          "fr": "J'y passe la nuit.",
+          "it": "Ci passo la notte."
+        },
+        {
+          "fr": "Tu connais Strasbourg ? J'y travaille.",
+          "it": "Conosci Strasburgo? Ci lavoro."
+        }
+      ]
+    },
+    {
+      "id": "register",
+      "title_it": "Copain e copine: amico, compagno, ragazzo",
+      "explain_it": "Copain (m.) e copine (f.) sono parole familiari per «amico» e «amica», e possono indicare anche il fidanzato o la fidanzata. Il senso dipende dal contesto: nel parlato quotidiano si capisce bene, ma in una lettera formale o in ufficio si usano collègue (collega) o ami (amico). Non confondere con camarade, che è più politico o militare.",
+      "examples": [
+        {
+          "fr": "Avec des copains, on fait des randonnées.",
+          "it": "Con gli amici facciamo escursioni."
+        },
+        {
+          "fr": "Mon copain n'aime pas le froid.",
+          "it": "Il mio ragazzo non ama il freddo."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Le temps: tempo e meteo",
+      "explain_it": "Le temps (m.) significa sia «il tempo» (la durata) sia «il tempo atmosferico». Si distingue dal contesto: avoir le temps significa avere tempo, mentre le temps est pluvieux è il meteo. Si usa il singolare anche per il meteo, come nell'italiano «il tempo è brutto». Anche il tempo verbale si chiama le temps (per esempio le futur simple, il futuro semplice): il contesto grammaticale chiarisce subito di quale si parla.",
+      "examples": [
+        {
+          "fr": "Je n'ai pas le temps.",
+          "it": "Non ho tempo."
+        },
+        {
+          "fr": "Le temps est pluvieux en automne.",
+          "it": "In autunno il tempo è piovoso."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "courir",
+      "it": "correre",
+      "pos": "v",
+      "note": "je cours"
+    },
+    {
+      "fr": "le genou",
+      "it": "il ginocchio",
+      "pos": "n",
+      "note": "pl. genoux"
+    },
+    {
+      "fr": "souffrir",
+      "it": "soffrire",
+      "pos": "v",
+      "note": "je souffre"
+    },
+    {
+      "fr": "énormément",
+      "it": "moltissimo",
+      "pos": "adv"
+    },
+    {
+      "fr": "la marche",
+      "it": "la camminata, l'escursione a piedi",
+      "pos": "n"
+    },
+    {
+      "fr": "le kilomètre",
+      "it": "il chilometro",
+      "pos": "n"
+    },
+    {
+      "fr": "partir",
+      "it": "partire",
+      "pos": "v",
+      "note": "je pars"
+    },
+    {
+      "fr": "repartir",
+      "it": "ripartire",
+      "pos": "v",
+      "note": "je repars"
+    },
+    {
+      "fr": "le lendemain",
+      "it": "il giorno dopo",
+      "pos": "n"
+    },
+    {
+      "fr": "dormir",
+      "it": "dormire",
+      "pos": "v",
+      "note": "je dors"
+    },
+    {
+      "fr": "la randonnée",
+      "it": "l'escursione (a piedi, lunga)",
+      "pos": "n"
+    },
+    {
+      "fr": "le copain",
+      "it": "l'amico, il ragazzo",
+      "pos": "n",
+      "note": "f. la copine"
+    },
+    {
+      "fr": "organiser",
+      "it": "organizzare",
+      "pos": "v"
+    },
+    {
+      "fr": "l'automne (m.)",
+      "it": "l'autunno",
+      "pos": "n"
+    },
+    {
+      "fr": "l'hiver (m.)",
+      "it": "l'inverno",
+      "pos": "n"
+    },
+    {
+      "fr": "pluvieux",
+      "it": "piovoso",
+      "pos": "adj",
+      "note": "f. pluvieuse"
+    },
+    {
+      "fr": "neiger",
+      "it": "nevicare",
+      "pos": "v",
+      "note": "il neige"
+    },
+    {
+      "fr": "pleuvoir",
+      "it": "piovere",
+      "pos": "v",
+      "note": "il pleut"
+    },
+    {
+      "fr": "gêner",
+      "it": "dare fastidio, disturbare",
+      "pos": "v",
+      "note": "ça me gêne"
+    },
+    {
+      "fr": "le patron",
+      "it": "il titolare, il gestore",
+      "pos": "n",
+      "note": "f. la patronne"
+    },
+    {
+      "fr": "offrir",
+      "it": "offrire",
+      "pos": "v",
+      "note": "j'offre"
+    },
+    {
+      "fr": "la tournée",
+      "it": "il giro (di consumazioni offerte)",
+      "pos": "n"
+    },
+    {
+      "fr": "le nez",
+      "it": "il naso",
+      "pos": "n"
+    },
+    {
+      "fr": "le froid",
+      "it": "il freddo",
+      "pos": "n"
+    },
+    {
+      "fr": "le petit-déjeuner",
+      "it": "la colazione",
+      "pos": "n"
+    },
+    {
+      "fr": "servir",
+      "it": "servire",
+      "pos": "v",
+      "note": "je sers"
+    },
+    {
+      "fr": "ouvrir",
+      "it": "aprire",
+      "pos": "v",
+      "note": "j'ouvre"
+    },
+    {
+      "fr": "rien",
+      "it": "niente, nulla",
+      "pos": "pron"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "mettre le nez dehors",
+      "it": "uscire di casa",
+      "note": "quasi sempre in frase negativa; familiare"
+    },
+    {
+      "fr": "offrir la tournée",
+      "it": "offrire da bere a tutti",
+      "note": "al bar, quando si paga il giro"
+    },
+    {
+      "fr": "à mi-chemin",
+      "it": "a metà strada",
+      "note": "vale sia per il percorso sia per un luogo tra due punti"
+    },
+    {
+      "fr": "tout de suite",
+      "it": "subito",
+      "note": "si usa spesso anche al bar"
+    },
+    {
+      "fr": "ce n'est pas grave",
+      "it": "non è grave",
+      "note": "risposta comune per rassicurare"
+    },
+    {
+      "fr": "y compris",
+      "it": "compreso, incluso",
+      "note": "neutro; si mette prima del nome: y compris le service"
+    },
+    {
+      "fr": "tout seul",
+      "it": "da solo",
+      "note": "neutro; al femminile tout seule"
+    },
+    {
+      "fr": "Qu'est-ce que je vous sers ?",
+      "it": "Cosa vi porto?",
+      "note": "frase tipica del barista o del cameriere"
+    }
+  ],
+  "notes_it": [
+    "Pronuncia: la -er finale di «hiver» si pronuncia come quella di «cher» e la h iniziale è muta. «Nez» si pronuncia come la sillaba finale di «venez».",
+    "Falsi amici: «la marche» vuol dire camminata a piedi, non «marcia» militare. «Gêner» significa dare fastidio, non «gelare». «Le patron» è il titolare o il gestore del locale, non il santo patrono.",
+    "Cultura: Colmar, Strasburgo e Sélestat si trovano in Alsazia, regione dell'est della Francia con una propria lingua germanica (l'alsaziano), vicina alla Germania. Il Reno (le Rhin) segna il confine.",
+    "Registro: copain è molto usato nel parlato, ma va evitato in una lettera o in una situazione formale, dove si dice ami o collègue."
+  ],
+  "exercises": [
+    {
+      "id": "L034-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "present-irregular",
+      "prompt": "Come si dice «Non corro più»?",
+      "options": [
+        "Je ne cours plus.",
+        "Je ne courre plus.",
+        "Je ne courons plus.",
+        "Je ne cour plus."
+      ],
+      "correct": 0,
+      "explain_it": "Courir è irregolare: je cours. Courons è la forma del noi e cour non esiste come forma coniugata."
+    },
+    {
+      "id": "L034-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "present-irregular",
+      "prompt": "Come si dice «Noi serviamo il caffè»?",
+      "options": [
+        "Nous servons le café.",
+        "Nous servent le café.",
+        "Nous serve le café.",
+        "Nous sers le café."
+      ],
+      "correct": 0,
+      "explain_it": "Servir ha la radice serv- con il noi: nous servons. Servent è la forma di ils, mentre sers è la forma di je."
+    },
+    {
+      "id": "L034-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "plural",
+      "prompt": "Qual è il plurale corretto di «un bijou»?",
+      "options": [
+        "des bijous",
+        "des bijoux",
+        "des bijouxs",
+        "des bijoues"
+      ],
+      "correct": 1,
+      "explain_it": "Bijou prende la -x come genou e caillou. Bijous con la -s è l'errore tipico di chi applica la regola generale."
+    },
+    {
+      "id": "L034-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "negation-other",
+      "prompt": "Come si dice «Non posso fare niente per te»?",
+      "options": [
+        "Je ne peux rien faire pour toi.",
+        "Je peux ne rien faire pour toi.",
+        "Je ne peux pas rien faire pour toi.",
+        "Je ne peux faire rien pour toi."
+      ],
+      "correct": 0,
+      "explain_it": "Rien va davanti all'infinito faire. Pas rien è una doppia negazione, e faire rien con rien dopo il verbo è sbagliato."
+    },
+    {
+      "id": "L034-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronoun-y",
+      "prompt": "Come si dice «Ci abito da tre anni»?",
+      "options": [
+        "J'y habite depuis trois ans.",
+        "Je habite y depuis trois ans.",
+        "J'habite y depuis trois ans.",
+        "Je y habite depuis trois ans."
+      ],
+      "correct": 0,
+      "explain_it": "Y sostituisce il luogo dopo habiter à e si mette davanti al verbo: j'y habite. Y non si pone mai dopo il verbo coniugato."
+    },
+    {
+      "id": "L034-e06",
+      "type": "mcq",
+      "level": 1,
+      "concept": "register",
+      "prompt": "Come si dice in francese familiare «il mio amico» (anche il ragazzo)?",
+      "options": [
+        "mon copain",
+        "mon cousin",
+        "mon collègue",
+        "mon voisin"
+      ],
+      "correct": 0,
+      "explain_it": "Copain è la parola familiare per «amico» o «ragazzo»; cousin, collègue e voisin sono altre persone (cugino, collega, vicino)."
+    },
+    {
+      "id": "L034-e07",
+      "type": "mcq",
+      "level": 1,
+      "concept": "vocab",
+      "prompt": "Come si dice «lavorare a metà tempo»?",
+      "options": [
+        "travailler à mi-temps",
+        "travailler à moitié temps",
+        "travailler à mi-tempe",
+        "travailler à demi-tempo"
+      ],
+      "correct": 0,
+      "explain_it": "Il prefisso mi- con il trattino è fisso in mi-temps. Moitié temps e demi-tempo non sono espressioni francesi corrette."
+    },
+    {
+      "id": "L034-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "pronoun-y",
+      "prompt": "Ci passo la notte.",
+      "answers": [
+        "J'y passe la nuit."
+      ],
+      "distractors": [
+        "le"
+      ],
+      "explain_it": "Il pronome y va davanti al verbo coniugato e significa «ci», come in italiano."
+    },
+    {
+      "id": "L034-e09",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Non è grave.",
+      "answers": [
+        "Ce n'est pas grave."
+      ],
+      "distractors": [
+        "trop"
+      ],
+      "explain_it": "Ce n'est pas grave è la risposta standard per rassicurare: grave è invariabile."
+    },
+    {
+      "id": "L034-e10",
+      "type": "order",
+      "level": 1,
+      "concept": "vocab",
+      "prompt": "Lui si ferma a metà strada.",
+      "answers": [
+        "Il s'arrête à mi-chemin."
+      ],
+      "distractors": [
+        "demi"
+      ],
+      "explain_it": "Mi-chemin è un'unica parola con il trattino, preceduta da à: si ferma a metà strada."
+    },
+    {
+      "id": "L034-e11",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Io offro da bere a tutti.",
+      "answers": [
+        "J'offre la tournée à tout le monde."
+      ],
+      "distractors": [
+        "du"
+      ],
+      "explain_it": "Offrir la tournée è l'espressione del bar per pagare il giro, e a tout le monde significa «a tutti»."
+    },
+    {
+      "id": "L034-e12",
+      "type": "order",
+      "level": 1,
+      "concept": "negation",
+      "prompt": "Non metto il naso fuori di casa.",
+      "answers": [
+        "Je ne mets pas le nez dehors."
+      ],
+      "distractors": [
+        "jamais"
+      ],
+      "explain_it": "Mettre le nez dehors è un'espressione familiare, negata con ne...pas davanti e dopo il verbo."
+    },
+    {
+      "id": "L034-e13",
+      "type": "cloze",
+      "level": 1,
+      "concept": "present-irregular",
+      "text": "Nous ___ le matin dans le parc.",
+      "answers": [
+        "courons"
+      ],
+      "hint": "(courir, presente)",
+      "prompt": "Corriamo la mattina nel parco."
+    },
+    {
+      "id": "L034-e14",
+      "type": "cloze",
+      "level": 1,
+      "concept": "present-irregular",
+      "text": "Le serveur ___ le café avec le sourire.",
+      "answers": [
+        "sert"
+      ],
+      "hint": "(servir, presente)",
+      "prompt": "Il cameriere serve il caffè con il sorriso."
+    },
+    {
+      "id": "L034-e15",
+      "type": "cloze",
+      "level": 1,
+      "concept": "pronoun-y",
+      "text": "Il ___ a beaucoup de randonneurs ici.",
+      "answers": [
+        "y"
+      ],
+      "prompt": "Qui ci sono molti escursionisti."
+    },
+    {
+      "id": "L034-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "present-irregular",
+      "text": "Je ___ du dos depuis hier.",
+      "answers": [
+        "souffre"
+      ],
+      "hint": "(souffrir, presente)",
+      "prompt": "Ho male alla schiena da ieri."
+    },
+    {
+      "id": "L034-e17",
+      "type": "cloze",
+      "level": 2,
+      "concept": "present-irregular",
+      "text": "Ils ___ demain matin, très tôt.",
+      "answers": [
+        "partent"
+      ],
+      "hint": "(partir, presente)",
+      "prompt": "Partono domani mattina, molto presto."
+    },
+    {
+      "id": "L034-e18",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-y",
+      "text": "Tu vas à Colmar ? Oui, j'___ vais souvent.",
+      "answers": [
+        "y"
+      ],
+      "prompt": "Vai a Colmar? Sì, ci vado spesso."
+    },
+    {
+      "id": "L034-e19",
+      "type": "cloze",
+      "level": 2,
+      "concept": "plural",
+      "text": "J'ai mal aux ___ après la marche.",
+      "answers": [
+        "genoux"
+      ],
+      "prompt": "Ho male alle ginocchia dopo la camminata."
+    },
+    {
+      "id": "L034-e20",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "J'arrive ___ de suite au café.",
+      "answers": [
+        "tout"
+      ],
+      "prompt": "Arrivo subito al bar."
+    },
+    {
+      "id": "L034-e21",
+      "type": "cloze",
+      "level": 2,
+      "concept": "false-friends",
+      "text": "Le samedi, je fais une longue ___ dans la forêt.",
+      "answers": [
+        "marche",
+        "randonnée"
+      ],
+      "prompt": "Il sabato faccio una lunga escursione nel bosco."
+    },
+    {
+      "id": "L034-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "present-irregular",
+      "prompt": "Io corro ogni mattina.",
+      "answers": [
+        "Je cours tous les matins.",
+        "Je cours chaque matin."
+      ]
+    },
+    {
+      "id": "L034-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "present-irregular",
+      "prompt": "Noi offriamo un caffè al direttore.",
+      "answers": [
+        "Nous offrons un café au directeur.",
+        "On offre un café au directeur."
+      ]
+    },
+    {
+      "id": "L034-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "plural",
+      "prompt": "Ho due nuovi gioielli.",
+      "answers": [
+        "J'ai deux nouveaux bijoux."
+      ]
+    },
+    {
+      "id": "L034-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "negation-other",
+      "prompt": "Non mangio niente la sera.",
+      "answers": [
+        "Je ne mange rien le soir."
+      ]
+    },
+    {
+      "id": "L034-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-y",
+      "prompt": "Ci vado ogni anno.",
+      "answers": [
+        "J'y vais chaque année.",
+        "J'y vais tous les ans."
+      ]
+    },
+    {
+      "id": "L034-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Lavoro a metà tempo.",
+      "answers": [
+        "Je [travaille|bosse] à [mi-temps|temps partiel]."
+      ]
+    },
+    {
+      "id": "L034-e28",
+      "type": "write",
+      "level": 2,
+      "concept": "register",
+      "prompt": "Il mio amico Marc viene con me.",
+      "answers": [
+        "Mon copain Marc vient avec moi.",
+        "Marc, mon copain, vient avec moi."
+      ]
+    },
+    {
+      "id": "L034-e29",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Oggi fa bel tempo.",
+      "answers": [
+        "Il fait beau aujourd'hui.",
+        "Il fait beau temps aujourd'hui.",
+        "Aujourd'hui il fait beau."
+      ]
+    },
+    {
+      "id": "L034-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "present-irregular",
+      "prompt": "Noi corriamo nel parco e poi serviamo la colazione agli ospiti.",
+      "answers": [
+        "[Nous courons dans le parc et nous servons|On court dans le parc et on sert] le petit-déjeuner aux [invités|clients]."
+      ]
+    },
+    {
+      "id": "L034-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-y",
+      "prompt": "Non posso fare niente: ci passo tutta la notte.",
+      "answers": [
+        "Je ne peux rien faire : j'y passe toute la nuit.",
+        "Je ne peux rien faire, j'y passe toute la nuit."
+      ]
+    },
+    {
+      "id": "L034-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "present-irregular",
+      "prompt": "Non sento il freddo, ma ho male alle ginocchia.",
+      "answers": [
+        "Je ne sens pas le froid, mais j'ai mal aux genoux."
+      ]
+    },
+    {
+      "id": "L034-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "vocab",
+      "prompt": "Il negozio è a metà strada tra casa mia e il lavoro.",
+      "answers": [
+        "[Le magasin|La boutique] est à mi-chemin entre chez moi et [le travail|le bureau|mon travail]."
+      ]
+    },
+    {
+      "id": "L034-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "register",
+      "prompt": "Il mio ragazzo dice che il freddo non lo disturba affatto.",
+      "answers": [
+        "Mon copain dit que le froid ne le [gêne|dérange] pas du tout."
+      ]
+    },
+    {
+      "id": "L034-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Stiamo per partire e non abbiamo tempo.",
+      "answers": [
+        "Nous allons partir et nous n'avons pas le temps.",
+        "On va partir et on n'a pas le temps."
+      ]
+    },
+    {
+      "id": "L034-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Oggi offro da bere a tutti, ma ho poco tempo.",
+      "answers": [
+        "Aujourd'hui j'offre la tournée, mais j'ai peu de temps.",
+        "Aujourd'hui je paie la tournée, mais j'ai peu de temps."
+      ]
+    },
+    {
+      "id": "L034-e37",
+      "type": "dictation",
+      "level": 2,
+      "concept": "present-irregular",
+      "text": "Nous partons à sept heures et nous dormons là-bas."
+    },
+    {
+      "id": "L034-e38",
+      "type": "dictation",
+      "level": 3,
+      "concept": "pronoun-y",
+      "text": "J'y vais souvent, mais je n'y reste jamais longtemps."
+    },
+    {
+      "id": "L034-e39",
+      "type": "dictation",
+      "level": 3,
+      "concept": "plural",
+      "text": "Les bijoux de ma mère sont beaux, mais mes genoux me font mal."
+    },
+    {
+      "id": "L034-e40",
+      "type": "flash",
+      "level": 2,
+      "concept": "present-irregular",
+      "front": "Coniuga «courir» al presente",
+      "back": "je cours, tu cours, il court, nous courons, vous courez, ils courent. La radice cour- resta uguale; cambiano solo le desinenze.",
+      "explain_it": "Courir non cambia radice, quindi basta ricordare le desinenze -s, -s, -t e -ons, -ez, -ent."
+    },
+    {
+      "id": "L034-e41",
+      "type": "flash",
+      "level": 2,
+      "concept": "plural",
+      "front": "Quali nomi in -ou prendono -x al plurale?",
+      "back": "Pochi, tra cui genou, bijou e caillou: des genoux, des bijoux, des cailloux. Gli altri in -ou prendono -s: un trou, des trous.",
+      "explain_it": "È una lista ristretta da imparare a memoria, perché la regola generale è la -s."
+    },
+    {
+      "id": "L034-e42",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronoun-y",
+      "front": "Quando si usa il pronome y e dove si mette?",
+      "back": "Per sostituire un luogo già nominato o introdotto da à, dans, en. Si traduce «ci» o «vi» e si mette davanti al verbo coniugato: J'y vais. Non si usa per le persone.",
+      "explain_it": "Y è il corrispettivo del «ci» italiano e sostituisce i luoghi, non le persone."
+    },
+    {
+      "id": "L034-e43",
+      "type": "flash",
+      "level": 2,
+      "concept": "negation-other",
+      "front": "Come si costruisce ne...rien con un infinito?",
+      "back": "ne + verbo coniugato + rien + infinito: je ne peux rien faire. Mai pas rien, che è una doppia negazione.",
+      "explain_it": "Rien va davanti all'infinito e la negazione ne...rien sostituisce ne...pas."
+    }
+  ]
+}

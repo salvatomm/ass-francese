@@ -1,0 +1,676 @@
+{
+  "n": 14,
+  "title_fr": "Révision",
+  "title_it": "Quattordicesima lezione - Ripasso",
+  "review": true,
+  "status": "verified",
+  "source": "529edcbd p61-66 (pdf 61-66, pagine 45-50 del libro)",
+  "theme_it": "Ripasso delle lezioni 8-13: aggettivi possessivi, verbi in -er, i verbi fare e potere, c'est e il est, aggettivi maschili e femminili e posizione degli aggettivi. Il dialogo di ripasso parla di un padre in ufficio, dell'indirizzo che serve e di un regalo di compleanno: un telefono che fa tutto.",
+  "grammar": [
+    {
+      "id": "possessives",
+      "title_it": "Gli aggettivi possessivi",
+      "explain_it": "Il possessivo concorda con la cosa posseduta, non con il possessore: mon/ma/mes (mio), ton/ta/tes (tuo), son/sa/ses (suo, di lui o di lei). Al singolare 'mon' si usa col maschile e 'ma' col femminile, mentre il plurale 'mes' vale per entrambi i generi. Davanti a un femminile che inizia per vocale si usa 'mon', 'ton', 'son' (es. son adresse). Per 'vostro' e 'nostro' le forme sono notre/nos e votre/vos, identiche al maschile e al femminile, mentre 'loro' è leur/leurs.",
+      "examples": [
+        {
+          "fr": "Mon père habite à Lyon.",
+          "it": "Mio padre abita a Lione."
+        },
+        {
+          "fr": "Votre carte est sur la table.",
+          "it": "La vostra carta è sul tavolo."
+        },
+        {
+          "fr": "Il cherche son adresse.",
+          "it": "Cerca il suo indirizzo."
+        }
+      ]
+    },
+    {
+      "id": "present-er",
+      "title_it": "I verbi in -er e il loro participio",
+      "explain_it": "I verbi in -er sono il gruppo più numeroso del francese, migliaia di verbi regolari. Al presente si toglie -er e si aggiungono le desinenze -e, -es, -e, -ons, -ez, -ent. Le forme je, tu, il e ils si pronunciano allo stesso modo, quindi la differenza è scritta. Il participio passato si forma togliendo la -r finale e mettendo l'accento sulla -é: parler → parlé, regarder → regardé, téléphoner → téléphoné. La pronuncia non cambia. Il participio serve al passato composto, che vedrai più avanti.",
+      "examples": [
+        {
+          "fr": "Nous habitons à Paris.",
+          "it": "Abitiamo a Parigi."
+        },
+        {
+          "fr": "Ils demandent l'adresse.",
+          "it": "Chiedono l'indirizzo."
+        },
+        {
+          "fr": "Vous téléphonez à Louise ?",
+          "it": "Telefonate a Louise?"
+        }
+      ]
+    },
+    {
+      "id": "faire",
+      "title_it": "Il verbo faire",
+      "explain_it": "Faire copre due significati dell'italiano 'fare': il generico 'fare' (to do) e quello di 'fabbricare, creare' (to make). È irregolare: je fais, tu fais, il fait, nous faisons, vous faites, ils font. Nelle espressioni fisse si usa spesso con 'les courses' (fare la spesa) e con 'du sport' (fare sport). Per il tempo atmosferico si dice 'il fait' (fa bel tempo: il fait beau).",
+      "examples": [
+        {
+          "fr": "Qu'est-ce que vous faites ?",
+          "it": "Che cosa fate?"
+        },
+        {
+          "fr": "Je fais quelque chose pour toi.",
+          "it": "Faccio qualcosa per te."
+        }
+      ]
+    },
+    {
+      "id": "modals",
+      "title_it": "Il verbo pouvoir",
+      "explain_it": "Pouvoir significa 'potere' nel senso di capacità, possibilità o permesso. È irregolare: je peux, tu peux, il/elle peut, nous pouvons, vous pouvez, ils/elles peuvent. Si usa sempre seguito da un infinito, come in italiano: 'pouvoir parler' = poter parlare. Il sostantivo 'le pouvoir' significa 'il potere' nel senso politico.",
+      "examples": [
+        {
+          "fr": "Je peux essayer ?",
+          "it": "Posso provare?"
+        },
+        {
+          "fr": "Vous ne pouvez pas faire ça.",
+          "it": "Non potete fare questo."
+        }
+      ]
+    },
+    {
+      "id": "ce-cest-il-est",
+      "title_it": "C'est e il est",
+      "explain_it": "'C'est' (plurale 'ce sont') si usa per dire che cosa è una cosa o chi è una persona, e per qualificarla con un aggettivo: C'est un bon ami. 'Il est' / 'elle est' si usa per riprendere un nome già nominato (Où est la clé ? Elle est dans le sac) e per l'ora (Il est huit heures). Per il tempo atmosferico si usa 'il fait' (Il fait froid).",
+      "examples": [
+        {
+          "fr": "C'est mon cadeau.",
+          "it": "È il mio regalo."
+        },
+        {
+          "fr": "Ce sont mes amis.",
+          "it": "Sono i miei amici."
+        },
+        {
+          "fr": "Il est midi et demi.",
+          "it": "Sono le dodici e mezza."
+        }
+      ]
+    },
+    {
+      "id": "adjective-agreement",
+      "title_it": "Aggettivi: forma maschile e femminile",
+      "explain_it": "Il femminile singolare si forma di solito aggiungendo una -e al maschile: petit → petite, grand → grande. Se il maschile finisce già in -e, non cambia (un placard vide, un téléphone portable). Se finisce in -é, si aggiunge -e (occupé → occupée, fatigué → fatiguée). Se finisce in -er, il femminile è in -ère (dernier → dernière, premier → première). Se finisce in -eux, il femminile è in -euse (heureux → heureuse, délicieux → délicieuse). Confronta con l'italiano: in francese l'aggettivo si accorda con il nome che qualifica.",
+      "examples": [
+        {
+          "fr": "Une petite maison.",
+          "it": "Una casa piccola."
+        },
+        {
+          "fr": "Elle est occupée.",
+          "it": "Lei è occupata."
+        },
+        {
+          "fr": "La dernière gare.",
+          "it": "L'ultima stazione."
+        }
+      ]
+    },
+    {
+      "id": "adjective-position",
+      "title_it": "Posizione degli aggettivi: prima o dopo il nome",
+      "explain_it": "La maggior parte degli aggettivi va dopo il nome, come in italiano. Alcuni molto comuni vanno prima e si ricordano con la sigla inglese BAGS: Beauty (beau, joli), Age (vieux, jeune, nouveau), Goodness (bon, mauvais, gentil), Size (grand, petit, haut, gros). Per ora impara ogni aggettivo insieme al nome: un bon ami, un grand bureau.",
+      "examples": [
+        {
+          "fr": "Un bon ami.",
+          "it": "Un buon amico."
+        },
+        {
+          "fr": "Un grand bureau.",
+          "it": "Un grande ufficio."
+        },
+        {
+          "fr": "Un vieux téléphone.",
+          "it": "Un vecchio telefono."
+        }
+      ]
+    }
+  ],
+  "vocab": [],
+  "expressions": [
+    {
+      "fr": "avoir besoin de",
+      "it": "avere bisogno di",
+      "note": "seguito da un nome: avoir besoin de son adresse"
+    },
+    {
+      "fr": "être au bureau",
+      "it": "essere in ufficio",
+      "note": "au = à + le, con luoghi di lavoro"
+    },
+    {
+      "fr": "toute la journée",
+      "it": "tutto il giorno",
+      "note": "toute concorda con journée, femminile"
+    },
+    {
+      "fr": "rentrer avant sept heures",
+      "it": "tornare a casa prima delle sette",
+      "note": "rentrer = tornare a casa, non entrare"
+    },
+    {
+      "fr": "faire absolument tout",
+      "it": "fare davvero di tutto",
+      "note": "registro colloquiale"
+    },
+    {
+      "fr": "cadeau d'anniversaire",
+      "it": "regalo di compleanno"
+    },
+    {
+      "fr": "Voici",
+      "it": "Ecco",
+      "note": "si presenta un oggetto: Voici mon cadeau"
+    },
+    {
+      "fr": "Qu'est-ce que je peux faire pour vous ?",
+      "it": "Posso fare qualcosa per Lei?",
+      "note": "formula di cortesia del commesso o dell'impiegato"
+    }
+  ],
+  "notes_it": [
+    "Come in italiano (suo/sua), il possessivo son/sa/ses concorda con la cosa posseduta e non con il possessore: son bureau può essere l'ufficio di lui o di lei. A differenza dell'inglese, his/her non si distinguono.",
+    "Falso amico: rentrer non significa 'entrare' (che è entrer) ma 'tornare, rientrare (a casa)'.",
+    "Pronuncia: la -s dei plurali mes, tes, ses, nos, vos, leurs è muta, ma si pronuncia davanti a vocale (vos amis, pronunciato vo-z-amis).",
+    "C'est e il est non sono intercambiabili: c'est identifica o qualifica, il est dà l'ora e riprende un nome già detto. Il tempo atmosferico vuole 'il fait', come in italiano 'fa'."
+  ],
+  "exercises": [
+    {
+      "id": "L014-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "possessives",
+      "prompt": "Come si dice 'suo ufficio' (di lui)?",
+      "options": [
+        "son bureau",
+        "sa bureau",
+        "ses bureau",
+        "leur bureau"
+      ],
+      "correct": 0,
+      "explain_it": "Bureau è maschile, quindi si usa son; il francese non distingue se il possessore è lui o lei."
+    },
+    {
+      "id": "L014-e02",
+      "type": "cloze",
+      "level": 2,
+      "concept": "possessives",
+      "text": "Mon frère cherche ___ adresse.",
+      "answers": [
+        "son"
+      ],
+      "hint": "(possessivo, nome femminile che inizia per vocale)",
+      "prompt": "Mio fratello cerca il suo indirizzo.",
+      "explain_it": "'Adresse' è femminile ma inizia per vocale: si usa 'son', non 'sa', per ragioni di pronuncia."
+    },
+    {
+      "id": "L014-e03",
+      "type": "write",
+      "level": 2,
+      "concept": "possessives",
+      "prompt": "Il mio ufficio è grande.",
+      "answers": [
+        "Mon bureau est grand."
+      ],
+      "explain_it": "'Bureau' è maschile e inizia per consonante: si usa 'mon', non 'ma'."
+    },
+    {
+      "id": "L014-e04",
+      "type": "write",
+      "level": 3,
+      "concept": "possessives",
+      "prompt": "Nostra figlia e i nostri amici sono qui.",
+      "answers": [
+        "Notre fille et nos amis sont ici.",
+        "Notre fille et nos amis sont là."
+      ],
+      "explain_it": "'Notre' accompagna il singolare femminile 'fille', mentre 'nos' vale per il plurale sia maschile sia femminile."
+    },
+    {
+      "id": "L014-e05",
+      "type": "flash",
+      "level": 2,
+      "concept": "possessives",
+      "front": "Quando si usa 'son', 'sa' o 'ses' (suo/sua/suoi)?",
+      "back": "Il genere e il numero sono quelli della cosa posseduta: son = maschile singolare, o femminile che inizia per vocale (son adresse); sa = femminile singolare; ses = plurale.",
+      "explain_it": "Il possessivo concorda con la cosa posseduta, come in italiano, ma in francese non indica il sesso del possessore: son bureau è 'il suo ufficio' di lui o di lei."
+    },
+    {
+      "id": "L014-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "present-er",
+      "prompt": "Io ascolto la musica.",
+      "answers": [
+        "J'écoute la musique"
+      ],
+      "distractors": [
+        "écoutons",
+        "écoutez"
+      ],
+      "explain_it": "Con 'je' il verbo in -er prende -e, e davanti a vocale diventa j'écoute."
+    },
+    {
+      "id": "L014-e07",
+      "type": "mcq",
+      "level": 1,
+      "concept": "present-er",
+      "prompt": "Come si dice 'Loro chiedono l'indirizzo'?",
+      "options": [
+        "Ils demandent l'adresse.",
+        "Ils demande l'adresse.",
+        "Ils demandons l'adresse.",
+        "Ils demandez l'adresse."
+      ],
+      "correct": 0,
+      "explain_it": "Con 'ils' il verbo in -er prende la desinenza -ent, che non si pronuncia."
+    },
+    {
+      "id": "L014-e08",
+      "type": "cloze",
+      "level": 2,
+      "concept": "present-er",
+      "text": "Nous ___ à Paris.",
+      "answers": [
+        "habitons"
+      ],
+      "hint": "(habiter, presente, nous)",
+      "prompt": "Abitiamo a Parigi.",
+      "explain_it": "Con 'nous' le forme in -er prendono -ons: habitons."
+    },
+    {
+      "id": "L014-e09",
+      "type": "write",
+      "level": 2,
+      "concept": "present-er",
+      "prompt": "Lui guarda i video.",
+      "answers": [
+        "Il regarde les vidéos."
+      ],
+      "explain_it": "Con 'il' o 'elle' il verbo in -er termina in -e, senza la -s finale."
+    },
+    {
+      "id": "L014-e10",
+      "type": "write",
+      "level": 3,
+      "concept": "present-er",
+      "prompt": "Voi provate il telefonino e chiamate Louise?",
+      "answers": [
+        "Vous essayez le [portable|téléphone] et [vous|] [téléphonez à|appelez] Louise ?"
+      ],
+      "explain_it": "Con 'vous' i verbi in -er prendono -ez: essayez e téléphonez; 'téléphoner' vuole 'à' prima della persona chiamata."
+    },
+    {
+      "id": "L014-e11",
+      "type": "flash",
+      "level": 2,
+      "concept": "present-er",
+      "front": "Desinenze del presente dei verbi in -er (es. regarder): quali sono?",
+      "back": "je -e, tu -es, il -e, nous -ons, vous -ez, ils -ent: je regarde, tu regardes, il regarde, nous regardons, vous regardez, ils regardent.",
+      "explain_it": "Le stesse desinenze valgono per la grande maggioranza dei verbi regolari in -er."
+    },
+    {
+      "id": "L014-e12",
+      "type": "flash",
+      "level": 2,
+      "concept": "present-er",
+      "front": "Come si forma il participio passato dei verbi in -er?",
+      "back": "Si toglie la -r finale dell'infinito e si mette l'accento acuto: parler → parlé, regarder → regardé, téléphoner → téléphoné.",
+      "explain_it": "Il participio è la forma che servirà poi con 'avoir' per il passato composto; la pronuncia resta quella dell'infinito."
+    },
+    {
+      "id": "L014-e13",
+      "type": "cloze",
+      "level": 1,
+      "concept": "faire",
+      "text": "Qu'est-ce que vous ___ ?",
+      "answers": [
+        "faites"
+      ],
+      "hint": "(faire, presente, vous)",
+      "prompt": "Che cosa fate?",
+      "explain_it": "Con 'vous' il verbo faire diventa 'faites', non 'faisez'."
+    },
+    {
+      "id": "L014-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "faire",
+      "text": "Ils ___ du sport le dimanche.",
+      "answers": [
+        "font"
+      ],
+      "hint": "(faire, presente, ils)",
+      "prompt": "Fanno sport la domenica.",
+      "explain_it": "Con 'ils' faire è la forma irregolare 'font', da ricordare a memoria."
+    },
+    {
+      "id": "L014-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "faire",
+      "prompt": "Facciamo la spesa il sabato.",
+      "answers": [
+        "Nous faisons les courses le samedi.",
+        "On fait les courses le samedi."
+      ],
+      "explain_it": "'Faire les courses' significa fare la spesa; con 'nous' si dice 'faisons', con 'on' si dice 'fait'."
+    },
+    {
+      "id": "L014-e16",
+      "type": "mcq",
+      "level": 2,
+      "concept": "faire",
+      "prompt": "Quale forma completa: 'Qu'est-ce que tu ___ aujourd'hui ?'",
+      "options": [
+        "fais",
+        "fait",
+        "faites",
+        "faisons"
+      ],
+      "correct": 0,
+      "explain_it": "Con 'tu' il verbo faire è 'fais', e la -s finale si scrive ma non si pronuncia."
+    },
+    {
+      "id": "L014-e17",
+      "type": "mcq",
+      "level": 1,
+      "concept": "modals",
+      "prompt": "Come si dice 'Lui può parlare francese'?",
+      "options": [
+        "Il peut parler français.",
+        "Il peux parler français.",
+        "Il pouve parler français.",
+        "Il pouvoir parler français."
+      ],
+      "correct": 0,
+      "explain_it": "Pouvoir è irregolare e con 'il' diventa 'peut', seguito dall'infinito."
+    },
+    {
+      "id": "L014-e18",
+      "type": "cloze",
+      "level": 2,
+      "concept": "modals",
+      "text": "Est-ce que vous ___ parler plus lentement ?",
+      "answers": [
+        "pouvez"
+      ],
+      "hint": "(pouvoir, presente, vous)",
+      "prompt": "Potete parlare più lentamente?",
+      "explain_it": "Pouvoir seguito da infinito esprime possibilità o una richiesta cortese; con 'vous' è 'pouvez'."
+    },
+    {
+      "id": "L014-e19",
+      "type": "order",
+      "level": 2,
+      "concept": "modals",
+      "prompt": "Possiamo pagare il pasto?",
+      "answers": [
+        "Est-ce qu'on peut payer le repas",
+        "On peut payer le repas",
+        "Est-ce que nous pouvons payer le repas",
+        "Pouvons-nous payer le repas",
+        "Nous pouvons payer le repas"
+      ],
+      "distractors": [
+        "peuvent",
+        "pouvez"
+      ],
+      "explain_it": "Con 'on' la forma di pouvoir è 'peut' (con nous: pouvons); l'infinito 'payer' segue direttamente il verbo modale."
+    },
+    {
+      "id": "L014-e20",
+      "type": "write",
+      "level": 3,
+      "concept": "modals",
+      "prompt": "Non possiamo fare niente, il telefono non funziona.",
+      "answers": [
+        "Nous ne pouvons rien faire, le téléphone ne marche pas.",
+        "On ne peut rien faire, le téléphone ne marche pas."
+      ],
+      "explain_it": "'Ne ... rien' circonda il verbo modale, poi viene l'infinito 'faire'; 'marcher' qui significa 'funzionare'."
+    },
+    {
+      "id": "L014-e21",
+      "type": "flash",
+      "level": 2,
+      "concept": "modals",
+      "front": "Coniuga POUVOIR al presente (je, tu, il, nous, vous, ils).",
+      "back": "je peux, tu peux, il/elle peut, nous pouvons, vous pouvez, ils/elles peuvent. Si usa seguito da un infinito.",
+      "explain_it": "È irregolare, ma la struttura pouvoir + infinito è uguale a quella italiana con 'potere' + infinito."
+    },
+    {
+      "id": "L014-e22",
+      "type": "mcq",
+      "level": 1,
+      "concept": "ce-cest-il-est",
+      "prompt": "Come si dice 'Oggi fa bel tempo'?",
+      "options": [
+        "Il fait beau aujourd'hui.",
+        "Il est beau aujourd'hui.",
+        "Il a beau aujourd'hui.",
+        "Il y a beau aujourd'hui."
+      ],
+      "correct": 0,
+      "explain_it": "Per il tempo atmosferico si usa 'il fait' (fare), non 'il est'."
+    },
+    {
+      "id": "L014-e23",
+      "type": "cloze",
+      "level": 2,
+      "concept": "ce-cest-il-est",
+      "text": "Où est la clé ? – ___ est dans le sac.",
+      "answers": [
+        "Elle"
+      ],
+      "hint": "(pronome per un nome femminile)",
+      "prompt": "Dov'è la chiave? – È nella borsa.",
+      "explain_it": "Per riprendere un nome femminile già nominato si usa 'elle est', non 'il est'."
+    },
+    {
+      "id": "L014-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "ce-cest-il-est",
+      "prompt": "Questo è il mio regalo.",
+      "answers": [
+        "C'est mon cadeau."
+      ],
+      "explain_it": "Per identificare una cosa si usa 'c'est', non 'il est'."
+    },
+    {
+      "id": "L014-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "ce-cest-il-est",
+      "prompt": "Questi sono i miei amici.",
+      "answers": [
+        "Ce sont mes amis."
+      ],
+      "explain_it": "Il plurale di 'c'est' è 'ce sont', e il possessivo plurale è 'mes'."
+    },
+    {
+      "id": "L014-e26",
+      "type": "write",
+      "level": 3,
+      "concept": "ce-cest-il-est",
+      "prompt": "Sono le dodici e mezza, e il ristorante è aperto.",
+      "answers": [
+        "Il est midi et demi, et le restaurant est ouvert.",
+        "Il est douze heures et demie, et le restaurant est ouvert."
+      ],
+      "explain_it": "Per l'ora si usa 'il est'; 'le restaurant est ouvert' descrive lo stato di una cosa già nominata."
+    },
+    {
+      "id": "L014-e27",
+      "type": "dictation",
+      "level": 2,
+      "concept": "ce-cest-il-est",
+      "text": "Il fait froid aujourd'hui.",
+      "explain_it": "'Il fait' + aggettivo serve per il tempo; 'froid' non cambia di genere."
+    },
+    {
+      "id": "L014-e28",
+      "type": "flash",
+      "level": 2,
+      "concept": "ce-cest-il-est",
+      "front": "Quando usare 'c'est' e quando 'il est' / 'elle est'?",
+      "back": "C'est (ce sont al plurale) per identificare o qualificare: C'est un bon ami. Il est / elle est per riprendere un nome già nominato o per l'ora: Où est la clé ? Elle est dans le sac. Il est huit heures.",
+      "explain_it": "La scelta dipende dalla funzione della frase: identificare o qualificare, oppure indicare un luogo o un'ora."
+    },
+    {
+      "id": "L014-e29",
+      "type": "mcq",
+      "level": 1,
+      "concept": "adjective-agreement",
+      "prompt": "Quale espressione significa 'una casa piccola'?",
+      "options": [
+        "une petite maison",
+        "un petit maison",
+        "une petit maison",
+        "une petits maisons"
+      ],
+      "correct": 0,
+      "explain_it": "'Maison' è femminile, quindi 'petit' prende la -e; 'une' concorda con il femminile singolare."
+    },
+    {
+      "id": "L014-e30",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "text": "Notre maison est ___.",
+      "answers": [
+        "petite"
+      ],
+      "hint": "(petit, femminile singolare)",
+      "prompt": "La nostra casa è piccola.",
+      "explain_it": "Il femminile di 'petit' si forma aggiungendo -e: petite."
+    },
+    {
+      "id": "L014-e31",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "La tua casa è grande e il tuo ufficio è piccolo.",
+      "answers": [
+        "Ta maison est grande et ton bureau est petit."
+      ],
+      "explain_it": "'Ta' accompagna 'maison' (femminile) e 'ton' accompagna 'bureau' (maschile); 'grande' prende la -e, 'petit' no."
+    },
+    {
+      "id": "L014-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "adjective-agreement",
+      "prompt": "Il ragazzo è stanco e la ragazza è occupata.",
+      "answers": [
+        "Le garçon est fatigué et la fille est occupée."
+      ],
+      "explain_it": "Gli aggettivi maschili in -é formano il femminile in -ée: fatigué → fatiguée, occupé → occupée."
+    },
+    {
+      "id": "L014-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "adjective-agreement",
+      "prompt": "La prima casa è piccola e l'ultima è grande.",
+      "answers": [
+        "La première maison est petite et la dernière est grande."
+      ],
+      "explain_it": "I maschili in -er diventano femminili in -ère: premier → première, dernier → dernière."
+    },
+    {
+      "id": "L014-e34",
+      "type": "flash",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "front": "Femminile degli aggettivi in -é, -er, -eux (es. fatigué, dernier, heureux).",
+      "back": "-é → -ée (fatiguée); -er → -ère (dernière); -eux → -euse (heureuse); la maggior parte degli altri: si aggiunge -e (petite).",
+      "explain_it": "Il femminile si riconosce dalla terminazione del maschile: tre gruppi chiari e poi la regola generale."
+    },
+    {
+      "id": "L014-e35",
+      "type": "dictation",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "text": "Mon père est très gentil.",
+      "explain_it": "'Gentil' è un aggettivo maschile singolare; 'très' lo precede senza cambiarne la forma."
+    },
+    {
+      "id": "L014-e36",
+      "type": "mcq",
+      "level": 2,
+      "concept": "adjective-position",
+      "prompt": "Come si dice 'un buon amico'?",
+      "options": [
+        "un bon ami",
+        "un ami bon",
+        "un ami bonne",
+        "un bonne ami"
+      ],
+      "correct": 0,
+      "explain_it": "'Bon' (bontà) va davanti al nome, quindi si dice 'un bon ami'."
+    },
+    {
+      "id": "L014-e37",
+      "type": "order",
+      "level": 2,
+      "concept": "adjective-position",
+      "prompt": "Ho una casa piccola.",
+      "answers": [
+        "J'ai une petite maison"
+      ],
+      "distractors": [
+        "grande",
+        "petites"
+      ],
+      "explain_it": "'Petit' (grandezza) va prima del nome e prende la -e per 'maison'."
+    },
+    {
+      "id": "L014-e38",
+      "type": "cloze",
+      "level": 3,
+      "concept": "adjective-position",
+      "text": "Voici un ___ téléphone.",
+      "answers": [
+        "nouveau"
+      ],
+      "hint": "(nuovo, davanti al nome)",
+      "prompt": "Ecco un telefono nuovo.",
+      "explain_it": "'Nouveau' (età) va prima del nome; davanti a vocale diventa 'nouvel'."
+    },
+    {
+      "id": "L014-e39",
+      "type": "write",
+      "level": 3,
+      "concept": "adjective-position",
+      "prompt": "Mio padre ha una grande macchina e un vecchio telefono.",
+      "answers": [
+        "Mon père a une grande voiture et un vieux téléphone."
+      ],
+      "explain_it": "'Grand' e 'vieux' vanno prima del nome; 'grande' prende la -e perché 'voiture' è femminile."
+    },
+    {
+      "id": "L014-e40",
+      "type": "mcq",
+      "level": 2,
+      "concept": "liaison",
+      "prompt": "In quale di queste espressioni si pronuncia la -s finale (liaison)?",
+      "options": [
+        "vos amis",
+        "votre bureau",
+        "son adresse",
+        "ma mère"
+      ],
+      "correct": 0,
+      "explain_it": "Con i determinanti plurali (vos, mes, nos, leurs) la -s si pronuncia davanti a vocale: vo-z-amis."
+    }
+  ]
+}

@@ -1,0 +1,821 @@
+{
+  "n": 16,
+  "title_fr": "Un tour dans Paris (Deuxième partie)",
+  "title_it": "Un giro per Parigi (seconda parte)",
+  "review": false,
+  "status": "verified",
+  "source": "529edcbd p71-74 (pdf 71-74, pagine 55-58 del libro)",
+  "theme_it": "Seconda parte del giro di Parigi: la guida confronta la città con altre capitali, descrive la regione parigina e i monumenti come l'Opéra, costruito dall'architetto Charles Garnier. Poi indica i grandi magazzini, il Café de la Paix e il posto migliore per fare una foto, e consiglia di scendere dall'autobus alla fermata vicina.",
+  "grammar": [
+    {
+      "id": "indefinites",
+      "title_it": "Il pronome 'on'",
+      "explain_it": "'On' è un pronome impersonale di terza persona singolare: significa 'si' oppure 'la gente' e corrisponde all'italiano 'si' impersonale (si parla, si mangia). Il verbo resta alla terza persona singolare: on parle, on va. Nel parlato 'on' sostituisce spesso 'nous' (noi), quindi 'on est en retard' equivale a 'siamo in ritardo'. Anche quando si traduce con 'si', il verbo francese non cambia forma; attenzione a non metterlo al plurale.",
+      "examples": [
+        {
+          "fr": "On parle français ici.",
+          "it": "Qui si parla francese."
+        },
+        {
+          "fr": "On dit que Paris est une belle ville.",
+          "it": "Si dice che Parigi è una bella città."
+        },
+        {
+          "fr": "On y va ?",
+          "it": "Andiamo?"
+        }
+      ]
+    },
+    {
+      "id": "adjective-position",
+      "title_it": "Posizione di 'grand': prima o dopo il nome",
+      "explain_it": "L'aggettivo 'grand' va di solito prima del nome e in quella posizione ha il senso figurato di 'grande' nel significato di importante, famoso: un grand architecte è un grande architetto, nel senso di eminente. Dopo il nome, invece, indica la dimensione fisica o l'altezza: un homme grand è un uomo alto. Come ogni aggettivo, concorda con il nome: grand, grande, grands, grandes.",
+      "examples": [
+        {
+          "fr": "Un grand architecte.",
+          "it": "Un grande architetto."
+        },
+        {
+          "fr": "Une grande ville, avec de grands magasins.",
+          "it": "Una grande città, con grandi magazzini."
+        },
+        {
+          "fr": "Un homme grand.",
+          "it": "Un uomo alto."
+        }
+      ]
+    },
+    {
+      "id": "adjectives-irregular",
+      "title_it": "Il femminile irregolare di 'vieux'",
+      "explain_it": "L'aggettivo 'vieux' (vecchio) ha il femminile irregolare 'vieille'. Davanti a un nome maschile che inizia per vocale o h muta il maschile singolare diventa 'vieil' (un vieil homme), come beau diventa bel. Il plurale maschile resta 'vieux' (les vieux bâtiments), il plurale femminile è 'vieilles'. Rispetto all'italiano vecchio/vecchia, in francese la forma femminile cambia anche nel suono.",
+      "examples": [
+        {
+          "fr": "Une vieille église.",
+          "it": "Una vecchia chiesa."
+        },
+        {
+          "fr": "Un vieux bâtiment.",
+          "it": "Un vecchio edificio."
+        },
+        {
+          "fr": "Ses vieilles rues.",
+          "it": "Le sue vecchie strade."
+        }
+      ]
+    },
+    {
+      "id": "imperative",
+      "title_it": "L'imperativo e la forma negativa",
+      "explain_it": "L'imperativo si usa senza pronome soggetto e ha tre forme: tu, nous, vous. Esempi: Regardez ! (voi), Attends ! (tu). Con i verbi in -er la forma del tu perde la -s: tu parles diventa Parle ! Per la negazione si mette ne prima del verbo e pas dopo: Ne traversez pas ! (non attraversate!). Non confonderlo con 'vous ne traversez pas', che è una semplice affermazione negativa con il pronome soggetto.",
+      "examples": [
+        {
+          "fr": "Écoutez-moi !",
+          "it": "Ascoltatemi!"
+        },
+        {
+          "fr": "Ne parle pas si vite !",
+          "it": "Non parlare così in fretta!"
+        }
+      ]
+    },
+    {
+      "id": "adjective-agreement",
+      "title_it": "Aggettivi al femminile: -e invariabile, raddoppio e -e",
+      "explain_it": "Gli aggettivi che già finiscono in -e (superbe, facile, moderne) hanno la stessa forma al maschile e al femminile: un bâtiment superbe, une maison superbe. Molti altri formano il femminile aggiungendo -e (grand, grande); in alcuni la consonante finale si raddoppia: bon, bonne; ancien, ancienne. Il plurale si forma aggiungendo -s in entrambi i generi.",
+      "examples": [
+        {
+          "fr": "Une bonne idée.",
+          "it": "Una buona idea."
+        },
+        {
+          "fr": "Un hôtel ancien.",
+          "it": "Un albergo antico."
+        },
+        {
+          "fr": "Une maison superbe.",
+          "it": "Una casa splendida."
+        }
+      ]
+    },
+    {
+      "id": "gender",
+      "title_it": "Nomi in -e: genere e articolo",
+      "explain_it": "Molti nomi che finiscono in -e sono femminili, ma non tutti: bâtiment, per esempio, è maschile. I nomi di professione in -e, come 'architecte' o 'journaliste', hanno la stessa forma al maschile e al femminile: il genere si vede solo dall'articolo. Un architecte è un uomo, une architecte è una donna. Per questo il genere va sempre imparato insieme all'articolo.",
+      "examples": [
+        {
+          "fr": "Un architecte, une architecte.",
+          "it": "Un architetto, un'architetta."
+        },
+        {
+          "fr": "C'est une journaliste.",
+          "it": "È una giornalista."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "comparer",
+      "it": "paragonare",
+      "pos": "v",
+      "note": "comparé à: paragonato a"
+    },
+    {
+      "fr": "la capitale",
+      "it": "la capitale",
+      "pos": "n"
+    },
+    {
+      "fr": "la région",
+      "it": "la regione, l'area",
+      "pos": "n",
+      "note": "la région parisienne: l'area urbana di Parigi"
+    },
+    {
+      "fr": "la banlieue",
+      "it": "la periferia",
+      "pos": "n"
+    },
+    {
+      "fr": "la lumière",
+      "it": "la luce",
+      "pos": "n"
+    },
+    {
+      "fr": "le monument",
+      "it": "il monumento",
+      "pos": "n"
+    },
+    {
+      "fr": "l'avenue (f.)",
+      "it": "il viale",
+      "pos": "n"
+    },
+    {
+      "fr": "l'église (f.)",
+      "it": "la chiesa",
+      "pos": "n"
+    },
+    {
+      "fr": "la rue",
+      "it": "la via, la strada",
+      "pos": "n"
+    },
+    {
+      "fr": "le bâtiment",
+      "it": "l'edificio",
+      "pos": "n"
+    },
+    {
+      "fr": "l'architecte (m./f.)",
+      "it": "l'architetto",
+      "pos": "n",
+      "note": "al femminile: une architecte"
+    },
+    {
+      "fr": "le grand magasin",
+      "it": "il grande magazzino",
+      "pos": "n",
+      "note": "al plurale: les grands magasins"
+    },
+    {
+      "fr": "l'endroit (m.)",
+      "it": "il posto, il luogo",
+      "pos": "n"
+    },
+    {
+      "fr": "la photo",
+      "it": "la foto",
+      "pos": "n"
+    },
+    {
+      "fr": "l'arrêt (m.)",
+      "it": "la fermata",
+      "pos": "n",
+      "note": "dell'autobus; non significa 'arresto'"
+    },
+    {
+      "fr": "grand, grande",
+      "it": "grande",
+      "pos": "adj",
+      "note": "prima del nome: un grand architecte; dopo il nome: alto"
+    },
+    {
+      "fr": "vieux, vieille",
+      "it": "vecchio, vecchia",
+      "pos": "adj",
+      "note": "femminile irregolare: vieille"
+    },
+    {
+      "fr": "ancien, ancienne",
+      "it": "antico, vecchio",
+      "pos": "adj",
+      "note": "ancienne: raddoppio della -n e -e"
+    },
+    {
+      "fr": "bon, bonne",
+      "it": "buono, buona",
+      "pos": "adj",
+      "note": "bonne: raddoppio della -n e -e"
+    },
+    {
+      "fr": "superbe",
+      "it": "splendido, magnifico",
+      "pos": "adj",
+      "note": "uguale al maschile e al femminile"
+    },
+    {
+      "fr": "en face de",
+      "it": "di fronte a",
+      "pos": "prep"
+    },
+    {
+      "fr": "derrière",
+      "it": "dietro",
+      "pos": "prep"
+    },
+    {
+      "fr": "à côté de",
+      "it": "accanto a",
+      "pos": "prep"
+    },
+    {
+      "fr": "beaucoup",
+      "it": "molto",
+      "pos": "adv",
+      "note": "beaucoup de + nome: molto, molti"
+    },
+    {
+      "fr": "descendre",
+      "it": "scendere",
+      "pos": "v",
+      "note": "descendre du bus: scendere dall'autobus"
+    },
+    {
+      "fr": "traverser",
+      "it": "attraversare",
+      "pos": "v"
+    },
+    {
+      "fr": "attendre",
+      "it": "aspettare",
+      "pos": "v"
+    },
+    {
+      "fr": "là-bas",
+      "it": "laggiù",
+      "pos": "adv"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Regardez là-bas !",
+      "it": "Guardate laggiù!",
+      "note": "forma di cortesia (vous); con tu: Regarde là-bas"
+    },
+    {
+      "fr": "si vous voulez",
+      "it": "se volete",
+      "note": "con tu: si tu veux"
+    },
+    {
+      "fr": "descendre du bus",
+      "it": "scendere dall'autobus",
+      "note": "in italiano 'scendere da', in francese descendre de + articolo"
+    },
+    {
+      "fr": "faire une photo",
+      "it": "fare una foto",
+      "note": "faire nel senso di scattare"
+    },
+    {
+      "fr": "Je pense que",
+      "it": "Penso che",
+      "note": "seguito dall'indicativo nelle affermazioni"
+    },
+    {
+      "fr": "On l'appelle comme ça",
+      "it": "Lo chiamano così",
+      "note": "on come soggetto impersonale; l' richiama il nome"
+    },
+    {
+      "fr": "Attendez !",
+      "it": "Aspettate!",
+      "note": "per fermare qualcuno; con tu: Attends !"
+    }
+  ],
+  "notes_it": [
+    "Liaison: in 'grand architecte' la -d di grand si pronuncia come una t davanti alla vocale della parola seguente. In italiano non esiste questo fenomeno, quindi conviene ascoltare la frase intera per capire il collegamento tra le parole.",
+    "Falsi amici: 'superbe' significa 'splendido, magnifico', non 'superbo' nel senso di altezzoso (che in francese è 'orgueilleux'). 'L'arrêt' è la fermata (l'arrêt de bus); l'arresto di polizia si dice 'l'arrestation'.",
+    "'La station' può indicare la fermata della metropolitana, mentre la stazione ferroviaria è 'la gare'. Non tradurre automaticamente 'stazione' con 'station' e fai attenzione al contesto.",
+    "'On' è un pronome con molte sfumature: nel parlato sostituisce spesso 'nous' e si usa anche per parlare in modo generico. Quando lo senti, chiediti sempre se il significato è 'si' o 'noi'."
+  ],
+  "exercises": [
+    {
+      "id": "L016-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "adjective-position",
+      "prompt": "Quale forma significa 'un grande architetto' (grande nel senso di importante)?",
+      "options": [
+        "un grand architecte",
+        "un grande architecte",
+        "un architecte grand",
+        "une grand architecte"
+      ],
+      "correct": 0,
+      "explain_it": "Davanti al nome 'grand' resta maschile e assume il senso figurato di 'grande'; con architecte maschile non cambia forma."
+    },
+    {
+      "id": "L016-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "imperative",
+      "prompt": "Quale frase significa 'Non attraversate!' (dando del voi)?",
+      "options": [
+        "Ne traversez pas !",
+        "Ne pas traversez !",
+        "Vous ne traversez pas !",
+        "Traversez ne pas !"
+      ],
+      "correct": 0,
+      "explain_it": "L'imperativo voi non vuole il pronome vous, e la negazione ne ... pas circonda il verbo; 'vous ne traversez pas' è una frase all'indicativo."
+    },
+    {
+      "id": "L016-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "indefinites",
+      "prompt": "Quale frase significa 'Qui si parla francese'?",
+      "options": [
+        "On parle français ici.",
+        "Il parle français ici.",
+        "Ils parlent français ici.",
+        "On parles français ici."
+      ],
+      "correct": 0,
+      "explain_it": "'On' è il pronome impersonale e vuole il verbo alla terza persona singolare, quindi parle; il pronome il significherebbe 'lui'."
+    },
+    {
+      "id": "L016-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "gender",
+      "prompt": "Come si dice in francese 'architetta' (una donna architetto)?",
+      "options": [
+        "une architecte",
+        "une architecteuse",
+        "la architecte",
+        "une architette"
+      ],
+      "correct": 0,
+      "explain_it": "Il nome architecte resta uguale: per il femminile cambia solo l'articolo da un a une."
+    },
+    {
+      "id": "L016-e05",
+      "type": "cloze",
+      "level": 1,
+      "concept": "adjective-agreement",
+      "text": "Vous avez une ___ idée.",
+      "answers": [
+        "bonne"
+      ],
+      "hint": "(bon, femminile singolare)",
+      "prompt": "Avete una buona idea.",
+      "explain_it": "Idée è femminile, quindi bon diventa bonne: il maschile finisce in consonante e il femminile raddoppia la n e aggiunge -e."
+    },
+    {
+      "id": "L016-e06",
+      "type": "cloze",
+      "level": 1,
+      "concept": "adjectives-irregular",
+      "text": "C'est une ___ rue de Paris.",
+      "answers": [
+        "vieille"
+      ],
+      "hint": "(vieux, femminile singolare)",
+      "prompt": "È una vecchia via di Parigi.",
+      "explain_it": "Il femminile di vieux è irregolare: vieille, non vieuxe né vieuse."
+    },
+    {
+      "id": "L016-e07",
+      "type": "cloze",
+      "level": 1,
+      "concept": "adjective-position",
+      "text": "C'est un ___ bâtiment.",
+      "answers": [
+        "grand"
+      ],
+      "hint": "(grand, maschile singolare, prima del nome)",
+      "prompt": "È un grande edificio.",
+      "explain_it": "Bâtiment è maschile e grand va prima del nome, quindi non si aggiunge nessuna -e."
+    },
+    {
+      "id": "L016-e08",
+      "type": "cloze",
+      "level": 1,
+      "concept": "indefinites",
+      "text": "Ici, ___ mange très bien.",
+      "answers": [
+        "on"
+      ],
+      "hint": "(pronome impersonale)",
+      "prompt": "Qui si mangia molto bene.",
+      "explain_it": "Il pronome impersonale on si usa al posto di 'si' e il verbo resta alla terza persona singolare."
+    },
+    {
+      "id": "L016-e09",
+      "type": "order",
+      "level": 1,
+      "concept": "imperative",
+      "prompt": "Aspettate qui.",
+      "answers": [
+        "Attendez ici."
+      ],
+      "distractors": [
+        "attendons",
+        "traversez"
+      ],
+      "explain_it": "Nell'imperativo di voi si usa il verbo senza pronome: Attendez ici significa 'aspettate qui'."
+    },
+    {
+      "id": "L016-e10",
+      "type": "order",
+      "level": 1,
+      "concept": "adjective-agreement",
+      "prompt": "Una buona foto.",
+      "answers": [
+        "Une bonne photo."
+      ],
+      "distractors": [
+        "beau",
+        "bon"
+      ],
+      "explain_it": "Photo è femminile, quindi bon diventa bonne e l'articolo è une."
+    },
+    {
+      "id": "L016-e11",
+      "type": "order",
+      "level": 1,
+      "concept": "indefinites",
+      "prompt": "Qui si mangia bene.",
+      "answers": [
+        "On mange bien ici.",
+        "Ici, on mange bien."
+      ],
+      "distractors": [
+        "ils",
+        "mangent"
+      ],
+      "explain_it": "Con on il verbo mange è alla terza persona singolare, e il pronome ils non va usato qui."
+    },
+    {
+      "id": "L016-e12",
+      "type": "mcq",
+      "level": 1,
+      "concept": "adjective-agreement",
+      "prompt": "Come si dice 'una città antica'?",
+      "options": [
+        "une ville ancienne",
+        "une ville ancien",
+        "un ville ancienne",
+        "une ville anciene"
+      ],
+      "correct": 0,
+      "explain_it": "Ancien raddoppia la n davanti alla -e del femminile: ancienne."
+    },
+    {
+      "id": "L016-e13",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-position",
+      "prompt": "Dì 'una grande città' (usa grand, davanti al nome).",
+      "answers": [
+        "une grande ville"
+      ],
+      "explain_it": "Grand va davanti al nome e concorda con ville al femminile: grande."
+    },
+    {
+      "id": "L016-e14",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-position",
+      "prompt": "Dì 'i grandi magazzini' (usa grand al plurale).",
+      "answers": [
+        "les grands magasins"
+      ],
+      "explain_it": "Al plurale maschile grand diventa grands, anche se il nome è magasins."
+    },
+    {
+      "id": "L016-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "adjectives-irregular",
+      "prompt": "Dì 'una vecchia chiesa' (usa vieux).",
+      "answers": [
+        "une vieille église"
+      ],
+      "explain_it": "Il femminile di vieux è vieille, forma irregolare da ricordare a memoria."
+    },
+    {
+      "id": "L016-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "imperative",
+      "prompt": "Dì a un amico (dandogli del tu): 'Aspetta qui!'",
+      "answers": [
+        "Attends ici."
+      ],
+      "explain_it": "All'imperativo tu di attendre si toglie il pronome tu e si usa attends."
+    },
+    {
+      "id": "L016-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "imperative",
+      "prompt": "Dì a più persone (dando del voi): 'Non toccate il vetro!'",
+      "answers": [
+        "Ne touchez pas [le verre|la vitre].",
+        "Ne touchez pas au verre."
+      ],
+      "explain_it": "La forma negativa dell'imperativo voi è ne + verbo + pas, senza pronome soggetto."
+    },
+    {
+      "id": "L016-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "indefinites",
+      "prompt": "Dì 'Qui si parla italiano.' (usa on).",
+      "answers": [
+        "On parle italien ici.",
+        "Ici, on parle italien."
+      ],
+      "explain_it": "Con on il verbo va alla terza persona singolare: parle, anche se il significato è plurale come in italiano."
+    },
+    {
+      "id": "L016-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "indefinites",
+      "prompt": "Dì 'Siamo in anticipo.' (usa on).",
+      "answers": [
+        "On est en avance.",
+        "Nous sommes en avance."
+      ],
+      "explain_it": "Il pronome on può sostituire nous nel parlato, e con on il verbo è est, alla terza persona singolare."
+    },
+    {
+      "id": "L016-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "Dì 'una giornalista' (il nome journaliste, femminile).",
+      "answers": [
+        "une journaliste"
+      ],
+      "explain_it": "Journaliste è un nome in -e che resta invariato: il femminile si segnala con l'articolo une."
+    },
+    {
+      "id": "L016-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "Dì 'una buona idea' (usa bon).",
+      "answers": [
+        "une bonne idée"
+      ],
+      "explain_it": "Idée è femminile, quindi bon prende la -e e raddoppia la n: bonne."
+    },
+    {
+      "id": "L016-e22",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "text": "C'est une maison ___.",
+      "answers": [
+        "superbe"
+      ],
+      "hint": "(superbe, aggettivo in -e)",
+      "prompt": "È una casa splendida.",
+      "explain_it": "Superbe finisce in -e e non cambia tra maschile e femminile, quindi resta superbe anche con maison."
+    },
+    {
+      "id": "L016-e23",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "text": "Ce bâtiment est très ___.",
+      "answers": [
+        "ancien",
+        "vieux"
+      ],
+      "hint": "(ancien, maschile singolare)",
+      "prompt": "Questo edificio è molto antico.",
+      "explain_it": "Bâtiment è maschile, quindi resta la forma base ancien senza raddoppio."
+    },
+    {
+      "id": "L016-e24",
+      "type": "cloze",
+      "level": 2,
+      "concept": "indefinites",
+      "text": "Le matin, ___ prend un café.",
+      "answers": [
+        "on"
+      ],
+      "hint": "(pronome impersonale)",
+      "prompt": "La mattina si prende un caffè.",
+      "explain_it": "Il pronome on è il modo più comune di esprimere il 'si' impersonale in francese parlato."
+    },
+    {
+      "id": "L016-e25",
+      "type": "cloze",
+      "level": 2,
+      "concept": "imperative",
+      "text": "___ la route ici !",
+      "answers": [
+        "Ne traversez pas"
+      ],
+      "hint": "(traverser, imperativo di vous, negativo)",
+      "prompt": "Non attraversate la strada qui!",
+      "explain_it": "L'imperativo negativo con voi mette ne prima e pas dopo il verbo, senza pronome."
+    },
+    {
+      "id": "L016-e26",
+      "type": "cloze",
+      "level": 2,
+      "concept": "gender",
+      "text": "Ma tante est une ___.",
+      "answers": [
+        "architecte"
+      ],
+      "hint": "(architecte, femminile)",
+      "prompt": "Mia zia è un'architetta.",
+      "explain_it": "Il nome architecte non cambia forma: il femminile si fa con l'articolo une."
+    },
+    {
+      "id": "L016-e27",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adjective-position",
+      "text": "Ce quartier est un ___ endroit pour habiter.",
+      "answers": [
+        "bon"
+      ],
+      "hint": "(bon, maschile singolare, prima del nome)",
+      "prompt": "Questo quartiere è un buon posto dove abitare.",
+      "explain_it": "Endroit è maschile e bon sta prima del nome, quindi resta nella forma maschile."
+    },
+    {
+      "id": "L016-e28",
+      "type": "dictation",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "text": "Une vieille gare très ancienne.",
+      "explain_it": "Vieille è il femminile irregolare di vieux e ancienne raddoppia la n; ascolta bene le due forme."
+    },
+    {
+      "id": "L016-e29",
+      "type": "dictation",
+      "level": 2,
+      "concept": "imperative",
+      "text": "Attendez-moi ici, s'il vous plaît.",
+      "explain_it": "L'imperativo di voi con il pronome moi si scrive con il trattino: attendez-moi."
+    },
+    {
+      "id": "L016-e30",
+      "type": "dictation",
+      "level": 2,
+      "concept": "indefinites",
+      "text": "On dit que le café est bon ici.",
+      "explain_it": "Il pronome on si usa con dire e il verbo resta alla terza persona singolare: on dit."
+    },
+    {
+      "id": "L016-e31",
+      "type": "flash",
+      "level": 2,
+      "concept": "indefinites",
+      "front": "Il pronome 'on'",
+      "back": "Significa 'si' impersonale o 'la gente' e richiede il verbo alla terza persona singolare: on parle, on va. Nel parlato sostituisce spesso 'nous': On y va ? (Andiamo?)",
+      "note": "Non è un plurale, anche se in italiano si traduce spesso al plurale."
+    },
+    {
+      "id": "L016-e32",
+      "type": "flash",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "front": "Aggettivi che finiscono in -e (superbe, facile, moderne)",
+      "back": "Non cambiano tra maschile e femminile: un bâtiment superbe, une maison superbe. Al plurale aggiungono -s.",
+      "note": "La -e finale non indica sempre il femminile."
+    },
+    {
+      "id": "L016-e33",
+      "type": "flash",
+      "level": 2,
+      "concept": "imperative",
+      "front": "Imperativo negativo",
+      "back": "Ne prima del verbo e pas dopo, senza pronome soggetto: Ne traversez pas ! (voi); Ne traverse pas ! (tu).",
+      "note": "Anche all'imperativo affermativo il pronome soggetto non c'è: Traversez !"
+    },
+    {
+      "id": "L016-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "adjective-agreement",
+      "prompt": "Dì 'Questa vecchia chiesa è molto grande.'",
+      "answers": [
+        "Cette vieille église est très grande.",
+        "Cette vieille église est vraiment grande."
+      ],
+      "explain_it": "Vieille va prima del nome, grande concorda con église al femminile e resta dopo est."
+    },
+    {
+      "id": "L016-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "imperative",
+      "prompt": "Dì a un bambino (dandogli del tu): 'Non attraversare la strada da solo!'",
+      "answers": [
+        "Ne traverse pas la [rue|route] [tout |]seul.",
+        "Ne traverse pas la [rue|route] [toute |]seule."
+      ],
+      "explain_it": "L'imperativo negativo con tu si forma con ne e pas e senza il pronome tu; tout seul concorda con il soggetto maschile."
+    },
+    {
+      "id": "L016-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "indefinites",
+      "prompt": "Chiedi se si può scendere qui.",
+      "answers": [
+        "Est-ce qu'on peut descendre ici ?",
+        "On peut descendre ici ?",
+        "Peut-on descendre ici ?"
+      ],
+      "explain_it": "Con on e il verbo modale pouvoir si usa la forma interrogativa semplice o con est-ce que, e il verbo all'infinito resta dopo peut."
+    },
+    {
+      "id": "L016-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "gender",
+      "prompt": "Dì (usa c'est): 'È un'architetta molto simpatica.'",
+      "answers": [
+        "C'est une architecte très [sympathique|gentille].",
+        "C'est une architecte [sympathique|gentille]."
+      ],
+      "explain_it": "Il nome architecte resta invariato e il femminile si ricava dall'articolo une; gentille è femminile e concorda con il soggetto."
+    },
+    {
+      "id": "L016-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "adjective-position",
+      "prompt": "Dì 'Il vecchio caffè è di fronte alla chiesa.'",
+      "answers": [
+        "Le vieux café est en face de l'église.",
+        "Le vieux café se trouve en face de l'église."
+      ],
+      "explain_it": "Vieux va prima del nome maschile café; la locuzione en face de regge il nome dopo."
+    },
+    {
+      "id": "L016-e39",
+      "type": "write",
+      "level": 3,
+      "concept": "adjective-agreement",
+      "prompt": "Dì: 'È un'ottima idea, ma la foto non è buona.'",
+      "answers": [
+        "C'est une [très |]bonne idée, mais la photo n'est pas bonne.",
+        "C'est une excellente idée, mais la photo n'est pas bonne."
+      ],
+      "explain_it": "Bonne concorda con idée, femminile, e la forma negativa n'est pas bonne concorda con photo al femminile."
+    },
+    {
+      "id": "L016-e40",
+      "type": "write",
+      "level": 3,
+      "concept": "indefinites",
+      "prompt": "Dì: 'Qui non si mangia male, ma si mangia poco.'",
+      "answers": [
+        "Ici[,|] on ne mange pas mal, mais on mange peu."
+      ],
+      "explain_it": "Con on la negazione ne ... pas circonda il verbo e il pronome resta impersonale alla terza persona singolare."
+    },
+    {
+      "id": "L016-e41",
+      "type": "dictation",
+      "level": 3,
+      "concept": "gender",
+      "text": "Ma sœur est une architecte et mon frère est un ingénieur.",
+      "explain_it": "Architecte resta uguale al maschile e la differenza di genere si sente dall'articolo une contro un."
+    },
+    {
+      "id": "L016-e42",
+      "type": "dictation",
+      "level": 3,
+      "concept": "adjective-position",
+      "text": "Le vieux monsieur traverse la grande place.",
+      "explain_it": "Vieux va prima del nome maschile e grande, prima di place, prende la forma femminile."
+    }
+  ]
+}

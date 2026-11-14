@@ -1,0 +1,950 @@
+{
+  "n": 24,
+  "title_fr": "Je ne vais pas bien du tout",
+  "title_it": "Non sto affatto bene",
+  "review": false,
+  "status": "verified",
+  "source": "c15d4fa8 pdf p13-18 (libro p.95-100; dialogo e note a p.13-16, esercizi a p.17, risposte a p.18)",
+  "theme_it": "Una giovane donna va dal medico perché non sta bene: ha mal di testa, mal d'orecchi, male al ginocchio destro e la febbre. Il medico la visita, le misura la temperatura e la pressione, e le spiega che ha una brutta influenza. Le prescrive uno sciroppo, delle compresse e una capsula da prendere per otto giorni, poi le consegna la ricetta e il modulo per il rimborso.",
+  "grammar": [
+    {
+      "id": "qu-est-ce-qui-que",
+      "title_it": "Qu'est-ce qui e qu'est-ce que: cosa?",
+      "explain_it": "Per chiedere 'cosa' il francese usa due forme. Qu'est-ce qui introduce il soggetto, cioè la cosa che fa l'azione o che si trova in una situazione: Qu'est-ce qui ne va pas ? (Cosa non va?). Qu'est-ce que introduce il complemento oggetto, cioè la cosa che si vuole o si fa: Qu'est-ce que tu veux ? (Cosa vuoi?). In italiano diciamo 'cosa' in entrambi i casi, quindi la differenza va imparata come un contrasto tutto francese.",
+      "examples": [
+        {
+          "fr": "Qu'est-ce qui se passe ?",
+          "it": "Cosa succede?"
+        },
+        {
+          "fr": "Qu'est-ce que vous voulez ?",
+          "it": "Cosa volete?"
+        }
+      ]
+    },
+    {
+      "id": "aller-stare-bene",
+      "title_it": "Aller per parlare della salute",
+      "explain_it": "Il verbo aller serve anche a chiedere e dire come si sta. Comment allez-vous ? significa «Come sta?» e la risposta è Je vais bien (sto bene). La forma negativa è Je ne vais pas bien (non sto bene), con ne e pas intorno al verbo. In italiano si dice «stare bene/male»; il francese usa aller con l'avverbio, non être.",
+      "examples": [
+        {
+          "fr": "Je vais bien, merci.",
+          "it": "Sto bene, grazie."
+        },
+        {
+          "fr": "Tu ne vas pas bien aujourd'hui ?",
+          "it": "Oggi non stai bene?"
+        }
+      ]
+    },
+    {
+      "id": "ne-pas-du-tout",
+      "title_it": "Ne... pas du tout: negazione rafforzata",
+      "explain_it": "Per rafforzare una negazione si aggiunge du tout (affatto, per niente) dopo pas: Je ne vais pas bien du tout (non sto affatto bene). Con alcuni verbi du tout può stare anche in fondo alla frase: Je n'ai pas du tout faim o Je n'ai pas faim du tout.",
+      "examples": [
+        {
+          "fr": "Il ne parle pas du tout.",
+          "it": "Non parla affatto."
+        },
+        {
+          "fr": "Je n'ai pas du tout froid.",
+          "it": "Non ho affatto freddo."
+        }
+      ]
+    },
+    {
+      "id": "avoir-mal-a",
+      "title_it": "Avoir mal à + parte del corpo",
+      "explain_it": "Per dire che una parte del corpo fa male si usa avoir mal à: J'ai mal à la tête (ho mal di testa). Dopo à l'articolo si contrae come con le preposizioni: à + le diventa au (au genou), à + les diventa aux (aux oreilles), mentre davanti a vocale si scrive à l'oreille. Non si dice mai avoir mal de: in italiano 'avere mal di' richiede di, in francese la preposizione è sempre à.",
+      "examples": [
+        {
+          "fr": "Il a mal aux dents.",
+          "it": "Ha mal di denti."
+        },
+        {
+          "fr": "Elle a mal au ventre.",
+          "it": "Ha mal di pancia."
+        }
+      ]
+    },
+    {
+      "id": "avoir-l-air",
+      "title_it": "Avoir l'air + aggettivo",
+      "explain_it": "Avoir l'air (letteralmente «avere l'aria») significa «sembrare». Dopo l'espressione si mette direttamente l'aggettivo, che di solito concorda con il soggetto: Marc a l'air fatigué (Marco sembra stanco), Marie a l'air fatiguée (Maria sembra stanca). Davanti a un nome si usa invece de: avoir l'air d'un enfant.",
+      "examples": [
+        {
+          "fr": "Tu as l'air content.",
+          "it": "Sembri contento."
+        },
+        {
+          "fr": "Vous avez l'air fatiguée.",
+          "it": "Sembra stanca."
+        }
+      ]
+    },
+    {
+      "id": "pronoms-cod",
+      "title_it": "I pronomi complemento oggetto diretto",
+      "explain_it": "I pronomi me, te, le, la, nous, vous, les sostituiscono un complemento oggetto diretto, cioè una persona o una cosa che subisce l'azione senza preposizione. Si mettono davanti al verbo coniugato: Je le prends (lo prendo), Vous la prenez (la prende). Le e la valgono sia per persone sia per cose, e davanti a vocale o h muta diventano l': Je l'écoute. Si sceglie il pronome secondo il genere e il numero del nome sostituito.",
+      "examples": [
+        {
+          "fr": "Je le prends trois fois par jour.",
+          "it": "Lo prendo tre volte al giorno."
+        },
+        {
+          "fr": "Les médicaments ? Je les prends après le dîner.",
+          "it": "I medicinali? Li prendo dopo cena."
+        }
+      ]
+    },
+    {
+      "id": "il-faut-pronome",
+      "title_it": "Il faut + infinito con il pronome",
+      "explain_it": "Il faut (bisogna) è seguito da un infinito: Il faut prendre ce sirop. Quando l'infinito ha un complemento oggetto diretto, il pronome va davanti all'infinito e non davanti a faut: Il faut la prendre (bisogna prenderla). In italiano il pronome si attacca di solito dopo l'infinito, quindi in francese bisogna ricordare il contrario.",
+      "examples": [
+        {
+          "fr": "Il faut le prendre avant le dîner.",
+          "it": "Bisogna prenderlo prima di cena."
+        },
+        {
+          "fr": "Il faut les vérifier.",
+          "it": "Bisogna controllarli."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le docteur",
+      "it": "il dottore (titolo rivolto al medico)",
+      "pos": "n"
+    },
+    {
+      "fr": "avoir mal (à)",
+      "it": "avere male, avere mal di",
+      "pos": "v",
+      "note": "j'ai mal à la tête"
+    },
+    {
+      "fr": "la tête",
+      "it": "la testa",
+      "pos": "n"
+    },
+    {
+      "fr": "l'oreille (f.)",
+      "it": "l'orecchio",
+      "pos": "n",
+      "note": "pl. les oreilles"
+    },
+    {
+      "fr": "le genou (les genoux)",
+      "it": "il ginocchio",
+      "pos": "n"
+    },
+    {
+      "fr": "droit / droite",
+      "it": "destro / destra",
+      "pos": "adj"
+    },
+    {
+      "fr": "la fièvre",
+      "it": "la febbre",
+      "pos": "n"
+    },
+    {
+      "fr": "grave",
+      "it": "grave, serio",
+      "pos": "adj"
+    },
+    {
+      "fr": "fatigué / fatiguée",
+      "it": "stanco / stanca",
+      "pos": "adj"
+    },
+    {
+      "fr": "l'air (m.)",
+      "it": "l'aria, l'aspetto",
+      "pos": "n"
+    },
+    {
+      "fr": "la bouche",
+      "it": "la bocca",
+      "pos": "n"
+    },
+    {
+      "fr": "ouvrir",
+      "it": "aprire",
+      "pos": "v",
+      "note": "ouvrez"
+    },
+    {
+      "fr": "respirer",
+      "it": "respirare",
+      "pos": "v",
+      "note": "respirez"
+    },
+    {
+      "fr": "la température",
+      "it": "la temperatura",
+      "pos": "n"
+    },
+    {
+      "fr": "la tension",
+      "it": "la pressione (arteriosa)",
+      "pos": "n"
+    },
+    {
+      "fr": "le cœur",
+      "it": "il cuore",
+      "pos": "n"
+    },
+    {
+      "fr": "vérifier",
+      "it": "verificare, controllare",
+      "pos": "v",
+      "note": "je vais vérifier"
+    },
+    {
+      "fr": "la grippe",
+      "it": "l'influenza",
+      "pos": "n"
+    },
+    {
+      "fr": "le médicament",
+      "it": "il farmaco, il medicinale",
+      "pos": "n"
+    },
+    {
+      "fr": "le sirop",
+      "it": "lo sciroppo",
+      "pos": "n"
+    },
+    {
+      "fr": "le comprimé",
+      "it": "la compressa, la pastiglia",
+      "pos": "n"
+    },
+    {
+      "fr": "la gélule",
+      "it": "la capsula",
+      "pos": "n"
+    },
+    {
+      "fr": "avaler",
+      "it": "ingoiare, deglutire",
+      "pos": "v"
+    },
+    {
+      "fr": "l'ordonnance (f.)",
+      "it": "la ricetta medica",
+      "pos": "n"
+    },
+    {
+      "fr": "la feuille de maladie",
+      "it": "il modulo per il rimborso delle spese sanitarie",
+      "pos": "n"
+    },
+    {
+      "fr": "le dîner",
+      "it": "la cena",
+      "pos": "n"
+    },
+    {
+      "fr": "d'abord",
+      "it": "innanzitutto, prima di tutto",
+      "pos": "adv"
+    },
+    {
+      "fr": "ensuite",
+      "it": "poi, in seguito",
+      "pos": "adv"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Qu'est-ce qui ne va pas ?",
+      "it": "Cosa non va?",
+      "note": "domanda tipica del medico per chiedere il disturbo"
+    },
+    {
+      "fr": "Je ne vais pas bien du tout.",
+      "it": "Non sto affatto bene.",
+      "note": "risposta al medico, con du tout per rafforzare"
+    },
+    {
+      "fr": "avoir mal à la tête",
+      "it": "avere mal di testa",
+      "note": "si dice sempre avoir mal à"
+    },
+    {
+      "fr": "avoir de la fièvre",
+      "it": "avere la febbre",
+      "note": "de la fièvre, non la fièvre"
+    },
+    {
+      "fr": "avoir l'air fatigué(e)",
+      "it": "sembrare stanco/a",
+      "note": "l'aggettivo concorda con il soggetto"
+    },
+    {
+      "fr": "être en forme",
+      "it": "essere in forma, stare bene",
+      "note": "contrario: ne pas être en forme"
+    },
+    {
+      "fr": "trois fois par jour",
+      "it": "tre volte al giorno",
+      "note": "indicazione tipica sulle ricette"
+    },
+    {
+      "fr": "en effet",
+      "it": "infatti, in effetti",
+      "note": "per confermare o spiegare"
+    },
+    {
+      "fr": "une bonne vieille grippe",
+      "it": "una bella influenza",
+      "note": "tono affettuoso e rassicurante"
+    },
+    {
+      "fr": "Est-ce que c'est grave ?",
+      "it": "È grave?",
+      "note": "domanda tipica del paziente"
+    },
+    {
+      "fr": "Voici votre ordonnance.",
+      "it": "Ecco la sua ricetta.",
+      "note": "frase del medico al momento di congedarsi"
+    },
+    {
+      "fr": "pendant huit jours",
+      "it": "per otto giorni",
+      "note": "durata di una cura"
+    }
+  ],
+  "notes_it": [
+    "Pronuncia: in oreille, vieille e feuille il gruppo -ill- / -eill- / -euill- si legge come un suono [j] finale: [ɔʁɛj], [vjɛj], [fœj]. Non va letto come in italiano.",
+    "Falsi amici per l'italiano: la tension in medicina è la pressione del sangue, non la tensione elettrica; une ordonnance è la ricetta del medico, non un'ordinanza.",
+    "La feuille de maladie non è una foglia di malattia: è il documento che il medico compila e che il paziente invia alla cassa mutua per il rimborso delle spese sanitarie, nell'ambito del sistema della Sécurité sociale.",
+    "Le comprimé è la compressa o la pastiglia, la gélule è la capsula e le sirop è lo sciroppo: nelle ricette francesi queste forme farmaceutiche compaiono spesso insieme.",
+    "Docteur, usato da solo come appellativo (Bonjour, docteur), è il modo rispettoso di rivolgersi a un medico; médecin è invece la parola generica per 'medico' ed è quella che si usa parlando di lui in terza persona."
+  ],
+  "exercises": [
+    {
+      "id": "L024-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "interrogatives",
+      "prompt": "Come si chiede 'Cosa non va?' (chiedendo quale sia il problema)?",
+      "options": [
+        "Qu'est-ce qui ne va pas ?",
+        "Quoi est-ce qui ne va pas ?",
+        "Qu'est-ce que ne va pas ?",
+        "Qu'est-ce qui ne vas pas ?"
+      ],
+      "correct": 0,
+      "explain_it": "Qu'est-ce qui introduce il soggetto: la cosa che non va è il soggetto della frase, quindi si usa qui; il verbo aller è alla terza persona singolare, va."
+    },
+    {
+      "id": "L024-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "interrogatives",
+      "prompt": "Quale domanda significa 'Cosa vuoi bere?' (la cosa è l'oggetto di boire)?",
+      "options": [
+        "Qu'est-ce que tu veux boire ?",
+        "Qu'est-ce qui tu veux boire ?",
+        "Que est-ce que tu veux boire ?",
+        "Qu'est-ce tu veux boire ?"
+      ],
+      "correct": 0,
+      "explain_it": "Con qu'est-ce que si chiede il complemento oggetto: la cosa voluta è l'oggetto, quindi que seguito dal soggetto tu."
+    },
+    {
+      "id": "L024-e03",
+      "type": "cloze",
+      "level": 2,
+      "concept": "interrogatives",
+      "text": "___ se passe dans cette rue ?",
+      "answers": [
+        "Qu'est-ce qui"
+      ],
+      "hint": "(soggetto: cosa succede)",
+      "prompt": "Cosa succede in questa via?",
+      "explain_it": "Quando la cosa è il soggetto del verbo, si usa qu'est-ce qui."
+    },
+    {
+      "id": "L024-e04",
+      "type": "write",
+      "level": 2,
+      "concept": "interrogatives",
+      "prompt": "Chiedi a un amico (tu): 'Cosa mangi?'",
+      "answers": [
+        "Qu'est-ce que tu manges ?",
+        "Que manges-tu ?",
+        "Tu manges quoi ?"
+      ],
+      "explain_it": "Il complemento oggetto si introduce con qu'est-ce que; la forma Que manges-tu? è più formale ma ugualmente corretta."
+    },
+    {
+      "id": "L024-e05",
+      "type": "write",
+      "level": 3,
+      "concept": "interrogatives",
+      "prompt": "Chiedi a un signore (forma di cortesia vous): 'Cosa desidera bere?'",
+      "answers": [
+        "Qu'est-ce que vous désirez boire ?",
+        "Qu'est-ce que vous voulez boire ?",
+        "Que désirez-vous boire ?",
+        "Que voulez-vous boire ?"
+      ],
+      "explain_it": "Con il Lei (vous) la domanda sul complemento oggetto resta con que; il soggetto vous può seguire il verbo nella forma invertita."
+    },
+    {
+      "id": "L024-e06",
+      "type": "mcq",
+      "level": 1,
+      "concept": "aller",
+      "prompt": "Come si risponde a 'Comment allez-vous ?' dicendo 'Sto bene, grazie'?",
+      "options": [
+        "Je vais bien, merci.",
+        "Je suis bien, merci.",
+        "Je vas bien, merci.",
+        "Je vais bon, merci."
+      ],
+      "correct": 0,
+      "explain_it": "Per la salute si usa aller con bien (je vais bien), non être: il verbo è al presente, je vais."
+    },
+    {
+      "id": "L024-e07",
+      "type": "cloze",
+      "level": 2,
+      "concept": "aller",
+      "text": "Tu ne ___ pas bien aujourd'hui ?",
+      "answers": [
+        "vas"
+      ],
+      "hint": "(aller, presente, tu)",
+      "prompt": "Oggi non stai bene?",
+      "explain_it": "Con tu, aller diventa vas, e la negazione ne ... pas circonda il verbo."
+    },
+    {
+      "id": "L024-e08",
+      "type": "write",
+      "level": 2,
+      "concept": "negation",
+      "prompt": "Non ho affatto fame.",
+      "answers": [
+        "Je n'ai pas du tout faim.",
+        "Je n'ai pas faim du tout."
+      ],
+      "explain_it": "Du tout rafforza la negazione: pas du tout corrisponde a 'affatto' o 'per niente'."
+    },
+    {
+      "id": "L024-e09",
+      "type": "cloze",
+      "level": 1,
+      "concept": "negation",
+      "text": "Il ne parle ___ du tout.",
+      "answers": [
+        "pas"
+      ],
+      "hint": "(negazione rafforzata)",
+      "prompt": "Lui non parla affatto.",
+      "explain_it": "La negazione è sempre ne + verbo + pas; du tout si aggiunge dopo, senza sostituire pas."
+    },
+    {
+      "id": "L024-e10",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Come si dice 'Ho mal di testa'?",
+      "options": [
+        "J'ai mal à la tête.",
+        "J'ai mal la tête.",
+        "J'ai mal de la tête.",
+        "Je suis mal à la tête."
+      ],
+      "correct": 0,
+      "explain_it": "Avoir mal è seguito da à, non de: mal à la tête."
+    },
+    {
+      "id": "L024-e11",
+      "type": "cloze",
+      "level": 2,
+      "concept": "contractions-au-du",
+      "text": "Mon frère a mal ___ genou droit.",
+      "answers": [
+        "au"
+      ],
+      "hint": "(à + le)",
+      "prompt": "Mio fratello ha male al ginocchio destro.",
+      "explain_it": "À + le si contrae in au, quindi au genou."
+    },
+    {
+      "id": "L024-e12",
+      "type": "write",
+      "level": 2,
+      "concept": "contractions-au-du",
+      "prompt": "Ho male alle orecchie.",
+      "answers": [
+        "J'ai mal aux oreilles."
+      ],
+      "explain_it": "Davanti a un nome plurale à + les si contrae in aux: aux oreilles."
+    },
+    {
+      "id": "L024-e13",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Come si dice 'Sembra stanca' (a una donna, con vous)?",
+      "options": [
+        "Vous avez l'air fatiguée.",
+        "Vous êtes l'air fatiguée.",
+        "Vous avez air fatiguée.",
+        "Vous avez l'air de fatiguée."
+      ],
+      "correct": 0,
+      "explain_it": "Avoir l'air significa 'sembrare'; l'aggettivo concorda con il soggetto, quindi fatiguée al femminile."
+    },
+    {
+      "id": "L024-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "text": "Ma sœur a l'air ___.",
+      "answers": [
+        "fatiguée",
+        "fatigué"
+      ],
+      "hint": "(fatigué, femminile)",
+      "prompt": "Mia sorella sembra stanca.",
+      "explain_it": "L'aggettivo dopo avoir l'air concorda con il soggetto femminile sœur."
+    },
+    {
+      "id": "L024-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "Sua figlia sembra molto stanca (forma di cortesia).",
+      "answers": [
+        "[Votre|Sa] fille a l'air très [fatiguée|fatigué]."
+      ],
+      "explain_it": "Fille è femminile, quindi l'aggettivo prende la -e finale: fatiguée."
+    },
+    {
+      "id": "L024-e16",
+      "type": "order",
+      "level": 1,
+      "concept": "pronoun-cod",
+      "prompt": "Lo prendo tre volte al giorno.",
+      "answers": [
+        "Je le prends trois fois par jour."
+      ],
+      "distractors": [
+        "les",
+        "prend"
+      ],
+      "explain_it": "Il pronome le (lo) va davanti al verbo coniugato prends."
+    },
+    {
+      "id": "L024-e17",
+      "type": "order",
+      "level": 1,
+      "concept": "pronoun-cod",
+      "prompt": "La prendete prima di pranzo.",
+      "answers": [
+        "Vous la prenez avant le déjeuner."
+      ],
+      "distractors": [
+        "le",
+        "prenons"
+      ],
+      "explain_it": "La (la) è femminile singolare e va prima del verbo: vous la prenez."
+    },
+    {
+      "id": "L024-e18",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-cod",
+      "text": "Mes amis ? Je ___ invite au restaurant.",
+      "answers": [
+        "les"
+      ],
+      "hint": "(pronome, plurale)",
+      "prompt": "Gli amici? Li invito al ristorante.",
+      "explain_it": "Per un complemento oggetto plurale, davanti al verbo si usa les."
+    },
+    {
+      "id": "L024-e19",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-cod",
+      "text": "Ta bicyclette ? Je ___ prends demain.",
+      "answers": [
+        "la"
+      ],
+      "hint": "(pronome, femminile singolare)",
+      "prompt": "La bicicletta? La prendo domani.",
+      "explain_it": "La bicicletta è femminile, quindi il pronome è la, davanti al verbo prends."
+    },
+    {
+      "id": "L024-e20",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-cod",
+      "prompt": "I medicinali? Li prendo dopo cena.",
+      "answers": [
+        "Les médicaments ? Je les prends après le dîner.",
+        "Je les prends après le dîner."
+      ],
+      "explain_it": "Il pronome les sostituisce il plurale medicaments e va davanti a prends."
+    },
+    {
+      "id": "L024-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-cod",
+      "prompt": "Prendi il tuo caffè? No, non lo prendo.",
+      "answers": [
+        "Tu prends ton café ? Non, je ne le prends pas.",
+        "Vous prenez votre café ? Non, je ne le prends pas."
+      ],
+      "explain_it": "Con la negazione il pronome le resta davanti al verbo, tra ne e il verbo: ne le prends pas."
+    },
+    {
+      "id": "L024-e22",
+      "type": "mcq",
+      "level": 3,
+      "concept": "pronoun-cod",
+      "prompt": "Quale frase significa 'Il medico la ascolta' (una signora)?",
+      "options": [
+        "Le médecin l'écoute.",
+        "Le médecin la écoute.",
+        "Le médecin écoute la.",
+        "Le médecin lui écoute."
+      ],
+      "correct": 0,
+      "explain_it": "Davanti a vocale il pronome la diventa l' e va prima del verbo: l'écoute."
+    },
+    {
+      "id": "L024-e23",
+      "type": "dictation",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Vous avez de la fièvre, madame.",
+      "explain_it": "Avoir de la fièvre significa avere la febbre: de la va prima di fièvre."
+    },
+    {
+      "id": "L024-e24",
+      "type": "dictation",
+      "level": 3,
+      "concept": "imperative",
+      "text": "Prenez deux comprimés par jour, pendant cinq jours.",
+      "explain_it": "Prenez è l'imperativo di cortesia (vous) di prendre: si toglie il pronome soggetto."
+    },
+    {
+      "id": "L024-e25",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronoun-cod",
+      "front": "Dove si mettono i pronomi le, la, les (complemento oggetto diretto) rispetto al verbo?",
+      "back": "Davanti al verbo coniugato: Je les prends. Davanti all'infinito quando c'è un altro verbo o il faut: Il faut la prendre.",
+      "note": "Si usa il pronome le, la o les secondo il genere e il numero del nome sostituito."
+    },
+    {
+      "id": "L024-e26",
+      "type": "flash",
+      "level": 2,
+      "concept": "interrogatives",
+      "front": "Qu'est-ce qui oppure qu'est-ce que: quale usare?",
+      "back": "Qu'est-ce qui per il soggetto (Qu'est-ce qui se passe ?). Qu'est-ce que per il complemento oggetto (Qu'est-ce que tu veux ?).",
+      "note": "In italiano si dice sempre 'cosa': la distinzione è una specificità francese."
+    },
+    {
+      "id": "L024-e27",
+      "type": "flash",
+      "level": 1,
+      "concept": "idioms",
+      "front": "Come si costruisce «avere mal di» + parte del corpo?",
+      "back": "avoir mal à + articolo contratto: à la tête (testa), à l'oreille (orecchio), aux oreilles (orecchie), au genou (ginocchio).",
+      "note": "Mai avoir mal de: la preposizione è sempre à."
+    },
+    {
+      "id": "L024-e28",
+      "type": "flash",
+      "level": 2,
+      "concept": "il-faut",
+      "front": "Con il faut + infinito, dove va il pronome complemento?",
+      "back": "Davanti all'infinito, non davanti a faut: Il faut la prendre (bisogna prenderla).",
+      "note": "In italiano il pronome segue l'infinito (prenderla); in francese lo precede."
+    },
+    {
+      "id": "L024-e29",
+      "type": "mcq",
+      "level": 2,
+      "concept": "il-faut",
+      "prompt": "Come si dice 'Bisogna prenderle' (le compresse)?",
+      "options": [
+        "Il faut les prendre.",
+        "Il faut prendre les.",
+        "Il les faut prendre.",
+        "Il faut prendre-les."
+      ],
+      "correct": 0,
+      "explain_it": "Il pronome les va davanti all'infinito prendre, dopo faut."
+    },
+    {
+      "id": "L024-e30",
+      "type": "cloze",
+      "level": 2,
+      "concept": "il-faut",
+      "text": "Le sirop ? Il faut ___ prendre le matin.",
+      "answers": [
+        "le"
+      ],
+      "hint": "(pronome, maschile singolare, prima dell'infinito)",
+      "prompt": "Lo sciroppo? Bisogna prenderlo al mattino.",
+      "explain_it": "Lo sciroppo è maschile singolare, quindi il pronome è le, davanti all'infinito."
+    },
+    {
+      "id": "L024-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "il-faut",
+      "prompt": "La capsula? Bisogna prenderla dopo cena.",
+      "answers": [
+        "La gélule ? Il faut la prendre après le dîner.",
+        "Il faut la prendre après le dîner.",
+        "Il faut la prendre après dîner."
+      ],
+      "explain_it": "La capsula è femminile singolare: il pronome la va davanti all'infinito prendre."
+    },
+    {
+      "id": "L024-e32",
+      "type": "cloze",
+      "level": 1,
+      "concept": "futur-proche",
+      "text": "Je ___ prendre ce médicament demain.",
+      "answers": [
+        "vais"
+      ],
+      "hint": "(aller, presente, je)",
+      "prompt": "Prenderò questo farmaco domani.",
+      "explain_it": "Il futuro prossimo si forma con aller al presente seguito dall'infinito."
+    },
+    {
+      "id": "L024-e33",
+      "type": "write",
+      "level": 2,
+      "concept": "futur-proche",
+      "prompt": "Sto per controllare la sua pressione (forma di cortesia).",
+      "answers": [
+        "Je vais [vérifier|contrôler|prendre] votre tension."
+      ],
+      "explain_it": "Aller + infinito indica un'azione immediata; votre è il possessivo di cortesia."
+    },
+    {
+      "id": "L024-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "futur-proche",
+      "prompt": "Domani andremo insieme dal medico.",
+      "answers": [
+        "Demain nous allons chez le [médecin|docteur] ensemble.",
+        "Demain nous allons ensemble chez le [médecin|docteur].",
+        "Demain on va chez le [médecin|docteur] ensemble.",
+        "Demain on va ensemble chez le [médecin|docteur]."
+      ],
+      "explain_it": "Aller + infinito per il futuro vicino; on è la forma colloquiale di nous e vuole il verbo alla terza persona singolare."
+    },
+    {
+      "id": "L024-e35",
+      "type": "mcq",
+      "level": 1,
+      "concept": "imperative",
+      "prompt": "Come si dice 'Apra la bocca' (forma di cortesia)?",
+      "options": [
+        "Ouvrez la bouche.",
+        "Ouvrer la bouche.",
+        "Ouvrez le bouche.",
+        "Ouvre la bouche."
+      ],
+      "correct": 0,
+      "explain_it": "Con vous l'imperativo è identico al presente, senza il pronome soggetto: ouvrez."
+    },
+    {
+      "id": "L024-e36",
+      "type": "cloze",
+      "level": 2,
+      "concept": "imperative",
+      "text": "___ la bouche, s'il vous plaît.",
+      "answers": [
+        "Ouvrez"
+      ],
+      "hint": "(ouvrir, imperativo, vous)",
+      "prompt": "Apra la bocca, per favore.",
+      "explain_it": "Con vous l'imperativo si forma dal presente senza il pronome soggetto."
+    },
+    {
+      "id": "L024-e37",
+      "type": "write",
+      "level": 2,
+      "concept": "imperative",
+      "prompt": "Respiri profondamente (forma di cortesia).",
+      "answers": [
+        "Respirez profondément.",
+        "Respirez bien profondément."
+      ],
+      "explain_it": "L'imperativo di cortesia di respirer è respirez, senza pronome soggetto."
+    },
+    {
+      "id": "L024-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "imperative",
+      "prompt": "Chiuda la bocca e respiri piano (forma di cortesia).",
+      "answers": [
+        "Fermez la bouche et respirez doucement.",
+        "Fermez la bouche et respirez lentement."
+      ],
+      "explain_it": "Due imperativi coordinati con et: fermez e respirez, entrambi alla forma vous."
+    },
+    {
+      "id": "L024-e39",
+      "type": "mcq",
+      "level": 1,
+      "concept": "numbers",
+      "prompt": "Quale numero francese corrisponde a 38?",
+      "options": [
+        "trente-huit",
+        "trente-huite",
+        "trente-et-huit",
+        "quarante-huit"
+      ],
+      "correct": 0,
+      "explain_it": "Trente-huit si scrive con il trattino; 'et' compare solo nei numeri in -et-un (trente et un, 31)."
+    },
+    {
+      "id": "L024-e40",
+      "type": "write",
+      "level": 2,
+      "concept": "numbers",
+      "prompt": "Ho trentanove di febbre.",
+      "answers": [
+        "J'ai trente-neuf de fièvre.",
+        "J'ai trente-neuf degrés de fièvre."
+      ],
+      "explain_it": "Avere X di febbre si dice avoir X de fièvre: de senza articolo."
+    },
+    {
+      "id": "L024-e41",
+      "type": "mcq",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "In ambito medico, cosa significa 'la tension'?",
+      "options": [
+        "la pressione arteriosa",
+        "la tensione elettrica",
+        "il tremore",
+        "lo sforzo fisico"
+      ],
+      "correct": 0,
+      "explain_it": "È un falso amico: in medicina la tension è la pressione del sangue, non la tensione dell'italiano."
+    },
+    {
+      "id": "L024-e42",
+      "type": "mcq",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "Cosa significa 'une ordonnance' in ambito medico?",
+      "options": [
+        "la ricetta del medico",
+        "l'ordinanza del comune",
+        "l'ordine dei medici",
+        "l'ordinazione al ristorante"
+      ],
+      "correct": 0,
+      "explain_it": "Falso amico: l'ordonnance è la ricetta medica, non l'ordinanza."
+    },
+    {
+      "id": "L024-e43",
+      "type": "write",
+      "level": 2,
+      "concept": "possessives",
+      "prompt": "Ecco la sua ricetta, signore (forma di cortesia).",
+      "answers": [
+        "Voici votre ordonnance, monsieur.",
+        "Voilà votre ordonnance, monsieur."
+      ],
+      "explain_it": "Votre è il possessivo di cortesia e concorda con ordonnance, femminile singolare."
+    },
+    {
+      "id": "L024-e44",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Sembri stanco: non sei in forma? (tu)",
+      "answers": [
+        "Tu as l'air fatigué : tu n'es pas en forme ?",
+        "Tu as l'air fatigué, tu n'es pas en forme ?"
+      ],
+      "explain_it": "Avoir l'air con un aggettivo (fatigué) e être en forme sono due espressioni da ricordare insieme."
+    },
+    {
+      "id": "L024-e45",
+      "type": "write",
+      "level": 3,
+      "concept": "futur-proche",
+      "prompt": "Vado a misurare la temperatura di mio figlio.",
+      "answers": [
+        "Je vais [prendre|mesurer] la température de mon fils."
+      ],
+      "explain_it": "Aller + infinito per l'azione imminente; prendre la température significa misurare la temperatura."
+    },
+    {
+      "id": "L024-e46",
+      "type": "write",
+      "level": 2,
+      "concept": "questions",
+      "prompt": "Chiedi a un signore (vous) se ha mal di testa.",
+      "answers": [
+        "Est-ce que vous avez mal à la tête ?",
+        "Vous avez mal à la tête ?",
+        "Avez-vous mal à la tête ?"
+      ],
+      "explain_it": "Per una domanda si usa est-ce que, l'inversione (avez-vous) o solo l'intonazione; l'espressione mal à la tête non cambia."
+    },
+    {
+      "id": "L024-e47",
+      "type": "order",
+      "level": 1,
+      "concept": "imperative",
+      "prompt": "Apra la bocca.",
+      "answers": [
+        "Ouvrez la bouche."
+      ],
+      "distractors": [
+        "ferme",
+        "ouvre"
+      ],
+      "explain_it": "Ouvrez è l'imperativo di cortesia di ouvrir."
+    },
+    {
+      "id": "L024-e48",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Lei ha la febbre.",
+      "answers": [
+        "Vous avez de la fièvre.",
+        "Elle a de la fièvre."
+      ],
+      "distractors": [
+        "le",
+        "avons"
+      ],
+      "explain_it": "Avoir de la fièvre: si dice de la fièvre, con de la davanti al nome."
+    }
+  ]
+}

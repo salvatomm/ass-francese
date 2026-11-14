@@ -1,0 +1,739 @@
+{
+  "n": 6,
+  "title_fr": "À l'hôtel",
+  "title_it": "In albergo",
+  "review": false,
+  "status": "verified",
+  "source": "529edcbd p17-20",
+  "theme_it": "Un cliente arriva alla reception di un albergo francese, dove ha prenotato una camera per due notti. Il receptionist lo saluta, verifica il nome, consegna la chiave e indica il piano. Il cliente chiede dove siano i bagagli e il bagno, e si presenta.",
+  "grammar": [
+    {
+      "id": "articles-definite",
+      "title_it": "L'elisione: l' davanti a vocale o h muta",
+      "explain_it": "Davanti a una parola che inizia con vocale o con h muta, l'articolo le o la diventa l' (l'hôtel, l'étage, l'heure). L'elisione non cambia il genere della parola: l'hôtel è maschile, l'heure è femminile. Davanti a consonante restano le e la.",
+      "examples": [
+        {
+          "fr": "L'hôtel est au centre.",
+          "it": "L'albergo è in centro."
+        },
+        {
+          "fr": "Voici l'ami.",
+          "it": "Ecco l'amico."
+        }
+      ]
+    },
+    {
+      "id": "adjective-agreement",
+      "title_it": "Grand / grande: l'aggettivo concorda con il nome",
+      "explain_it": "L'aggettivo concorda in genere con il nome a cui si riferisce. Al femminile si aggiunge una -e: grand diventa grande. Per questo bisogna sempre conoscere il genere del nome: un grand lit (letto grande, maschile), une grande chambre (camera grande, femminile). Il maschile è la forma base e il femminile la deriva con la -e.",
+      "examples": [
+        {
+          "fr": "Un grand lit.",
+          "it": "Un letto grande."
+        },
+        {
+          "fr": "Une grande table.",
+          "it": "Un tavolo grande."
+        }
+      ]
+    },
+    {
+      "id": "adjective-position",
+      "title_it": "Dove si mette l'aggettivo: prima o dopo il nome",
+      "explain_it": "Grand, come petit, bon, beau, di solito sta prima del nome: un grand lit, une grande chambre. Gli aggettivi di colore, di forma o di nazionalità, invece, seguono il nome come in italiano: une voiture rouge (un'auto rossa). Non confondere i due casi: la posizione cambia anche il senso di alcuni aggettivi.",
+      "examples": [
+        {
+          "fr": "Une grande maison.",
+          "it": "Una casa grande."
+        },
+        {
+          "fr": "Une voiture rouge.",
+          "it": "Un'auto rossa."
+        }
+      ]
+    },
+    {
+      "id": "possessives",
+      "title_it": "Votre e vos: il possessivo di cortesia",
+      "explain_it": "Votre (singolare) e vos (plurale) significano «vostro/vostra/vostri/vostre», ma si usano anche per dare del Lei: il francese non distingue tra vostro e Suo. Il possessivo concorda con la cosa posseduta, non con il possessore: votre nom e votre chambre (singolari), vos bagages (plurale). Come mon e ma nella lezione 3, la forma dipende dal nome che segue.",
+      "examples": [
+        {
+          "fr": "Votre nom est Alain.",
+          "it": "Il Suo nome è Alain."
+        },
+        {
+          "fr": "Vos clés sont là.",
+          "it": "Le vostre chiavi sono lì."
+        }
+      ]
+    },
+    {
+      "id": "register",
+      "title_it": "Bonsoir e il registro con gli sconosciuti",
+      "explain_it": "Bonsoir è il saluto formale della sera, da usare dopo le 18 (prima si dice bonjour). Con persone sconosciute o di cortesia si usano monsieur e madame con il pronome vous, senza il nome proprio: il tu o il nome con un estraneo suonerebbe scortese.",
+      "examples": [
+        {
+          "fr": "Bonsoir, monsieur.",
+          "it": "Buonasera, signore."
+        },
+        {
+          "fr": "Bonsoir, madame, bienvenue.",
+          "it": "Buonasera, signora, benvenuta."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "bonsoir",
+      "it": "buonasera",
+      "pos": "interj"
+    },
+    {
+      "fr": "bienvenue",
+      "it": "benvenuto/a",
+      "pos": "interj"
+    },
+    {
+      "fr": "l'hôtel (m.)",
+      "it": "l'albergo",
+      "pos": "n"
+    },
+    {
+      "fr": "réserver",
+      "it": "prenotare",
+      "pos": "v",
+      "note": "réservée (f.)"
+    },
+    {
+      "fr": "la chambre",
+      "it": "la camera",
+      "pos": "n"
+    },
+    {
+      "fr": "la nuit",
+      "it": "la notte",
+      "pos": "n"
+    },
+    {
+      "fr": "le nom",
+      "it": "il cognome / il nome",
+      "pos": "n"
+    },
+    {
+      "fr": "le prénom",
+      "it": "il nome di battesimo",
+      "pos": "n"
+    },
+    {
+      "fr": "absolument",
+      "it": "assolutamente",
+      "pos": "adv"
+    },
+    {
+      "fr": "grand",
+      "it": "grande, alto",
+      "pos": "adj",
+      "note": "grande (f.)"
+    },
+    {
+      "fr": "le lit",
+      "it": "il letto",
+      "pos": "n"
+    },
+    {
+      "fr": "la salle de bains",
+      "it": "la stanza da bagno",
+      "pos": "n"
+    },
+    {
+      "fr": "l'étage (m.)",
+      "it": "il piano",
+      "pos": "n"
+    },
+    {
+      "fr": "la clé",
+      "it": "la chiave",
+      "pos": "n"
+    },
+    {
+      "fr": "le bagage",
+      "it": "il bagaglio",
+      "pos": "n",
+      "note": "les bagages (pl.)"
+    },
+    {
+      "fr": "quel",
+      "it": "quale",
+      "pos": "adj",
+      "note": "quelle (f.)"
+    },
+    {
+      "fr": "avec",
+      "it": "con",
+      "pos": "prep"
+    },
+    {
+      "fr": "sixième",
+      "it": "sesto",
+      "pos": "num"
+    },
+    {
+      "fr": "le centre",
+      "it": "il centro",
+      "pos": "n"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Bienvenue à l'hôtel",
+      "it": "Benvenuto in albergo",
+      "note": "formula di accoglienza alla reception"
+    },
+    {
+      "fr": "Absolument",
+      "it": "Assolutamente / Certo",
+      "note": "risposta di conferma molto forte, più decisa di «oui»"
+    },
+    {
+      "fr": "Au quatrième étage",
+      "it": "Al quarto piano",
+      "note": "il piano si indica con l'ordinale e la preposizione à"
+    },
+    {
+      "fr": "Je m'appelle",
+      "it": "Mi chiamo",
+      "note": "per presentarsi, seguito dal nome"
+    },
+    {
+      "fr": "Pour deux nuits",
+      "it": "Per due notti",
+      "note": "per indicare la durata di un soggiorno"
+    },
+    {
+      "fr": "Une chambre avec salle de bains",
+      "it": "Una camera con bagno",
+      "note": "frase tipica nella prenotazione"
+    },
+    {
+      "fr": "Quel est votre nom ?",
+      "it": "Qual è il Suo nome?",
+      "note": "domanda di cortesia alla reception"
+    }
+  ],
+  "notes_it": [
+    "«Bonsoir» si usa dalla sera in poi (circa dalle 18) come saluto, mentre prima si dice «bonjour»; non esiste un'ora fissa, come per «buongiorno» e «buonasera» in italiano. Per salutare qualcuno che va a dormire si dice «bonne nuit».",
+    "«L'étage» è il piano di un edificio. Attenzione alla numerazione: il piano terra è «le rez-de-chaussée», quindi «le premier étage» corrisponde al primo piano sopra il piano terra, cioè al nostro «primo piano» (non è un falso amico di «stage»).",
+    "«Le nom» indica il cognome nell'uso comune, mentre «le prénom» è il nome di battesimo (letteralmente «pre-nome»). In italiano «nome» copre entrambi, quindi attenzione quando un modulo chiede il nome o il cognome.",
+    "In Francia «salle de bains» indica una stanza con vasca o doccia, mentre il WC è spesso separato e si chiama «les toilettes». Quando si compita un nome si usano i nomi francesi delle lettere."
+  ],
+  "exercises": [
+    {
+      "id": "L006-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "articles-definite",
+      "prompt": "Come si scrive l'articolo davanti a «hôtel»?",
+      "options": [
+        "l'hôtel",
+        "le hôtel",
+        "la hôtel",
+        "les hôtel"
+      ],
+      "correct": 0,
+      "explain_it": "Davanti a una parola che inizia con h muta si usa l' al posto di le o la."
+    },
+    {
+      "id": "L006-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "gender",
+      "prompt": "Quale parola è femminile?",
+      "options": [
+        "le lit",
+        "la chambre",
+        "le nom",
+        "le bagage"
+      ],
+      "correct": 1,
+      "explain_it": "Chambre è femminile (una camera); lit, nom e bagage sono maschili."
+    },
+    {
+      "id": "L006-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "adjective-position",
+      "prompt": "Come si dice «una camera grande»?",
+      "options": [
+        "une grande chambre",
+        "une chambre grande",
+        "une chambre grand",
+        "un grand chambre"
+      ],
+      "correct": 0,
+      "explain_it": "Grand va prima del nome e prende la -e perché chambre è femminile."
+    },
+    {
+      "id": "L006-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "adjective-agreement",
+      "prompt": "Come si dice «un letto grande»?",
+      "options": [
+        "un grand lit",
+        "un grande lit",
+        "une grand lit",
+        "un lit grande"
+      ],
+      "correct": 0,
+      "explain_it": "Lit è maschile: grand resta senza -e e si mette prima del nome."
+    },
+    {
+      "id": "L006-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "possessives",
+      "prompt": "Completa: ___ nom est Bailly.",
+      "options": [
+        "Votre",
+        "Vos",
+        "Votres",
+        "Vous"
+      ],
+      "correct": 0,
+      "explain_it": "Nom è singolare, quindi il possessivo è votre; vos vale per i nomi al plurale."
+    },
+    {
+      "id": "L006-e06",
+      "type": "mcq",
+      "level": 1,
+      "concept": "register",
+      "prompt": "Alle nove di sera saluti una signora sconosciuta alla reception: quale formula usi?",
+      "options": [
+        "Bonsoir, madame.",
+        "Salut, Marie !",
+        "Bonne nuit, toi.",
+        "Bonjour, mec."
+      ],
+      "correct": 0,
+      "explain_it": "Dopo le 18 si dice bonsoir; con una sconosciuta si usa madame con vous, mai il tu o il nome."
+    },
+    {
+      "id": "L006-e07",
+      "type": "mcq",
+      "level": 1,
+      "concept": "avoir",
+      "prompt": "Quale frase significa «ho una camera prenotata»?",
+      "options": [
+        "J'ai une chambre réservée.",
+        "Je suis une chambre réservée.",
+        "Je ai une chambre réservée.",
+        "J'ai un chambre réservée."
+      ],
+      "correct": 0,
+      "explain_it": "Per dire «avere» si usa avoir (ai); réservée è femminile perché chambre è femminile."
+    },
+    {
+      "id": "L006-e08",
+      "type": "mcq",
+      "level": 1,
+      "concept": "etre",
+      "prompt": "Completa: Votre chambre ___ au quatrième étage.",
+      "options": [
+        "est",
+        "es",
+        "sont",
+        "suis"
+      ],
+      "correct": 0,
+      "explain_it": "Con un soggetto singolare come chambre si usa la terza persona est del verbo être."
+    },
+    {
+      "id": "L006-e09",
+      "type": "order",
+      "level": 1,
+      "concept": "articles-definite",
+      "prompt": "Benvenuto in albergo.",
+      "answers": [
+        "Bienvenue à l'hôtel."
+      ],
+      "distractors": [
+        "le"
+      ],
+      "explain_it": "Bienvenue non cambia; davanti a hôtel l'articolo si elide in l' e la preposizione à resta."
+    },
+    {
+      "id": "L006-e10",
+      "type": "order",
+      "level": 1,
+      "concept": "possessives",
+      "prompt": "Ecco la vostra chiave.",
+      "answers": [
+        "Voici votre clé."
+      ],
+      "distractors": [
+        "vos"
+      ],
+      "explain_it": "Clé è femminile singolare, quindi il possessivo è votre; voici significa «ecco»."
+    },
+    {
+      "id": "L006-e11",
+      "type": "order",
+      "level": 1,
+      "concept": "adjective-position",
+      "prompt": "Abbiamo un letto grande.",
+      "answers": [
+        "Nous avons un grand lit."
+      ],
+      "distractors": [
+        "grande"
+      ],
+      "explain_it": "Grand precede il nome e, con lit maschile, non prende la -e."
+    },
+    {
+      "id": "L006-e12",
+      "type": "order",
+      "level": 1,
+      "concept": "avoir",
+      "prompt": "Ho una camera per due notti.",
+      "answers": [
+        "J'ai une chambre pour deux nuits."
+      ],
+      "distractors": [
+        "suis"
+      ],
+      "explain_it": "Con je si usa ai; l'articolo une resta davanti a chambre, che è femminile."
+    },
+    {
+      "id": "L006-e13",
+      "type": "order",
+      "level": 1,
+      "concept": "etre",
+      "prompt": "La stanza da bagno è grande.",
+      "answers": [
+        "La salle de bains est grande."
+      ],
+      "distractors": [
+        "sont"
+      ],
+      "explain_it": "Salle è singolare: si usa est; l'aggettivo grande concorda al femminile con salle."
+    },
+    {
+      "id": "L006-e14",
+      "type": "order",
+      "level": 1,
+      "concept": "imperative",
+      "prompt": "Aspetti un minuto, signora.",
+      "answers": [
+        "Attendez une minute, madame."
+      ],
+      "distractors": [
+        "attends"
+      ],
+      "explain_it": "Con la forma di cortesia vous l'imperativo di attendre è attendez; attends è la forma informale."
+    },
+    {
+      "id": "L006-e15",
+      "type": "cloze",
+      "level": 1,
+      "concept": "avoir",
+      "text": "Nous ___ une chambre pour deux nuits.",
+      "answers": [
+        "avons"
+      ],
+      "hint": "(avoir, presente)",
+      "prompt": "Abbiamo una camera per due notti.",
+      "explain_it": "Con nous il presente di avoir è avons."
+    },
+    {
+      "id": "L006-e16",
+      "type": "cloze",
+      "level": 1,
+      "concept": "imperative",
+      "text": "___ le boulevard, puis tournez à gauche.",
+      "answers": [
+        "Traversez"
+      ],
+      "hint": "(traverser, imperativo di cortesia)",
+      "prompt": "Attraversi il viale, poi giri a sinistra.",
+      "explain_it": "Con vous l'imperativo dei verbi in -er termina in -ez, come il presente senza pronome."
+    },
+    {
+      "id": "L006-e17",
+      "type": "cloze",
+      "level": 1,
+      "concept": "articles-definite",
+      "text": "___hôtel est au centre.",
+      "answers": [
+        "L'"
+      ],
+      "hint": "(articolo determinativo davanti a vocale)",
+      "prompt": "L'albergo è in centro.",
+      "explain_it": "Hôtel inizia con h muta, quindi l'articolo si scrive l' davanti a hôtel."
+    },
+    {
+      "id": "L006-e18",
+      "type": "cloze",
+      "level": 2,
+      "concept": "possessives",
+      "text": "Où sont ___ bagages ?",
+      "answers": [
+        "vos"
+      ],
+      "hint": "(possessivo, plurale)",
+      "prompt": "Dove sono i vostri bagagli?",
+      "explain_it": "Bagages è plurale, quindi si usa vos, non votre."
+    },
+    {
+      "id": "L006-e19",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "text": "C'est une ___ chambre.",
+      "answers": [
+        "grande"
+      ],
+      "hint": "(grand, femminile)",
+      "prompt": "È una camera grande.",
+      "explain_it": "Chambre è femminile: grand prende la -e, e si mette prima del nome."
+    },
+    {
+      "id": "L006-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "avoir",
+      "prompt": "Ho una camera prenotata per tre notti.",
+      "answers": [
+        "J'ai une chambre réservée pour [trois|3] nuits."
+      ],
+      "explain_it": "Réservée prende la -e perché chambre è femminile; pour indica la durata."
+    },
+    {
+      "id": "L006-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "Un letto grande e una camera grande.",
+      "answers": [
+        "Un grand lit et une grande chambre."
+      ],
+      "explain_it": "Grand precede il nome; al femminile aggiunge -e, al maschile resta uguale."
+    },
+    {
+      "id": "L006-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "possessives",
+      "prompt": "Qual è il vostro nome?",
+      "answers": [
+        "Quel est votre nom ?",
+        "Quel est votre nom, s'il vous plaît ?"
+      ],
+      "explain_it": "Nom è singolare, quindi votre; la forma con s'il vous plaît è più cortese."
+    },
+    {
+      "id": "L006-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "register",
+      "prompt": "Buonasera, signora.",
+      "answers": [
+        "Bonsoir, madame."
+      ],
+      "explain_it": "Dopo le 18 si dice bonsoir e con una signora sconosciuta si aggiunge madame."
+    },
+    {
+      "id": "L006-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "etre",
+      "prompt": "La camera è molto grande.",
+      "answers": [
+        "La chambre est très grande."
+      ],
+      "explain_it": "Con chambre singolare si usa est; très è l'avverbio di grado e non cambia."
+    },
+    {
+      "id": "L006-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "possessives",
+      "prompt": "I vostri bagagli sono nella camera.",
+      "answers": [
+        "Vos bagages sont dans la chambre."
+      ],
+      "explain_it": "Bagages è plurale, quindi vos; il verbo è sont alla terza persona plurale."
+    },
+    {
+      "id": "L006-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "articles-definite",
+      "prompt": "Il bagno è al quarto piano.",
+      "answers": [
+        "La salle de bains est au [quatrième|4e] étage."
+      ],
+      "explain_it": "Al piano si dice au + ordinale + étage; à + le si contrae in au."
+    },
+    {
+      "id": "L006-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "negation",
+      "prompt": "No, non sono dispiaciuto.",
+      "answers": [
+        "Non, je ne suis pas désolé."
+      ],
+      "explain_it": "La negazione si costruisce con ne ... pas attorno al verbo; désolé concorda con l'uomo che parla."
+    },
+    {
+      "id": "L006-e28",
+      "type": "write",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Mi chiamo Alain Bailly.",
+      "answers": [
+        "Je m'appelle Alain Bailly."
+      ],
+      "explain_it": "S'appeler è un verbo pronominale: il pronome m' si lega al verbo davanti a appelle."
+    },
+    {
+      "id": "L006-e29",
+      "type": "dictation",
+      "level": 2,
+      "concept": "register",
+      "text": "Bonsoir, madame. Votre chambre est au sixième étage.",
+      "explain_it": "Attenzione alla liaison e alle vocali: «votre chambre est» e «sixième étage» (la x di sixième si pronuncia, poi il legame con étage). Bonsoir si scrive in una parola."
+    },
+    {
+      "id": "L006-e30",
+      "type": "dictation",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "text": "Une grande salle de bains et un grand lit.",
+      "explain_it": "La -e di grande si fa sentire con la d finale pronunciata (grande), mentre in «grand lit» la d è muta. Attenzione a salle de bains, con tre parole."
+    },
+    {
+      "id": "L006-e31",
+      "type": "dictation",
+      "level": 3,
+      "concept": "register",
+      "text": "Bonsoir monsieur, bienvenue à l'hôtel. Je suis désolé, la chambre est réservée pour deux nuits.",
+      "explain_it": "Frase lunga: attenzione all'elisione in l'hôtel, ai due accenti di désolé e réservée e al plurale di nuits."
+    },
+    {
+      "id": "L006-e32",
+      "type": "dictation",
+      "level": 3,
+      "concept": "questions",
+      "text": "Excusez-moi, madame, où est la salle de bains ?",
+      "explain_it": "Nella domanda con où il verbo être precede il soggetto nominale (où est la salle...), come nell'interrogativa italiana «dov'è la sala»."
+    },
+    {
+      "id": "L006-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "negation",
+      "prompt": "Mi scusi, signore: il Suo nome non è Bailly?",
+      "answers": [
+        "[Excusez-moi|Pardon], monsieur. Votre nom n'est pas Bailly ?"
+      ],
+      "explain_it": "Negazione ne ... pas con est, con il possessivo di cortesia votre e la formula di scusa."
+    },
+    {
+      "id": "L006-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "questions",
+      "prompt": "Dove sono i bagagli e dove è la chiave?",
+      "answers": [
+        "Où sont les bagages et où est la clé ?",
+        "Où sont vos bagages et où est votre clé ?"
+      ],
+      "explain_it": "Due domande unite da et: la domanda con où usa l'inversione del soggetto con il verbo."
+    },
+    {
+      "id": "L006-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "possessives",
+      "prompt": "Il vostro bagaglio è qui.",
+      "ask": "Volgi al plurale",
+      "answers": [
+        "Vos bagages sont ici.",
+        "Vos bagages sont là."
+      ],
+      "explain_it": "Il possessivo passa a vos e il nome al plurale; est diventa sont."
+    },
+    {
+      "id": "L006-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "imperative",
+      "prompt": "Chieda a un signore di aspettare un momento.",
+      "ask": "Usa la forma di cortesia (vous)",
+      "answers": [
+        "Attendez [un moment|un instant|une minute], monsieur."
+      ],
+      "explain_it": "L'imperativo di cortesia usa la forma vous senza pronome: attendez."
+    },
+    {
+      "id": "L006-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "avoir",
+      "prompt": "Sono Alain Bailly. Ho una camera prenotata per due notti.",
+      "answers": [
+        "[Je suis|Je m'appelle] Alain Bailly. J'ai une chambre réservée pour deux nuits."
+      ],
+      "explain_it": "Presentazione con être o s'appeler, poi avoir con una camera femminile; attenzione alla -e di réservée."
+    },
+    {
+      "id": "L006-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "adjective-position",
+      "prompt": "Abbiamo una camera grande con un letto grande.",
+      "answers": [
+        "Nous avons une grande chambre avec un grand lit."
+      ],
+      "explain_it": "Grand va prima del nome in entrambi i casi, con la -e solo per chambre femminile."
+    },
+    {
+      "id": "L006-e39",
+      "type": "flash",
+      "level": 2,
+      "concept": "articles-definite",
+      "front": "Quando l'articolo le o la diventa l'?",
+      "back": "Davanti a una parola che inizia con vocale o h muta: l'hôtel, l'étage, l'heure. Davanti a consonante restano le e la.",
+      "explain_it": "L'elisione è obbligatoria in francese e non dipende dal genere della parola."
+    },
+    {
+      "id": "L006-e40",
+      "type": "flash",
+      "level": 2,
+      "concept": "adjective-position",
+      "front": "Grand: prima o dopo il nome?",
+      "back": "Di solito prima: un grand lit, une grande chambre. Al femminile aggiunge -e.",
+      "explain_it": "Grand e gli aggettivi come petit e bon si collocano di solito prima del nome; i colori seguono il nome."
+    },
+    {
+      "id": "L006-e41",
+      "type": "flash",
+      "level": 2,
+      "concept": "possessives",
+      "front": "Votre o vos?",
+      "back": "Votre con nome singolare (votre nom, votre chambre); vos con nome plurale (vos bagages). Concorda con la cosa posseduta, non con il possessore.",
+      "explain_it": "Il possessivo francese non cambia in base al possessore, quindi non serve distinguere maschile e femminile del possessore."
+    },
+    {
+      "id": "L006-e42",
+      "type": "flash",
+      "level": 1,
+      "concept": "register",
+      "front": "Bonsoir: quando si usa?",
+      "back": "Dopo le 18 come saluto formale; prima delle 18 si usa bonjour.",
+      "explain_it": "Il saluto cambia con l'ora, come in italiano buongiorno e buonasera."
+    }
+  ]
+}

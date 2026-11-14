@@ -1,0 +1,767 @@
+{
+  "n": 22,
+  "title_fr": "Réfléchissez, choisissez, jouez",
+  "title_it": "Riflettete, scegliete, giocate",
+  "review": false,
+  "status": "verified",
+  "source": "c15d4fa8 pdf p3-7 (libro p.85-89, inizio; esercizio 2 senza soluzioni leggibili nella scansione)",
+  "theme_it": "Due persone parlano di giochi d'azzardo. Uno dice di non amare le lotterie e le macchinette, ma di preferire le corse dei cavalli: legge i giornali specializzati, compila la schedina e sceglie i cavalli con attenzione, sperando di vincere molto denaro. Alla fine chiede in prestito cinquanta euro perché è al verde.",
+  "grammar": [
+    {
+      "id": "plural",
+      "title_it": "Il plurale di jeu, cheval, journal",
+      "explain_it": "I nomi in -eu prendono una -x al plurale: un jeu, des jeux (gioco, giochi); un feu, des feux (fuoco, fuochi). I nomi in -al cambiano la terminazione in -aux: un cheval, des chevaux (cavallo, cavalli); un journal, des journaux (giornale, giornali). Esistono alcune altre forme irregolari da imparare una per una. Si tratta di una differenza grafica rispetto all'italiano, dove il plurale è in -i: la -x e la -s finale spesso non si pronunciano.",
+      "examples": [
+        {
+          "fr": "Il achète deux journaux.",
+          "it": "Compra due giornali."
+        },
+        {
+          "fr": "Il y a deux chevaux blancs.",
+          "it": "Ci sono due cavalli bianchi."
+        },
+        {
+          "fr": "Nous aimons les jeux de société.",
+          "it": "Ci piacciono i giochi da tavolo."
+        }
+      ]
+    },
+    {
+      "id": "tout",
+      "title_it": "Tout, tous: forme e pronuncia",
+      "explain_it": "L'aggettivo tout (tutto/tutti) ha quattro forme: tout (m. sing.), toute (f. sing.), tous (m. pl.), toutes (f. pl.). Davanti a un nome, tous si pronuncia come il singolare, [too], e la -s non si sente: tous les jeux. Quando tous si trova dopo il verbo o da solo, come pronome, la -s si pronuncia [toos] e significa 'tutti loro' o 'tutti quanti'. Confronta con l'italiano: tutti i giochi / tutti loro, ma con un'attenzione in più sulla pronuncia.",
+      "examples": [
+        {
+          "fr": "Tous les enfants jouent.",
+          "it": "Tutti i bambini giocano."
+        },
+        {
+          "fr": "Ils sont tous là.",
+          "it": "Sono tutti lì."
+        },
+        {
+          "fr": "Nous aimons tous la musique.",
+          "it": "Amiamo tutti la musica."
+        }
+      ]
+    },
+    {
+      "id": "present-ir",
+      "title_it": "I verbi del secondo gruppo in -ir",
+      "explain_it": "Molti verbi in -ir formano il presente con l'inserzione di -iss- nelle forme plurali: choisir, finir, remplir, réfléchir, établir. Il paradigma è je choisis, tu choisis, il choisit, nous choisissons, vous choisissez, ils choisissent. In italiano il tipo finire ha l'infisso -isc- nelle persone singolari e nella terza plurale; in francese l'infisso -iss- compare invece nelle forme plurali (nous, vous, ils). Vous choisissez può anche essere la forma di cortesia per una sola persona.",
+      "examples": [
+        {
+          "fr": "Je choisis un bon restaurant.",
+          "it": "Scelgo un buon ristorante."
+        },
+        {
+          "fr": "Nous finissons le travail demain.",
+          "it": "Finiamo il lavoro domani."
+        },
+        {
+          "fr": "Vous remplissez le formulaire.",
+          "it": "Voi compilate il modulo."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Mais non! e Au fait: due espressioni da usare intere",
+      "explain_it": "Mais non! è un'esclamazione enfatica di rifiuto, equivalente a 'Ma no!' o 'Certo che no!': si usa per rispondere a una domanda o a una supposizione. Non va confuso con la congiunzione mais (ma), che collega due frasi. Au fait (letteralmente 'al fatto') significa 'a proposito' e, in apertura di frase, introduce un cambio di argomento o una domanda improvvisa. Va imparata come unità intera.",
+      "examples": [
+        {
+          "fr": "Mais non, je ne suis pas d'accord !",
+          "it": "Ma no, non sono d'accordo!"
+        },
+        {
+          "fr": "Au fait, tu viens demain ?",
+          "it": "A proposito, vieni domani?"
+        }
+      ]
+    },
+    {
+      "id": "vocab",
+      "title_it": "Gagner: vincere o guadagnare",
+      "explain_it": "Il verbo gagner ha due significati principali: 'vincere' (una partita, un gioco, una gara) e 'guadagnare' (denaro, uno stipendio). In italiano sono due verbi diversi; in francese il contesto decide. Gagner de l'argent significa 'guadagnare denaro', gagner au loto 'vincere alla lotteria'. Il participio presente gagnant significa 'vincitore' o 'vincente'.",
+      "examples": [
+        {
+          "fr": "Il gagne le match.",
+          "it": "Vince la partita."
+        },
+        {
+          "fr": "Elle gagne bien sa vie.",
+          "it": "Guadagna bene da vivere."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le jeu (les jeux)",
+      "it": "il gioco",
+      "pos": "n"
+    },
+    {
+      "fr": "le hasard",
+      "it": "il caso",
+      "pos": "n",
+      "note": "in jeux de hasard: giochi d'azzardo"
+    },
+    {
+      "fr": "risqué",
+      "it": "rischioso",
+      "pos": "adj",
+      "note": "f. risquée"
+    },
+    {
+      "fr": "tous",
+      "it": "tutti",
+      "pos": "adj",
+      "note": "m. pl. di tout"
+    },
+    {
+      "fr": "la machine à sous",
+      "it": "la slot machine (macchinetta mangiasoldi)",
+      "pos": "n"
+    },
+    {
+      "fr": "la course",
+      "it": "la corsa, la gara",
+      "pos": "n",
+      "note": "les courses de chevaux: le corse ippiche"
+    },
+    {
+      "fr": "le cheval (les chevaux)",
+      "it": "il cavallo",
+      "pos": "n"
+    },
+    {
+      "fr": "le journal (les journaux)",
+      "it": "il giornale",
+      "pos": "n"
+    },
+    {
+      "fr": "spécialisé",
+      "it": "specializzato",
+      "pos": "adj",
+      "note": "f. spécialisée"
+    },
+    {
+      "fr": "intituler",
+      "it": "intitolare",
+      "pos": "v",
+      "note": "un journal intitulé"
+    },
+    {
+      "fr": "le gagnant (la gagnante)",
+      "it": "il vincitore (la vincitrice)",
+      "pos": "n"
+    },
+    {
+      "fr": "gagner",
+      "it": "vincere; guadagnare",
+      "pos": "v",
+      "note": "je gagne"
+    },
+    {
+      "fr": "établir",
+      "it": "stabilire; compilare (una lista)",
+      "pos": "v",
+      "note": "j'établis"
+    },
+    {
+      "fr": "réfléchir",
+      "it": "riflettere, pensare con attenzione",
+      "pos": "v",
+      "note": "je réfléchis"
+    },
+    {
+      "fr": "choisir",
+      "it": "scegliere",
+      "pos": "v",
+      "note": "je choisis"
+    },
+    {
+      "fr": "remplir",
+      "it": "riempire; compilare (un modulo)",
+      "pos": "v",
+      "note": "je remplis"
+    },
+    {
+      "fr": "jouer",
+      "it": "giocare",
+      "pos": "v",
+      "note": "jouez (voi giocate)"
+    },
+    {
+      "fr": "pendant",
+      "it": "durante, per",
+      "pos": "prep",
+      "note": "pendant quelques secondes"
+    },
+    {
+      "fr": "le doigt",
+      "it": "il dito",
+      "pos": "n"
+    },
+    {
+      "fr": "la grille",
+      "it": "la griglia, il modulo",
+      "pos": "n",
+      "note": "la grille de jeu: la schedina"
+    },
+    {
+      "fr": "la seconde",
+      "it": "il secondo",
+      "pos": "n"
+    },
+    {
+      "fr": "prêt (prête)",
+      "it": "pronto",
+      "pos": "adj"
+    },
+    {
+      "fr": "la chance",
+      "it": "la fortuna; la probabilità",
+      "pos": "n",
+      "note": "avoir de la chance; avoir une bonne chance de"
+    },
+    {
+      "fr": "riche",
+      "it": "ricco",
+      "pos": "adj"
+    },
+    {
+      "fr": "le joueur (la joueuse)",
+      "it": "il giocatore (la giocatrice)",
+      "pos": "n"
+    },
+    {
+      "fr": "prêter",
+      "it": "prestare",
+      "pos": "v",
+      "note": "je prête"
+    },
+    {
+      "fr": "espérer",
+      "it": "sperare",
+      "pos": "v",
+      "note": "j'espère"
+    },
+    {
+      "fr": "le sou",
+      "it": "il soldo (antica moneta)",
+      "pos": "n",
+      "note": "usato quasi sempre in espressioni negative"
+    },
+    {
+      "fr": "la loterie",
+      "it": "la lotteria",
+      "pos": "n"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Mais non !",
+      "it": "Ma no! / Certo che no!",
+      "note": "esclamazione enfatica di rifiuto"
+    },
+    {
+      "fr": "Au fait,",
+      "it": "A proposito,",
+      "note": "per cambiare argomento o chiedere una cosa in più"
+    },
+    {
+      "fr": "croiser les doigts",
+      "it": "incrociare le dita",
+      "note": "per augurare buona fortuna"
+    },
+    {
+      "fr": "avoir une bonne chance de",
+      "it": "avere buone probabilità di",
+      "note": "chance qui significa probabilità, non fortuna"
+    },
+    {
+      "fr": "avoir la même idée",
+      "it": "avere la stessa idea",
+      "note": "registro neutro"
+    },
+    {
+      "fr": "Je n'ai pas un sou.",
+      "it": "Non ho un soldo.",
+      "note": "registro colloquiale: essere al verde"
+    },
+    {
+      "fr": "être sans le sou",
+      "it": "essere senza un soldo, al verde",
+      "note": "registro colloquiale"
+    },
+    {
+      "fr": "les courses de chevaux",
+      "it": "le corse ippiche",
+      "note": "espressione di uso comune"
+    }
+  ],
+  "notes_it": [
+    "Plurali irregolari: i nomi in -eu prendono -x (un jeu / des jeux), quelli in -al cambiano in -aux (un cheval / des chevaux, un journal / des journaux). Non usate mai la -s per questi nomi.",
+    "Chance è un falso amico per l'italiano: in francese significa 'fortuna' (avoir de la chance), mentre in espressioni come avoir une bonne chance de vuol dire 'avere buone probabilità di'.",
+    "Réfléchir significa 'riflettere, pensare con attenzione'. Non va confuso con penser, che indica un'opinione o un'idea. Il verbo è anche usato per la riflessione della luce, come in italiano.",
+    "Pronuncia: la combinazione -ill- dopo una consonante si legge spesso [ij] (grille, Bastille), ma mille fa eccezione e si legge [mil]. Conviene tenere una lista delle pronunce particolari.",
+    "Sous (preposizione) significa «sotto», come in sous la table. In machine à sous, invece, sous è il plurale di sou (la moneta): è solo un omofono, perché la slot machine «funziona a monete»."
+  ],
+  "exercises": [
+    {
+      "id": "L022-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "plural",
+      "prompt": "Qual è il plurale corretto di 'un cheval' (cavallo)?",
+      "options": [
+        "des chevals",
+        "des chevaux",
+        "des cheveaux",
+        "des chevales"
+      ],
+      "correct": 1,
+      "explain_it": "I nomi in -al cambiano -al in -aux: cheval diventa chevaux."
+    },
+    {
+      "id": "L022-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "plural",
+      "prompt": "Qual è il plurale corretto di 'un jeu' (gioco)?",
+      "options": [
+        "des jeus",
+        "des jeux",
+        "des jeuxs",
+        "des jeu"
+      ],
+      "correct": 1,
+      "explain_it": "I nomi in -eu prendono la -x al plurale, non la -s."
+    },
+    {
+      "id": "L022-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "tout",
+      "prompt": "Come si dice 'tutti i giochi'?",
+      "options": [
+        "tous les jeux",
+        "toutes les jeux",
+        "tout les jeux",
+        "tous des jeux"
+      ],
+      "correct": 0,
+      "explain_it": "Tout concorda con il nome: jeux è maschile plurale, quindi tous (non toutes)."
+    },
+    {
+      "id": "L022-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "present-ir",
+      "prompt": "Quale forma è corretta per 'noi scegliamo'?",
+      "options": [
+        "nous choisons",
+        "nous choisissons",
+        "nous choisissez",
+        "nous choisis"
+      ],
+      "correct": 1,
+      "explain_it": "Nelle forme nous, vous e ils i verbi del secondo gruppo in -ir prendono -iss-."
+    },
+    {
+      "id": "L022-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Che cosa significa 'Au fait' all'inizio di una frase?",
+      "options": [
+        "Al fatto",
+        "Di fatto",
+        "A proposito",
+        "In realtà"
+      ],
+      "correct": 2,
+      "explain_it": "Au fait si traduce con 'a proposito'; la traduzione letterale 'al fatto' è un tranello."
+    },
+    {
+      "id": "L022-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "plural",
+      "prompt": "Abbiamo due cavalli.",
+      "answers": [
+        "Nous avons deux chevaux."
+      ],
+      "distractors": [
+        "chevals",
+        "jeus"
+      ],
+      "explain_it": "Il plurale di cheval è chevaux, con la terminazione -aux."
+    },
+    {
+      "id": "L022-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "tout",
+      "prompt": "Tutti i giornali sono sul tavolo.",
+      "answers": [
+        "Tous les journaux sont sur la table."
+      ],
+      "distractors": [
+        "toutes",
+        "des"
+      ],
+      "explain_it": "Tous è la forma maschile plurale di tout, concorde con journaux."
+    },
+    {
+      "id": "L022-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "present-ir",
+      "prompt": "Voi compilate la griglia.",
+      "answers": [
+        "Vous remplissez la grille."
+      ],
+      "distractors": [
+        "remplit",
+        "rempliez"
+      ],
+      "explain_it": "Con vous il verbo remplir prende -iss-: remplissez."
+    },
+    {
+      "id": "L022-e09",
+      "type": "cloze",
+      "level": 1,
+      "concept": "present-ir",
+      "text": "Je ___ la grille de jeu.",
+      "answers": [
+        "remplis"
+      ],
+      "hint": "(remplir, presente)",
+      "prompt": "Compilo la griglia di gioco.",
+      "explain_it": "Con je il verbo remplir perde l'infisso -iss-: je remplis."
+    },
+    {
+      "id": "L022-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "vocab",
+      "text": "Mon frère ___ souvent aux cartes.",
+      "answers": [
+        "gagne"
+      ],
+      "hint": "(gagner, presente)",
+      "prompt": "Mio fratello vince spesso a carte.",
+      "explain_it": "Con il significato di 'vincere' gagner si usa con giochi e partite."
+    },
+    {
+      "id": "L022-e11",
+      "type": "cloze",
+      "level": 2,
+      "concept": "present-ir",
+      "text": "Nous ___ le restaurant ce soir.",
+      "answers": [
+        "choisissons"
+      ],
+      "hint": "(choisir, presente)",
+      "prompt": "Stasera scegliamo il ristorante.",
+      "explain_it": "Nous prende la forma con -iss-: choisissons."
+    },
+    {
+      "id": "L022-e12",
+      "type": "cloze",
+      "level": 2,
+      "concept": "tout",
+      "text": "Les enfants sont ___ là.",
+      "answers": [
+        "tous"
+      ],
+      "hint": "(tout, maschile plurale)",
+      "prompt": "I bambini sono tutti lì.",
+      "explain_it": "Enfants è maschile plurale: la forma giusta è tous."
+    },
+    {
+      "id": "L022-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "plural",
+      "text": "Il achète deux ___ chaque matin.",
+      "answers": [
+        "journaux"
+      ],
+      "hint": "(journal, plurale)",
+      "prompt": "Compra due giornali ogni mattina.",
+      "explain_it": "Il plurale di journal è journaux: la -al diventa -aux."
+    },
+    {
+      "id": "L022-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Mais ___, je ne suis pas malade !",
+      "answers": [
+        "non"
+      ],
+      "hint": "(esclamazione di rifiuto)",
+      "prompt": "Ma no, non sono malato!",
+      "explain_it": "Mais non è un'esclamazione fissa di rifiuto enfatico."
+    },
+    {
+      "id": "L022-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "___, où est la gare ?",
+      "answers": [
+        "Au fait"
+      ],
+      "hint": "(apertura di una domanda, cambio di argomento)",
+      "prompt": "A proposito, dov'è la stazione?",
+      "explain_it": "Au fait si usa per introdurre una domanda che non è legata al discorso precedente."
+    },
+    {
+      "id": "L022-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Il ___ de l'argent en travaillant le soir.",
+      "answers": [
+        "gagne"
+      ],
+      "hint": "(gagner, presente)",
+      "prompt": "Guadagna denaro lavorando la sera.",
+      "explain_it": "Con de l'argent gagner significa 'guadagnare', non 'vincere'."
+    },
+    {
+      "id": "L022-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Lei guadagna molto denaro.",
+      "answers": [
+        "Elle gagne beaucoup d'argent."
+      ],
+      "explain_it": "Gagner con de l'argent (beaucoup d'argent) vuol dire guadagnare denaro."
+    },
+    {
+      "id": "L022-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "present-ir",
+      "prompt": "Io scelgo il cavallo.",
+      "answers": [
+        "Je choisis le cheval."
+      ],
+      "explain_it": "Con je il verbo choisir non prende -iss-: je choisis."
+    },
+    {
+      "id": "L022-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "plural",
+      "prompt": "Ci sono tre giochi sul tavolo.",
+      "answers": [
+        "Il y a trois jeux sur la table."
+      ],
+      "explain_it": "Il plurale di jeu è jeux, con la -x finale."
+    },
+    {
+      "id": "L022-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "tout",
+      "prompt": "Siamo tutti stanchi.",
+      "answers": [
+        "Nous sommes tous fatigués.",
+        "Nous sommes toutes fatiguées.",
+        "On est tous fatigués."
+      ],
+      "explain_it": "Tous è la forma maschile plurale; con un gruppo misto si usa la maschile."
+    },
+    {
+      "id": "L022-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Ma no, non voglio giocare.",
+      "answers": [
+        "Mais non, je ne veux pas jouer."
+      ],
+      "explain_it": "Mais non è un'esclamazione di rifiuto, seguita dalla frase negata con ne ... pas."
+    },
+    {
+      "id": "L022-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Il mio amico vince la partita.",
+      "answers": [
+        "Mon ami gagne la partie.",
+        "Mon ami gagne le match."
+      ],
+      "explain_it": "Con partita o match il verbo gagner significa 'vincere'."
+    },
+    {
+      "id": "L022-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "plural",
+      "prompt": "Vedo tre cavalli bianchi.",
+      "answers": [
+        "Je vois trois chevaux blancs."
+      ],
+      "explain_it": "Il plurale di cheval è chevaux e l'aggettivo prende la -s del plurale."
+    },
+    {
+      "id": "L022-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "present-ir",
+      "prompt": "Lui finisce il lavoro alle sei.",
+      "answers": [
+        "Il finit son travail à six heures.",
+        "Il finit le travail à six heures."
+      ],
+      "explain_it": "Alla terza persona singolare il verbo finir non prende -iss-: il finit."
+    },
+    {
+      "id": "L022-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "present-ir",
+      "prompt": "Voi riempite i bicchieri.",
+      "answers": [
+        "Vous remplissez les verres."
+      ],
+      "explain_it": "Con vous il verbo remplir prende -iss-: remplissez."
+    },
+    {
+      "id": "L022-e26",
+      "type": "write",
+      "level": 3,
+      "concept": "present-ir",
+      "prompt": "Rifletto per alcuni minuti, poi scelgo un giornale specializzato.",
+      "answers": [
+        "Je réfléchis [pendant |]quelques minutes, puis je choisis un journal spécialisé."
+      ],
+      "explain_it": "Réfléchir e choisir sono verbi del secondo gruppo: al presente con je non prendono -iss-."
+    },
+    {
+      "id": "L022-e27",
+      "type": "write",
+      "level": 3,
+      "concept": "tout",
+      "prompt": "Tutti i giornali specializzati sono molto cari.",
+      "answers": [
+        "Tous les journaux spécialisés sont très chers."
+      ],
+      "explain_it": "Tous concorda con journaux (m. pl.), e spécialisés prende la -s del plurale."
+    },
+    {
+      "id": "L022-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Puoi prestarmi venti euro? Sono al verde.",
+      "answers": [
+        "Tu peux me prêter vingt euros ? Je suis sans le sou.",
+        "Tu peux me prêter vingt euros ? Je n'ai pas un sou.",
+        "Peux-tu me prêter vingt euros ? Je suis sans le sou.",
+        "Peux-tu me prêter vingt euros ? Je n'ai pas un sou."
+      ],
+      "explain_it": "Sans le sou e n'ai pas un sou sono due modi colloquiali per dire 'essere al verde'."
+    },
+    {
+      "id": "L022-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "present-ir",
+      "prompt": "Anche se non ami i giochi d'azzardo, rifletti prima di scegliere.",
+      "answers": [
+        "Même si tu n'aimes pas les jeux de hasard, réfléchis avant de choisir."
+      ],
+      "explain_it": "L'imperativo tu di réfléchir è réfléchis; choisir in forma infinita dopo avant de."
+    },
+    {
+      "id": "L022-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "vocab",
+      "prompt": "Vinci spesso alla lotteria, ma non guadagni molto denaro.",
+      "answers": [
+        "Tu gagnes souvent [à la loterie|au loto], mais tu ne gagnes pas beaucoup d'argent.",
+        "Vous gagnez souvent [à la loterie|au loto], mais vous ne gagnez pas beaucoup d'argent."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Lo stesso verbo gagner traduce sia «vincere» (alla lotteria) sia «guadagnare» (denaro); dopo beaucoup si usa de."
+    },
+    {
+      "id": "L022-e31",
+      "type": "dictation",
+      "level": 3,
+      "concept": "vocab",
+      "text": "Je n'aime pas les jeux de hasard, mais j'aime bien les courses de chevaux."
+    },
+    {
+      "id": "L022-e32",
+      "type": "dictation",
+      "level": 2,
+      "concept": "plural",
+      "text": "Ils achètent des journaux et des jeux."
+    },
+    {
+      "id": "L022-e33",
+      "type": "dictation",
+      "level": 3,
+      "concept": "present-ir",
+      "text": "Au fait, je réfléchis longtemps avant de choisir mes chevaux, parce que les jeux de hasard sont risqués."
+    },
+    {
+      "id": "L022-e34",
+      "type": "flash",
+      "level": 2,
+      "concept": "present-ir",
+      "front": "Come si coniuga al plurale un verbo del secondo gruppo, come choisir?",
+      "back": "nous choisissons, vous choisissez, ils choisissent: nelle forme plurali compare l'infisso -iss-. Al singolare non c'è: je choisis, tu choisis, il choisit.",
+      "explain_it": "L'infisso -iss- si concentra nelle forme plurali, ed è la regola da ricordare per tutti i verbi di questo gruppo."
+    },
+    {
+      "id": "L022-e35",
+      "type": "flash",
+      "level": 2,
+      "concept": "plural",
+      "front": "Come si forma il plurale di jeu e di cheval?",
+      "back": "un jeu -> des jeux (i nomi in -eu prendono -x); un cheval -> des chevaux (-al diventa -aux); anche un journal -> des journaux.",
+      "explain_it": "Il plurale dipende dalla terminazione del singolare, non dall'articolo."
+    },
+    {
+      "id": "L022-e36",
+      "type": "flash",
+      "level": 3,
+      "concept": "tout",
+      "front": "Quali forme ha tout e come si pronuncia tous?",
+      "back": "tout (m. sing.), toute (f. sing.), tous (m. pl.), toutes (f. pl.). Tous si pronuncia [too] davanti a un nome; si pronuncia [toos] quando è dopo il verbo o da solo, cioè 'tutti loro'.",
+      "explain_it": "La pronuncia della -s finale di tous indica la sua funzione grammaticale."
+    },
+    {
+      "id": "L022-e37",
+      "type": "flash",
+      "level": 3,
+      "concept": "idioms",
+      "front": "Qual è la differenza tra 'Mais non !' e la congiunzione mais?",
+      "back": "'Mais non !' è un'esclamazione enfatica di rifiuto (Ma no! / Certo che no!). La congiunzione mais, invece, significa 'ma' e collega due frasi.",
+      "explain_it": "La stessa parola ha due funzioni diverse: esclamazione o collegamento tra frasi."
+    },
+    {
+      "id": "L022-e38",
+      "type": "flash",
+      "level": 2,
+      "concept": "vocab",
+      "front": "Gagner significa sempre 'guadagnare'?",
+      "back": "No: gagner vuol dire 'vincere' (una partita, un gioco, una lotteria) oppure 'guadagnare' (denaro, uno stipendio). Il contesto decide.",
+      "explain_it": "Il verbo gagner ha due significati: quale usare dipende da ciò che si vince o si guadagna."
+    }
+  ]
+}

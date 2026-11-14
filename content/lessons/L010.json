@@ -1,0 +1,672 @@
+{
+  "n": 10,
+  "title_fr": "C'est très simple !",
+  "title_it": "È semplicissimo!",
+  "review": false,
+  "status": "verified",
+  "source": "529edcbd pdf 47-50 (libro p.31-34)",
+  "theme_it": "Un impiegato dell'ufficio amministrativo sbriga la pratica di un cliente: chiede i moduli B-52 e A-65, il passaporto e la foto. Alla fine il cliente deve pagare alla cassa, ma non trova il portafoglio. La lezione introduce il possessivo son/sa/ses che si accorda con la cosa posseduta, il presente per il futuro immediato e l'uso di même.",
+  "grammar": [
+    {
+      "id": "possessives",
+      "title_it": "Son, sa, ses: il possessivo si accorda con la cosa posseduta",
+      "explain_it": "In francese l'aggettivo possessivo di terza persona (suo, sua, suoi, sue) si sceglie in base al nome che segue, non in base al possessore: il genere e il numero sono quelli della cosa posseduta. Davanti a un nome maschile singolare si usa son (son passeport, son bureau); davanti a un nome femminile singolare si usa sa (sa photo, sa carte); davanti al plurale si usa ses (ses amis). Davanti a un nome femminile che inizia per vocale o h muta si usa son (son adresse). In italiano il possessivo vuole l'articolo (il suo passaporto, la sua foto), mentre in francese non lo vuole: son passeport, sa photo.",
+      "examples": [
+        {
+          "fr": "Son fils habite à Lyon.",
+          "it": "Suo figlio abita a Lione."
+        },
+        {
+          "fr": "Ma mère a sa carte d'identité.",
+          "it": "Mia madre ha la sua carta d'identità."
+        },
+        {
+          "fr": "Elle a son adresse.",
+          "it": "Lei ha il suo indirizzo."
+        }
+      ]
+    },
+    {
+      "id": "emphasis",
+      "title_it": "Même: anche, persino, oppure lo stesso",
+      "explain_it": "La parola même ha due sensi principali. Come avverbio, senza articolo davanti al nome, significa «persino» o «anche» e resta invariabile: nous avons même sa photo (abbiamo persino la sua foto). Con l'articolo davanti al nome è un aggettivo che significa «stesso» e si accorda: le même passeport, la même carte, les mêmes amis. In questo secondo caso è spesso seguito da que: le même que... (lo stesso che...). Il francese usa même dove l'italiano userebbe «persino» o «perfino», con un'enfasi più forte di aussi («anche»).",
+      "examples": [
+        {
+          "fr": "Nous avons même son passeport.",
+          "it": "Abbiamo persino il suo passaporto."
+        },
+        {
+          "fr": "C'est la même carte.",
+          "it": "È la stessa carta."
+        },
+        {
+          "fr": "Même moi, je ne sais pas.",
+          "it": "Persino io non lo so."
+        }
+      ]
+    },
+    {
+      "id": "futur-proche",
+      "title_it": "Il presente per il futuro immediato: je vous fais",
+      "explain_it": "Come in italiano («ti faccio subito» al posto di «ti farò»), il francese usa il presente per dire che un'azione avverrà subito o molto presto. Il contesto (tout de suite, demain) chiarisce il tempo. Non serve aller più infinito: basta il presente del verbo, con faire la forma è je fais, vous faites. La frase je vous fais la carte, quindi, significa «vi faccio la tessera», cioè la farò subito. Lo stesso vale per altri verbi di servizio come appeler.",
+      "examples": [
+        {
+          "fr": "Je vous fais la carte tout de suite.",
+          "it": "Vi faccio la tessera subito."
+        },
+        {
+          "fr": "Je vous appelle demain.",
+          "it": "Vi chiamo domani."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "faire",
+      "it": "fare",
+      "pos": "v",
+      "note": "je fais, vous faites, il fait"
+    },
+    {
+      "fr": "le formulaire",
+      "it": "il modulo",
+      "pos": "n"
+    },
+    {
+      "fr": "l'imprimé (m.)",
+      "it": "lo stampato, il modulo stampato",
+      "pos": "n"
+    },
+    {
+      "fr": "le passeport",
+      "it": "il passaporto",
+      "pos": "n"
+    },
+    {
+      "fr": "la photo",
+      "it": "la foto",
+      "pos": "n"
+    },
+    {
+      "fr": "la carte",
+      "it": "la tessera, la carta",
+      "pos": "n",
+      "note": "la carte d'identité = la carta d'identità"
+    },
+    {
+      "fr": "même",
+      "it": "anche, persino; stesso",
+      "pos": "adv",
+      "note": "invariabile quando significa persino"
+    },
+    {
+      "fr": "alors",
+      "it": "allora, quindi",
+      "pos": "adv"
+    },
+    {
+      "fr": "la caisse",
+      "it": "la cassa",
+      "pos": "n"
+    },
+    {
+      "fr": "régler",
+      "it": "pagare, saldare",
+      "pos": "v",
+      "note": "je règle, il règle"
+    },
+    {
+      "fr": "le portefeuille",
+      "it": "il portafoglio",
+      "pos": "n"
+    },
+    {
+      "fr": "trouver",
+      "it": "trovare",
+      "pos": "v",
+      "note": "je trouve, il ne trouve pas"
+    },
+    {
+      "fr": "simple",
+      "it": "semplice",
+      "pos": "adj"
+    },
+    {
+      "fr": "zut",
+      "it": "accidenti, caspita",
+      "pos": "interj"
+    },
+    {
+      "fr": "l'accord (m.)",
+      "it": "l'accordo, il consenso",
+      "pos": "n"
+    },
+    {
+      "fr": "pouvoir",
+      "it": "potere",
+      "pos": "v",
+      "note": "je peux, il peut"
+    },
+    {
+      "fr": "immédiat(e)",
+      "it": "immediato",
+      "pos": "adj",
+      "note": "futur immédiat = futuro immediato"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "faire son travail",
+      "it": "fare il proprio lavoro",
+      "note": "dire di aver fatto solo il proprio dovere"
+    },
+    {
+      "fr": "c'est tout",
+      "it": "tutto qui, è tutto",
+      "note": "si mette in fondo a una frase per dire «solo questo»"
+    },
+    {
+      "fr": "d'accord",
+      "it": "d'accordo, va bene",
+      "note": "molto comune anche nel parlato come «OK»"
+    },
+    {
+      "fr": "Ah bon ?",
+      "it": "Ah sì? Davvero?",
+      "note": "reazione di sorpresa leggera, con intonazione ascendente"
+    },
+    {
+      "fr": "nous l'avons",
+      "it": "ce l'abbiamo",
+      "note": "risposta a una domanda sul possesso di un oggetto"
+    },
+    {
+      "fr": "Réglez à la caisse, s'il vous plaît.",
+      "it": "Pagate alla cassa, per favore.",
+      "note": "formula di servizio in negozio o in ufficio"
+    },
+    {
+      "fr": "Je vous fais la carte.",
+      "it": "Vi faccio la tessera.",
+      "note": "faire usato per una pratica amministrativa"
+    },
+    {
+      "fr": "je ne trouve pas",
+      "it": "non riesco a trovare, non trovo",
+      "note": "in italiano «non riesco a trovare» suona più naturale"
+    }
+  ],
+  "notes_it": [
+    "Régler a una cassa significa «pagare, saldare» (régler à la caisse); in altri contesti vale anche «regolare» (un apparecchio), quindi il senso dipende dalla situazione.",
+    "D'accord esprime accordo o consenso ed è la stessa radice di l'accord. Nel parlato molti francesi usano anche la parola OK, da sola o insieme: OK, d'accord.",
+    "Pronuncia: c'est si legge [sɛ] e la t finale non si sente; très ha la r francese e la s muta. Nelle frasi con vous avez si fa la liaison: vous_avez.",
+    "Zut! è un'esclamazione leggera di fastidio, come l'italiano «accidenti» o «caspita». Non è volgare e si usa anche in famiglia o con amici."
+  ],
+  "exercises": [
+    {
+      "id": "L010-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "possessives",
+      "prompt": "Come si dice «il suo passaporto»?",
+      "options": [
+        "son passeport",
+        "sa passeport",
+        "ses passeport",
+        "son passeporte"
+      ],
+      "correct": 0,
+      "explain_it": "Passeport è maschile: davanti si usa son, anche se il possessore è una donna."
+    },
+    {
+      "id": "L010-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "possessives",
+      "prompt": "Come si dice «la sua foto» (di lei)?",
+      "options": [
+        "sa photo",
+        "son photo",
+        "ses photo",
+        "sa photos"
+      ],
+      "correct": 0,
+      "explain_it": "Photo è femminile e inizia per consonante: si usa sa. Il genere è quello della cosa posseduta."
+    },
+    {
+      "id": "L010-e03",
+      "type": "order",
+      "level": 1,
+      "concept": "possessives",
+      "prompt": "Suo figlio abita a Lione.",
+      "answers": [
+        "Son fils habite à Lyon."
+      ],
+      "distractors": [
+        "sa",
+        "ses"
+      ],
+      "explain_it": "Fils è maschile singolare: si usa son, e il possessivo francese non vuole l'articolo."
+    },
+    {
+      "id": "L010-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "futur-proche",
+      "prompt": "Quale frase significa «vi faccio la tessera subito»?",
+      "options": [
+        "Je vous fais la carte tout de suite.",
+        "Je vous faire la carte tout de suite.",
+        "Je vous fait la carte tout de suite.",
+        "Je vous faites la carte tout de suite."
+      ],
+      "correct": 0,
+      "explain_it": "Per l'azione immediata basta il presente: je fais, mentre vous faites è la seconda persona plurale."
+    },
+    {
+      "id": "L010-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "emphasis",
+      "prompt": "Quale frase significa «abbiamo persino la sua foto»?",
+      "options": [
+        "Nous avons même sa photo.",
+        "Nous avons même son photo.",
+        "Nous avons même ses photos.",
+        "Nous avons mêmes sa photo."
+      ],
+      "correct": 0,
+      "explain_it": "Même nel senso di persino resta invariabile, e il possessivo è sa perché photo è femminile."
+    },
+    {
+      "id": "L010-e06",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronoun-cod",
+      "prompt": "Come si dice «sì, ce l'abbiamo» parlando del modulo?",
+      "options": [
+        "Oui, nous l'avons.",
+        "Oui, nous le avons.",
+        "Oui, nous les avons.",
+        "Oui, nous avons le."
+      ],
+      "correct": 0,
+      "explain_it": "Formulaire è maschile singolare: il pronome diretto è le, che davanti a vocale diventa l'."
+    },
+    {
+      "id": "L010-e07",
+      "type": "cloze",
+      "level": 1,
+      "concept": "present-er",
+      "text": "Vous ___ la clé ?",
+      "answers": [
+        "trouvez"
+      ],
+      "hint": "(trouver, presente, vous)",
+      "prompt": "Trovate la chiave?",
+      "explain_it": "Trouver è un verbo in -er: con vous la forma è trouvez."
+    },
+    {
+      "id": "L010-e08",
+      "type": "cloze",
+      "level": 1,
+      "concept": "faire",
+      "text": "Je ___ le café pour moi.",
+      "answers": [
+        "fais"
+      ],
+      "hint": "(faire, presente)",
+      "prompt": "Faccio il caffè per me.",
+      "explain_it": "Faire è irregolare: con je la forma è fais."
+    },
+    {
+      "id": "L010-e09",
+      "type": "cloze",
+      "level": 1,
+      "concept": "faire",
+      "text": "Elle ___ une photo de l'enfant.",
+      "answers": [
+        "fait"
+      ],
+      "hint": "(faire, presente)",
+      "prompt": "Lei fa una foto del bambino.",
+      "explain_it": "Con elle la forma di faire è fait: la t finale non si pronuncia."
+    },
+    {
+      "id": "L010-e10",
+      "type": "mcq",
+      "level": 1,
+      "concept": "false-friends",
+      "prompt": "In «Réglez à la caisse», régler significa:",
+      "options": [
+        "pagare, saldare",
+        "riposare",
+        "regalare",
+        "rilassarsi"
+      ],
+      "correct": 0,
+      "explain_it": "Régler è un falso amico: nel contesto della cassa significa pagare, saldare (altrove può voler dire anche regolare)."
+    },
+    {
+      "id": "L010-e11",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Quale risposta significa «d'accord» in italiano?",
+      "options": [
+        "D'accordo, va bene",
+        "Ho dimenticato",
+        "Per cortesia",
+        "Ci vediamo"
+      ],
+      "correct": 0,
+      "explain_it": "D'accord esprime accordo o consenso, come l'italiano «d'accordo»."
+    },
+    {
+      "id": "L010-e12",
+      "type": "order",
+      "level": 1,
+      "concept": "faire",
+      "prompt": "Voi fate il vostro lavoro, e basta.",
+      "answers": [
+        "Vous faites votre travail, c'est tout."
+      ],
+      "distractors": [
+        "fait",
+        "nous"
+      ],
+      "explain_it": "Con vous il verbo faire è faites; c'est tout chiude la frase con «e basta»."
+    },
+    {
+      "id": "L010-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "possessives",
+      "text": "Marie habite chez ___ mère à Lyon.",
+      "answers": [
+        "sa"
+      ],
+      "hint": "(possessivo, femminile singolare)",
+      "prompt": "Marie abita a casa di sua madre a Lione.",
+      "explain_it": "Mère è femminile: si usa sa, anche se il possessore è Marie."
+    },
+    {
+      "id": "L010-e14",
+      "type": "write",
+      "level": 2,
+      "concept": "possessives",
+      "prompt": "Suo padre lavora in municipio.",
+      "answers": [
+        "Son père travaille à la mairie."
+      ],
+      "explain_it": "Père è maschile: son. In municipio si dice à la mairie."
+    },
+    {
+      "id": "L010-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "possessives",
+      "prompt": "Lui ha la sua carta d'identità.",
+      "answers": [
+        "Il a sa carte d'identité."
+      ],
+      "explain_it": "Carte è femminile: il possessivo è sa, e la forma verbale è a senza accento."
+    },
+    {
+      "id": "L010-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "futur-proche",
+      "text": "Je vous ___ un café tout de suite.",
+      "answers": [
+        "fais"
+      ],
+      "hint": "(faire, presente)",
+      "prompt": "Vi faccio subito un caffè.",
+      "explain_it": "Il presente di faire esprime un'azione immediata, come il futuro in italiano."
+    },
+    {
+      "id": "L010-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "futur-proche",
+      "prompt": "Vi chiamo domani.",
+      "answers": [
+        "Je vous appelle demain."
+      ],
+      "explain_it": "Il presente indica un'azione futura vicina: je vous appelle, senza bisogno di aller."
+    },
+    {
+      "id": "L010-e18",
+      "type": "cloze",
+      "level": 2,
+      "concept": "emphasis",
+      "text": "Nous avons ___ son adresse.",
+      "answers": [
+        "même"
+      ],
+      "hint": "(anche, persino)",
+      "prompt": "Abbiamo persino il suo indirizzo.",
+      "explain_it": "Même con il senso di persino è invariabile e precede il possessivo."
+    },
+    {
+      "id": "L010-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "emphasis",
+      "prompt": "Abbiamo persino il suo passaporto.",
+      "answers": [
+        "Nous avons même son passeport."
+      ],
+      "explain_it": "Même resta invariabile; il possessivo è son perché passeport è maschile."
+    },
+    {
+      "id": "L010-e20",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-cod",
+      "text": "Vous avez la photo ? Oui, nous ___avons.",
+      "answers": [
+        "l'"
+      ],
+      "hint": "(pronome diretto, la foto)",
+      "prompt": "Avete la foto? Sì, ce l'abbiamo.",
+      "explain_it": "Il pronome diretto precede il verbo avere; davanti a avons diventa l', maschile o femminile."
+    },
+    {
+      "id": "L010-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-cod",
+      "prompt": "Sì, signora, ce l'abbiamo.",
+      "answers": [
+        "Oui, madame, nous l'avons."
+      ],
+      "explain_it": "Signora si dice madame; il pronome l' sostituisce il nome già noto."
+    },
+    {
+      "id": "L010-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "negation",
+      "prompt": "Non trovo la chiave.",
+      "answers": [
+        "Je ne trouve pas la clé."
+      ],
+      "explain_it": "La negazione ne...pas circonda il verbo: ne prima, pas dopo la forma verbale."
+    },
+    {
+      "id": "L010-e23",
+      "type": "dictation",
+      "level": 2,
+      "concept": "possessives",
+      "text": "Ce monsieur a son passeport.",
+      "explain_it": "Son si pronuncia come il suono [sɔ̃]; la scrittura conta: è il possessivo maschile."
+    },
+    {
+      "id": "L010-e24",
+      "type": "dictation",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Réglez à la caisse, s'il vous plaît.",
+      "explain_it": "Régler è pagare e caisse è la cassa: frase tipica di negozio o ufficio."
+    },
+    {
+      "id": "L010-e25",
+      "type": "flash",
+      "level": 2,
+      "concept": "faire",
+      "front": "Coniugazione di faire al presente",
+      "back": "je fais, tu fais, il/elle fait, nous faisons, vous faites, ils/elles font",
+      "explain_it": "Faire è irregolare: la radice cambia (fais- per io, tu e noi, fait- per lui/lei, font per loro)."
+    },
+    {
+      "id": "L010-e26",
+      "type": "flash",
+      "level": 2,
+      "concept": "possessives",
+      "front": "Son, sa, ses: quale forma si sceglie?",
+      "back": "Si sceglie in base al nome posseduto: son davanti a maschile singolare e davanti a femminile che inizia per vocale (son adresse); sa davanti a femminile singolare; ses davanti al plurale.",
+      "explain_it": "In italiano il possessivo dipende dal possessore; in francese dipende dalla cosa posseduta."
+    },
+    {
+      "id": "L010-e27",
+      "type": "flash",
+      "level": 2,
+      "concept": "emphasis",
+      "front": "Même: quando significa «persino» e quando «stesso»?",
+      "back": "Persino/anche: nous avons même sa photo (invariabile, senza articolo). Stesso: la même carte, le même passeport (con articolo davanti al nome, si accorda).",
+      "explain_it": "Con l'articolo davanti al nome è aggettivo e si accorda; senza articolo è avverbio e resta invariato."
+    },
+    {
+      "id": "L010-e28",
+      "type": "cloze",
+      "level": 2,
+      "concept": "negation",
+      "text": "Elle ne ___ pas le formulaire.",
+      "answers": [
+        "trouve"
+      ],
+      "hint": "(trouver, presente)",
+      "prompt": "Lei non trova il modulo.",
+      "explain_it": "La negazione ne...pas circonda il verbo, e con elle la forma è trouve."
+    },
+    {
+      "id": "L010-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "possessives",
+      "prompt": "Il padre ha il suo passaporto e la sua carta d'identità.",
+      "answers": [
+        "Le père a son passeport et sa carte d'identité."
+      ],
+      "explain_it": "Ogni possessivo si accorda con il nome che segue: son con passeport, sa con carte."
+    },
+    {
+      "id": "L010-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "emphasis",
+      "prompt": "Oggi persino il bambino ha la sua carta.",
+      "answers": [
+        "Aujourd'hui, même l'enfant a sa carte.",
+        "Aujourd'hui, l'enfant a même sa carte."
+      ],
+      "explain_it": "Même può stare davanti al soggetto o dopo l'avere; in entrambi i casi è invariabile."
+    },
+    {
+      "id": "L010-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "negation",
+      "ask": "Volgi alla forma negativa",
+      "prompt": "Vous avez le passeport.",
+      "answers": [
+        "Vous n'avez pas le passeport."
+      ],
+      "explain_it": "Davanti a avez la negazione diventa n'avez, e pas segue il verbo."
+    },
+    {
+      "id": "L010-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "negation",
+      "prompt": "Lui fa il suo lavoro, ma non trova la chiave.",
+      "answers": [
+        "Il fait son travail, mais il ne trouve pas [la|sa] clé."
+      ],
+      "explain_it": "Fait e ne trouve sono le forme di terza persona singolare; la chiave è femminile, quindi la o sa."
+    },
+    {
+      "id": "L010-e33",
+      "type": "dictation",
+      "level": 3,
+      "concept": "emphasis",
+      "text": "Je vous fais la carte, et nous avons même sa photo.",
+      "explain_it": "Attenzione a même, invariabile in questo senso, e al possessivo sa davanti a photo."
+    },
+    {
+      "id": "L010-e34",
+      "type": "order",
+      "level": 2,
+      "concept": "possessives",
+      "prompt": "Mio figlio ha il suo passaporto.",
+      "answers": [
+        "Mon fils a son passeport."
+      ],
+      "distractors": [
+        "sa",
+        "ma"
+      ],
+      "explain_it": "Mio davanti a fils diventa mon; il suo davanti a passeport diventa son."
+    },
+    {
+      "id": "L010-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "possessives",
+      "prompt": "Mia madre ha il suo indirizzo, ma non il suo passaporto.",
+      "answers": [
+        "Ma mère a son adresse, mais elle n'a pas son passeport.",
+        "Ma mère a son adresse, mais pas son passeport."
+      ],
+      "explain_it": "Mia è ma davanti a mère; son davanti a adresse e a passeport, perché il nome è maschile o femminile con vocale."
+    },
+    {
+      "id": "L010-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "present-er",
+      "ask": "Traduci in francese",
+      "prompt": "Ah sì? Allora lui paga alla cassa.",
+      "answers": [
+        "Ah bon ? Alors il [règle|paie|paye] à la caisse."
+      ],
+      "explain_it": "Régler è un verbo in -er con accento grave nella radice: règle; alors apre la conclusione."
+    },
+    {
+      "id": "L010-e39",
+      "type": "dictation",
+      "level": 3,
+      "concept": "idioms",
+      "text": "Zut ! Je ne trouve pas mes clés.",
+      "explain_it": "Zut esprime fastidio; mes è il plurale di mon e si accorda con clés."
+    },
+    {
+      "id": "L010-e40",
+      "type": "order",
+      "level": 3,
+      "concept": "negation",
+      "prompt": "Accidenti, lui non trova il suo modulo.",
+      "answers": [
+        "Zut, il ne trouve pas son formulaire."
+      ],
+      "distractors": [
+        "fait",
+        "sa"
+      ],
+      "explain_it": "Zut esprime fastidio; la negazione ne...pas circonda trouve; formulaire è maschile, quindi son."
+    }
+  ]
+}

@@ -1,0 +1,907 @@
+{
+  "n": 30,
+  "title_fr": "J'ai un truc à te demander…",
+  "title_it": "Ho una cosa da chiederti…",
+  "review": false,
+  "status": "verified",
+  "source": "c15d4fa8 pdf p45-50 (libro p.127-132)",
+  "theme_it": "Stéphane è al telefono con Antoine, ma la linea è debole perché si trovano in piena campagna. Antoine gli chiede in prestito l'aspirapolvere per pulire la piscina. Stéphane va a chiedere a Juliette se le serve e alla fine accetta, a condizione che l'oggetto torni entro la fine della settimana.",
+  "grammar": [
+    {
+      "id": "present-irregular",
+      "title_it": "Verbi del terzo gruppo in -re (entendre, perdre, attendre, descendre, vendre) e mettre",
+      "explain_it": "I verbi in -re del terzo gruppo (entendre, perdre, attendre, descendre, vendre) hanno una radice stabile e le desinenze -s, -s, (nulla), -ons, -ez, -ent: je perds, tu perds, il perd, nous perdons, vous perdez, ils perdent. Stessa logica per entendre (j'entends, nous entendons) e attendre (j'attends, nous attendons). Mettre è simile ma perde una t al singolare: je mets, tu mets, il met, nous mettons, vous mettez, ils mettent. Al singolare la -s e la -d/-t finali sono mute (je perds, il perd si pronunciano uguale); al plurale la consonante si sente (ils perdent [pɛʁd]). Mettre un manteau significa «mettersi un cappotto» e non vuole preposizione.",
+      "examples": [
+        {
+          "fr": "Je t'entends très bien.",
+          "it": "Ti sento benissimo."
+        },
+        {
+          "fr": "Nous descendons au premier étage.",
+          "it": "Scendiamo al primo piano."
+        }
+      ]
+    },
+    {
+      "id": "pronoun-en",
+      "title_it": "Il pronome en (ne, di ciò, ne ho)",
+      "explain_it": "En sostituisce un nome preceduto da de (du, de la, des) o da una quantità, e si mette davanti al verbo coniugato. Spesso corrisponde a «ne» dell'italiano («ne voglio due», «ne ho bisogno»), ma talvolta non si traduce. Con una quantità precisa il numero resta dopo il verbo: J'en veux deux. Con la negazione si scrive n'en: il n'en reste plus = non ne resta più. Con avoir besoin de, il pronome sostituisce il complemento: J'en ai besoin = ne ho bisogno.",
+      "examples": [
+        {
+          "fr": "Tu veux du café ? – Oui, j'en veux un peu.",
+          "it": "Vuoi del caffè? – Sì, ne voglio un po'."
+        },
+        {
+          "fr": "Le magasin n'en vend pas.",
+          "it": "Il negozio non ne vende."
+        }
+      ]
+    },
+    {
+      "id": "pronoun-coi",
+      "title_it": "Pronomi complemento di termine (me, te) con prêter, demander, promettre",
+      "explain_it": "Con i verbi che reggono una persona indiretta (prêter, demander, promettre, rendre, offrir) si usano i pronomi me e te per dire «a me» e «a te». Il pronome sta prima del verbo che lo regge: davanti all'infinito se c'è (Peux-tu me prêter ton aspirateur ?). Davanti a vocale me e te diventano m' e t': je t'offre un café. Con due pronomi il COI viene prima del COD: je te le promets. Attenzione: con entendre (je t'entends) te è complemento diretto, non indiretto.",
+      "examples": [
+        {
+          "fr": "Je te demande un service.",
+          "it": "Ti chiedo un favore."
+        },
+        {
+          "fr": "Je promets de te le rendre.",
+          "it": "Prometto di restituirtelo."
+        }
+      ]
+    },
+    {
+      "id": "imperative",
+      "title_it": "Imperativo di tu con e senza -s (attends, reste, vas-y)",
+      "explain_it": "L'imperativo tu si forma dalla seconda persona singolare del presente, senza pronome. Per i verbi in -er e per aller la -s finale cade: reste, quitte, va. Gli altri verbi la mantengono: attends, descends. Davanti ai pronomi y ed en la -s torna per ragioni di pronuncia: vas-y, donnes-en. Vas-y è la forma familiare di allez-y. La negazione avvolge il verbo: ne quitte pas = non riattaccare.",
+      "examples": [
+        {
+          "fr": "Attends, ne quitte pas !",
+          "it": "Aspetta, non riattaccare!"
+        },
+        {
+          "fr": "Reste où tu es.",
+          "it": "Resta dove sei."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Vouloir bien e à tout à l'heure",
+      "explain_it": "Vouloir bien nell'uso comune esprime accettazione: Je veux bien = volentieri, va bene. Non va confuso con l'italiano «voler bene» (affetto), che in francese è aimer. À tout à l'heure è la formula di congedo che significa «a più tardi», anche se l'ora non è precisa; si usa con il presente o il futuro: Je te rappelle tout à l'heure. Equivale all'italiano «a dopo».",
+      "examples": [
+        {
+          "fr": "Je veux bien t'aider.",
+          "it": "Ti aiuto volentieri."
+        },
+        {
+          "fr": "Je te rappelle tout à l'heure.",
+          "it": "Ti richiamo più tardi."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "un instant",
+      "it": "un momento",
+      "pos": "n"
+    },
+    {
+      "fr": "le téléphone",
+      "it": "il telefono",
+      "pos": "n"
+    },
+    {
+      "fr": "répondre (à)",
+      "it": "rispondere (a)",
+      "pos": "v",
+      "note": "répondre au téléphone"
+    },
+    {
+      "fr": "entendre",
+      "it": "sentire, udire",
+      "pos": "v",
+      "note": "je t'entends"
+    },
+    {
+      "fr": "mal",
+      "it": "male",
+      "pos": "adv"
+    },
+    {
+      "fr": "le signal",
+      "it": "il segnale",
+      "pos": "n"
+    },
+    {
+      "fr": "perdre",
+      "it": "perdere",
+      "pos": "v",
+      "note": "je perds"
+    },
+    {
+      "fr": "attendre",
+      "it": "aspettare",
+      "pos": "v",
+      "note": "tu attends"
+    },
+    {
+      "fr": "quitter",
+      "it": "lasciare, abbandonare un luogo",
+      "pos": "v",
+      "note": "ne quitte pas"
+    },
+    {
+      "fr": "rester",
+      "it": "restare",
+      "pos": "v",
+      "note": "reste"
+    },
+    {
+      "fr": "descendre",
+      "it": "scendere",
+      "pos": "v",
+      "note": "je descends"
+    },
+    {
+      "fr": "le premier étage",
+      "it": "il primo piano",
+      "pos": "n"
+    },
+    {
+      "fr": "la campagne",
+      "it": "la campagna",
+      "pos": "n"
+    },
+    {
+      "fr": "l'antenne (f.)",
+      "it": "l'antenna",
+      "pos": "n"
+    },
+    {
+      "fr": "mieux",
+      "it": "meglio",
+      "pos": "adv"
+    },
+    {
+      "fr": "mettre",
+      "it": "mettere, indossare",
+      "pos": "v",
+      "note": "je mets"
+    },
+    {
+      "fr": "le haut-parleur",
+      "it": "l'altoparlante",
+      "pos": "n"
+    },
+    {
+      "fr": "un truc",
+      "it": "una cosa, un affare (fam.)",
+      "pos": "n"
+    },
+    {
+      "fr": "demander",
+      "it": "chiedere",
+      "pos": "v",
+      "note": "demander qqch à qqn"
+    },
+    {
+      "fr": "prêter",
+      "it": "prestare",
+      "pos": "v",
+      "note": "prêter qqch à qqn"
+    },
+    {
+      "fr": "l'aspirateur (m.)",
+      "it": "l'aspirapolvere",
+      "pos": "n"
+    },
+    {
+      "fr": "avoir besoin de",
+      "it": "avere bisogno di",
+      "pos": "expr"
+    },
+    {
+      "fr": "promettre",
+      "it": "promettere",
+      "pos": "v",
+      "note": "je promets"
+    },
+    {
+      "fr": "la piscine",
+      "it": "la piscina",
+      "pos": "n"
+    },
+    {
+      "fr": "la confiance",
+      "it": "la fiducia",
+      "pos": "n",
+      "note": "faire confiance"
+    },
+    {
+      "fr": "dépendre de",
+      "it": "dipendere da",
+      "pos": "v"
+    },
+    {
+      "fr": "le village",
+      "it": "il villaggio",
+      "pos": "n"
+    },
+    {
+      "fr": "le magasin",
+      "it": "il negozio",
+      "pos": "n"
+    },
+    {
+      "fr": "vendre",
+      "it": "vendere",
+      "pos": "v",
+      "note": "il vend"
+    },
+    {
+      "fr": "la semaine",
+      "it": "la settimana",
+      "pos": "n"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Ne quitte pas.",
+      "it": "Non riattaccare, resta in linea.",
+      "note": "al telefono, forma familiare (tu)"
+    },
+    {
+      "fr": "Je t'entends très mal.",
+      "it": "Ti sento molto male.",
+      "note": "al telefono"
+    },
+    {
+      "fr": "Vas-y.",
+      "it": "Vai pure, avanti.",
+      "note": "invito a continuare o ad agire; familiare"
+    },
+    {
+      "fr": "J'ai un truc à te demander.",
+      "it": "Ho una cosa da chiederti.",
+      "note": "truc è una parola jolly, familiare"
+    },
+    {
+      "fr": "Je veux bien.",
+      "it": "Volentieri, va bene.",
+      "note": "accettazione cortese"
+    },
+    {
+      "fr": "À tout à l'heure.",
+      "it": "A più tardi.",
+      "note": "congedo; l'ora non è precisa"
+    },
+    {
+      "fr": "Tu peux me faire confiance.",
+      "it": "Puoi fidarti di me.",
+      "note": "registro familiare"
+    },
+    {
+      "fr": "Ça ne dépend pas entièrement de moi.",
+      "it": "Non dipende interamente da me.",
+      "note": "per declinare una responsabilità"
+    },
+    {
+      "fr": "Au milieu de la campagne.",
+      "it": "In piena campagna.",
+      "note": "luogo isolato"
+    }
+  ],
+  "notes_it": [
+    "«Allô ?» è il modo di rispondere al telefono in Francia, come l'italiano «pronto?». Il segnale del telefono di campagna è spesso debole: per chiedere di aspettare in linea si dice «Ne quitte pas» (non riattaccare).",
+    "Falso amico: entendre significa «sentire, udire» (je t'entends = ti sento). Per «capire» si dice comprendre, per «avere intenzione» avoir l'intention.",
+    "Pronuncia: la desinenza -ier di premier si legge di solito [-yé], ma davanti a una vocale, come in premier étage, la sillaba finale diventa [-yér] e si fa la liaison con la vocale successiva.",
+    "Vouloir bien non significa «voglio bene»: nel linguaggio comune è un modo cortese per accettare (je veux bien = volentieri).",
+    "Quitter, mettre e vendre sono verbi transitivi diretti: il complemento segue senza preposizione (mettre un manteau, quitter la maison, vendre sa voiture)."
+  ],
+  "exercises": [
+    {
+      "id": "L030-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "present-irregular",
+      "prompt": "Come si dice «Ti sento molto male» al telefono?",
+      "options": [
+        "Je t'entends très mal.",
+        "Je t'entendre très mal.",
+        "Je t'intends très mal.",
+        "Je t'entendes très mal."
+      ],
+      "correct": 0,
+      "explain_it": "Entendre significa sentire/udire: je t'entends, con la -s della prima persona. L'italiano «intendere» è un falso amico e non va usato qui."
+    },
+    {
+      "id": "L030-e02",
+      "type": "order",
+      "level": 1,
+      "concept": "imperative",
+      "prompt": "Aspetta, non riattaccare.",
+      "answers": [
+        "Attends, ne quitte pas",
+        "Attends, ne raccroche pas"
+      ],
+      "distractors": [
+        "Attendez",
+        "quittez"
+      ],
+      "explain_it": "Attends è l'imperativo di tu di attendre; ne quitte pas è la forma negativa di quitter con ne...pas attorno al verbo."
+    },
+    {
+      "id": "L030-e03",
+      "type": "cloze",
+      "level": 1,
+      "concept": "pronoun-coi",
+      "text": "Je ___ demande un service.",
+      "answers": [
+        "te"
+      ],
+      "hint": "(pronome, tu)",
+      "prompt": "Ti chiedo un favore.",
+      "explain_it": "Con demander la persona è indiretta: je te demande = ti chiedo, con te davanti al verbo."
+    },
+    {
+      "id": "L030-e04",
+      "type": "cloze",
+      "level": 1,
+      "concept": "present-irregular",
+      "text": "Nous ___ toujours le signal à la campagne.",
+      "answers": [
+        "perdons"
+      ],
+      "hint": "(perdre, presente, nous)",
+      "prompt": "In campagna perdiamo sempre il segnale.",
+      "explain_it": "Perdre fa nous perdons: la radice perd- resta, con la desinenza -ons."
+    },
+    {
+      "id": "L030-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Quale espressione si usa per dire «volentieri» quando si accetta una richiesta?",
+      "options": [
+        "Je veux bien.",
+        "Je ne veux pas.",
+        "Je veux rien.",
+        "Je veux mieux."
+      ],
+      "correct": 0,
+      "explain_it": "Vouloir bien esprime accettazione cortese; non significa «voglio bene»."
+    },
+    {
+      "id": "L030-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "A più tardi.",
+      "answers": [
+        "À tout à l'heure"
+      ],
+      "distractors": [
+        "toujours",
+        "demain"
+      ],
+      "explain_it": "À tout à l'heure è la formula di congedo che significa «a più tardi», anche senza un'ora precisa."
+    },
+    {
+      "id": "L030-e07",
+      "type": "cloze",
+      "level": 1,
+      "concept": "imperative",
+      "text": "Je peux commencer ? – Oui, ___ !",
+      "answers": [
+        "vas-y"
+      ],
+      "hint": "(aller, imperativo, tu)",
+      "prompt": "Posso cominciare? – Sì, vai pure!",
+      "explain_it": "Vas-y è l'imperativo di aller al tu; la -s torna davanti al pronome y."
+    },
+    {
+      "id": "L030-e08",
+      "type": "write",
+      "level": 1,
+      "concept": "modals",
+      "prompt": "Puoi fidarti di me.",
+      "answers": [
+        "Tu peux me faire confiance",
+        "Tu peux avoir confiance en moi",
+        "Tu peux te fier à moi"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Pouvoir più infinito esprime la possibilità; me sta prima di faire (faire confiance à qqn)."
+    },
+    {
+      "id": "L030-e09",
+      "type": "write",
+      "level": 1,
+      "concept": "present-irregular",
+      "prompt": "Ti sento bene.",
+      "answers": [
+        "Je t'entends bien",
+        "Je t'entends très bien"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Entendre al presente è je t'entends: je elide davanti a t'."
+    },
+    {
+      "id": "L030-e10",
+      "type": "flash",
+      "level": 1,
+      "concept": "present-irregular",
+      "front": "Entendre, perdre, attendre, descendre: come si coniugano al presente?",
+      "back": "Radice + desinenze -s, -s, (nulla), -ons, -ez, -ent. Esempi: j'entends, tu perds, il attend, nous descendons, vous entendez, ils perdent.",
+      "note": "La radice (entend-, perd-, attend-, descend-) resta uguale in tutte le persone.",
+      "explain_it": "Nei verbi in -re del terzo gruppo la radice non cambia, quindi basta conoscere le desinenze."
+    },
+    {
+      "id": "L030-e11",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronoun-coi",
+      "prompt": "Quale pronome completa «Puoi ___ prestare il tuo libro?» (tu)?",
+      "options": [
+        "me",
+        "moi",
+        "m'",
+        "mon"
+      ],
+      "correct": 0,
+      "explain_it": "Prêter regge una persona indiretta: me prêter = prestare a me. Davanti a consonante si usa me, non m'."
+    },
+    {
+      "id": "L030-e12",
+      "type": "order",
+      "level": 1,
+      "concept": "present-irregular",
+      "prompt": "Stiamo scendendo al primo piano.",
+      "answers": [
+        "Nous descendons au premier étage",
+        "On descend au premier étage"
+      ],
+      "distractors": [
+        "descendez",
+        "descendre"
+      ],
+      "explain_it": "Descendre al presente: nous descendons. Au è la contrazione di à + le."
+    },
+    {
+      "id": "L030-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "present-irregular",
+      "text": "Il fait froid : tu ___ ton manteau ?",
+      "answers": [
+        "mets"
+      ],
+      "hint": "(mettre, presente, tu)",
+      "prompt": "Fa freddo: ti metti il cappotto?",
+      "explain_it": "Mettre al tu è tu mets; la -s finale è muta, quindi je mets e tu mets si pronunciano uguale."
+    },
+    {
+      "id": "L030-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-en",
+      "text": "Tu veux du café ? – Oui, j'___ veux un peu.",
+      "answers": [
+        "en"
+      ],
+      "hint": "(pronome che sostituisce du café)",
+      "prompt": "Vuoi del caffè? – Sì, ne voglio un po'.",
+      "explain_it": "En sostituisce du café e si mette davanti al verbo: j'en veux."
+    },
+    {
+      "id": "L030-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-en",
+      "text": "Il y a encore des biscuits ? – Non, il n'___ reste plus.",
+      "answers": [
+        "en"
+      ],
+      "hint": "(pronome, nella negazione)",
+      "prompt": "Ci sono ancora biscotti? – No, non ce n'è più.",
+      "explain_it": "Con la negazione il pronome en resta davanti al verbo: il n'en reste plus."
+    },
+    {
+      "id": "L030-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-en",
+      "prompt": "Ne ho bisogno.",
+      "answers": [
+        "J'en ai besoin"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Avoir besoin de più nome: il nome diventa en, che si mette davanti ad avoir."
+    },
+    {
+      "id": "L030-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-en",
+      "prompt": "No, non ne vendiamo.",
+      "answers": [
+        "Non, nous n'en vendons pas",
+        "Non, on n'en vend pas"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Con ne...pas la negazione avvolge il verbo, e en resta davanti al verbo: n'en vendons pas."
+    },
+    {
+      "id": "L030-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-coi",
+      "prompt": "Mi presti la tua macchina?",
+      "answers": [
+        "Tu peux me prêter ta voiture ?",
+        "Peux-tu me prêter ta voiture ?",
+        "Est-ce que tu peux me prêter ta voiture ?",
+        "Tu me prêtes ta voiture ?"
+      ],
+      "ask": "Traduci in francese (forma di tu)",
+      "explain_it": "Con prêter il pronome di persona me precede l'infinito, e ta si accorda con il femminile voiture."
+    },
+    {
+      "id": "L030-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "imperative",
+      "prompt": "Aspetta un momento.",
+      "answers": [
+        "Attends un [instant|moment]"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Attends è l'imperativo di tu di attendre (la -s resta); un instant e un moment sono sinonimi."
+    },
+    {
+      "id": "L030-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "imperative",
+      "prompt": "Resta dove sei.",
+      "answers": [
+        "Reste où tu es"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Rester è un verbo in -er: l'imperativo tu è reste, senza -s."
+    },
+    {
+      "id": "L030-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Ci vediamo dopo.",
+      "answers": [
+        "À tout à l'heure",
+        "À plus tard"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "À tout à l'heure è la formula di congedo che significa «a più tardi»; anche à plus tard va bene."
+    },
+    {
+      "id": "L030-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Ti va di aiutarmi? – Sì, volentieri.",
+      "answers": [
+        "Oui, je veux bien",
+        "Je veux bien",
+        "Oui, volontiers",
+        "Volontiers"
+      ],
+      "ask": "Traduci in francese la risposta",
+      "explain_it": "Je veux bien esprime accettazione cortese e non richiede un complemento."
+    },
+    {
+      "id": "L030-e23",
+      "type": "dictation",
+      "level": 2,
+      "concept": "pronunciation",
+      "text": "Je vous entends mal, pouvez-vous répéter ?",
+      "explain_it": "Entendre al presente: je vous entends, con vous davanti alla vocale del verbo."
+    },
+    {
+      "id": "L030-e24",
+      "type": "mcq",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "Quale verbo francese significa «sentire, udire»?",
+      "options": [
+        "entendre",
+        "intendre",
+        "attendre",
+        "tendre"
+      ],
+      "correct": 0,
+      "explain_it": "Entendre significa udire; l'italiano «intendere» corrisponde a comprendre, quindi è un falso amico."
+    },
+    {
+      "id": "L030-e25",
+      "type": "mcq",
+      "level": 2,
+      "concept": "present-irregular",
+      "prompt": "Quale forma completa «Ils ___ bien la radio d'ici» (sentono bene la radio da qui)?",
+      "options": [
+        "entendent",
+        "entendont",
+        "entendant",
+        "entend"
+      ],
+      "correct": 0,
+      "explain_it": "Con ils la desinenza è -ent: ils entendent. Entendant è il participio presente, non il presente."
+    },
+    {
+      "id": "L030-e26",
+      "type": "mcq",
+      "level": 2,
+      "concept": "pronoun-en",
+      "prompt": "Vuoi delle mele? – Sì, ne voglio due. «Oui, j'___ veux deux.» Quale pronome?",
+      "options": [
+        "en",
+        "y",
+        "le",
+        "les"
+      ],
+      "correct": 0,
+      "explain_it": "En sostituisce des pommes, cioè un nome preceduto da de; y indica un luogo o una cosa introdotta da à."
+    },
+    {
+      "id": "L030-e27",
+      "type": "order",
+      "level": 2,
+      "concept": "pronoun-en",
+      "prompt": "Il negozio non ne vende più.",
+      "answers": [
+        "Le magasin n'en vend plus"
+      ],
+      "distractors": [
+        "y",
+        "pas"
+      ],
+      "explain_it": "En si mette davanti al verbo, e plus chiude la negazione ne...plus."
+    },
+    {
+      "id": "L030-e28",
+      "type": "order",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Non dipende interamente da me.",
+      "answers": [
+        "Ça ne dépend pas entièrement de moi"
+      ],
+      "distractors": [
+        "toujours",
+        "vous"
+      ],
+      "explain_it": "Dépendre de regge la persona con de: de moi. Ne...pas circonda il verbo."
+    },
+    {
+      "id": "L030-e29",
+      "type": "order",
+      "level": 2,
+      "concept": "imperative",
+      "prompt": "Aspetta un attimo, non riattaccare.",
+      "answers": [
+        "Attends un [instant|moment], ne quitte pas"
+      ],
+      "distractors": [
+        "Attendez",
+        "quittez"
+      ],
+      "explain_it": "La forma negativa dell'imperativo tu è ne + quitte + pas, con il verbo in mezzo."
+    },
+    {
+      "id": "L030-e30",
+      "type": "order",
+      "level": 2,
+      "concept": "pronoun-coi",
+      "prompt": "Mi presti il tuo aspirapolvere?",
+      "answers": [
+        "Tu peux me prêter ton aspirateur",
+        "Peux-tu me prêter ton aspirateur",
+        "Tu me prêtes ton aspirateur"
+      ],
+      "distractors": [
+        "te",
+        "moi"
+      ],
+      "explain_it": "Me è il pronome di persona indiretta e precede l'infinito prêter."
+    },
+    {
+      "id": "L030-e31",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Je ___ t'aider : j'ai du temps jusqu'à midi.",
+      "answers": [
+        "veux bien"
+      ],
+      "hint": "(vouloir bien, presente)",
+      "prompt": "Ti aiuto volentieri: ho tempo fino a mezzogiorno.",
+      "explain_it": "Je veux bien è l'espressione di accettazione cortese, qui seguita dall'infinito t'aider."
+    },
+    {
+      "id": "L030-e32",
+      "type": "cloze",
+      "level": 2,
+      "concept": "imperative",
+      "text": "___ là, j'arrive tout de suite.",
+      "answers": [
+        "Reste"
+      ],
+      "hint": "(rester, imperativo, tu)",
+      "prompt": "Resta lì, arrivo subito.",
+      "explain_it": "L'imperativo tu di rester è reste, senza -s e senza pronome."
+    },
+    {
+      "id": "L030-e33",
+      "type": "cloze",
+      "level": 2,
+      "concept": "present-irregular",
+      "text": "Quand vous téléphonez, vous ___ le haut-parleur ?",
+      "answers": [
+        "mettez"
+      ],
+      "hint": "(mettre, presente, vous)",
+      "prompt": "Quando telefonate, mettete l'altoparlante?",
+      "explain_it": "Mettre al vous è vous mettez; il verbo non vuole preposizione dopo di sé."
+    },
+    {
+      "id": "L030-e34",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-coi",
+      "text": "Je ___ promets de rendre la voiture demain.",
+      "answers": [
+        "te"
+      ],
+      "hint": "(pronome di persona, tu)",
+      "prompt": "Ti prometto di riportare la macchina domani.",
+      "explain_it": "Promettre a qualcuno: je te promets; te è il COI e precede il verbo."
+    },
+    {
+      "id": "L030-e35",
+      "type": "dictation",
+      "level": 2,
+      "concept": "imperative",
+      "text": "Ne quitte pas, je regarde si elle est dans son bureau.",
+      "explain_it": "Ne quitte pas è l'imperativo negativo di tu di quitter, con la forma quitte senza -s."
+    },
+    {
+      "id": "L030-e36",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronoun-en",
+      "front": "Che cosa sostituisce il pronome en e dove si mette?",
+      "back": "En sostituisce un nome introdotto da de (du, de la, des) o da una quantità. Si mette davanti al verbo coniugato: j'en ai, il n'en reste plus.",
+      "note": "Esempio: Tu veux des pommes ? – Oui, j'en veux deux.",
+      "explain_it": "En sostituisce il complemento già noto, così la frase non ripete il nome."
+    },
+    {
+      "id": "L030-e37",
+      "type": "flash",
+      "level": 2,
+      "concept": "imperative",
+      "front": "Vas-y: perché la -s non cade?",
+      "back": "Davanti ai pronomi y ed en la -s dell'imperativo tu torna, per ragioni di pronuncia. Altrimenti per i verbi in -er cade (reste, quitte), mentre negli altri resta (attends, descends).",
+      "note": "Vas-y è la forma familiare di allez-y.",
+      "explain_it": "La -s torna davanti a y ed en per facilitare la pronuncia."
+    },
+    {
+      "id": "L030-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "present-irregular",
+      "prompt": "Non ti sento bene. Aspetta, scendo al primo piano.",
+      "answers": [
+        "[Je ne t'entends pas bien|Je t'entends mal]. Attends, je [descends|vais descendre] au premier étage"
+      ],
+      "ask": "Traduci in francese (forma di tu)",
+      "explain_it": "Entendre al presente; descendre al presente o con aller più infinito: si possono usare entrambe le forme."
+    },
+    {
+      "id": "L030-e39",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-en",
+      "prompt": "Mi presti il tuo aspirapolvere? Ne ho bisogno per pulire la piscina.",
+      "answers": [
+        "[Peux-tu|Tu peux] me prêter ton aspirateur ? J'en ai besoin pour nettoyer [ma|la] piscine"
+      ],
+      "ask": "Traduci in francese (forma di tu)",
+      "explain_it": "Il pronome COI me precede prêter; en sostituisce il nome introdotto da de (avoir besoin de)."
+    },
+    {
+      "id": "L030-e40",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-en",
+      "prompt": "Le magasin vend des pommes ?",
+      "answers": [
+        "[Non, |]le magasin n'en vend pas",
+        "[Non, |]il n'en vend pas"
+      ],
+      "ask": "Rispondi di no, usando en",
+      "explain_it": "Con la negazione ne...pas il pronome en resta davanti al verbo: n'en vend."
+    },
+    {
+      "id": "L030-e41",
+      "type": "write",
+      "level": 3,
+      "concept": "modals",
+      "prompt": "Scusami un attimo, devo rispondere al telefono.",
+      "answers": [
+        "Excuse-moi un [instant|moment], je dois répondre au téléphone"
+      ],
+      "ask": "Traduci in francese (forma di tu)",
+      "explain_it": "Devoir più infinito esprime l'obbligo: je dois répondre; excuse-moi è la forma di tu."
+    },
+    {
+      "id": "L030-e42",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-coi",
+      "prompt": "Ti prometto di restituirlo domani.",
+      "answers": [
+        "Je te promets de le rendre demain",
+        "Je promets de te le rendre demain"
+      ],
+      "ask": "Traduci in francese (forma di tu)",
+      "explain_it": "Nella prima forma te va con promettre e le con rendre; nella seconda te le stanno insieme prima di rendre, con il COI prima del COD."
+    },
+    {
+      "id": "L030-e43",
+      "type": "write",
+      "level": 3,
+      "concept": "imperative",
+      "prompt": "Tu scendi al primo piano.",
+      "answers": [
+        "Descends au premier étage"
+      ],
+      "ask": "Volgi all'imperativo (tu)",
+      "explain_it": "All'imperativo tu si toglie il soggetto e la forma resta descends, con la -s."
+    },
+    {
+      "id": "L030-e44",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Va bene, ti richiamo più tardi.",
+      "answers": [
+        "[D'accord|Bon|Très bien], je te rappelle [tout à l'heure|plus tard]"
+      ],
+      "ask": "Traduci in francese (forma di tu)",
+      "explain_it": "Tout à l'heure si usa con il futuro e il presente per dire «più tardi», anche senza ora precisa."
+    },
+    {
+      "id": "L030-e45",
+      "type": "write",
+      "level": 3,
+      "concept": "present-irregular",
+      "prompt": "Noi perdiamo sempre il segnale in campagna.",
+      "answers": [
+        "Nous perdons toujours le signal [à la campagne|en pleine campagne]"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Perdre al noi è nous perdons; à la campagne = in campagna."
+    },
+    {
+      "id": "L030-e46",
+      "type": "dictation",
+      "level": 3,
+      "concept": "imperative",
+      "text": "Ne quittez pas, je reviens tout de suite.",
+      "explain_it": "Ne quittez pas è l'imperativo negativo di vous; ne...pas circonda il verbo."
+    }
+  ]
+}

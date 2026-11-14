@@ -1,0 +1,785 @@
+{
+  "n": 35,
+  "title_fr": "Révision",
+  "title_it": "Ripasso",
+  "review": true,
+  "status": "verified",
+  "source": "c15d4fa8 p71-79 (libro p.153-161; la lezione 35 inizia in basso a p.153, dopo l'esercizio 2 della lezione 34; dialogo tradotto a p.161 in alto; lezione 36 da p.161 esclusa)",
+  "theme_it": "Il giorno dopo è il compleanno della sorella di chi parla, che organizza una festa. Chi parla chiede di venire a fare la spesa con un amico, cioè di accompagnarlo a comprare i regali e i dolci. In pasticceria i dolci costano molto, quindi scelgono solo alcuni pezzi e qualche panino per il pranzo; quelli al prosciutto sono finiti, ma si possono ordinare.",
+  "grammar": [
+    {
+      "id": "present-re",
+      "title_it": "Verbi del terzo gruppo in -re: prendre, attendre, mettre, boire",
+      "explain_it": "I verbi in -re del terzo gruppo sono irregolari e vanno imparati a memoria. Prendre (prendere): je prends, tu prends, il prend; nous prenons, vous prenez, ils prennent. Attendre (aspettare): j'attends, tu attends, il attend; nous attendons, vous attendez, ils attendent. Mettre (mettere): je mets, tu mets, il met; nous mettons, ils mettent. Boire (bere) cambia radice: je bois, tu bois, il boit; nous buvons, vous buvez; ils boivent. In italiano la radice di prendere e bere resta più stabile, mentre in francese le forme cambiano tra singolare e plurale.",
+      "examples": [
+        {
+          "fr": "Je prends le train à huit heures.",
+          "it": "Prendo il treno alle otto."
+        },
+        {
+          "fr": "Ils attendent devant la poste.",
+          "it": "Aspettano davanti alla posta."
+        },
+        {
+          "fr": "Nous buvons un café après le déjeuner.",
+          "it": "Beviamo un caffè dopo pranzo."
+        }
+      ]
+    },
+    {
+      "id": "present-irregular",
+      "title_it": "Savoir, vouloir, pouvoir: i verbi in -oir",
+      "explain_it": "Savoir (sapere), vouloir (volere) e pouvoir (potere) sono verbi irregolari del terzo gruppo. Savoir: je sais, tu sais, il sait; nous savons, vous savez, ils savent. Vouloir: je veux, tu veux, il veut; nous voulons, vous voulez, ils veulent. Pouvoir: je peux, tu peux, il peut; nous pouvons, vous pouvez, ils peuvent. Da ricordare: je peux, je veux e je sais non hanno la -t, mentre la terza persona singolare la prende (il peut, il veut, il sait).",
+      "examples": [
+        {
+          "fr": "Tu veux venir avec nous ?",
+          "it": "Vuoi venire con noi?"
+        },
+        {
+          "fr": "Nous pouvons partir demain.",
+          "it": "Possiamo partire domani."
+        },
+        {
+          "fr": "Je sais la réponse.",
+          "it": "So la risposta."
+        }
+      ]
+    },
+    {
+      "id": "present-ir",
+      "title_it": "Verbi in -ir del terzo gruppo: dormir, sortir, partir, ouvrir",
+      "explain_it": "Questi verbi in -ir non hanno il suffisso -iss- dei verbi regolari del secondo gruppo, come finir. Dormir (dormire): je dors, tu dors, il dort; nous dormons, vous dormez, ils dorment. Stessa struttura per sortir (je sors), partir (je pars) e sentir. Ouvrir (aprire) e offrir (offrire) hanno la forma j'ouvre, j'offre, ils ouvrent, ils offrent. Il confronto è utile: finir fa nous finissons, dormir fa nous dormons. Ricorda anche aller (andare), irregolare ma in -er: je vais, tu vas, il va, nous allons, vous allez, ils vont.",
+      "examples": [
+        {
+          "fr": "Je pars demain matin.",
+          "it": "Parto domani mattina."
+        },
+        {
+          "fr": "Nous finissons le travail à cinq heures.",
+          "it": "Finiamo il lavoro alle cinque."
+        },
+        {
+          "fr": "Ils dorment encore.",
+          "it": "Dormono ancora."
+        }
+      ]
+    },
+    {
+      "id": "plural",
+      "title_it": "Il plurale dei nomi: regola base ed eccezioni",
+      "explain_it": "La regola generale è aggiungere una -s finale: un croissant, deux croissants. I nomi che finiscono in -s, -x o -z restano invariati: un Français, des Français; un nez, des nez; une voix, des voix. Alcune terminazioni hanno un plurale diverso: -ail diventa -aux (travail, travaux); -al diventa -aux (journal, journaux); -eu diventa -eux (jeu, jeux); -eau diventa -eaux (manteau, manteaux). Ci sono eccezioni (un bleu, des bleus; un détail, des détails): vanno imparate insieme alla parola.",
+      "examples": [
+        {
+          "fr": "Les travaux commencent demain.",
+          "it": "I lavori cominciano domani."
+        },
+        {
+          "fr": "Il y a deux chapeaux sur la table.",
+          "it": "Ci sono due cappelli sul tavolo."
+        },
+        {
+          "fr": "Ces journaux sont anciens.",
+          "it": "Questi giornali sono vecchi."
+        }
+      ]
+    },
+    {
+      "id": "pronoun-y",
+      "title_it": "Il pronome y: al posto di un luogo o di una cosa",
+      "explain_it": "Y sostituisce un complemento introdotto da à (o da dans, sur, sous) quando indica un luogo o una cosa, e si traduce con «ci». Si colloca prima del verbo: je vais à Paris diventa j'y vais («ci vado»). Con la negazione il ne va davanti a y: je n'y pense pas. Non si usa per le persone: al loro posto si usa lui, leur oppure à + pronome tonico (je pense à elle). Il y a (c'è, ci sono) è una locuzione fissa in cui y è già presente.",
+      "examples": [
+        {
+          "fr": "Tu vas au cinéma ? Oui, j'y vais.",
+          "it": "Vai al cinema? Sì, ci vado."
+        },
+        {
+          "fr": "Je pense souvent à mes vacances : j'y pense tous les jours.",
+          "it": "Penso spesso alle vacanze: ci penso ogni giorno."
+        },
+        {
+          "fr": "Il y a beaucoup de neige cet hiver.",
+          "it": "Quest'inverno c'è molta neve."
+        }
+      ]
+    },
+    {
+      "id": "pronoun-en",
+      "title_it": "Il pronome en: di ciò, ne, qualche",
+      "explain_it": "En sostituisce un nome preceduto da du, de la, des o da un numero, oppure un complemento introdotto da de. Corrisponde all'italiano «ne» e si colloca prima del verbo: Tu veux du café ? Oui, j'en veux. Se c'è un numero, si ripete: J'en ai trois. Con la negazione, ne va davanti a en: je n'en veux pas. Attenzione: in francese il pronome non si può omettere, mentre in italiano «ne» spesso si sottintende. En è anche una preposizione («in»): en Bretagne, en vacances.",
+      "examples": [
+        {
+          "fr": "Vous voulez de la limonade ? Oui, j'en veux bien.",
+          "it": "Volete della limonata? Sì, ne voglio volentieri."
+        },
+        {
+          "fr": "Il y en a deux dans le frigo.",
+          "it": "Ce ne sono due nel frigo."
+        },
+        {
+          "fr": "Il parle beaucoup de l'Alsace : il en parle beaucoup.",
+          "it": "Parla molto dell'Alsazia: ne parla molto."
+        }
+      ]
+    },
+    {
+      "id": "false-friends",
+      "title_it": "Savoir e connaître: sapere o conoscere",
+      "explain_it": "In italiano questi due verbi si traducono spesso con «sapere» o «conoscere», quindi è facile confonderli. Savoir si usa per un fatto, una notizia o una capacità (saper fare), e può essere seguito da una frase introdotta da que, qui, où, quand: Je sais où il habite. Connaître si usa per persone e luoghi, e regge un complemento diretto: Je connais Emmanuel, Je connais bien Strasbourg. Nel dubbio: se dopo il verbo c'è un nome di persona o di luogo, usa connaître; se c'è una frase, usa savoir.",
+      "examples": [
+        {
+          "fr": "Je sais parler français.",
+          "it": "So parlare francese."
+        },
+        {
+          "fr": "Je ne connais pas cette pâtisserie.",
+          "it": "Non conosco questa pasticceria."
+        },
+        {
+          "fr": "Tu sais quand arrive le train ?",
+          "it": "Sai quando arriva il treno?"
+        }
+      ]
+    },
+    {
+      "id": "pronoun-coi",
+      "title_it": "Pronomi complemento di termine: me, te, lui, nous, vous, leur",
+      "explain_it": "Questi pronomi sostituiscono una persona introdotta da à, come parler à, écrire à, téléphoner à, donner à: al posto di à + persona si usa il pronome. Forme: me (m' davanti a vocale), te (t' davanti a vocale), lui (a lui o a lei), nous, vous, leur (a loro). Lui e leur valgono sia per il maschile che per il femminile. Si mettono prima del verbo, come en e y. Nell'imperativo affermativo il pronome va dopo il verbo con un trattino: Téléphone-lui ! (Telefonagli!). Leur è invariabile e non va confuso con leurs (loro, possessivo, che concorda).",
+      "examples": [
+        {
+          "fr": "Je lui écris demain.",
+          "it": "Le scrivo domani."
+        },
+        {
+          "fr": "Il nous donne des conseils.",
+          "it": "Ci dà dei consigli."
+        },
+        {
+          "fr": "Je leur parle souvent.",
+          "it": "Parlo spesso con loro."
+        }
+      ]
+    },
+    {
+      "id": "register",
+      "title_it": "Tu o vous: il tutoiement",
+      "explain_it": "Tu è la forma familiare e si usa con familiari, amici stretti, bambini, giovani tra loro e animali; vous è la forma di cortesia, usata con sconosciuti, superiori e persone più anziane. Nei luoghi di lavoro i colleghi spesso si danno del tu, mentre con i superiori resta vous. Il verbo cambia: tu aimes, vous aimez; tu finis, vous finissez; tu mets, vous mettez; tu bois, vous buvez; tu dis, vous dites. Tutoyer significa dare del tu, vouvoyer dare del vous. In caso di dubbio conviene usare vous e aspettare che l'altro proponga il tu. Nel parlato, tu as diventa t'as.",
+      "examples": [
+        {
+          "fr": "Comment vas-tu ?",
+          "it": "Come stai? (forma familiare)"
+        },
+        {
+          "fr": "Vas-y !",
+          "it": "Vai pure! / Dai!"
+        },
+        {
+          "fr": "Vous êtes très aimable, monsieur.",
+          "it": "È molto gentile, signore."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la sœur",
+      "it": "sorella",
+      "pos": "n"
+    },
+    {
+      "fr": "le sandwich",
+      "it": "panino, tramezzino",
+      "pos": "n",
+      "note": "plurale des sandwichs (anche sandwiches)"
+    },
+    {
+      "fr": "dehors",
+      "it": "fuori, all'esterno",
+      "pos": "adv"
+    },
+    {
+      "fr": "froid",
+      "it": "freddo",
+      "pos": "adj",
+      "note": "il fait froid: fa freddo"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Tant pis !",
+      "it": "Peccato! / Pazienza!",
+      "note": "per accettare una cosa che non si può cambiare"
+    },
+    {
+      "fr": "En fait",
+      "it": "In realtà, a dire il vero",
+      "note": "per precisare o correggere quanto appena detto"
+    },
+    {
+      "fr": "Il fait froid.",
+      "it": "Fa freddo.",
+      "note": "il verbo faire serve per il tempo atmosferico"
+    },
+    {
+      "fr": "au moins",
+      "it": "almeno, come minimo",
+      "note": "usato con le cifre: au moins trente euros"
+    },
+    {
+      "fr": "Il n'y en a plus.",
+      "it": "Non ce n'è più.",
+      "note": "en riprende un nome già citato"
+    },
+    {
+      "fr": "Si vous voulez.",
+      "it": "Se volete.",
+      "note": "formula di cortesia per proporre qualcosa"
+    },
+    {
+      "fr": "Comment vas-tu ?",
+      "it": "Come stai?",
+      "note": "forma familiare, con tu"
+    },
+    {
+      "fr": "Vas-y !",
+      "it": "Vai pure! / Dai!",
+      "note": "incoraggiamento o permesso informale"
+    },
+    {
+      "fr": "Bien sûr",
+      "it": "Certo, naturalmente",
+      "note": "risposta di assenso"
+    }
+  ],
+  "notes_it": [
+    "Tu o vous: in Francia il tu si usa più liberamente che in passato, ma con gli sconosciuti e nei rapporti formali il vous è la scelta sicura. Chi non è sicuro usa vous e aspetta che sia l'altro a proporre il tu.",
+    "Sandwich è un prestito dall'inglese ed è maschile, come in italiano (un sandwich). Il plurale è des sandwichs oppure des sandwiches: entrambe le forme sono accettate.",
+    "Savoir e connaître si traducono in italiano con «sapere» e «conoscere», ma non sono intercambiabili: connaître con persone e luoghi, savoir con fatti e frasi introdotte da où, quand, que.",
+    "Pronuncia: nel parlato il francese lega molto più dell'italiano. Le forme con y e en si attaccano alla parola che segue (il y en a), e tu as diventa t'as.",
+    "Leur (a loro) è invariabile e va prima del verbo come pronome, mentre leurs (loro, possessivo) concorda con il nome: leurs gâteaux è un possessivo, je leur parle è il pronome."
+  ],
+  "exercises": [
+    {
+      "id": "L035-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "present-re",
+      "prompt": "Come si dice «noi prendiamo»?",
+      "options": [
+        "nous prendons",
+        "nous prenons",
+        "nous prennons",
+        "nous prenez"
+      ],
+      "correct": 1,
+      "explain_it": "Prendre al noi fa prenons, con una sola -n: prendons è l'errore tipico di chi applica i verbi in -er."
+    },
+    {
+      "id": "L035-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "present-irregular",
+      "prompt": "Come si dice «tu puoi»?",
+      "options": [
+        "tu peux",
+        "tu peut",
+        "tu pouvons",
+        "tu peuvent"
+      ],
+      "correct": 0,
+      "explain_it": "Pouvoir alla seconda persona singolare fa tu peux, senza la -t finale che compare in il peut."
+    },
+    {
+      "id": "L035-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronoun-y",
+      "prompt": "Quale frase significa «Ci vado adesso»?",
+      "options": [
+        "J'en vais maintenant.",
+        "J'y vais maintenant.",
+        "Je lui vais maintenant.",
+        "Je les vais maintenant."
+      ],
+      "correct": 1,
+      "explain_it": "Y sostituisce un luogo introdotto da à: ci vado è j'y vais. En sostituirebbe un complemento con de."
+    },
+    {
+      "id": "L035-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "plural",
+      "prompt": "Qual è il plurale corretto di «un journal»?",
+      "options": [
+        "des journeaux",
+        "des journals",
+        "des journaux",
+        "des journales"
+      ],
+      "correct": 2,
+      "explain_it": "I nomi in -al fanno il plurale in -aux: un journal, des journaux."
+    },
+    {
+      "id": "L035-e05",
+      "type": "order",
+      "level": 1,
+      "concept": "pronoun-coi",
+      "prompt": "Telefona a loro domani (con tu).",
+      "answers": [
+        "Téléphone-leur demain."
+      ],
+      "distractors": [
+        "lui",
+        "y"
+      ],
+      "explain_it": "Con tu, all'imperativo affermativo il pronome leur va dopo il verbo, unito con un trattino."
+    },
+    {
+      "id": "L035-e06",
+      "type": "cloze",
+      "level": 2,
+      "concept": "present-re",
+      "text": "Nous ___ le bus à huit heures.",
+      "answers": [
+        "prenons"
+      ],
+      "hint": "(prendre, presente)",
+      "prompt": "Prendiamo l'autobus alle otto.",
+      "explain_it": "Al noi prendre fa prenons: la radice ha una sola -n, mentre per ils si ha prennent."
+    },
+    {
+      "id": "L035-e07",
+      "type": "cloze",
+      "level": 2,
+      "concept": "present-re",
+      "text": "Ils ___ leurs manteaux avant de sortir.",
+      "answers": [
+        "mettent"
+      ],
+      "hint": "(mettre, presente)",
+      "prompt": "Mettono i cappotti prima di uscire.",
+      "explain_it": "Mettre al plurale per ils fa mettent, con la radice mett-."
+    },
+    {
+      "id": "L035-e08",
+      "type": "cloze",
+      "level": 2,
+      "concept": "false-friends",
+      "text": "Tu ___ où se trouve la pâtisserie ?",
+      "answers": [
+        "sais"
+      ],
+      "hint": "(savoir, presente)",
+      "prompt": "Sai dove si trova la pasticceria?",
+      "explain_it": "Con una frase introdotta da où si usa savoir, non connaître."
+    },
+    {
+      "id": "L035-e09",
+      "type": "cloze",
+      "level": 2,
+      "concept": "false-friends",
+      "text": "Je ne ___ pas bien cette ville.",
+      "answers": [
+        "connais"
+      ],
+      "hint": "(connaître, presente)",
+      "prompt": "Non conosco bene questa città.",
+      "explain_it": "Con una città, cioè un luogo, si usa connaître: je connais, nous connaissons."
+    },
+    {
+      "id": "L035-e10",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-y",
+      "text": "Tu vas à la poste ? Oui, j'___ vais dans une heure.",
+      "answers": [
+        "y"
+      ],
+      "prompt": "Vai alla posta? Sì, ci vado tra un'ora.",
+      "explain_it": "Y sostituisce un luogo introdotto da à e si mette prima del verbo."
+    },
+    {
+      "id": "L035-e11",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-en",
+      "text": "Vous voulez du thé ? Oui, j'___ veux bien.",
+      "answers": [
+        "en"
+      ],
+      "prompt": "Volete del tè? Sì, ne voglio volentieri.",
+      "explain_it": "En riprende il complemento partitivo du thé e si colloca prima del verbo."
+    },
+    {
+      "id": "L035-e12",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-coi",
+      "text": "Demain, je ___ écris une lettre.",
+      "answers": [
+        "leur"
+      ],
+      "hint": "(à mes parents)",
+      "prompt": "Domani scrivo loro una lettera.",
+      "explain_it": "Écrire si costruisce con à: al posto di à + persone si usa il pronome leur, prima del verbo."
+    },
+    {
+      "id": "L035-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "register",
+      "text": "Comment ___-tu ?",
+      "answers": [
+        "vas"
+      ],
+      "hint": "(aller, presente)",
+      "prompt": "Come stai? (a un amico)",
+      "explain_it": "Con tu, il verbo aller diventa vas: Comment vas-tu? è la forma familiare."
+    },
+    {
+      "id": "L035-e14",
+      "type": "write",
+      "level": 2,
+      "concept": "present-ir",
+      "prompt": "Dormo sempre nove ore a notte.",
+      "answers": [
+        "Je dors toujours [neuf|9] heures [par nuit|la nuit|chaque nuit]."
+      ],
+      "explain_it": "Dormir è del terzo gruppo: je dors, senza -iss-, e il noi sarebbe nous dormons."
+    },
+    {
+      "id": "L035-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "plural",
+      "prompt": "Sul letto ci sono due cappotti.",
+      "answers": [
+        "Il y a deux manteaux sur le lit.",
+        "Sur le lit, il y a deux manteaux."
+      ],
+      "explain_it": "Manteau fa il plurale in -eaux, e il numero due vuole il plurale."
+    },
+    {
+      "id": "L035-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "present-re",
+      "prompt": "Beviamo un bicchiere d'acqua.",
+      "answers": [
+        "Nous buvons un verre d'eau.",
+        "On boit un verre d'eau."
+      ],
+      "explain_it": "Boire al noi fa buvons, con la radice buv-, diversa da quella del singolare."
+    },
+    {
+      "id": "L035-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "present-irregular",
+      "prompt": "Vuoi venire con noi? (a un amico, con tu)",
+      "answers": [
+        "Tu veux venir avec nous ?",
+        "Veux-tu venir avec nous ?"
+      ],
+      "explain_it": "Vouloir alla seconda persona singolare fa tu veux, e la forma interrogativa può anche invertire il soggetto."
+    },
+    {
+      "id": "L035-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-coi",
+      "prompt": "Telefono a lei domani.",
+      "answers": [
+        "Je lui téléphone demain.",
+        "Demain, je lui téléphone."
+      ],
+      "explain_it": "Téléphoner si costruisce con à + persona: il pronome è lui (a lui o a lei), prima del verbo."
+    },
+    {
+      "id": "L035-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "register",
+      "prompt": "Chiedi a un amico (dandogli del tu): «Hai tempo domani?»",
+      "answers": [
+        "[Tu as|T'as|As-tu] [le temps|du temps] demain ?"
+      ],
+      "explain_it": "Con tu si usa la forma tu as, che nel parlato diventa t'as, e la domanda può essere con inversione."
+    },
+    {
+      "id": "L035-e20",
+      "type": "dictation",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Il fait froid dehors.",
+      "explain_it": "Con il tempo atmosferico si usa il fare: il fait froid, e dehors significa fuori."
+    },
+    {
+      "id": "L035-e21",
+      "type": "dictation",
+      "level": 3,
+      "concept": "pronoun-en",
+      "text": "Il y en a encore deux dans le frigo.",
+      "explain_it": "En riprende il nome sottinteso dopo il numero: il y en a deux."
+    },
+    {
+      "id": "L035-e22",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronoun-y",
+      "front": "Quando si usa il pronome y?",
+      "back": "Per sostituire un luogo o una cosa introdotti da à (y = ci): j'y vais, j'y pense. Non si usa per le persone. Compare anche in il y a.",
+      "explain_it": "Y ha un uso preciso: con le cose e i luoghi, non con le persone, quindi va imparato insieme alle frasi tipo j'y vais."
+    },
+    {
+      "id": "L035-e23",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronoun-coi",
+      "front": "Lui e leur: quando si usano?",
+      "back": "Per le persone introdotte da à: parler à → lui parler, téléphoner à → leur téléphoner. Lui vale per maschile e femminile; leur è invariabile e va prima del verbo.",
+      "explain_it": "Lui e leur hanno la stessa funzione: sostituiscono à + persona, quindi la scelta dipende dal numero della persona."
+    },
+    {
+      "id": "L035-e24",
+      "type": "flash",
+      "level": 2,
+      "concept": "plural",
+      "front": "Regole base del plurale dei nomi",
+      "back": "Aggiungi -s; i nomi in -s, -x, -z non cambiano; -eau → -eaux (manteau); -eu → -eux (jeu); -ail → -aux (travail); -al → -aux (journal).",
+      "explain_it": "Le terminazioni -eau, -eu, -ail e -al hanno plurali propri e vanno ricordate insieme alle regole generali."
+    },
+    {
+      "id": "L035-e25",
+      "type": "flash",
+      "level": 2,
+      "concept": "false-friends",
+      "front": "Savoir o connaître: quale usare per «conoscere»?",
+      "back": "Connaître con persone e luoghi (je connais Paris). Savoir con fatti, con frasi introdotte da que/où/quand, o per «saper fare» (je sais nager).",
+      "explain_it": "Il verbo connaître regge un complemento diretto di persona o luogo, mentre savoir regge fatti e frasi subordinate."
+    },
+    {
+      "id": "L035-e26",
+      "type": "order",
+      "level": 2,
+      "concept": "register",
+      "prompt": "Dì a un amico (con tu): «Vieni con noi!»",
+      "answers": [
+        "Viens avec nous !"
+      ],
+      "distractors": [
+        "Venez",
+        "vous"
+      ],
+      "explain_it": "Con tu, l'imperativo di venir è viens: la forma venez è quella di vous."
+    },
+    {
+      "id": "L035-e27",
+      "type": "order",
+      "level": 2,
+      "concept": "present-ir",
+      "prompt": "Partiamo alle otto.",
+      "answers": [
+        "Nous partons à huit heures."
+      ],
+      "distractors": [
+        "pars",
+        "partez"
+      ],
+      "explain_it": "Partir è del terzo gruppo: al noi fa partons, senza -iss-."
+    },
+    {
+      "id": "L035-e28",
+      "type": "mcq",
+      "level": 2,
+      "concept": "present-ir",
+      "prompt": "Quale forma è corretta per «loro dormono»?",
+      "options": [
+        "ils dorment",
+        "ils dormissent",
+        "ils dorsent",
+        "ils dormonts"
+      ],
+      "correct": 0,
+      "explain_it": "Dormir del terzo gruppo non ha il -iss- dei verbi come finir: ils dorment."
+    },
+    {
+      "id": "L035-e29",
+      "type": "mcq",
+      "level": 2,
+      "concept": "pronoun-en",
+      "prompt": "Come si dice «ne ho tre» riferito a dei libri?",
+      "options": [
+        "J'en ai trois.",
+        "J'y ai trois.",
+        "Je les ai trois.",
+        "Je leur ai trois."
+      ],
+      "correct": 0,
+      "explain_it": "En sostituisce un complemento partitivo o introdotto da de: ne ho tre è j'en ai trois."
+    },
+    {
+      "id": "L035-e30",
+      "type": "mcq",
+      "level": 2,
+      "concept": "present-irregular",
+      "prompt": "Quale frase è corretta: «loro vogliono partire»?",
+      "options": [
+        "Ils veulent partir.",
+        "Ils voulent partir.",
+        "Ils veulont partir.",
+        "Ils voulons partir."
+      ],
+      "correct": 0,
+      "explain_it": "Vouloir alla terza persona plurale fa ils veulent, con -eu- e -ent."
+    },
+    {
+      "id": "L035-e31",
+      "type": "mcq",
+      "level": 3,
+      "concept": "pronoun-coi",
+      "prompt": "Quale frase significa «Parlo loro di te»?",
+      "options": [
+        "Je leur parle de toi.",
+        "Je leur parle à toi.",
+        "Je parle à eux de toi.",
+        "Je les parle de toi."
+      ],
+      "correct": 0,
+      "explain_it": "Parler à qualcuno si sostituisce con leur (a loro), prima del verbo; non si dice «à eux» con parler e non si usa les."
+    },
+    {
+      "id": "L035-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-coi",
+      "ask": "Sostituisci i complementi con pronomi",
+      "prompt": "Scrivo a mia sorella e telefono ai miei genitori.",
+      "answers": [
+        "Je lui écris et je leur téléphone."
+      ],
+      "explain_it": "A mia sorella diventa lui, ai miei genitori diventa leur: entrambi vanno prima del verbo."
+    },
+    {
+      "id": "L035-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-y",
+      "prompt": "Sì, ci penso ogni giorno (al lavoro).",
+      "answers": [
+        "[Oui, |]j'y pense [chaque jour|tous les jours]."
+      ],
+      "explain_it": "Penser à con una cosa si sostituisce con y; con la persona invece si userebbe à + pronome tonico."
+    },
+    {
+      "id": "L035-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "false-friends",
+      "prompt": "Non so dove abitano i tuoi amici. (con tu)",
+      "answers": [
+        "Je ne sais pas où [habitent tes amis|tes amis habitent].",
+        "Je ne sais pas où [habitent tes copains|tes copains habitent]."
+      ],
+      "explain_it": "Con una frase introdotta da où si usa savoir alla prima persona negativa: je ne sais pas où."
+    },
+    {
+      "id": "L035-e35",
+      "type": "write",
+      "level": 2,
+      "concept": "present-ir",
+      "prompt": "Esci spesso con i tuoi amici? (con tu)",
+      "answers": [
+        "Tu sors souvent avec tes amis ?",
+        "Sors-tu souvent avec tes amis ?"
+      ],
+      "explain_it": "Sortir è del terzo gruppo: tu sors, con la -s finale, senza -iss-."
+    },
+    {
+      "id": "L035-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "plural",
+      "prompt": "Sul tavolo ci sono due cappelli, tre giornali e dei dolci.",
+      "answers": [
+        "Il y a deux chapeaux, trois journaux et des [gâteaux|pâtisseries] sur la table.",
+        "Sur la table, il y a deux chapeaux, trois journaux et des [gâteaux|pâtisseries]."
+      ],
+      "explain_it": "Chapeau fa il plurale in -eaux, journal in -aux, gâteau in -eaux: tre plurali irregolari in una frase sola."
+    },
+    {
+      "id": "L035-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "register",
+      "prompt": "Dai del lei a una signora sconosciuta: «Vuole venire con noi?»",
+      "answers": [
+        "Voulez-vous venir avec nous ?",
+        "Vous voulez venir avec nous ?"
+      ],
+      "explain_it": "Con vous il verbo vouloir diventa voulez, e la domanda con inversione è la forma più cortese."
+    },
+    {
+      "id": "L035-e38",
+      "type": "cloze",
+      "level": 2,
+      "concept": "present-re",
+      "text": "Je ___ mon café sans sucre.",
+      "answers": [
+        "bois"
+      ],
+      "hint": "(boire, presente)",
+      "prompt": "Bevo il caffè senza zucchero.",
+      "explain_it": "Boire alla prima persona singolare fa je bois, con la radice boi-."
+    },
+    {
+      "id": "L035-e39",
+      "type": "cloze",
+      "level": 3,
+      "concept": "pronoun-en",
+      "text": "Combien de gâteaux restent ? Il ___ reste deux.",
+      "answers": [
+        "en"
+      ],
+      "prompt": "Quanti dolci restano? Ne restano due.",
+      "explain_it": "Il numero due riprende il complemento partitivo di gâteaux: si usa en, prima del verbo reste."
+    },
+    {
+      "id": "L035-e40",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "___ ! Il n'y en a plus.",
+      "answers": [
+        "Tant pis"
+      ],
+      "prompt": "Peccato! Non ce n'è più.",
+      "explain_it": "Tant pis esprime rassegnazione davanti a una cosa che non si può cambiare."
+    },
+    {
+      "id": "L035-e41",
+      "type": "write",
+      "level": 3,
+      "concept": "negation-other",
+      "prompt": "Non vedo niente di interessante.",
+      "answers": [
+        "Je ne vois rien d'intéressant."
+      ],
+      "explain_it": "Con rien si usa ne davanti al verbo e nessun pas, quindi je ne vois rien, senza doppia negazione."
+    },
+    {
+      "id": "L035-e42",
+      "type": "mcq",
+      "level": 2,
+      "concept": "register",
+      "prompt": "Quale frase usa correttamente il vous con un vicino anziano che non conosci?",
+      "options": [
+        "Vous êtes très aimable, monsieur.",
+        "Tu es très aimable, monsieur.",
+        "Vous es très aimable, monsieur.",
+        "Vous êtes très aimable, toi."
+      ],
+      "correct": 0,
+      "explain_it": "Con vous il verbo essere è êtes; la forma tu è riservata a persone familiari."
+    }
+  ]
+}

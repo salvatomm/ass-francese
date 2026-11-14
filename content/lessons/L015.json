@@ -1,0 +1,750 @@
+{
+  "n": 15,
+  "title_fr": "Un tour dans Paris (Première partie)",
+  "title_it": "Un giro per Parigi (prima parte)",
+  "review": false,
+  "status": "verified",
+  "source": "529edcbd p67-70 (libro p.51-54)",
+  "theme_it": "Michèle Laroche, guida turistica, accompagna un gruppo di visitatori in pullman attraverso Parigi: attraversano la place de la Concorde e la guida indica il Louvre e la Tour Eiffel. Una turista la interrompe per chiedere dove siano i bagni, e la guida le chiede un momento di pazienza.",
+  "grammar": [
+    {
+      "id": "messieurs-dames",
+      "title_it": "Messieurs-dames: il saluto a un gruppo misto",
+      "explain_it": "Monsieur, madame e mademoiselle sono parole composte (mon sieur, ma dame, ma demoiselle) e al plurale seguono la regola normale: monsieur diventa messieurs, madame diventa mesdames, mademoiselle diventa mesdemoiselles. Per rivolgersi a un gruppo di uomini e donne, per esempio in un caffè o in un bistrot, si dice Messieurs-dames, bonjour: è un saluto informale e cordiale, più vicino a 'Buongiorno a tutti' che a un saluto formale.",
+      "examples": [
+        {
+          "fr": "Messieurs-dames, bonjour !",
+          "it": "Buongiorno a tutti!"
+        },
+        {
+          "fr": "Bonjour, mesdames.",
+          "it": "Buongiorno, signore."
+        }
+      ]
+    },
+    {
+      "id": "pouvoir-infinitif",
+      "title_it": "Pouvoir seguito dall'infinito",
+      "explain_it": "Dopo pouvoir il verbo successivo resta sempre all'infinito, senza preposizione: je peux parler, nous pouvons partir. Nella negazione ne e pas si mettono intorno a pouvoir: je ne peux pas attendre. La struttura è identica all'italiano 'potere + infinito'.",
+      "examples": [
+        {
+          "fr": "Je ne peux pas attendre.",
+          "it": "Non posso aspettare."
+        },
+        {
+          "fr": "Vous pouvez voir le Louvre.",
+          "it": "Potete vedere il Louvre."
+        }
+      ]
+    },
+    {
+      "id": "genre-noms",
+      "title_it": "Lo stesso nome con due generi: le tour, la tour, un livre, la livre",
+      "explain_it": "Alcune parole cambiano significato con il genere. Le tour è il giro o la gita, mentre la tour è la torre, come la Tour Eiffel. Un livre è il libro, mentre la livre è il mezzo chilo (500 g) o la sterlina (valuta). Sono poche coppie, ma vanno imparate sempre con l'articolo, perché l'articolo decide il significato e l'accordo degli aggettivi.",
+      "examples": [
+        {
+          "fr": "C'est le tour de Paris.",
+          "it": "È il giro di Parigi."
+        },
+        {
+          "fr": "C'est la tour Eiffel.",
+          "it": "È la Torre Eiffel."
+        }
+      ]
+    },
+    {
+      "id": "attirare-attenzione",
+      "title_it": "Attirare l'attenzione: pardon, excusez-moi, s'il vous plaît",
+      "explain_it": "Prima di fare una domanda a uno sconosciuto si usano formule di attenzione: Pardon (breve, usato anche per scusarsi), Excusez-moi (un po' più formale) e s'il vous plaît ('per favore'), che può stare all'inizio o alla fine della frase. In italiano si direbbe 'scusi, dov'è...?' e il francese usa la stessa struttura.",
+      "examples": [
+        {
+          "fr": "Pardon, où est la gare ?",
+          "it": "Scusi, dov'è la stazione?"
+        },
+        {
+          "fr": "S'il vous plaît, où sont les toilettes ?",
+          "it": "Per favore, dove sono i bagni?"
+        }
+      ]
+    },
+    {
+      "id": "nomi-plurali",
+      "title_it": "Les toilettes: il bagno è sempre al plurale",
+      "explain_it": "Alcuni nomi sono singolari in italiano ma plurali in francese. Il caso più utile è les toilettes (il bagno, i servizi): si usa sempre al plurale e con l'articolo les, anche se si parla di un solo locale; il verbo va al plurale (les toilettes sont...). Lo stesso vale per altri nomi plurali come les ciseaux (le forbici).",
+      "examples": [
+        {
+          "fr": "Les toilettes sont à droite.",
+          "it": "Il bagno è a destra."
+        },
+        {
+          "fr": "Les ciseaux sont dans le bureau.",
+          "it": "Le forbici sono nell'ufficio."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le guide",
+      "it": "la guida (turistica)",
+      "pos": "n",
+      "note": "per una donna anche la guide; la guide è anche la guida (libro)"
+    },
+    {
+      "fr": "le matin",
+      "it": "il mattino",
+      "pos": "n",
+      "note": "ce matin = stamattina"
+    },
+    {
+      "fr": "l'après-midi (m.)",
+      "it": "il pomeriggio",
+      "pos": "n"
+    },
+    {
+      "fr": "actuellement",
+      "it": "attualmente, in questo momento",
+      "pos": "adv",
+      "note": "falso amico: non 'effettivamente'"
+    },
+    {
+      "fr": "devant",
+      "it": "davanti (a)",
+      "pos": "prep"
+    },
+    {
+      "fr": "à droite",
+      "it": "a destra",
+      "pos": "adv",
+      "note": "contrario: à gauche"
+    },
+    {
+      "fr": "la place",
+      "it": "la piazza",
+      "pos": "n",
+      "note": "Place de la Concorde"
+    },
+    {
+      "fr": "la tour",
+      "it": "la torre",
+      "pos": "n",
+      "note": "non confondere con le tour (il giro)"
+    },
+    {
+      "fr": "le tour",
+      "it": "il giro, la gita",
+      "pos": "n",
+      "note": "un tour de ville = un giro della città"
+    },
+    {
+      "fr": "le Louvre",
+      "it": "il Louvre",
+      "pos": "n",
+      "note": "museo di Parigi"
+    },
+    {
+      "fr": "la Tour Eiffel",
+      "it": "la Torre Eiffel",
+      "pos": "n"
+    },
+    {
+      "fr": "terminer",
+      "it": "terminare, finire",
+      "pos": "v",
+      "note": "je termine"
+    },
+    {
+      "fr": "laisser",
+      "it": "lasciare",
+      "pos": "v",
+      "note": "laissez-moi = lasciatemi"
+    },
+    {
+      "fr": "important",
+      "it": "importante",
+      "pos": "adj",
+      "note": "uguale al maschile e al femminile"
+    },
+    {
+      "fr": "les toilettes (f. pl.)",
+      "it": "il bagno, i servizi",
+      "pos": "n",
+      "note": "sempre al plurale"
+    },
+    {
+      "fr": "mesdames (f. pl.)",
+      "it": "signore",
+      "pos": "n",
+      "note": "plurale di madame"
+    },
+    {
+      "fr": "eh bien",
+      "it": "ebbene, allora",
+      "pos": "interj"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Messieurs-dames, bonjour !",
+      "it": "Buongiorno a tutti!",
+      "note": "saluto cordiale a un gruppo misto"
+    },
+    {
+      "fr": "Laissez-moi terminer.",
+      "it": "Lasciatemi finire.",
+      "note": "tono deciso ma educato"
+    },
+    {
+      "fr": "Un instant, s'il vous plaît.",
+      "it": "Un momento, per favore.",
+      "note": "per chiedere di aspettare"
+    },
+    {
+      "fr": "Qu'est-ce que vous voulez savoir ?",
+      "it": "Cosa volete sapere?",
+      "note": "domanda cortese, tipica di una guida"
+    },
+    {
+      "fr": "Je ne peux pas attendre.",
+      "it": "Non posso aspettare.",
+      "note": "esprime impazienza"
+    },
+    {
+      "fr": "Ce n'est pas important.",
+      "it": "Non è importante.",
+      "note": "formula neutra per ridimensionare"
+    },
+    {
+      "fr": "Où sont les toilettes ?",
+      "it": "Dove sono i bagni?",
+      "note": "toilettes sempre al plurale"
+    },
+    {
+      "fr": "cet après-midi",
+      "it": "questo pomeriggio",
+      "note": "cet davanti a vocale"
+    },
+    {
+      "fr": "ce matin",
+      "it": "stamattina",
+      "note": "ce davanti a consonante"
+    },
+    {
+      "fr": "à droite",
+      "it": "a destra",
+      "note": "contrario di à gauche"
+    }
+  ],
+  "notes_it": [
+    "Actuellement non significa 'effettivamente' (in francese si dice en fait o effectivement): vuol dire 'attualmente, in questo momento'. È un falso amico comune per gli italiani.",
+    "Messieurs-dames è un saluto colloquiale, tipico di guide e bistrot; in italiano 'signore e signori' suonerebbe più formale.",
+    "Eh bien è un'interiezione di passaggio, come 'allora' o 'ebbene': si usa prima di rispondere o di cambiare argomento.",
+    "La stessa parola può avere genere e significato diversi: le tour (giro) e la tour (torre), le livre (libro) e la livre (mezzo chilo, sterlina). Vanno memorizzati con l'articolo.",
+    "Les toilettes è sempre plurale, anche se in italiano il bagno è singolare: l'articolo è les e il verbo è sont."
+  ],
+  "exercises": [
+    {
+      "id": "L015-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "gender",
+      "prompt": "Quale parola indica la torre (il monumento)?",
+      "options": [
+        "le tour",
+        "la tour",
+        "le livre",
+        "la livre"
+      ],
+      "correct": 1,
+      "explain_it": "La tour è la torre; le tour è il giro. Cambia il genere e cambia anche il significato."
+    },
+    {
+      "id": "L015-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "false-friends",
+      "prompt": "Che cosa significa «actuellement»?",
+      "options": [
+        "attualmente, in questo momento",
+        "effettivamente, in realtà",
+        "eventualmente",
+        "spesso"
+      ],
+      "correct": 0,
+      "explain_it": "È un falso amico: effettivamente in francese si dice en fait o effectivement, non actuellement."
+    },
+    {
+      "id": "L015-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "plural",
+      "prompt": "Come si dice «il bagno» in francese?",
+      "options": [
+        "le toilettes",
+        "les toilettes",
+        "la toilettes",
+        "les toilette"
+      ],
+      "correct": 1,
+      "explain_it": "Toilettes è sempre plurale: l'articolo è les, mai le o la."
+    },
+    {
+      "id": "L015-e04",
+      "type": "order",
+      "level": 1,
+      "concept": "ce-cest-il-est",
+      "prompt": "Non è importante.",
+      "answers": [
+        "Ce n'est pas important."
+      ],
+      "distractors": [
+        "C'est",
+        "très"
+      ],
+      "explain_it": "Per la negazione di una frase con c'est si usa ce n'est pas, non c'est pas."
+    },
+    {
+      "id": "L015-e05",
+      "type": "order",
+      "level": 1,
+      "concept": "interrogatives",
+      "prompt": "Dove sono i bagni?",
+      "answers": [
+        "Où sont les toilettes ?"
+      ],
+      "distractors": [
+        "le",
+        "est"
+      ],
+      "explain_it": "Dove si dice où; il verbo è sont perché toilettes è plurale."
+    },
+    {
+      "id": "L015-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "time-date",
+      "prompt": "Questo pomeriggio.",
+      "answers": [
+        "Cet après-midi."
+      ],
+      "distractors": [
+        "ce",
+        "matin"
+      ],
+      "explain_it": "Davanti a una parola che inizia per vocale si usa cet, non ce."
+    },
+    {
+      "id": "L015-e07",
+      "type": "cloze",
+      "level": 1,
+      "concept": "prepositions-place",
+      "text": "Il y a une voiture ___ la maison.",
+      "answers": [
+        "devant"
+      ],
+      "hint": "(davanti a)",
+      "prompt": "C'è una macchina davanti alla casa.",
+      "explain_it": "Devant è una preposizione di luogo che si unisce direttamente al nome, senza de."
+    },
+    {
+      "id": "L015-e08",
+      "type": "cloze",
+      "level": 1,
+      "concept": "plural",
+      "text": "Bonjour ___ et messieurs.",
+      "answers": [
+        "mesdames"
+      ],
+      "hint": "(plurale di madame)",
+      "prompt": "Buongiorno, signore e signori.",
+      "explain_it": "Il plurale di madame è mesdames: il saluto rivolto a un pubblico misto."
+    },
+    {
+      "id": "L015-e09",
+      "type": "cloze",
+      "level": 1,
+      "concept": "gender",
+      "text": "C'est ___ Eiffel.",
+      "answers": [
+        "la tour"
+      ],
+      "hint": "(torre, femminile)",
+      "prompt": "È la Torre Eiffel.",
+      "explain_it": "Con l'articolo la, tour significa torre; le tour sarebbe il giro."
+    },
+    {
+      "id": "L015-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "modals",
+      "text": "Vous ___ parler français ?",
+      "answers": [
+        "pouvez"
+      ],
+      "hint": "(pouvoir, presente, vous)",
+      "prompt": "Potete parlare francese?",
+      "explain_it": "Con vous, pouvoir diventa pouvez, e il verbo che segue resta all'infinito."
+    },
+    {
+      "id": "L015-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "register",
+      "text": "S'il vous ___.",
+      "answers": [
+        "plaît"
+      ],
+      "hint": "(plaire, presente)",
+      "prompt": "Per favore.",
+      "explain_it": "S'il vous plaît è la formula fissa di cortesia e può accompagnare qualsiasi richiesta."
+    },
+    {
+      "id": "L015-e12",
+      "type": "order",
+      "level": 1,
+      "concept": "ce-cest-il-est",
+      "prompt": "È importante.",
+      "answers": [
+        "C'est important."
+      ],
+      "distractors": [
+        "ce",
+        "pas"
+      ],
+      "explain_it": "Con un aggettivo si usa c'est più aggettivo, e important resta uguale al femminile."
+    },
+    {
+      "id": "L015-e13",
+      "type": "write",
+      "level": 2,
+      "concept": "plural",
+      "prompt": "Buongiorno a tutti, signore e signori!",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Messieurs-dames, bonjour !",
+        "Bonjour, messieurs-dames !",
+        "Bonjour, mesdames et messieurs !",
+        "Mesdames et messieurs, bonjour !"
+      ],
+      "explain_it": "Messieurs-dames è il saluto colloquiale a un gruppo misto; si può anche usare bonjour davanti."
+    },
+    {
+      "id": "L015-e14",
+      "type": "write",
+      "level": 2,
+      "concept": "modals",
+      "prompt": "Non posso aspettare il pranzo.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Je ne peux pas attendre le déjeuner."
+      ],
+      "explain_it": "Ne e pas circondano pouvoir, e il verbo attendre resta all'infinito."
+    },
+    {
+      "id": "L015-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "modals",
+      "prompt": "Potete vedere il Louvre da qui?",
+      "ask": "Traduci in francese (dando del voi)",
+      "answers": [
+        "Pouvez-vous voir le Louvre d'ici ?",
+        "Vous pouvez voir le Louvre d'ici ?",
+        "Est-ce que vous pouvez voir le Louvre d'ici ?"
+      ],
+      "explain_it": "Da qui si dice d'ici; con vous, pouvoir diventa pouvez."
+    },
+    {
+      "id": "L015-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "Lui lavora attualmente a Parigi.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Il travaille actuellement à Paris.",
+        "Actuellement, il travaille à Paris."
+      ],
+      "explain_it": "Attualmente si traduce actuellement, non effettivamente."
+    },
+    {
+      "id": "L015-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "time-date",
+      "prompt": "Questo pomeriggio sono libero.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Je suis libre cet après-midi.",
+        "Cet après-midi, je suis libre."
+      ],
+      "explain_it": "Per il pomeriggio di oggi si dice cet après-midi, con cet davanti a vocale."
+    },
+    {
+      "id": "L015-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "Ho un libro nell'ufficio.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "J'ai un livre dans le bureau."
+      ],
+      "explain_it": "Livre è maschile, quindi l'articolo è un e l'elisione è j'ai."
+    },
+    {
+      "id": "L015-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "register",
+      "prompt": "Scusi, dove sono i bagni?",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Pardon, où sont les toilettes ?",
+        "Excusez-moi, où sont les toilettes ?"
+      ],
+      "explain_it": "Pardon e excusez-moi servono ad attirare l'attenzione prima della domanda."
+    },
+    {
+      "id": "L015-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions-place",
+      "prompt": "Il ristorante è davanti all'ufficio.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Le restaurant est devant le bureau."
+      ],
+      "explain_it": "Devant si usa direttamente davanti al nome, senza de."
+    },
+    {
+      "id": "L015-e21",
+      "type": "cloze",
+      "level": 2,
+      "concept": "modals",
+      "text": "Nous ___ pas attendre la guide.",
+      "answers": [
+        "ne pouvons"
+      ],
+      "hint": "(pouvoir, presente, noi; con ne ... pas)",
+      "prompt": "Non possiamo aspettare la guida.",
+      "explain_it": "Con nous, pouvoir diventa pouvons; ne precede il verbo e pas lo segue."
+    },
+    {
+      "id": "L015-e22",
+      "type": "cloze",
+      "level": 2,
+      "concept": "gender",
+      "text": "C'est un ___ de Paris.",
+      "answers": [
+        "tour"
+      ],
+      "hint": "(giro, maschile)",
+      "prompt": "È un giro di Parigi.",
+      "explain_it": "Le tour è il giro; con un, il sostantivo resta maschile e significa giro."
+    },
+    {
+      "id": "L015-e23",
+      "type": "cloze",
+      "level": 2,
+      "concept": "plural",
+      "text": "Les ___ sont au premier étage.",
+      "answers": [
+        "toilettes"
+      ],
+      "hint": "(bagno, plurale)",
+      "prompt": "I bagni sono al primo piano.",
+      "explain_it": "Toilettes va sempre al plurale, quindi l'articolo è les."
+    },
+    {
+      "id": "L015-e24",
+      "type": "dictation",
+      "level": 2,
+      "concept": "plural",
+      "text": "Bonsoir, mesdames.",
+      "explain_it": "Mesdames è il plurale di madame: la s finale non si pronuncia."
+    },
+    {
+      "id": "L015-e25",
+      "type": "dictation",
+      "level": 2,
+      "concept": "interrogatives",
+      "text": "Qu'est-ce que tu veux manger ?",
+      "explain_it": "Qu'est-ce que significa 'che cosa'; con tu, vouloir diventa veux."
+    },
+    {
+      "id": "L015-e26",
+      "type": "flash",
+      "level": 2,
+      "concept": "gender",
+      "front": "Le tour, la tour, un livre, la livre: cosa cambia?",
+      "back": "le tour = il giro, la gita; la tour = la torre; le livre = il libro; la livre = il mezzo chilo (500 g) o la sterlina. Stessa parola, genere e significato diversi.",
+      "note": "Impara sempre la parola con l'articolo."
+    },
+    {
+      "id": "L015-e27",
+      "type": "flash",
+      "level": 2,
+      "concept": "modals",
+      "front": "Pouvoir + verbo: che forma ha il verbo che segue?",
+      "back": "Resta sempre all'infinito, senza preposizione: je peux parler, nous pouvons partir.",
+      "note": "Nella negazione: ne ... pas attorno a pouvoir."
+    },
+    {
+      "id": "L015-e28",
+      "type": "flash",
+      "level": 2,
+      "concept": "plural",
+      "front": "Come si dice «il bagno» in francese, e quale articolo si usa?",
+      "back": "les toilettes: il plurale è obbligatorio, anche se in italiano e in inglese il nome è singolare.",
+      "note": "Il nome resta plurale in tutte le frasi."
+    },
+    {
+      "id": "L015-e29",
+      "type": "order",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "È il giro di Parigi.",
+      "answers": [
+        "C'est le tour de Paris."
+      ],
+      "distractors": [
+        "la",
+        "livre"
+      ],
+      "explain_it": "Il giro è le tour, con l'articolo maschile: si scrive come la tour (torre), cambia solo l'articolo."
+    },
+    {
+      "id": "L015-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "modals",
+      "prompt": "Potete aspettare un momento?",
+      "ask": "Traduci in francese (dando del voi)",
+      "answers": [
+        "Pouvez-vous attendre un instant ?",
+        "Vous pouvez attendre un instant ?",
+        "Est-ce que vous pouvez attendre un instant ?"
+      ],
+      "explain_it": "Dopo pouvoir l'infinito attendre resta invariato, anche se la frase italiana ha un tono diverso."
+    },
+    {
+      "id": "L015-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "false-friends",
+      "prompt": "Non sono attualmente libero, perché lavoro.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Je ne suis pas libre actuellement, parce que je travaille.",
+        "Actuellement, je ne suis pas libre, parce que je travaille."
+      ],
+      "explain_it": "Attualmente si traduce actuellement; evita effectivement, che è il falso amico."
+    },
+    {
+      "id": "L015-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "register",
+      "prompt": "Scusi, signora, dov'è la metropolitana?",
+      "ask": "Traduci in francese (formale)",
+      "answers": [
+        "[Excusez-moi|Pardon], madame, où [est|se trouve] le métro ?"
+      ],
+      "explain_it": "Per attirare l'attenzione si usa excusez-moi o pardon, poi la domanda con où."
+    },
+    {
+      "id": "L015-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "prepositions-place",
+      "prompt": "Dalla piazza potete vedere la Torre Eiffel.",
+      "ask": "Traduci in francese (dando del voi)",
+      "answers": [
+        "De la place, vous pouvez voir la tour Eiffel.",
+        "Vous pouvez voir la tour Eiffel de la place.",
+        "Depuis la place, vous pouvez voir la tour Eiffel."
+      ],
+      "explain_it": "Dalla piazza si dice de la place (o depuis la place): de + la indica il punto da cui si guarda."
+    },
+    {
+      "id": "L015-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "gender",
+      "prompt": "Il giro di Parigi è lungo.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Le tour de Paris est long."
+      ],
+      "explain_it": "Le tour è il giro: il genere maschile decide l'articolo le e l'aggettivo long."
+    },
+    {
+      "id": "L015-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "ce-cest-il-est",
+      "prompt": "È importante, ma non è urgente.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "C'est important, mais ce n'est pas urgent."
+      ],
+      "explain_it": "C'est più aggettivo per la frase affermativa; per la negazione si usa ce n'est pas."
+    },
+    {
+      "id": "L015-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "time-date",
+      "prompt": "Stamattina non posso, ma questo pomeriggio sì.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Ce matin, je ne peux pas, mais cet après-midi, oui."
+      ],
+      "explain_it": "Ce matin e cet après-midi sono espressioni di tempo senza preposizione."
+    },
+    {
+      "id": "L015-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "plural",
+      "prompt": "Signore e signori, dove sono i bagni?",
+      "ask": "Traduci in francese (saluto misto)",
+      "answers": [
+        "Messieurs-dames, où sont les toilettes ?",
+        "Mesdames et messieurs, où sont les toilettes ?"
+      ],
+      "explain_it": "Messieurs-dames è il saluto a un gruppo misto; les toilettes resta plurale."
+    },
+    {
+      "id": "L015-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "modals",
+      "prompt": "Potete ascoltare la guida al telefono?",
+      "ask": "Traduci in francese (dando del voi)",
+      "answers": [
+        "Pouvez-vous écouter [le|la] guide au téléphone ?",
+        "Vous pouvez écouter [le|la] guide au téléphone ?",
+        "Est-ce que vous pouvez écouter [le|la] guide au téléphone ?"
+      ],
+      "explain_it": "Écouter è transitivo, senza preposizione, come già visto nella lezione 13."
+    },
+    {
+      "id": "L015-e39",
+      "type": "dictation",
+      "level": 3,
+      "concept": "plural",
+      "text": "Les toilettes sont à droite, devant la place.",
+      "explain_it": "Toilettes è plurale e à droite indica la direzione: a destra."
+    },
+    {
+      "id": "L015-e40",
+      "type": "dictation",
+      "level": 3,
+      "concept": "false-friends",
+      "text": "Actuellement, je travaille à la maison.",
+      "explain_it": "Actuellement significa attualmente: non va confuso con effettivamente."
+    }
+  ]
+}

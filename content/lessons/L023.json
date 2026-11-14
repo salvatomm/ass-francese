@@ -1,0 +1,887 @@
+{
+  "n": 23,
+  "title_fr": "Comment réussir au loto",
+  "title_it": "Come vincere al lotto",
+  "review": false,
+  "status": "verified",
+  "source": "c15d4fa8 p7-12 (libro p.89-94)",
+  "theme_it": "In un bar francese un cliente ordina un caffè con latte e un toast caldo e compra due biglietti del lotto. Il barista gli spiega che si può giocare anche online, e il cliente dice che preferisce venire al bar: l'atmosfera è piacevole e qui può incontrare altre persone. Il barista gli chiede se ha un segreto per vincere: lui risponde che gioca sempre gli stessi numeri, quelli legati alle date importanti della sua vita, e che spera di vincere un giorno.",
+  "grammar": [
+    {
+      "id": "prepositions",
+      "title_it": "Giocare con la preposizione à",
+      "explain_it": "Il verbo jouer si costruisce con à quando il gioco è indicato da un nome: jouer au loto, jouer aux cartes, jouer aux échecs. Con l'articolo, à si contrae: à + le diventa au, à + les diventa aux, come in italiano (al, ai). Non si dice mai «jouer à le». Con la lotteria, che è femminile, si dice à la: jouer à la loterie.",
+      "examples": [
+        {
+          "fr": "Je joue au loto le samedi.",
+          "it": "Gioco al lotto il sabato."
+        },
+        {
+          "fr": "Les enfants jouent aux cartes.",
+          "it": "I bambini giocano a carte."
+        },
+        {
+          "fr": "Tu joues à la loterie ?",
+          "it": "Giochi alla lotteria?"
+        }
+      ]
+    },
+    {
+      "id": "de-after-negation",
+      "title_it": "Dopo la negazione: de (d')",
+      "explain_it": "Con la negazione ne... pas, l'articolo indeterminativo (un, une, des) e quello partitivo (du, de la, de l') diventano de. Davanti a vocale o h muta si scrive d'. In italiano non c'è questo cambiamento: «non ho biglietti» si dice je n'ai pas de billets, non je n'ai pas des billets. Fa eccezione il verbo être: ce n'est pas un problème.",
+      "examples": [
+        {
+          "fr": "Je n'ai pas de billets.",
+          "it": "Non ho biglietti."
+        },
+        {
+          "fr": "Il n'y a pas d'ambiance ici.",
+          "it": "Qui non c'è atmosfera."
+        },
+        {
+          "fr": "Nous n'avons pas d'argent.",
+          "it": "Non abbiamo soldi."
+        }
+      ]
+    },
+    {
+      "id": "register",
+      "title_it": "Sympa: la forma familiare",
+      "explain_it": "Sympa è l'abbreviazione familiare di sympathique (simpatico). È molto usato nel parlato. Al singolare è invariabile, quindi un type sympa e une fille sympa; al plurale prende la -s: des gens sympas. Nello scritto formale o con persone che non si conoscono si preferisce sympathique.",
+      "examples": [
+        {
+          "fr": "Elle est sympa, cette fille.",
+          "it": "Quella ragazza è simpatica."
+        },
+        {
+          "fr": "Vous êtes sympas !",
+          "it": "Siete simpatici!"
+        }
+      ]
+    },
+    {
+      "id": "indefinites",
+      "title_it": "Autre: un altro, d'altri",
+      "explain_it": "Autre significa «altro» ed è un aggettivo indefinito. Al singolare si usa con l'articolo indeterminativo: un autre (maschile), une autre (femminile), come in italiano un altro, un'altra. Al plurale des + aggettivo + nome diventa de: si dice d'autres clients (altri clienti), non des autres clients.",
+      "examples": [
+        {
+          "fr": "Je prends une autre bière.",
+          "it": "Prendo un'altra birra."
+        },
+        {
+          "fr": "Il y a d'autres personnes ici.",
+          "it": "Qui ci sono altre persone."
+        }
+      ]
+    },
+    {
+      "id": "present-irregular",
+      "title_it": "Dire (dire): presente irregolare",
+      "explain_it": "Dire (dire) è irregolare al presente: je dis, tu dis, il/elle dit, nous disons, vous dites, ils/elles disent. Nel parlato je dis, tu dis e il dit suonano uguali [di]. Dire que introduce una frase, come «dire che» in italiano. Attenzione a vous dites: è una delle poche forme in -tes (come vous êtes e vous faites).",
+      "examples": [
+        {
+          "fr": "Je dis la vérité.",
+          "it": "Dico la verità."
+        },
+        {
+          "fr": "Qu'est-ce que vous dites ?",
+          "it": "Che cosa dite?"
+        },
+        {
+          "fr": "Elles disent que c'est vrai.",
+          "it": "Dicono che è vero."
+        }
+      ]
+    },
+    {
+      "id": "emphasis",
+      "title_it": "Tout à fait: del tutto, proprio",
+      "explain_it": "Tout à fait significa «del tutto, proprio» ed è invariabile. Si usa per rafforzare un aggettivo o un'espressione (tout à fait d'accord, del tutto d'accordo) e, da solo come risposta, vuol dire «esatto, certo».",
+      "examples": [
+        {
+          "fr": "Tu es prêt ? - Tout à fait !",
+          "it": "Sei pronto? - Proprio così!"
+        },
+        {
+          "fr": "C'est tout à fait possible.",
+          "it": "È del tutto possibile."
+        },
+        {
+          "fr": "Elle est tout à fait sérieuse.",
+          "it": "Lei è davvero seria."
+        }
+      ]
+    },
+    {
+      "id": "adverbs",
+      "title_it": "Toujours: sempre, e la sua posizione",
+      "explain_it": "Toujours significa sia «sempre» sia «ancora» (come l'italiano «ancora» nel senso di «tuttora»). Con un verbo coniugato sta dopo il verbo, come in italiano: je joue toujours (gioco sempre), il est toujours content (è sempre contento).",
+      "examples": [
+        {
+          "fr": "Il est toujours content.",
+          "it": "È sempre contento."
+        },
+        {
+          "fr": "Est-ce que tu habites toujours à Lyon ?",
+          "it": "Abiti ancora a Lione?"
+        },
+        {
+          "fr": "Nous mangeons toujours à la maison.",
+          "it": "Mangiamo sempre a casa."
+        }
+      ]
+    },
+    {
+      "id": "numbers",
+      "title_it": "Chiffre, numéro, nombre",
+      "explain_it": "Tre parole che l'italiano spesso riassume con numero. Il chiffre è la cifra, il segno del numero (le chiffre sept, la cifra sette). Il numéro è il numero come identificativo o sequenza (numéro de téléphone, numéro de maison, numéro de billet). Il nombre è la quantità (un grand nombre de clients). Per il numero di telefono e per il numero civico si usa sempre numéro.",
+      "examples": [
+        {
+          "fr": "Le chiffre sept est mon préféré.",
+          "it": "La cifra sette è la mia preferita."
+        },
+        {
+          "fr": "Quel est votre numéro de téléphone ?",
+          "it": "Qual è il suo numero di telefono?"
+        },
+        {
+          "fr": "Il y a un grand nombre de clients.",
+          "it": "C'è un gran numero di clienti."
+        }
+      ]
+    },
+    {
+      "id": "present-ir",
+      "title_it": "Participio presente dei verbi in -ir (-issant)",
+      "explain_it": "I verbi del secondo gruppo in -ir (finir, réussir, investir, applaudir) formano il participio presente in -issant, aggiungendo -issant alla radice della forma noi: nous finissons, finissant. Si usa come aggettivo o dopo un nome, come in finissant par (che finisce per). In italiano corrisponde al participio presente o al gerundio: finendo, finiscono.",
+      "examples": [
+        {
+          "fr": "Un chiffre finissant par deux.",
+          "it": "Una cifra che finisce per due."
+        },
+        {
+          "fr": "Les numéros finissant par zéro sont rares.",
+          "it": "I numeri che finiscono per zero sono rari."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le loto",
+      "it": "il lotto",
+      "pos": "n"
+    },
+    {
+      "fr": "le billet",
+      "it": "il biglietto",
+      "pos": "n",
+      "note": "billet de loto = biglietto del lotto"
+    },
+    {
+      "fr": "le croque-monsieur",
+      "it": "toast caldo al prosciutto e formaggio",
+      "pos": "n"
+    },
+    {
+      "fr": "le café crème",
+      "it": "caffè con latte (simile al cappuccino)",
+      "pos": "n"
+    },
+    {
+      "fr": "le comptoir",
+      "it": "il banco (del bar)",
+      "pos": "n"
+    },
+    {
+      "fr": "la queue",
+      "it": "la fila, la coda",
+      "pos": "n",
+      "note": "faire la queue"
+    },
+    {
+      "fr": "l'ambiance (f.)",
+      "it": "l'atmosfera",
+      "pos": "n"
+    },
+    {
+      "fr": "sympa",
+      "it": "simpatico / simpatica",
+      "pos": "adj",
+      "note": "invariabile al singolare; abbreviazione di sympathique"
+    },
+    {
+      "fr": "quitter",
+      "it": "lasciare, uscire da",
+      "pos": "v",
+      "note": "quitter un lieu"
+    },
+    {
+      "fr": "saisir",
+      "it": "cogliere, afferrare",
+      "pos": "v",
+      "note": "je saisis"
+    },
+    {
+      "fr": "l'occasion (f.)",
+      "it": "l'occasione",
+      "pos": "n"
+    },
+    {
+      "fr": "le client",
+      "it": "il cliente",
+      "pos": "n",
+      "note": "fem. la cliente"
+    },
+    {
+      "fr": "le secret",
+      "it": "il segreto",
+      "pos": "n"
+    },
+    {
+      "fr": "le numéro",
+      "it": "il numero",
+      "pos": "n"
+    },
+    {
+      "fr": "le chiffre",
+      "it": "la cifra",
+      "pos": "n"
+    },
+    {
+      "fr": "préféré / préférée",
+      "it": "preferito / preferita",
+      "pos": "adj"
+    },
+    {
+      "fr": "applaudir",
+      "it": "applaudire",
+      "pos": "v",
+      "note": "j'applaudis"
+    },
+    {
+      "fr": "réussir (à)",
+      "it": "riuscire (a)",
+      "pos": "v",
+      "note": "réussir à gagner"
+    },
+    {
+      "fr": "investir",
+      "it": "investire",
+      "pos": "v",
+      "note": "j'investis"
+    },
+    {
+      "fr": "l'avenir (m.)",
+      "it": "il futuro",
+      "pos": "n"
+    },
+    {
+      "fr": "la naissance",
+      "it": "la nascita",
+      "pos": "n",
+      "note": "date de naissance"
+    },
+    {
+      "fr": "finir",
+      "it": "finire",
+      "pos": "v",
+      "note": "je finis; participio finissant"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "faire la queue",
+      "it": "fare la fila",
+      "note": "registro neutro, molto usato"
+    },
+    {
+      "fr": "tout à fait",
+      "it": "esatto, proprio così",
+      "note": "risposta di conferma, oppure rafforzativo"
+    },
+    {
+      "fr": "un de ces jours",
+      "it": "uno di questi giorni",
+      "note": "promessa vaga, senza data precisa"
+    },
+    {
+      "fr": "pas vraiment",
+      "it": "non proprio",
+      "note": "risposta cortese e attenuata"
+    },
+    {
+      "fr": "Et avec ça ?",
+      "it": "Desidera altro?",
+      "note": "domanda del commerciante o del barista al banco"
+    },
+    {
+      "fr": "jouer en ligne",
+      "it": "giocare online",
+      "note": "ligne = linea, qui internet"
+    },
+    {
+      "fr": "saisir l'occasion de",
+      "it": "cogliere l'occasione di",
+      "note": "seguito da un infinito"
+    },
+    {
+      "fr": "avoir un secret pour",
+      "it": "avere un trucco per",
+      "note": "secret qui = trucco, non solo segreto"
+    }
+  ],
+  "notes_it": [
+    "Falso amico: l'ambiance (f.) è l'atmosfera di un luogo, quindi è femminile; per l'ambiente naturale o la natura si usa environnement.",
+    "Pronuncia: queue si legge [kø], con una vocale arrotondata, non come l'inglese queue [kju]; secret si legge [səkʁɛ].",
+    "Il croque-monsieur è un toast caldo con prosciutto e formaggio, uno spuntino classico nei bar francesi.",
+    "In Francia il Loto è gestito dalla Française des Jeux: si compra nei bar-tabac o si gioca online. Si scelgono i numeri, mentre il lotto italiano si basa su estrazioni per ruota."
+  ],
+  "exercises": [
+    {
+      "id": "L023-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "prepositions",
+      "prompt": "Come si dice «giocare al lotto»?",
+      "options": [
+        "jouer au loto",
+        "jouer à le loto",
+        "jouer aux loto",
+        "jouer de loto"
+      ],
+      "correct": 0,
+      "explain_it": "Con il gioco al lotto si usa à + le, che diventa au."
+    },
+    {
+      "id": "L023-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "contractions-au-du",
+      "prompt": "Come si dice «giocare a carte»?",
+      "options": [
+        "jouer aux cartes",
+        "jouer au cartes",
+        "jouer à cartes",
+        "jouer des cartes"
+      ],
+      "correct": 0,
+      "explain_it": "Cartes è plurale, quindi à + les diventa aux."
+    },
+    {
+      "id": "L023-e03",
+      "type": "mcq",
+      "level": 2,
+      "concept": "de-after-negation",
+      "prompt": "Come si dice «Non ho biglietti»?",
+      "options": [
+        "Je n'ai pas de billets.",
+        "Je n'ai pas des billets.",
+        "Je n'ai pas du billets.",
+        "Je n'ai pas les billets."
+      ],
+      "correct": 0,
+      "explain_it": "Dopo la negazione l'articolo indeterminativo o partitivo diventa de."
+    },
+    {
+      "id": "L023-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "register",
+      "prompt": "Nel francese parlato, che cosa significa «sympa»?",
+      "options": [
+        "simpatico (abbreviazione di sympathique)",
+        "sportivo",
+        "costoso",
+        "stanco"
+      ],
+      "correct": 0,
+      "explain_it": "Sympa è il modo familiare e abbreviato di dire sympathique."
+    },
+    {
+      "id": "L023-e05",
+      "type": "order",
+      "level": 1,
+      "concept": "indefinites",
+      "prompt": "Prendete un'altra bottiglia.",
+      "answers": [
+        "Prenez une autre bouteille."
+      ],
+      "distractors": [
+        "un",
+        "autres"
+      ],
+      "explain_it": "Con un nome femminile singolare si usa une autre."
+    },
+    {
+      "id": "L023-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "present-irregular",
+      "prompt": "Dicono che è gratuito.",
+      "answers": [
+        "Ils disent que c'est gratuit.",
+        "Elles disent que c'est gratuit."
+      ],
+      "distractors": [
+        "dit",
+        "dites"
+      ],
+      "explain_it": "Dire alla terza persona plurale è disent."
+    },
+    {
+      "id": "L023-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "emphasis",
+      "prompt": "Sono del tutto d'accordo con te.",
+      "answers": [
+        "Je suis tout à fait d'accord avec toi."
+      ],
+      "distractors": [
+        "très",
+        "toujours"
+      ],
+      "explain_it": "Tout à fait rafforza l'accordo, come «del tutto»."
+    },
+    {
+      "id": "L023-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "adverbs",
+      "prompt": "Lui mangia sempre a casa.",
+      "answers": [
+        "Il mange toujours à la maison."
+      ],
+      "distractors": [
+        "ici"
+      ],
+      "explain_it": "Toujours va dopo il verbo coniugato, come sempre in italiano."
+    },
+    {
+      "id": "L023-e09",
+      "type": "order",
+      "level": 2,
+      "concept": "numbers",
+      "prompt": "Questo non è il numero giusto.",
+      "answers": [
+        "Ce n'est pas le bon numéro."
+      ],
+      "distractors": [
+        "bonne"
+      ],
+      "explain_it": "Numéro è l'identificativo; con bon resta maschile."
+    },
+    {
+      "id": "L023-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "present-irregular",
+      "text": "Nous ___ la vérité.",
+      "answers": [
+        "disons"
+      ],
+      "hint": "(dire, presente)",
+      "prompt": "Diciamo la verità.",
+      "explain_it": "Dire alla prima persona plurale è disons, con la radice dis-."
+    },
+    {
+      "id": "L023-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "register",
+      "text": "C'est une fille très ___.",
+      "answers": [
+        "sympa",
+        "sympathique"
+      ],
+      "hint": "(aggettivo familiare)",
+      "prompt": "È una ragazza molto simpatica.",
+      "explain_it": "Sympa resta uguale al femminile singolare."
+    },
+    {
+      "id": "L023-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "prepositions",
+      "text": "Mon père joue ___ tennis.",
+      "answers": [
+        "au"
+      ],
+      "hint": "(preposizione + articolo)",
+      "prompt": "Mio padre gioca a tennis.",
+      "explain_it": "Con tennis si usa à + le = au."
+    },
+    {
+      "id": "L023-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "de-after-negation",
+      "text": "Il n'y a pas ___ queue au comptoir.",
+      "answers": [
+        "de"
+      ],
+      "prompt": "Non c'è fila al banco.",
+      "explain_it": "Dopo pas, davanti a consonante, l'articolo diventa de."
+    },
+    {
+      "id": "L023-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "indefinites",
+      "text": "Je veux ___ autre café, s'il vous plaît.",
+      "answers": [
+        "un"
+      ],
+      "hint": "(articolo indeterminativo)",
+      "prompt": "Voglio un altro caffè, per favore.",
+      "explain_it": "Café è maschile, quindi un autre."
+    },
+    {
+      "id": "L023-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "numbers",
+      "text": "Le ___ sept est mon préféré.",
+      "answers": [
+        "chiffre"
+      ],
+      "prompt": "La cifra sette è il mio preferito.",
+      "explain_it": "Chiffre indica la cifra singola ed è maschile."
+    },
+    {
+      "id": "L023-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "numbers",
+      "text": "Quel est votre ___ de téléphone ?",
+      "answers": [
+        "numéro"
+      ],
+      "prompt": "Qual è il suo numero di telefono?",
+      "explain_it": "Per il numero di telefono si usa numéro, non chiffre."
+    },
+    {
+      "id": "L023-e17",
+      "type": "cloze",
+      "level": 3,
+      "concept": "idioms",
+      "text": "Je vais gagner un de ces ___ !",
+      "answers": [
+        "jours"
+      ],
+      "hint": "(espressione fissa)",
+      "prompt": "Vincerò uno di questi giorni!",
+      "explain_it": "Un de ces jours è un'espressione fissa, da ricordare intera."
+    },
+    {
+      "id": "L023-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "Gioco al lotto il sabato.",
+      "answers": [
+        "Je joue au loto le samedi.",
+        "Je joue au loto tous les samedis."
+      ],
+      "explain_it": "Con il giorno della settimana il francese usa l'articolo senza preposizione: le samedi."
+    },
+    {
+      "id": "L023-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "contractions-au-du",
+      "prompt": "Gli studenti giocano a scacchi.",
+      "answers": [
+        "Les étudiants jouent aux échecs."
+      ],
+      "explain_it": "Échecs è plurale, quindi à + les = aux."
+    },
+    {
+      "id": "L023-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "de-after-negation",
+      "prompt": "Non ho amici qui.",
+      "answers": [
+        "Je n'ai pas d'amis ici."
+      ],
+      "explain_it": "Amis inizia per vocale, quindi si scrive d'amis."
+    },
+    {
+      "id": "L023-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "de-after-negation",
+      "prompt": "Non abbiamo soldi.",
+      "answers": [
+        "Nous n'avons pas d'argent.",
+        "On n'a pas d'argent."
+      ],
+      "explain_it": "Argent inizia per vocale: pas d'argent."
+    },
+    {
+      "id": "L023-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "register",
+      "prompt": "Sono persone simpatiche.",
+      "answers": [
+        "Ce sont des [personnes|gens] [sympas|sympathiques].",
+        "Elles sont [sympas|sympathiques]."
+      ],
+      "explain_it": "Sympa al plurale prende la -s."
+    },
+    {
+      "id": "L023-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "register",
+      "prompt": "Il mio vicino è molto simpatico.",
+      "answers": [
+        "Mon voisin est très sympa.",
+        "Mon voisin est très sympathique."
+      ],
+      "explain_it": "Sympa è la forma familiare e invariabile al singolare."
+    },
+    {
+      "id": "L023-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "indefinites",
+      "prompt": "Scegli un'altra data.",
+      "answers": [
+        "Choisis une autre date.",
+        "Choisissez une autre date."
+      ],
+      "explain_it": "Date è femminile, quindi si usa une autre."
+    },
+    {
+      "id": "L023-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "indefinites",
+      "prompt": "Ci sono altri clienti.",
+      "answers": [
+        "Il y a d'autres clients."
+      ],
+      "explain_it": "Al plurale autre diventa d'autres davanti al nome."
+    },
+    {
+      "id": "L023-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "present-irregular",
+      "prompt": "Dico sempre la verità.",
+      "answers": [
+        "Je dis toujours la vérité."
+      ],
+      "explain_it": "Alla prima persona singolare dire è je dis."
+    },
+    {
+      "id": "L023-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "present-irregular",
+      "prompt": "Loro dicono che è vero.",
+      "answers": [
+        "Ils disent que c'est vrai.",
+        "Elles disent que c'est vrai."
+      ],
+      "explain_it": "Dire que significa dire che."
+    },
+    {
+      "id": "L023-e28",
+      "type": "write",
+      "level": 2,
+      "concept": "emphasis",
+      "prompt": "Sono assolutamente d'accordo con te.",
+      "answers": [
+        "Je suis tout à fait d'accord avec toi.",
+        "Je suis tout à fait d'accord avec vous."
+      ],
+      "explain_it": "Tout à fait si usa per rafforzare l'accordo."
+    },
+    {
+      "id": "L023-e29",
+      "type": "write",
+      "level": 2,
+      "concept": "adverbs",
+      "prompt": "Lui abita sempre qui.",
+      "answers": [
+        "Il habite toujours ici."
+      ],
+      "explain_it": "Toujours va dopo il verbo coniugato, come sempre in italiano."
+    },
+    {
+      "id": "L023-e30",
+      "type": "write",
+      "level": 2,
+      "concept": "numbers",
+      "prompt": "La cifra sette è il mio preferito.",
+      "answers": [
+        "Le chiffre sept est mon préféré.",
+        "Le chiffre sept est mon chiffre préféré."
+      ],
+      "explain_it": "Chiffre indica la cifra e richiede mon, al maschile."
+    },
+    {
+      "id": "L023-e31",
+      "type": "write",
+      "level": 2,
+      "concept": "present-ir",
+      "prompt": "Lui investe per il futuro.",
+      "answers": [
+        "Il investit pour l'avenir."
+      ],
+      "explain_it": "Investir è un verbo del secondo gruppo: il investit."
+    },
+    {
+      "id": "L023-e32",
+      "type": "write",
+      "level": 2,
+      "concept": "present-ir",
+      "prompt": "Scegli un numero che finisce per cinque.",
+      "answers": [
+        "Choisis un numéro [finissant|qui finit] par cinq.",
+        "Choisissez un numéro [finissant|qui finit] par cinq.",
+        "Choisissez un chiffre [finissant|qui finit] par cinq.",
+        "Choisis un chiffre [finissant|qui finit] par cinq."
+      ],
+      "explain_it": "Finissant par significa che finisce per, con il participio presente di finir."
+    },
+    {
+      "id": "L023-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "present-ir",
+      "prompt": "Ci sono numeri che finiscono per zero.",
+      "answers": [
+        "Il y a des [numéros|chiffres] [finissant|qui finissent] par zéro."
+      ],
+      "explain_it": "Il participio presente dei verbi in -ir prende -issant e segue il nome."
+    },
+    {
+      "id": "L023-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "emphasis",
+      "prompt": "Dico che sono del tutto d'accordo con te.",
+      "answers": [
+        "Je dis que je suis tout à fait d'accord avec toi.",
+        "Je dis que je suis tout à fait d'accord avec vous."
+      ],
+      "explain_it": "Dire que introduce la frase e tout à fait rafforza l'accordo."
+    },
+    {
+      "id": "L023-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "de-after-negation",
+      "prompt": "Non abbiamo molta fortuna, ma giochiamo sempre al lotto.",
+      "answers": [
+        "Nous n'avons pas beaucoup de chance, mais nous jouons toujours au loto."
+      ],
+      "explain_it": "Dopo beaucoup si usa de (pas beaucoup de chance), e toujours va dopo il verbo coniugato."
+    },
+    {
+      "id": "L023-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "indefinites",
+      "prompt": "Mio cugino gioca al lotto con altri amici.",
+      "answers": [
+        "Mon cousin joue au loto avec d'autres amis."
+      ],
+      "explain_it": "Altri, al plurale, si traduce con d'autres più il nome."
+    },
+    {
+      "id": "L023-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "numbers",
+      "prompt": "Il mio numero di telefono finisce per otto.",
+      "answers": [
+        "Mon numéro de téléphone finit par huit."
+      ],
+      "explain_it": "Per il numero di telefono si usa numéro, e finir per si dice finir par."
+    },
+    {
+      "id": "L023-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "adverbs",
+      "prompt": "Il mio amico è sempre simpatico con noi.",
+      "answers": [
+        "Mon ami est toujours sympa avec nous."
+      ],
+      "explain_it": "Toujours va dopo il verbo coniugato (est toujours), come sempre in italiano."
+    },
+    {
+      "id": "L023-e39",
+      "type": "write",
+      "level": 3,
+      "concept": "prepositions",
+      "prompt": "Giochiamo a tennis, ma non giochiamo a carte.",
+      "answers": [
+        "Nous jouons au tennis, mais nous ne jouons pas aux cartes."
+      ],
+      "explain_it": "Con tennis si usa au, con cartes si usa aux: la preposizione cambia con il nome."
+    },
+    {
+      "id": "L023-e40",
+      "type": "dictation",
+      "level": 2,
+      "concept": "prepositions",
+      "text": "Nous jouons aux échecs le dimanche.",
+      "explain_it": "Échecs è plurale, quindi aux."
+    },
+    {
+      "id": "L023-e41",
+      "type": "dictation",
+      "level": 2,
+      "concept": "pronunciation",
+      "text": "La queue est longue au comptoir.",
+      "explain_it": "Queue si legge con la vocale arrotondata [kø]."
+    },
+    {
+      "id": "L023-e42",
+      "type": "dictation",
+      "level": 3,
+      "concept": "indefinites",
+      "text": "Choisissez un autre numéro, s'il vous plaît.",
+      "explain_it": "Con un nome maschile singolare si usa un autre."
+    },
+    {
+      "id": "L023-e43",
+      "type": "flash",
+      "level": 1,
+      "concept": "prepositions",
+      "front": "Giocare al lotto, a carte, a tennis: come si dice in francese?",
+      "back": "jouer au loto · jouer aux cartes · jouer au tennis",
+      "note": "À si contrae con l'articolo: à + le = au, à + les = aux.",
+      "explain_it": "Il gioco richiede à, che poi si contrae con l'articolo."
+    },
+    {
+      "id": "L023-e44",
+      "type": "flash",
+      "level": 2,
+      "concept": "present-irregular",
+      "front": "Dire al presente: je, tu, il/elle, nous, vous, ils/elles",
+      "back": "je dis · tu dis · il/elle dit · nous disons · vous dites · ils/elles disent",
+      "note": "Nel parlato je dis, tu dis e il dit suonano uguali [di].",
+      "explain_it": "Dire è irregolare al presente."
+    },
+    {
+      "id": "L023-e45",
+      "type": "flash",
+      "level": 2,
+      "concept": "de-after-negation",
+      "front": "Metti in negativo: «J'ai des amis ici.»",
+      "back": "Je n'ai pas d'amis ici.",
+      "note": "Dopo la negazione des diventa de, davanti a vocale d'.",
+      "explain_it": "La negazione toglie l'articolo indeterminativo e lascia solo de."
+    }
+  ]
+}
