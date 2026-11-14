@@ -1,0 +1,466 @@
+{
+  "n": 2,
+  "title_fr": "Le café",
+  "title_it": "Il caffè",
+  "review": false,
+  "status": "verified",
+  "source": "529edcbd p19-23",
+  "theme_it": "Al caffè un cameriere prende l'ordinazione di una coppia per la colazione: due caffè, due croissant e una fetta di pane imburrato, con qualche precisazione su chi prende cosa. È la lezione della domanda gentile «Desidera?» e dei primi articoli, con il genere dei nomi.",
+  "grammar": [
+    {
+      "id": "gender",
+      "title_it": "Il genere dei nomi: maschile e femminile",
+      "explain_it": "In francese ogni nome è maschile o femminile, e a differenza dell'italiano non c'è un modo sicuro di riconoscerlo dalla desinenza: va imparato insieme all'articolo. Un e le indicano il maschile (un café, le beurre), une e la il femminile (une tartine, la tartine). Café indica sia la bevanda sia il locale, e il francese non ha una parola separata per «uno»: un café può quindi voler dire «un caffè» come ordinazione, a seconda del contesto.",
+      "examples": [
+        { "fr": "Un croissant et une tartine.", "it": "Un cornetto e una fetta di pane imburrato." },
+        { "fr": "Le café est pour moi.", "it": "Il caffè è per me." }
+      ]
+    },
+    {
+      "id": "articles-indefinite",
+      "title_it": "L'articolo indeterminativo: un / une",
+      "explain_it": "Come in italiano, un e une traducono «un/uno/una». Un è maschile, une è femminile, e vanno sempre scelti in base al genere del nome, non al suono iniziale. Anche quando si ordina al banco l'articolo resta: un café, non solo café.",
+      "examples": [
+        { "fr": "Un expresso, s'il vous plaît.", "it": "Un espresso, per favore." },
+        { "fr": "Une tartine beurrée.", "it": "Una fetta di pane imburrata." }
+      ]
+    },
+    {
+      "id": "articles-definite",
+      "title_it": "L'articolo determinativo: le / la",
+      "explain_it": "Le è maschile e la è femminile, come il e la in italiano. Davanti a vocale si usa l' (elisione). Il francese usa l'articolo determinativo anche con i nomi dei pasti, come le petit-déjeuner, dove l'italiano dice semplicemente «la colazione».",
+      "examples": [
+        { "fr": "Le croissant est pour elle.", "it": "Il cornetto è per lei." },
+        { "fr": "La tartine est pour moi.", "it": "La fetta di pane è per me." }
+      ]
+    },
+    {
+      "id": "adjective-agreement",
+      "title_it": "Accordo dell'aggettivo: beurré / beurrée",
+      "explain_it": "L'aggettivo beurré (imburrato) deriva dal participio di beurrer, e si accorda con il nome a cui si riferisce. Con un nome femminile si aggiunge -e: une tartine beurrée. L'accordo di genere è la regola generale dell'aggettivo francese, che nella maggior parte dei casi aggiunge una -e al femminile.",
+      "examples": [
+        { "fr": "Une tartine beurrée.", "it": "Una fetta di pane imburrata." },
+        { "fr": "Un croissant beurré.", "it": "Un cornetto imburrato." }
+      ]
+    },
+    {
+      "id": "questions",
+      "title_it": "Fare una domanda con la sola intonazione",
+      "explain_it": "Per fare una domanda semplice si può usare una frase affermativa e alzare la voce alla fine, senza cambiare l'ordine delle parole. È il modo più comune nel parlato: Vous désirez ? («Desidera?»), con il tono ascendente sull'ultima sillaba. La forma con inversione Désirez-vous ? è corretta ma più formale.",
+      "examples": [
+        { "fr": "Vous désirez un café ?", "it": "Desidera un caffè?" },
+        { "fr": "Donc, deux expressos ?", "it": "Quindi, due espressi?" }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "title_it": "Lettere finali mute: s, x, z",
+      "explain_it": "In francese la s finale del plurale di solito non si pronuncia: café e cafés si dicono allo stesso modo. Anche la x di deux e la z di désirez sono mute. Attenzione: est (è) ed et (e) si pronunciano nello stesso modo, quindi bisogna ricavare il senso dal contesto.",
+      "examples": [
+        { "fr": "Deux cafés.", "it": "Due caffè (si sente solo «cafè»)." },
+        { "fr": "Vous désirez.", "it": "Desidera (la z finale non si sente)." }
+      ]
+    },
+    {
+      "id": "liaison",
+      "title_it": "Il collegamento (liaison): deux expressos",
+      "explain_it": "Quando una parola termina con una consonante muta e la parola seguente inizia con vocale, la consonante si pronuncia e si lega alla vocale. Nel caso di deux expressos, la x di deux si pronuncia [z] e le due parole si fondono in una sola emissione. Lo stesso accade in vous allez, già visto nella lezione 1.",
+      "examples": [
+        { "fr": "Deux expressos.", "it": "Due espressi (la x suona come z)." },
+        { "fr": "Vous allez bien.", "it": "Sta bene (la s di vous suona come z)." }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "S'il vous plaît: «per favore»",
+      "explain_it": "S'il vous plaît significa letteralmente «se vi piace» ed è la formula standard di cortesia per chiedere qualcosa, anche al bar. Può sembrare formale, ma la si usa comunemente ed è il modo normale di dire «per favore» con qualsiasi interlocutore di cortesia.",
+      "examples": [
+        { "fr": "Un café, s'il vous plaît.", "it": "Un caffè, per favore." },
+        { "fr": "Deux croissants, s'il vous plaît.", "it": "Due cornetti, per favore." }
+      ]
+    }
+  ],
+  "vocab": [
+    { "fr": "le café", "it": "il caffè (bevanda o bar)", "pos": "n" },
+    { "fr": "le croissant", "it": "il cornetto (croissant)", "pos": "n" },
+    { "fr": "la tartine", "it": "la fetta di pane (spalmata, imburrata)", "pos": "n" },
+    { "fr": "le beurre", "it": "il burro", "pos": "n" },
+    { "fr": "beurré", "it": "imburrato", "pos": "adj", "note": "f. beurrée" },
+    { "fr": "le petit-déjeuner", "it": "la colazione", "pos": "n" },
+    { "fr": "le déjeuner", "it": "il pranzo (non la colazione)", "pos": "n" },
+    { "fr": "l'expresso (m.)", "it": "l'espresso", "pos": "n" },
+    { "fr": "désirer", "it": "desiderare, volere (in cortesia)", "pos": "v", "note": "vous désirez" },
+    { "fr": "préférer", "it": "preferire", "pos": "v", "note": "je préfère" },
+    { "fr": "monsieur", "it": "signore", "pos": "n" },
+    { "fr": "madame", "it": "signora", "pos": "n" },
+    { "fr": "oui", "it": "sì", "pos": "interj" },
+    { "fr": "non", "it": "no", "pos": "adv" },
+    { "fr": "s'il vous plaît", "it": "per favore", "pos": "expr" },
+    { "fr": "donc", "it": "quindi, dunque", "pos": "conj" },
+    { "fr": "pour", "it": "per, destinato a", "pos": "prep" },
+    { "fr": "moi", "it": "me, io (forma tonica)", "pos": "pron" },
+    { "fr": "elle", "it": "lei", "pos": "pron" },
+    { "fr": "deux", "it": "due", "pos": "num" }
+  ],
+  "expressions": [
+    { "fr": "Vous désirez ?", "it": "Desidera?", "note": "formula tipica del cameriere, con tono ascendente" },
+    { "fr": "Un café, s'il vous plaît.", "it": "Un caffè, per favore.", "note": "ordinazione standard al bar" },
+    { "fr": "Oui, c'est ça.", "it": "Sì, esatto.", "note": "per confermare un ordine" },
+    { "fr": "C'est pour moi.", "it": "È per me.", "note": "per dire a chi va una consumazione" },
+    { "fr": "C'est pour elle.", "it": "È per lei." },
+    { "fr": "Donc, deux expressos.", "it": "Quindi, due espressi.", "note": "donc riassume l'ordine appena fatto" },
+    { "fr": "Je préfère...", "it": "Preferisco...", "note": "per esprimere una preferenza al momento di ordinare" },
+    { "fr": "Monsieur, madame,", "it": "Signore, signora,", "note": "formula di cortesia per rivolgersi a una coppia" }
+  ],
+  "notes_it": [
+    "Un café è sia la bevanda sia il locale: al banco un caffè in Francia è un espresso senza latte, detto anche «un express» o «un expresso».",
+    "Falso amico: la tartine francese non è la tartina italiana da aperitivo, ma una fetta di pane spalmata di burro, la colazione alternativa al croissant.",
+    "Le déjeuner è il pranzo, non la colazione: la colazione è le petit-déjeuner, letteralmente «piccolo pranzo».",
+    "Pronuncia: il plurale in -s e le consonanti finali mute di deux e désirez non si sentono; est ed et si pronunciano allo stesso modo."
+  ],
+  "exercises": [
+    {
+      "id": "L002-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "gender",
+      "prompt": "Quale articolo accompagna correttamente «croissant» (maschile)?",
+      "options": ["un croissant", "une croissant", "la croissant", "un croissante"],
+      "correct": 0,
+      "explain_it": "Croissant è maschile, quindi si usa un (o le) e non une o la."
+    },
+    {
+      "id": "L002-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "articles-indefinite",
+      "prompt": "Completa con l'articolo indeterminativo giusto: ___ tartine beurrée.",
+      "options": ["une", "un", "le", "la"],
+      "correct": 0,
+      "explain_it": "Tartine è femminile, quindi l'articolo indeterminativo è une."
+    },
+    {
+      "id": "L002-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "vocab",
+      "prompt": "Che cosa significa «le déjeuner»?",
+      "options": ["il pranzo", "la colazione", "la cena", "lo spuntino"],
+      "correct": 0,
+      "explain_it": "Le déjeuner è il pranzo; la colazione è le petit-déjeuner, un errore frequente per chi parte dall'italiano."
+    },
+    {
+      "id": "L002-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "liaison",
+      "prompt": "Come si pronuncia la x finale di «deux» davanti a «expressos»?",
+      "options": ["come una z [z], per liaison", "come in «expresso» [ks]", "non si pronuncia mai", "come una s dura [s]"],
+      "correct": 0,
+      "explain_it": "Davanti a vocale la x di deux si pronuncia z per liaison, quindi si lega a expressos."
+    },
+    {
+      "id": "L002-e05",
+      "type": "order",
+      "level": 1,
+      "concept": "articles-definite",
+      "prompt": "Il croissant è per lei.",
+      "answers": ["Le croissant est pour elle."],
+      "distractors": ["moi", "la"],
+      "explain_it": "Croissant è maschile, quindi l'articolo determinativo è le, e il pronome tonico dopo pour è elle."
+    },
+    {
+      "id": "L002-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "questions",
+      "prompt": "Desidera un caffè, signora?",
+      "answers": ["Vous désirez un café, madame ?"],
+      "distractors": ["allez", "tartine"],
+      "explain_it": "La domanda cortese si fa con la frase affermativa e il tono ascendente, senza invertire il verbo."
+    },
+    {
+      "id": "L002-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "adjective-agreement",
+      "prompt": "Preferisco una fetta di pane imburrata.",
+      "answers": ["Je préfère une tartine beurrée."],
+      "distractors": ["beurré", "un"],
+      "explain_it": "Tartine è femminile, quindi l'aggettivo prende la -e: beurrée."
+    },
+    {
+      "id": "L002-e08",
+      "type": "cloze",
+      "level": 1,
+      "concept": "articles-definite",
+      "text": "___ café est pour moi.",
+      "answers": ["Le"],
+      "hint": "(articolo maschile)",
+      "prompt": "Il caffè è per me.",
+      "explain_it": "Café è maschile, quindi l'articolo determinativo è le."
+    },
+    {
+      "id": "L002-e09",
+      "type": "cloze",
+      "level": 1,
+      "concept": "articles-indefinite",
+      "text": "Vous désirez ___ croissant ?",
+      "answers": ["un"],
+      "hint": "(articolo indeterminativo, maschile)",
+      "prompt": "Desidera un cornetto?",
+      "explain_it": "Croissant è maschile, quindi l'indeterminativo è un."
+    },
+    {
+      "id": "L002-e10",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "text": "Une tartine beurr___.",
+      "answers": ["ée"],
+      "hint": "(participio, femminile)",
+      "prompt": "Una fetta di pane imburrata.",
+      "explain_it": "L'aggettivo si accorda con il femminile tartine e prende -ée."
+    },
+    {
+      "id": "L002-e11",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Un café, s'il vous ___.",
+      "answers": ["plaît"],
+      "hint": "(verbo plaire, presente)",
+      "prompt": "Un caffè, per favore.",
+      "explain_it": "S'il vous plaît è la formula fissa di cortesia, con il verbo plaire alla terza persona singolare."
+    },
+    {
+      "id": "L002-e12",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Vous ___ un café ?",
+      "answers": ["désirez"],
+      "hint": "(désirer, presente, forma di cortesia)",
+      "prompt": "Desidera un caffè?",
+      "explain_it": "Con vous il verbo désirer prende la forma désirez, come nella domanda del cameriere."
+    },
+    {
+      "id": "L002-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "articles-indefinite",
+      "text": "Un expresso et ___ tartine.",
+      "answers": ["une"],
+      "prompt": "Un espresso e una fetta di pane.",
+      "explain_it": "Tartine è femminile, quindi l'indeterminativo è une."
+    },
+    {
+      "id": "L002-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "articles-definite",
+      "text": "___ tartine est pour moi.",
+      "answers": ["La"],
+      "prompt": "La fetta di pane è per me.",
+      "explain_it": "Tartine è femminile, quindi l'articolo determinativo è la."
+    },
+    {
+      "id": "L002-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "il burro (con articolo determinativo)",
+      "ask": "Traduci in francese, con l'articolo",
+      "answers": ["le beurre"],
+      "explain_it": "Beurre è maschile, quindi l'articolo è le e non la."
+    },
+    {
+      "id": "L002-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "articles-indefinite",
+      "prompt": "Un caffè, per favore.",
+      "answers": ["Un café, s'il vous plaît."],
+      "explain_it": "Caffè è maschile, quindi un; s'il vous plaît è la forma di cortesia standard."
+    },
+    {
+      "id": "L002-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "questions",
+      "prompt": "Chiedi a un cliente se desidera un croissant.",
+      "answers": ["[Vous désirez|Désirez-vous] un croissant ?"],
+      "explain_it": "Il tono ascendente con vous désirez è la forma più naturale al bar; anche l'inversione è corretta."
+    },
+    {
+      "id": "L002-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Preferisco il croissant.",
+      "answers": ["Je préfère le croissant."],
+      "explain_it": "Préférer si coniuga con je in préfère, con l'accento grave sulla e della penultima sillaba."
+    },
+    {
+      "id": "L002-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "Il caffè è per lei.",
+      "answers": ["Le café est pour elle."],
+      "explain_it": "Café è maschile e richiede le, e il pronome dopo pour è elle."
+    },
+    {
+      "id": "L002-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Sì, esatto.",
+      "answers": ["Oui, c'est ça."],
+      "explain_it": "C'est ça è l'espressione standard per confermare: letteralmente «è questo»."
+    },
+    {
+      "id": "L002-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "una fetta di pane imburrata (tartine)",
+      "ask": "Traduci in francese",
+      "answers": ["une tartine beurrée"],
+      "explain_it": "Tartine è femminile, quindi l'aggettivo beurré prende la -e finale."
+    },
+    {
+      "id": "L002-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "la colazione",
+      "ask": "Traduci in francese",
+      "answers": ["le petit-déjeuner"],
+      "explain_it": "La colazione è le petit-déjeuner, non le déjeuner che è il pranzo."
+    },
+    {
+      "id": "L002-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "il pranzo",
+      "ask": "Traduci in francese",
+      "answers": ["le déjeuner"],
+      "explain_it": "Il pranzo è le déjeuner, da cui deriva il petit-déjeuner, la colazione."
+    },
+    {
+      "id": "L002-e24",
+      "type": "dictation",
+      "level": 2,
+      "concept": "liaison",
+      "text": "Deux expressos, s'il vous plaît.",
+      "explain_it": "Prima di expressos la x di deux si pronuncia z per liaison."
+    },
+    {
+      "id": "L002-e25",
+      "type": "dictation",
+      "level": 2,
+      "concept": "pronunciation",
+      "text": "Un croissant et deux cafés, madame.",
+      "explain_it": "Le s finali di cafés e la x di deux sono mute davanti a consonante."
+    },
+    {
+      "id": "L002-e26",
+      "type": "flash",
+      "level": 2,
+      "concept": "gender",
+      "front": "Come ricordo il genere di un nome francese come café o tartine?",
+      "back": "Impara sempre l'articolo insieme al nome: un / le = maschile (un café, le beurre); une / la = femminile (une tartine, la tartine).",
+      "note": "Il francese non ha un suffisso affidabile per il genere: si memorizza con l'articolo."
+    },
+    {
+      "id": "L002-e27",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronunciation",
+      "front": "Si pronunciano le lettere finali di «deux», «cafés» e «désirez»?",
+      "back": "No, sono mute davanti a consonante: la x di deux, la s del plurale e la z di désirez. Davanti a vocale la x di deux suona z (liaison).",
+      "note": "Confronta deux cafés (x muta) con deux expressos (x come z)."
+    },
+    {
+      "id": "L002-e28",
+      "type": "flash",
+      "level": 2,
+      "concept": "questions",
+      "front": "Come si fa una domanda semplice con «vous désirez» senza cambiare l'ordine delle parole?",
+      "back": "Si usa la frase affermativa e si alza il tono alla fine: Vous désirez ?",
+      "note": "Désirez-vous ? con inversione è corretto ma più formale."
+    },
+    {
+      "id": "L002-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "questions",
+      "prompt": "Chiedi a una signora come sta e se desidera un caffè.",
+      "answers": ["Comment [allez-vous|ça va], madame ? [Vous désirez|Désirez-vous] un café ?"],
+      "explain_it": "Combina la formula di saluto della lezione 1 con la domanda cortese del cameriere di questa lezione."
+    },
+    {
+      "id": "L002-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "gender",
+      "prompt": "Il caffè è per me e il cornetto è per lei.",
+      "answers": ["Le café est pour moi et le croissant est pour elle.", "Le café est pour moi et le croissant pour elle."],
+      "explain_it": "Entrambi i nomi richiedono l'articolo maschile le, e i pronomi tonici moi ed elle seguono pour."
+    },
+    {
+      "id": "L002-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "vocab",
+      "prompt": "Due caffè e una fetta di pane imburrata, per favore.",
+      "answers": ["Deux cafés et une tartine beurrée, s'il vous plaît."],
+      "explain_it": "Il plurale di café si scrive con la s ma non si pronuncia, e l'aggettivo si accorda con tartine."
+    },
+    {
+      "id": "L002-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "adjective-agreement",
+      "prompt": "La fetta di pane imburrata è per lei, signora?",
+      "answers": ["La tartine beurrée est pour elle, madame ?"],
+      "explain_it": "Tartine è femminile, quindi beurrée prende la -e, e il pronome dopo pour è elle."
+    },
+    {
+      "id": "L002-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Presenta Chloé alla signora e chiedile come sta.",
+      "answers": ["Je vous présente Chloé. Comment [allez-vous|ça va], madame ?"],
+      "explain_it": "Combina je vous présente della lezione 1 con la formula di cortesia per chiedere come si sta."
+    },
+    {
+      "id": "L002-e34",
+      "type": "dictation",
+      "level": 3,
+      "concept": "questions",
+      "text": "Madame, vous désirez un expresso, un croissant et une tartine ?",
+      "explain_it": "La domanda finale è affermativa con il tono ascendente; le tre parole maschili e femminili usano un e une."
+    },
+    {
+      "id": "L002-e35",
+      "type": "dictation",
+      "level": 3,
+      "concept": "adjective-agreement",
+      "text": "Je préfère le croissant, mais elle préfère la tartine beurrée.",
+      "explain_it": "L'aggettivo beurrée prende la -e perché si riferisce al femminile tartine."
+    },
+    {
+      "id": "L002-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "articles-indefinite",
+      "prompt": "Dì al cameriere: un cornetto per me, una fetta di pane per lei.",
+      "answers": ["Un croissant pour moi, une tartine pour elle.", "Un croissant pour moi et une tartine pour elle."],
+      "explain_it": "Croissant è maschile (un) e tartine è femminile (une), e i pronomi dopo pour sono moi ed elle."
+    }
+  ]
+}

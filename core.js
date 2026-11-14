@@ -185,11 +185,19 @@ export function buildSession({ mode, pool, states, today, lesson, level, size = 
   if (mode === 'lesson') {
     const inLesson = pool.filter(x => x.lesson === lesson &&
       (level === 'flash' ? !!x.front : x.level === level && !(x.type === 'flash' && x.derived)));
-    const fresh = shuffle(inLesson.filter(x => !st(x.id)));
-    const due = inLesson.filter(x => isDue(st(x.id), today)).sort(byUrgency(states));
-    const rest = inLesson.filter(x => st(x.id) && !isDue(st(x.id), today))
-      .sort((a, b) => String(st(a.id).last).localeCompare(String(st(b.id).last)) || st(a.id).box - st(b.id).box);
-    return interleave([...due, ...fresh, ...rest].slice(0, size));
+    const ordered = xs => {
+      const due = xs.filter(x => isDue(st(x.id), today)).sort(byUrgency(states));
+      const fresh = shuffle(xs.filter(x => !st(x.id)));
+      const rest = xs.filter(x => st(x.id) && !isDue(st(x.id), today))
+        .sort((a, b) => String(st(a.id).last).localeCompare(String(st(b.id).last)) || st(a.id).box - st(b.id).box);
+      return [...due, ...fresh, ...rest];
+    };
+    if (level === 'flash') return ordered(inLesson).slice(0, size);
+    // generated vocab drills fill at most a third of an exercise session
+    const authored = ordered(inLesson.filter(x => !x.derived));
+    const drills = ordered(inLesson.filter(x => x.derived));
+    const k = Math.min(drills.length, Math.max(size - authored.length, Math.floor(size / 3)));
+    return interleave(shuffle([...authored.slice(0, size - k), ...drills.slice(0, k)]));
   }
   if (mode === 'mistakes') {
     const wrong = pool.filter(x => st(x.id)?.mistake).sort(byUrgency(states)).slice(0, Math.ceil(size * 0.7));

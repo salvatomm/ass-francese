@@ -1,7 +1,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { expand, normalize, check, grade, newState, buildSession, deriveItems, addDays, wordDiff,
-  streakDays, requeue, FIX_DAYS } from '../core.js';
+  streakDays, requeue, lessonItems, FIX_DAYS } from '../core.js';
 
 test('expand alternatives and optional parts', () => {
   assert.deepEqual(expand("s'il [vous|te] plaît"), ["s'il vous plaît", "s'il te plaît"]);
@@ -104,4 +104,15 @@ test('streak counts consecutive days up to today or yesterday', () => {
   assert.equal(streakDays(days, '2026-11-14'), 2);
   assert.equal(streakDays({ ...days, '2026-11-14': 1 }, '2026-11-14'), 3);
   assert.equal(streakDays(days, '2026-11-16'), 0);
+});
+
+test('lesson session: generated vocab drills fill at most a third', () => {
+  const L = { n: 3, exercises: Array.from({ length: 20 }, (_, i) => ({ id: `L003-e${i}`, type: 'write', level: 2, concept: 'etre', prompt: 'x', answers: ['y'] })),
+    vocab: Array.from({ length: 30 }, (_, i) => ({ fr: `mot${i}`, it: `parola${i}`, pos: 'n' })), expressions: [], grammar: [] };
+  const pool = lessonItems(L);
+  const s = buildSession({ mode: 'lesson', pool, states: {}, today: '2026-11-14', lesson: 3, level: 2, size: 15 });
+  assert.equal(s.length, 15);
+  assert.equal(s.filter(x => x.derived).length, 5);
+  const f = buildSession({ mode: 'lesson', pool, states: {}, today: '2026-11-14', lesson: 3, level: 'flash', size: 20 });
+  assert.ok(f.every(x => x.front));
 });

@@ -1,0 +1,548 @@
+{
+  "n": 5,
+  "title_fr": "Je cherche le métro",
+  "title_it": "Cerco la metropolitana",
+  "review": false,
+  "status": "verified",
+  "source": "529edcbd p29-32",
+  "theme_it": "Un turista chiede a una signora dove si trova la fermata della metropolitana Saint-Michel. Lei non è del posto, ma ha con sé una pianta della città e gli spiega come arrivarci: attraversare il viale e girare a sinistra alla fontana. Il turista la ringrazia.",
+  "grammar": [
+    {
+      "id": "present-er",
+      "title_it": "Il presente per l'azione in corso: je cherche",
+      "explain_it": "In francese non esiste una forma progressiva separata come l'inglese «I am looking»: il presente semplice copre sia «cerco» sia «sto cercando». Per i verbi in -er (come chercher) si toglie -er e si aggiungono le desinenze: je cherche, tu cherches, il/elle cherche, nous cherchons, vous cherchez, ils/elles cherchent. A differenza dell'italiano, il pronome soggetto va sempre espresso.",
+      "examples": [
+        { "fr": "Je cherche le métro.", "it": "Cerco la metropolitana / Sto cercando la metropolitana." },
+        { "fr": "Nous cherchons un plan.", "it": "Cerchiamo una pianta." }
+      ]
+    },
+    {
+      "id": "demonstratives",
+      "title_it": "Voilà e voici: «ecco» in francese",
+      "explain_it": "Voici e voilà servono a presentare o indicare qualcosa o qualcuno, come l'italiano «ecco». Voici si usa per ciò che è vicino a chi parla, voilà per ciò che è più lontano; nell'uso quotidiano però voilà si usa spesso in entrambi i casi. Sono seguiti dal nome con il suo articolo: voilà le métro, voici la fontaine.",
+      "examples": [
+        { "fr": "Voilà le plan de la ville.", "it": "Ecco la pianta della città." },
+        { "fr": "Voici la station.", "it": "Ecco la fermata." }
+      ]
+    },
+    {
+      "id": "imperative",
+      "title_it": "L'imperativo di cortesia (vous): attendez, traversez, tournez",
+      "explain_it": "Per dare un'indicazione o un ordine gentile a una persona di cortesia (vous) si usa la forma del presente di vous senza il pronome. Per i verbi in -er la forma vous termina in -ez e resta uguale: vous attendez → attendez, vous traversez → traversez, vous tournez → tournez. È il modo tipico delle indicazioni stradali. In italiano useresti la forma di cortesia Lei, ma in francese il pronome non si ripete.",
+      "examples": [
+        { "fr": "Tournez à gauche.", "it": "Giri a sinistra." },
+        { "fr": "Attendez une minute.", "it": "Aspetti un minuto." }
+      ]
+    },
+    {
+      "id": "register",
+      "title_it": "Monsieur e madame con gli sconosciuti",
+      "explain_it": "Con gli estranei i francesi usano molto spesso Monsieur e Madame senza il nome, insieme alla forma di cortesia vous. Per attirare l'attenzione si dice «Excusez-moi, monsieur» (scusi, signore). Usare il nome proprio o il tu con uno sconosciuto risulterebbe scortese.",
+      "examples": [
+        { "fr": "Excusez-moi, madame.", "it": "Scusi, signora." },
+        { "fr": "Merci, monsieur.", "it": "Grazie, signore." }
+      ]
+    }
+  ],
+  "vocab": [
+    { "fr": "chercher", "it": "cercare", "pos": "v", "note": "je cherche" },
+    { "fr": "le métro", "it": "la metropolitana", "pos": "n" },
+    { "fr": "la station", "it": "la fermata (della metro)", "pos": "n" },
+    { "fr": "excuser", "it": "scusare", "pos": "v", "note": "excusez-moi" },
+    { "fr": "désolé", "it": "dispiaciuto", "pos": "adj", "note": "désolée (f.)" },
+    { "fr": "ici", "it": "qui", "pos": "adv" },
+    { "fr": "attendre", "it": "aspettare", "pos": "v", "note": "attendez" },
+    { "fr": "la minute", "it": "il minuto", "pos": "n" },
+    { "fr": "le plan", "it": "la pianta (della città)", "pos": "n" },
+    { "fr": "la ville", "it": "la città", "pos": "n" },
+    { "fr": "voilà", "it": "ecco", "pos": "interj" },
+    { "fr": "traverser", "it": "attraversare", "pos": "v", "note": "traversez" },
+    { "fr": "le boulevard", "it": "il viale", "pos": "n" },
+    { "fr": "tourner", "it": "girare, svoltare", "pos": "v", "note": "tournez" },
+    { "fr": "à gauche", "it": "a sinistra", "pos": "adv" },
+    { "fr": "la fontaine", "it": "la fontana", "pos": "n" },
+    { "fr": "l'aide (f.)", "it": "l'aiuto", "pos": "n" },
+    { "fr": "votre", "it": "il/la vostro/a (di vous)", "pos": "adj", "note": "vos (pl.)" },
+    { "fr": "monsieur", "it": "signore", "pos": "n" },
+    { "fr": "madame", "it": "signora", "pos": "n" },
+    { "fr": "beaucoup", "it": "molto", "pos": "adv" },
+    { "fr": "mais", "it": "ma", "pos": "conj" }
+  ],
+  "expressions": [
+    { "fr": "Excusez-moi", "it": "Scusi", "note": "forma di cortesia per attirare l'attenzione di un estraneo" },
+    { "fr": "Je suis désolé(e)", "it": "Mi dispiace", "note": "désolé si accorda con chi parla; è la scusa più usata" },
+    { "fr": "Une minute", "it": "Un attimo", "note": "per chiedere a qualcuno di aspettare" },
+    { "fr": "Merci beaucoup", "it": "Grazie mille", "note": "neutro, va bene in quasi ogni situazione" },
+    { "fr": "Voilà", "it": "Ecco", "note": "per presentare o porgere qualcosa" },
+    { "fr": "Je cherche", "it": "Sto cercando", "note": "il presente francese copre anche l'azione in corso" },
+    { "fr": "À gauche", "it": "A sinistra" },
+    { "fr": "Tournez à gauche", "it": "Giri a sinistra", "note": "indicazioni stradali in forma di cortesia" },
+    { "fr": "Monsieur, madame", "it": "Signore, signora", "note": "formula per rivolgersi a estranei" }
+  ],
+  "notes_it": [
+    "«Le métro» è l'abbreviazione di «Métropolitain» e indica sia il sistema della metropolitana sia il treno; la singola fermata si dice «la station». Ricordati che in italiano «la metro» è un'abbreviazione femminile, mentre il francese usa il maschile.",
+    "Falso amico: «ville» significa «città» (o paese), non «villa»: la villa in francese è una casa isolata con giardino, e il termine è quasi identico all'italiano.",
+    "Falso amico: «désolé» significa «dispiaciuto», come nell'espressione «mi dispiace»; l'italiano «desolato» è molto più forte e per questo non va usato per le scuse.",
+    "Pronuncia: in «votre aide» la -e di votre è muta e la -r finale si lega alla vocale di aide (enchaînement), quindi le due parole si pronunciano quasi come una sola. Questo collegamento è frequente in francese anche senza liaison."
+  ],
+  "exercises": [
+    {
+      "id": "L005-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "present-er",
+      "prompt": "Quale forma significa sia «cerco» sia «sto cercando»?",
+      "options": ["Je cherche", "Je cherches", "Je cherchons", "Je suis cherché"],
+      "correct": 0,
+      "explain_it": "Il presente francese copre entrambe le forme italiane; non esiste una forma progressiva separata come in inglese."
+    },
+    {
+      "id": "L005-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "present-er",
+      "prompt": "Completa: Nous ___ un plan de la ville.",
+      "options": ["cherchons", "cherchez", "cherches", "cherchent"],
+      "correct": 0,
+      "explain_it": "Con nous la desinenza dei verbi in -er è -ons: nous cherchons."
+    },
+    {
+      "id": "L005-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "demonstratives",
+      "prompt": "Quale parola si usa per presentare o porgere qualcosa, come «ecco»?",
+      "options": ["Voilà", "Désolé", "Attendez", "Merci"],
+      "correct": 0,
+      "explain_it": "Voilà (o voici) è la parola per «ecco»; le altre sono un aggettivo, un imperativo e una formula di ringraziamento."
+    },
+    {
+      "id": "L005-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "gender",
+      "prompt": "Una donna dice «Mi dispiace»: quale forma usa?",
+      "options": ["Je suis désolée.", "Je suis désolé.", "Je suis désolés.", "Je suis désolées."],
+      "correct": 0,
+      "explain_it": "Désolé prende la -e del femminile quando a parlare è una donna; per il plurale servirebbe -s, qui non serve."
+    },
+    {
+      "id": "L005-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "imperative",
+      "prompt": "Quale forma si usa per dire «aspetti un minuto» a una persona di cortesia?",
+      "options": ["Attendez une minute.", "Attends une minute.", "Attendre une minute.", "Attendons une minute."],
+      "correct": 0,
+      "explain_it": "Con la forma di cortesia vous l'imperativo di attendre è attendez; attends è la forma informale (tu)."
+    },
+    {
+      "id": "L005-e06",
+      "type": "mcq",
+      "level": 1,
+      "concept": "register",
+      "prompt": "Come attiri con cortesia l'attenzione di un signore sconosciuto?",
+      "options": ["Excusez-moi, monsieur.", "Excuse-moi, Jean.", "Salut, mec.", "Monsieur, toi !"],
+      "correct": 0,
+      "explain_it": "Con uno sconosciuto si usa vous e monsieur; «Excuse-moi» con il nome è informale, «mec» è gergale e il tu è scortese."
+    },
+    {
+      "id": "L005-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "present-er",
+      "prompt": "Cerco una pianta della città.",
+      "answers": ["Je cherche un plan de la ville."],
+      "distractors": ["suis"],
+      "explain_it": "Il verbo chercher al presente con je diventa cherche, e «pianta della città» si dice un plan de la ville."
+    },
+    {
+      "id": "L005-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "demonstratives",
+      "prompt": "Ecco la metropolitana!",
+      "answers": ["Voilà le métro !"],
+      "distractors": ["désolé"],
+      "explain_it": "Voilà più il nome con l'articolo presenta ciò che si indica: voilà le métro."
+    },
+    {
+      "id": "L005-e09",
+      "type": "order",
+      "level": 1,
+      "concept": "imperative",
+      "prompt": "Giri a sinistra (forma di cortesia).",
+      "answers": ["Tournez à gauche."],
+      "distractors": ["attendez"],
+      "explain_it": "Tournez è l'imperativo di tourner con vous, senza il pronome."
+    },
+    {
+      "id": "L005-e10",
+      "type": "order",
+      "level": 1,
+      "concept": "imperative",
+      "prompt": "Giri a sinistra alla fontana (forma di cortesia).",
+      "answers": ["Tournez à gauche à la fontaine."],
+      "distractors": ["au"],
+      "explain_it": "Con la fontana si usa à la fontaine: l'articolo femminile la non si contrae con à."
+    },
+    {
+      "id": "L005-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "present-er",
+      "text": "Nous ___ le boulevard.",
+      "answers": ["traversons"],
+      "hint": "(traverser, presente)",
+      "prompt": "Attraversiamo il viale.",
+      "explain_it": "Con nous il presente dei verbi in -er prende la desinenza -ons."
+    },
+    {
+      "id": "L005-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "etre",
+      "text": "Elle ne ___ pas d'ici.",
+      "answers": ["est"],
+      "hint": "(être, presente)",
+      "prompt": "Lei non è di qui.",
+      "explain_it": "Con elle il verbo être è est; la negazione ne ... pas incornicia il verbo."
+    },
+    {
+      "id": "L005-e13",
+      "type": "cloze",
+      "level": 1,
+      "concept": "articles-definite",
+      "text": "Je cherche ___ métro Saint-Michel.",
+      "answers": ["le"],
+      "hint": "(articolo determinativo maschile)",
+      "prompt": "Cerco la metropolitana Saint-Michel.",
+      "explain_it": "Métro è maschile, quindi l'articolo determinativo è le, non la."
+    },
+    {
+      "id": "L005-e14",
+      "type": "cloze",
+      "level": 1,
+      "concept": "possessives",
+      "text": "Merci de ___ patience.",
+      "answers": ["votre"],
+      "hint": "(possessivo di vous)",
+      "prompt": "Grazie per la sua pazienza.",
+      "explain_it": "Con vous (Lei) il possessivo è votre, che concorda con il nome singolare patience."
+    },
+    {
+      "id": "L005-e15",
+      "type": "cloze",
+      "level": 1,
+      "concept": "de-after-negation",
+      "text": "Je n'ai pas ___ plan.",
+      "answers": ["de"],
+      "hint": "(dopo la negazione)",
+      "prompt": "Non ho una pianta.",
+      "explain_it": "Dopo una negazione l'articolo indeterminativo un/une diventa de."
+    },
+    {
+      "id": "L005-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "present-er",
+      "prompt": "Cerchiamo la fermata.",
+      "answers": ["Nous cherchons la station.", "On cherche la station."],
+      "explain_it": "Con nous la forma è cherchons; on è un'alternativa colloquiale, molto usata."
+    },
+    {
+      "id": "L005-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "present-er",
+      "ask": "Traduci in francese (tu)",
+      "prompt": "Cerchi una pianta della città?",
+      "answers": ["Tu cherches un plan de la ville ?", "Est-ce que tu cherches un plan de la ville ?", "Cherches-tu un plan de la ville ?"],
+      "explain_it": "Con tu la forma è cherches; la domanda si può fare con est-ce que, con l'intonazione o con l'inversione."
+    },
+    {
+      "id": "L005-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "demonstratives",
+      "prompt": "Ecco la città!",
+      "answers": ["Voilà la ville !", "Voici la ville !"],
+      "explain_it": "Per presentare qualcosa si usa voilà o voici seguito dal nome con l'articolo."
+    },
+    {
+      "id": "L005-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "imperative",
+      "ask": "Traduci in francese (forma di cortesia)",
+      "prompt": "Aspetti un attimo.",
+      "answers": ["Attendez une minute.", "Attendez un instant."],
+      "explain_it": "Con vous l'imperativo di attendre è attendez, senza il pronome."
+    },
+    {
+      "id": "L005-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "imperative",
+      "ask": "Traduci in francese (forma di cortesia)",
+      "prompt": "Giri alla fontana.",
+      "answers": ["Tournez à la fontaine.", "Tournez vers la fontaine."],
+      "explain_it": "Tourner con à indica il punto in cui si gira; con vers si indica la direzione."
+    },
+    {
+      "id": "L005-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "register",
+      "ask": "Traduci in francese",
+      "prompt": "Scusi, signora.",
+      "answers": ["Excusez-moi, madame.", "Excusez-moi madame."],
+      "explain_it": "Per rivolgersi con cortesia a una signora si usa Excusez-moi e madame, con vous."
+    },
+    {
+      "id": "L005-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "gender",
+      "ask": "Traduci in francese (parla una donna)",
+      "prompt": "Mi dispiace.",
+      "answers": ["Je suis désolée."],
+      "explain_it": "Quando parla una donna, désolé prende la -e del femminile."
+    },
+    {
+      "id": "L005-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "possessives",
+      "ask": "Traduci in francese (forma di cortesia)",
+      "prompt": "Grazie per il suo tempo.",
+      "answers": ["Merci de votre temps.", "Merci pour votre temps.", "Merci beaucoup pour votre temps."],
+      "explain_it": "Con vous il possessivo è votre, sia per il maschile sia per il femminile singolare."
+    },
+    {
+      "id": "L005-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "de-after-negation",
+      "ask": "Traduci in francese",
+      "prompt": "Non ho un orologio.",
+      "answers": ["Je n'ai pas de montre."],
+      "explain_it": "Dopo la negazione pas l'articolo un/une diventa de: je n'ai pas de montre."
+    },
+    {
+      "id": "L005-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "etre",
+      "ask": "Traduci in francese (parla una donna)",
+      "prompt": "Non sono parigina.",
+      "answers": ["Je ne suis pas parisienne."],
+      "explain_it": "Con je il verbo être è suis; il nome di nazionalità o provenienza va al femminile con -ienne quando parla una donna."
+    },
+    {
+      "id": "L005-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "etre",
+      "ask": "Traduci in francese (tu)",
+      "prompt": "Sei di qui?",
+      "answers": ["Tu es d'ici ?", "Es-tu d'ici ?", "Est-ce que tu es d'ici ?"],
+      "explain_it": "Con tu il verbo être è es; d'ici significa «di qui» e si costruisce con de + ici."
+    },
+    {
+      "id": "L005-e27",
+      "type": "cloze",
+      "level": 2,
+      "concept": "present-er",
+      "text": "Vous ___ la station de métro ?",
+      "answers": ["cherchez"],
+      "hint": "(chercher, presente)",
+      "prompt": "Cercate la fermata della metropolitana?",
+      "explain_it": "Con vous la desinenza dei verbi in -er è -ez."
+    },
+    {
+      "id": "L005-e28",
+      "type": "cloze",
+      "level": 2,
+      "concept": "imperative",
+      "text": "___ à gauche, puis attendez.",
+      "answers": ["Tournez"],
+      "hint": "(tourner, imperativo di vous)",
+      "prompt": "Giri a sinistra, poi aspetti.",
+      "explain_it": "L'imperativo di cortesia dei verbi in -er è uguale alla forma vous senza pronome: tournez."
+    },
+    {
+      "id": "L005-e29",
+      "type": "cloze",
+      "level": 2,
+      "concept": "demonstratives",
+      "text": "___ le plan de la ville !",
+      "answers": ["Voilà", "Voici"],
+      "hint": "(presentare qualcosa)",
+      "prompt": "Ecco la pianta della città!",
+      "explain_it": "Voilà e voici hanno lo stesso valore di «ecco»; voici è più usato per ciò che è vicino."
+    },
+    {
+      "id": "L005-e30",
+      "type": "cloze",
+      "level": 2,
+      "concept": "negation",
+      "text": "Je ne suis ___ de Paris.",
+      "answers": ["pas"],
+      "hint": "(negazione)",
+      "prompt": "Non sono di Parigi.",
+      "explain_it": "La negazione con être si costruisce con ne ... pas attorno al verbo."
+    },
+    {
+      "id": "L005-e31",
+      "type": "dictation",
+      "level": 2,
+      "concept": "demonstratives",
+      "text": "Voilà le métro, madame.",
+      "explain_it": "Voilà si pronuncia in modo unito, con la e di le che si perde nel parlato veloce."
+    },
+    {
+      "id": "L005-e32",
+      "type": "dictation",
+      "level": 2,
+      "concept": "liaison",
+      "text": "Vous êtes ici, monsieur.",
+      "explain_it": "Tra vous e êtes si fa la liaison: la -s si pronuncia come una z."
+    },
+    {
+      "id": "L005-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "present-er",
+      "ask": "Traduci in francese (tu la forma di cortesia con monsieur)",
+      "prompt": "Scusi signore, cerco il viale Saint-Michel.",
+      "answers": ["Excusez-moi, monsieur, je cherche le boulevard Saint-Michel.", "Excusez-moi monsieur, je cherche le boulevard Saint-Michel."],
+      "explain_it": "Si combinano il registro di cortesia, il presente di chercher e l'articolo maschile le davanti al nome del viale."
+    },
+    {
+      "id": "L005-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "gender",
+      "ask": "Traduci in francese (parla una donna)",
+      "prompt": "Mi dispiace, signore, ma non sono parigina.",
+      "answers": ["Je suis désolée, monsieur, mais je ne suis pas parisienne.", "Je suis désolée, monsieur, mais je ne suis pas parisienne"],
+      "explain_it": "Qui si lavora insieme su accordo di genere, negazione con être e registro di cortesia."
+    },
+    {
+      "id": "L005-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "imperative",
+      "ask": "Traduci in francese (forma di cortesia)",
+      "prompt": "Ecco la pianta: aspetti un minuto e poi attraversi il viale.",
+      "answers": ["Voilà le plan : attendez une minute, puis traversez le boulevard.", "Voici le plan : attendez une minute et puis traversez le boulevard."],
+      "explain_it": "Due imperativi di cortesia in sequenza, collegati da puis o et puis, e una presentazione con voilà."
+    },
+    {
+      "id": "L005-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "questions",
+      "ask": "Volgi alla forma di cortesia (vous), mantenendo la domanda",
+      "prompt": "Cerchi la metropolitana? (tu)",
+      "answers": ["Vous cherchez le métro ?", "Est-ce que vous cherchez le métro ?", "Cherchez-vous le métro ?"],
+      "explain_it": "Passando dal tu al vous cambiano la desinenza del verbo e il pronome; l'inversione Cherchez-vous è la forma più formale."
+    },
+    {
+      "id": "L005-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "gender",
+      "ask": "Volgi al femminile (chi parla è una donna)",
+      "prompt": "Je suis désolé.",
+      "answers": ["Je suis désolée."],
+      "explain_it": "Il femminile di désolé si ottiene aggiungendo -e: désolée."
+    },
+    {
+      "id": "L005-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "etre",
+      "ask": "Volgi alla forma negativa",
+      "prompt": "Elle est parisienne.",
+      "answers": ["Elle n'est pas parisienne."],
+      "explain_it": "Con elle il verbo è est; la negazione ne ... pas si pone attorno al verbo, con elisione di ne davanti a est."
+    },
+    {
+      "id": "L005-e39",
+      "type": "write",
+      "level": 3,
+      "concept": "de-after-negation",
+      "ask": "Volgi alla forma negativa",
+      "prompt": "Ho una pianta della città.",
+      "answers": ["Je n'ai pas de plan de la ville."],
+      "explain_it": "Nella frase negativa l'articolo indeterminativo una diventa de; l'articolo de la del complemento di specificazione resta invariato."
+    },
+    {
+      "id": "L005-e40",
+      "type": "write",
+      "level": 3,
+      "concept": "register",
+      "ask": "Traduci in francese",
+      "prompt": "Scusi signora, dov'è la fermata?",
+      "answers": ["Excusez-moi, madame, où est la station ?", "Excusez-moi madame, où est la station ?"],
+      "explain_it": "Con una signora sconosciuta si usa Excusez-moi, madame, e poi la domanda con où."
+    },
+    {
+      "id": "L005-e41",
+      "type": "write",
+      "level": 3,
+      "concept": "adjective-agreement",
+      "ask": "Traduci in francese (parla un uomo, rivolto a una donna)",
+      "prompt": "Grazie mille, signora, lei è molto gentile.",
+      "answers": ["Merci beaucoup, madame, vous êtes très gentille.", "Merci beaucoup, madame, vous êtes très aimable."],
+      "explain_it": "L'aggettivo gentil prende la -le del femminile quando si riferisce a una donna; très è invariabile."
+    },
+    {
+      "id": "L005-e42",
+      "type": "write",
+      "level": 3,
+      "concept": "de-after-negation",
+      "ask": "Traduci in francese (parla una donna)",
+      "prompt": "Mi dispiace, signora, ma non ho un orologio.",
+      "answers": ["Je suis désolée, [madame, |]je n'ai pas de montre."],
+      "explain_it": "Anche qui un diventa de dopo la negazione; la parte tra parentesi quadre è facoltativa."
+    },
+    {
+      "id": "L005-e43",
+      "type": "dictation",
+      "level": 3,
+      "concept": "pronunciation",
+      "text": "Monsieur, attendez un instant, je regarde le plan.",
+      "explain_it": "Attendez e un instant si collegano nel parlato: la t finale non si pronuncia e la vocale successiva forma una sillaba unica."
+    },
+    {
+      "id": "L005-e44",
+      "type": "flash",
+      "level": 1,
+      "concept": "present-er",
+      "front": "Je cherche: quali significati italiani?",
+      "back": "«Cerco» e «sto cercando». Il presente francese copre entrambi; non serve una forma progressiva separata.",
+      "explain_it": "Questa è la differenza più evidente rispetto all'inglese, dove I am looking è una forma diversa."
+    },
+    {
+      "id": "L005-e45",
+      "type": "flash",
+      "level": 2,
+      "concept": "imperative",
+      "front": "Come si forma l'imperativo di cortesia (vous) dei verbi in -er?",
+      "back": "Si prende la forma vous e si toglie il pronome: vous attendez → attendez; vous traversez → traversez; vous tournez → tournez.",
+      "explain_it": "Serve a dare indicazioni in forma di cortesia; la desinenza -ez resta identica."
+    },
+    {
+      "id": "L005-e46",
+      "type": "flash",
+      "level": 2,
+      "concept": "demonstratives",
+      "front": "Voici o voilà: quale usare?",
+      "back": "Voici per ciò che è vicino a chi parla, voilà per ciò che è più lontano; nell'uso comune voilà va bene in entrambi i casi.",
+      "explain_it": "Entrambi significano «ecco» e si usano per presentare qualcosa."
+    }
+  ]
+}
