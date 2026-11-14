@@ -200,6 +200,56 @@
       "it": "tornare indietro; girare, rivoltare",
       "pos": "v",
       "note": "je suis retourné (intr.), j'ai retourné (tr.)"
+    },
+    {
+      "fr": "avant-hier",
+      "it": "l'altro ieri",
+      "pos": "adv"
+    },
+    {
+      "fr": "la connexion",
+      "it": "la connessione",
+      "pos": "n"
+    },
+    {
+      "fr": "le domicile",
+      "it": "il domicilio",
+      "pos": "n",
+      "note": "livré à domicile"
+    },
+    {
+      "fr": "l'hôpital (m.)",
+      "it": "l'ospedale",
+      "pos": "n",
+      "note": "pl. les hôpitaux"
+    },
+    {
+      "fr": "le sénior / la sénior",
+      "it": "l'anziano/a, il/la senior",
+      "pos": "n"
+    },
+    {
+      "fr": "promener",
+      "it": "portare a passeggio",
+      "pos": "v",
+      "note": "promener le chien"
+    },
+    {
+      "fr": "le rangement",
+      "it": "il riordino, il contenere",
+      "pos": "n",
+      "note": "une boîte de rangement"
+    },
+    {
+      "fr": "ranger",
+      "it": "mettere in ordine, riporre",
+      "pos": "v"
+    },
+    {
+      "fr": "dessus",
+      "it": "sopra",
+      "pos": "adv",
+      "note": "le voisin du dessus; là-dessous = lì sotto"
     }
   ],
   "expressions": [

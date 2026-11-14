@@ -145,6 +145,12 @@
       "it": "nuotare",
       "pos": "v",
       "note": "savoir nager"
+    },
+    {
+      "fr": "repasser",
+      "it": "ripassare (passare di nuovo); stirare",
+      "pos": "v",
+      "note": "si coniuga con être o avoir come passer"
     }
   ],
   "expressions": [

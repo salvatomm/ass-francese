@@ -231,6 +231,75 @@
       "fr": "tranquille",
       "it": "tranquillo",
       "pos": "adj"
+    },
+    {
+      "fr": "la côte",
+      "it": "la costa",
+      "pos": "n",
+      "note": "la Côte d'Azur = la Costa Azzurra"
+    },
+    {
+      "fr": "le dieu",
+      "it": "il dio",
+      "pos": "n",
+      "note": "pl. les dieux"
+    },
+    {
+      "fr": "hors taxes",
+      "it": "tasse escluse",
+      "pos": "expr"
+    },
+    {
+      "fr": "merveilleux / merveilleuse",
+      "it": "meraviglioso",
+      "pos": "adj"
+    },
+    {
+      "fr": "le moins de",
+      "it": "il minor numero di",
+      "pos": "expr",
+      "note": "les moments où il y a le moins de monde"
+    },
+    {
+      "fr": "monter à cheval",
+      "it": "andare a cavallo",
+      "pos": "expr"
+    },
+    {
+      "fr": "nager",
+      "it": "nuotare",
+      "pos": "v"
+    },
+    {
+      "fr": "la période",
+      "it": "il periodo",
+      "pos": "n"
+    },
+    {
+      "fr": "reposant / reposante",
+      "it": "riposante",
+      "pos": "adj"
+    },
+    {
+      "fr": "saturé(e)",
+      "it": "saturo, pieno zeppo",
+      "pos": "adj"
+    },
+    {
+      "fr": "soit ... soit",
+      "it": "o ... o, sia ... sia",
+      "pos": "expr"
+    },
+    {
+      "fr": "sous-marin / sous-marine",
+      "it": "subacqueo, sottomarino",
+      "pos": "adj",
+      "note": "la plongée sous-marine"
+    },
+    {
+      "fr": "le touriste (m./f.)",
+      "it": "il turista",
+      "pos": "n"
     }
   ],
   "expressions": [
@@ -741,6 +810,17 @@
       "front": "Savoir o pouvoir: quale verbo si usa per la capacità e quale per la possibilità?",
       "back": "Savoir indica una capacità acquisita (je sais nager, so nuotare). Pouvoir indica possibilità o permesso (tu peux entrer, puoi entrare; on peut nager ici, è permesso).",
       "note": "Savoir regge l'infinito senza preposizione."
+    },
+    {
+      "id": "L064-e38",
+      "type": "write",
+      "level": 2,
+      "prompt": "Mio figlio sa nuotare ma non sa andare a cavallo.",
+      "answers": [
+        "Mon fils sait nager mais il ne sait pas monter à cheval."
+      ],
+      "concept": "present-irregular",
+      "explain_it": "Per la capacità si usa « savoir » + infinito: « il sait nager », « il ne sait pas monter à cheval »."
     }
   ]
 }

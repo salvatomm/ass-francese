@@ -288,6 +288,103 @@
       "it": "infischiarsene",
       "pos": "v",
       "note": "je m'en fiche"
+    },
+    {
+      "fr": "pour autant",
+      "it": "per questo, ciò non toglie che",
+      "pos": "expr",
+      "note": "spesso con negazione: pas pour autant"
+    },
+    {
+      "fr": "bizarre",
+      "it": "strano",
+      "pos": "adj",
+      "note": "invariabile al femminile"
+    },
+    {
+      "fr": "causer",
+      "it": "chiacchierare, parlare",
+      "pos": "v",
+      "note": "familiare in questo senso; altrimenti = causare"
+    },
+    {
+      "fr": "complètement",
+      "it": "completamente",
+      "pos": "adv"
+    },
+    {
+      "fr": "le corps",
+      "it": "il corpo",
+      "pos": "n",
+      "note": "pl. les corps"
+    },
+    {
+      "fr": "costaud / costaude",
+      "it": "robusto, forzuto",
+      "pos": "adj",
+      "note": "familiare"
+    },
+    {
+      "fr": "défendre",
+      "it": "difendere",
+      "pos": "v",
+      "note": "se défendre = difendersi; anche: vietare"
+    },
+    {
+      "fr": "démasquer",
+      "it": "smascherare",
+      "pos": "v"
+    },
+    {
+      "fr": "directement",
+      "it": "direttamente",
+      "pos": "adv"
+    },
+    {
+      "fr": "exact / exacte",
+      "it": "esatto",
+      "pos": "adj",
+      "note": "c'est exact = è vero, è esatto"
+    },
+    {
+      "fr": "l'infusion (f.)",
+      "it": "l'infuso, la tisana",
+      "pos": "n"
+    },
+    {
+      "fr": "unique",
+      "it": "unico",
+      "pos": "adj",
+      "note": "invariabile al femminile"
+    },
+    {
+      "fr": "où que",
+      "it": "dovunque",
+      "pos": "expr",
+      "note": "+ congiuntivo"
+    },
+    {
+      "fr": "qui que",
+      "it": "chiunque",
+      "pos": "expr",
+      "note": "+ congiuntivo"
+    },
+    {
+      "fr": "quel(le) que",
+      "it": "qualunque",
+      "pos": "expr",
+      "note": "+ congiuntivo; quelle que soit = qualunque sia; concorda con il soggetto"
+    },
+    {
+      "fr": "propre",
+      "it": "pulito",
+      "pos": "adj",
+      "note": "dopo il nome = pulito; prima = proprio (mon propre argent)"
+    },
+    {
+      "fr": "prudent / prudente",
+      "it": "prudente",
+      "pos": "adj"
     }
   ],
   "expressions": [
@@ -847,6 +944,18 @@
       "correct": 0,
       "explain_it": "Quoi que vuole il congiuntivo: choisisses; choisis è indicativo, choisiras futuro, choisir infinito.",
       "id": "L088-e41"
+    },
+    {
+      "id": "L088-e42",
+      "type": "write",
+      "level": 2,
+      "concept": "imperative",
+      "prompt": "Prendi una tisana, ma sii prudente.",
+      "answers": [
+        "Prends une infusion, mais sois prudent[e|].",
+        "Prenez une infusion, mais soyez prudent[e|s|es]."
+      ],
+      "explain_it": "Sois è l'imperativo irregolare di être; prudent si accorda; infusion = tisana."
     }
   ]
 }

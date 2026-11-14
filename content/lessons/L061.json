@@ -301,6 +301,130 @@
       "it": "grande, importante",
       "pos": "adj",
       "note": "davanti al nome: importante; dopo il nome: alto"
+    },
+    {
+      "fr": "argentique",
+      "it": "analogico (fotografia)",
+      "pos": "adj",
+      "note": "opposto di numérique"
+    },
+    {
+      "fr": "l'auditeur (m.)",
+      "it": "l'ascoltatore",
+      "pos": "n",
+      "note": "f. l'auditrice"
+    },
+    {
+      "fr": "la Corse",
+      "it": "la Corsica",
+      "pos": "n"
+    },
+    {
+      "fr": "en définitive",
+      "it": "in definitiva",
+      "pos": "expr"
+    },
+    {
+      "fr": "doué(e)",
+      "it": "dotato, portato",
+      "pos": "adj",
+      "note": "être doué pour = essere portato per"
+    },
+    {
+      "fr": "la grand-mère",
+      "it": "la nonna",
+      "pos": "n",
+      "note": "pl. les grands-mères; grand invariabile"
+    },
+    {
+      "fr": "le grand-père",
+      "it": "il nonno",
+      "pos": "n",
+      "note": "pl. les grands-pères"
+    },
+    {
+      "fr": "l'intérêt (m.)",
+      "it": "l'interesse",
+      "pos": "n"
+    },
+    {
+      "fr": "médiatique",
+      "it": "mediatico",
+      "pos": "adj",
+      "note": "le succès médiatique"
+    },
+    {
+      "fr": "la Métropole",
+      "it": "la Francia continentale",
+      "pos": "n",
+      "note": "detta così dai Corsi e dagli abitanti dei territori d'oltremare"
+    },
+    {
+      "fr": "numérique",
+      "it": "digitale",
+      "pos": "adj"
+    },
+    {
+      "fr": "s'occuper (de)",
+      "it": "occuparsi (di)",
+      "pos": "v"
+    },
+    {
+      "fr": "ordinaire",
+      "it": "ordinario, normale",
+      "pos": "adj"
+    },
+    {
+      "fr": "la peinture",
+      "it": "la pittura",
+      "pos": "n"
+    },
+    {
+      "fr": "le photographe / la photographe",
+      "it": "il fotografo / la fotografa",
+      "pos": "n",
+      "note": "falso amico: la photographie = la fotografia"
+    },
+    {
+      "fr": "photographier",
+      "it": "fotografare",
+      "pos": "v"
+    },
+    {
+      "fr": "prendre en photo",
+      "it": "fotografare",
+      "pos": "expr"
+    },
+    {
+      "fr": "la timidité",
+      "it": "la timidezza",
+      "pos": "n"
+    },
+    {
+      "fr": "à travers",
+      "it": "attraverso, per",
+      "pos": "prep",
+      "note": "flâner à travers la ville"
+    },
+    {
+      "fr": "le discours",
+      "it": "il discorso",
+      "pos": "n"
+    },
+    {
+      "fr": "brillamment",
+      "it": "brillantemente",
+      "pos": "adv"
+    },
+    {
+      "fr": "insister",
+      "it": "insistere",
+      "pos": "v"
+    },
+    {
+      "fr": "en revanche",
+      "it": "in compenso, invece",
+      "pos": "expr"
     }
   ],
   "expressions": [
@@ -894,6 +1018,29 @@
         "nouveaux"
       ],
       "explain_it": "« Nouvelles » è al femminile perché concorda con « personnes », e l'espressione fissa resta « faire la connaissance de »."
+    },
+    {
+      "id": "L061-e43",
+      "type": "cloze",
+      "level": 2,
+      "text": "Je me promène ___ la ville tous les matins.",
+      "answers": [
+        "à travers"
+      ],
+      "prompt": "Passeggio per la città ogni mattina.",
+      "concept": "prepositions",
+      "explain_it": "« À travers » indica un percorso che attraversa un luogo, come in « flâner à travers la ville »."
+    },
+    {
+      "id": "L061-e44",
+      "type": "write",
+      "level": 2,
+      "prompt": "Mia nonna si occupa dei miei figli.",
+      "answers": [
+        "Ma grand-mère s'occupe de mes enfants."
+      ],
+      "concept": "pronominal-verbs",
+      "explain_it": "« S'occuper de » è pronominale e vuole « de »; « grand-mère » ha « grand » invariabile al femminile."
     }
   ]
 }

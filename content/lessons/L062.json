@@ -225,6 +225,113 @@
       "fr": "doucement",
       "it": "dolcemente, piano",
       "pos": "adv"
+    },
+    {
+      "fr": "l'approche (f.)",
+      "it": "l'approccio",
+      "pos": "n"
+    },
+    {
+      "fr": "arracher",
+      "it": "strappare",
+      "pos": "v",
+      "note": "s'arracher les cheveux = strapparsi i capelli"
+    },
+    {
+      "fr": "bientôt",
+      "it": "presto, tra poco",
+      "pos": "adv"
+    },
+    {
+      "fr": "casser",
+      "it": "rompere",
+      "pos": "v",
+      "note": "se casser la tête = preoccuparsi"
+    },
+    {
+      "fr": "coder",
+      "it": "programmare, scrivere codice",
+      "pos": "v"
+    },
+    {
+      "fr": "continuellement",
+      "it": "continuamente",
+      "pos": "adv"
+    },
+    {
+      "fr": "déconseiller",
+      "it": "sconsigliare",
+      "pos": "v",
+      "note": "déconseiller à qqn de + inf."
+    },
+    {
+      "fr": "décourageant(e)",
+      "it": "scoraggiante",
+      "pos": "adj"
+    },
+    {
+      "fr": "doux / douce",
+      "it": "dolce, mite",
+      "pos": "adj",
+      "note": "faire les yeux doux = fare gli occhi dolci"
+    },
+    {
+      "fr": "l'école (f.)",
+      "it": "la scuola",
+      "pos": "n"
+    },
+    {
+      "fr": "l'épaule (f.)",
+      "it": "la spalla",
+      "pos": "n"
+    },
+    {
+      "fr": "le fusil",
+      "it": "il fucile",
+      "pos": "n",
+      "note": "changer son fusil d'épaule = cambiare idea"
+    },
+    {
+      "fr": "impossible",
+      "it": "impossibile",
+      "pos": "adj"
+    },
+    {
+      "fr": "marocain(e)",
+      "it": "marocchino",
+      "pos": "adj"
+    },
+    {
+      "fr": "le ministre (m./f.)",
+      "it": "il ministro",
+      "pos": "n"
+    },
+    {
+      "fr": "pédagogique",
+      "it": "pedagogico, didattico",
+      "pos": "adj"
+    },
+    {
+      "fr": "poursuivre",
+      "it": "proseguire, continuare",
+      "pos": "v",
+      "note": "come suivre"
+    },
+    {
+      "fr": "le professeur",
+      "it": "il professore",
+      "pos": "n",
+      "note": "familiare: le prof; f. la professeure"
+    },
+    {
+      "fr": "le programmateur / la programmatrice",
+      "it": "il programmatore / la programmatrice",
+      "pos": "n"
+    },
+    {
+      "fr": "le savon",
+      "it": "il sapone",
+      "pos": "n"
     }
   ],
   "expressions": [
@@ -791,6 +898,18 @@
       "concept": "pronunciation",
       "text": "Il fait un temps doux et sec.",
       "explain_it": "Doux si legge [du]: la x finale è muta e « ou » vale come la u italiana."
+    },
+    {
+      "id": "L062-e41",
+      "type": "write",
+      "level": 2,
+      "prompt": "Ti sconsiglio di partire adesso.",
+      "answers": [
+        "Je te déconseille de partir maintenant.",
+        "Je vous déconseille de partir maintenant."
+      ],
+      "concept": "vocab",
+      "explain_it": "« Déconseiller à qqn de » + infinito è il contrario di « conseiller »; tu o vous sono entrambi possibili."
     }
   ]
 }

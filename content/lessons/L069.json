@@ -222,6 +222,62 @@
       "fr": "le vétérinaire",
       "it": "il veterinario",
       "pos": "n"
+    },
+    {
+      "fr": "l'animal (m.)",
+      "it": "l'animale",
+      "pos": "n",
+      "note": "pl. les animaux"
+    },
+    {
+      "fr": "le bijoutier / la bijoutière",
+      "it": "il gioielliere / la gioielliera",
+      "pos": "n"
+    },
+    {
+      "fr": "le chauffeur / la chauffeuse",
+      "it": "l'autista",
+      "pos": "n",
+      "note": "chauffeur de taxi"
+    },
+    {
+      "fr": "l'éboueur / l'éboueuse",
+      "it": "lo spazzino",
+      "pos": "n"
+    },
+    {
+      "fr": "le jardinier / la jardinière",
+      "it": "il giardiniere",
+      "pos": "n"
+    },
+    {
+      "fr": "mentir",
+      "it": "mentire",
+      "pos": "v",
+      "note": "je mens, nous mentons"
+    },
+    {
+      "fr": "le pou",
+      "it": "il pidocchio",
+      "pos": "n",
+      "note": "pl. les poux; moche comme un pou"
+    },
+    {
+      "fr": "le remède",
+      "it": "il rimedio",
+      "pos": "n",
+      "note": "un remède de cheval"
+    },
+    {
+      "fr": "la vache",
+      "it": "la mucca",
+      "pos": "n"
+    },
+    {
+      "fr": "vachement",
+      "it": "tremendamente, molto",
+      "pos": "adv",
+      "note": "familiare"
     }
   ],
   "expressions": [

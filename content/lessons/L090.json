@@ -258,6 +258,148 @@
       "fr": "le ruisseau",
       "it": "il ruscello",
       "pos": "n"
+    },
+    {
+      "fr": "abîmer",
+      "it": "rovinare, danneggiare",
+      "pos": "v",
+      "note": "s'abîmer = rovinarsi"
+    },
+    {
+      "fr": "s'avérer",
+      "it": "rivelarsi",
+      "pos": "v",
+      "note": "s'avérer + aggettivo (très utile)"
+    },
+    {
+      "fr": "le bronze",
+      "it": "il bronzo",
+      "pos": "n"
+    },
+    {
+      "fr": "la chaleur",
+      "it": "il calore, il caldo",
+      "pos": "n",
+      "note": "la vague de chaleur = l'ondata di caldo"
+    },
+    {
+      "fr": "la coquille",
+      "it": "il guscio, la conchiglia",
+      "pos": "n"
+    },
+    {
+      "fr": "le crème",
+      "it": "il caffè con latte (al bar)",
+      "pos": "n",
+      "note": "abbreviazione di le café crème"
+    },
+    {
+      "fr": "déchiqueter",
+      "it": "fare a pezzi, dilaniare",
+      "pos": "v",
+      "note": "je déchiquète"
+    },
+    {
+      "fr": "embrasser",
+      "it": "baciare; abbracciare",
+      "pos": "v",
+      "note": "vous embrasser = in chiusura di lettera, un abbraccio"
+    },
+    {
+      "fr": "enfiler",
+      "it": "infilare",
+      "pos": "v"
+    },
+    {
+      "fr": "et ... et",
+      "it": "sia ... sia, e ... e",
+      "pos": "expr",
+      "note": "j'aime et les petits pois et les haricots"
+    },
+    {
+      "fr": "l'expert (m.)",
+      "it": "l'esperto",
+      "pos": "n",
+      "note": "l'expert / l'experte"
+    },
+    {
+      "fr": "fabriquer",
+      "it": "fabbricare",
+      "pos": "v"
+    },
+    {
+      "fr": "furieux / furieuse",
+      "it": "furioso",
+      "pos": "adj"
+    },
+    {
+      "fr": "le haricot",
+      "it": "il fagiolo",
+      "pos": "n",
+      "note": "le haricot vert = il fagiolino"
+    },
+    {
+      "fr": "l'Hexagone (m.)",
+      "it": "l'Esagono (la Francia)",
+      "pos": "n",
+      "note": "nome familiare della Francia metropolitana"
+    },
+    {
+      "fr": "l'ignorance (f.)",
+      "it": "l'ignoranza",
+      "pos": "n",
+      "note": "falso amico parziale: ignorer = non sapere"
+    },
+    {
+      "fr": "le marié / la mariée",
+      "it": "lo sposo / la sposa",
+      "pos": "n"
+    },
+    {
+      "fr": "mélanger",
+      "it": "mescolare",
+      "pos": "v",
+      "note": "je mélange; nous mélangeons"
+    },
+    {
+      "fr": "la moule",
+      "it": "la cozza",
+      "pos": "n",
+      "note": "le moule = lo stampo"
+    },
+    {
+      "fr": "le petit pois",
+      "it": "il pisello",
+      "pos": "n",
+      "note": "pl. les petits pois"
+    },
+    {
+      "fr": "le sculpteur / la sculptrice",
+      "it": "lo scultore / la scultrice",
+      "pos": "n"
+    },
+    {
+      "fr": "la somme",
+      "it": "la somma",
+      "pos": "n",
+      "note": "le somme = il pisolino"
+    },
+    {
+      "fr": "tendre",
+      "it": "tenero, dolce",
+      "pos": "adj",
+      "note": "invariabile al femminile; pas tendre = poco indulgente"
+    },
+    {
+      "fr": "théorique",
+      "it": "teorico",
+      "pos": "adj",
+      "note": "invariabile al femminile"
+    },
+    {
+      "fr": "volumineux / volumineuse",
+      "it": "voluminoso",
+      "pos": "adj"
     }
   ],
   "expressions": [
@@ -764,6 +906,31 @@
       "front": "Che cosa significa il verbo 'ignorer'?",
       "back": "Davanti a un'informazione: non sapere, non essere al corrente di (j'ignore son adresse). Riferito a una persona può anche voler dire 'non dare retta' (il m'ignore).",
       "explain_it": "Ignorer è un falso amico parziale: il senso più comune con un'informazione è 'non sapere'."
+    },
+    {
+      "id": "L090-e38",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Lo scultore ha fabbricato un piccolo bronzo.",
+      "answers": [
+        "Le sculpteur a fabriqué un petit bronze.",
+        "La sculptrice a fabriqué un petit bronze."
+      ],
+      "explain_it": "Fabriquer = fabbricare; sculpteur ha il femminile sculptrice."
+    },
+    {
+      "id": "L090-e39",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "text": "La mariée est ___ : on a abîmé sa robe.",
+      "answers": [
+        "furieuse"
+      ],
+      "hint": "(furioso)",
+      "prompt": "La sposa è furiosa: hanno rovinato il suo vestito.",
+      "explain_it": "Furieux fa il femminile in -euse e si accorda con mariée."
     }
   ]
 }

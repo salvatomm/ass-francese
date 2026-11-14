@@ -276,6 +276,32 @@
       "fr": "la gare",
       "it": "la stazione (ferroviaria)",
       "pos": "n"
+    },
+    {
+      "fr": "amener",
+      "it": "portare, accompagnare (qualcuno)",
+      "pos": "v",
+      "note": "j'amènerai; amener qqn = portare con sé"
+    },
+    {
+      "fr": "l'amoureux / l'amoureuse",
+      "it": "l'innamorato/a, il fidanzato",
+      "pos": "n"
+    },
+    {
+      "fr": "le vocabulaire",
+      "it": "il vocabolario, il lessico",
+      "pos": "n"
+    },
+    {
+      "fr": "qui que ce soit",
+      "it": "chiunque",
+      "pos": "expr"
+    },
+    {
+      "fr": "où que ce soit",
+      "it": "dovunque",
+      "pos": "expr"
     }
   ],
   "expressions": [
@@ -907,6 +933,19 @@
       "concept": "depuis-il-y-a",
       "text": "Ça fait deux heures que j'attends le train, c'est vraiment pénible.",
       "explain_it": "Ça fait + durata + que + presente: l'attesa continua ancora adesso."
+    },
+    {
+      "id": "L068-e47",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Je ___ mes grands-parents à la gare dès que possible.",
+      "answers": [
+        "amènerai"
+      ],
+      "hint": "(amener, futur)",
+      "prompt": "Accompagnerò i miei nonni alla stazione il prima possibile.",
+      "explain_it": "« amener » porta con sé una persona e cambia e in è davanti a una sillaba muta: j'amènerai."
     }
   ]
 }

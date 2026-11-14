@@ -119,6 +119,12 @@
       "it": "continuare",
       "pos": "v",
       "note": "continuer à + infinito"
+    },
+    {
+      "fr": "la valeur",
+      "it": "il valore",
+      "pos": "n",
+      "note": "da valoir"
     }
   ],
   "expressions": [

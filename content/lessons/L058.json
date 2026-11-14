@@ -260,6 +260,53 @@
       "fr": "puisque",
       "it": "dal momento che, visto che",
       "pos": "conj"
+    },
+    {
+      "fr": "le bois",
+      "it": "il legno",
+      "pos": "n",
+      "note": "maisons à pans de bois = case a graticcio"
+    },
+    {
+      "fr": "le bulletin météorologique",
+      "it": "il bollettino meteorologico",
+      "pos": "n",
+      "note": "abbreviato in la météo"
+    },
+    {
+      "fr": "coincé(e)",
+      "it": "bloccato",
+      "pos": "adj",
+      "note": "rester coincé = rimanere bloccato"
+    },
+    {
+      "fr": "le cordon",
+      "it": "il cordone",
+      "pos": "n",
+      "note": "la corde = fune, ma 'a cord' si traduce cordon"
+    },
+    {
+      "fr": "enthousiaste",
+      "it": "entusiasta",
+      "pos": "adj",
+      "note": "invariabile al femminile"
+    },
+    {
+      "fr": "grincheux / grincheuse",
+      "it": "brontolone, scontroso",
+      "pos": "adj"
+    },
+    {
+      "fr": "l'horloge (f.)",
+      "it": "l'orologio (grande, da torre)",
+      "pos": "n",
+      "note": "la Tour de l'Horloge; l'orologio da polso è la montre"
+    },
+    {
+      "fr": "selon",
+      "it": "secondo",
+      "pos": "prep",
+      "note": "selon la météo = secondo il meteo"
     }
   ],
   "expressions": [

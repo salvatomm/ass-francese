@@ -254,6 +254,145 @@
       "fr": "inadmissible",
       "it": "inaccettabile, intollerabile",
       "pos": "adj"
+    },
+    {
+      "fr": "attaquer",
+      "it": "attaccare",
+      "pos": "v"
+    },
+    {
+      "fr": "bien que",
+      "it": "sebbene, benché",
+      "pos": "conj",
+      "note": "+ congiuntivo"
+    },
+    {
+      "fr": "conséquent / conséquente",
+      "it": "consistente, notevole",
+      "pos": "adj",
+      "note": "de manière conséquente = in modo considerevole"
+    },
+    {
+      "fr": "discuter",
+      "it": "discutere",
+      "pos": "v",
+      "note": "discuter de qc"
+    },
+    {
+      "fr": "le document",
+      "it": "il documento",
+      "pos": "n"
+    },
+    {
+      "fr": "l'extrait (m.)",
+      "it": "l'estratto, il brano",
+      "pos": "n"
+    },
+    {
+      "fr": "fraîchement",
+      "it": "da poco, di fresco",
+      "pos": "adv",
+      "note": "fraîchement sorti de = appena uscito da"
+    },
+    {
+      "fr": "désigner",
+      "it": "designare, indicare",
+      "pos": "v"
+    },
+    {
+      "fr": "illustrer",
+      "it": "illustrare",
+      "pos": "v"
+    },
+    {
+      "fr": "l'individu (m.)",
+      "it": "l'individuo",
+      "pos": "n",
+      "note": "spesso con sfumatura sprezzante"
+    },
+    {
+      "fr": "jusqu'à ce que",
+      "it": "finché, fino a quando",
+      "pos": "conj",
+      "note": "+ congiuntivo"
+    },
+    {
+      "fr": "logique",
+      "it": "logico",
+      "pos": "adj",
+      "note": "uguale al femminile"
+    },
+    {
+      "fr": "la manière",
+      "it": "il modo, la maniera",
+      "pos": "n"
+    },
+    {
+      "fr": "le minimum",
+      "it": "il minimo",
+      "pos": "n",
+      "note": "le salaire minimum"
+    },
+    {
+      "fr": "le négociateur / la négociatrice",
+      "it": "il negoziatore / la negoziatrice",
+      "pos": "n"
+    },
+    {
+      "fr": "pourvu que",
+      "it": "purché",
+      "pos": "conj",
+      "note": "+ congiuntivo"
+    },
+    {
+      "fr": "prévoir",
+      "it": "prevedere",
+      "pos": "v",
+      "note": "participio: prévu"
+    },
+    {
+      "fr": "probable",
+      "it": "probabile",
+      "pos": "adj",
+      "note": "uguale al femminile"
+    },
+    {
+      "fr": "publier",
+      "it": "pubblicare",
+      "pos": "v"
+    },
+    {
+      "fr": "quoi que",
+      "it": "qualunque cosa, checché",
+      "pos": "conj",
+      "note": "+ congiuntivo; quoi qu'il en soit = comunque sia"
+    },
+    {
+      "fr": "la réaction",
+      "it": "la reazione",
+      "pos": "n"
+    },
+    {
+      "fr": "se réunir",
+      "it": "riunirsi",
+      "pos": "v"
+    },
+    {
+      "fr": "ridicule",
+      "it": "ridicolo",
+      "pos": "adj",
+      "note": "uguale al femminile"
+    },
+    {
+      "fr": "la stratégie",
+      "it": "la strategia",
+      "pos": "n"
+    },
+    {
+      "fr": "suspendre",
+      "it": "sospendere",
+      "pos": "v",
+      "note": "participio: suspendu"
     }
   ],
   "expressions": [
@@ -811,6 +950,33 @@
       "back": "Termine, scadenza: entro dieci giorni. Non è 'ritardo', che in francese è 'retard'.",
       "note": "Dans un délai de + durata = entro un termine di.",
       "explain_it": "Délai indica il termine di una scadenza, non il ritardo: attenzione al falso amico con l'inglese 'delay' e con l'italiano 'ritardo' (in francese retard)."
+    },
+    {
+      "id": "L081-e41",
+      "level": 2,
+      "type": "cloze",
+      "concept": "subjonctif",
+      "text": "Il faut attendre ___ qu'elle revienne.",
+      "answers": [
+        "jusqu'à ce"
+      ],
+      "hint": "(finché)",
+      "prompt": "Bisogna aspettare finché non torni.",
+      "explain_it": "Jusqu'à ce que è seguito dal congiuntivo (qu'elle revienne): la forma completa è jusqu'à ce que."
+    },
+    {
+      "id": "L081-e43",
+      "level": 2,
+      "type": "write",
+      "concept": "subjonctif",
+      "prompt": "Purché sia d'accordo, firmeremo il documento.",
+      "answers": [
+        "Pourvu qu'il soit d'accord, nous signerons le document.",
+        "Pourvu qu'il soit d'accord, on signera le document.",
+        "Nous signerons le document, pourvu qu'il soit d'accord.",
+        "On signera le document, pourvu qu'il soit d'accord."
+      ],
+      "explain_it": "Pourvu que introduce una condizione e vuole il congiuntivo: qu'il soit."
     }
   ]
 }

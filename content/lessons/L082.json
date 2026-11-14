@@ -307,6 +307,71 @@
       "it": "concedere, accordare",
       "pos": "v",
       "note": "accorder du temps à qqn"
+    },
+    {
+      "fr": "l'autorité (f.)",
+      "it": "l'autorità",
+      "pos": "n"
+    },
+    {
+      "fr": "dépasser",
+      "it": "superare, oltrepassare",
+      "pos": "v",
+      "note": "je ne dépasserai pas cinq minutes = non supererò"
+    },
+    {
+      "fr": "là-dessus",
+      "it": "su questo; a quel punto",
+      "pos": "adv",
+      "note": "avoir une opinion là-dessus; anche: e detto questo"
+    },
+    {
+      "fr": "la direction",
+      "it": "la direzione",
+      "pos": "n"
+    },
+    {
+      "fr": "l'institution (f.)",
+      "it": "l'istituzione",
+      "pos": "n"
+    },
+    {
+      "fr": "intégrant(e)",
+      "it": "integrante",
+      "pos": "adj",
+      "note": "faire partie intégrante de = far parte integrante di"
+    },
+    {
+      "fr": "faire partie (de)",
+      "it": "far parte (di)",
+      "pos": "v"
+    },
+    {
+      "fr": "relatif / relative (à)",
+      "it": "relativo (a)",
+      "pos": "adj"
+    },
+    {
+      "fr": "respecter",
+      "it": "rispettare",
+      "pos": "v",
+      "note": "se faire respecter = farsi rispettare"
+    },
+    {
+      "fr": "le sondeur / la sondeuse",
+      "it": "il sondaggista / la sondaggista",
+      "pos": "n"
+    },
+    {
+      "fr": "tenir (à)",
+      "it": "tenere (a), essere attaccato (a)",
+      "pos": "v",
+      "note": "tenir à qc/qn; y tenir = tenerci"
+    },
+    {
+      "fr": "présidentiel / présidentielle",
+      "it": "presidenziale",
+      "pos": "adj"
     }
   ],
   "expressions": [
@@ -961,6 +1026,30 @@
       "hint": "(être, congiuntivo presente)",
       "prompt": "Non voglio che tu sia solo stasera.",
       "explain_it": "Vouloir que regge il congiuntivo anche in forma negativa: que tu sois, con la forma irregolare di être."
+    },
+    {
+      "id": "L082-e46",
+      "level": 2,
+      "type": "cloze",
+      "concept": "prepositions",
+      "text": "Il tient ___ ses idées.",
+      "answers": [
+        "à"
+      ],
+      "hint": "(tenere a)",
+      "prompt": "Ci tiene alle sue idee.",
+      "explain_it": "Tenir à significa tenere a, essere attaccato a: il complemento è introdotto da à."
+    },
+    {
+      "id": "L082-e48",
+      "level": 2,
+      "type": "write",
+      "concept": "vocab",
+      "prompt": "Questo fa parte del mio lavoro.",
+      "answers": [
+        "[Cela|Ça|Ceci] fait partie de mon travail."
+      ],
+      "explain_it": "Faire partie de = far parte di; in francese non ha preposizione diversa da de."
     }
   ]
 }

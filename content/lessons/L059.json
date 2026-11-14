@@ -203,6 +203,90 @@
       "fr": "grec (m.) / grecque (f.)",
       "it": "greco",
       "pos": "adj"
+    },
+    {
+      "fr": "s'attendre à",
+      "it": "aspettarsi",
+      "pos": "v",
+      "note": "s'attendre à une réponse"
+    },
+    {
+      "fr": "se balader",
+      "it": "andare a spasso",
+      "pos": "v",
+      "note": "familiare"
+    },
+    {
+      "fr": "la bicyclette",
+      "it": "la bicicletta",
+      "pos": "n",
+      "note": "più tecnico di le vélo"
+    },
+    {
+      "fr": "communiquer",
+      "it": "comunicare",
+      "pos": "v"
+    },
+    {
+      "fr": "le danger",
+      "it": "il pericolo",
+      "pos": "n",
+      "note": "a hazard = un risque / un danger"
+    },
+    {
+      "fr": "immédiatement",
+      "it": "immediatamente",
+      "pos": "adv"
+    },
+    {
+      "fr": "maman",
+      "it": "mamma",
+      "pos": "n",
+      "note": "più comune di la mère"
+    },
+    {
+      "fr": "marié(e)",
+      "it": "sposato",
+      "pos": "adj",
+      "note": "être marié = essere sposato"
+    },
+    {
+      "fr": "lancer",
+      "it": "lanciare",
+      "pos": "v",
+      "note": "lancer des dés"
+    },
+    {
+      "fr": "obtenir",
+      "it": "ottenere",
+      "pos": "v"
+    },
+    {
+      "fr": "permettre",
+      "it": "permettere",
+      "pos": "v"
+    },
+    {
+      "fr": "remporter",
+      "it": "vincere, aggiudicarsi",
+      "pos": "v",
+      "note": "remporter la course"
+    },
+    {
+      "fr": "téléphoner",
+      "it": "telefonare",
+      "pos": "v"
+    },
+    {
+      "fr": "utiliser",
+      "it": "usare, utilizzare",
+      "pos": "v"
+    },
+    {
+      "fr": "la mesure",
+      "it": "la misura, il provvedimento",
+      "pos": "n",
+      "note": "mesures d'urgence = misure d'emergenza"
     }
   ],
   "expressions": [
@@ -659,6 +743,18 @@
         "Mon père était un joueur : [chaque semaine|toutes les semaines], il [pariait|jouait] au PMU, mais il ne gagnait jamais."
       ],
       "explain_it": "Le descrizioni e le abitudini del passato sono all'imperfetto, anche con la negazione ne … jamais."
+    },
+    {
+      "id": "L059-e34",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Papà usava la bicicletta per andare al villaggio.",
+      "answers": [
+        "[Papa|Mon père] [utilisait|prenait] sa bicyclette pour aller au village.",
+        "Papa utilisait son vélo pour aller au village."
+      ],
+      "explain_it": "Utiliser e la bicyclette (o le vélo) sono nuovi in questa lezione; l'imperfetto descrive un'abitudine passata."
     }
   ]
 }

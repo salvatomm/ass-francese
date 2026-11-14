@@ -303,6 +303,107 @@
       "it": "circolare",
       "pos": "v",
       "note": "verbo intransitivo"
+    },
+    {
+      "fr": "l'artisan / l'artisane",
+      "it": "l'artigiano",
+      "pos": "n"
+    },
+    {
+      "fr": "l'autocar (m.)",
+      "it": "il pullman",
+      "pos": "n"
+    },
+    {
+      "fr": "catastrophique",
+      "it": "catastrofico",
+      "pos": "adj"
+    },
+    {
+      "fr": "le changement",
+      "it": "il cambiamento",
+      "pos": "n"
+    },
+    {
+      "fr": "climatique",
+      "it": "climatico",
+      "pos": "adj",
+      "note": "il cambiamento climatico"
+    },
+    {
+      "fr": "l'effet de serre (m.)",
+      "it": "l'effetto serra",
+      "pos": "n",
+      "note": "un gaz à effet de serre"
+    },
+    {
+      "fr": "efficace",
+      "it": "efficace",
+      "pos": "adj"
+    },
+    {
+      "fr": "l'élève (m./f.)",
+      "it": "l'allievo, lo studente",
+      "pos": "n"
+    },
+    {
+      "fr": "éliminer",
+      "it": "eliminare",
+      "pos": "v"
+    },
+    {
+      "fr": "le gaz",
+      "it": "il gas",
+      "pos": "n",
+      "note": "invariabile al plurale"
+    },
+    {
+      "fr": "n'importe qui",
+      "it": "chiunque",
+      "pos": "expr"
+    },
+    {
+      "fr": "planétaire",
+      "it": "planetario, globale",
+      "pos": "adj",
+      "note": "le réchauffement planétaire"
+    },
+    {
+      "fr": "pratique",
+      "it": "pratico",
+      "pos": "adj"
+    },
+    {
+      "fr": "le président / la présidente",
+      "it": "il presidente / la presidente",
+      "pos": "n"
+    },
+    {
+      "fr": "ramener",
+      "it": "riaccompagnare, riportare",
+      "pos": "v",
+      "note": "ramener qqn à la maison"
+    },
+    {
+      "fr": "la république",
+      "it": "la repubblica",
+      "pos": "n"
+    },
+    {
+      "fr": "le résultat",
+      "it": "il risultato",
+      "pos": "n"
+    },
+    {
+      "fr": "rouler",
+      "it": "circolare (di veicoli), andare",
+      "pos": "v",
+      "note": "rouler en ville"
+    },
+    {
+      "fr": "le thème",
+      "it": "il tema",
+      "pos": "n"
     }
   ],
   "expressions": [
@@ -931,6 +1032,31 @@
       "front": "Come si costruisce « n'importe » + ...?",
       "back": "n'importe qui (chiunque), n'importe quoi (qualsiasi cosa; anche esclamazione « sciocchezze! »), n'importe où (dovunque). Con un nome: n'importe quel (m.) / n'importe quelle (f.) + nome.",
       "note": "Con un nome si usa l'aggettivo, non « quoi »."
+    },
+    {
+      "id": "L066-e45",
+      "type": "cloze",
+      "level": 2,
+      "concept": "conditionnel",
+      "text": "Si les résultats étaient catastrophiques, nous ___ le changement climatique.",
+      "answers": [
+        "combattrions"
+      ],
+      "hint": "(combattre, condizionale)",
+      "prompt": "Se i risultati fossero catastrofici, combatteremmo il cambiamento climatico.",
+      "explain_it": "Dopo « si » + imperfetto, la principale va al condizionale: combattre diventa « combattrions » (radice dell'infinito senza -e + -ions)."
+    },
+    {
+      "id": "L066-e46",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Chiunque può parlare, se il tema è interessante.",
+      "answers": [
+        "N'importe qui peut parler si le thème est intéressant.",
+        "N'importe qui peut parler, si le thème est intéressant."
+      ],
+      "explain_it": "« n'importe qui » significa « chiunque » ed è seguito da un verbo alla terza persona singolare."
     }
   ]
 }

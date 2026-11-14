@@ -225,6 +225,33 @@
       "fr": "même",
       "it": "stesso",
       "pos": "adj"
+    },
+    {
+      "fr": "l'investissement (m.)",
+      "it": "l'investimento",
+      "pos": "n"
+    },
+    {
+      "fr": "le livre audio",
+      "it": "l'audiolibro",
+      "pos": "n"
+    },
+    {
+      "fr": "spécial / spéciale",
+      "it": "speciale",
+      "pos": "adj",
+      "note": "pl. spéciaux"
+    },
+    {
+      "fr": "suisse",
+      "it": "svizzero",
+      "pos": "adj",
+      "note": "anche nome: un Suisse / une Suisse; la Suisse = la Svizzera"
+    },
+    {
+      "fr": "la tenue vestimentaire",
+      "it": "l'abbigliamento, il dress code",
+      "pos": "n"
     }
   ],
   "expressions": [
@@ -811,6 +838,17 @@
       "front": "Pareil e même: qual è la differenza?",
       "back": "Pareil (uguale, simile) è un aggettivo che concorda: pareil, pareille, pareils, pareilles, e si usa senza articolo (ces films sont pareils). Même (stesso) richiede l'articolo: le même, la même, les mêmes. C'est du pareil au même = è esattamente la stessa cosa.",
       "explain_it": "Pareil descrive somiglianza, même indica identità: per questo si usa con l'articolo."
+    },
+    {
+      "id": "L065-e44",
+      "type": "write",
+      "level": 2,
+      "prompt": "Mi servirebbe un abbigliamento speciale per la montagna.",
+      "answers": [
+        "Il me faudrait une tenue spéciale pour la montagne."
+      ],
+      "concept": "conditionnel",
+      "explain_it": "« Il me faudrait » è il condizionale di « il faut »: esprime ciò che mi servirebbe."
     }
   ]
 }

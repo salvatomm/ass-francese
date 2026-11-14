@@ -114,6 +114,24 @@
       "it": "la rabbia",
       "pos": "n",
       "note": "être en colère = essere arrabbiato"
+    },
+    {
+      "fr": "s'absenter",
+      "it": "assentarsi, allontanarsi",
+      "pos": "v",
+      "note": "solo pronominale; passato: elle s'est absentée"
+    },
+    {
+      "fr": "s'envoler",
+      "it": "volare via",
+      "pos": "v",
+      "note": "solo pronominale"
+    },
+    {
+      "fr": "la montagne",
+      "it": "la montagna",
+      "pos": "n",
+      "note": "en montagne = in montagna"
     }
   ],
   "expressions": [

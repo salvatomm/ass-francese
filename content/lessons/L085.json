@@ -194,6 +194,48 @@
       "fr": "le blé noir",
       "it": "il grano saraceno",
       "pos": "n"
+    },
+    {
+      "fr": "adoré(e)",
+      "it": "adorato",
+      "pos": "adj"
+    },
+    {
+      "fr": "annoncer",
+      "it": "annunciare",
+      "pos": "v",
+      "note": "nous annonçons"
+    },
+    {
+      "fr": "la banque",
+      "it": "la banca",
+      "pos": "n"
+    },
+    {
+      "fr": "la carte de crédit",
+      "it": "la carta di credito",
+      "pos": "n"
+    },
+    {
+      "fr": "élégant(e)",
+      "it": "elegante",
+      "pos": "adj"
+    },
+    {
+      "fr": "filer",
+      "it": "filare; svignarsela",
+      "pos": "v",
+      "note": "il faut que je file = devo scappare"
+    },
+    {
+      "fr": "à nouveau",
+      "it": "di nuovo",
+      "pos": "expr"
+    },
+    {
+      "fr": "l'orage (m.)",
+      "it": "il temporale",
+      "pos": "n"
     }
   ],
   "expressions": [
@@ -731,6 +773,31 @@
       "concept": "subjonctif",
       "text": "Il faut que je file, mais je n'ai pas trouvé mon pardessus.",
       "explain_it": "Il faut que vuole il congiuntivo presente (que je file); pardessus è un sostantivo maschile senza trattino."
+    },
+    {
+      "id": "L085-e38",
+      "level": 2,
+      "type": "write",
+      "concept": "subjonctif",
+      "prompt": "Devo scappare: ho un appuntamento in banca.",
+      "answers": [
+        "Il faut que je file : j'ai [un|] rendez-vous à la banque.",
+        "Il faut que je file, j'ai [un|] rendez-vous à la banque."
+      ],
+      "explain_it": "Il faut que è seguito dal congiuntivo: que je file."
+    },
+    {
+      "id": "L085-e40",
+      "level": 2,
+      "type": "cloze",
+      "concept": "vocab",
+      "text": "Je n'ai pas apporté ma carte de ___.",
+      "answers": [
+        "crédit"
+      ],
+      "hint": "(carta di ...)",
+      "prompt": "Non ho portato la mia carta di credito.",
+      "explain_it": "La carta di credito si dice carte de crédit."
     }
   ]
 }

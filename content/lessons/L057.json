@@ -223,6 +223,17 @@
       "it": "vivere",
       "pos": "v",
       "note": "j'ai vécu"
+    },
+    {
+      "fr": "obligé(e)",
+      "it": "obbligato",
+      "pos": "adj",
+      "note": "être obligé de + infinito = essere costretto a"
+    },
+    {
+      "fr": "le verbe",
+      "it": "il verbo",
+      "pos": "n"
     }
   ],
   "expressions": [

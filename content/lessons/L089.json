@@ -233,6 +233,46 @@
       "fr": "vachement",
       "it": "molto, davvero (colloquiale)",
       "pos": "adv"
+    },
+    {
+      "fr": "ambulant / ambulante",
+      "it": "ambulante",
+      "pos": "adj",
+      "note": "un désastre ambulant = un disastro ambulante"
+    },
+    {
+      "fr": "la ceinture",
+      "it": "la cintura",
+      "pos": "n"
+    },
+    {
+      "fr": "physique",
+      "it": "fisico",
+      "pos": "adj",
+      "note": "invariabile al femminile; activité physique; le physique = l'aspetto fisico"
+    },
+    {
+      "fr": "le progrès",
+      "it": "il progresso",
+      "pos": "n",
+      "note": "faire des progrès = fare progressi"
+    },
+    {
+      "fr": "le skieur / la skieuse",
+      "it": "lo sciatore / la sciatrice",
+      "pos": "n"
+    },
+    {
+      "fr": "la star",
+      "it": "la star, il divo",
+      "pos": "n",
+      "note": "sempre femminile, anche per un uomo"
+    },
+    {
+      "fr": "la veille",
+      "it": "il giorno prima, la vigilia",
+      "pos": "n",
+      "note": "la veille = il giorno precedente"
     }
   ],
   "expressions": [
@@ -832,6 +872,31 @@
       "concept": "register",
       "front": "Présent historique: cos'è e quando si usa?",
       "back": "È l'uso del presente per raccontare fatti passati e renderli più vivi. Si trova nel parlato, nella narrativa e nei titoli dei giornali. Il passé simple è invece il passato letterario, usato quasi solo nella narrativa scritta."
+    },
+    {
+      "id": "L089-e44",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Lo sciatore ha fatto dei progressi.",
+      "answers": [
+        "Le skieur a fait des progrès.",
+        "La skieuse a fait des progrès."
+      ],
+      "explain_it": "Faire des progrès = fare progressi; skieur al femminile diventa skieuse."
+    },
+    {
+      "id": "L089-e45",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "J'ai fait le point avec mes collègues la ___.",
+      "answers": [
+        "veille"
+      ],
+      "hint": "(il giorno prima)",
+      "prompt": "Ho fatto il punto con i colleghi il giorno prima.",
+      "explain_it": "La veille = il giorno precedente."
     }
   ]
 }

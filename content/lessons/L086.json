@@ -243,6 +243,144 @@
       "it": "bisognare, servire",
       "pos": "v",
       "note": "il me faut"
+    },
+    {
+      "fr": "l'activité (f.)",
+      "it": "l'attività",
+      "pos": "n"
+    },
+    {
+      "fr": "affirmer",
+      "it": "affermare, assicurare",
+      "pos": "v"
+    },
+    {
+      "fr": "analyser",
+      "it": "analizzare",
+      "pos": "v"
+    },
+    {
+      "fr": "belge",
+      "it": "belga",
+      "pos": "adj",
+      "note": "invariabile al femminile"
+    },
+    {
+      "fr": "certainement",
+      "it": "certamente",
+      "pos": "adv"
+    },
+    {
+      "fr": "le chasseur de têtes",
+      "it": "il cacciatore di teste (head hunter)",
+      "pos": "n",
+      "note": "pl. les chasseurs de têtes"
+    },
+    {
+      "fr": "développer",
+      "it": "sviluppare",
+      "pos": "v"
+    },
+    {
+      "fr": "l'entretien (m.)",
+      "it": "il colloquio",
+      "pos": "n",
+      "note": "anche: manutenzione"
+    },
+    {
+      "fr": "l'esprit (m.)",
+      "it": "la mente, lo spirito",
+      "pos": "n",
+      "note": "l'esprit cartésien = mentalità razionale"
+    },
+    {
+      "fr": "éthique",
+      "it": "etico",
+      "pos": "adj",
+      "note": "invariabile al femminile"
+    },
+    {
+      "fr": "fidèle",
+      "it": "fedele",
+      "pos": "adj",
+      "note": "invariabile al femminile; da cui fidéliser"
+    },
+    {
+      "fr": "le groupe",
+      "it": "il gruppo",
+      "pos": "n"
+    },
+    {
+      "fr": "interne",
+      "it": "interno",
+      "pos": "adj",
+      "note": "en interne = all'interno dell'azienda"
+    },
+    {
+      "fr": "jusqu'à présent",
+      "it": "finora",
+      "pos": "expr"
+    },
+    {
+      "fr": "la limite",
+      "it": "il limite",
+      "pos": "n"
+    },
+    {
+      "fr": "montrer",
+      "it": "mostrare, dimostrare",
+      "pos": "v",
+      "note": "se montrer digne = dimostrarsi degno"
+    },
+    {
+      "fr": "neuf / neuve",
+      "it": "nuovo (appena fatto)",
+      "pos": "adj",
+      "note": "neuf = nuovo di zecca; diverso da nouveau"
+    },
+    {
+      "fr": "oral / orale",
+      "it": "orale",
+      "pos": "adj",
+      "note": "pl. oraux / orales"
+    },
+    {
+      "fr": "particulièrement",
+      "it": "particolarmente",
+      "pos": "adv"
+    },
+    {
+      "fr": "personnellement",
+      "it": "personalmente",
+      "pos": "adv"
+    },
+    {
+      "fr": "le profil",
+      "it": "il profilo",
+      "pos": "n"
+    },
+    {
+      "fr": "reconnu / reconnue",
+      "it": "riconosciuto",
+      "pos": "adj",
+      "note": "participio di reconnaître usato come aggettivo"
+    },
+    {
+      "fr": "stratégique",
+      "it": "strategico",
+      "pos": "adj",
+      "note": "invariabile al femminile"
+    },
+    {
+      "fr": "la vision",
+      "it": "la visione",
+      "pos": "n"
+    },
+    {
+      "fr": "correspondre (à)",
+      "it": "corrispondere",
+      "pos": "v",
+      "note": "je corresponds; futuro: correspondra"
     }
   ],
   "expressions": [
@@ -746,6 +884,30 @@
       ],
       "correct": 0,
       "explain_it": "Cabinet indica lo studio professionale; gabinet è un calco dall'italiano, e cabinet de toilette è il bagno piccolo."
+    },
+    {
+      "id": "L086-e38",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Je peux vous ___ qu'elle est très compétente.",
+      "answers": [
+        "affirmer"
+      ],
+      "hint": "(affermare)",
+      "prompt": "Posso assicurarvi che è molto competente.",
+      "explain_it": "Affirmer = affermare, assicurare; dopo un modale (pouvoir) resta all'infinito."
+    },
+    {
+      "id": "L086-e39",
+      "type": "write",
+      "level": 2,
+      "concept": "adverbs",
+      "prompt": "È particolarmente fedele alla sua azienda.",
+      "answers": [
+        "Il est particulièrement fidèle à son [entreprise|société]."
+      ],
+      "explain_it": "Particulièrement è l'avverbio (-ement) e precede l'aggettivo; fidèle è invariabile al femminile."
     }
   ]
 }

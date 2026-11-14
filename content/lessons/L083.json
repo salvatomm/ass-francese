@@ -278,6 +278,50 @@
       "it": "l'intenzione",
       "pos": "n",
       "note": "l'intention de vote = intenzione di voto"
+    },
+    {
+      "fr": "l'auberge de jeunesse (f.)",
+      "it": "l'ostello della gioventù",
+      "pos": "n"
+    },
+    {
+      "fr": "compléter",
+      "it": "completare",
+      "pos": "v",
+      "note": "je complète"
+    },
+    {
+      "fr": "contagieux / contagieuse",
+      "it": "contagioso",
+      "pos": "adj"
+    },
+    {
+      "fr": "en direct",
+      "it": "in diretta",
+      "pos": "expr"
+    },
+    {
+      "fr": "l'expression (f.)",
+      "it": "l'espressione",
+      "pos": "n"
+    },
+    {
+      "fr": "partager",
+      "it": "condividere, dividere",
+      "pos": "v",
+      "note": "nous partageons"
+    },
+    {
+      "fr": "la publicité",
+      "it": "la pubblicità",
+      "pos": "n",
+      "note": "anche: l'annuncio pubblicitario"
+    },
+    {
+      "fr": "le standard",
+      "it": "il centralino",
+      "pos": "n",
+      "note": "falso amico: non 'standard' ma 'centralino telefonico'"
     }
   ],
   "expressions": [
@@ -861,6 +905,30 @@
       "back": "No: significa locanda o ostello. L'albergo è un hôtel.",
       "note": "L'auberge de jeunesse è l'ostello per giovani.",
       "explain_it": "È un falso amico: l'italiano albergo non corrisponde a auberge."
+    },
+    {
+      "id": "L083-e42",
+      "level": 2,
+      "type": "write",
+      "concept": "present-er",
+      "prompt": "Lei divide sempre il suo cibo con noi.",
+      "answers": [
+        "Elle partage toujours sa nourriture avec nous."
+      ],
+      "explain_it": "Partager si coniuga come un verbo in -er, ma alla prima persona plurale ha la e: nous partageons."
+    },
+    {
+      "id": "L083-e44",
+      "level": 2,
+      "type": "cloze",
+      "concept": "prepositions",
+      "text": "Le concert passe ___ direct à la radio.",
+      "answers": [
+        "en"
+      ],
+      "hint": "(in diretta)",
+      "prompt": "Il concerto va in diretta alla radio.",
+      "explain_it": "In francese si dice en direct, con la preposizione en."
     }
   ]
 }

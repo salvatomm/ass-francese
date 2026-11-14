@@ -280,6 +280,158 @@
       "fr": "le coupable",
       "it": "il colpevole",
       "pos": "n"
+    },
+    {
+      "fr": "l'amande (f.)",
+      "it": "la mandorla",
+      "pos": "n"
+    },
+    {
+      "fr": "amer / amère",
+      "it": "amaro",
+      "pos": "adj"
+    },
+    {
+      "fr": "l'assassin (m.)",
+      "it": "l'assassino",
+      "pos": "n"
+    },
+    {
+      "fr": "capable (de)",
+      "it": "capace (di)",
+      "pos": "adj",
+      "note": "invariabile al femminile"
+    },
+    {
+      "fr": "incapable (de)",
+      "it": "incapace (di)",
+      "pos": "adj",
+      "note": "invariabile al femminile"
+    },
+    {
+      "fr": "contaminer",
+      "it": "contaminare",
+      "pos": "v"
+    },
+    {
+      "fr": "le crime",
+      "it": "il crimine, il delitto",
+      "pos": "n"
+    },
+    {
+      "fr": "double",
+      "it": "doppio",
+      "pos": "adj",
+      "note": "un agent double = doppiogiochista"
+    },
+    {
+      "fr": "flotter",
+      "it": "galleggiare; aleggiare",
+      "pos": "v",
+      "note": "qui: aleggiare (odeur qui flotte)"
+    },
+    {
+      "fr": "inconscient / inconsciente",
+      "it": "inconsapevole",
+      "pos": "adj",
+      "note": "inconscient de = ignaro di"
+    },
+    {
+      "fr": "malheureux / malheureuse",
+      "it": "sfortunato, disgraziato",
+      "pos": "adj",
+      "note": "accidents malheureux = incidenti sfortunati"
+    },
+    {
+      "fr": "sembler",
+      "it": "sembrare",
+      "pos": "v",
+      "note": "il me semble que = mi pare che"
+    },
+    {
+      "fr": "menacer",
+      "it": "minacciare",
+      "pos": "v",
+      "note": "il menaçait (imperfetto)"
+    },
+    {
+      "fr": "meurtrier / meurtrière",
+      "it": "omicida",
+      "pos": "adj",
+      "note": "le meurtrier = l'assassino"
+    },
+    {
+      "fr": "l'odeur (f.)",
+      "it": "l'odore",
+      "pos": "n"
+    },
+    {
+      "fr": "oser",
+      "it": "osare",
+      "pos": "v"
+    },
+    {
+      "fr": "poignardé / poignardée",
+      "it": "pugnalato",
+      "pos": "adj",
+      "note": "dal verbo poignarder"
+    },
+    {
+      "fr": "être sur le point de",
+      "it": "essere sul punto di",
+      "pos": "expr"
+    },
+    {
+      "fr": "la prison",
+      "it": "la prigione",
+      "pos": "n"
+    },
+    {
+      "fr": "probablement",
+      "it": "probabilmente",
+      "pos": "adv"
+    },
+    {
+      "fr": "protéger",
+      "it": "proteggere",
+      "pos": "v",
+      "note": "je protège; nous protégeons"
+    },
+    {
+      "fr": "la réserve",
+      "it": "la riserva",
+      "pos": "n",
+      "note": "les réserves d'eau potable"
+    },
+    {
+      "fr": "super",
+      "it": "fantastico, super",
+      "pos": "adj",
+      "note": "invariabile; familiare"
+    },
+    {
+      "fr": "tant que",
+      "it": "finché",
+      "pos": "expr",
+      "note": "tant qu'on n'aura pas... = finché non avremo..."
+    },
+    {
+      "fr": "transmettre",
+      "it": "trasmettere",
+      "pos": "v",
+      "note": "coniugato come mettre"
+    },
+    {
+      "fr": "vital / vitale",
+      "it": "vitale",
+      "pos": "adj",
+      "note": "pl. vitaux / vitales"
+    },
+    {
+      "fr": "vraisemblable",
+      "it": "verosimile",
+      "pos": "adj",
+      "note": "invariabile al femminile"
     }
   ],
   "expressions": [
@@ -850,6 +1002,30 @@
       "concept": "register",
       "front": "Descendre: quali significati?",
       "back": "Con être significa scendere. Con avoir e un complemento diretto significa abbattere; nel gergo far fuori qualcuno."
+    },
+    {
+      "id": "L087-e44",
+      "type": "write",
+      "level": 2,
+      "concept": "modals",
+      "prompt": "Non oso andarci.",
+      "answers": [
+        "Je n'ose pas y aller."
+      ],
+      "explain_it": "Oser si usa come i modali: negazione attorno al verbo e infinito dopo; y sostituisce il luogo."
+    },
+    {
+      "id": "L087-e45",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Il est sur le ___ de partir.",
+      "answers": [
+        "point"
+      ],
+      "hint": "(essere sul punto di)",
+      "prompt": "Sta per partire.",
+      "explain_it": "Être sur le point de + infinito indica un'azione imminente."
     }
   ]
 }

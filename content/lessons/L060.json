@@ -241,6 +241,45 @@
       "fr": "lorsque",
       "it": "quando (registro formale)",
       "pos": "conj"
+    },
+    {
+      "fr": "l'angle (m.)",
+      "it": "l'angolo",
+      "pos": "n",
+      "note": "à l'angle de l'avenue"
+    },
+    {
+      "fr": "le bar",
+      "it": "il bar",
+      "pos": "n"
+    },
+    {
+      "fr": "brûler",
+      "it": "bruciare",
+      "pos": "v"
+    },
+    {
+      "fr": "formidable",
+      "it": "formidabile, fantastico",
+      "pos": "adj",
+      "note": "invariabile al femminile"
+    },
+    {
+      "fr": "l'intention (f.)",
+      "it": "l'intenzione",
+      "pos": "n",
+      "note": "avoir l'intention de + infinito"
+    },
+    {
+      "fr": "le nuage",
+      "it": "la nuvola",
+      "pos": "n"
+    },
+    {
+      "fr": "pendant que",
+      "it": "mentre",
+      "pos": "conj",
+      "note": "di solito + imperfetto al passato"
     }
   ],
   "expressions": [
@@ -803,6 +842,19 @@
       "concept": "imparfait-vs-pc",
       "front": "Pendant que + verbo: quale tempo nella subordinata?",
       "back": "L'imperfetto, per l'azione di sfondo che dura: Pendant que je dormais, le téléphone a sonné. Pendant senza que è seguito da un periodo: pendant trois heures (durante tre ore)."
+    },
+    {
+      "id": "L060-e41",
+      "type": "cloze",
+      "level": 2,
+      "concept": "connectors",
+      "text": "Le téléphone a sonné ___ nous dormions.",
+      "answers": [
+        "pendant que"
+      ],
+      "hint": "(mentre)",
+      "prompt": "Il telefono ha squillato mentre dormivamo.",
+      "explain_it": "Pendant que significa 'mentre' e introduce una subordinata, di solito all'imperfetto per un'azione di sfondo."
     }
   ]
 }
