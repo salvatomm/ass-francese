@@ -1,0 +1,318 @@
+{
+  "n": 1,
+  "title_fr": "Comment allez-vous ?",
+  "title_it": "Come sta?",
+  "review": false,
+  "status": "verified",
+  "source": "529edcbd p17-19",
+  "theme_it": "Due conoscenti si salutano e si chiedono come stanno; poi una delle due presenta una persona all'altra. È la lezione delle formule di saluto e di cortesia.",
+  "grammar": [
+    {
+      "id": "aller",
+      "title_it": "Il verbo aller (andare) e l'uso per chiedere come si sta",
+      "explain_it": "In questa lezione aller ha il significato di «stare» quando si chiede o si dice come si sta: Comment allez-vous? («Come sta?»). Al presente servono due forme: vous allez (con la forma di cortesia e il plurale) e il/elle va (lui/lei). Ça va è un'espressione fissa che significa «va», cioè «sta/va bene», e non va tradotta parola per parola.",
+      "examples": [
+        { "fr": "Elle va très bien.", "it": "Lei sta molto bene." },
+        { "fr": "Vous allez bien ?", "it": "Sta bene?" }
+      ]
+    },
+    {
+      "id": "register",
+      "title_it": "Vous e tu: il registro di cortesia",
+      "explain_it": "Il pronome vous è sia la forma di cortesia (come il Lei italiano) sia il plurale (voi). Si usa con persone che non si conoscono bene, con adulti più anziani o in contesti formali. Comment allez-vous? è la domanda formale; Comment ça va? è più familiare e si usa tra conoscenti o amici. Con gli amici intimi e la famiglia si usa tu, che non è ancora trattato in questa lezione.",
+      "examples": [
+        { "fr": "Comment allez-vous, Jeanne ?", "it": "Come sta, Jeanne?" },
+        { "fr": "Comment ça va, Paul ?", "it": "Come va, Paul?" }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Presentare qualcuno: je vous présente",
+      "explain_it": "Per presentare una persona si dice je vous présente seguito dal nome o da una persona («ti/le presento»). Il verbo présenter qui significa «presentare, far conoscere», come in italiano; vous precede il verbo e indica a chi viene fatta la presentazione. È la formula da usare con un interlocutore di cortesia.",
+      "examples": [
+        { "fr": "Je vous présente Chloé.", "it": "Le presento Chloé." },
+        { "fr": "Je vous présente Paul.", "it": "Le presento Paul." }
+      ]
+    }
+  ],
+  "vocab": [
+    { "fr": "bonjour", "it": "buongiorno (fino alle 18 circa)", "pos": "interj" },
+    { "fr": "comment", "it": "come (interrogativo)", "pos": "adv" },
+    { "fr": "aller", "it": "andare; qui: stare", "pos": "v", "note": "vous allez, il va" },
+    { "fr": "vous", "it": "Lei (cortese) / voi (plurale)", "pos": "pron" },
+    { "fr": "bien", "it": "bene", "pos": "adv" },
+    { "fr": "et", "it": "e", "pos": "conj" },
+    { "fr": "ça", "it": "ciò, questo", "pos": "pron" },
+    { "fr": "très", "it": "molto", "pos": "adv" },
+    { "fr": "merci", "it": "grazie", "pos": "interj" },
+    { "fr": "présenter", "it": "presentare, far conoscere", "pos": "v", "note": "je vous présente" },
+    { "fr": "je", "it": "io", "pos": "pron" },
+    { "fr": "ma", "it": "mia (f.)", "pos": "adj" },
+    { "fr": "la fille", "it": "la figlia (f.)", "pos": "n" },
+    { "fr": "un", "it": "uno", "pos": "num" },
+    { "fr": "deux", "it": "due", "pos": "num" }
+  ],
+  "expressions": [
+    { "fr": "Comment allez-vous ?", "it": "Come sta?", "note": "forma di cortesia con vous" },
+    { "fr": "Comment ça va ?", "it": "Come va? / Come stai?", "note": "più familiare, tra conoscenti" },
+    { "fr": "Ça va très bien.", "it": "Sto molto bene.", "note": "risposta standard" },
+    { "fr": "Bien, et vous ?", "it": "Bene, e Lei?", "note": "si restituisce la domanda" },
+    { "fr": "Très bien, merci.", "it": "Molto bene, grazie.", "note": "risposta cortese" },
+    { "fr": "Je vous présente", "it": "Le presento", "note": "formula per presentare qualcuno" }
+  ],
+  "notes_it": [
+    "Pronuncia: la consonante finale di solito è muta (vous si legge [vu]). Se la parola successiva inizia per vocale, la consonante finale si pronuncia e si collega alla parola seguente (liaison): in comment allez-vous la t di comment si sente davanti ad allez, quindi [kommantalé].",
+    "Attenzione al falso amico: comment significa «come» (interrogativo), non «commento», che in francese è commentaire.",
+    "La ç si legge [s] davanti ad a, o, u: ça si pronuncia [sa]. La c davanti a e o i resta dolce, mentre davanti ad a, o, u sarebbe dura senza la cediglia.",
+    "Bonjour si usa come buongiorno fino a circa le sei di sera; dopo si passa a bonsoir (buonasera)."
+  ],
+  "exercises": [
+    {
+      "id": "L001-e01", "type": "mcq", "level": 1, "concept": "register",
+      "prompt": "Quale frase è la più formale per chiedere «Come sta?»",
+      "options": ["Comment ça va ?", "Comment allez-vous ?", "Ça va bien ?", "Très bien, merci."],
+      "correct": 1,
+      "explain_it": "Con il vous di cortesia si usa «Comment allez-vous ?»; «Comment ça va ?» è più familiare."
+    },
+    {
+      "id": "L001-e02", "type": "mcq", "level": 1, "concept": "aller",
+      "prompt": "Completa: Elle ___ très bien.",
+      "options": ["va", "allez", "vont", "allons"],
+      "correct": 0,
+      "explain_it": "Con elle (lei) il verbo aller prende la forma va; allez è la forma per vous."
+    },
+    {
+      "id": "L001-e03", "type": "mcq", "level": 1, "concept": "idioms",
+      "prompt": "Che cosa significa «je vous présente»?",
+      "options": ["Vi presento", "Mi presento", "Vi regalo", "Vi presentate"],
+      "correct": 0,
+      "explain_it": "Présenter significa presentare, e je vous présente è la formula per presentare qualcuno a un interlocutore di cortesia."
+    },
+    {
+      "id": "L001-e04", "type": "mcq", "level": 1, "concept": "vocab",
+      "prompt": "Come si dice «figlia» in francese?",
+      "options": ["la fille", "le fils", "la femme", "le frère"],
+      "correct": 0,
+      "explain_it": "Fille è femminile e significa figlia; fils è il figlio maschio, quindi l'articolo e il genere cambiano il significato."
+    },
+    {
+      "id": "L001-e05", "type": "order", "level": 1, "concept": "aller",
+      "prompt": "Lui sta molto bene, grazie.",
+      "answers": ["Il va très bien, merci."],
+      "distractors": ["allez"],
+      "explain_it": "Con il soggetto il (lui) il verbo aller diventa va; allez è riservato a vous."
+    },
+    {
+      "id": "L001-e06", "type": "order", "level": 1, "concept": "aller",
+      "prompt": "Lei (una donna) sta molto bene.",
+      "answers": ["Elle va très bien."],
+      "distractors": ["allez", "vont"],
+      "explain_it": "Con il soggetto elle il verbo aller diventa va, non allez né vont."
+    },
+    {
+      "id": "L001-e07", "type": "order", "level": 1, "concept": "idioms",
+      "prompt": "Le presento Paul.",
+      "answers": ["Je vous présente Paul."],
+      "distractors": [],
+      "explain_it": "La presentazione segue la formula je vous présente, con vous prima del verbo."
+    },
+    {
+      "id": "L001-e08", "type": "cloze", "level": 1, "concept": "aller",
+      "text": "Comment ___-vous ?",
+      "answers": ["allez"],
+      "hint": "(aller, presente, forma di cortesia)",
+      "prompt": "Come sta?",
+      "explain_it": "Con vous il verbo aller è allez, come in Comment allez-vous?"
+    },
+    {
+      "id": "L001-e09", "type": "cloze", "level": 1, "concept": "aller",
+      "text": "Vous ___ très bien ?",
+      "answers": ["allez"],
+      "hint": "(aller, presente)",
+      "prompt": "Lei sta molto bene?",
+      "explain_it": "Con vous, anche fuori dalla domanda di rito, il verbo aller è allez."
+    },
+    {
+      "id": "L001-e10", "type": "cloze", "level": 1, "concept": "vocab",
+      "text": "Je vous présente ma ___.",
+      "answers": ["fille"],
+      "hint": "(nome femminile)",
+      "explain_it": "Ma è il femminile di «mia» davanti a un nome femminile, quindi serve fille."
+    },
+    {
+      "id": "L001-e11", "type": "cloze", "level": 1, "concept": "register",
+      "text": "___ allez-vous ?",
+      "answers": ["Comment"],
+      "hint": "(domanda di cortesia)",
+      "prompt": "Come sta?",
+      "explain_it": "La domanda di cortesia comincia con comment, che in questo caso significa «come»."
+    },
+    {
+      "id": "L001-e12", "type": "write", "level": 1, "concept": "vocab",
+      "prompt": "Buongiorno",
+      "answers": ["Bonjour"],
+      "explain_it": "Bonjour è il saluto di buongiorno e vale fino a circa le sei di sera."
+    },
+    {
+      "id": "L001-e13", "type": "write", "level": 1, "concept": "aller",
+      "prompt": "Paul sta molto bene.",
+      "answers": ["Paul va très bien."],
+      "explain_it": "Con un soggetto di terza persona singolare, come Paul, il verbo è va."
+    },
+    {
+      "id": "L001-e14", "type": "write", "level": 1, "concept": "idioms",
+      "prompt": "Bene, grazie.",
+      "answers": ["Bien, merci.", "Très bien, merci."],
+      "explain_it": "Bien e très bien sono entrambi accettabili nella risposta; merci è il ringraziamento finale."
+    },
+    {
+      "id": "L001-e15", "type": "dictation", "level": 2, "concept": "register",
+      "text": "Bonjour, comment ça va ?",
+      "explain_it": "Forma colloquiale di saluto, da usare con un conoscente o un amico."
+    },
+    {
+      "id": "L001-e16", "type": "cloze", "level": 2, "concept": "idioms",
+      "text": "Je ___ présente Paul.",
+      "answers": ["vous"],
+      "hint": "(pronome di cortesia)",
+      "explain_it": "Vous indica la persona a cui si presenta qualcuno e precede il verbo présente."
+    },
+    {
+      "id": "L001-e17", "type": "cloze", "level": 2, "concept": "aller",
+      "text": "Chloé, ___ va bien, merci.",
+      "answers": ["elle"],
+      "hint": "(pronome, femminile)",
+      "prompt": "Chloé sta bene, grazie.",
+      "explain_it": "Riferito a una ragazza il soggetto è elle, e il verbo prende va."
+    },
+    {
+      "id": "L001-e18", "type": "cloze", "level": 2, "concept": "register",
+      "text": "___ ça va, Jeanne ?",
+      "answers": ["Comment"],
+      "prompt": "Come va, Jeanne?",
+      "explain_it": "La forma familiare si costruisce con comment seguito da ça va."
+    },
+    {
+      "id": "L001-e19", "type": "mcq", "level": 2, "concept": "aller",
+      "prompt": "Completa: Comment ___-vous ?",
+      "options": ["allez", "va", "allons", "vont"],
+      "correct": 0,
+      "explain_it": "Con vous, forma di cortesia, il verbo aller è allez, non va."
+    },
+    {
+      "id": "L001-e20", "type": "mcq", "level": 2, "concept": "idioms",
+      "prompt": "Quale frase presenta tua figlia a un signore?",
+      "options": ["Je vous présente ma fille.", "Je vous présentez ma fille.", "Je vous présente mon fils.", "Ma fille vous présente."],
+      "correct": 0,
+      "explain_it": "Con je il verbo è présente, e la figlia è femminile: ma fille."
+    },
+    {
+      "id": "L001-e21", "type": "order", "level": 2, "concept": "register",
+      "prompt": "Bene, e Lei?",
+      "answers": ["Bien, et vous ?"],
+      "distractors": ["merci", "très"],
+      "explain_it": "Per restituire la domanda di cortesia si usa et vous, che significa «e Lei»."
+    },
+    {
+      "id": "L001-e22", "type": "write", "level": 2, "concept": "register",
+      "prompt": "Come sta? (forma di cortesia)",
+      "answers": ["Comment allez-vous ?"],
+      "explain_it": "Con la forma di cortesia vous si usa allez, mentre Comment ça va? è più familiare."
+    },
+    {
+      "id": "L001-e23", "type": "write", "level": 2, "concept": "aller",
+      "prompt": "Lui (un uomo) sta bene.",
+      "answers": ["Il va bien."],
+      "explain_it": "Con il soggetto il (lui) il verbo aller è va."
+    },
+    {
+      "id": "L001-e24", "type": "write", "level": 2, "concept": "register",
+      "prompt": "Come va? (informale, a un amico)",
+      "answers": ["Comment ça va ?", "Ça va ?"],
+      "explain_it": "Con un amico o un conoscente si usa la forma colloquiale ça va."
+    },
+    {
+      "id": "L001-e25", "type": "write", "level": 2, "concept": "idioms",
+      "prompt": "Le presento Chloé.",
+      "answers": ["Je vous présente Chloé."],
+      "explain_it": "Anche con un nome proprio si usa la formula je vous présente, con vous prima del verbo."
+    },
+    {
+      "id": "L001-e26", "type": "dictation", "level": 2, "concept": "register",
+      "text": "Très bien, merci. Et vous ?",
+      "explain_it": "Risposta cortese con la domanda di ritorno; attenzione all'accento su très."
+    },
+    {
+      "id": "L001-e27", "type": "flash", "level": 2, "concept": "aller",
+      "front": "Aller al presente, per vous e per lui/lei",
+      "back": "vous allez · il/elle va",
+      "note": "Ça va è un'espressione fissa: va, sta, va bene."
+    },
+    {
+      "id": "L001-e28", "type": "flash", "level": 2, "concept": "register",
+      "front": "Quando si usa vous?",
+      "back": "Con persone non familiari, adulti più anziani o in contesti formali (forma di cortesia); è anche il plurale (voi).",
+      "note": "Con amici e familiari si usa tu."
+    },
+    {
+      "id": "L001-e29", "type": "flash", "level": 2, "concept": "idioms",
+      "front": "Come si presenta qualcuno in francese?",
+      "back": "Je vous présente + persona (es. Je vous présente Paul.)",
+      "note": "Vous precede il verbo présente."
+    },
+    {
+      "id": "L001-e30", "type": "write", "level": 3, "concept": "register",
+      "prompt": "Chiedi a un signore come sta e rispondi che stai molto bene.",
+      "answers": ["Comment allez-vous ? Très bien, merci.", "Comment allez-vous ? Bien, merci."],
+      "explain_it": "Si combina la domanda di cortesia con vous e una risposta cortese."
+    },
+    {
+      "id": "L001-e31", "type": "write", "level": 3, "concept": "idioms",
+      "prompt": "Vi presento Paul e Chloé.",
+      "answers": ["Je vous présente Paul et Chloé.", "Je vous présente Chloé et Paul."],
+      "explain_it": "Con due persone si usa et e l'ordine dei nomi può cambiare, mentre la formula resta la stessa."
+    },
+    {
+      "id": "L001-e32", "type": "write", "level": 3, "concept": "register",
+      "prompt": "Buongiorno, Jean. Come va?",
+      "answers": ["Bonjour, Jean. Comment ça va ?", "Bonjour Jean, comment ça va ?"],
+      "explain_it": "Il saluto bonjour è seguito dalla domanda informale con ça va, adatta a un amico."
+    },
+    {
+      "id": "L001-e33", "type": "write", "level": 3, "concept": "aller",
+      "prompt": "Paul sta molto bene e Chloé sta bene.",
+      "answers": ["Paul va très bien[,|] et Chloé va bien."],
+      "explain_it": "Con Paul e Chloé (terza persona singolare) il verbo è va in entrambe le frasi."
+    },
+    {
+      "id": "L001-e34", "type": "write", "level": 3, "concept": "register",
+      "prompt": "Chiedi a una signora come sta, rispondi che stai molto bene e chiedi a lei come sta.",
+      "answers": ["Comment allez-vous ? [Ça va |]très bien[, merci]. Et vous ?"],
+      "explain_it": "Si usa la domanda di cortesia, la risposta, e la restituzione con et vous."
+    },
+    {
+      "id": "L001-e35", "type": "dictation", "level": 3, "concept": "idioms",
+      "text": "Je vous présente Paul. Il va très bien.",
+      "explain_it": "Frase lunga: attenzione alla forma présente, alla virgola dopo il nome e alla forma va."
+    },
+    {
+      "id": "L001-e36", "type": "mcq", "level": 3, "concept": "register",
+      "prompt": "Un signore anziano ti chiede «Comment allez-vous ?». Qual è la risposta più corretta?",
+      "options": ["Comment ça va ?", "Très bien, merci. Et vous ?", "Bonjour, ça va bien ?", "Je vous présente ma fille."],
+      "correct": 1,
+      "explain_it": "Alla domanda cortese si risponde con una formula cortese e si restituisce la domanda con et vous."
+    },
+    {
+      "id": "L001-e37", "type": "write", "level": 3, "concept": "aller",
+      "prompt": "Lui sta molto bene; lei sta bene, grazie.",
+      "answers": ["Il va très bien. Elle va bien, merci.", "Il va très bien, et elle va bien, merci."],
+      "explain_it": "Lui è il, lei è elle, e aller diventa va in entrambe le frasi."
+    },
+    {
+      "id": "L001-e38", "type": "write", "level": 3, "concept": "idioms",
+      "prompt": "Presenta Paul a un signore e chiedi come sta.",
+      "answers": ["Je vous présente Paul. Comment allez-vous ?"],
+      "explain_it": "Si combinano la presentazione con je vous présente e la domanda di cortesia con allez-vous."
+    }
+  ]
+}

@@ -3,3 +3,5 @@ __pycache__/
 # the book PDFs stay out of git
 source/
 *.pdf
+agent/data/
+agent/packs/*.local.json

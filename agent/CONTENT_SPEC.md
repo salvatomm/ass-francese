@@ -6,9 +6,13 @@ authors and by the coaching agent (see `AGENT.md`). Validate with
 
 ## Ground rules
 
-- **Original material only.** Never copy Assimil dialogues, exercises or notes
-  verbatim. Lesson titles are fine. Write your own sentences around the same
-  situation, vocabulary and grammar.
+- **Extract, don't transcribe.** From the book take the vocabulary, the grammar
+  (re-explained in your own words, in Italian), short idiomatic expressions
+  (≤ 8 words each) and the cultural/pronunciation points. Never copy whole dialogue
+  lines, the book's exercise sentences or its notes verbatim; the learner has the book.
+  Every exercise sentence is original, built from the lesson's vocabulary and grammar.
+- The source PDF is the English-base edition (*French*, Assimil 2020): same French
+  lessons as *Il francese*. All glosses and explanations must be in **Italian**.
 - **Progression.** An exercise of lesson *n* may only use grammar introduced in
   lessons ≤ *n* (see `book_outline.md`) plus very common words. Hard items
   should recycle material from earlier lessons.
@@ -25,10 +29,12 @@ authors and by the coaching agent (see `AGENT.md`). Validate with
   "title_fr": "Au marché (Deuxième partie)",
   "title_it": "Al mercato (seconda parte)",
   "review": false,                      // true for 7, 14, ..., 98
-  "status": "outline",                  // "outline" = built from public TOC, not yet checked
-                                        // against the book; "verified" = checked from the book
+  "status": "verified",                 // "verified" = extracted from the book;
+                                        // "outline" = only from the public TOC
+  "source": "529edcbd p17-19",          // pdf id + pages actually used (optional)
   "theme_it": "Situazione della lezione in 1–3 frasi.",
-  "grammar": [                          // 2–4 points (review lessons: recap of the previous 6)
+  "grammar": [                          // one per book note that teaches grammar/usage
+                                        // (usually 2–6; review lessons: each recap section)
     {
       "id": "partitif",                 // a concept key (see list below)
       "title_it": "L'articolo partitivo",
@@ -40,7 +46,7 @@ authors and by the coaching agent (see `AGENT.md`). Validate with
     { "fr": "le marché", "it": "il mercato", "pos": "n" },   // nouns WITH article; l' → add " (m.)"/" (f.)"
     { "fr": "peser", "it": "pesare", "pos": "v", "note": "je pèse" }
   ],
-  "expressions": [                      // 4–10 idiomatic chunks
+  "expressions": [                      // 4–12 idiomatic chunks used in the lesson (≤ 8 words)
     { "fr": "Ça fait combien ?", "it": "Quanto fa?", "note": "registro colloquiale" }
   ],
   "notes_it": ["Note culturali, falsi amici, pronuncia (2–5 voci)."],
