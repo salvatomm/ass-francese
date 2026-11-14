@@ -1,7 +1,7 @@
 {
   "n": 86,
-  "title_fr": "Quatre-vingt-sixième leçon - Un entretien avec un chasseur de têtes",
-  "title_it": "Ottantaseiesima lezione - Un colloquio con un cacciatore di teste",
+  "title_fr": "Un entretien avec un chasseur de têtes",
+  "title_it": "Un colloquio con un cacciatore di teste",
   "review": false,
   "status": "verified",
   "source": "3d1a4471 pdf 39-47 (libro p.515-523; la lezione inizia in basso a pdf 39 (p.515) con il titolo, dopo l'esercizio 2 della L85; dialogo a pdf 39-45; note a pdf 41-46; esercizio 1 a pdf 45 (p.521), risposte in alto a pdf 46 (p.522); esercizio 2 in alto a pdf 47 (p.523), risposte in alto a pdf 48 (p.524), fuori dall'intervallo e non usate; la lezione 87 inizia in basso a pdf 47)",
@@ -584,7 +584,7 @@
       "type": "write",
       "level": 2,
       "concept": "relative-pronouns",
-      "prompt": "Traduci: la persona di cui ti parlo.",
+      "prompt": "la persona di cui ti parlo.",
       "answers": [
         "la personne dont je te parle",
         "la personne dont je vous parle"
@@ -596,7 +596,7 @@
       "type": "write",
       "level": 2,
       "concept": "relative-pronouns",
-      "prompt": "Traduci: il mercato che stiamo cercando di penetrare.",
+      "prompt": "il mercato che stiamo cercando di penetrare.",
       "answers": [
         "le marché que nous essayons de pénétrer",
         "le marché que nous cherchons à pénétrer",
@@ -610,7 +610,7 @@
       "type": "write",
       "level": 2,
       "concept": "subjonctif",
-      "prompt": "Traduci: Può darsi che lui sia in ritardo.",
+      "prompt": "Può darsi che lui sia in ritardo.",
       "answers": [
         "Il se peut qu'il soit en retard."
       ],
@@ -621,7 +621,7 @@
       "type": "write",
       "level": 2,
       "concept": "adjective-agreement",
-      "prompt": "Traduci: le aziende svizzere e belghe sono grandi.",
+      "prompt": "le aziende svizzere e belghe sono grandi.",
       "answers": [
         "Les entreprises suisses et belges sont grandes.",
         "Les sociétés suisses et belges sont grandes."
@@ -646,7 +646,7 @@
       "type": "write",
       "level": 2,
       "concept": "il-faut",
-      "prompt": "Traduci: Ci serve più tempo.",
+      "prompt": "Ci serve più tempo.",
       "answers": [
         "Il nous faut plus de temps.",
         "Il nous faut davantage de temps."
@@ -658,7 +658,7 @@
       "type": "write",
       "level": 2,
       "concept": "il-faut",
-      "prompt": "Traduci: Mi servono tre persone per questo lavoro.",
+      "prompt": "Mi servono tre persone per questo lavoro.",
       "answers": [
         "Il me faut trois personnes pour ce travail.",
         "Il me faut trois personnes pour ce poste."
@@ -670,7 +670,7 @@
       "type": "write",
       "level": 2,
       "concept": "modals",
-      "prompt": "Traduci: Penso di comprare una casa.",
+      "prompt": "Penso di comprare una casa.",
       "answers": [
         "Je pense acheter une maison.",
         "Je pense à acheter une maison."
@@ -765,7 +765,7 @@
       "type": "write",
       "level": 3,
       "concept": "relative-pronouns",
-      "prompt": "Traduci: Abbiamo trovato la persona di cui avevamo bisogno, quella che conosce il mercato svizzero.",
+      "prompt": "Abbiamo trovato la persona di cui avevamo bisogno, quella che conosce il mercato svizzero.",
       "answers": [
         "Nous avons trouvé la personne dont nous avions besoin, celle qui connaît le marché suisse.",
         "On a trouvé la personne dont on avait besoin, celle qui connaît le marché suisse."
@@ -777,7 +777,7 @@
       "type": "write",
       "level": 3,
       "concept": "subjonctif",
-      "prompt": "Traduci: Non penso che sia possibile finire oggi, ma può darsi che ci riusciamo domani.",
+      "prompt": "Non penso che sia possibile finire oggi, ma può darsi che ci riusciamo domani.",
       "answers": [
         "Je ne pense pas qu'il soit possible de finir aujourd'hui, mais il se peut que nous y [arrivions|réussissions] demain.",
         "Je ne pense pas que ce soit possible de finir aujourd'hui, mais il se peut que nous y [arrivions|réussissions] demain."
@@ -789,7 +789,7 @@
       "type": "write",
       "level": 3,
       "concept": "il-faut",
-      "prompt": "Traduci: Ci servono due candidati e un nuovo responsabile per l'export.",
+      "prompt": "Ci servono due candidati e un nuovo responsabile per l'export.",
       "answers": [
         "Il nous faut deux candidats et un nouveau responsable [de|pour] l'export."
       ],
@@ -800,7 +800,7 @@
       "type": "write",
       "level": 3,
       "concept": "il-faut",
-      "prompt": "Traduci: Mi serve questo rapporto entro domani.",
+      "prompt": "Mi serve questo rapporto entro domani.",
       "answers": [
         "Il me le faut pour demain.",
         "Il me le faut d'ici demain."
@@ -812,7 +812,7 @@
       "type": "write",
       "level": 3,
       "concept": "il-faut",
-      "prompt": "Traduci: Mi servono questi dossier per domani.",
+      "prompt": "Mi servono questi dossier per domani.",
       "answers": [
         "Il me les faut pour demain.",
         "Il me les faut d'ici demain."
@@ -824,7 +824,7 @@
       "type": "write",
       "level": 3,
       "concept": "modals",
-      "prompt": "Traduci: Penso di non riuscire a finire il progetto prima di venerdì.",
+      "prompt": "Penso di non riuscire a finire il progetto prima di venerdì.",
       "answers": [
         "Je pense ne pas pouvoir finir le projet avant vendredi.",
         "Je ne pense pas pouvoir finir le projet avant vendredi.",
@@ -837,7 +837,7 @@
       "type": "write",
       "level": 3,
       "concept": "adjective-agreement",
-      "prompt": "Traduci: Le aziende belghe e svizzere hanno un ufficio a Parigi.",
+      "prompt": "Le aziende belghe e svizzere hanno un ufficio a Parigi.",
       "answers": [
         "Les entreprises belges et suisses ont un bureau à Paris.",
         "Les sociétés belges et suisses ont un bureau à Paris."
@@ -849,7 +849,7 @@
       "type": "write",
       "level": 3,
       "concept": "relative-pronouns",
-      "prompt": "Traduci: La collega che ti ha parlato della candidata è quella a cui devo affidare il posto.",
+      "prompt": "La collega che ti ha parlato della candidata è quella a cui devo affidare il posto.",
       "answers": [
         "La collègue qui t'a parlé de la candidate est celle à qui je dois confier le poste.",
         "La collègue qui vous a parlé de la candidate est celle à qui je dois confier le poste."

@@ -1,7 +1,7 @@
 {
   "n": 92,
-  "title_fr": "Quatre-vingt-douzième leçon - Un magazine littéraire",
-  "title_it": "Novantaduesima lezione - Un programma letterario",
+  "title_fr": "Un magazine littéraire",
+  "title_it": "Un programma letterario",
   "review": false,
   "status": "verified",
   "source": "3d1a4471 pdf 87-94 (libro p.563-570); la lezione inizia a pdf 87 (p.563) con il titolo; dialogo pdf 87-92 (righe 1-25); note pdf 87-92 (note 1-10); esercizio 1 pdf 93 (p.569), risposte pdf 94 (p.570); la lezione 93 inizia dopo pdf 94, fuori dal range",
@@ -280,6 +280,183 @@
       "it": "il fanello (uccellino); tête de linotte = svampito",
       "pos": "n",
       "note": "avoir une tête de linotte = essere uno sventato"
+    },
+    {
+      "fr": "l'ange (m.)",
+      "it": "l'angelo",
+      "pos": "n",
+      "note": "On dirait un ange ! = sembra un angelo"
+    },
+    {
+      "fr": "l'Autriche (f.)",
+      "it": "l'Austria",
+      "pos": "n",
+      "note": "en Autriche = in Austria"
+    },
+    {
+      "fr": "bénir",
+      "it": "benedire",
+      "pos": "v",
+      "note": "Que Dieu bénisse la France ! (congiuntivo di augurio)"
+    },
+    {
+      "fr": "la brioche",
+      "it": "la brioche",
+      "pos": "n",
+      "note": "dolce lievitato; non è 'torta' come nella frase attribuita a Maria Antonietta"
+    },
+    {
+      "fr": "le cerveau",
+      "it": "il cervello",
+      "pos": "n",
+      "note": "pl. cerveaux"
+    },
+    {
+      "fr": "cesser (de)",
+      "it": "smettere (di)",
+      "pos": "v",
+      "note": "on ne cesse de revisiter = non si smette di rivisitare"
+    },
+    {
+      "fr": "citer",
+      "it": "citare",
+      "pos": "v",
+      "note": "Je cite = cito"
+    },
+    {
+      "fr": "écourter",
+      "it": "accorciare",
+      "pos": "v",
+      "note": "da court; une vie écourtée = una vita spezzata"
+    },
+    {
+      "fr": "éloigner",
+      "it": "allontanare",
+      "pos": "v"
+    },
+    {
+      "fr": "éloigné(e)",
+      "it": "lontano, allontanato",
+      "pos": "adj",
+      "note": "tenu éloigné = tenuto a distanza"
+    },
+    {
+      "fr": "l'enfance (f.)",
+      "it": "l'infanzia",
+      "pos": "n"
+    },
+    {
+      "fr": "faramineux / faramineuse",
+      "it": "esorbitante, favoloso",
+      "pos": "adj",
+      "note": "des sommes faramineuses = cifre astronomiche"
+    },
+    {
+      "fr": "l'historien (m.)",
+      "it": "lo storico",
+      "pos": "n",
+      "note": "f. l'historienne"
+    },
+    {
+      "fr": "inconstant(e)",
+      "it": "incostante, volubile",
+      "pos": "adj"
+    },
+    {
+      "fr": "injuste",
+      "it": "ingiusto",
+      "pos": "adj"
+    },
+    {
+      "fr": "injustement",
+      "it": "ingiustamente",
+      "pos": "adv"
+    },
+    {
+      "fr": "irréaliste",
+      "it": "irrealistico",
+      "pos": "adj"
+    },
+    {
+      "fr": "irréprochable",
+      "it": "irreprensibile, impeccabile",
+      "pos": "adj"
+    },
+    {
+      "fr": "littéraire",
+      "it": "letterario",
+      "pos": "adj",
+      "note": "invariabile al femminile"
+    },
+    {
+      "fr": "principal(e)",
+      "it": "principale",
+      "pos": "adj",
+      "note": "m. pl. principaux"
+    },
+    {
+      "fr": "le prince / la princesse",
+      "it": "il principe / la principessa",
+      "pos": "n"
+    },
+    {
+      "fr": "la réputation",
+      "it": "la reputazione",
+      "pos": "n"
+    },
+    {
+      "fr": "saint / sainte",
+      "it": "santo",
+      "pos": "adj",
+      "note": "une sainte = una santa"
+    },
+    {
+      "fr": "sous-estimer",
+      "it": "sottovalutare",
+      "pos": "v"
+    },
+    {
+      "fr": "le studio",
+      "it": "lo studio (televisivo)",
+      "pos": "n"
+    },
+    {
+      "fr": "superposer",
+      "it": "sovrapporre",
+      "pos": "v"
+    },
+    {
+      "fr": "le testament",
+      "it": "il testamento",
+      "pos": "n"
+    },
+    {
+      "fr": "la virgule",
+      "it": "la virgola",
+      "pos": "n"
+    },
+    {
+      "fr": "le déficit",
+      "it": "il deficit",
+      "pos": "n",
+      "note": "Madame Déficit: soprannome di Maria Antonietta"
+    },
+    {
+      "fr": "dépensier / dépensière",
+      "it": "spendaccione",
+      "pos": "adj"
+    },
+    {
+      "fr": "une tête de linotte",
+      "it": "uno svampito, una testa vuota",
+      "pos": "expr",
+      "note": "sinonimo: avoir la tête en l'air"
+    },
+    {
+      "fr": "au cœur de",
+      "it": "nel cuore di, al centro di",
+      "pos": "expr",
+      "note": "au cœur de scandales = al centro di scandali"
     }
   ],
   "expressions": [
@@ -928,6 +1105,31 @@
       "concept": "vocab",
       "text": "Je pensais qu'il fallait réévaluer ce projet d'un point de vue différent.",
       "explain_it": "Il prefisso ré- indica che si valuta di nuovo; l'imperfetto pensais e fallait descrivono ciò che si pensava."
+    },
+    {
+      "id": "L092-e50",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Ce monsieur dépense tout son argent : il est très ___.",
+      "answers": [
+        "dépensier"
+      ],
+      "hint": "(spendaccione, maschile)",
+      "prompt": "Questo signore spende tutti i suoi soldi: è molto spendaccione.",
+      "explain_it": "Dépensier (f. dépensière) è l'aggettivo da dépenser."
+    },
+    {
+      "id": "L092-e51",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Non smettono di sottovalutare questa donna.",
+      "answers": [
+        "Ils ne cessent de sous-estimer cette femme.",
+        "On ne cesse de sous-estimer cette femme."
+      ],
+      "explain_it": "Cesser de + infinito, con ne senza pas; sous-estimer = sottovalutare."
     }
   ]
 }

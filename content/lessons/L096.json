@@ -1,7 +1,7 @@
 {
   "n": 96,
-  "title_fr": "Quatre-vingt-seizième leçon - Une émission-débat : Réinventons le rire",
-  "title_it": "Novantaseiesima lezione - Una trasmissione-dibattito: reinventiamo il riso",
+  "title_fr": "Une émission-débat : Réinventons le rire",
+  "title_it": "Una trasmissione-dibattito: reinventiamo il riso",
   "review": false,
   "status": "verified",
   "source": "4a88e539 pdf 28-36 (libro p.593-601); la lezione inizia a pdf 28 (p.593, in basso) con il titolo; dialogo pdf 28-34 (righe 1-22); note pdf 28-34 (note 1-10); esercizio 1 a pdf 34 (p.599), risposte a pdf 35 (p.600); esercizio 2 a pdf 36 (p.601, in alto), risposte a pdf 37 (p.602, fuori dal range indicato, lette per verifica); la lezione 97 inizia a pdf 36 (p.601, a metà pagina)",
@@ -264,6 +264,131 @@
       "fr": "le débat",
       "it": "il dibattito",
       "pos": "n"
+    },
+    {
+      "fr": "adoucir",
+      "it": "addolcire, ammorbidire",
+      "pos": "v",
+      "note": "je/il adoucit"
+    },
+    {
+      "fr": "un adoucissant",
+      "it": "un ammorbidente",
+      "pos": "n",
+      "note": "dal verbo adoucir"
+    },
+    {
+      "fr": "alléger",
+      "it": "alleggerire",
+      "pos": "v",
+      "note": "nous allégeons; da léger"
+    },
+    {
+      "fr": "autoriser",
+      "it": "autorizzare",
+      "pos": "v"
+    },
+    {
+      "fr": "définitif / définitive",
+      "it": "definitivo",
+      "pos": "adj"
+    },
+    {
+      "fr": "un élément",
+      "it": "un elemento, un dato",
+      "pos": "n",
+      "note": "in questa lezione: dati su cui giudicare"
+    },
+    {
+      "fr": "la fraîcheur",
+      "it": "la freschezza",
+      "pos": "n"
+    },
+    {
+      "fr": "grisâtre",
+      "it": "grigiastro",
+      "pos": "adj",
+      "note": "invariabile al femminile"
+    },
+    {
+      "fr": "l'impôt (m.)",
+      "it": "l'imposta, la tassa",
+      "pos": "n",
+      "note": "pl. les impôts; la feuille d'impôts = la dichiarazione dei redditi"
+    },
+    {
+      "fr": "l'instinct (m.)",
+      "it": "l'istinto",
+      "pos": "n"
+    },
+    {
+      "fr": "lointain / lointaine",
+      "it": "lontano",
+      "pos": "adj"
+    },
+    {
+      "fr": "la méchanceté",
+      "it": "la cattiveria",
+      "pos": "n"
+    },
+    {
+      "fr": "la politesse",
+      "it": "la cortesia, la buona educazione",
+      "pos": "n"
+    },
+    {
+      "fr": "primer",
+      "it": "premiare",
+      "pos": "v",
+      "note": "Le film a été primé à Cannes"
+    },
+    {
+      "fr": "le psychiatre (m./f.)",
+      "it": "lo psichiatra",
+      "pos": "n",
+      "note": "la p di psy- si pronuncia"
+    },
+    {
+      "fr": "une idée reçue",
+      "it": "un luogo comune, un pregiudizio",
+      "pos": "expr",
+      "note": "reçue: participio di recevoir"
+    },
+    {
+      "fr": "recycler",
+      "it": "riciclare",
+      "pos": "v"
+    },
+    {
+      "fr": "réinventer",
+      "it": "reinventare",
+      "pos": "v"
+    },
+    {
+      "fr": "la répétition",
+      "it": "la ripetizione, la replica",
+      "pos": "n"
+    },
+    {
+      "fr": "la richesse",
+      "it": "la ricchezza",
+      "pos": "n"
+    },
+    {
+      "fr": "suffisamment",
+      "it": "abbastanza, a sufficienza",
+      "pos": "adv",
+      "note": "suffisamment de + nome"
+    },
+    {
+      "fr": "à l'infini",
+      "it": "all'infinito",
+      "pos": "expr"
+    },
+    {
+      "fr": "toucher à sa fin",
+      "it": "volgere al termine",
+      "pos": "expr"
     }
   ],
   "expressions": [
@@ -857,6 +982,31 @@
       "front": "Una 'prime' in francese: che cosa significa?",
       "back": "Un bonus, un premio o un'indennità in denaro (prime de fin d'année, la gratifica di fine anno). Non significa 'primo', che si dice premier. Il verbo primer significa premiare.",
       "note": "Périmé invece significa scaduto."
+    },
+    {
+      "id": "L096-e45",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Je ne vous ___ pas à fumer ici.",
+      "answers": [
+        "autorise"
+      ],
+      "hint": "(autoriser, presente, je)",
+      "prompt": "Non vi autorizzo a fumare qui.",
+      "explain_it": "Autoriser quelqu'un à + infinitif: al presente con je si scrive autorise."
+    },
+    {
+      "id": "L096-e46",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "La politesse est importante pour mes parents.",
+      "answers": [
+        "La politesse est importante pour mes parents.",
+        "La politesse compte pour mes parents."
+      ],
+      "explain_it": "Politesse è la cortesia; il nome è femminile e richiede l'articolo la."
     }
   ]
 }

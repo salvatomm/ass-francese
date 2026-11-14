@@ -98,6 +98,17 @@
       "fr": "texter",
       "it": "mandare un SMS",
       "pos": "v"
+    },
+    {
+      "fr": "améliorer",
+      "it": "migliorare",
+      "pos": "v"
+    },
+    {
+      "fr": "demeurer",
+      "it": "restare, dimorare",
+      "pos": "v",
+      "note": "passé simple: il demeura; registro letterario"
     }
   ],
   "expressions": [
@@ -844,6 +855,33 @@
       "back": "Essere in un periodo molto favorevole, avere fortuna (dalla vela: avere il vento in poppa).",
       "note": "Il verbo avoir qui è usato in senso figurato.",
       "explain_it": "È un'espressione dalla vela: il vento in poppa spinge la barca, come la fortuna spinge chi ne ha."
+    },
+    {
+      "id": "L098-e55",
+      "type": "cloze",
+      "level": 2,
+      "concept": "passe-simple",
+      "text": "Le roi ___ longtemps dans ce château.",
+      "answers": [
+        "demeura"
+      ],
+      "hint": "(demeurer, passé simple, il)",
+      "prompt": "Il re rimase a lungo in quel castello.",
+      "explain_it": "Demeurer è un verbo in -er: il passé simple alla terza persona singolare finisce in -a."
+    },
+    {
+      "id": "L098-e56",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Questo nuovo software migliorerà il nostro lavoro.",
+      "answers": [
+        "Ce nouveau logiciel va améliorer notre travail.",
+        "Ce nouveau logiciel améliorera notre travail.",
+        "Ce logiciel va améliorer notre travail.",
+        "Ce logiciel améliorera notre travail."
+      ],
+      "explain_it": "Améliorer è transitivo e significa migliorare; si può usare il futuro prossimo o il futuro semplice."
     }
   ]
 }

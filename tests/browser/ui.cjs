@@ -25,7 +25,9 @@ const OUT = process.argv[2] || '.';
     if (!type) break;
     seen[type] = (seen[type] || 0) + 1;
     if (type === 'mcq') await p.click('.opt >> nth=0');
-    else if (type === 'flash') { await p.click('[data-act=reveal]'); await p.click('[data-act=self][data-s="0"]'); continue; }
+    else if (type === 'flash') {   // self-grading saves asynchronously: wait until the next card replaced this one
+      await p.click('[data-act=reveal]'); await p.click('[data-act=self][data-s="0"]');
+      await p.waitForFunction(() => !document.querySelector('[data-act=reveal][hidden]')); continue; }
     else if (type === 'order') { const n = await p.locator('.bank .tilew').count(); for (let k = 0; k < n; k++) await p.locator('.bank .tilew').first().click(); await p.click('[data-act=check]'); }
     else { await p.fill('#ans', i % 2 ? 'je ne sais pas' : 'bonjour'); await p.click('[data-act=check]'); }
     await p.waitForSelector('#fb:not([hidden])');

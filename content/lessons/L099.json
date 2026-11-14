@@ -1,7 +1,7 @@
 {
   "n": 99,
-  "title_fr": "Quatre-vingt-dix-neuvième leçon - Incroyable mais vrai...",
-  "title_it": "Novantanovesima lezione - Incredibile ma vero...",
+  "title_fr": "Incroyable mais vrai...",
+  "title_it": "Incredibile ma vero...",
   "review": false,
   "status": "verified",
   "source": "4a88e539 pdf 56-62 (libro p.621-627): titolo e dialogo righe 1-7 a pdf 56, righe 8-18 a pdf 58, righe 19-24 a pdf 60; note 1-5 a pdf 56-57, nota 6 a pdf 58, note 7-8 a pdf 59, nota 9 a pdf 60, nota 10 a pdf 61; esercizio 1 a pdf 60 (p.625), risposte a pdf 61 (p.626); esercizio 2 a pdf 62 (p.627), risposte fuori intervallo; la lezione 100 inizia a pdf 62 (p.627)",
@@ -258,6 +258,61 @@
       "fr": "l'ouïe (f.)",
       "it": "l'udito",
       "pos": "n"
+    },
+    {
+      "fr": "l'amende (f.)",
+      "it": "la multa",
+      "pos": "n"
+    },
+    {
+      "fr": "un avantage",
+      "it": "un vantaggio",
+      "pos": "n",
+      "note": "avantage par rapport à = vantaggio rispetto a"
+    },
+    {
+      "fr": "incroyable",
+      "it": "incredibile",
+      "pos": "adj",
+      "note": "invariabile al femminile"
+    },
+    {
+      "fr": "longuement",
+      "it": "a lungo",
+      "pos": "adv"
+    },
+    {
+      "fr": "le sentiment",
+      "it": "il sentimento, la sensazione",
+      "pos": "n",
+      "note": "j'ai le sentiment que = ho la sensazione che"
+    },
+    {
+      "fr": "l'odorat (m.)",
+      "it": "l'olfatto",
+      "pos": "n"
+    },
+    {
+      "fr": "le procès-verbal",
+      "it": "il verbale, la contravvenzione",
+      "pos": "n",
+      "note": "abbreviato PV; pl. les procès-verbaux"
+    },
+    {
+      "fr": "par rapport à",
+      "it": "rispetto a",
+      "pos": "expr"
+    },
+    {
+      "fr": "la technologie",
+      "it": "la tecnologia",
+      "pos": "n"
+    },
+    {
+      "fr": "les transports collectifs (m. pl.)",
+      "it": "i trasporti pubblici",
+      "pos": "expr",
+      "note": "sinonimo di les transports en commun"
     }
   ],
   "expressions": [
@@ -919,6 +974,31 @@
       "back": "sia... sia; tanto... quanto (confronto di uguaglianza)",
       "note": "Con i pronomi tonici: aussi bien lui que moi = sia lui sia io.",
       "explain_it": "Aussi bien... que collega due elementi di pari valore, come l'italiano sia... sia."
+    },
+    {
+      "id": "L099-e49",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Il a payé une ___ parce qu'il roulait trop vite.",
+      "answers": [
+        "amende"
+      ],
+      "hint": "(la multa)",
+      "prompt": "Ha pagato una multa perché andava troppo veloce.",
+      "explain_it": "Une amende è una multa, nome femminile; non confonderlo con amande (mandorla)."
+    },
+    {
+      "id": "L099-e50",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Ho la sensazione che tu abbia un vantaggio su di me.",
+      "answers": [
+        "J'ai le sentiment que tu as un avantage sur moi.",
+        "J'ai le sentiment que tu as un avantage par rapport à moi."
+      ],
+      "explain_it": "Sentiment e avantage sono maschili; si può dire avantage sur o par rapport à."
     }
   ]
 }

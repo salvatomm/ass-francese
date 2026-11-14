@@ -1,6 +1,6 @@
 {
   "n": 85,
-  "title_fr": "Quatre-vingt-cinquième leçon - Comment ça, je massacre le français ?",
+  "title_fr": "Comment ça, je massacre le français ?",
   "title_it": "Come sarebbe a dire che massacro il francese?",
   "review": false,
   "status": "verified",
@@ -652,7 +652,7 @@
       "type": "write",
       "level": 2,
       "concept": "subjonctif",
-      "prompt": "Traduci: « Bisogna che tu venga con me. »",
+      "prompt": "« Bisogna che tu venga con me. »",
       "answers": [
         "Il faut que tu viennes avec moi"
       ],

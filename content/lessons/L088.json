@@ -1,7 +1,7 @@
 {
   "n": 88,
-  "title_fr": "Quatre-vingt-huitième leçon - Le commissaire Périer mène l'enquête (suite)",
-  "title_it": "Ottantottesima lezione - Il commissario Périer conduce l'indagine (seguito)",
+  "title_fr": "Le commissaire Périer mène l'enquête (suite)",
+  "title_it": "Il commissario Périer conduce l'indagine (seguito)",
   "review": false,
   "status": "verified",
   "source": "3d1a4471 pdf 55-62 (libro p.531-538); la lezione inizia a meta pagina pdf 55 (p.531) con il titolo, dopo l'esercizio 2 della L87; dialogo pdf 55-61; note pdf 55-60 e 62; esercizi 1-2 pdf 61 (p.537), risposte pdf 62 (p.538); la lezione 89 inizia a meta pagina pdf 63 (p.539)",
@@ -700,7 +700,7 @@
       "type": "write",
       "level": 2,
       "concept": "subjonctif",
-      "prompt": "Traduci: Qualunque cosa dica, non gli credo.",
+      "prompt": "Qualunque cosa dica, non gli credo.",
       "answers": [
         "Quoi qu'il dise, je ne le crois pas."
       ],
@@ -711,7 +711,7 @@
       "type": "write",
       "level": 2,
       "concept": "subjonctif",
-      "prompt": "Traduci: Dovunque tu vada, ti troverò.",
+      "prompt": "Dovunque tu vada, ti troverò.",
       "answers": [
         "Où que tu ailles, je te [trouverai|retrouverai]."
       ],
@@ -722,7 +722,7 @@
       "type": "write",
       "level": 2,
       "concept": "superlatives",
-      "prompt": "Traduci: È l'uomo più simpatico che conosca.",
+      "prompt": "È l'uomo più simpatico che conosca.",
       "answers": [
         "C'est l'homme le [plus sympathique|plus sympa] que je connaisse."
       ],
@@ -744,7 +744,7 @@
       "type": "write",
       "level": 2,
       "concept": "idioms",
-      "prompt": "Traduci: Mi hai fatto un favore.",
+      "prompt": "Mi hai fatto un favore.",
       "answers": [
         "Tu m'as fait une fleur."
       ],
@@ -755,7 +755,7 @@
       "type": "write",
       "level": 2,
       "concept": "subjonctif",
-      "prompt": "Traduci: Bisogna che siate pronti.",
+      "prompt": "Bisogna che siate pronti.",
       "answers": [
         "Il faut que vous soyez [prêts|prêtes]."
       ],
@@ -766,7 +766,7 @@
       "type": "write",
       "level": 2,
       "concept": "subjonctif",
-      "prompt": "Traduci: Qualunque sia il costo, lo faremo.",
+      "prompt": "Qualunque sia il costo, lo faremo.",
       "answers": [
         "Quel que soit le [prix|coût], nous le ferons."
       ],
@@ -831,7 +831,7 @@
       "type": "write",
       "level": 3,
       "concept": "subjonctif",
-      "prompt": "Traduci: Il libro di cui ti parlavo è l'unico che sia interessante.",
+      "prompt": "Il libro di cui ti parlavo è l'unico che sia interessante.",
       "answers": [
         "Le livre dont je te parlais est le seul qui soit intéressant."
       ],
@@ -842,7 +842,7 @@
       "type": "write",
       "level": 3,
       "concept": "subjonctif",
-      "prompt": "Traduci: Qualunque sia la tua decisione, ti appoggerò.",
+      "prompt": "Qualunque sia la tua decisione, ti appoggerò.",
       "answers": [
         "Quelle que soit ta décision, je [te soutiendrai|t'appuierai]."
       ],
@@ -864,7 +864,7 @@
       "type": "write",
       "level": 3,
       "concept": "superlatives",
-      "prompt": "Traduci: È la più bella ragazza che conosca.",
+      "prompt": "È la più bella ragazza che conosca.",
       "answers": [
         "C'est la plus belle fille que je connaisse."
       ],
@@ -907,7 +907,7 @@
       "type": "write",
       "level": 3,
       "concept": "subjonctif",
-      "prompt": "Traduci: Dobbiamo finire il lavoro a ogni costo.",
+      "prompt": "Dobbiamo finire il lavoro a ogni costo.",
       "answers": [
         "Il faut que nous [terminions|finissions] le travail coûte que coûte.",
         "Nous devons [terminer|finir] le travail coûte que coûte."

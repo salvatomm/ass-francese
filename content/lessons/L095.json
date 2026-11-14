@@ -1,7 +1,7 @@
 {
   "n": 95,
-  "title_fr": "Quatre-vingt-quinzième leçon - Le JT du soir",
-  "title_it": "Novantacinquesima lezione - Il TG della sera",
+  "title_fr": "Le JT du soir",
+  "title_it": "Il TG della sera",
   "review": false,
   "status": "verified",
   "source": "4a88e539 pdf 20-29 (libro p.585-594); la lezione inizia a pdf 20 (p.585, in basso) con il titolo; dialogo righe 1-2 a pdf 20-21, righe 3-10 a pdf 22-23, righe 11-19 a pdf 24-25, righe 20-25 a pdf 26-27; note 1-10 a pdf 21-27; esercizio 1 a pdf 26 (p.591), risposte a pdf 27 (p.592); esercizio 2 a pdf 28 (p.593, in alto), risposte a pdf 29 (p.594, in alto); la lezione 96 inizia a pdf 28 (p.593, in basso)",
@@ -221,6 +221,240 @@
       "it": "la gendarmeria, i carabinieri francesi",
       "pos": "n",
       "note": "corpo di polizia militare"
+    },
+    {
+      "fr": "admettre",
+      "it": "ammettere",
+      "pos": "v",
+      "note": "si coniuga come mettre"
+    },
+    {
+      "fr": "l'agriculture (f.)",
+      "it": "l'agricoltura",
+      "pos": "n"
+    },
+    {
+      "fr": "aux alentours de",
+      "it": "nei dintorni di, intorno a",
+      "pos": "expr",
+      "note": "vale anche per il tempo: aux alentours de minuit"
+    },
+    {
+      "fr": "le chroniqueur / la chroniqueuse",
+      "it": "il cronista, il rubricista",
+      "pos": "n"
+    },
+    {
+      "fr": "le cochon",
+      "it": "il maiale",
+      "pos": "n"
+    },
+    {
+      "fr": "débrouillard(e)",
+      "it": "in gamba, che sa cavarsela",
+      "pos": "adj"
+    },
+    {
+      "fr": "dérober",
+      "it": "rubare (di nascosto)",
+      "pos": "v",
+      "note": "più elegante di voler; riferito a oggetti"
+    },
+    {
+      "fr": "dérobé(e)",
+      "it": "nascosto",
+      "pos": "adj",
+      "note": "un escalier dérobé = una scala nascosta"
+    },
+    {
+      "fr": "dévoiler",
+      "it": "svelare",
+      "pos": "v"
+    },
+    {
+      "fr": "le diamant",
+      "it": "il diamante",
+      "pos": "n"
+    },
+    {
+      "fr": "disposer (de)",
+      "it": "disporre (di)",
+      "pos": "v",
+      "note": "la police ne dispose d'aucun indice"
+    },
+    {
+      "fr": "le dynamisme",
+      "it": "il dinamismo",
+      "pos": "n"
+    },
+    {
+      "fr": "l'émission-débat (f.)",
+      "it": "il programma-dibattito",
+      "pos": "n"
+    },
+    {
+      "fr": "envisager",
+      "it": "prendere in considerazione, ipotizzare",
+      "pos": "v"
+    },
+    {
+      "fr": "le fermier / la fermière",
+      "it": "l'agricoltore, il fattore",
+      "pos": "n",
+      "note": "aggettivo: produits fermiers = prodotti della fattoria"
+    },
+    {
+      "fr": "le flash",
+      "it": "il flash (notiziario)",
+      "pos": "n"
+    },
+    {
+      "fr": "francophone",
+      "it": "francofono",
+      "pos": "adj",
+      "note": "anche nome m./f."
+    },
+    {
+      "fr": "gercé(e)",
+      "it": "screpolato",
+      "pos": "adj",
+      "note": "les lèvres gercées"
+    },
+    {
+      "fr": "le gratin",
+      "it": "la crème (dell'alta società)",
+      "pos": "n",
+      "note": "anche: gratin (piatto)"
+    },
+    {
+      "fr": "l'incident (m.)",
+      "it": "l'incidente (episodio spiacevole)",
+      "pos": "n",
+      "note": "falso amico: incidente stradale = accident"
+    },
+    {
+      "fr": "informer",
+      "it": "informare",
+      "pos": "v"
+    },
+    {
+      "fr": "la joie",
+      "it": "la gioia",
+      "pos": "n"
+    },
+    {
+      "fr": "luxueux / luxueuse",
+      "it": "lussuoso",
+      "pos": "adj"
+    },
+    {
+      "fr": "médiatisé(e)",
+      "it": "molto coperto dai media",
+      "pos": "adj"
+    },
+    {
+      "fr": "le mouton",
+      "it": "la pecora, il montone",
+      "pos": "n"
+    },
+    {
+      "fr": "le niveau",
+      "it": "il livello",
+      "pos": "n",
+      "note": "pl. niveaux; au niveau de = a livello di"
+    },
+    {
+      "fr": "l'organisateur (m.)",
+      "it": "l'organizzatore",
+      "pos": "n",
+      "note": "f. l'organisatrice"
+    },
+    {
+      "fr": "le paysan / la paysanne",
+      "it": "il contadino",
+      "pos": "n"
+    },
+    {
+      "fr": "la pensée",
+      "it": "il pensiero",
+      "pos": "n",
+      "note": "le fond de leur pensée = ciò che pensano davvero"
+    },
+    {
+      "fr": "percevoir",
+      "it": "percepire",
+      "pos": "v",
+      "note": "je perçois"
+    },
+    {
+      "fr": "pessimiste",
+      "it": "pessimista",
+      "pos": "adj",
+      "note": "invariabile al femminile"
+    },
+    {
+      "fr": "la prévision",
+      "it": "la previsione",
+      "pos": "n"
+    },
+    {
+      "fr": "se produire",
+      "it": "accadere, verificarsi",
+      "pos": "v"
+    },
+    {
+      "fr": "le refroidissement",
+      "it": "il raffreddamento",
+      "pos": "n"
+    },
+    {
+      "fr": "le regard",
+      "it": "lo sguardo",
+      "pos": "n"
+    },
+    {
+      "fr": "sidéré(e)",
+      "it": "sbalordito",
+      "pos": "adj"
+    },
+    {
+      "fr": "le signe",
+      "it": "il segno",
+      "pos": "n"
+    },
+    {
+      "fr": "le stade",
+      "it": "la fase (stadio)",
+      "pos": "n",
+      "note": "à ce stade = a questo punto"
+    },
+    {
+      "fr": "tardif / tardive",
+      "it": "tardivo",
+      "pos": "adj"
+    },
+    {
+      "fr": "le taureau",
+      "it": "il toro",
+      "pos": "n",
+      "note": "pl. taureaux"
+    },
+    {
+      "fr": "le veau",
+      "it": "il vitello",
+      "pos": "n",
+      "note": "pl. veaux"
+    },
+    {
+      "fr": "la victime",
+      "it": "la vittima",
+      "pos": "n",
+      "note": "sempre femminile"
+    },
+    {
+      "fr": "visionner",
+      "it": "guardare, visionare",
+      "pos": "v"
     }
   ],
   "expressions": [
@@ -790,6 +1024,30 @@
       "front": "Se débrouiller al passato prossimo: quale ausiliare e quale concordanza?",
       "back": "Si usa être. Il participio concorda con il soggetto, perché il pronome riflessivo è complemento diretto che si riferisce al soggetto: je me suis débrouillé(e), elle s'est débrouillée.",
       "explain_it": "È la regola generale dei verbi pronominali: il pronome e il soggetto sono la stessa persona, quindi la concordanza segue il soggetto."
+    },
+    {
+      "id": "L095-e43",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "text": "Selon la presse, un incident s'est ___ hier soir.",
+      "answers": [
+        "produit"
+      ],
+      "hint": "(se produire)",
+      "prompt": "Secondo la stampa, ieri sera si è verificato un incidente.",
+      "explain_it": "Se produire = accadere, verificarsi; il passato prossimo usa être."
+    },
+    {
+      "id": "L095-e44",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Abbiamo visto dei vitelli, dei maiali e delle pecore.",
+      "answers": [
+        "[Nous avons|On a] vu des veaux, des cochons et des moutons."
+      ],
+      "explain_it": "Veau, cochon e mouton: i plurali sono veaux, cochons, moutons."
     }
   ]
 }

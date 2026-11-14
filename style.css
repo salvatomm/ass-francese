@@ -89,6 +89,7 @@ button:disabled { opacity: .55; cursor: default; }
 .theory .rule p { margin: .4em 0; }
 .ex { display: flex; gap: 8px; align-items: baseline; flex-wrap: wrap; }
 .ex small { flex-basis: 100%; padding-left: 38px; }
+p.ex > span { flex: 1 1 0; min-width: 0; }   /* long sentences wrap next to the speaker button */
 table.vocab { width: 100%; border-collapse: collapse; background: var(--card); border-radius: 12px; overflow: hidden; }
 .vocab td { border-bottom: 1px solid var(--line); padding: 8px 6px; vertical-align: top; }
 .vocab td:first-child { width: 36px; }

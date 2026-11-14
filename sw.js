@@ -1,6 +1,6 @@
 // Offline-first service worker. tools/build.py rewrites VERSION whenever any app file or content
 // changes, so a deploy always installs a fresh cache (no stale app forever).
-const VERSION = 'f9fc9948ffbb';
+const VERSION = '630f3e626739';
 const CACHE = `francese-${VERSION}`;
 const ASSETS = ['./', 'index.html', 'app.js', 'core.js', 'db.js', 'sync.js', 'style.css',
   'manifest.webmanifest', 'content/bundle.json', 'icons/icon-192.png', 'icons/icon-512.png'];

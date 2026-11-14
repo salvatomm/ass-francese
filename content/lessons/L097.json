@@ -1,7 +1,7 @@
 {
   "n": 97,
-  "title_fr": "Quatre-vingt-dix-septième leçon - En plein dans le mille !",
-  "title_it": "Novantasettesima lezione - Proprio nel segno!",
+  "title_fr": "En plein dans le mille !",
+  "title_it": "Proprio nel segno!",
   "review": false,
   "status": "verified",
   "source": "4a88e539 pdf 36-45 (libro p.601-610); titolo a pdf 36 (p.601, in basso); dialogo riga 1 a pdf 36, righe 2-7 a pdf 38, righe 8-18 a pdf 40, righe 19-23 a pdf 42; note 1 a pdf 36, note 2 a pdf 38, note 3-6 a pdf 39, note 7 a pdf 40, note 8 a pdf 41, note 9 a pdf 42, note 10 a pdf 43; esercizio 1 a pdf 42 (p.607), risposte a pdf 43 (p.608); esercizio 2 a pdf 44 (p.609, in alto), risposte a pdf 45 (p.610); la lezione 98 inizia a pdf 44 (p.609, a metà pagina)",
@@ -222,6 +222,111 @@
       "it": "indietreggiare",
       "pos": "v",
       "note": "je recule"
+    },
+    {
+      "fr": "la barre",
+      "it": "la barra, l'asticella",
+      "pos": "n",
+      "note": "placer la barre haut = porre l'asticella in alto"
+    },
+    {
+      "fr": "le cap",
+      "it": "la rotta",
+      "pos": "n",
+      "note": "changer de cap = cambiare rotta"
+    },
+    {
+      "fr": "le capital",
+      "it": "il capitale",
+      "pos": "n",
+      "note": "pl. les capitaux; la capitale = la capitale di un paese"
+    },
+    {
+      "fr": "le chaos",
+      "it": "il caos",
+      "pos": "n",
+      "note": "si pronuncia come KO: [kao]"
+    },
+    {
+      "fr": "classique",
+      "it": "classico, tradizionale",
+      "pos": "adj",
+      "note": "invariabile al femminile"
+    },
+    {
+      "fr": "se compliquer",
+      "it": "complicarsi",
+      "pos": "v",
+      "note": "les choses se sont compliquées"
+    },
+    {
+      "fr": "diriger",
+      "it": "dirigere",
+      "pos": "v",
+      "note": "nous dirigeons"
+    },
+    {
+      "fr": "le dossier",
+      "it": "il dossier, la pratica",
+      "pos": "n"
+    },
+    {
+      "fr": "l'énergie (f.)",
+      "it": "l'energia",
+      "pos": "n"
+    },
+    {
+      "fr": "faillir",
+      "it": "quasi + verbo",
+      "pos": "v",
+      "note": "passé composé + infinito: j'ai failli tomber = sono quasi caduto"
+    },
+    {
+      "fr": "être KO",
+      "it": "essere distrutto",
+      "pos": "expr",
+      "note": "dal pugilato; si pronuncia [ka-o]"
+    },
+    {
+      "fr": "mettre au point",
+      "it": "mettere a punto, sviluppare",
+      "pos": "expr",
+      "note": "participio: mis au point"
+    },
+    {
+      "fr": "la mise au point",
+      "it": "la messa a punto",
+      "pos": "n",
+      "note": "nome femminile; non confonderlo con mis au point"
+    },
+    {
+      "fr": "placer",
+      "it": "collocare, mettere",
+      "pos": "v",
+      "note": "nous plaçons"
+    },
+    {
+      "fr": "le prétexte",
+      "it": "il pretesto",
+      "pos": "n",
+      "note": "sous prétexte que = col pretesto che"
+    },
+    {
+      "fr": "régional / régionale",
+      "it": "regionale",
+      "pos": "adj",
+      "note": "pl. régionaux"
+    },
+    {
+      "fr": "rudimentaire",
+      "it": "rudimentale, elementare",
+      "pos": "adj"
+    },
+    {
+      "fr": "similaire",
+      "it": "simile",
+      "pos": "adj",
+      "note": "invariabile al femminile"
     }
   ],
   "expressions": [
@@ -890,6 +995,31 @@
       "back": "mettere a punto, perfezionare; in fotografia: mettere a fuoco",
       "note": "Participio: mis (mis au point). Il sostantivo corrispondente è la mise au point.",
       "explain_it": "Mettre au point è un'espressione da memorizzare: il participio mis non va confuso con il sostantivo mise."
+    },
+    {
+      "id": "L097-e49",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Le capitaine a décidé de changer de ___.",
+      "answers": [
+        "cap"
+      ],
+      "hint": "(la rotta)",
+      "prompt": "Il capitano ha deciso di cambiare rotta.",
+      "explain_it": "Changer de cap significa cambiare rotta, anche in senso figurato."
+    },
+    {
+      "id": "L097-e50",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Ha quasi mancato il suo treno.",
+      "answers": [
+        "Il a failli manquer son train.",
+        "Il a failli rater son train."
+      ],
+      "explain_it": "Faillir si usa al passé composé seguito da un infinito per dire 'quasi'."
     }
   ]
 }

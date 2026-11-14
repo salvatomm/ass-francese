@@ -1,7 +1,7 @@
 {
   "n": 94,
-  "title_fr": "Quatre-vingt-quatorzième leçon - Les inconvénients du travail à domicile",
-  "title_it": "Novantaquattresima lezione - Gli svantaggi del lavoro da casa",
+  "title_fr": "Les inconvénients du travail à domicile",
+  "title_it": "Gli svantaggi del lavoro da casa",
   "review": false,
   "status": "verified",
   "source": "4a88e539 pdf 14-20 (libro p.579-585); la lezione inizia a pdf 14 (p.579) con il titolo; dialogo a pdf 14, 16, 18 (righe 1-23); note pdf 14-19 (note 1-10); esercizio 1 a pdf 18 (p.583), risposte a pdf 19 (p.584); esercizio 2 a pdf 20 (p.585, in alto), risposte fuori dal range; la lezione 95 inizia a pdf 20 (p.585, in basso)",
@@ -256,6 +256,95 @@
       "fr": "le bâtiment",
       "it": "l'edificio",
       "pos": "n"
+    },
+    {
+      "fr": "l'alimentation (f.)",
+      "it": "l'alimentazione",
+      "pos": "n",
+      "note": "le cordon d'alimentation = il cavo di alimentazione"
+    },
+    {
+      "fr": "l'assistance (f.)",
+      "it": "l'assistenza",
+      "pos": "n",
+      "note": "le service d'assistance = il servizio di assistenza"
+    },
+    {
+      "fr": "assister (à)",
+      "it": "assistere (a), essere presente (a)",
+      "pos": "v",
+      "note": "falso amico: non significa 'aiutare' (= aider)"
+    },
+    {
+      "fr": "bêtement",
+      "it": "stupidamente",
+      "pos": "adv"
+    },
+    {
+      "fr": "chéri(e)",
+      "it": "caro, tesoro",
+      "pos": "adj",
+      "note": "come appellativo: chéri, chérie"
+    },
+    {
+      "fr": "ci",
+      "it": "questo",
+      "pos": "pron",
+      "note": "faire ci, faire ça = fare questo, fare quello"
+    },
+    {
+      "fr": "le crack",
+      "it": "l'esperto, il campione",
+      "pos": "n",
+      "note": "un crack de l'informatique; anche: crack (droga)"
+    },
+    {
+      "fr": "difficilement",
+      "it": "a fatica, con difficoltà",
+      "pos": "adv"
+    },
+    {
+      "fr": "favori / favorite",
+      "it": "preferito",
+      "pos": "adj"
+    },
+    {
+      "fr": "l'inconvénient (m.)",
+      "it": "lo svantaggio, l'inconveniente",
+      "pos": "n"
+    },
+    {
+      "fr": "l'informatique (f.)",
+      "it": "l'informatica",
+      "pos": "n"
+    },
+    {
+      "fr": "se livrer (à)",
+      "it": "dedicarsi (a), abbandonarsi (a)",
+      "pos": "v",
+      "note": "senso diverso da livrer = consegnare"
+    },
+    {
+      "fr": "remettre en ordre",
+      "it": "rimettere in ordine",
+      "pos": "expr"
+    },
+    {
+      "fr": "réparer",
+      "it": "riparare",
+      "pos": "v"
+    },
+    {
+      "fr": "sniff",
+      "it": "snif (singhiozzo)",
+      "pos": "interj",
+      "note": "la i si pronuncia [i]: [sniff]"
+    },
+    {
+      "fr": "total(e)",
+      "it": "totale",
+      "pos": "adj",
+      "note": "m. pl. totaux"
     }
   ],
   "expressions": [
@@ -793,6 +882,31 @@
       "front": "Come si usa en con s'en sortir?",
       "back": "En sostituisce il complemento introdotto da 'de' (di ciò): On s'en sort; Comment t'en sors-tu?",
       "note": "Con l'avverbio si può dire: Je m'en sors bien."
+    },
+    {
+      "id": "L094-e40",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Mon ordinateur est en panne : je dois le ___ avant lundi.",
+      "answers": [
+        "réparer"
+      ],
+      "hint": "(riparare)",
+      "prompt": "Il mio computer è in panne: devo ripararlo prima di lunedì.",
+      "explain_it": "Réparer = riparare; dopo devoir si usa l'infinito."
+    },
+    {
+      "id": "L094-e41",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Ha dimenticato stupidamente il cavo.",
+      "answers": [
+        "Il a bêtement oublié le cordon.",
+        "Elle a bêtement oublié le cordon."
+      ],
+      "explain_it": "Gli avverbi in -ment come bêtement stanno di solito tra avere e participio."
     }
   ]
 }

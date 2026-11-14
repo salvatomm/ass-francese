@@ -1,7 +1,7 @@
 {
   "n": 93,
-  "title_fr": "Quatre-vingt-treizième leçon - Un cours d'histoire : « Le jour de gloire est arrivé ! »",
-  "title_it": "Novantatreesima lezione - Una lezione di storia: « Il giorno di gloria è arrivato! »",
+  "title_fr": "Un cours d'histoire : « Le jour de gloire est arrivé ! »",
+  "title_it": "Una lezione di storia: « Il giorno di gloria è arrivato! »",
   "review": false,
   "status": "verified",
   "source": "4a88e539 pdf 6-13 (libro p.571-578); la lezione inizia a pdf 6 (p.571) con il titolo dopo il riquadro culturale su Maria Antonietta; dialogo pdf 6-10 (righe 1-22); note pdf 6-11 (note 1-9); esercizi pdf 12 (p.577), risposte pdf 13 (p.578); la lezione 94 inizia a pdf 14 (p.579), fuori dal range",
@@ -250,6 +250,173 @@
     {
       "fr": "assoiffé",
       "it": "assetato, bramoso",
+      "pos": "adj"
+    },
+    {
+      "fr": "blessé(e)",
+      "it": "ferito",
+      "pos": "adj",
+      "note": "anche nome: deux blessés"
+    },
+    {
+      "fr": "concentrer",
+      "it": "concentrare",
+      "pos": "v",
+      "note": "se concentrer sur = concentrarsi su"
+    },
+    {
+      "fr": "contenir",
+      "it": "contenere",
+      "pos": "v",
+      "note": "si coniuga come tenir"
+    },
+    {
+      "fr": "le cri",
+      "it": "il grido",
+      "pos": "n"
+    },
+    {
+      "fr": "le défi",
+      "it": "la sfida",
+      "pos": "n"
+    },
+    {
+      "fr": "se diriger (vers)",
+      "it": "dirigersi (verso)",
+      "pos": "v"
+    },
+    {
+      "fr": "éclater",
+      "it": "scoppiare",
+      "pos": "v",
+      "note": "une émeute éclata = scoppiò una rivolta"
+    },
+    {
+      "fr": "l'édifice (m.)",
+      "it": "l'edificio",
+      "pos": "n"
+    },
+    {
+      "fr": "l'évier (m.)",
+      "it": "il lavello",
+      "pos": "n"
+    },
+    {
+      "fr": "la fête nationale",
+      "it": "la festa nazionale",
+      "pos": "expr",
+      "note": "in Francia il 14 luglio"
+    },
+    {
+      "fr": "forcément",
+      "it": "per forza, necessariamente",
+      "pos": "adv"
+    },
+    {
+      "fr": "la gloire",
+      "it": "la gloria",
+      "pos": "n"
+    },
+    {
+      "fr": "la haine",
+      "it": "l'odio",
+      "pos": "n",
+      "note": "h aspirata: la haine, pas d'élision"
+    },
+    {
+      "fr": "la justice",
+      "it": "la giustizia",
+      "pos": "n"
+    },
+    {
+      "fr": "menaçant(e)",
+      "it": "minaccioso",
+      "pos": "adj"
+    },
+    {
+      "fr": "le menteur / la menteuse",
+      "it": "il bugiardo / la bugiarda",
+      "pos": "n"
+    },
+    {
+      "fr": "la munition",
+      "it": "la munizione",
+      "pos": "n",
+      "note": "di solito al plurale: les munitions"
+    },
+    {
+      "fr": "l'oppression (f.)",
+      "it": "l'oppressione",
+      "pos": "n"
+    },
+    {
+      "fr": "la passion",
+      "it": "la passione",
+      "pos": "n",
+      "note": "pronuncia: ss come in italiano"
+    },
+    {
+      "fr": "la poignée",
+      "it": "il pugno (di), manciata",
+      "pos": "n",
+      "note": "une poignée de prisonniers"
+    },
+    {
+      "fr": "la pression",
+      "it": "la pressione",
+      "pos": "n"
+    },
+    {
+      "fr": "le régime",
+      "it": "il regime",
+      "pos": "n",
+      "note": "l'Ancien Régime"
+    },
+    {
+      "fr": "révolté(e)",
+      "it": "ribelle, indignato",
+      "pos": "adj",
+      "note": "les révoltés = i ribelli"
+    },
+    {
+      "fr": "la révolte",
+      "it": "la rivolta",
+      "pos": "n"
+    },
+    {
+      "fr": "la révolution",
+      "it": "la rivoluzione",
+      "pos": "n"
+    },
+    {
+      "fr": "le révolutionnaire / la révolutionnaire",
+      "it": "il rivoluzionario / la rivoluzionaria",
+      "pos": "n"
+    },
+    {
+      "fr": "sinistre",
+      "it": "sinistro, cupo",
+      "pos": "adj",
+      "note": "invariabile al femminile"
+    },
+    {
+      "fr": "subir",
+      "it": "subire",
+      "pos": "v"
+    },
+    {
+      "fr": "le système",
+      "it": "il sistema",
+      "pos": "n"
+    },
+    {
+      "fr": "la violence",
+      "it": "la violenza",
+      "pos": "n"
+    },
+    {
+      "fr": "violent(e)",
+      "it": "violento",
       "pos": "adj"
     }
   ],
@@ -751,6 +918,30 @@
       "front": "Déboucher: che differenza c'è tra 'déboucher de' e 'déboucher sur'?",
       "back": "Déboucher de = uscire da, sbucare da (Il déboucha de la gare). Déboucher sur = sboccare su, dare su (La rue débouche sur la place).",
       "explain_it": "La preposizione cambia il significato: de indica il punto di partenza, sur il punto di arrivo."
+    },
+    {
+      "id": "L093-e37",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "text": "Les citoyens se ___ vers la forteresse.",
+      "answers": [
+        "dirigent"
+      ],
+      "hint": "(diriger, présent)",
+      "prompt": "I cittadini si dirigono verso la fortezza.",
+      "explain_it": "Se diriger vers = dirigersi verso; il verbo è pronominale e al plurale fa -ent."
+    },
+    {
+      "id": "L093-e38",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "C'è troppa violenza in questo film.",
+      "answers": [
+        "Il y a trop de violence dans ce film."
+      ],
+      "explain_it": "Trop de + nome senza articolo; la violence è femminile."
     }
   ]
 }

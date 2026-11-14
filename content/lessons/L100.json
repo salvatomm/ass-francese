@@ -1,7 +1,7 @@
 {
   "n": 100,
-  "title_fr": "Centième leçon - La langue française",
-  "title_it": "Centesima lezione - La lingua francese",
+  "title_fr": "La langue française",
+  "title_it": "La lingua francese",
   "review": false,
   "status": "verified",
   "source": "4a88e539 pdf 62-69 (libro p.627-634); titolo a pdf 62 (in basso); dialogo righe 1-2 a pdf 62, righe 3-7 a pdf 64, righe 8-17 a pdf 66; note 1-3 a pdf 64, nota 4 a pdf 64-65, note 5-6 a pdf 66, nota 7 a pdf 67; esercizio 1 e 2 a pdf 68 (p.633), risposte a pdf 69 (p.634); messaggio finale del libro a pdf 69",
@@ -12,8 +12,14 @@
       "title_it": "Il suffisso -phone: francophone e la Francophonie",
       "explain_it": "Il suffisso -phone (dal greco, 'che parla' o 'che usa') si aggiunge al nome di una lingua per indicare chi la parla, oppure un paese in cui si parla: un francophone è una persona che parla francese, mentre un pays francophone è un paese in cui si parla francese. Con la maiuscola, La Francophonie indica l'insieme dei paesi e delle organizzazioni che promuovono la lingua francese nel mondo. In italiano abbiamo lo stesso meccanismo in anglofono o germanofono, quindi la regola è familiare.",
       "examples": [
-        { "fr": "Elle est francophone : elle parle français depuis l'enfance.", "it": "È francofona: parla francese fin dall'infanzia." },
-        { "fr": "Montréal est une ville francophone au Canada.", "it": "Montréal è una città francofona in Canada." }
+        {
+          "fr": "Elle est francophone : elle parle français depuis l'enfance.",
+          "it": "È francofona: parla francese fin dall'infanzia."
+        },
+        {
+          "fr": "Montréal est une ville francophone au Canada.",
+          "it": "Montréal è una città francofona in Canada."
+        }
       ]
     },
     {
@@ -21,8 +27,14 @@
       "title_it": "Bienvenu(e): aggettivo e sostantivo",
       "explain_it": "Bienvenu/bienvenue è un aggettivo e si accorda con la persona di cui si parla: Vous êtes le bienvenu (a un uomo), Soyez la bienvenue (a una donna), e al plurale les bienvenus, les bienvenues. Nell'espressione souhaiter la bienvenue (dare il benvenuto), invece, bienvenue è un sostantivo femminile e prende sempre la -e finale. Come saluto all'inizio di una frase si usa bienvenue da solo, senza accordi: Bienvenue chez nous !",
       "examples": [
-        { "fr": "Vous êtes les bienvenus chez nous, messieurs.", "it": "Siete i benvenuti da noi, signori." },
-        { "fr": "Nous leur souhaitons la bienvenue.", "it": "Diamo loro il benvenuto." }
+        {
+          "fr": "Vous êtes les bienvenus chez nous, messieurs.",
+          "it": "Siete i benvenuti da noi, signori."
+        },
+        {
+          "fr": "Nous leur souhaitons la bienvenue.",
+          "it": "Diamo loro il benvenuto."
+        }
       ]
     },
     {
@@ -30,53 +42,279 @@
       "title_it": "Fort(e) de: forte di, grazie a",
       "explain_it": "Fort(e) de seguito da un nome significa 'forte di, grazie a' e introduce un punto di forza, un vantaggio o una qualità. Si usa spesso in apertura di frase, nello stile descrittivo o giornalistico. L'aggettivo fort si accorda con il soggetto a cui si riferisce: fort (m. sing.), forte (f. sing.), forts e fortes (plurale). Non va confuso con l'avverbio fort, che significa 'molto' (fort bien, molto bene).",
       "examples": [
-        { "fr": "Forte de son expérience, elle a réussi le concours.", "it": "Forte della sua esperienza, ha superato il concorso." },
-        { "fr": "Forts de leur victoire, les joueurs ont fêté toute la nuit.", "it": "Forti della loro vittoria, i giocatori hanno festeggiato tutta la notte." }
+        {
+          "fr": "Forte de son expérience, elle a réussi le concours.",
+          "it": "Forte della sua esperienza, ha superato il concorso."
+        },
+        {
+          "fr": "Forts de leur victoire, les joueurs ont fêté toute la nuit.",
+          "it": "Forti della loro vittoria, i giocatori hanno festeggiato tutta la notte."
+        }
       ]
     }
   ],
   "vocab": [
-    { "fr": "assurer", "it": "assicurare, garantire", "pos": "v", "note": "pour assurer votre réussite = per garantire il vostro successo" },
-    { "fr": "une réussite", "it": "un successo, una riuscita", "pos": "n" },
-    { "fr": "désormais", "it": "d'ora in poi, ormai", "pos": "adv" },
-    { "fr": "profiter de", "it": "approfittare di, sfruttare", "pos": "v" },
-    { "fr": "une connaissance", "it": "una conoscenza", "pos": "n", "note": "al plurale: les connaissances = le conoscenze acquisite" },
-    { "fr": "un tour du monde", "it": "il giro del mondo", "pos": "n" },
-    { "fr": "partout", "it": "ovunque, dappertutto", "pos": "adv" },
-    { "fr": "une frontière", "it": "una frontiera, un confine", "pos": "n" },
-    { "fr": "une différence", "it": "una differenza", "pos": "n" },
-    { "fr": "une spécificité", "it": "una specificità, una peculiarità", "pos": "n" },
-    { "fr": "un dépanneur", "it": "un piccolo negozio di alimentari (in Canada)", "pos": "n", "note": "in Francia indica il meccanico o il soccorso stradale" },
-    { "fr": "une emplette", "it": "un acquisto, una compera", "pos": "n", "note": "al plurale: faire ses emplettes = fare compere" },
-    { "fr": "un char", "it": "un'automobile (in Canada)", "pos": "n", "note": "in Francia char significa carro (o carro armato)" },
-    { "fr": "un chien-chaud", "it": "un hot dog", "pos": "n" },
-    { "fr": "une patrie", "it": "una patria", "pos": "n" },
-    { "fr": "accueillant", "it": "accogliente, ospitale", "pos": "adj", "note": "f. accueillante" },
-    { "fr": "nuancé", "it": "sfumato, ricco di sfumature", "pos": "adj", "note": "f. nuancée" },
-    { "fr": "l'héritage (m.)", "it": "l'eredità", "pos": "n" },
-    { "fr": "un alphabète", "it": "una persona che sa leggere e scrivere (nel francese africano)", "pos": "n", "note": "ricavato per retroformazione da analphabète" },
-    { "fr": "un analphabète", "it": "un analfabeta", "pos": "n" },
-    { "fr": "un taxieur", "it": "un tassista (nel francese africano)", "pos": "n" },
-    { "fr": "une essencerie", "it": "un distributore di benzina (nel francese africano)", "pos": "n", "note": "da l'essence, benzina" },
-    { "fr": "la destination", "it": "la destinazione", "pos": "n" },
-    { "fr": "un vasistas", "it": "un vasistas, un lucernario apribile", "pos": "n" },
-    { "fr": "un paquebot", "it": "un transatlantico", "pos": "n" },
-    { "fr": "le goudron", "it": "il catrame", "pos": "n" },
-    { "fr": "le caoutchouc", "it": "la gomma (materiale)", "pos": "n" },
-    { "fr": "une arobase", "it": "la chiocciola (@)", "pos": "n" }
+    {
+      "fr": "assurer",
+      "it": "assicurare, garantire",
+      "pos": "v",
+      "note": "pour assurer votre réussite = per garantire il vostro successo"
+    },
+    {
+      "fr": "une réussite",
+      "it": "un successo, una riuscita",
+      "pos": "n"
+    },
+    {
+      "fr": "désormais",
+      "it": "d'ora in poi, ormai",
+      "pos": "adv"
+    },
+    {
+      "fr": "profiter de",
+      "it": "approfittare di, sfruttare",
+      "pos": "v"
+    },
+    {
+      "fr": "une connaissance",
+      "it": "una conoscenza",
+      "pos": "n",
+      "note": "al plurale: les connaissances = le conoscenze acquisite"
+    },
+    {
+      "fr": "un tour du monde",
+      "it": "il giro del mondo",
+      "pos": "n"
+    },
+    {
+      "fr": "partout",
+      "it": "ovunque, dappertutto",
+      "pos": "adv"
+    },
+    {
+      "fr": "une frontière",
+      "it": "una frontiera, un confine",
+      "pos": "n"
+    },
+    {
+      "fr": "une différence",
+      "it": "una differenza",
+      "pos": "n"
+    },
+    {
+      "fr": "une spécificité",
+      "it": "una specificità, una peculiarità",
+      "pos": "n"
+    },
+    {
+      "fr": "un dépanneur",
+      "it": "un piccolo negozio di alimentari (in Canada)",
+      "pos": "n",
+      "note": "in Francia indica il meccanico o il soccorso stradale"
+    },
+    {
+      "fr": "une emplette",
+      "it": "un acquisto, una compera",
+      "pos": "n",
+      "note": "al plurale: faire ses emplettes = fare compere"
+    },
+    {
+      "fr": "un char",
+      "it": "un'automobile (in Canada)",
+      "pos": "n",
+      "note": "in Francia char significa carro (o carro armato)"
+    },
+    {
+      "fr": "un chien-chaud",
+      "it": "un hot dog",
+      "pos": "n"
+    },
+    {
+      "fr": "une patrie",
+      "it": "una patria",
+      "pos": "n"
+    },
+    {
+      "fr": "accueillant",
+      "it": "accogliente, ospitale",
+      "pos": "adj",
+      "note": "f. accueillante"
+    },
+    {
+      "fr": "nuancé",
+      "it": "sfumato, ricco di sfumature",
+      "pos": "adj",
+      "note": "f. nuancée"
+    },
+    {
+      "fr": "l'héritage (m.)",
+      "it": "l'eredità",
+      "pos": "n"
+    },
+    {
+      "fr": "un alphabète",
+      "it": "una persona che sa leggere e scrivere (nel francese africano)",
+      "pos": "n",
+      "note": "ricavato per retroformazione da analphabète"
+    },
+    {
+      "fr": "un analphabète",
+      "it": "un analfabeta",
+      "pos": "n"
+    },
+    {
+      "fr": "un taxieur",
+      "it": "un tassista (nel francese africano)",
+      "pos": "n"
+    },
+    {
+      "fr": "une essencerie",
+      "it": "un distributore di benzina (nel francese africano)",
+      "pos": "n",
+      "note": "da l'essence, benzina"
+    },
+    {
+      "fr": "la destination",
+      "it": "la destinazione",
+      "pos": "n"
+    },
+    {
+      "fr": "un vasistas",
+      "it": "un vasistas, un lucernario apribile",
+      "pos": "n"
+    },
+    {
+      "fr": "un paquebot",
+      "it": "un transatlantico",
+      "pos": "n"
+    },
+    {
+      "fr": "le goudron",
+      "it": "il catrame",
+      "pos": "n"
+    },
+    {
+      "fr": "le caoutchouc",
+      "it": "la gomma (materiale)",
+      "pos": "n"
+    },
+    {
+      "fr": "une arobase",
+      "it": "la chiocciola (@)",
+      "pos": "n"
+    },
+    {
+      "fr": "l'Afrique (f.)",
+      "it": "l'Africa",
+      "pos": "n",
+      "note": "en Afrique = in Africa"
+    },
+    {
+      "fr": "le chauffeur de taxi",
+      "it": "il tassista",
+      "pos": "n",
+      "note": "familiare: le taxieur"
+    },
+    {
+      "fr": "la communauté",
+      "it": "la comunità",
+      "pos": "n"
+    },
+    {
+      "fr": "composé(e) (de)",
+      "it": "composto da",
+      "pos": "adj"
+    },
+    {
+      "fr": "composer",
+      "it": "comporre",
+      "pos": "v"
+    },
+    {
+      "fr": "culturel / culturelle",
+      "it": "culturale",
+      "pos": "adj"
+    },
+    {
+      "fr": "diplomatique",
+      "it": "diplomatico",
+      "pos": "adj",
+      "note": "invariabile al femminile"
+    },
+    {
+      "fr": "divers / diverse",
+      "it": "diverso, vario",
+      "pos": "adj",
+      "note": "al plurale significa 'vari'"
+    },
+    {
+      "fr": "enrichir",
+      "it": "arricchire",
+      "pos": "v"
+    },
+    {
+      "fr": "la station-service",
+      "it": "la stazione di servizio",
+      "pos": "n",
+      "note": "pl. les stations-service"
+    }
   ],
   "expressions": [
-    { "fr": "Bonne continuation !", "it": "Buon proseguimento!", "note": "formula di congedo, augura di continuare a studiare o a lavorare" },
-    { "fr": "faire le plein", "it": "fare il pieno", "note": "senso letterale: riempire il serbatoio dell'auto" },
-    { "fr": "faire des emplettes", "it": "fare compere", "note": "più generico di faire les courses, che è fare la spesa" },
-    { "fr": "faire partie de", "it": "far parte di", "note": "seguito da un nome: faire partie d'une communauté" },
-    { "fr": "se permettre de", "it": "permettersi di", "note": "seguito dall'infinito" },
-    { "fr": "à propos de", "it": "a proposito di", "note": "apre una frase per introdurre un argomento" },
-    { "fr": "le plus possible", "it": "il più possibile", "note": "superlativo fisso con possible, invariabile" },
-    { "fr": "faire un tour du monde", "it": "fare il giro del mondo", "note": "faire un tour = fare un giro" },
-    { "fr": "un pays sans frontières", "it": "un paese senza frontiere", "note": "metafora per la Francofonia, non un paese reale" },
-    { "fr": "Ma patrie, c'est la langue française !", "it": "La mia patria è la lingua francese!", "note": "motto celebrativo, detto con un tono un po' solenne" },
-    { "fr": "profiter de vos connaissances", "it": "sfruttare le vostre conoscenze", "note": "profiter de senza connotazione negativa" }
+    {
+      "fr": "Bonne continuation !",
+      "it": "Buon proseguimento!",
+      "note": "formula di congedo, augura di continuare a studiare o a lavorare"
+    },
+    {
+      "fr": "faire le plein",
+      "it": "fare il pieno",
+      "note": "senso letterale: riempire il serbatoio dell'auto"
+    },
+    {
+      "fr": "faire des emplettes",
+      "it": "fare compere",
+      "note": "più generico di faire les courses, che è fare la spesa"
+    },
+    {
+      "fr": "faire partie de",
+      "it": "far parte di",
+      "note": "seguito da un nome: faire partie d'une communauté"
+    },
+    {
+      "fr": "se permettre de",
+      "it": "permettersi di",
+      "note": "seguito dall'infinito"
+    },
+    {
+      "fr": "à propos de",
+      "it": "a proposito di",
+      "note": "apre una frase per introdurre un argomento"
+    },
+    {
+      "fr": "le plus possible",
+      "it": "il più possibile",
+      "note": "superlativo fisso con possible, invariabile"
+    },
+    {
+      "fr": "faire un tour du monde",
+      "it": "fare il giro del mondo",
+      "note": "faire un tour = fare un giro"
+    },
+    {
+      "fr": "un pays sans frontières",
+      "it": "un paese senza frontiere",
+      "note": "metafora per la Francofonia, non un paese reale"
+    },
+    {
+      "fr": "Ma patrie, c'est la langue française !",
+      "it": "La mia patria è la lingua francese!",
+      "note": "motto celebrativo, detto con un tono un po' solenne"
+    },
+    {
+      "fr": "profiter de vos connaissances",
+      "it": "sfruttare le vostre conoscenze",
+      "note": "profiter de senza connotazione negativa"
+    }
   ],
   "notes_it": [
     "Canada: il francese canadese ha accento e lessico propri. Il dépanneur è il piccolo negozio di alimentari aperto a lungo, il char è l'automobile e il chien-chaud è l'hot dog: parole che in Francia avrebbero un altro senso o non esistono.",
@@ -86,38 +324,444 @@
     "Pronuncia: in arobase la s tra due vocali si pronuncia z ([aʁɔbaz]). Nell'indirizzo email molti francesi dicono anche at. In caoutchouc e paquebot le consonanti finali sono mute: è un buon esempio di come la scrittura non segua sempre la pronuncia."
   ],
   "exercises": [
-    { "id": "L100-e01", "type": "mcq", "level": 1, "concept": "vocab", "prompt": "In Canada, che cosa è un dépanneur?", "options": ["un meccanico o un soccorso stradale, come in Francia", "un tipo di automobile", "un piccolo negozio di alimentari aperto a lungo", "un ristorante specializzato in hot dog"], "correct": 2, "explain_it": "In Canada il dépanneur è il minimarket di quartiere; in Francia la stessa parola indica il meccanico o il soccorso stradale." },
-    { "id": "L100-e02", "type": "mcq", "level": 1, "concept": "adjective-agreement", "prompt": "Quale frase è corretta per dire 'Benvenuta da noi, signora'?", "options": ["Soyez le bienvenu chez nous, madame.", "Soyez la bienvenue chez nous, madame.", "Soyez la bienvenu chez nous, madame.", "Soyez le bienvenue chez nous, madame."], "correct": 1, "explain_it": "Bienvenu si accorda con la persona: la bienvenue per una donna, le bienvenu per un uomo." },
-    { "id": "L100-e03", "type": "mcq", "level": 1, "concept": "vocab", "prompt": "Nella frase 'Elle est francophone', il suffisso -phone indica:", "options": ["una persona che scrive in francese", "una persona che parla francese", "una persona che insegna il francese", "una persona che traduce dal francese"], "correct": 1, "explain_it": "Il suffisso -phone indica chi parla una lingua: francophone è chi parla francese." },
-    { "id": "L100-e04", "type": "order", "level": 1, "concept": "faire", "prompt": "Devo fare il pieno di benzina.", "answers": ["Je dois faire le plein d'essence."], "distractors": ["fais", "pour"], "explain_it": "Faire le plein significa riempire il serbatoio; si usa faire all'infinito dopo devoir." },
-    { "id": "L100-e05", "type": "order", "level": 1, "concept": "passe-compose-avoir", "prompt": "Ha fatto il giro del mondo.", "answers": ["[Il|Elle] a fait le tour du monde.", "[Il|Elle] a fait un tour du monde."], "distractors": ["fais", "est"], "explain_it": "Al passato prossimo faire prende avoir e il participio è fait: il a fait." },
-    { "id": "L100-e06", "type": "order", "level": 1, "concept": "idioms", "prompt": "Buon proseguimento, a presto!", "answers": ["Bonne continuation, à bientôt !"], "distractors": ["bonjour", "merci"], "explain_it": "Bonne continuation è una formula di congedo fissa, da usare come blocco." },
-    { "id": "L100-e07", "type": "order", "level": 1, "concept": "vocab", "prompt": "Vado al dépanneur per comprare del latte.", "answers": ["Je vais au dépanneur pour acheter du lait."], "distractors": ["chez", "magasin"], "explain_it": "Au dépanneur contiene la preposizione à con l'articolo le, contratta in au; pour seguito dall'infinito indica lo scopo." },
-    { "id": "L100-e08", "type": "mcq", "level": 1, "concept": "false-friends", "prompt": "Che cosa significa 'l'essence' in francese nella vita di tutti i giorni?", "options": ["la benzina", "l'essenza (profumo)", "la sostanza, il succo", "la scelta"], "correct": 0, "explain_it": "Falso amico: l'essence è la benzina, non l'essenza come in italiano." },
-    { "id": "L100-e09", "type": "cloze", "level": 1, "concept": "adjective-agreement", "text": "Soyez la ___ chez nous, madame.", "answers": ["bienvenue"], "hint": "(bienvenu, femminile)", "prompt": "Sia la benvenuta da noi, signora.", "explain_it": "Con una donna l'aggettivo prende la forma femminile bienvenue." },
-    { "id": "L100-e10", "type": "cloze", "level": 1, "concept": "vocab", "text": "Au Québec, les habitants sont ___ et parlent français.", "answers": ["francophones"], "hint": "(francofono, plurale)", "prompt": "In Québec gli abitanti sono francofoni e parlano francese.", "explain_it": "Francophone ha la stessa forma al maschile e al femminile; al plurale prende la -s: francophones." },
-    { "id": "L100-e11", "type": "cloze", "level": 1, "concept": "il-faut", "text": "Il ___ faire le plein avant de partir.", "answers": ["faut"], "hint": "(falloir, presente)", "prompt": "Bisogna fare il pieno prima di partire.", "explain_it": "Il faut è una forma impersonale: è sempre al singolare con il soggetto il." },
-    { "id": "L100-e12", "type": "cloze", "level": 2, "concept": "idioms", "text": "Forte ___ son expérience, l'équipe a réussi.", "answers": ["de"], "hint": "(preposizione, come in 'forte di')", "prompt": "Forte della sua esperienza, la squadra ce l'ha fatta.", "explain_it": "Fort de/forte de seguito da un nome significa 'forte di, grazie a'." },
-    { "id": "L100-e13", "type": "cloze", "level": 2, "concept": "passe-compose-avoir", "text": "Nous avons ___ manquer le train.", "answers": ["failli"], "hint": "(faillir, passato prossimo)", "prompt": "Abbiamo quasi perso il treno.", "explain_it": "Faillir al passato prossimo prende avoir e il participio failli non si accorda con il soggetto." },
-    { "id": "L100-e14", "type": "write", "level": 2, "concept": "idioms", "prompt": "Vi auguro buon proseguimento a tutti.", "answers": ["Je vous souhaite [une |]bonne continuation à tous."], "explain_it": "Souhaiter une bonne continuation è il modo di augurare buon proseguimento." },
-    { "id": "L100-e15", "type": "write", "level": 2, "concept": "faire", "prompt": "Vado a fare la spesa al mercato.", "answers": ["Je vais faire [les|mes] courses au marché.", "Je vais au marché faire [les|mes] courses."], "explain_it": "Fare la spesa in francese si dice faire les courses (o faire ses courses)." },
-    { "id": "L100-e16", "type": "write", "level": 2, "concept": "adjective-agreement", "prompt": "Siete i benvenuti da noi, signori.", "answers": ["Vous êtes les bienvenus chez nous, messieurs"], "explain_it": "Al plurale maschile bienvenu prende la -s: les bienvenus." },
-    { "id": "L100-e17", "type": "write", "level": 2, "concept": "vocab", "prompt": "Ho comprato un hot dog al dépanneur.", "answers": ["J'ai acheté un [chien-chaud|hot-dog] au dépanneur."], "explain_it": "In Canada l'hot dog si chiama chien-chaud; è una parola locale da ricordare." },
-    { "id": "L100-e18", "type": "dictation", "level": 2, "concept": "idioms", "text": "Forte de son histoire, cette langue est précise et riche.", "explain_it": "Forte si accorda con langue, femminile singolare, e de introduce il punto di forza." },
-    { "id": "L100-e19", "type": "flash", "level": 2, "concept": "adjective-agreement", "front": "Come si accorda 'bienvenu' con il soggetto del verbo être?", "back": "Si accorda con la persona: le bienvenu (m. sing.), la bienvenue (f. sing.), les bienvenus (m. pl.), les bienvenues (f. pl.). Con bienvenue come sostantivo, in souhaiter la bienvenue, la -e resta sempre.", "note": "Vous êtes le bienvenu / la bienvenue." },
-    { "id": "L100-e20", "type": "mcq", "level": 2, "concept": "idioms", "prompt": "Nella frase 'vous faites partie de cette communauté', che cosa significa?", "options": ["fare una visita a questa comunità", "fare domanda per entrare in questa comunità", "fare un tour di questa comunità", "far parte di questa comunità"], "correct": 3, "explain_it": "Faire partie de più un nome significa far parte di: indica l'appartenenza a un gruppo." },
-    { "id": "L100-e21", "type": "cloze", "level": 2, "concept": "vocab", "text": "En Afrique francophone, un ___ conduit les clients à destination.", "answers": ["taxieur"], "hint": "(parola del francese africano)", "prompt": "In Africa francofona un tassista porta i clienti a destinazione.", "explain_it": "Taxieur è il termine locale per tassista nel francese africano; in Francia si dice chauffeur de taxi o taxi." },
-    { "id": "L100-e22", "type": "order", "level": 2, "concept": "idioms", "prompt": "Forti dei loro studi, i ragazzi hanno superato l'esame.", "answers": ["Forts de leurs études, les garçons ont réussi l'examen."], "distractors": ["forte", "sont"], "explain_it": "Forts è al maschile plurale perché si riferisce ai ragazzi (les garçons)." },
-    { "id": "L100-e23", "type": "flash", "level": 2, "concept": "vocab", "front": "A cosa serve il suffisso -phone? Fai un esempio.", "back": "Si aggiunge alla radice di una lingua per indicare chi la parla o un paese in cui si parla: un francophone (persona), un pays francophone (paese). Esistono anche anglophone e germanophone.", "note": "La Francophonie, con la maiuscola, è l'insieme dei paesi e delle organizzazioni che promuovono il francese." },
-    { "id": "L100-e24", "type": "write", "level": 2, "concept": "passe-compose-avoir", "prompt": "Il giorno dopo ho fatto il pieno alla stazione di servizio.", "answers": ["[Le lendemain|Le jour suivant], j'ai fait le plein à [la station-service|la station|l'essencerie]."], "explain_it": "Fare al passato prossimo prende avoir: j'ai fait; in Africa francofona si dice essencerie." },
-    { "id": "L100-e25", "type": "write", "level": 3, "concept": "connectors", "prompt": "Ieri ho dormito male, così che ho quasi perso il treno.", "answers": ["Hier, j'ai mal dormi, si bien que j'ai failli [rater|manquer] le train."], "explain_it": "Si bien que vuole l'indicativo perché la conseguenza è reale; failli resta invariato e dopo si usa l'infinito." },
-    { "id": "L100-e26", "type": "write", "level": 3, "concept": "relative-pronouns", "prompt": "Il Canada è un paese francofono dove si parla francese con un accento particolare.", "answers": ["Le Canada est un pays francophone où [l'on|on] parle [le |]français avec un accent particulier"], "explain_it": "Où introduce una relativa di luogo, come l'italiano dove; davanti a parle si può dire sia l'on sia on, nel parlato soprattutto on." },
-    { "id": "L100-e27", "type": "write", "level": 3, "concept": "idioms", "prompt": "Forti della loro esperienza, le due sorelle hanno costruito la casa.", "answers": ["Fortes de leur expérience, les deux [sœurs|soeurs] ont construit la maison."], "explain_it": "Fortes è al femminile plurale perché si riferisce a les deux sœurs." },
-    { "id": "L100-e28", "type": "write", "level": 3, "concept": "futur-simple", "prompt": "Quando sarete in Canada, mangerete un hot dog al dépanneur.", "answers": ["Quand vous serez au Canada, vous mangerez un [chien-chaud|hot-dog] [au|dans un] dépanneur."], "explain_it": "Serez è il futuro semplice di être (radice irregolare ser-), mangerez quello di manger: la -e si mantiene prima della desinenza -rez." },
-    { "id": "L100-e29", "type": "dictation", "level": 3, "concept": "superlatives", "text": "Pour bien apprendre, il faut lire, écouter et parler le plus souvent possible.", "explain_it": "Le plus souvent possible significa il più spesso possibile." },
-    { "id": "L100-e30", "type": "flash", "level": 3, "concept": "idioms", "front": "Fort(e) de + nome: significato e accordo", "back": "Significa 'forte di, grazie a' e introduce un punto di forza. L'aggettivo si accorda con il soggetto: fort (m. sing.), forte (f. sing.), forts/fortes (plurale). Esempio: Forte de son expérience, elle a réussi.", "note": "Non confonderlo con l'avverbio fort, che significa molto, come in fort bien." },
-    { "id": "L100-e31", "type": "mcq", "level": 3, "concept": "connectors", "prompt": "Quale frase significa 'Ha piovuto tutta la notte, tanto che la strada era allagata'?", "options": ["Il a plu toute la nuit, si bien que la route était inondée.", "Il a plu toute la nuit, si bien que la route serait inondée.", "Il a plu toute la nuit, parce que la route était inondée.", "Il a plu toute la nuit, si bien que la route était inondé."], "correct": 0, "explain_it": "Si bien que con l'indicativo esprime una conseguenza reale; inondée si accorda con route." },
-    { "id": "L100-e32", "type": "cloze", "level": 3, "concept": "participle-agreement", "text": "Les phrases que vous avez ___ sont très claires.", "answers": ["écrites"], "hint": "(écrire, participio passato femminile plurale)", "prompt": "Le frasi che avete scritto sono molto chiare.", "explain_it": "Quando il complemento diretto (que, riferito a phrases) viene prima dell'ausiliare avoir, il participio si accorda con esso." },
-    { "id": "L100-e33", "type": "order", "level": 3, "concept": "relative-pronouns", "prompt": "Il Canada, dove ho viaggiato l'anno scorso, è molto accogliente.", "answers": ["Le Canada, où j'ai voyagé l'année [dernière|passée], est très accueillant."], "distractors": ["que", "avons"], "explain_it": "Où introduce la relativa di luogo, e accueillant è l'aggettivo corrispondente a accogliente." }
+    {
+      "id": "L100-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "vocab",
+      "prompt": "In Canada, che cosa è un dépanneur?",
+      "options": [
+        "un meccanico o un soccorso stradale, come in Francia",
+        "un tipo di automobile",
+        "un piccolo negozio di alimentari aperto a lungo",
+        "un ristorante specializzato in hot dog"
+      ],
+      "correct": 2,
+      "explain_it": "In Canada il dépanneur è il minimarket di quartiere; in Francia la stessa parola indica il meccanico o il soccorso stradale."
+    },
+    {
+      "id": "L100-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "adjective-agreement",
+      "prompt": "Quale frase è corretta per dire 'Benvenuta da noi, signora'?",
+      "options": [
+        "Soyez le bienvenu chez nous, madame.",
+        "Soyez la bienvenue chez nous, madame.",
+        "Soyez la bienvenu chez nous, madame.",
+        "Soyez le bienvenue chez nous, madame."
+      ],
+      "correct": 1,
+      "explain_it": "Bienvenu si accorda con la persona: la bienvenue per una donna, le bienvenu per un uomo."
+    },
+    {
+      "id": "L100-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "vocab",
+      "prompt": "Nella frase 'Elle est francophone', il suffisso -phone indica:",
+      "options": [
+        "una persona che scrive in francese",
+        "una persona che parla francese",
+        "una persona che insegna il francese",
+        "una persona che traduce dal francese"
+      ],
+      "correct": 1,
+      "explain_it": "Il suffisso -phone indica chi parla una lingua: francophone è chi parla francese."
+    },
+    {
+      "id": "L100-e04",
+      "type": "order",
+      "level": 1,
+      "concept": "faire",
+      "prompt": "Devo fare il pieno di benzina.",
+      "answers": [
+        "Je dois faire le plein d'essence."
+      ],
+      "distractors": [
+        "fais",
+        "pour"
+      ],
+      "explain_it": "Faire le plein significa riempire il serbatoio; si usa faire all'infinito dopo devoir."
+    },
+    {
+      "id": "L100-e05",
+      "type": "order",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ha fatto il giro del mondo.",
+      "answers": [
+        "[Il|Elle] a fait le tour du monde.",
+        "[Il|Elle] a fait un tour du monde."
+      ],
+      "distractors": [
+        "fais",
+        "est"
+      ],
+      "explain_it": "Al passato prossimo faire prende avoir e il participio è fait: il a fait."
+    },
+    {
+      "id": "L100-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Buon proseguimento, a presto!",
+      "answers": [
+        "Bonne continuation, à bientôt !"
+      ],
+      "distractors": [
+        "bonjour",
+        "merci"
+      ],
+      "explain_it": "Bonne continuation è una formula di congedo fissa, da usare come blocco."
+    },
+    {
+      "id": "L100-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "vocab",
+      "prompt": "Vado al dépanneur per comprare del latte.",
+      "answers": [
+        "Je vais au dépanneur pour acheter du lait."
+      ],
+      "distractors": [
+        "chez",
+        "magasin"
+      ],
+      "explain_it": "Au dépanneur contiene la preposizione à con l'articolo le, contratta in au; pour seguito dall'infinito indica lo scopo."
+    },
+    {
+      "id": "L100-e08",
+      "type": "mcq",
+      "level": 1,
+      "concept": "false-friends",
+      "prompt": "Che cosa significa 'l'essence' in francese nella vita di tutti i giorni?",
+      "options": [
+        "la benzina",
+        "l'essenza (profumo)",
+        "la sostanza, il succo",
+        "la scelta"
+      ],
+      "correct": 0,
+      "explain_it": "Falso amico: l'essence è la benzina, non l'essenza come in italiano."
+    },
+    {
+      "id": "L100-e09",
+      "type": "cloze",
+      "level": 1,
+      "concept": "adjective-agreement",
+      "text": "Soyez la ___ chez nous, madame.",
+      "answers": [
+        "bienvenue"
+      ],
+      "hint": "(bienvenu, femminile)",
+      "prompt": "Sia la benvenuta da noi, signora.",
+      "explain_it": "Con una donna l'aggettivo prende la forma femminile bienvenue."
+    },
+    {
+      "id": "L100-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "vocab",
+      "text": "Au Québec, les habitants sont ___ et parlent français.",
+      "answers": [
+        "francophones"
+      ],
+      "hint": "(francofono, plurale)",
+      "prompt": "In Québec gli abitanti sono francofoni e parlano francese.",
+      "explain_it": "Francophone ha la stessa forma al maschile e al femminile; al plurale prende la -s: francophones."
+    },
+    {
+      "id": "L100-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "il-faut",
+      "text": "Il ___ faire le plein avant de partir.",
+      "answers": [
+        "faut"
+      ],
+      "hint": "(falloir, presente)",
+      "prompt": "Bisogna fare il pieno prima di partire.",
+      "explain_it": "Il faut è una forma impersonale: è sempre al singolare con il soggetto il."
+    },
+    {
+      "id": "L100-e12",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Forte ___ son expérience, l'équipe a réussi.",
+      "answers": [
+        "de"
+      ],
+      "hint": "(preposizione, come in 'forte di')",
+      "prompt": "Forte della sua esperienza, la squadra ce l'ha fatta.",
+      "explain_it": "Fort de/forte de seguito da un nome significa 'forte di, grazie a'."
+    },
+    {
+      "id": "L100-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "text": "Nous avons ___ manquer le train.",
+      "answers": [
+        "failli"
+      ],
+      "hint": "(faillir, passato prossimo)",
+      "prompt": "Abbiamo quasi perso il treno.",
+      "explain_it": "Faillir al passato prossimo prende avoir e il participio failli non si accorda con il soggetto."
+    },
+    {
+      "id": "L100-e14",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Vi auguro buon proseguimento a tutti.",
+      "answers": [
+        "Je vous souhaite [une |]bonne continuation à tous."
+      ],
+      "explain_it": "Souhaiter une bonne continuation è il modo di augurare buon proseguimento."
+    },
+    {
+      "id": "L100-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "faire",
+      "prompt": "Vado a fare la spesa al mercato.",
+      "answers": [
+        "Je vais faire [les|mes] courses au marché.",
+        "Je vais au marché faire [les|mes] courses."
+      ],
+      "explain_it": "Fare la spesa in francese si dice faire les courses (o faire ses courses)."
+    },
+    {
+      "id": "L100-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "Siete i benvenuti da noi, signori.",
+      "answers": [
+        "Vous êtes les bienvenus chez nous, messieurs"
+      ],
+      "explain_it": "Al plurale maschile bienvenu prende la -s: les bienvenus."
+    },
+    {
+      "id": "L100-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Ho comprato un hot dog al dépanneur.",
+      "answers": [
+        "J'ai acheté un [chien-chaud|hot-dog] au dépanneur."
+      ],
+      "explain_it": "In Canada l'hot dog si chiama chien-chaud; è una parola locale da ricordare."
+    },
+    {
+      "id": "L100-e18",
+      "type": "dictation",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Forte de son histoire, cette langue est précise et riche.",
+      "explain_it": "Forte si accorda con langue, femminile singolare, e de introduce il punto di forza."
+    },
+    {
+      "id": "L100-e19",
+      "type": "flash",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "front": "Come si accorda 'bienvenu' con il soggetto del verbo être?",
+      "back": "Si accorda con la persona: le bienvenu (m. sing.), la bienvenue (f. sing.), les bienvenus (m. pl.), les bienvenues (f. pl.). Con bienvenue come sostantivo, in souhaiter la bienvenue, la -e resta sempre.",
+      "note": "Vous êtes le bienvenu / la bienvenue."
+    },
+    {
+      "id": "L100-e20",
+      "type": "mcq",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Nella frase 'vous faites partie de cette communauté', che cosa significa?",
+      "options": [
+        "fare una visita a questa comunità",
+        "fare domanda per entrare in questa comunità",
+        "fare un tour di questa comunità",
+        "far parte di questa comunità"
+      ],
+      "correct": 3,
+      "explain_it": "Faire partie de più un nome significa far parte di: indica l'appartenenza a un gruppo."
+    },
+    {
+      "id": "L100-e21",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "En Afrique francophone, un ___ conduit les clients à destination.",
+      "answers": [
+        "taxieur"
+      ],
+      "hint": "(parola del francese africano)",
+      "prompt": "In Africa francofona un tassista porta i clienti a destinazione.",
+      "explain_it": "Taxieur è il termine locale per tassista nel francese africano; in Francia si dice chauffeur de taxi o taxi."
+    },
+    {
+      "id": "L100-e22",
+      "type": "order",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Forti dei loro studi, i ragazzi hanno superato l'esame.",
+      "answers": [
+        "Forts de leurs études, les garçons ont réussi l'examen."
+      ],
+      "distractors": [
+        "forte",
+        "sont"
+      ],
+      "explain_it": "Forts è al maschile plurale perché si riferisce ai ragazzi (les garçons)."
+    },
+    {
+      "id": "L100-e23",
+      "type": "flash",
+      "level": 2,
+      "concept": "vocab",
+      "front": "A cosa serve il suffisso -phone? Fai un esempio.",
+      "back": "Si aggiunge alla radice di una lingua per indicare chi la parla o un paese in cui si parla: un francophone (persona), un pays francophone (paese). Esistono anche anglophone e germanophone.",
+      "note": "La Francophonie, con la maiuscola, è l'insieme dei paesi e delle organizzazioni che promuovono il francese."
+    },
+    {
+      "id": "L100-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Il giorno dopo ho fatto il pieno alla stazione di servizio.",
+      "answers": [
+        "[Le lendemain|Le jour suivant], j'ai fait le plein à [la station-service|la station|l'essencerie]."
+      ],
+      "explain_it": "Fare al passato prossimo prende avoir: j'ai fait; in Africa francofona si dice essencerie."
+    },
+    {
+      "id": "L100-e25",
+      "type": "write",
+      "level": 3,
+      "concept": "connectors",
+      "prompt": "Ieri ho dormito male, così che ho quasi perso il treno.",
+      "answers": [
+        "Hier, j'ai mal dormi, si bien que j'ai failli [rater|manquer] le train."
+      ],
+      "explain_it": "Si bien que vuole l'indicativo perché la conseguenza è reale; failli resta invariato e dopo si usa l'infinito."
+    },
+    {
+      "id": "L100-e26",
+      "type": "write",
+      "level": 3,
+      "concept": "relative-pronouns",
+      "prompt": "Il Canada è un paese francofono dove si parla francese con un accento particolare.",
+      "answers": [
+        "Le Canada est un pays francophone où [l'on|on] parle [le |]français avec un accent particulier"
+      ],
+      "explain_it": "Où introduce una relativa di luogo, come l'italiano dove; davanti a parle si può dire sia l'on sia on, nel parlato soprattutto on."
+    },
+    {
+      "id": "L100-e27",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Forti della loro esperienza, le due sorelle hanno costruito la casa.",
+      "answers": [
+        "Fortes de leur expérience, les deux [sœurs|soeurs] ont construit la maison."
+      ],
+      "explain_it": "Fortes è al femminile plurale perché si riferisce a les deux sœurs."
+    },
+    {
+      "id": "L100-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "futur-simple",
+      "prompt": "Quando sarete in Canada, mangerete un hot dog al dépanneur.",
+      "answers": [
+        "Quand vous serez au Canada, vous mangerez un [chien-chaud|hot-dog] [au|dans un] dépanneur."
+      ],
+      "explain_it": "Serez è il futuro semplice di être (radice irregolare ser-), mangerez quello di manger: la -e si mantiene prima della desinenza -rez."
+    },
+    {
+      "id": "L100-e29",
+      "type": "dictation",
+      "level": 3,
+      "concept": "superlatives",
+      "text": "Pour bien apprendre, il faut lire, écouter et parler le plus souvent possible.",
+      "explain_it": "Le plus souvent possible significa il più spesso possibile."
+    },
+    {
+      "id": "L100-e30",
+      "type": "flash",
+      "level": 3,
+      "concept": "idioms",
+      "front": "Fort(e) de + nome: significato e accordo",
+      "back": "Significa 'forte di, grazie a' e introduce un punto di forza. L'aggettivo si accorda con il soggetto: fort (m. sing.), forte (f. sing.), forts/fortes (plurale). Esempio: Forte de son expérience, elle a réussi.",
+      "note": "Non confonderlo con l'avverbio fort, che significa molto, come in fort bien."
+    },
+    {
+      "id": "L100-e31",
+      "type": "mcq",
+      "level": 3,
+      "concept": "connectors",
+      "prompt": "Quale frase significa 'Ha piovuto tutta la notte, tanto che la strada era allagata'?",
+      "options": [
+        "Il a plu toute la nuit, si bien que la route était inondée.",
+        "Il a plu toute la nuit, si bien que la route serait inondée.",
+        "Il a plu toute la nuit, parce que la route était inondée.",
+        "Il a plu toute la nuit, si bien que la route était inondé."
+      ],
+      "correct": 0,
+      "explain_it": "Si bien que con l'indicativo esprime una conseguenza reale; inondée si accorda con route."
+    },
+    {
+      "id": "L100-e32",
+      "type": "cloze",
+      "level": 3,
+      "concept": "participle-agreement",
+      "text": "Les phrases que vous avez ___ sont très claires.",
+      "answers": [
+        "écrites"
+      ],
+      "hint": "(écrire, participio passato femminile plurale)",
+      "prompt": "Le frasi che avete scritto sono molto chiare.",
+      "explain_it": "Quando il complemento diretto (que, riferito a phrases) viene prima dell'ausiliare avoir, il participio si accorda con esso."
+    },
+    {
+      "id": "L100-e33",
+      "type": "order",
+      "level": 3,
+      "concept": "relative-pronouns",
+      "prompt": "Il Canada, dove ho viaggiato l'anno scorso, è molto accogliente.",
+      "answers": [
+        "Le Canada, où j'ai voyagé l'année [dernière|passée], est très accueillant."
+      ],
+      "distractors": [
+        "que",
+        "avons"
+      ],
+      "explain_it": "Où introduce la relativa di luogo, e accueillant è l'aggettivo corrispondente a accogliente."
+    },
+    {
+      "id": "L100-e34",
+      "type": "cloze",
+      "level": 2,
+      "concept": "participle-agreement",
+      "text": "Notre équipe est ___ de dix personnes.",
+      "answers": [
+        "composée"
+      ],
+      "hint": "(composer, participio, femminile)",
+      "prompt": "La nostra squadra è composta da dieci persone.",
+      "explain_it": "Composé concorda con équipe, femminile singolare, quindi composée."
+    },
+    {
+      "id": "L100-e35",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Facciamo parte della stessa comunità.",
+      "answers": [
+        "Nous faisons partie de la même communauté."
+      ],
+      "explain_it": "Faire partie de + nome: communauté è femminile, quindi la même communauté."
+    }
   ]
 }
