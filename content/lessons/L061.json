@@ -1,0 +1,899 @@
+{
+  "n": 61,
+  "title_fr": "La célébrité ne me dit pas grand-chose",
+  "title_it": "La celebrità non mi dice granché",
+  "review": false,
+  "status": "verified",
+  "source": "fa2f8a2c p49-56 (libro p.329-336)",
+  "theme_it": "Un'intervista alla fotoreporter Isabelle Rossi, in occasione del suo nuovo libro di fotografie. Racconta di essere nata in Corsica, di aver abbandonato presto la pittura per la fotografia di strada, di aver superato le difficoltà di essere una donna in un mondo di professionisti maschi. Alla fine dice che la fama non le interessa granché: una bella foto vale più di un lungo discorso.",
+  "grammar": [
+    {
+      "id": "il-faut",
+      "title_it": "Falloir: il faut, il fallait",
+      "explain_it": "Falloir è un verbo impersonale e difettivo: si usa solo alla terza persona singolare, con il soggetto « il », e non si coniuga con io, tu, noi. « Il faut » corrisponde a « bisogna / occorre »; all'imperfetto « il fallait » vale « bisognava » ed è la stessa forma per tutte le persone. Per un fatto passato compiuto si usa il passato prossimo: « il a fallu » (è stato necessario). Attenzione: falloir non significa « devo » (per dire « devo » si usa « je dois »); per ora basta la costruzione « il faut + infinito ».",
+      "examples": [
+        {
+          "fr": "Il faut partir tôt.",
+          "it": "Bisogna partire presto."
+        },
+        {
+          "fr": "Il fallait prendre un parapluie.",
+          "it": "Bisognava prendere un ombrello."
+        }
+      ]
+    },
+    {
+      "id": "imparfait",
+      "title_it": "Imperfetto del verbo valoir",
+      "explain_it": "Valoir all'imperfetto è regolare sulla radice val-: je valais, il valait, ils valaient. Nelle espressioni « valoir la peine » (valere la pena) e « valoir mieux » (essere meglio) si incontra spesso la forma valait. Come in italiano, l'imperfetto descrive una situazione che dura nel passato o una verità generale di quel periodo, senza indicare un inizio o una fine precisi.",
+      "examples": [
+        {
+          "fr": "Ça valait la peine d'attendre.",
+          "it": "Valeva la pena aspettare."
+        },
+        {
+          "fr": "Il valait mieux partir tôt.",
+          "it": "Era meglio partire presto."
+        }
+      ]
+    },
+    {
+      "id": "passe-compose-avoir",
+      "title_it": "Dû e i verbi composti con l'infinito",
+      "explain_it": "Il participio passato di devoir è « dû », con l'accento circonflesso, per distinguerlo dal partitivo « du »: « j'ai dû partir » (ho dovuto partire). Con i verbi composti di due parti, come « faire cuire » (far cuocere) o « laisser tomber » (far cadere, lasciar perdere), nel passato prossimo si coniuga solo il primo verbo, mentre il secondo resta all'infinito: « j'ai fait cuire », « j'ai laissé tomber ». In italiano lo schema è lo stesso con « ho fatto cuocere »; la trappola è cercare un secondo participio (per esempio *cuito).",
+      "examples": [
+        {
+          "fr": "Hier, j'ai dû partir tôt.",
+          "it": "Ieri ho dovuto partire presto."
+        },
+        {
+          "fr": "J'ai fait cuire des carottes.",
+          "it": "Ho fatto cuocere delle carote."
+        }
+      ]
+    },
+    {
+      "id": "adjective-position",
+      "title_it": "Grand: significato secondo la posizione",
+      "explain_it": "L'aggettivo « grand » cambia significato a seconda della posizione. Prima del nome indica grandezza in senso figurato, cioè importanza o prestigio (un grand photographe = un fotografo importante). Dopo il verbo essere, o riferito a una persona in senso fisico, indica la statura: « Mon frère est très grand » (mio fratello è molto alto). Il femminile è « grande », il plurale « grands / grandes ».",
+      "examples": [
+        {
+          "fr": "C'est un grand photographe.",
+          "it": "È un grande fotografo (importante, famoso)."
+        },
+        {
+          "fr": "Mon frère est très grand.",
+          "it": "Mio fratello è molto alto."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Faire la connaissance de",
+      "explain_it": "« Faire la connaissance de + persona » significa « conoscere qualcuno » nel senso di incontrarlo per la prima volta. « Connaissance » è femminile anche se la persona è un uomo, e la preposizione è « de ». In alternativa esiste « faire connaissance avec » (senza articolo). Non si dice « faire connaissance Marc »: serve sempre una preposizione.",
+      "examples": [
+        {
+          "fr": "J'ai fait la connaissance de Marc hier.",
+          "it": "Ho conosciuto Marco ieri."
+        },
+        {
+          "fr": "Il a fait la connaissance de sa femme à Lyon.",
+          "it": "Ha conosciuto sua moglie a Lione."
+        }
+      ]
+    },
+    {
+      "id": "negation",
+      "title_it": "Pas grand-chose: ne … pas + espressione fissa",
+      "explain_it": "« Pas grand-chose » significa « non granché / non molto ». Si costruisce con « ne … pas » intorno al verbo, e « grand-chose » segue il verbo (o il participio) ed è invariabile: « Je n'y comprends pas grand-chose ». Nel registro familiare si può dire anche « ça ne me dit rien », più forte, mentre « ça ne me dit pas grand-chose » significa che un'idea non entusiasma.",
+      "examples": [
+        {
+          "fr": "Je n'y comprends pas grand-chose.",
+          "it": "Non ci capisco granché."
+        },
+        {
+          "fr": "Elle ne fait pas grand-chose le dimanche.",
+          "it": "La domenica non fa molto."
+        }
+      ]
+    },
+    {
+      "id": "false-friends",
+      "title_it": "Photographie, photo, photographe",
+      "explain_it": "Tre parole molto vicine che per un italiano sono facili da confondere. « La photographie » è l'arte e la tecnica (la fotografia come disciplina); « une photo » è la singola immagine, forma abbreviata di photographie; « un photographe » è la persona che scatta le foto, con la stessa forma al maschile e al femminile. Il falso amico è « fotografia »: per dire « una fotografia » nel senso di immagine si usa quasi sempre « une photo ».",
+      "examples": [
+        {
+          "fr": "Il est photographe de rue.",
+          "it": "È un fotografo di strada."
+        },
+        {
+          "fr": "J'ai pris une belle photo de la mer.",
+          "it": "Ho scattato una bella foto del mare."
+        }
+      ]
+    },
+    {
+      "id": "connectors",
+      "title_it": "À la fois … et …",
+      "explain_it": "« À la fois » significa « allo stesso tempo » e unisce due qualità o due azioni; si usa spesso nella forma « à la fois … et … ». Non va confuso con « ou », che indica un'alternativa. Può stare anche in mezzo alla frase, prima del verbo o dell'aggettivo, come in « Elle travaille à la fois le matin et le soir ». In italiano si usa « allo stesso tempo » o « insieme », in francese la stessa idea resta compatta.",
+      "examples": [
+        {
+          "fr": "Ce livre est à la fois drôle et utile.",
+          "it": "Questo libro è allo stesso tempo divertente e utile."
+        },
+        {
+          "fr": "Elle travaille à la fois le matin et le soir.",
+          "it": "Lavora sia la mattina sia la sera."
+        }
+      ]
+    },
+    {
+      "id": "register",
+      "title_it": "Fréquenter: significato e registro",
+      "explain_it": "« Fréquenter » è il verbo corrispondente all'italiano « frequentare »: si usa per un luogo (« fréquenter un café ») o per le persone con cui si sta spesso (« fréquenter des gens »). Non va confuso con « fréquent », che è l'aggettivo « frequente ». Per dire « andare spesso in un luogo » nel parlato di tutti i giorni si dice anche « aller souvent à ».",
+      "examples": [
+        {
+          "fr": "Je ne fréquente plus ce café.",
+          "it": "Non frequento più questo bar."
+        },
+        {
+          "fr": "Il fréquentait toujours des gens plus âgés que lui.",
+          "it": "Frequentava sempre persone più anziane di lui."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la célébrité",
+      "it": "la celebrità",
+      "pos": "n"
+    },
+    {
+      "fr": "l'invitée (f.)",
+      "it": "l'ospite (f.)",
+      "pos": "n",
+      "note": "al maschile: l'invité"
+    },
+    {
+      "fr": "la photojournaliste",
+      "it": "la fotoreporter",
+      "pos": "n"
+    },
+    {
+      "fr": "le livre",
+      "it": "il libro",
+      "pos": "n"
+    },
+    {
+      "fr": "raconter",
+      "it": "raccontare",
+      "pos": "v"
+    },
+    {
+      "fr": "choisir",
+      "it": "scegliere",
+      "pos": "v",
+      "note": "vous avez choisi"
+    },
+    {
+      "fr": "la carrière",
+      "it": "la carriera",
+      "pos": "n"
+    },
+    {
+      "fr": "modeste",
+      "it": "modesto",
+      "pos": "adj"
+    },
+    {
+      "fr": "le peintre",
+      "it": "il pittore",
+      "pos": "n"
+    },
+    {
+      "fr": "falloir",
+      "it": "bisognare, occorrere",
+      "pos": "v",
+      "note": "solo terza persona: il faut, il fallait"
+    },
+    {
+      "fr": "quitter",
+      "it": "lasciare, partire da",
+      "pos": "v"
+    },
+    {
+      "fr": "fréquenter",
+      "it": "frequentare",
+      "pos": "v",
+      "note": "je fréquente"
+    },
+    {
+      "fr": "timide",
+      "it": "timido",
+      "pos": "adj"
+    },
+    {
+      "fr": "connaître",
+      "it": "conoscere",
+      "pos": "v",
+      "note": "je connaissais"
+    },
+    {
+      "fr": "la connaissance",
+      "it": "la conoscenza",
+      "pos": "n"
+    },
+    {
+      "fr": "laisser tomber",
+      "it": "far cadere, lasciar perdere",
+      "pos": "v",
+      "note": "j'ai laissé tomber"
+    },
+    {
+      "fr": "la décision",
+      "it": "la decisione",
+      "pos": "n"
+    },
+    {
+      "fr": "le don",
+      "it": "il dono, il talento",
+      "pos": "n",
+      "note": "avoir un don pour"
+    },
+    {
+      "fr": "la photographie",
+      "it": "la fotografia (arte, tecnica)",
+      "pos": "n"
+    },
+    {
+      "fr": "le paysage",
+      "it": "il paesaggio",
+      "pos": "n"
+    },
+    {
+      "fr": "la mode",
+      "it": "la moda",
+      "pos": "n"
+    },
+    {
+      "fr": "le portrait",
+      "it": "il ritratto",
+      "pos": "n"
+    },
+    {
+      "fr": "cependant",
+      "it": "tuttavia, però",
+      "pos": "conj"
+    },
+    {
+      "fr": "réussir",
+      "it": "riuscire, avere successo",
+      "pos": "v"
+    },
+    {
+      "fr": "surmonter",
+      "it": "superare",
+      "pos": "v"
+    },
+    {
+      "fr": "l'obstacle (m.)",
+      "it": "l'ostacolo",
+      "pos": "n"
+    },
+    {
+      "fr": "flâner",
+      "it": "gironzolare, passeggiare senza fretta",
+      "pos": "v"
+    },
+    {
+      "fr": "la permission",
+      "it": "il permesso",
+      "pos": "n"
+    },
+    {
+      "fr": "célèbre",
+      "it": "famoso, celebre",
+      "pos": "adj"
+    },
+    {
+      "fr": "grand",
+      "it": "grande, importante",
+      "pos": "adj",
+      "note": "davanti al nome: importante; dopo il nome: alto"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Ça ne me dit pas grand-chose.",
+      "it": "Non mi dice granché / non mi entusiasma.",
+      "note": "registro familiare; più forte: « ça ne me dit rien »"
+    },
+    {
+      "fr": "Avec plaisir.",
+      "it": "Volentieri.",
+      "note": "risposta cortese a un invito o una richiesta"
+    },
+    {
+      "fr": "à la fois … et …",
+      "it": "allo stesso tempo … e …",
+      "note": "unisce due qualità o azioni"
+    },
+    {
+      "fr": "faire la connaissance de",
+      "it": "conoscere, fare la conoscenza di"
+    },
+    {
+      "fr": "de bonne heure",
+      "it": "di buon'ora, presto"
+    },
+    {
+      "fr": "petit à petit",
+      "it": "poco a poco"
+    },
+    {
+      "fr": "baisser les bras",
+      "it": "arrendersi, gettare la spugna",
+      "note": "letteralmente « abbassare le braccia »"
+    },
+    {
+      "fr": "trouver sa voie",
+      "it": "trovare la propria strada"
+    },
+    {
+      "fr": "ça vaut la peine de",
+      "it": "valere la pena di",
+      "note": "seguito da un infinito"
+    },
+    {
+      "fr": "ça m'énerve",
+      "it": "mi irrita, mi dà fastidio",
+      "note": "registro colloquiale"
+    },
+    {
+      "fr": "valoir mieux que",
+      "it": "valere più di, essere meglio di"
+    }
+  ],
+  "notes_it": [
+    "Falsi amici: « la photographie » è l'arte e la tecnica, « une photo » è l'immagine (abbreviazione), « un photographe » è la persona. In italiano « fotografia » indica tutte e due le cose: in francese bisogna scegliere la parola giusta.",
+    "Pronuncia: la h di « heure » non si pronuncia, quindi « de bonne heure » suona quasi come « de bonheur » (di felicità). La h di « heure » è muta: si fanno l'elisione e il legame come davanti a una vocale (l'heure, les heures).",
+    "« Fréquenter » corrisponde all'italiano « frequentare », ma parlando di persone significa piuttosto « vedersi con », « stare con » qualcuno.",
+    "L'espressione « pas grand-chose » è un modo naturale per dire « non granché » e funziona anche con verbi diversi da essere: « Elle ne fait pas grand-chose le dimanche » (la domenica non fa molto)."
+  ],
+  "exercises": [
+    {
+      "id": "L061-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "il-faut",
+      "prompt": "Come si dice « Bisogna partire presto »?",
+      "options": [
+        "Tu faut partir tôt.",
+        "Il faut partir tôt.",
+        "Il est faut partir tôt.",
+        "Elle faut partir tôt."
+      ],
+      "correct": 1,
+      "explain_it": "Falloir è impersonale: si usa solo con « il » e « il faut » significa « bisogna »; « il a fallu » indica invece un fatto passato, « è stato necessario »."
+    },
+    {
+      "id": "L061-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "il-faut",
+      "prompt": "Come si dice « Bisognava chiudere la porta »?",
+      "options": [
+        "Il fallait fermer la porte.",
+        "Il faut fermer la porte.",
+        "Il fallu fermer la porte.",
+        "Il fallaient fermer la porte."
+      ],
+      "correct": 0,
+      "explain_it": "Bisognava è l'imperfetto: fallait è invariabile per persona, mentre faut è presente."
+    },
+    {
+      "id": "L061-e03",
+      "type": "cloze",
+      "level": 1,
+      "concept": "il-faut",
+      "text": "Il ___ prendre un parapluie aujourd'hui.",
+      "answers": [
+        "faut"
+      ],
+      "hint": "(falloir, presente)",
+      "prompt": "Bisogna prendere un ombrello oggi.",
+      "explain_it": "Falloir si usa solo alla terza persona singolare: il faut, mai je faut o tu faut."
+    },
+    {
+      "id": "L061-e04",
+      "type": "cloze",
+      "level": 2,
+      "concept": "il-faut",
+      "text": "Hier, il ___ partir tôt pour arriver à l'heure.",
+      "answers": [
+        "fallait"
+      ],
+      "hint": "(falloir, imperfetto)",
+      "prompt": "Ieri bisognava partire presto per arrivare in orario.",
+      "explain_it": "Per « bisognava » al passato si usa l'imperfetto fallait, sempre uguale per tutte le persone."
+    },
+    {
+      "id": "L061-e05",
+      "type": "write",
+      "level": 2,
+      "concept": "il-faut",
+      "prompt": "Bisogna mangiare di più.",
+      "answers": [
+        "Il faut manger [plus|davantage]."
+      ],
+      "explain_it": "Con falloir resta sempre « il faut » seguito dall'infinito; « davantage » è un sinonimo di « plus » in questo uso."
+    },
+    {
+      "id": "L061-e06",
+      "type": "write",
+      "level": 3,
+      "concept": "il-faut",
+      "prompt": "Ieri bisognava comprare il pane, ma non ho avuto tempo.",
+      "answers": [
+        "Hier, il fallait acheter [du|le] pain, mais je n'ai pas eu le temps."
+      ],
+      "explain_it": "L'imperfetto fallait descrive la necessità nel passato, mentre il passato prossimo « je n'ai pas eu » racconta il fatto che non si è realizzato."
+    },
+    {
+      "id": "L061-e07",
+      "type": "mcq",
+      "level": 2,
+      "concept": "imparfait",
+      "prompt": "Come si dice « Valeva la pena aspettare »?",
+      "options": [
+        "Ça valait la peine d'attendre.",
+        "Ça vaut la peine d'attendre.",
+        "Ça valu la peine d'attendre.",
+        "Ça valait le peine d'attendre."
+      ],
+      "correct": 0,
+      "explain_it": "Valoir all'imperfetto fa valait (come in « valait mieux »), e « la peine » resta femminile."
+    },
+    {
+      "id": "L061-e08",
+      "type": "cloze",
+      "level": 2,
+      "concept": "imparfait",
+      "text": "Cette maison ___ beaucoup d'argent autrefois.",
+      "answers": [
+        "valait"
+      ],
+      "hint": "(valoir, imperfetto)",
+      "prompt": "Un tempo quella casa valeva molto denaro.",
+      "explain_it": "Il verbo valoir all'imperfetto ha la radice val-: il valait per la terza persona singolare."
+    },
+    {
+      "id": "L061-e09",
+      "type": "write",
+      "level": 3,
+      "concept": "imparfait",
+      "prompt": "Quando ero giovane, valeva la pena leggere molti libri.",
+      "answers": [
+        "Quand j'étais jeune, [ça|il] valait la peine de lire beaucoup de livres."
+      ],
+      "explain_it": "Il passato descrittivo usa l'imperfetto (j'étais, valait); « il valait la peine de » e « ça valait la peine de » sono entrambi corretti."
+    },
+    {
+      "id": "L061-e10",
+      "type": "mcq",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Come si dice « Ho fatto cuocere delle carote »?",
+      "options": [
+        "J'ai fait cuire des carottes.",
+        "J'ai fait cuit des carottes.",
+        "J'ai fait cuite des carottes.",
+        "J'ai faite cuire des carottes."
+      ],
+      "correct": 0,
+      "explain_it": "Nel passato prossimo con due verbi, solo il primo si coniuga (fait); il secondo resta all'infinito (cuire)."
+    },
+    {
+      "id": "L061-e11",
+      "type": "cloze",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "text": "Hier, j'ai ___ mon téléphone dans le train.",
+      "answers": [
+        "laissé tomber"
+      ],
+      "hint": "(laisser tomber, passato prossimo)",
+      "prompt": "Ieri ho lasciato cadere il telefono nel treno.",
+      "explain_it": "Nel passato prossimo di « laisser tomber » si coniuga solo il primo verbo (j'ai laissé); « tomber » resta all'infinito."
+    },
+    {
+      "id": "L061-e12",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ieri ho dovuto partire presto perché ero in ritardo.",
+      "answers": [
+        "Hier, j'ai dû partir tôt [car|parce que] j'étais en retard."
+      ],
+      "explain_it": "Il participio di devoir è « dû », con l'accento circonflesso, per distinguerlo dal partitivo « du »; « j'étais » è l'imperfetto che spiega la causa."
+    },
+    {
+      "id": "L061-e13",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ho lasciato cadere le chiavi.",
+      "answers": [
+        "J'ai laissé tomber [mes|les] [clés|clefs]."
+      ],
+      "explain_it": "Nel passato prossimo si usa avoir con il participio del primo verbo, laissé; tomber resta all'infinito."
+    },
+    {
+      "id": "L061-e14",
+      "type": "order",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ho fatto cuocere delle uova.",
+      "answers": [
+        "J'ai fait cuire des [œufs|oeufs]."
+      ],
+      "distractors": [
+        "cuit",
+        "faite"
+      ],
+      "explain_it": "Il primo verbo prende il participio (fait), il secondo resta all'infinito (cuire)."
+    },
+    {
+      "id": "L061-e15",
+      "type": "mcq",
+      "level": 2,
+      "concept": "adjective-position",
+      "prompt": "Quale frase significa « È un fotografo importante »?",
+      "options": [
+        "C'est un grand photographe.",
+        "C'est un photographe grand.",
+        "C'est un photographe grande.",
+        "C'est un photographe grands."
+      ],
+      "correct": 0,
+      "explain_it": "Prima del nome « grand » significa importante o famoso; dopo il nome significa alto o di dimensioni fisiche."
+    },
+    {
+      "id": "L061-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adjective-position",
+      "text": "C'est une ___ actrice, tout le monde la connaît.",
+      "answers": [
+        "grande"
+      ],
+      "hint": "(grand, femminile, davanti al nome)",
+      "prompt": "È una grande attrice, la conoscono tutti.",
+      "explain_it": "Davanti al nome femminile « grand » diventa « grande » e significa importante, di grande rilievo."
+    },
+    {
+      "id": "L061-e17",
+      "type": "write",
+      "level": 3,
+      "concept": "adjective-position",
+      "prompt": "Lei è una grande fotografa, ma abita in una casa piccola.",
+      "answers": [
+        "C'est une grande photographe, mais elle habite [dans|] une petite maison."
+      ],
+      "explain_it": "« Photographe » è invariabile: « une photographe ». Per presentare una persona si dice « c'est une grande photographe »; « grande » prima del nome indica importanza, « petite » dimensione."
+    },
+    {
+      "id": "L061-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-position",
+      "prompt": "Abbiamo visto un grande film.",
+      "answers": [
+        "[Nous avons vu|On a vu] un grand film."
+      ],
+      "explain_it": "Prima del nome « grand » vuol dire grande nel senso di ottimo o importante, quindi resta davanti a « film »."
+    },
+    {
+      "id": "L061-e19",
+      "type": "mcq",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Come si dice « Ho fatto la conoscenza di Marco ieri »?",
+      "options": [
+        "J'ai fait la connaissance de Marc hier.",
+        "J'ai fait connaissance Marc hier.",
+        "J'ai connu la connaissance de Marc hier.",
+        "J'ai fait la connaissance à Marc hier."
+      ],
+      "correct": 0,
+      "explain_it": "Si dice « faire la connaissance de » con la preposizione de, e « connaissance » resta femminile anche per un uomo."
+    },
+    {
+      "id": "L061-e20",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Je suis content de faire ___ de vos amis.",
+      "answers": [
+        "la connaissance"
+      ],
+      "hint": "(faire la connaissance)",
+      "prompt": "Sono felice di conoscere i vostri amici.",
+      "explain_it": "L'espressione fissa è « faire la connaissance de », con l'articolo la davanti a connaissance."
+    },
+    {
+      "id": "L061-e21",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Non conoscevo quasi nessuno, ma ho fatto la conoscenza di un fotografo a Parigi.",
+      "answers": [
+        "Je ne connaissais presque personne, mais j'ai fait la connaissance d'un photographe à Paris."
+      ],
+      "explain_it": "Si combinano l'imperfetto del verbo connaître (connaissais) per descrivere la situazione e il passato prossimo di faire la connaissance per l'evento."
+    },
+    {
+      "id": "L061-e22",
+      "type": "mcq",
+      "level": 2,
+      "concept": "negation",
+      "prompt": "Come si dice « Non ci capisco granché »?",
+      "options": [
+        "Je n'y comprends pas grand-chose.",
+        "Je n'y comprends pas grandes choses.",
+        "Je n'y comprends pas beaucoup-chose.",
+        "Je n'y comprends pas du grand-chose."
+      ],
+      "correct": 0,
+      "explain_it": "« Grand-chose » è invariabile e si usa con « ne … pas »: significa « non molto » o « non granché »."
+    },
+    {
+      "id": "L061-e23",
+      "type": "cloze",
+      "level": 2,
+      "concept": "negation",
+      "text": "Cette exposition ne m'intéresse pas ___.",
+      "answers": [
+        "grand-chose"
+      ],
+      "hint": "(ne … pas + espressione fissa)",
+      "prompt": "Questa mostra non mi interessa granché.",
+      "explain_it": "Con « pas » la negazione si chiude con « grand-chose », invariabile."
+    },
+    {
+      "id": "L061-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "negation",
+      "prompt": "Non ho visto granché del film.",
+      "answers": [
+        "Je n'ai pas vu grand-chose [du|de ce] film."
+      ],
+      "explain_it": "La negazione « ne … pas » circonda il passato prossimo (n'ai pas vu), e « grand-chose » arriva dopo il participio."
+    },
+    {
+      "id": "L061-e25",
+      "type": "flash",
+      "level": 2,
+      "concept": "negation",
+      "front": "« Ne … pas grand-chose »: significato e uso",
+      "back": "Significa « non granché / non molto ». Il composto « grand-chose » è invariabile e si usa dopo « pas », con « ne » davanti al verbo: ça ne me dit pas grand-chose.",
+      "note": "Nel registro familiare si dice anche « ça ne me dit rien », più forte."
+    },
+    {
+      "id": "L061-e26",
+      "type": "mcq",
+      "level": 1,
+      "concept": "false-friends",
+      "prompt": "Quale parola indica l'arte e la tecnica di fotografare?",
+      "options": [
+        "la photographie",
+        "la photo",
+        "le photographe",
+        "la photographe"
+      ],
+      "correct": 0,
+      "explain_it": "« La photographie » è la disciplina; « une photo » è l'immagine, « un photographe » la persona."
+    },
+    {
+      "id": "L061-e27",
+      "type": "mcq",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "Come si dice « Ho scattato una bella foto del mare »?",
+      "options": [
+        "J'ai pris une belle photo de la mer.",
+        "J'ai pris une belle photographe de la mer.",
+        "J'ai pris un beau photographe de la mer.",
+        "J'ai pris une belle photographie du mer."
+      ],
+      "correct": 0,
+      "explain_it": "Per la singola immagine si dice « une photo »; « photographe » è la persona che scatta, e « photographie » è l'arte."
+    },
+    {
+      "id": "L061-e28",
+      "type": "cloze",
+      "level": 2,
+      "concept": "false-friends",
+      "text": "Il est ___ de rue : il prend des gens en photo dans la ville.",
+      "answers": [
+        "photographe"
+      ],
+      "hint": "(il fotografo, la persona)",
+      "prompt": "È un fotografo di strada: fotografa la gente in città.",
+      "explain_it": "« Photographe » indica la persona che scatta le foto e non cambia tra maschile e femminile."
+    },
+    {
+      "id": "L061-e29",
+      "type": "flash",
+      "level": 1,
+      "concept": "false-friends",
+      "front": "Photographie, photo, photographe: differenze",
+      "back": "photographie (f.) = arte e tecnica della fotografia; photo (f.) = la singola immagine, abbreviazione di photographie; photographe = la persona che fotografa, invariabile.",
+      "note": "Il falso amico per un italiano è « fotografia » usato per l'immagine: in francese si dice « une photo »."
+    },
+    {
+      "id": "L061-e30",
+      "type": "mcq",
+      "level": 2,
+      "concept": "connectors",
+      "prompt": "Quale frase significa « Il film è allo stesso tempo divertente e commovente »?",
+      "options": [
+        "Le film est à la fois drôle et émouvant.",
+        "Le film est à fois drôle et émouvant.",
+        "Le film est à la fois drôle que émouvant.",
+        "Le film est à la fois drôle ou émouvant."
+      ],
+      "correct": 0,
+      "explain_it": "« À la fois … et … » unisce due qualità; « ou » indicherebbe invece un'alternativa."
+    },
+    {
+      "id": "L061-e31",
+      "type": "cloze",
+      "level": 2,
+      "concept": "connectors",
+      "text": "Il est ___ intelligent et généreux.",
+      "answers": [
+        "à la fois"
+      ],
+      "hint": "(allo stesso tempo)",
+      "prompt": "È allo stesso tempo intelligente e generoso.",
+      "explain_it": "L'espressione « à la fois » si scrive con l'articolo la, anche se è seguita da un aggettivo."
+    },
+    {
+      "id": "L061-e32",
+      "type": "write",
+      "level": 2,
+      "concept": "connectors",
+      "prompt": "Voglio viaggiare e studiare allo stesso tempo.",
+      "answers": [
+        "Je veux à la fois voyager et étudier.",
+        "Je veux voyager et étudier à la fois.",
+        "Je veux voyager et étudier en même temps."
+      ],
+      "explain_it": "« À la fois » può stare dopo il verbo o tra soggetto e verbo, ma l'idea di simultaneità resta la stessa."
+    },
+    {
+      "id": "L061-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "connectors",
+      "prompt": "Questa casa è allo stesso tempo grande e luminosa, ma costa molto.",
+      "answers": [
+        "Cette maison est à la fois grande et lumineuse, mais elle coûte [très cher|cher|beaucoup]."
+      ],
+      "explain_it": "« À la fois … et » unisce i due aggettivi, mentre « mais » introduce l'elemento contrario sul prezzo."
+    },
+    {
+      "id": "L061-e34",
+      "type": "mcq",
+      "level": 2,
+      "concept": "register",
+      "prompt": "Come si dice « Non voglio frequentare queste persone »?",
+      "options": [
+        "Je ne veux pas fréquenter ces gens.",
+        "Je ne veux pas fréquent ces gens.",
+        "Je ne veux pas fréquentes ces gens.",
+        "Je ne veux pas fréquenté ces gens."
+      ],
+      "correct": 0,
+      "explain_it": "Dopo « vouloir » ci vuole l'infinito: « fréquenter ». « Fréquent » è l'aggettivo « frequente »."
+    },
+    {
+      "id": "L061-e35",
+      "type": "cloze",
+      "level": 2,
+      "concept": "register",
+      "text": "Je ne ___ plus ce café depuis longtemps.",
+      "answers": [
+        "fréquente"
+      ],
+      "hint": "(fréquenter, presente)",
+      "prompt": "Non frequento più questo bar da molto tempo.",
+      "explain_it": "Il verbo fréquenter è regolare in -er: je fréquente, con la negazione « ne … plus » intorno."
+    },
+    {
+      "id": "L061-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "register",
+      "prompt": "Frequentava sempre persone più anziane di lui.",
+      "answers": [
+        "Il fréquentait toujours des gens plus [âgés|vieux] que lui.",
+        "Il fréquentait toujours des personnes plus [âgées|vieilles] que lui."
+      ],
+      "explain_it": "Imperfetto di fréquenter (fréquentait) e comparativo « plus … que »; l'aggettivo concorda con il nome: des gens … âgés, des personnes … âgées."
+    },
+    {
+      "id": "L061-e37",
+      "type": "flash",
+      "level": 2,
+      "concept": "il-faut",
+      "front": "Falloir: forme e significato",
+      "back": "Verbo impersonale, solo terza persona singolare: il faut (bisogna), il fallait (bisognava), il a fallu (è stato necessario). Non si coniuga con je, tu, nous.",
+      "note": "Con un altro verbo si usa l'infinito: il faut partir."
+    },
+    {
+      "id": "L061-e38",
+      "type": "dictation",
+      "level": 2,
+      "concept": "depuis-il-y-a",
+      "text": "Elle est née il y a trente ans à Bastia, dans une famille nombreuse.",
+      "explain_it": "« Il y a » con un periodo di tempo significa « fa »: il y a trente ans = trent'anni fa."
+    },
+    {
+      "id": "L061-e39",
+      "type": "dictation",
+      "level": 3,
+      "concept": "liaison",
+      "text": "Nous avons une belle histoire à raconter aux auditeurs.",
+      "explain_it": "Si fa il legame tra « une belle » e « histoire », e tra « aux » e « auditeurs », perché la h di « histoire » è muta."
+    },
+    {
+      "id": "L061-e40",
+      "type": "order",
+      "level": 1,
+      "concept": "il-faut",
+      "prompt": "Bisogna prendere il treno alle otto.",
+      "answers": [
+        "Il faut prendre le train à huit heures."
+      ],
+      "distractors": [
+        "fallu",
+        "fallait"
+      ],
+      "explain_it": "Con falloir la forma al presente è « il faut », seguito dall'infinito « prendre »."
+    },
+    {
+      "id": "L061-e41",
+      "type": "order",
+      "level": 1,
+      "concept": "adjective-position",
+      "prompt": "È un grande pittore.",
+      "answers": [
+        "C'est un grand peintre."
+      ],
+      "distractors": [
+        "petit",
+        "grands"
+      ],
+      "explain_it": "« Grand » sta prima del nome e significa importante, come in « un grand peintre »."
+    },
+    {
+      "id": "L061-e42",
+      "type": "order",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Mi piace fare la conoscenza di nuove persone.",
+      "answers": [
+        "J'aime faire la connaissance de nouvelles personnes."
+      ],
+      "distractors": [
+        "connaissez",
+        "nouveaux"
+      ],
+      "explain_it": "« Nouvelles » è al femminile perché concorda con « personnes », e l'espressione fissa resta « faire la connaissance de »."
+    }
+  ]
+}

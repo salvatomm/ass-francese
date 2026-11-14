@@ -1,0 +1,742 @@
+{
+  "n": 63,
+  "title_fr": "Révision",
+  "title_it": "Ripasso",
+  "review": true,
+  "status": "verified",
+  "source": "fa2f8a2c p63-72 (libro p.343-352)",
+  "theme_it": "Due persone ricordano gli anni vissuti in Bretagna, i tentativi di imparare il bretone e il ritorno a Parigi. Poi raccontano il trasferimento in Corsica, dove uno dei due si innamora dell'isola.",
+  "grammar": [
+    {
+      "id": "imparfait",
+      "title_it": "L'imperfetto (imparfait)",
+      "explain_it": "L'imperfetto descrive situazioni, abitudini e azioni in corso nel passato, senza indicare quando cominciano o finiscono, come in italiano. Si forma dalla radice della prima persona plurale del presente (nous mangeons → mange-, nous allons → all-) più -ais, -ais, -ait, -ions, -iez, -aient. Unica eccezione: être (j'étais). Con i verbi in -cer e -ger la grafia si adatta alla pronuncia: je commençais, je mangeais. Si usa per l'azione abituale o di sfondo, mentre il passato prossimo racconta l'evento puntuale che la interrompe.",
+      "examples": [
+        {
+          "fr": "Chaque matin, je mangeais une pomme.",
+          "it": "Ogni mattina mangiavo una mela."
+        },
+        {
+          "fr": "Il faisait beau quand nous sommes partis.",
+          "it": "Faceva bel tempo quando siamo partiti."
+        }
+      ]
+    },
+    {
+      "id": "present-irregular",
+      "title_it": "Il verbo valoir (valere)",
+      "explain_it": "Valoir significa « valere » ed è irregolare al presente: je vaux, tu vaux, il vaut, nous valons, vous valez, ils valent. Esprime il valore economico o il merito: Ce tableau vaut très cher (questo quadro vale molto). Nelle espressioni: ça vaut la peine (vale la pena), valoir mieux (essere meglio). Il sostantivo derivato è la valeur. Al passato è regolare sull'imperfetto valait, e il futuro è vaudra.",
+      "examples": [
+        {
+          "fr": "Ça vaut la peine d'essayer.",
+          "it": "Vale la pena provare."
+        },
+        {
+          "fr": "Ce restaurant vaut le détour.",
+          "it": "Questo ristorante vale la deviazione."
+        }
+      ]
+    },
+    {
+      "id": "il-faut",
+      "title_it": "Falloir (bisogna, serve)",
+      "explain_it": "Falloir è un verbo impersonale: si usa solo alla terza persona singolare (il faut, il fallait, il faudra, il a fallu) e non ha un vero soggetto. Si fa seguire da un infinito o da un nome: Il faut partir; Il faut du courage. Per dire « a me serve » si aggiunge un pronome indiretto prima del verbo: il me faut, il te faut. Corrisponde a « bisogna / serve / occorre » in italiano.",
+      "examples": [
+        {
+          "fr": "Il me faut du temps.",
+          "it": "Mi serve tempo."
+        },
+        {
+          "fr": "Il faut bien y réfléchir.",
+          "it": "Bisogna pensarci bene."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "title_it": "La s finale di « plus »",
+      "explain_it": "La s finale di plus cambia pronuncia secondo il contesto. Si pronuncia [s] quando plus significa « più » alla fine di un gruppo o davanti a « de » in frase affermativa: il en faut plus; il faut plus de temps. Davanti a una vocale si legge [z]: plus intéressant. È muta in « ne … plus » (je n'ai plus faim) e, di solito, davanti a una consonante: plus grand. La grafia non cambia: il suono è l'unico indizio.",
+      "examples": [
+        {
+          "fr": "Je n'ai plus faim.",
+          "it": "Non ho più fame. (s muta)"
+        },
+        {
+          "fr": "C'est plus intéressant.",
+          "it": "È più interessante. (s pronunciata come [z])"
+        }
+      ]
+    },
+    {
+      "id": "connectors",
+      "title_it": "Avverbi congiuntivi: pourtant, cependant, néanmoins, alors",
+      "explain_it": "Questi avverbi collegano frasi o idee. Pourtant (eppure) è il più comune anche nel parlato; cependant e néanmoins (tuttavia) sono più formali. Alors indica una conseguenza (dunque, allora) ma può anche riferirsi a un momento del passato: Il était alors mon directeur (allora era il mio direttore). Il senso dipende dal contesto.",
+      "examples": [
+        {
+          "fr": "C'est difficile, pourtant c'est vrai.",
+          "it": "È difficile, eppure è vero."
+        },
+        {
+          "fr": "Il était alors mon directeur.",
+          "it": "Allora era il mio direttore."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Espressioni con le parti del corpo",
+      "explain_it": "Il francese ha molte espressioni con le parti del corpo, alcune simili all'italiano (les bras ouverts = a braccia aperte), altre da imparare a blocco, senza tradurre parola per parola: faire la sourde oreille (fare orecchie da mercante), lever le petit doigt (muovere un dito), mettre les pieds dans le plat (fare una gaffe, essere troppo diretti). La forma fissa non si modifica: non si dice « faire la sourde main ».",
+      "examples": [
+        {
+          "fr": "Ma sœur accueille toujours ses amis les bras ouverts.",
+          "it": "Mia sorella accoglie sempre gli amici a braccia aperte."
+        },
+        {
+          "fr": "Il ne lève pas le petit doigt pour aider.",
+          "it": "Non muove un dito per aiutare."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le tourisme",
+      "it": "il turismo",
+      "pos": "n"
+    },
+    {
+      "fr": "l'île (f.)",
+      "it": "l'isola",
+      "pos": "n"
+    },
+    {
+      "fr": "la beauté",
+      "it": "la bellezza",
+      "pos": "n"
+    },
+    {
+      "fr": "continuer",
+      "it": "continuare",
+      "pos": "v",
+      "note": "continuer à + infinito"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "avoir un coup de cœur pour",
+      "it": "avere un debole per, innamorarsi di",
+      "note": "si dice di luoghi, oggetti o persone; registro familiare"
+    },
+    {
+      "fr": "accueillir les bras ouverts",
+      "it": "accogliere a braccia aperte"
+    },
+    {
+      "fr": "ne pas lever le petit doigt",
+      "it": "non muovere un dito",
+      "note": "non fare nemmeno il minimo sforzo"
+    },
+    {
+      "fr": "ne jamais baisser les bras",
+      "it": "non arrendersi mai"
+    },
+    {
+      "fr": "ça ne vaut pas la peine",
+      "it": "non vale la pena"
+    },
+    {
+      "fr": "faire la sourde oreille",
+      "it": "fare orecchie da mercante"
+    },
+    {
+      "fr": "mettre les pieds dans le plat",
+      "it": "mettere i piedi nel piatto, fare una gaffe",
+      "note": "dire qualcosa di imbarazzante o inopportuno"
+    },
+    {
+      "fr": "dormir sur ses deux oreilles",
+      "it": "dormire sonni tranquilli",
+      "note": "dormire senza preoccupazioni"
+    },
+    {
+      "fr": "se creuser la tête",
+      "it": "scervellarsi",
+      "note": "sforzarsi di trovare una soluzione"
+    },
+    {
+      "fr": "prendre ses jambes à son cou",
+      "it": "darsela a gambe levate",
+      "note": "scappare in fretta, registro familiare"
+    }
+  ],
+  "notes_it": [
+    "L'imperfetto francese corrisponde in genere all'imperfetto italiano. Quando lo incontri, chiediti se descrive uno sfondo o un'abitudine: se invece l'azione è puntuale e conclusa si usa il passato prossimo.",
+    "« Comprendre » significa soprattutto « capire », ma può voler dire anche « comprendere, includere »: le prix comprend les taxes (il prezzo include le tasse).",
+    "Molte espressioni con le parti del corpo sono simili all'italiano (avoir un coup de cœur), ma altre sono proprie del francese e non si traducono parola per parola: faire la sourde oreille è un esempio tipico.",
+    "Pronuncia: la s di plus cambia secondo il contesto ([plys], [ply], [plyz]). Ripeti ad alta voce le frasi di esempio per fissare i tre suoni."
+  ],
+  "exercises": [
+    {
+      "id": "L063-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "imparfait",
+      "prompt": "Completa: « Quand j'___ petit, je jouais dans le jardin. »",
+      "options": [
+        "étais",
+        "suis",
+        "serai",
+        "ai été"
+      ],
+      "correct": 0,
+      "explain_it": "Per una situazione passata durevole si usa l'imperfetto; être è l'unica eccezione e fa étais."
+    },
+    {
+      "id": "L063-e02",
+      "type": "mcq",
+      "level": 2,
+      "concept": "imparfait-vs-pc",
+      "prompt": "Quale frase descrive un'abitudine del passato?",
+      "options": [
+        "Il pleuvait tous les jours pendant nos vacances.",
+        "Il a plu hier soir pendant deux heures.",
+        "Il pleuvra demain matin.",
+        "Il a été pluvieux une seule fois."
+      ],
+      "correct": 0,
+      "explain_it": "L'imperfetto descrive l'abitudine (tous les jours), il passato prossimo l'evento unico."
+    },
+    {
+      "id": "L063-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "il-faut",
+      "prompt": "Come si dice « bisogna continuare »?",
+      "options": [
+        "Il faut continuer.",
+        "Il vaut continuer.",
+        "Il fait continuer.",
+        "Il faut continuant."
+      ],
+      "correct": 0,
+      "explain_it": "Falloir è impersonale: il faut seguito dall'infinito. Gli altri verbi sono errori tipici."
+    },
+    {
+      "id": "L063-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "present-irregular",
+      "prompt": "Completa: « Ce restaurant ___ le détour. » (vale la deviazione)",
+      "options": [
+        "vaut",
+        "vaux",
+        "valent",
+        "valons"
+      ],
+      "correct": 0,
+      "explain_it": "Valoir al presente ha la radice vaux- alla prima persona e vaut alla terza singolare."
+    },
+    {
+      "id": "L063-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronunciation",
+      "prompt": "Nella frase « Je n'ai plus faim », come si pronuncia la s di plus?",
+      "options": [
+        "È muta",
+        "Si pronuncia [z]",
+        "Si pronuncia [s] sorda, come in « sasso »",
+        "Si pronuncia [ks]"
+      ],
+      "correct": 0,
+      "explain_it": "Dopo « ne … plus » la s di plus è muta: si legge [ply]."
+    },
+    {
+      "id": "L063-e06",
+      "type": "mcq",
+      "level": 1,
+      "concept": "connectors",
+      "prompt": "Quale parola significa « eppure » nella frase: « C'est difficile à croire, ___ c'est vrai. »",
+      "options": [
+        "pourtant",
+        "pourquoi",
+        "autant",
+        "alors"
+      ],
+      "correct": 0,
+      "explain_it": "Pourtant significa « eppure » e introduce un'idea contraria; alors indica conseguenza o tempo."
+    },
+    {
+      "id": "L063-e07",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "« Mettre les pieds dans le plat » vuol dire:",
+      "options": [
+        "dire qualcosa di imbarazzante o inopportuno",
+        "sporcare il pavimento",
+        "entrare in casa senza scarpe",
+        "rovesciare un piatto"
+      ],
+      "correct": 0,
+      "explain_it": "L'espressione mettre les pieds dans le plat indica una gaffe, cioè dire qualcosa di inopportuno."
+    },
+    {
+      "id": "L063-e08",
+      "type": "mcq",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "Quale frase vuol dire « Mio padre mi insegna a guidare »?",
+      "options": [
+        "Mon père m'apprend à conduire.",
+        "Mon père apprend à conduire.",
+        "Mon père m'apprendra à conduire.",
+        "Mon père enseigne la conduite au lycée."
+      ],
+      "correct": 0,
+      "explain_it": "Apprendre con complemento di persona diventa « insegnare »: m'apprend à = mi insegna a."
+    },
+    {
+      "id": "L063-e09",
+      "type": "mcq",
+      "level": 2,
+      "concept": "pronoun-y",
+      "prompt": "Come si dice « non ci capisco niente » a proposito di una spiegazione confusa?",
+      "options": [
+        "Je n'y comprends rien.",
+        "Je y comprends rien.",
+        "Je ne comprends y rien.",
+        "Je ne le comprends rien."
+      ],
+      "correct": 0,
+      "explain_it": "Y sostituisce « à » + cosa e va prima del verbo, dopo ne della negazione."
+    },
+    {
+      "id": "L063-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "il-faut",
+      "text": "Pour réussir, il ___ travailler beaucoup.",
+      "answers": [
+        "faut"
+      ],
+      "hint": "(falloir, presente)",
+      "prompt": "Per riuscire bisogna lavorare molto.",
+      "explain_it": "Falloir al presente, terza persona singolare: il faut."
+    },
+    {
+      "id": "L063-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "imparfait",
+      "text": "Autrefois, nous ___ souvent à la mer.",
+      "answers": [
+        "allions"
+      ],
+      "hint": "(aller, imperfetto)",
+      "prompt": "Un tempo andavamo spesso al mare.",
+      "explain_it": "Aller all'imperfetto: radice all- più -ions per nous."
+    },
+    {
+      "id": "L063-e12",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-y",
+      "text": "Le film est très compliqué : je n'___ comprends rien.",
+      "answers": [
+        "y"
+      ],
+      "hint": "(pronome, cosa)",
+      "prompt": "Il film è molto complicato: non ci capisco niente.",
+      "explain_it": "Y rimanda a una cosa (la questione, il film) e precede il verbo."
+    },
+    {
+      "id": "L063-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Quand je lui parle des factures, il fait toujours la sourde ___.",
+      "answers": [
+        "oreille"
+      ],
+      "hint": "(parte del corpo)",
+      "prompt": "Quando gli parlo delle bollette fa sempre orecchie da mercante.",
+      "explain_it": "Faire la sourde oreille significa fare orecchie da mercante: si usa oreille al singolare."
+    },
+    {
+      "id": "L063-e14",
+      "type": "order",
+      "level": 1,
+      "concept": "il-faut",
+      "prompt": "Bisogna lavorare di più.",
+      "answers": [
+        "Il faut travailler plus."
+      ],
+      "distractors": [
+        "fait",
+        "vaut"
+      ],
+      "explain_it": "Il faut più infinito: travailler, e plus alla fine."
+    },
+    {
+      "id": "L063-e15",
+      "type": "order",
+      "level": 1,
+      "concept": "present-irregular",
+      "prompt": "Questa idea non vale niente.",
+      "answers": [
+        "Cette idée ne vaut rien."
+      ],
+      "distractors": [
+        "vaux",
+        "valent"
+      ],
+      "explain_it": "Valoir al presente con ne … rien: ne vaut rien."
+    },
+    {
+      "id": "L063-e16",
+      "type": "order",
+      "level": 1,
+      "concept": "imparfait",
+      "prompt": "Quando ero piccolo, guardavo i cartoni animati.",
+      "answers": [
+        "Quand j'étais petit, je regardais des dessins animés."
+      ],
+      "distractors": [
+        "regardé",
+        "regarderai"
+      ],
+      "explain_it": "Imperfetto di regarder per l'abitudine passata: je regardais."
+    },
+    {
+      "id": "L063-e17",
+      "type": "cloze",
+      "level": 2,
+      "concept": "imparfait",
+      "text": "Quand il ___ beau, nous allions à la plage.",
+      "answers": [
+        "faisait"
+      ],
+      "hint": "(faire, imperfetto)",
+      "prompt": "Quando faceva bel tempo, andavamo in spiaggia.",
+      "explain_it": "Faire all'imperfetto, terza singolare: faisait."
+    },
+    {
+      "id": "L063-e18",
+      "type": "cloze",
+      "level": 2,
+      "concept": "imparfait-vs-pc",
+      "text": "Hier, je ___ dans la rue quand il a commencé à pleuvoir.",
+      "answers": [
+        "marchais",
+        "me promenais"
+      ],
+      "hint": "(marcher, imperfetto)",
+      "prompt": "Ieri camminavo per strada quando ha cominciato a piovere.",
+      "explain_it": "L'azione in corso (camminavo) è all'imperfetto; l'evento che la interrompe (ha cominciato) al passato prossimo."
+    },
+    {
+      "id": "L063-e19",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-y",
+      "text": "Vous allez à la banque ? – Oui, j'___ vais tout de suite.",
+      "answers": [
+        "y"
+      ],
+      "hint": "(pronome, luogo)",
+      "prompt": "Andate in banca? – Sì, ci vado subito.",
+      "explain_it": "Y sostituisce il luogo à la banque e si mette davanti al verbo vais."
+    },
+    {
+      "id": "L063-e20",
+      "type": "cloze",
+      "level": 2,
+      "concept": "tout",
+      "text": "Marc et Luc sont ___ malades.",
+      "answers": [
+        "tous les deux",
+        "tous deux"
+      ],
+      "hint": "(entrambi)",
+      "prompt": "Marc e Luc sono entrambi malati.",
+      "explain_it": "Per due persone maschili si dice tous les deux; tous concorda con il soggetto."
+    },
+    {
+      "id": "L063-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "imparfait",
+      "prompt": "Da bambino avevo sempre molto freddo.",
+      "answers": [
+        "Quand j'étais [petit|petite|enfant], j'avais toujours très froid.",
+        "[Petit|Petite|Enfant], j'avais toujours très froid."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Con il passato dell'abitudine si usa l'imperfetto nella subordinata e nella principale."
+    },
+    {
+      "id": "L063-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "present-irregular",
+      "prompt": "Questo quadro vale molto denaro.",
+      "answers": [
+        "Ce tableau vaut [beaucoup d'argent|très cher|cher|une fortune]."
+      ],
+      "explain_it": "Valoir: il senso di « costare molto » si rende con valoir très cher o valoir beaucoup d'argent."
+    },
+    {
+      "id": "L063-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "il-faut",
+      "prompt": "Bisogna essere pazienti con i bambini.",
+      "answers": [
+        "Il faut être patient[s|] [avec|envers] les enfants."
+      ],
+      "explain_it": "Falloir + infinito (être); patient si accorda solo se è chiaro a chi si riferisce, altrimenti resta al singolare."
+    },
+    {
+      "id": "L063-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "Insegno inglese all'università.",
+      "answers": [
+        "J'enseigne l'anglais à [l'université|la fac|la faculté]."
+      ],
+      "explain_it": "Enseigner è insegnare una materia a scuola o all'università, non apprendre."
+    },
+    {
+      "id": "L063-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Non mi sono arreso e ho continuato a studiare.",
+      "answers": [
+        "Je n'ai pas baissé les bras et j'ai continué [à étudier|d'étudier]."
+      ],
+      "explain_it": "Ne pas baisser les bras significa non arrendersi; continuer è seguito da à o de con l'infinito."
+    },
+    {
+      "id": "L063-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-cod",
+      "prompt": "Sì, la so (riferito a « la réponse »).",
+      "answers": [
+        "Oui, je la sais."
+      ],
+      "ask": "Rispondi in francese",
+      "explain_it": "Savoir è sapere un fatto: la risposta è un complemento diretto femminile, quindi la pronome la prima del verbo."
+    },
+    {
+      "id": "L063-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "connectors",
+      "prompt": "È difficile, eppure è possibile.",
+      "answers": [
+        "C'est difficile, [pourtant|et pourtant|cependant|néanmoins|mais] c'est possible."
+      ],
+      "explain_it": "Pourtant, cependant e néanmoins rendono « eppure / tuttavia »; mais è la versione più semplice."
+    },
+    {
+      "id": "L063-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "imparfait-vs-pc",
+      "prompt": "Ieri, mentre cucinavo, mi sono tagliato un dito.",
+      "answers": [
+        "Hier, pendant que je cuisinais, je me suis coupé [le|un] doigt."
+      ],
+      "explain_it": "Pendant que vuole l'imperfetto per l'azione di sfondo; l'azione puntuale va al passato prossimo."
+    },
+    {
+      "id": "L063-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "imparfait",
+      "prompt": "Questo posto valeva la deviazione, ma bisognava prenotare in anticipo.",
+      "answers": [
+        "Cet endroit valait le détour, mais il fallait réserver [à l'avance|en avance|d'avance]."
+      ],
+      "explain_it": "Valoir le détour all'imperfetto (valait) e falloir all'imperfetto (il fallait)."
+    },
+    {
+      "id": "L063-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "il-faut",
+      "prompt": "Ieri bisognava lavorare, ma ho preferito dormire.",
+      "answers": [
+        "Hier, il fallait travailler, mais j'ai préféré dormir."
+      ],
+      "explain_it": "Falloir all'imperfetto (il fallait) esprime la necessità passata; j'ai préféré, al passato prossimo, racconta la scelta fatta."
+    },
+    {
+      "id": "L063-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-y",
+      "prompt": "Vuoi venire alla festa? Ci sto ancora pensando.",
+      "answers": [
+        "[Tu veux|Vous voulez|Veux-tu|Voulez-vous] venir à la fête ? J'y [pense|réfléchis] encore."
+      ],
+      "explain_it": "Penser à / réfléchir à + cosa si sostituisce con y, che va davanti al verbo: j'y pense."
+    },
+    {
+      "id": "L063-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "negation-other",
+      "prompt": "Non ho più soldi, ma continuo a cercare un lavoro.",
+      "answers": [
+        "Je n'ai plus d'argent, mais je continue à chercher un [travail|emploi]."
+      ],
+      "explain_it": "Ne … plus indica « non più »; dopo la negazione il partitivo diventa d' (plus d'argent)."
+    },
+    {
+      "id": "L063-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "connectors",
+      "prompt": "Lui non lo sapeva, allora gli ho spiegato tutto.",
+      "answers": [
+        "Il ne le savait pas, [alors|donc] je lui ai tout expliqué."
+      ],
+      "explain_it": "Alors introduce una conseguenza: allora, dunque."
+    },
+    {
+      "id": "L063-e34",
+      "type": "write",
+      "level": 2,
+      "concept": "tout",
+      "prompt": "Entrambi i ragazzi sono bretoni.",
+      "answers": [
+        "Ils sont tous les deux bretons.",
+        "Ils sont bretons tous les deux.",
+        "Tous les deux sont bretons.",
+        "Les deux garçons sont bretons."
+      ],
+      "explain_it": "Tous les deux, riferito a due persone maschili; si può anche mettere dopo il soggetto."
+    },
+    {
+      "id": "L063-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Non ho nessuna idea: mi sto scervellando da ore.",
+      "answers": [
+        "Je n'ai [aucune idée|pas d'idée], je me [creuse|casse] la tête depuis [des heures|plusieurs heures]."
+      ],
+      "explain_it": "Se creuser la tête significa scervellarsi; depuis con il presente indica un'azione che dura."
+    },
+    {
+      "id": "L063-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "present-irregular",
+      "prompt": "Bisogna pensarci bene: non vale la pena di accettare questa offerta.",
+      "answers": [
+        "Il faut bien y réfléchir : [ça|cela] ne vaut pas la peine d'accepter cette offre."
+      ],
+      "explain_it": "« Ça ne vaut pas la peine de + infinito » = non vale la pena di; il faut + infinito esprime la necessità."
+    },
+    {
+      "id": "L063-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "imparfait",
+      "prompt": "Da giovane, ogni estate andavo in Corsica.",
+      "answers": [
+        "[Quand j'étais jeune|Quand j'étais enfant|Dans ma jeunesse], [chaque été|tous les étés], j'allais en Corse."
+      ],
+      "explain_it": "Abitudine nel passato: imperfetto per la subordinata temporale e per la principale."
+    },
+    {
+      "id": "L063-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "imparfait-vs-pc",
+      "prompt": "Ieri faceva freddo, ma siamo usciti lo stesso.",
+      "answers": [
+        "Hier, il faisait froid, mais [nous sommes sortis|nous sommes sorties|on est sorti|on est sortis] [quand même|tout de même]."
+      ],
+      "explain_it": "Il tempo (faisait) descrive la situazione; l'azione decisa (sommes sortis) va al passato prossimo."
+    },
+    {
+      "id": "L063-e39",
+      "type": "write",
+      "level": 2,
+      "concept": "negation",
+      "prompt": "Non l'ho mai visto a Parigi.",
+      "answers": [
+        "Je ne l'ai jamais vu à Paris."
+      ],
+      "explain_it": "Con jamais la negazione circonda l'ausiliare (ne l'ai jamais vu); il participio vu concorda con l' se l'oggetto è femminile (vue)."
+    },
+    {
+      "id": "L063-e40",
+      "type": "dictation",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "text": "Je voulais continuer le violon, mais j'ai vite laissé tomber.",
+      "explain_it": "Avoir nel passato prossimo e il participio invariato con laisser tomber."
+    },
+    {
+      "id": "L063-e41",
+      "type": "dictation",
+      "level": 3,
+      "concept": "imparfait",
+      "text": "Autrefois, on se voyait tous les week-ends et on allait souvent à la mer.",
+      "explain_it": "Se voir e aller all'imperfetto per le abitudini del passato."
+    },
+    {
+      "id": "L063-e42",
+      "type": "flash",
+      "level": 2,
+      "concept": "imparfait",
+      "front": "Imparfait: come si forma? (esempi con manger ed être)",
+      "back": "Radice della 1ª persona plurale del presente + -ais, -ais, -ait, -ions, -iez, -aient: nous mangeons → je mangeais. Eccezione: être → j'étais, tu étais, il était, nous étions, vous étiez, ils étaient.",
+      "explain_it": "Ricordare la regola generale e l'eccezione être."
+    },
+    {
+      "id": "L063-e43",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronunciation",
+      "front": "Quando si pronuncia la s finale di « plus »?",
+      "back": "Si pronuncia [s] quando plus significa « più » alla fine di un gruppo o davanti a « de »: il en faut plus; il faut plus de temps. Davanti a vocale si legge [z]: plus intéressant. È muta in « ne … plus » (je n'ai plus faim) e di solito davanti a consonante (plus grand).",
+      "explain_it": "La pronuncia della s di plus dipende dal significato e dal contesto."
+    },
+    {
+      "id": "L063-e44",
+      "type": "flash",
+      "level": 2,
+      "concept": "connectors",
+      "front": "Pourtant, cependant, néanmoins: che cosa significano?",
+      "back": "Tutti significano « eppure, tuttavia ». Pourtant è il più comune anche nel parlato; cependant e néanmoins sono più formali.",
+      "explain_it": "Ricordare il registro e la posizione degli avverbi congiuntivi."
+    },
+    {
+      "id": "L063-e45",
+      "type": "flash",
+      "level": 2,
+      "concept": "il-faut",
+      "front": "Falloir: quali forme ha e come si esprime « a me serve »?",
+      "back": "Solo terza persona singolare: il faut, il fallait, il faudra, il a fallu. Per dire a chi serve si aggiunge il pronome indiretto: il me faut, il te faut, il lui faut.",
+      "explain_it": "Falloir è impersonale e con un pronome indiretto cambia la persona."
+    },
+    {
+      "id": "L063-e46",
+      "type": "flash",
+      "level": 2,
+      "concept": "present-irregular",
+      "front": "Valoir al presente: coniugazione e uso in « ça vaut la peine »",
+      "back": "je vaux, tu vaux, il vaut, nous valons, vous valez, ils valent. Ça vaut la peine = vale la pena.",
+      "explain_it": "Coniugazione di valoir al presente e uso idiomatico."
+    }
+  ]
+}

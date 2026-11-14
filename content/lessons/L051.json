@@ -1,0 +1,984 @@
+{
+  "n": 51,
+  "title_fr": "Hâtez-vous lentement !",
+  "title_it": "Affrettatevi lentamente!",
+  "review": false,
+  "status": "verified",
+  "source": "1db59936 pdf 80-87 (libro p.261-268)",
+  "theme_it": "Un gruppo di amici deve uscire per andare a teatro, ma manca uno di loro e poi non si trovano le chiavi della macchina. La lezione è una scena di fretta e ritardi, e introduce i verbi riflessivi nella negazione e nell'imperativo, più alcune espressioni d'uso quotidiano.",
+  "grammar": [
+    {
+      "id": "pronominal-verbs",
+      "title_it": "Negazione e significati dei verbi riflessivi",
+      "explain_it": "Nella frase negativa il pronome riflessivo resta davanti al verbo coniugato, dentro la coppia ne...pas (o ne...jamais): je ne me lève pas, il ne se réveille jamais. Non si mette mai pas dopo jamais. Attenzione anche al significato: alcuni verbi si usano con e senza pronome cambiando senso, come garer (parcheggiare un veicolo, con oggetto) e se garer (parcheggiarsi, senza oggetto), oppure arrêter (fermare qualcosa) e s'arrêter (fermarsi).",
+      "examples": [
+        {
+          "fr": "Je ne me lève pas tôt le dimanche.",
+          "it": "Non mi alzo presto la domenica."
+        },
+        {
+          "fr": "Elle ne se trompe jamais.",
+          "it": "Lei non si sbaglia mai."
+        },
+        {
+          "fr": "Où est-ce que tu te gares ?",
+          "it": "Dove parcheggi?"
+        }
+      ]
+    },
+    {
+      "id": "imperative",
+      "title_it": "Imperativo dei verbi riflessivi",
+      "explain_it": "Nella forma affermativa il pronome segue il verbo, unito da un trattino, e te diventa toi (lève-toi, levez-vous). Nella forma negativa il pronome torna davanti al verbo, senza trattino (ne te lève pas, ne vous levez pas). In italiano si ha una differenza simile (alzati / non alzarti, ma anche non ti alzare).",
+      "examples": [
+        {
+          "fr": "Réveille-toi, le train part !",
+          "it": "Svegliati, il treno parte!"
+        },
+        {
+          "fr": "Ne vous inquiétez pas.",
+          "it": "Non preoccupatevi."
+        },
+        {
+          "fr": "Ne te dépêche pas !",
+          "it": "Non sbrigarti!"
+        }
+      ]
+    },
+    {
+      "id": "prepositions",
+      "title_it": "En o dans per il tempo",
+      "explain_it": "Con un periodo di tempo si distingue l'uso di en e dans. En indica quanto tempo serve per fare qualcosa (ci metto dieci minuti: en dix minutes). Dans indica dopo quanto tempo qualcosa accadrà, cioè l'italiano 'tra' o 'fra' (dans dix minutes, tra dieci minuti). Il confronto con l'italiano è utile, perché in italiano si dice sia 'in' sia 'tra' e il francese distingue i due casi.",
+      "examples": [
+        {
+          "fr": "Je peux finir ce travail en une heure.",
+          "it": "Posso finire questo lavoro in un'ora."
+        },
+        {
+          "fr": "Il revient dans dix minutes.",
+          "it": "Torna tra dieci minuti."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Espressioni e verbi idiomatici della lezione",
+      "explain_it": "Alcune espressioni non si traducono parola per parola. Avoir le droit de più infinito significa avere il diritto di. Il manque (verbo impersonale, invariabile) significa manca o mancano, seguito dal soggetto senza de. Se passer significa succedere, accadere, e si usa spesso in Qu'est-ce qui se passe ? Plaisanter significa scherzare, e tu plaisantes è una reazione tipica per dire 'stai scherzando'. Vanno memorizzate come blocchi.",
+      "examples": [
+        {
+          "fr": "Tu n'as pas le droit de fumer ici.",
+          "it": "Non hai il diritto di fumare qui."
+        },
+        {
+          "fr": "Il manque deux bouteilles.",
+          "it": "Mancano due bottiglie."
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "title_it": "Domande con qu'est-ce qui e dove con est-ce que",
+      "explain_it": "Qu'est-ce qui introduce una domanda sul soggetto (che cosa succede?), mentre qu'est-ce que si usa per l'oggetto (che cosa fai?). Per chiedere il luogo si può dire Où est-ce que + soggetto + verbo, oppure, più familiare, mettere où alla fine.",
+      "examples": [
+        {
+          "fr": "Qu'est-ce qui se passe ?",
+          "it": "Che succede?"
+        },
+        {
+          "fr": "Où est-ce que tu gares ta voiture ?",
+          "it": "Dove parcheggi la macchina?"
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "manquer",
+      "it": "mancare",
+      "pos": "v",
+      "note": "il manque = manca"
+    },
+    {
+      "fr": "le lit",
+      "it": "il letto",
+      "pos": "n"
+    },
+    {
+      "fr": "attendre",
+      "it": "aspettare",
+      "pos": "v",
+      "note": "nous attendons"
+    },
+    {
+      "fr": "se lever",
+      "it": "alzarsi",
+      "pos": "v",
+      "note": "je me lève"
+    },
+    {
+      "fr": "midi (m.)",
+      "it": "mezzogiorno",
+      "pos": "n"
+    },
+    {
+      "fr": "la pièce (de théâtre)",
+      "it": "lo spettacolo, la commedia",
+      "pos": "n"
+    },
+    {
+      "fr": "commencer",
+      "it": "cominciare",
+      "pos": "v",
+      "note": "la pièce commence"
+    },
+    {
+      "fr": "le début",
+      "it": "l'inizio",
+      "pos": "n"
+    },
+    {
+      "fr": "prêt",
+      "it": "pronto",
+      "pos": "adj",
+      "note": "femminile prête"
+    },
+    {
+      "fr": "le théâtre",
+      "it": "il teatro",
+      "pos": "n"
+    },
+    {
+      "fr": "près",
+      "it": "vicino",
+      "pos": "adv",
+      "note": "tout près = molto vicino"
+    },
+    {
+      "fr": "les transports en commun",
+      "it": "i mezzi pubblici",
+      "pos": "n"
+    },
+    {
+      "fr": "la voiture",
+      "it": "la macchina, l'auto",
+      "pos": "n"
+    },
+    {
+      "fr": "plaisanter",
+      "it": "scherzare",
+      "pos": "v",
+      "note": "tu plaisantes"
+    },
+    {
+      "fr": "avoir le droit (de)",
+      "it": "avere il diritto (di)",
+      "pos": "expr"
+    },
+    {
+      "fr": "s'inquiéter",
+      "it": "preoccuparsi",
+      "pos": "v",
+      "note": "ne vous inquiétez pas"
+    },
+    {
+      "fr": "s'arrêter",
+      "it": "fermarsi",
+      "pos": "v",
+      "note": "je m'arrête"
+    },
+    {
+      "fr": "garer",
+      "it": "parcheggiare",
+      "pos": "v",
+      "note": "se garer = parcheggiarsi"
+    },
+    {
+      "fr": "le parking",
+      "it": "il parcheggio",
+      "pos": "n"
+    },
+    {
+      "fr": "le tribunal",
+      "it": "il tribunale",
+      "pos": "n"
+    },
+    {
+      "fr": "le billet",
+      "it": "il biglietto",
+      "pos": "n"
+    },
+    {
+      "fr": "le foyer",
+      "it": "l'atrio, il ridotto del teatro",
+      "pos": "n"
+    },
+    {
+      "fr": "se retrouver",
+      "it": "ritrovarsi, incontrarsi",
+      "pos": "v",
+      "note": "on se retrouve"
+    },
+    {
+      "fr": "le tiroir",
+      "it": "il cassetto",
+      "pos": "n"
+    },
+    {
+      "fr": "le meuble",
+      "it": "il mobile",
+      "pos": "n"
+    },
+    {
+      "fr": "l'escalier (m.)",
+      "it": "la scala",
+      "pos": "n"
+    },
+    {
+      "fr": "d'habitude",
+      "it": "di solito",
+      "pos": "adv"
+    },
+    {
+      "fr": "sourire",
+      "it": "sorridere",
+      "pos": "v",
+      "note": "je souris"
+    },
+    {
+      "fr": "se souvenir (de)",
+      "it": "ricordarsi (di)",
+      "pos": "v",
+      "note": "je me souviens"
+    },
+    {
+      "fr": "se passer",
+      "it": "succedere, accadere",
+      "pos": "v",
+      "note": "qu'est-ce qui se passe ?"
+    },
+    {
+      "fr": "le moteur",
+      "it": "il motore",
+      "pos": "n"
+    },
+    {
+      "fr": "en bas (de)",
+      "it": "in basso, in fondo (a)",
+      "pos": "expr",
+      "note": "le meuble en bas de l'escalier"
+    },
+    {
+      "fr": "se hâter",
+      "it": "affrettarsi",
+      "pos": "v",
+      "note": "Hâtez-vous lentement ! = Affrettatevi lentamente!"
+    },
+    {
+      "fr": "la livraison",
+      "it": "la consegna",
+      "pos": "n",
+      "note": "une place de livraison"
+    },
+    {
+      "fr": "idiot / idiote",
+      "it": "stupido, scemo",
+      "pos": "adj",
+      "note": "anche sostantivo: un idiot"
+    },
+    {
+      "fr": "la phrase",
+      "it": "la frase",
+      "pos": "n"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Hâtez-vous lentement !",
+      "it": "Affrettatevi lentamente! (festina lente)",
+      "note": "proverbio: fretta con calma"
+    },
+    {
+      "fr": "Tu plaisantes !",
+      "it": "Stai scherzando!",
+      "note": "registro colloquiale"
+    },
+    {
+      "fr": "C'est facile comme tout.",
+      "it": "È facilissimo.",
+      "note": "comme tout rafforza l'aggettivo, uso familiare"
+    },
+    {
+      "fr": "Ne vous inquiétez pas.",
+      "it": "Non preoccupatevi.",
+      "note": "forma di cortesia"
+    },
+    {
+      "fr": "Bougez-vous !",
+      "it": "Muovetevi!",
+      "note": "familiare, detto a più persone"
+    },
+    {
+      "fr": "Qu'est-ce qui se passe ?",
+      "it": "Che succede?"
+    },
+    {
+      "fr": "pendant ce temps",
+      "it": "nel frattempo"
+    },
+    {
+      "fr": "On y va !",
+      "it": "Andiamo!",
+      "note": "esclamazione per iniziare a muoversi"
+    },
+    {
+      "fr": "en route",
+      "it": "si parte, in marcia",
+      "note": "esclamazione colloquiale"
+    },
+    {
+      "fr": "avoir le droit de",
+      "it": "avere il diritto di",
+      "note": "seguito da infinito"
+    }
+  ],
+  "notes_it": [
+    "Il foyer non è il focolare: nei teatri francesi è l'atrio o il ridotto dove il pubblico si ritrova durante l'intervallo.",
+    "La pièce di solito è lo spettacolo o la commedia teatrale; il significato di pezzo o stanza si capisce solo dal contesto.",
+    "Manquer può significare mancare, ma anche perdere: manquer le début vuol dire perdere l'inizio, manquer le train perdere il treno.",
+    "Retrouver significa ritrovare qualcosa che si era perso; con il pronome se retrouver significa darsi appuntamento o incontrarsi.",
+    "In tempo di fretta il francese parlato abbrevia molto: 'Bougez-vous' e 'On y va' sono forme tipiche della conversazione tra amici."
+  ],
+  "exercises": [
+    {
+      "id": "L051-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronominal-verbs",
+      "prompt": "Come si dice 'Mi alzo tardi'?",
+      "options": [
+        "Je me lève tôt",
+        "Je me lève tard",
+        "Je lève tard",
+        "Je me levé tard"
+      ],
+      "correct": 1,
+      "explain_it": "Se lever è riflessivo: il pronome me sta davanti al verbo, e tard significa tardi, tôt presto."
+    },
+    {
+      "id": "L051-e02",
+      "type": "mcq",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Quale frase è corretta per 'Non mi ricordo dove ho messo le chiavi'?",
+      "options": [
+        "Je ne souviens pas où j'ai mis les clés",
+        "Je me ne souviens pas où j'ai mis les clés",
+        "Je ne me souviens pas ou j'ai mis les clés",
+        "Je ne me souviens pas où j'ai mis les clés"
+      ],
+      "correct": 3,
+      "explain_it": "Il pronome me resta dentro la negazione ne...pas, e où (con l'accento) significa dove."
+    },
+    {
+      "id": "L051-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "prepositions",
+      "prompt": "Ci metto dieci minuti ad arrivare al teatro. Come si dice?",
+      "options": [
+        "J'arrive au théâtre en dix minutes",
+        "J'arrive au théâtre dans dix minutes",
+        "J'arrive au théâtre à dix minutes",
+        "J'arrive au théâtre pendant dix minutes"
+      ],
+      "correct": 0,
+      "explain_it": "En indica il tempo che serve per fare qualcosa; dans indicherebbe un momento futuro, cioè tra dieci minuti."
+    },
+    {
+      "id": "L051-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Come si dice 'Mancano due bottiglie'?",
+      "options": [
+        "Il manque deux bouteilles",
+        "Il manquent deux bouteilles",
+        "Il manque de deux bouteilles",
+        "Il manque à deux bouteilles"
+      ],
+      "correct": 0,
+      "explain_it": "Manquer impersonale è invariabile (il manque) e il sostantivo che segue non vuole de."
+    },
+    {
+      "id": "L051-e05",
+      "type": "order",
+      "level": 1,
+      "concept": "imperative",
+      "prompt": "Sbrigatevi, siamo in ritardo!",
+      "answers": [
+        "Dépêchez-vous, nous sommes en retard !",
+        "Dépêchez-vous, on est en retard !"
+      ],
+      "distractors": [
+        "Ne vous dépêchez",
+        "pas"
+      ],
+      "explain_it": "Con vous l'imperativo affermativo mette il pronome dopo il verbo, con il trattino."
+    },
+    {
+      "id": "L051-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "imperative",
+      "prompt": "Non ti alzare adesso!",
+      "answers": [
+        "Ne te lève pas maintenant !"
+      ],
+      "distractors": [
+        "Lève-toi",
+        "jamais"
+      ],
+      "explain_it": "All'imperativo negativo il pronome te torna davanti al verbo e non c'è trattino."
+    },
+    {
+      "id": "L051-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "pronominal-verbs",
+      "prompt": "Ci ritroviamo al teatro alle otto.",
+      "answers": [
+        "On se retrouve au théâtre à huit heures",
+        "Nous nous retrouvons au théâtre à huit heures"
+      ],
+      "distractors": [
+        "sommes",
+        "retrouvent"
+      ],
+      "explain_it": "Con on il pronome riflessivo è se, e il verbo resta alla terza persona singolare."
+    },
+    {
+      "id": "L051-e08",
+      "type": "cloze",
+      "level": 1,
+      "concept": "pronominal-verbs",
+      "text": "Je ___ tôt le dimanche.",
+      "answers": [
+        "me lève"
+      ],
+      "hint": "(se lever, presente)",
+      "prompt": "Mi alzo presto la domenica.",
+      "explain_it": "Con je il pronome riflessivo è me, che si lega al verbo lève."
+    },
+    {
+      "id": "L051-e09",
+      "type": "cloze",
+      "level": 1,
+      "concept": "pronominal-verbs",
+      "text": "Nous ___ au théâtre à huit heures.",
+      "answers": [
+        "nous retrouvons"
+      ],
+      "hint": "(se retrouver, presente)",
+      "prompt": "Ci ritroviamo al teatro alle otto.",
+      "explain_it": "Con nous il pronome è nous e il verbo è retrouvons, quindi nous nous retrouvons."
+    },
+    {
+      "id": "L051-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "prepositions",
+      "text": "Je peux finir ce travail ___ une heure.",
+      "answers": [
+        "en"
+      ],
+      "hint": "(durata)",
+      "prompt": "Posso finire questo lavoro in un'ora.",
+      "explain_it": "Per indicare il tempo impiegato si usa en senza articolo."
+    },
+    {
+      "id": "L051-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "idioms",
+      "text": "Il ___ un bouton à ma chemise.",
+      "answers": [
+        "manque"
+      ],
+      "hint": "(manquer, presente)",
+      "prompt": "Manca un bottone alla mia camicia.",
+      "explain_it": "Con manquer impersonale la forma è sempre il manque, al singolare."
+    },
+    {
+      "id": "L051-e12",
+      "type": "order",
+      "level": 1,
+      "concept": "pronominal-verbs",
+      "prompt": "Non mi alzo mai prima delle sette.",
+      "answers": [
+        "Je ne me lève jamais avant sept heures"
+      ],
+      "distractors": [
+        "pas",
+        "Je me lève toujours"
+      ],
+      "explain_it": "Con jamais la negazione è ne...jamais, e il pronome me resta davanti al verbo."
+    },
+    {
+      "id": "L051-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "text": "Vous ___ à huit heures.",
+      "answers": [
+        "vous levez"
+      ],
+      "hint": "(se lever, presente)",
+      "prompt": "Vi alzate alle otto.",
+      "explain_it": "Con vous il pronome è vous e la forma del verbo è levez."
+    },
+    {
+      "id": "L051-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "text": "Elle ne ___ jamais tard.",
+      "answers": [
+        "se couche"
+      ],
+      "hint": "(se coucher, presente)",
+      "prompt": "Non va mai a letto tardi.",
+      "explain_it": "Nella negazione con jamais il pronome se sta davanti al verbo coniugato."
+    },
+    {
+      "id": "L051-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Tu ___ ! Il est déjà minuit.",
+      "answers": [
+        "plaisantes"
+      ],
+      "hint": "(plaisanter, presente)",
+      "prompt": "Stai scherzando! È già mezzanotte.",
+      "explain_it": "Tu plaisantes è l'espressione tipica per dire 'stai scherzando'."
+    },
+    {
+      "id": "L051-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "prepositions",
+      "text": "Il revient ___ dix minutes.",
+      "answers": [
+        "dans"
+      ],
+      "hint": "(tempo futuro)",
+      "prompt": "Torna tra dieci minuti.",
+      "explain_it": "Per il momento in cui qualcosa avverrà si usa dans, non en."
+    },
+    {
+      "id": "L051-e17",
+      "type": "cloze",
+      "level": 2,
+      "concept": "questions",
+      "text": "Qu'est-ce qui ___ dans la salle ?",
+      "answers": [
+        "se passe"
+      ],
+      "hint": "(se passer, presente)",
+      "prompt": "Che succede in sala?",
+      "explain_it": "Qu'est-ce qui è seguito dal verbo alla terza persona singolare, con il pronome se."
+    },
+    {
+      "id": "L051-e18",
+      "type": "cloze",
+      "level": 2,
+      "concept": "questions",
+      "text": "Où est-ce que tu ___ la voiture ?",
+      "answers": [
+        "gares"
+      ],
+      "hint": "(garer, presente)",
+      "prompt": "Dove parcheggi la macchina?",
+      "explain_it": "Garer con oggetto diretto (la voiture) è transitivo, senza pronome riflessivo."
+    },
+    {
+      "id": "L051-e19",
+      "type": "mcq",
+      "level": 2,
+      "concept": "questions",
+      "prompt": "Quale domanda significa 'Dove parcheggi la macchina? (tu)'",
+      "options": [
+        "Où est-ce que tu te gares ta voiture ?",
+        "Où est-ce que tu garez ta voiture ?",
+        "Où est-ce que tu gares ta voiture ?"
+      ],
+      "correct": 2,
+      "explain_it": "Con la macchina come oggetto diretto garer è transitivo: tu gares, senza pronome riflessivo, e la 2a persona singolare non finisce in -ez."
+    },
+    {
+      "id": "L051-e20",
+      "type": "mcq",
+      "level": 2,
+      "concept": "imperative",
+      "prompt": "Come si dice 'Non ti preoccupare' (tu)?",
+      "options": [
+        "Ne te inquiète pas",
+        "Ne t'inquiète pas",
+        "Ne t'inquiètes pas",
+        "Ne inquiète-toi pas"
+      ],
+      "correct": 1,
+      "explain_it": "Nella negazione il pronome t' si mette prima del verbo, senza trattino, e il verbo resta inquiète."
+    },
+    {
+      "id": "L051-e21",
+      "type": "mcq",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Scegli la frase per 'Non si sveglia mai prima delle dieci'.",
+      "options": [
+        "Il ne réveille jamais avant dix heures",
+        "Il se ne réveille jamais avant dix heures",
+        "Il ne se réveille pas jamais avant dix heures",
+        "Il ne se réveille jamais avant dix heures"
+      ],
+      "correct": 3,
+      "explain_it": "Con ne...jamais non si aggiunge pas, e il pronome se resta davanti al verbo."
+    },
+    {
+      "id": "L051-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Mi ricordo sempre dove metto le chiavi.",
+      "answers": [
+        "Je me [souviens|rappelle] toujours où je mets [mes|les] clés"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Se souvenir e se rappeler sono riflessivi: il pronome me sta davanti al verbo. Mes clés o les clés vanno entrambi bene."
+    },
+    {
+      "id": "L051-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "imperative",
+      "prompt": "Svegliati, il treno parte!",
+      "answers": [
+        "Réveille-toi, le train part",
+        "Réveille-toi ! Le train part"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Con tu l'imperativo affermativo richiede il pronome toi dopo il verbo, con il trattino."
+    },
+    {
+      "id": "L051-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "imperative",
+      "prompt": "Non preoccupatevi, abbiamo tempo.",
+      "answers": [
+        "Ne vous inquiétez pas, on a [le temps|du temps]",
+        "Ne vous inquiétez pas, nous avons [le temps|du temps]"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Nella forma negativa con vous il pronome vous resta davanti al verbo, come in ne vous inquiétez."
+    },
+    {
+      "id": "L051-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Non hai il diritto di parlare qui.",
+      "answers": [
+        "Tu n'as pas le droit de parler ici",
+        "Vous n'avez pas le droit de parler ici"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Avoir le droit de si costruisce con l'infinito, e la negazione avvolge avoir: n'as pas."
+    },
+    {
+      "id": "L051-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "Arrivo a teatro in venti minuti.",
+      "answers": [
+        "J'arrive au théâtre en vingt minutes"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Il tempo impiegato si indica con en più il periodo di tempo, senza dans."
+    },
+    {
+      "id": "L051-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "questions",
+      "prompt": "Che succede?",
+      "answers": [
+        "Qu'est-ce qui se passe ?",
+        "Que se passe-t-il ?"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Qu'est-ce qui è la forma della domanda sul soggetto, e il verbo è se passer."
+    },
+    {
+      "id": "L051-e28",
+      "type": "write",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Dove ci ritroviamo?",
+      "answers": [
+        "Où est-ce qu'on se retrouve ?",
+        "Où est-ce que nous nous retrouvons ?",
+        "On se retrouve où ?",
+        "Où se retrouve-t-on ?",
+        "Où nous retrouvons-nous ?"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Nella domanda con est-ce que il pronome riflessivo si mette prima del verbo coniugato."
+    },
+    {
+      "id": "L051-e29",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Dai, andiamo!",
+      "answers": [
+        "On y va",
+        "Allons-y",
+        "Allez, on y va"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "On y va è un'espressione colloquiale per 'andiamo'; y indica il luogo già citato."
+    },
+    {
+      "id": "L051-e30",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Stai scherzando!",
+      "answers": [
+        "Tu plaisantes",
+        "Vous plaisantez"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Plaisanter è un verbo regolare e significa scherzare, usato anche in modo ironico."
+    },
+    {
+      "id": "L051-e31",
+      "type": "order",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Non ci incontriamo mai al teatro.",
+      "answers": [
+        "On ne se retrouve jamais au théâtre",
+        "Nous ne nous retrouvons jamais au théâtre"
+      ],
+      "distractors": [
+        "pas",
+        "retrouve-toi"
+      ],
+      "explain_it": "Con on e jamais il pronome se sta davanti al verbo, e la negazione è ne...jamais."
+    },
+    {
+      "id": "L051-e32",
+      "type": "dictation",
+      "level": 2,
+      "concept": "imperative",
+      "text": "Dépêchez-vous, nous allons être en retard au théâtre.",
+      "explain_it": "Dépêchez-vous è l'imperativo di vous, con il pronome dopo il verbo e il trattino."
+    },
+    {
+      "id": "L051-e33",
+      "type": "dictation",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "text": "Je ne me souviens pas où j'ai mis mon portable.",
+      "explain_it": "Nella negazione il pronome me resta davanti al verbo e dopo la negazione non c'è altro."
+    },
+    {
+      "id": "L051-e34",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "front": "Negazione dei verbi riflessivi: je me lève",
+      "back": "je ne me lève pas / je ne me lève jamais",
+      "note": "Ne va davanti al pronome, pas o jamais dopo il verbo: il pronome non si sposta.",
+      "explain_it": "Ricorda che ne...pas e ne...jamais avvolgono il pronome riflessivo."
+    },
+    {
+      "id": "L051-e35",
+      "type": "flash",
+      "level": 2,
+      "concept": "imperative",
+      "front": "Imperativo di 'se réveiller' (tu): forma affermativa e negativa",
+      "back": "Réveille-toi ! / Ne te réveille pas !",
+      "note": "Affermativo: pronome dopo il verbo con trattino (te diventa toi). Negativo: pronome prima del verbo, senza trattino.",
+      "explain_it": "La posizione del pronome cambia nell'imperativo affermativo e negativo."
+    },
+    {
+      "id": "L051-e36",
+      "type": "flash",
+      "level": 2,
+      "concept": "prepositions",
+      "front": "En o dans con il tempo",
+      "back": "en + durata (en dix minutes: ci metto dieci minuti); dans + momento futuro (dans dix minutes: tra dieci minuti)",
+      "note": "En risponde a 'quanto tempo serve', dans a 'quando succederà'.",
+      "explain_it": "Distinguere la durata dal momento futuro evita un errore tipico degli italofoni."
+    },
+    {
+      "id": "L051-e37",
+      "type": "flash",
+      "level": 2,
+      "concept": "idioms",
+      "front": "avoir le droit de + infinito",
+      "back": "avere il diritto di fare qualcosa: Tu n'as pas le droit de fumer ici.",
+      "note": "La negazione avvolge avoir: n'as pas le droit.",
+      "explain_it": "L'espressione va memorizzata come blocco con l'infinito."
+    },
+    {
+      "id": "L051-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "imperative",
+      "prompt": "Sbrigatevi, la commedia comincia tra dieci minuti e non abbiamo le chiavi della macchina!",
+      "answers": [
+        "Dépêchez-vous, la pièce commence dans dix minutes et [nous n'avons|on n'a] pas les clés de la voiture"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Combina l'imperativo di vous con il presente e il tempo espresso con dans."
+    },
+    {
+      "id": "L051-e39",
+      "type": "write",
+      "level": 3,
+      "concept": "pronominal-verbs",
+      "prompt": "Non ti preoccupare: il parcheggio è vicino e non abbiamo problemi.",
+      "answers": [
+        "Ne [t'inquiète|vous inquiétez] pas : le parking est [tout |]près et [nous n'avons|on n'a] pas de [problème|problèmes]"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Il pronome t' davanti alla negazione ne, e tout près indica la vicinanza."
+    },
+    {
+      "id": "L051-e40",
+      "type": "write",
+      "level": 3,
+      "concept": "pronominal-verbs",
+      "prompt": "Dépêche-toi !",
+      "ask": "Volgi alla forma negativa",
+      "answers": [
+        "Ne te dépêche pas !",
+        "Ne te dépêche pas"
+      ],
+      "explain_it": "Nella negazione l'imperativo riflessivo ha il pronome te davanti al verbo, senza trattino."
+    },
+    {
+      "id": "L051-e41",
+      "type": "write",
+      "level": 3,
+      "concept": "imperative",
+      "prompt": "Lève-toi !",
+      "ask": "Volgi alla forma negativa",
+      "answers": [
+        "Ne te lève pas !",
+        "Ne te lève pas"
+      ],
+      "explain_it": "Lo stesso schema vale per tutti i verbi riflessivi all'imperativo."
+    },
+    {
+      "id": "L051-e42",
+      "type": "write",
+      "level": 3,
+      "concept": "pronominal-verbs",
+      "prompt": "Je me lève tôt.",
+      "ask": "Volgi alla forma negativa",
+      "answers": [
+        "Je ne me lève pas tôt",
+        "Je ne me lève jamais tôt"
+      ],
+      "explain_it": "La negazione con pas si legge 'non mi alzo presto', mentre con jamais dice 'non mi alzo mai presto'."
+    },
+    {
+      "id": "L051-e43",
+      "type": "write",
+      "level": 3,
+      "concept": "pronominal-verbs",
+      "prompt": "Dopo il lavoro ci ritroviamo al ristorante alle otto di sera e mangiamo insieme.",
+      "answers": [
+        "Après le travail, [on se retrouve|nous nous retrouvons] au restaurant à [vingt heures|huit heures du soir|huit heures] et [on mange|nous mangeons] ensemble"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Combina il riflessivo se retrouver con l'ora e la struttura et on mange, senza usare il passato."
+    },
+    {
+      "id": "L051-e44",
+      "type": "write",
+      "level": 3,
+      "concept": "imperative",
+      "prompt": "Sbrigati, il treno parte tra cinque minuti!",
+      "answers": [
+        "Dépêche-toi, le train part dans cinq minutes"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "L'imperativo affermativo di tu richiede toi dopo il verbo, e dans indica il tempo che manca."
+    },
+    {
+      "id": "L051-e45",
+      "type": "write",
+      "level": 3,
+      "concept": "prepositions",
+      "prompt": "Posso arrivare in dieci minuti, ma il treno parte fra un'ora.",
+      "answers": [
+        "Je peux arriver en dix minutes, mais le train part dans une heure"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "En indica il tempo di viaggio, dans il momento in cui il treno parte: due usi nella stessa frase."
+    },
+    {
+      "id": "L051-e46",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Non hai il diritto di fermarti qui.",
+      "answers": [
+        "Tu n'as pas le droit de t'arrêter ici",
+        "Vous n'avez pas le droit de vous arrêter ici"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Avoir le droit de si costruisce con l'infinito riflessivo t'arrêter, con il pronome davanti all'infinito."
+    },
+    {
+      "id": "L051-e47",
+      "type": "dictation",
+      "level": 3,
+      "concept": "pronominal-verbs",
+      "text": "Chaque matin, je me réveille tôt, je me rase vite et je pars au bureau en métro.",
+      "explain_it": "Ogni pronome riflessivo (me) precede il verbo coniugato, e en indica il mezzo di trasporto."
+    },
+    {
+      "id": "L051-e48",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Il manque un mot dans cette ___.",
+      "answers": [
+        "phrase"
+      ],
+      "prompt": "Manca una parola in questa frase.",
+      "explain_it": "La phrase è la frase grammaticale; non confonderla con l'espressione (expression)."
+    },
+    {
+      "id": "L051-e49",
+      "type": "cloze",
+      "level": 2,
+      "concept": "prepositions",
+      "text": "Mes clés sont dans le tiroir en ___ de l'escalier.",
+      "answers": [
+        "bas"
+      ],
+      "prompt": "Le mie chiavi sono nel cassetto in fondo alla scala.",
+      "explain_it": "En bas de = in fondo a / ai piedi di."
+    }
+  ]
+}

@@ -1,0 +1,739 @@
+{
+  "n": 56,
+  "title_fr": "Révision",
+  "title_it": "Ripasso",
+  "review": true,
+  "status": "verified",
+  "source": "fa2f8a2c p13-21",
+  "theme_it": "Ripasso delle lezioni 50-55: verbi pronominali (riflessivi e reciproci) al presente, all'imperativo e al passato prossimo, futuro semplice, pronomi possessivi e le preposizioni en, dans e à. Il dialogo di ripasso è una chiacchierata su Hélène, tornata dalla Germania e ora a Grenoble, e sulla giornata frenetica di chi parla, tra una doccia saltata e una macchina lasciata accesa.",
+  "grammar": [
+    {
+      "id": "pronominal-verbs",
+      "title_it": "I verbi pronominali (riflessivi e reciproci)",
+      "explain_it": "I verbi pronominali sono preceduti dal pronome riflessivo se (s' davanti a vocale o h muta) e si coniugano con il pronome soggetto e il pronome riflessivo: je me lave, tu te laves, il se lave, nous nous lavons, vous vous lavez, ils se lavent. Sono di due tipi: riflessivi, quando il soggetto compie l'azione su se stesso (je me lave), e reciproci, quando più soggetti agiscono l'uno sull'altro (ils se détestent, si detestano). In francese sono molto più frequenti che in italiano e spesso il pronome non si traduce: ils s'habillent, si vestono. Alcuni sono esclusivamente pronominali e non hanno senso senza il pronome, come s'absenter, s'enfuir, se fier, se méfier. Altri, come laver, sono usati sia con il pronome sia da soli con un oggetto diretto (je lave ma voiture, je me lave le visage). La negazione racchiude il verbo: il pronome resta prima del verbo, ne ... pas (il ne se lave pas). All'imperativo affermativo il pronome va dopo il verbo con il trattino e diventa toi (lève-toi, alzati); al negativo resta prima del verbo (ne te lève pas).",
+      "examples": [
+        {
+          "fr": "Je me réveille à sept heures.",
+          "it": "Mi sveglio alle sette."
+        },
+        {
+          "fr": "Nous nous comprenons bien.",
+          "it": "Ci capiamo bene (reciproco)."
+        },
+        {
+          "fr": "Lève-toi, il est tard !",
+          "it": "Alzati, è tardi!"
+        }
+      ]
+    },
+    {
+      "id": "passe-compose-etre",
+      "title_it": "Il passato prossimo dei verbi pronominali (con essere)",
+      "explain_it": "Al passato prossimo i verbi pronominali si coniugano con l'ausiliare essere, come i verbi di movimento: je me suis lavé (o lavée se parla una donna), elle s'est levée, nous nous sommes amusés. Il participio concorda di solito con il soggetto in genere e numero, come con essere. La regola più sottile, che riguarda il pronome riflessivo quando è complemento oggetto diretto e il verbo ha anche un altro oggetto, sarà ripresa più avanti: per ora basta ricordare il soggetto. Nella forma negativa ne e pas circondano l'ausiliare: elle ne s'est pas couchée tôt. Le forme sono: je me suis, tu t'es, il s'est, elle s'est, nous nous sommes, vous vous êtes, ils se sont, elles se sont.",
+      "examples": [
+        {
+          "fr": "Elle s'est levée tôt.",
+          "it": "Si è alzata presto."
+        },
+        {
+          "fr": "Nous nous sommes bien amusés.",
+          "it": "Ci siamo divertiti un sacco."
+        },
+        {
+          "fr": "Elle ne s'est pas couchée tôt.",
+          "it": "Non si è coricata presto."
+        }
+      ]
+    },
+    {
+      "id": "futur-simple",
+      "title_it": "Il futuro semplice",
+      "explain_it": "Il futuro semplice corrisponde a quello italiano (je partirai = partirò). Si forma aggiungendo alla radice le desinenze di avoir: -ai, -as, -a, -ons, -ez, -ont. Per i verbi in -er e -ir la radice è l'infinito (ajouterai, finirai); per i verbi in -re si toglie la -e finale (vendrai). Ci sono cambi ortografici: lever (lèverai), payer (paierai), acheter (achèterai), appeler (appellerai), jeter (jetterai). Sono irregolari da ricordare: avoir (aurai), être (serai), faire (ferai), aller (irai). Quando una frase con quand indica un'azione futura, anche la subordinata va al futuro, come in italiano: quand tu auras le temps.",
+      "examples": [
+        {
+          "fr": "Je finirai demain.",
+          "it": "Finirò domani."
+        },
+        {
+          "fr": "Nous serons à la maison ce soir.",
+          "it": "Saremo a casa stasera."
+        },
+        {
+          "fr": "Quand tu auras le temps, appelle-moi.",
+          "it": "Quando avrai tempo, chiamami."
+        }
+      ]
+    },
+    {
+      "id": "possessives",
+      "title_it": "I pronomi possessivi (il mio, il tuo, ...)",
+      "explain_it": "I pronomi possessivi si formano con l'articolo determinativo e la forma possessiva: le mien/la mienne/les miens/les miennes (mio), le tien/la tienne (tuo), le sien/la sienne (suo, di lui o di lei), le nôtre/la nôtre (nostro), le vôtre/la vôtre (vostro), le leur/la leur (loro). Come gli aggettivi possessivi concordano con la cosa posseduta, non con il possessore: C'est mon stylo, c'est le mien; c'est ma voiture, c'est la mienne. Per questo la terza persona sien (le sien, la sienne) non dice se il possessore è maschile o femminile: può significare suo o sua, di lui o di lei, e a volte anche di un animale. Gli accenti circonflessi su nôtre e vôtre distinguono il pronome dall'aggettivo notre e votre.",
+      "examples": [
+        {
+          "fr": "Ma voiture est rouge, la tienne est bleue.",
+          "it": "La mia macchina è rossa, la tua è blu."
+        },
+        {
+          "fr": "Ceci est votre clé. C'est la vôtre.",
+          "it": "Questa è la vostra chiave. È la vostra."
+        },
+        {
+          "fr": "Mes enfants sont grands, les tiens sont petits.",
+          "it": "I miei figli sono grandi, i tuoi sono piccoli."
+        }
+      ]
+    },
+    {
+      "id": "prepositions",
+      "title_it": "En, dans e à: quale preposizione usare",
+      "explain_it": "En non è mai seguito da un articolo determinativo o partitivo (salvo espressioni fisse come en l'air). Si usa con le lingue (en français), i mezzi di trasporto (en avion, en train), i materiali (en or), i periodi e le date (en 1789, en avril), le stagioni tranne la primavera (en été, ma au printemps) e con i paesi femminili (en Italie, en Allemagne). Dans vuole sempre l'articolo e indica un luogo preciso (dans ma poche) o un momento futuro (dans dix minutes), mentre en vingt minutes indica la durata (in venti minuti, per farlo). A indica spesso il luogo in cui si è, senza l'idea di interno: à la maison (a casa), à Paris (a Parigi), à la télévision, au téléphone; con le parti del corpo si usa à: il a un couteau à la main. Nelle frasi del tipo 'dentro la casa' si usa invece dans.",
+      "examples": [
+        {
+          "fr": "Je vis en Allemagne depuis deux ans.",
+          "it": "Vivo in Germania da due anni."
+        },
+        {
+          "fr": "Elle est dans son bureau.",
+          "it": "È nel suo ufficio."
+        },
+        {
+          "fr": "Il a un couteau à la main.",
+          "it": "Ha un coltello in mano."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "l'Allemagne (f.)",
+      "it": "la Germania",
+      "pos": "n"
+    },
+    {
+      "fr": "la colère",
+      "it": "la rabbia",
+      "pos": "n",
+      "note": "être en colère = essere arrabbiato"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Ça se passe bien ?",
+      "it": "Va tutto bene?",
+      "note": "per chiedere come sta andando una situazione; colloquiale"
+    },
+    {
+      "fr": "Pas comme moi, alors !",
+      "it": "Non come me, allora!",
+      "note": "risposta ironica, con alors"
+    },
+    {
+      "fr": "faire ses courses en ligne",
+      "it": "fare la spesa online",
+      "note": "en ligne = online"
+    },
+    {
+      "fr": "au boulot",
+      "it": "al lavoro",
+      "note": "registro familiare; boulot = lavoro"
+    },
+    {
+      "fr": "il y a six semaines",
+      "it": "sei settimane fa",
+      "note": "il y a indica un tempo passato"
+    },
+    {
+      "fr": "être en colère",
+      "it": "essere arrabbiato",
+      "note": "espressione per la rabbia"
+    },
+    {
+      "fr": "il n'y a pas assez à faire",
+      "it": "non c'è abbastanza da fare",
+      "note": "à faire = da fare"
+    },
+    {
+      "fr": "ne pas avoir le temps de",
+      "it": "non avere il tempo di",
+      "note": "seguito da un infinito"
+    },
+    {
+      "fr": "arrêter le moteur",
+      "it": "spegnere il motore",
+      "note": "moteur già visto nella lezione 51"
+    }
+  ],
+  "notes_it": [
+    "Faire la doccia in francese non si dice faire une douche: si usa il verbo pronominale se doucher (je me douche) oppure prendre une douche. Attenzione al calco dall'italiano.",
+    "Allemagne è femminile, quindi si dice en Allemagne e non dans l'Allemagne: il paese femminile non vuole l'articolo con en.",
+    "Boulot è un sinonimo familiare di travail: au boulot è più colloquiale di au travail, da usare con amici e in famiglia.",
+    "Colère è vicino all'italiano collera, ma nel parlato comune si dice più spesso être en colère, essere arrabbiato, che avoir de la colère.",
+    "Il dialogo di ripasso va letto come un testo unico: nelle frasi al passato prossimo di una donna il participio prende la -e del femminile (levée, douchée, arrêtée, repartie), che nel parlato si sente solo nel contesto."
+  ],
+  "exercises": [
+    {
+      "id": "L056-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronominal-verbs",
+      "prompt": "Come si dice in francese 'io mi lavo'?",
+      "options": [
+        "je me lave",
+        "je lave me",
+        "je me laves",
+        "je se lave"
+      ],
+      "correct": 0,
+      "explain_it": "Con je il pronome riflessivo è me e il verbo è alla forma je lave."
+    },
+    {
+      "id": "L056-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronominal-verbs",
+      "prompt": "Come si dice in francese, con il tu, 'alzati!' (se lever)?",
+      "options": [
+        "Lève-toi !",
+        "Te lève !",
+        "Lève te !",
+        "Ne te lève pas !"
+      ],
+      "correct": 0,
+      "explain_it": "All'imperativo affermativo il pronome riflessivo va dopo il verbo, unito con il trattino, e diventa toi."
+    },
+    {
+      "id": "L056-e03",
+      "type": "mcq",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Come si dice in francese 'si detestano' (due o più persone)?",
+      "options": [
+        "Ils se détestent.",
+        "Ils détestent se.",
+        "Ils se détestons.",
+        "Ils se déteste."
+      ],
+      "correct": 0,
+      "explain_it": "È un verbo reciproco: il soggetto ils, il pronome se e la forma détestent."
+    },
+    {
+      "id": "L056-e04",
+      "type": "mcq",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "prompt": "Qual è il passato prossimo corretto per 'lei si è alzata presto'?",
+      "options": [
+        "Elle s'est levée tôt.",
+        "Elle s'est levé tôt.",
+        "Elle a levée tôt.",
+        "Elle se est levée tôt."
+      ],
+      "correct": 0,
+      "explain_it": "I verbi pronominali vogliono essere come ausiliare e il participio concorda con il soggetto femminile: levée."
+    },
+    {
+      "id": "L056-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "futur-simple",
+      "prompt": "Come si dice in francese 'domani partirò'?",
+      "options": [
+        "Je partirai demain.",
+        "Je partirais demain.",
+        "Je partirai hier.",
+        "Je pars demain."
+      ],
+      "correct": 0,
+      "explain_it": "Il futuro di partir è partirai (desinenza -ai). Partirais è il condizionale e pars il presente."
+    },
+    {
+      "id": "L056-e06",
+      "type": "mcq",
+      "level": 2,
+      "concept": "possessives",
+      "prompt": "Il mio libro è qui: dov'è il tuo?",
+      "options": [
+        "Où est le tien ?",
+        "Où est la tienne ?",
+        "Où sont les tiens ?",
+        "Où est ton ?"
+      ],
+      "correct": 0,
+      "explain_it": "Il pronome possessivo concorda con il nome posseduto, livre, maschile singolare: le tien."
+    },
+    {
+      "id": "L056-e07",
+      "type": "mcq",
+      "level": 1,
+      "concept": "prepositions",
+      "prompt": "Come si dice in francese 'vivo in Germania'?",
+      "options": [
+        "Je vis en Allemagne.",
+        "Je vis dans Allemagne.",
+        "Je vis à Allemagne.",
+        "Je vis au Allemagne."
+      ],
+      "correct": 0,
+      "explain_it": "Allemagne è femminile: si usa en senza articolo; au vale solo per i paesi maschili."
+    },
+    {
+      "id": "L056-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "pronominal-verbs",
+      "prompt": "Noi ci capiamo bene.",
+      "answers": [
+        "Nous nous comprenons bien."
+      ],
+      "distractors": [
+        "te",
+        "comprend"
+      ],
+      "explain_it": "Nel reciproco il pronome nous nous precede la forma comprenons."
+    },
+    {
+      "id": "L056-e09",
+      "type": "order",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Non alzarti! (con il tu)",
+      "answers": [
+        "Ne te lève pas !"
+      ],
+      "distractors": [
+        "lève-toi",
+        "se"
+      ],
+      "explain_it": "All'imperativo negativo il pronome riflessivo resta prima del verbo, tra ne e il verbo."
+    },
+    {
+      "id": "L056-e10",
+      "type": "order",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "prompt": "Lei si è divertita.",
+      "answers": [
+        "Elle s'est amusée."
+      ],
+      "distractors": [
+        "amusé",
+        "a"
+      ],
+      "explain_it": "Con un verbo pronominale il passato prossimo si fa con essere, e il participio prende la -e del femminile."
+    },
+    {
+      "id": "L056-e11",
+      "type": "order",
+      "level": 2,
+      "concept": "futur-simple",
+      "prompt": "Domani ci alzeremo presto.",
+      "answers": [
+        "Demain nous nous lèverons tôt."
+      ],
+      "distractors": [
+        "lèvons",
+        "hier"
+      ],
+      "explain_it": "Al futuro il pronome riflessivo resta davanti al verbo: nous nous lèverons."
+    },
+    {
+      "id": "L056-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "pronominal-verbs",
+      "text": "Je ___ tous les matins à sept heures.",
+      "answers": [
+        "me réveille"
+      ],
+      "hint": "(se réveiller, presente)",
+      "prompt": "Mi sveglio ogni mattina alle sette.",
+      "explain_it": "Con je il pronome riflessivo è me, che si elide solo davanti a vocale o h muta."
+    },
+    {
+      "id": "L056-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "text": "Tu ___ bien avec ton frère ?",
+      "answers": [
+        "t'entends"
+      ],
+      "hint": "(s'entendre, presente)",
+      "prompt": "Vai d'accordo con tuo fratello?",
+      "explain_it": "Con tu il pronome è te, che davanti a vocale diventa t'. S'entendre con qualcuno significa andare d'accordo."
+    },
+    {
+      "id": "L056-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "text": "Les enfants se sont bien ___ hier.",
+      "answers": [
+        "amusés"
+      ],
+      "hint": "(s'amuser, passato prossimo)",
+      "prompt": "I bambini si sono divertiti molto ieri.",
+      "explain_it": "Il soggetto è maschile plurale, quindi il participio prende -és."
+    },
+    {
+      "id": "L056-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "text": "Elles se sont ___ tard hier soir.",
+      "answers": [
+        "couchées"
+      ],
+      "hint": "(se coucher, passato prossimo)",
+      "prompt": "Ieri sera si sono coricate tardi.",
+      "explain_it": "Il soggetto è femminile plurale: il participio prende -ées e l'ausiliare è essere."
+    },
+    {
+      "id": "L056-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "futur-simple",
+      "text": "Demain, je ___ mes courses en ligne.",
+      "answers": [
+        "ferai"
+      ],
+      "hint": "(faire, futuro)",
+      "prompt": "Domani farò la spesa online.",
+      "explain_it": "Faire è irregolare al futuro: la radice diventa fer- e si aggiungono le desinenze di avoir."
+    },
+    {
+      "id": "L056-e17",
+      "type": "cloze",
+      "level": 2,
+      "concept": "futur-simple",
+      "text": "Quand tu ___ le temps, appelle-moi.",
+      "answers": [
+        "auras"
+      ],
+      "hint": "(avoir, futuro)",
+      "prompt": "Quando avrai tempo, chiamami.",
+      "explain_it": "Con quand e un'azione futura anche la subordinata va al futuro, come in italiano."
+    },
+    {
+      "id": "L056-e18",
+      "type": "cloze",
+      "level": 2,
+      "concept": "possessives",
+      "text": "Ma voiture est petite, mais ___ est grande.",
+      "answers": [
+        "la sienne"
+      ],
+      "hint": "(pronome possessivo di lui o di lei, femminile singolare)",
+      "prompt": "La mia macchina è piccola, ma la sua è grande.",
+      "explain_it": "Il pronome concorda con voiture, femminile singolare, e non con il possessore."
+    },
+    {
+      "id": "L056-e19",
+      "type": "cloze",
+      "level": 1,
+      "concept": "prepositions",
+      "text": "Je vis ___ Italie.",
+      "answers": [
+        "en"
+      ],
+      "hint": "(preposizione per un paese femminile)",
+      "prompt": "Vivo in Italia.",
+      "explain_it": "Italie è femminile: si usa en senza articolo."
+    },
+    {
+      "id": "L056-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Ci vediamo domani.",
+      "answers": [
+        "On se voit demain.",
+        "Nous nous voyons demain.",
+        "On se verra demain.",
+        "Nous nous verrons demain."
+      ],
+      "explain_it": "Il senso reciproco di 'ci vediamo' si esprime con se voir; on è la forma colloquiale di nous."
+    },
+    {
+      "id": "L056-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Non ci capiamo mai.",
+      "answers": [
+        "Nous ne nous comprenons jamais.",
+        "On ne se comprend jamais."
+      ],
+      "explain_it": "Ne e jamais racchiudono il verbo, e il pronome riflessivo resta davanti al verbo."
+    },
+    {
+      "id": "L056-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Non preoccuparti! (dai del tu)",
+      "answers": [
+        "Ne t'inquiète pas !",
+        "Ne te fais pas de souci !"
+      ],
+      "explain_it": "All'imperativo negativo il pronome te diventa t' davanti a vocale e resta prima del verbo.",
+      "ask": "Traduci in francese"
+    },
+    {
+      "id": "L056-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "prompt": "Mia madre si è svegliata alle sei.",
+      "answers": [
+        "Ma mère s'est réveillée à six heures.",
+        "Ma mère s'est réveillée à 6 heures."
+      ],
+      "explain_it": "Con essere e soggetto femminile singolare, il participio prende la -e: réveillée."
+    },
+    {
+      "id": "L056-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "prompt": "Lui e Marc si sono incontrati ieri.",
+      "answers": [
+        "Lui et Marc se sont rencontrés hier.",
+        "Marc et lui se sont rencontrés hier."
+      ],
+      "explain_it": "Il soggetto è maschile plurale: il participio resta al maschile plurale rencontrés."
+    },
+    {
+      "id": "L056-e25",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-etre",
+      "prompt": "Si è vestita in fretta.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Elle s'est habillée [vite|rapidement|en vitesse].",
+        "Elle s'est [vite|rapidement] habillée."
+      ],
+      "explain_it": "Habiller in forma pronominale vuole essere; il participio habillée concorda con elle."
+    },
+    {
+      "id": "L056-e26",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-etre",
+      "prompt": "Hanno litigato spesso (tra loro).",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Ils se sont souvent disputés.",
+        "Ils se sont disputés souvent.",
+        "Elles se sont souvent disputées.",
+        "Elles se sont disputées souvent."
+      ],
+      "explain_it": "Il participio è maschile plurale e l'avverbio souvent va tra l'ausiliare e il participio."
+    },
+    {
+      "id": "L056-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "futur-simple",
+      "prompt": "Domani saremo a casa.",
+      "answers": [
+        "Demain nous serons à la maison.",
+        "Demain on sera à la maison.",
+        "Demain nous serons chez nous.",
+        "Demain on sera chez nous."
+      ],
+      "explain_it": "Être è irregolare al futuro: serons con nous, sera con on."
+    },
+    {
+      "id": "L056-e28",
+      "type": "write",
+      "level": 2,
+      "concept": "futur-simple",
+      "prompt": "Quando avrò finito, uscirò.",
+      "answers": [
+        "Quand j'aurai fini, je sortirai."
+      ],
+      "explain_it": "Con quand l'azione futura va al futuro anche nella principale: aurai, sortirai."
+    },
+    {
+      "id": "L056-e29",
+      "type": "write",
+      "level": 2,
+      "concept": "futur-simple",
+      "prompt": "Domani prendo il treno.",
+      "ask": "Traduci in francese al futuro semplice",
+      "answers": [
+        "Je prendrai le train demain.",
+        "Demain, je prendrai le train."
+      ],
+      "explain_it": "Prendre è un verbo in -re: si toglie la -e e si aggiunge -ai, quindi prendrai."
+    },
+    {
+      "id": "L056-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "futur-simple",
+      "prompt": "Quando tornerai dalle vacanze, ti racconterò tutto.",
+      "answers": [
+        "Quand tu rentreras de [tes |]vacances, je te raconterai tout.",
+        "Quand tu reviendras de [tes |]vacances, je te raconterai tout.",
+        "Quand vous rentrerez de [vos |]vacances, je vous raconterai tout."
+      ],
+      "explain_it": "Entrambe le frasi sono al futuro semplice: rentreras e raconterai."
+    },
+    {
+      "id": "L056-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "possessives",
+      "prompt": "Questo è il mio libro, e quello è il tuo.",
+      "answers": [
+        "C'est mon livre, et celui-là[ est|, c'est] le tien.",
+        "Voici mon livre, et voilà le tien.",
+        "Ça, c'est mon livre, et ça, c'est le tien."
+      ],
+      "explain_it": "Le tien concorda con livre, maschile singolare, e non con il possessore."
+    },
+    {
+      "id": "L056-e32",
+      "type": "write",
+      "level": 2,
+      "concept": "possessives",
+      "prompt": "La mia macchina è rossa, la tua è blu.",
+      "answers": [
+        "Ma voiture est rouge, [la tienne|la vôtre] est bleue."
+      ],
+      "explain_it": "La tienne concorda con voiture, femminile singolare; bleue è al femminile."
+    },
+    {
+      "id": "L056-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "possessives",
+      "prompt": "I nostri figli sono grandi, i vostri sono piccoli.",
+      "answers": [
+        "Nos enfants sont grands, les vôtres sont petits."
+      ],
+      "explain_it": "Les vôtres è maschile plurale perché sostituisce enfants; il circonflesso distingue il pronome dall'aggettivo votre."
+    },
+    {
+      "id": "L056-e34",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "Abito in Italia da dieci anni.",
+      "answers": [
+        "J'habite en Italie depuis dix ans.",
+        "Je vis en Italie depuis dix ans."
+      ],
+      "explain_it": "Con un paese femminile si usa en senza articolo; depuis indica da quanto tempo."
+    },
+    {
+      "id": "L056-e35",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "Le mie chiavi sono nel cassetto.",
+      "answers": [
+        "Mes clés sont dans le tiroir."
+      ],
+      "explain_it": "Dans vuole l'articolo quando indica un luogo preciso: dans le tiroir."
+    },
+    {
+      "id": "L056-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "prepositions",
+      "prompt": "Lo aspetto alla fermata.",
+      "answers": [
+        "Je l'attends à l'arrêt.",
+        "Je l'attends à l'arrêt de [bus|car|tram].",
+        "Je l'attends à l'arrêt d'autobus."
+      ],
+      "explain_it": "Per un punto d'incontro si usa à, non dans: à l'arrêt."
+    },
+    {
+      "id": "L056-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "prepositions",
+      "prompt": "Ho un coltello in mano.",
+      "answers": [
+        "J'ai un couteau [à|dans] la main."
+      ],
+      "explain_it": "Con le parti del corpo si usa di solito à: à la main (dans la main è possibile, ma meno idiomatico)."
+    },
+    {
+      "id": "L056-e38",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "Viaggio in aereo.",
+      "answers": [
+        "Je voyage en avion."
+      ],
+      "explain_it": "Con i mezzi di trasporto si usa en senza articolo: en avion."
+    },
+    {
+      "id": "L056-e39",
+      "type": "dictation",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "text": "Nous nous téléphonons souvent le dimanche.",
+      "explain_it": "Verbo reciproco al presente: nous nous téléphonons, con il pronome davanti al verbo."
+    },
+    {
+      "id": "L056-e40",
+      "type": "dictation",
+      "level": 3,
+      "concept": "passe-compose-etre",
+      "text": "Hier soir, elles se sont couchées très tard.",
+      "explain_it": "Passato prossimo con essere e participio femminile plurale couchées."
+    },
+    {
+      "id": "L056-e41",
+      "type": "dictation",
+      "level": 3,
+      "concept": "futur-simple",
+      "text": "Un jour, nous nous retrouverons à Paris.",
+      "explain_it": "Futuro semplice di se retrouver: la radice è retrouver- e la desinenza è -ons."
+    },
+    {
+      "id": "L056-e42",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "front": "Pronomi riflessivi di se laver: je / tu / il-elle / nous / vous / ils-elles",
+      "back": "me / te / se / nous / vous / se (je me lave, tu te laves, il se lave, nous nous lavons, vous vous lavez, ils se lavent)",
+      "note": "Il pronome riflessivo di terza persona è se, come l'infinito."
+    },
+    {
+      "id": "L056-e43",
+      "type": "flash",
+      "level": 2,
+      "concept": "futur-simple",
+      "front": "Desinenze del futuro semplice e come si costruisce",
+      "back": "-ai, -as, -a, -ons, -ez, -ont. Verbi in -er e -ir: infinito + desinenza. Verbi in -re: tolgo la -e finale + desinenza (vendrai).",
+      "note": "Irregolari da memorizzare: avoir (aurai), être (serai), faire (ferai), aller (irai)."
+    },
+    {
+      "id": "L056-e44",
+      "type": "flash",
+      "level": 2,
+      "concept": "possessives",
+      "front": "Pronomi possessivi: come si formano e con cosa concordano?",
+      "back": "Articolo determinativo + pronome possessivo (le tien, la tienne, les tiens, les tiennes). Concordano con la cosa posseduta, non con il possessore.",
+      "note": "Le forme nôtre e vôtre hanno l'accento circonflesso: distinguono il pronome dall'aggettivo notre e votre. Il sien può essere suo o di lui o di lei."
+    },
+    {
+      "id": "L056-e45",
+      "type": "flash",
+      "level": 2,
+      "concept": "prepositions",
+      "front": "En oppure dans? Quando si usa en?",
+      "back": "En senza articolo con lingue, mezzi di trasporto, materiali, periodi, stagioni (tranne primavera: au printemps) e paesi femminili (en Italie). Dans più l'articolo per un luogo preciso (dans la poche).",
+      "note": "En vingt minutes = in venti minuti (durata); dans vingt minutes = fra venti minuti."
+    }
+  ]
+}

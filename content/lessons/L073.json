@@ -1,0 +1,886 @@
+{
+  "n": 73,
+  "title_fr": "Je n'en peux plus !",
+  "title_it": "Non ne posso più!",
+  "review": false,
+  "status": "verified",
+  "source": "a1be3e47 pdf 44-51 (libro p.417-424; a p.417 compare l'inizio della lezione; in fondo a p.424 le risposte all'esercizio 2; la lezione 74 inizia a PDF 52 / p.425)",
+  "theme_it": "Un collega chiede a un amico perché sia così di malumore. Lui racconta la giornata disastrosa del giorno prima: un mal di denti notturno, una farmacia e un dentista che non possono aiutarlo nel fine settimana, un pronto soccorso con tre ore di attesa, lo sciopero dei mezzi e le code in autostrada. Poi si lamenta di un mondo sottosopra e l'altro cerca di tirarlo su di morale con un invito a cena.",
+  "grammar": [
+    {
+      "id": "pronoun-en",
+      "title_it": "Il pronome en con avoir (en avoir marre, plein le dos, ras le bol)",
+      "explain_it": "Con avoir, le espressioni en avoir marre, en avoir plein le dos e en avoir ras le bol significano 'essere stufi, non poterne più'. Il pronome en riprende il complemento introdotto da de: J'en ai marre de cette attente. Anche je n'en peux plus (non ne posso più) usa en: è una forma fissa, come l'italiano 'non ne posso più'. Non si dice je n'y peux plus: y non funziona in questa espressione.",
+      "examples": [
+        {
+          "fr": "J'en ai plein le dos de ces réunions.",
+          "it": "Ne ho fin sopra i capelli di queste riunioni."
+        },
+        {
+          "fr": "Je n'en peux plus de cette chaleur.",
+          "it": "Non ne posso più di questo caldo."
+        },
+        {
+          "fr": "Il en a marre de ses collègues.",
+          "it": "È stufo dei suoi colleghi."
+        }
+      ]
+    },
+    {
+      "id": "negation-other",
+      "title_it": "Ne... plus e la caduta del ne nel parlato",
+      "explain_it": "Ne... plus significa 'non più' e si costruisce come ne... pas: ne prima del verbo, plus dopo. Davanti a un nome senza articolo si usa plus de: il n'y a plus de pain. Nel parlato informale il ne tende a cadere (je peux plus, c'est pas possible): va riconosciuto quando lo si sente, ma nello scritto e in contesti formali va sempre mantenuto.",
+      "examples": [
+        {
+          "fr": "Il ne travaille plus ici.",
+          "it": "Non lavora più qui."
+        },
+        {
+          "fr": "Nous n'avons plus de café.",
+          "it": "Non abbiamo più caffè."
+        },
+        {
+          "fr": "C'est pas possible !",
+          "it": "Non è possibile! (forma colloquiale)"
+        }
+      ]
+    },
+    {
+      "id": "pronominal-verbs",
+      "title_it": "Il verbo pronominale se plaindre (e s'en faire)",
+      "explain_it": "Se plaindre è pronominale: si coniuga con il pronome riflessivo (je me plains, elle se plaint, ils se plaignent) e regge la preposizione de: se plaindre de quelque chose. Il participio passato è plaint; nel passato prossimo, quando il pronome riflessivo è complemento diretto, si accorda con il soggetto: elle s'est plainte. Anche s'en faire (preoccuparsi) è pronominale e usa en: ne t'en fais pas, 'non preoccuparti'; per indicare chi preoccupa si usa pour: ne t'en fais pas pour lui.",
+      "examples": [
+        {
+          "fr": "Elle se plaint du bruit.",
+          "it": "Lei si lamenta del rumore."
+        },
+        {
+          "fr": "Elle s'est plainte de la chaleur.",
+          "it": "Si è lamentata del caldo."
+        },
+        {
+          "fr": "Ne t'en fais pas pour moi.",
+          "it": "Non preoccuparti per me."
+        }
+      ]
+    },
+    {
+      "id": "articles-definite",
+      "title_it": "Grève: faire (la) grève e être en grève",
+      "explain_it": "Il sostantivo femminile grève (sciopero) si usa in due costruzioni diverse. Con faire grève l'articolo la è facoltativo: si può dire faire la grève o faire grève. Con être, invece, non c'è articolo e si usa la preposizione en: être en grève. In italiano diciamo sempre 'fare sciopero' ed 'essere in sciopero', quindi il problema è solo di articolo, che in francese cambia con il verbo.",
+      "examples": [
+        {
+          "fr": "Les ouvriers font (la) grève.",
+          "it": "Gli operai fanno sciopero."
+        },
+        {
+          "fr": "L'usine est en grève.",
+          "it": "La fabbrica è in sciopero."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Casser les pieds e il derivato casse-pieds",
+      "explain_it": "Casser les pieds à quelqu'un è un'espressione familiare che significa 'dare fastidio, annoiare, rompere le scatole'. La persona infastidita è espressa da un pronome (me, te, lui) che precede il verbo: tu me casses les pieds. Il derivato casse-pieds è invariabile: può essere aggettivo (c'est casse-pieds) oppure nome, maschile o femminile (un casse-pieds, une casse-pieds). L'equivalente italiano più vicino è 'rompiscatole'.",
+      "examples": [
+        {
+          "fr": "Tu me casses les pieds avec tes histoires.",
+          "it": "Mi rompi le scatole con le tue storie."
+        },
+        {
+          "fr": "Ce collègue est un vrai casse-pieds.",
+          "it": "Questo collega è un vero rompiscatole."
+        }
+      ]
+    },
+    {
+      "id": "register",
+      "title_it": "Il registro familiare: dingue, ça m'énerve, ras le bol",
+      "explain_it": "Nel parlato quotidiano compaiono espressioni colloquiali molto frequenti: dingue (pazzo, incredibile, usato come 'pazzesco'), ça m'énerve (mi innervosisce), il y en a marre (basta, ne abbiamo abbastanza), en avoir ras le bol (esserne saturi). Sono naturali tra amici e colleghi, ma non vanno usate in un contesto formale o con persone con cui si dà del lei.",
+      "examples": [
+        {
+          "fr": "C'est dingue, ce truc !",
+          "it": "È pazzesco, questa cosa!"
+        },
+        {
+          "fr": "Il y en a marre de ces retards !",
+          "it": "Basta con questi ritardi!"
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la grève",
+      "it": "lo sciopero",
+      "pos": "n"
+    },
+    {
+      "fr": "le bouchon",
+      "it": "l'ingorgo (stradale)",
+      "pos": "n"
+    },
+    {
+      "fr": "la galère",
+      "it": "il guaio, la seccatura",
+      "pos": "n"
+    },
+    {
+      "fr": "la rage de dents",
+      "it": "il mal di denti acuto",
+      "pos": "n"
+    },
+    {
+      "fr": "l'armoire à pharmacie (f.)",
+      "it": "l'armadietto dei medicinali",
+      "pos": "n"
+    },
+    {
+      "fr": "soulager",
+      "it": "alleviare",
+      "pos": "v"
+    },
+    {
+      "fr": "la douleur",
+      "it": "il dolore",
+      "pos": "n"
+    },
+    {
+      "fr": "le cabinet",
+      "it": "lo studio (medico)",
+      "pos": "n"
+    },
+    {
+      "fr": "la pharmacie",
+      "it": "la farmacia",
+      "pos": "n"
+    },
+    {
+      "fr": "le dentiste",
+      "it": "il dentista",
+      "pos": "n"
+    },
+    {
+      "fr": "le week-end",
+      "it": "il fine settimana",
+      "pos": "n"
+    },
+    {
+      "fr": "avant-hier",
+      "it": "l'altro ieri",
+      "pos": "adv"
+    },
+    {
+      "fr": "les urgences",
+      "it": "il pronto soccorso",
+      "pos": "n",
+      "note": "sempre al plurale"
+    },
+    {
+      "fr": "débordé",
+      "it": "sovraccarico, sommerso",
+      "pos": "adj",
+      "note": "f. débordée"
+    },
+    {
+      "fr": "patienter",
+      "it": "aspettare con pazienza",
+      "pos": "v"
+    },
+    {
+      "fr": "le stagiaire",
+      "it": "il tirocinante",
+      "pos": "n"
+    },
+    {
+      "fr": "la carte d'assurance maladie",
+      "it": "la tessera sanitaria",
+      "pos": "n"
+    },
+    {
+      "fr": "fainéant",
+      "it": "pigro, fannullone",
+      "pos": "adj",
+      "note": "f. fainéante"
+    },
+    {
+      "fr": "dingue",
+      "it": "pazzo, matto",
+      "pos": "adj"
+    },
+    {
+      "fr": "fatigant",
+      "it": "stancante, seccante",
+      "pos": "adj",
+      "note": "f. fatigante"
+    },
+    {
+      "fr": "le moral",
+      "it": "il morale, l'umore",
+      "pos": "n"
+    },
+    {
+      "fr": "se plaindre",
+      "it": "lamentarsi",
+      "pos": "v",
+      "note": "je me plains"
+    },
+    {
+      "fr": "remarquer",
+      "it": "far notare, notare",
+      "pos": "v"
+    },
+    {
+      "fr": "s'en faire",
+      "it": "preoccuparsi",
+      "pos": "v",
+      "note": "ne t'en fais pas"
+    },
+    {
+      "fr": "sens dessus dessous",
+      "it": "sottosopra",
+      "pos": "adv"
+    },
+    {
+      "fr": "en pleine nuit",
+      "it": "in piena notte",
+      "pos": "expr"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "en avoir plein le dos",
+      "it": "averne fin sopra i capelli",
+      "note": "registro familiare; con de: en avoir plein le dos de qqc"
+    },
+    {
+      "fr": "Je n'en peux plus.",
+      "it": "Non ne posso più.",
+      "note": "nel parlato si sente spesso Je peux plus"
+    },
+    {
+      "fr": "Il y en a marre !",
+      "it": "Basta, ne abbiamo abbastanza!",
+      "note": "esclamazione colloquiale"
+    },
+    {
+      "fr": "casser les pieds à quelqu'un",
+      "it": "rompere le scatole a qualcuno",
+      "note": "registro familiare"
+    },
+    {
+      "fr": "remonter le moral à quelqu'un",
+      "it": "tirare su il morale a qualcuno"
+    },
+    {
+      "fr": "C'est dingue !",
+      "it": "È pazzesco!",
+      "note": "reazione di stupore o di fastidio"
+    },
+    {
+      "fr": "Quelle galère !",
+      "it": "Che guaio! Che seccatura!",
+      "note": "esclamazione per una situazione penosa"
+    },
+    {
+      "fr": "pour couronner le tout",
+      "it": "per giunta, e come se non bastasse",
+      "note": "per aggiungere un danno al precedente"
+    },
+    {
+      "fr": "Ne t'en fais pas.",
+      "it": "Non ti preoccupare.",
+      "note": "forma informale con tu"
+    },
+    {
+      "fr": "C'est n'importe quoi !",
+      "it": "È una sciocchezza! Che assurdità!",
+      "note": "per criticare un discorso o un comportamento"
+    }
+  ],
+  "notes_it": [
+    "Un bouchon è il tappo di sughero, ma anche l'ingorgo stradale: in italiano diciamo 'ingorgo', il francese preferisce l'immagine del tappo. Il verbo bouchonner indica il formarsi di code.",
+    "Falso amico: galère non è 'galera' (la prigione in francese è prison). Significa 'guaio, situazione penosa, seccatura', e in un'esclamazione è molto usata.",
+    "Nel parlato rapido il ne di negazione e la e muta dei pronomi (je, ne) tendono a sparire: c'est pas possible, j'en peux plus. Sono forme da riconoscere quando si ascolta, ma non da imitare nello scritto o in contesti formali.",
+    "Nell'espressione sens dessus dessous (sottosopra) l'ordine delle due parole è fisso: dessus viene prima di dessous. Il francese dice anche tout est sens dessus dessous per 'è tutto a rovescio'.",
+    "Fatigant è un aggettivo con due sensi: 'stancante' in senso fisico e 'seccante, insopportabile' in conversazione. Nel dialogo ha il secondo significato."
+  ],
+  "exercises": [
+    {
+      "id": "L073-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronoun-en",
+      "prompt": "Come si dice 'Non ne posso più'?",
+      "options": [
+        "Je n'en peux plus.",
+        "Je ne peux plus en.",
+        "Je n'y peux plus.",
+        "Je peux en plus."
+      ],
+      "correct": 0,
+      "explain_it": "Je n'en peux plus è la forma fissa: en riprende la situazione di cui si è stufi. Je n'y peux plus non esiste in questo senso."
+    },
+    {
+      "id": "L073-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Quale espressione significa 'rompere le scatole a qualcuno'?",
+      "options": [
+        "casser les pieds à quelqu'un",
+        "avoir les pieds sur terre",
+        "casser du sucre sur le dos de quelqu'un",
+        "lever le pied"
+      ],
+      "correct": 0,
+      "explain_it": "Casser les pieds è familiare e significa 'dare fastidio'; le altre espressioni hanno tutt'altro senso."
+    },
+    {
+      "id": "L073-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "false-friends",
+      "prompt": "In francese 'la galère' significa:",
+      "options": [
+        "guaio, situazione penosa",
+        "prigione",
+        "galleria",
+        "galeone"
+      ],
+      "correct": 0,
+      "explain_it": "È un falso amico: la prigione in francese è prison, mentre galère indica una situazione difficile."
+    },
+    {
+      "id": "L073-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "articles-definite",
+      "prompt": "Quale frase è corretta per 'L'azienda è in sciopero'?",
+      "options": [
+        "L'entreprise est en grève.",
+        "L'entreprise est en la grève.",
+        "L'entreprise est à la grève.",
+        "L'entreprise fait en grève."
+      ],
+      "correct": 0,
+      "explain_it": "Con être si usa en senza articolo: en grève, non en la grève."
+    },
+    {
+      "id": "L073-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronominal-verbs",
+      "prompt": "Completa: 'Elle ___ du bruit.' (Lei si lamenta del rumore.)",
+      "options": [
+        "se plaint",
+        "plaint",
+        "se plaints",
+        "se plaignent"
+      ],
+      "correct": 0,
+      "explain_it": "Plaindre è un verbo pronominale: con elle la forma è se plaint."
+    },
+    {
+      "id": "L073-e06",
+      "type": "mcq",
+      "level": 1,
+      "concept": "register",
+      "prompt": "Nel parlato informale, come si dice spesso 'Ce n'est pas possible'?",
+      "options": [
+        "C'est pas possible.",
+        "Ce est pas possible.",
+        "C'est n'est pas possible.",
+        "Ce pas possible."
+      ],
+      "correct": 0,
+      "explain_it": "Nel parlato il ne spesso cade; nello scritto formale va mantenuto."
+    },
+    {
+      "id": "L073-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Le sue lamentele mi rompono le scatole.",
+      "answers": [
+        "Ses plaintes me cassent les pieds."
+      ],
+      "distractors": [
+        "sur",
+        "devant"
+      ],
+      "explain_it": "Nella costruzione con casser les pieds il pronome di persona (me) va prima del verbo."
+    },
+    {
+      "id": "L073-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "pronoun-en",
+      "prompt": "Non ne posso più di questa attesa.",
+      "answers": [
+        "Je n'en peux plus de cette attente."
+      ],
+      "distractors": [
+        "y",
+        "pas"
+      ],
+      "explain_it": "En va davanti al verbo, dopo il soggetto e la negazione ne."
+    },
+    {
+      "id": "L073-e09",
+      "type": "order",
+      "level": 1,
+      "concept": "negation-other",
+      "prompt": "Lui non lavora più qui.",
+      "answers": [
+        "Il ne travaille plus ici."
+      ],
+      "distractors": [
+        "pas",
+        "encore"
+      ],
+      "explain_it": "Ne... plus avvolge il verbo: ne prima, plus dopo."
+    },
+    {
+      "id": "L073-e10",
+      "type": "order",
+      "level": 1,
+      "concept": "articles-definite",
+      "prompt": "Gli operai fanno sciopero.",
+      "answers": [
+        "Les ouvriers font [la |]grève."
+      ],
+      "distractors": [
+        "en"
+      ],
+      "explain_it": "Con faire grève l'articolo è facoltativo; con être si usa invece en senza articolo."
+    },
+    {
+      "id": "L073-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "pronoun-en",
+      "text": "J'___ ai plein le dos de ce bruit.",
+      "answers": [
+        "en"
+      ],
+      "hint": "(pronome)",
+      "prompt": "Ne ho fin sopra i capelli di questo rumore.",
+      "explain_it": "Avoir plein le dos de qualcosa: en riprende il complemento introdotto da de."
+    },
+    {
+      "id": "L073-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "pronominal-verbs",
+      "text": "Tu ___ plains toujours de tout.",
+      "answers": [
+        "te"
+      ],
+      "hint": "(pronome riflessivo)",
+      "prompt": "Ti lamenti sempre di tutto.",
+      "explain_it": "Con tu il pronome riflessivo è te: tu te plains."
+    },
+    {
+      "id": "L073-e13",
+      "type": "cloze",
+      "level": 1,
+      "concept": "negation-other",
+      "text": "Je ___ peux plus attendre.",
+      "answers": [
+        "ne"
+      ],
+      "hint": "(negazione)",
+      "prompt": "Non posso più aspettare.",
+      "explain_it": "Ne si mette prima del verbo coniugato, plus dopo."
+    },
+    {
+      "id": "L073-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Tu me ___ les pieds avec tes histoires.",
+      "answers": [
+        "casses"
+      ],
+      "hint": "(casser, presente)",
+      "prompt": "Mi rompi le scatole con le tue storie.",
+      "explain_it": "Casser les pieds è familiare; al presente il verbo casser si coniuga regolarmente: tu casses."
+    },
+    {
+      "id": "L073-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "articles-definite",
+      "text": "Les employés sont ___ grève depuis lundi.",
+      "answers": [
+        "en"
+      ],
+      "hint": "(preposizione)",
+      "prompt": "I dipendenti sono in sciopero da lunedì.",
+      "explain_it": "Con être è obbligatoria la preposizione en, senza articolo."
+    },
+    {
+      "id": "L073-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-en",
+      "text": "Cette attente est insupportable : j'en ai ___ !",
+      "answers": [
+        "marre",
+        "assez",
+        "plein le dos",
+        "ras le bol"
+      ],
+      "hint": "(espressione colloquiale)",
+      "prompt": "Questa attesa è insopportabile: ne ho abbastanza!",
+      "explain_it": "En riprende la situazione di cui si è stufi; con avoir l'espressione è colloquiale."
+    },
+    {
+      "id": "L073-e17",
+      "type": "cloze",
+      "level": 2,
+      "concept": "negation-other",
+      "text": "Nous n'avons ___ de café.",
+      "answers": [
+        "plus"
+      ],
+      "hint": "(negazione)",
+      "prompt": "Non abbiamo più caffè.",
+      "explain_it": "Davanti a un nome senza articolo si usa plus de."
+    },
+    {
+      "id": "L073-e18",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "text": "Les voisins ___ toujours du bruit.",
+      "answers": [
+        "se plaignent"
+      ],
+      "hint": "(se plaindre, presente)",
+      "prompt": "I vicini si lamentano sempre del rumore.",
+      "explain_it": "Il pronome riflessivo si mette prima del verbo coniugato e la costruzione regge de."
+    },
+    {
+      "id": "L073-e19",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Cette nouvelle m'a ___ le moral.",
+      "answers": [
+        "remonté"
+      ],
+      "hint": "(remonter, passato prossimo)",
+      "prompt": "Questa notizia mi ha tirato su il morale.",
+      "explain_it": "Remonter le moral à qqn è espressione idiomatica; con avoir il participio non si accorda con il complemento diretto che segue."
+    },
+    {
+      "id": "L073-e20",
+      "type": "cloze",
+      "level": 2,
+      "concept": "register",
+      "text": "C'est ___ ! Quelle histoire de fou !",
+      "answers": [
+        "dingue",
+        "fou"
+      ],
+      "hint": "(aggettivo colloquiale)",
+      "prompt": "È pazzesco! Che storia assurda!",
+      "explain_it": "Dingue è colloquiale: nell'uso parlato significa 'pazzesco, incredibile'."
+    },
+    {
+      "id": "L073-e21",
+      "type": "cloze",
+      "level": 2,
+      "concept": "articles-definite",
+      "text": "Les cheminots ___ grève demain.",
+      "answers": [
+        "feront",
+        "vont faire"
+      ],
+      "hint": "(faire, futuro o perifrastico)",
+      "prompt": "I ferrovieri faranno sciopero domani.",
+      "explain_it": "Con faire grève l'articolo non è necessario."
+    },
+    {
+      "id": "L073-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-en",
+      "prompt": "Sono stufo di questi ritardi.",
+      "answers": [
+        "J'en ai [marre|assez|plein le dos] de ces retards."
+      ],
+      "explain_it": "Con avoir + marre, assez o plein le dos, il pronome en riprende il complemento introdotto da de."
+    },
+    {
+      "id": "L073-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-en",
+      "prompt": "Non ne posso più di aspettare.",
+      "answers": [
+        "[Je n'en|J'en] peux plus d'attendre."
+      ],
+      "explain_it": "Je n'en peux plus è la forma piena; nel parlato si dice spesso anche J'en peux plus."
+    },
+    {
+      "id": "L073-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "negation-other",
+      "prompt": "Non lavori più qui?",
+      "ask": "Traduci in francese (tu)",
+      "answers": [
+        "Tu ne travailles plus ici ?",
+        "Ne travailles-tu plus ici ?",
+        "Tu travailles plus ici ?"
+      ],
+      "explain_it": "Anche nelle domande ne va prima del verbo, con inversione o senza."
+    },
+    {
+      "id": "L073-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "negation-other",
+      "prompt": "Non ho più soldi.",
+      "answers": [
+        "Je n'ai plus d'argent."
+      ],
+      "explain_it": "Davanti a un nome che inizia con vocale si usa plus d'argent."
+    },
+    {
+      "id": "L073-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Gli studenti si lamentano sempre del caffè.",
+      "answers": [
+        "Les étudiants se plaignent [toujours|tout le temps] du café."
+      ],
+      "explain_it": "Plaindre è pronominale e regge de per l'oggetto della lamentela."
+    },
+    {
+      "id": "L073-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Non preoccuparti per me.",
+      "answers": [
+        "[Ne t'en|T'en] fais pas [pour moi|]."
+      ],
+      "explain_it": "S'en faire si usa spesso in forma negativa per dire 'non preoccuparti'."
+    },
+    {
+      "id": "L073-e28",
+      "type": "write",
+      "level": 2,
+      "concept": "articles-definite",
+      "prompt": "I treni sono in sciopero da lunedì.",
+      "answers": [
+        "Les trains sont en grève depuis lundi."
+      ],
+      "explain_it": "Être en grève: niente articolo, con la preposizione en."
+    },
+    {
+      "id": "L073-e29",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Questi vicini mi rompono le scatole.",
+      "answers": [
+        "Ces voisins me cassent les pieds."
+      ],
+      "explain_it": "Casser les pieds è familiare; il pronome me precede il verbo."
+    },
+    {
+      "id": "L073-e30",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Non dire sciocchezze!",
+      "ask": "Traduci in francese (tu)",
+      "answers": [
+        "Ne dis pas n'importe quoi !",
+        "Arrête de dire n'importe quoi !",
+        "Ne dis pas de bêtises !"
+      ],
+      "explain_it": "N'importe quoi è un'espressione colloquiale che qui indica 'sciocchezze'."
+    },
+    {
+      "id": "L073-e31",
+      "type": "dictation",
+      "level": 2,
+      "concept": "false-friends",
+      "text": "Quelle galère, ce bouchon !",
+      "explain_it": "Galère significa guaio, bouchon è l'ingorgo stradale."
+    },
+    {
+      "id": "L073-e32",
+      "type": "dictation",
+      "level": 2,
+      "concept": "negation-other",
+      "text": "Il ne répond plus au téléphone.",
+      "explain_it": "Ne... plus con il verbo al presente: ne prima del verbo, plus dopo."
+    },
+    {
+      "id": "L073-e33",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronoun-en",
+      "front": "Con avoir marre o avoir plein le dos, come si usa il pronome en?",
+      "back": "En riprende il complemento introdotto da de: J'en ai marre de ce bruit. Se il complemento non è espresso, en resta da solo: J'en ai marre.",
+      "explain_it": "En è un pronome che si usa qui come in italiano 'ne ho abbastanza': va ricordato come schema fisso."
+    },
+    {
+      "id": "L073-e34",
+      "type": "flash",
+      "level": 2,
+      "concept": "negation-other",
+      "front": "Ne... plus: posizione e uso con un nome",
+      "back": "Ne... plus significa 'non più': ne prima del verbo, plus dopo. Davanti a un nome senza articolo si usa plus de: Il n'y a plus de pain.",
+      "explain_it": "Il plus de senza articolo ricorda il partitivo negativo: non si usa mai du, de la o des dopo plus."
+    },
+    {
+      "id": "L073-e35",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "front": "Participio passato di se plaindre e accordo nel passato prossimo",
+      "back": "Plaint. Con il pronome riflessivo come complemento diretto si accorda con il soggetto: elle s'est plainte, ils se sont plaints.",
+      "explain_it": "Il pronome riflessivo è complemento diretto quando il verbo non ha un altro oggetto diretto, e questo fa scattare l'accordo."
+    },
+    {
+      "id": "L073-e36",
+      "type": "flash",
+      "level": 2,
+      "concept": "register",
+      "front": "Nel parlato informale perché il ne spesso scompare?",
+      "back": "Per rapidità: je ne sais pas diventa je sais pas, c'est pas possible. È una forma colloquiale da riconoscere, non da usare nello scritto formale.",
+      "explain_it": "Nel parlato il ne è facoltativo e spesso assente; è un fenomeno da riconoscere ma non da scrivere in un testo formale."
+    },
+    {
+      "id": "L073-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-en",
+      "prompt": "Sono davvero stufo di questo quartiere rumoroso.",
+      "answers": [
+        "J'en ai [vraiment |][plein le dos|marre|ras le bol|assez] de ce quartier bruyant."
+      ],
+      "explain_it": "Il pronome en si colloca prima di ai; vraiment va dopo en ai."
+    },
+    {
+      "id": "L073-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "pronominal-verbs",
+      "prompt": "Io non mi lamento più, ma i miei vicini si lamentano sempre.",
+      "answers": [
+        "Je ne me plains plus, mais mes voisins se plaignent [toujours|tout le temps]."
+      ],
+      "explain_it": "Con un verbo pronominale e ne... plus il pronome riflessivo sta tra ne e il verbo."
+    },
+    {
+      "id": "L073-e39",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Mi hai tirato su il morale con la tua visita, grazie!",
+      "ask": "Traduci in francese (tu)",
+      "answers": [
+        "[Tu m'as remonté le moral avec ta visite|Ta visite m'a remonté le moral], merci !"
+      ],
+      "explain_it": "Remonter le moral à qqn: il pronome indiretto m' precede il verbo con avoir."
+    },
+    {
+      "id": "L073-e40",
+      "type": "write",
+      "level": 3,
+      "concept": "articles-definite",
+      "prompt": "Ieri gli insegnanti hanno fatto sciopero, quindi la scuola era chiusa.",
+      "answers": [
+        "Hier, les [professeurs|enseignants] ont fait [la |]grève, donc l'école était fermée."
+      ],
+      "explain_it": "Faire grève al passato prossimo: l'articolo è facoltativo e il participio fait resta invariato."
+    },
+    {
+      "id": "L073-e41",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-en",
+      "prompt": "J'ai assez de ces retards.",
+      "ask": "Sostituisci «de ces retards» con il pronome en",
+      "answers": [
+        "J'en ai assez."
+      ],
+      "explain_it": "En sostituisce «de ces retards» e va davanti al verbo avoir."
+    },
+    {
+      "id": "L073-e42",
+      "type": "write",
+      "level": 3,
+      "concept": "negation-other",
+      "prompt": "Le dentiste travaille encore.",
+      "ask": "Riscrivi in negativo con ne... plus",
+      "answers": [
+        "Le dentiste ne travaille plus."
+      ],
+      "explain_it": "Ne... plus significa 'non più': ne prima del verbo, plus dopo."
+    },
+    {
+      "id": "L073-e43",
+      "type": "write",
+      "level": 3,
+      "concept": "false-friends",
+      "prompt": "Che guaio con questo treno: siamo rimasti bloccati per due ore.",
+      "answers": [
+        "Quelle galère avec ce train : [on est|nous sommes] restés [bloqués|coincés] [pendant|durant] deux heures.",
+        "Quelle galère avec ce train : nous avons été [bloqués|coincés] [pendant|durant] deux heures."
+      ],
+      "explain_it": "Galère è un guaio, non la galera (prison) e il participio restés si accorda con il soggetto."
+    },
+    {
+      "id": "L073-e44",
+      "type": "write",
+      "level": 3,
+      "concept": "pronominal-verbs",
+      "prompt": "Non preoccuparti: il dentista ti richiamerà domani.",
+      "ask": "Traduci in francese (tu)",
+      "answers": [
+        "[Ne t'en|T'en] fais pas : le dentiste te rappellera demain."
+      ],
+      "explain_it": "S'en faire con en e il pronome riflessivo t' davanti al verbo."
+    },
+    {
+      "id": "L073-e45",
+      "type": "dictation",
+      "level": 3,
+      "concept": "idioms",
+      "text": "Tout est sens dessus dessous dans cette entreprise, et les employés en ont plein le dos.",
+      "explain_it": "Sens dessus dessous significa sottosopra: l'ordine delle parole è fisso."
+    },
+    {
+      "id": "L073-e46",
+      "type": "dictation",
+      "level": 3,
+      "concept": "register",
+      "text": "Les urgences étaient débordées, et ils m'ont fait patienter trois heures : c'est pas possible !",
+      "answers": [
+        "Les urgences étaient débordées, et ils m'ont fait patienter trois heures : [c'est pas|ce n'est pas] possible !"
+      ],
+      "explain_it": "C'est pas è colloquiale; nello scritto formale si usa ce n'est pas."
+    },
+    {
+      "id": "L073-e47",
+      "type": "flash",
+      "level": 3,
+      "concept": "idioms",
+      "front": "Casser les pieds: significato e uso di casse-pieds",
+      "back": "Significa dare fastidio, rompere le scatole (registro familiare). Casse-pieds è invariabile e può essere aggettivo o nome: c'est casse-pieds ; une casse-pieds.",
+      "explain_it": "Casse-pieds è invariabile: si dice sia per il maschile sia per il femminile, sia come aggettivo sia come nome."
+    }
+  ]
+}

@@ -1,0 +1,885 @@
+{
+  "n": 78,
+  "title_fr": "Les voyages forment la jeunesse",
+  "title_it": "I viaggi formano la gioventù",
+  "review": false,
+  "status": "verified",
+  "source": "a1be3e47 pdf 82-89 (libro p.455-462; la lezione inizia a pdf 82 sotto la traduzione della revisione L77; esercizi a pdf 88, risposte in cima a pdf 89; la lezione 79 inizia a pdf 90)",
+  "theme_it": "Due persone parlano del weekend lungo dell'Ascensione: l'una andrà a trovare nipoti e nipote a Nîmes, l'altra chiede se i figli li accompagneranno. I ragazzi preferiscono stare con gli amici piuttosto che seguire i genitori in viaggio, e il genitore ammette di non riuscire a convincerli. Alla fine si parla di commissioni: miele di lavanda, erbe della Provenza e un vaso in ceramica da portare a Alex e Théo, con qualche battuta sul prezzo e sul pagamento.",
+  "grammar": [
+    {
+      "id": "pronoun-order",
+      "title_it": "Due pronomi oggetto insieme: l'ordine",
+      "explain_it": "Quando nella frase ci sono due pronomi oggetto, in francese l'ordine è fisso e non si usa un pronome unico come in italiano (glielo, gliela). Prima vengono me/te/nous/vous, poi le/la/les, poi lui/leur: il me le donne, je la leur ai montrée, je le lui ai dit. Con l'imperativo affermativo il pronome va dopo il verbo, unito da trattini, e moi/toi sostituisce me/te (donne-le-moi). Nella frase negativa ne precede il primo pronome e pas segue il verbo: ne me le donne pas. Il participio passato con avoir si accorda con il COD se il COD precede il verbo.",
+      "examples": [
+        {
+          "fr": "Il me le donne.",
+          "it": "Me lo dà."
+        },
+        {
+          "fr": "Je la leur ai montrée.",
+          "it": "Gliel'ho mostrata (a loro)."
+        },
+        {
+          "fr": "Passe-le-moi.",
+          "it": "Passamelo."
+        }
+      ]
+    },
+    {
+      "id": "pronoun-en",
+      "title_it": "Il pronome en nelle locuzioni fisse",
+      "explain_it": "En di solito indica una quantità (ne: ho degli amici → j'en ai). In alcune locuzioni fisse ha un valore che non si traduce letteralmente. Due esempi della lezione: en vouloir à qqn significa 'avercela con qualcuno' (je ne t'en veux pas = non ce l'ho con te) e n'en avoir rien à faire significa 'non importarsene affatto, fregarsene'. Il pronome en va prima del verbo, come gli altri pronomi, e con leur si scrive leur en. Va memorizzato come blocco.",
+      "examples": [
+        {
+          "fr": "Je ne t'en veux pas.",
+          "it": "Non ce l'ho con te."
+        },
+        {
+          "fr": "Il n'en a rien à faire.",
+          "it": "Non gliene importa niente."
+        },
+        {
+          "fr": "Je leur en ai parlé.",
+          "it": "Ne ho parlato con loro."
+        }
+      ]
+    },
+    {
+      "id": "prepositions",
+      "title_it": "Verbi con preposizione: arriver à, rendre visite à, être à la recherche de",
+      "explain_it": "Arriver si usa con à + infinito e significa 'riuscire a'; in negativo je n'arrive pas à... è 'non riesco a...' (in italiano spesso si dice 'non ce la faccio a'). Rendre visite à si usa con una persona (far visita a qualcuno); per un luogo si usa visiter, che in italiano 'visitare' copre entrambi i casi. Être à la recherche de significa 'essere alla ricerca di' ed è un'espressione neutra da imparare intera.",
+      "examples": [
+        {
+          "fr": "Je n'arrive pas à finir.",
+          "it": "Non riesco a finire."
+        },
+        {
+          "fr": "Je rends visite à ma tante.",
+          "it": "Vado a trovare mia zia."
+        },
+        {
+          "fr": "Je suis à la recherche d'un hôtel.",
+          "it": "Sono alla ricerca di un albergo."
+        }
+      ]
+    },
+    {
+      "id": "pronominal-verbs",
+      "title_it": "Embêter e s'embêter",
+      "explain_it": "Embêter da solo è transitivo e significa 'infastidire, rompere'. La forma pronominale s'embêter significa 'annoiarsi'. Con il pronome riflessivo è obbligatorio: je m'embête, ils s'amusent. Davanti a vocale o h muta il pronome si elide (m', s'). Nel passato composto con essere il participio concorda con il soggetto (elles se sont amusées). Con l'infinito il pronome si mette davanti all'infinito: je ne veux pas m'embêter.",
+      "examples": [
+        {
+          "fr": "Ne m'embête pas !",
+          "it": "Non rompermi!"
+        },
+        {
+          "fr": "Je m'embête en classe.",
+          "it": "Mi annoio in classe."
+        },
+        {
+          "fr": "Elles se sont beaucoup amusées.",
+          "it": "Si sono divertite molto."
+        }
+      ]
+    },
+    {
+      "id": "connectors",
+      "title_it": "Connettivi: vu que, plutôt que (de), qu'importe",
+      "explain_it": "Vu que introduce una causa e corrisponde all'italiano 'visto che'; davanti a il/ils si scrive vu qu'il. Plutôt que, seguito da de + infinito, significa 'piuttosto che' e collega due azioni alternative: je préfère lire plutôt que de regarder la télé. Qu'importe (forma più elegante di peu importe) significa 'non importa' e si usa spesso da sola come risposta.",
+      "examples": [
+        {
+          "fr": "Vu que tu es en retard, on prend un taxi.",
+          "it": "Visto che sei in ritardo, prendiamo un taxi."
+        },
+        {
+          "fr": "Je préfère lire plutôt que de sortir.",
+          "it": "Preferisco leggere piuttosto che uscire."
+        },
+        {
+          "fr": "Qu'importe, on verra demain.",
+          "it": "Non importa, vedremo domani."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le pont",
+      "it": "il ponte (in Francia: il weekend lungo)",
+      "pos": "n"
+    },
+    {
+      "fr": "la recherche",
+      "it": "la ricerca",
+      "pos": "n"
+    },
+    {
+      "fr": "l'inspiration (f.)",
+      "it": "l'ispirazione",
+      "pos": "n"
+    },
+    {
+      "fr": "le neveu",
+      "it": "il nipote (figlio di fratello o sorella)",
+      "pos": "n"
+    },
+    {
+      "fr": "la nièce",
+      "it": "la nipote (figlia di fratello o sorella)",
+      "pos": "n"
+    },
+    {
+      "fr": "juste",
+      "it": "proprio, appena",
+      "pos": "adv"
+    },
+    {
+      "fr": "à côté",
+      "it": "accanto, vicino",
+      "pos": "adv"
+    },
+    {
+      "fr": "le gamin",
+      "it": "il ragazzino, il monello",
+      "pos": "n"
+    },
+    {
+      "fr": "difficile",
+      "it": "difficile, esigente",
+      "pos": "adj"
+    },
+    {
+      "fr": "l'occasion (f.)",
+      "it": "l'occasione",
+      "pos": "n"
+    },
+    {
+      "fr": "emmener",
+      "it": "portare con sé, condurre",
+      "pos": "v",
+      "note": "j'emmène"
+    },
+    {
+      "fr": "s'amuser",
+      "it": "divertirsi",
+      "pos": "v",
+      "note": "je m'amuse"
+    },
+    {
+      "fr": "le copain",
+      "it": "l'amico, il compagno",
+      "pos": "n"
+    },
+    {
+      "fr": "plutôt que",
+      "it": "piuttosto che",
+      "pos": "conj"
+    },
+    {
+      "fr": "la jeunesse",
+      "it": "la gioventù",
+      "pos": "n"
+    },
+    {
+      "fr": "s'embêter",
+      "it": "annoiarsi",
+      "pos": "v",
+      "note": "je m'embête"
+    },
+    {
+      "fr": "ennuyeux",
+      "it": "noioso",
+      "pos": "adj",
+      "note": "f. ennuyeuse"
+    },
+    {
+      "fr": "convaincre",
+      "it": "convincere",
+      "pos": "v",
+      "note": "je convaincs"
+    },
+    {
+      "fr": "la soupe",
+      "it": "la zuppa",
+      "pos": "n"
+    },
+    {
+      "fr": "le perdant",
+      "it": "il perdente, lo sconfitto",
+      "pos": "n"
+    },
+    {
+      "fr": "le sujet",
+      "it": "l'argomento",
+      "pos": "n"
+    },
+    {
+      "fr": "la région",
+      "it": "la regione",
+      "pos": "n"
+    },
+    {
+      "fr": "le miel",
+      "it": "il miele",
+      "pos": "n"
+    },
+    {
+      "fr": "la lavande",
+      "it": "la lavanda",
+      "pos": "n"
+    },
+    {
+      "fr": "le vase",
+      "it": "il vaso (decorativo)",
+      "pos": "n"
+    },
+    {
+      "fr": "la céramique",
+      "it": "la ceramica",
+      "pos": "n"
+    },
+    {
+      "fr": "le souvenir",
+      "it": "il souvenir, il ricordo",
+      "pos": "n"
+    },
+    {
+      "fr": "le prix",
+      "it": "il prezzo",
+      "pos": "n"
+    },
+    {
+      "fr": "le chèque",
+      "it": "l'assegno",
+      "pos": "n"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "être à la recherche de",
+      "it": "essere alla ricerca di",
+      "note": "registro neutro"
+    },
+    {
+      "fr": "Quelle chance !",
+      "it": "Che fortuna!",
+      "note": "si usa anche con ironia"
+    },
+    {
+      "fr": "sauter sur l'occasion",
+      "it": "cogliere al volo l'occasione",
+      "note": "registro neutro"
+    },
+    {
+      "fr": "ne pas en vouloir à quelqu'un",
+      "it": "non avercela con qualcuno",
+      "note": "en è obbligatorio"
+    },
+    {
+      "fr": "n'en avoir rien à faire",
+      "it": "non importarsene affatto, fregarsene",
+      "note": "registro familiare"
+    },
+    {
+      "fr": "être chaud pour",
+      "it": "essere entusiasta di, avere voglia di",
+      "note": "al negativo: non avere voglia di"
+    },
+    {
+      "fr": "par excellence",
+      "it": "per eccellenza",
+      "note": "si mette dopo il sostantivo"
+    },
+    {
+      "fr": "Qu'importe.",
+      "it": "Non importa.",
+      "note": "più elegante di peu importe"
+    },
+    {
+      "fr": "Revenons à notre sujet.",
+      "it": "Torniamo al nostro argomento.",
+      "note": "frase da riunione o discussione"
+    },
+    {
+      "fr": "tout de suite",
+      "it": "subito",
+      "note": "registro neutro"
+    },
+    {
+      "fr": "revenir cher",
+      "it": "costare caro",
+      "note": "registro neutro; si usa anche Ça revient cher"
+    },
+    {
+      "fr": "Les voyages forment la jeunesse.",
+      "it": "I viaggi formano la gioventù.",
+      "note": "proverbio"
+    }
+  ],
+  "notes_it": [
+    "Le pont de l'Ascension: in francese 'pont' indica anche il lungo weekend che si forma quando una festività cade di giovedì (come l'Ascensione, quaranta giorni dopo Pasqua) e si 'fa il ponte' fino alla domenica. La parola è la stessa del ponte architettonico: le pont.",
+    "Rendre visite à / visiter: 'visiter' si usa per i luoghi (visiter Nîmes, visitare Nîmes); 'rendre visite à' per le persone (far visita a qualcuno). In italiano 'visitare' va bene per entrambi, quindi è un errore tipico dire visiter ma nièce.",
+    "Être chaud non significa 'essere caldo' ma 'essere entusiasta' o 'avere voglia di'. Attenzione al falso amico: 'chaud' al negativo esprime poca voglia, non temperatura.",
+    "Registro: gamin e n'en avoir rien à faire sono familiari; Qu'importe e Revenons à notre sujet sono più formali; revenir cher è neutro. Il francese colloquiale usa spesso 'on' al posto di 'nous' (on prend, on va)."
+  ],
+  "exercises": [
+    {
+      "id": "L078-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronoun-order",
+      "prompt": "Quale forma dell'imperativo (tu) significa 'dammelo!'?",
+      "options": [
+        "Donne-moi-le !",
+        "Donne-le-moi !",
+        "Donne-lui-le !",
+        "Donne le-moi !"
+      ],
+      "correct": 1,
+      "explain_it": "All'imperativo affermativo il pronome COD (le) va prima di moi, con i trattini: donne-le-moi."
+    },
+    {
+      "id": "L078-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "prepositions",
+      "prompt": "Completa con la preposizione giusta: 'Je n'arrive pas ___ finir mon travail.'",
+      "options": [
+        "à",
+        "de",
+        "pour",
+        "en"
+      ],
+      "correct": 0,
+      "explain_it": "Arriver si costruisce con à davanti all'infinito: arriver à faire qqc. = riuscire a fare qualcosa."
+    },
+    {
+      "id": "L078-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronominal-verbs",
+      "prompt": "Quale frase significa 'Mi annoio molto in classe'?",
+      "options": [
+        "Je m'embête beaucoup en classe.",
+        "Je m'embêtes beaucoup en classe.",
+        "Je embête beaucoup en classe.",
+        "Je me embête beaucoup en classe."
+      ],
+      "correct": 0,
+      "explain_it": "S'embêter è pronominale: il pronome è m' davanti a vocale, e il verbo è alla prima persona (je m'embête). Senza pronome, embêter significa 'infastidire'."
+    },
+    {
+      "id": "L078-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "connectors",
+      "prompt": "Quale frase significa 'Visto che sei in ritardo, prendiamo un taxi'?",
+      "options": [
+        "Vu que tu es en retard, on prend un taxi.",
+        "Vu tu es en retard, on prend un taxi.",
+        "Vu que tu es en retard, on prends un taxi.",
+        "Vu de que tu es en retard, on prend un taxi."
+      ],
+      "correct": 0,
+      "explain_it": "Vu que significa 'visto che'; dopo on il verbo prendre è prend, non prends."
+    },
+    {
+      "id": "L078-e05",
+      "type": "order",
+      "level": 1,
+      "concept": "pronoun-order",
+      "prompt": "Passamelo, per favore!",
+      "answers": [
+        "Passe-le-moi s'il te plaît !",
+        "Passez-le-moi s'il vous plaît !"
+      ],
+      "distractors": [
+        "lui",
+        "moi-le"
+      ],
+      "explain_it": "All'imperativo: verbo, poi COD (le), poi il pronome di prima persona tonico (moi). Lui non va mai dopo moi."
+    },
+    {
+      "id": "L078-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "pronoun-en",
+      "prompt": "Non ce l'ho con te, lo sai.",
+      "answers": [
+        "Je ne t'en veux pas, tu sais."
+      ],
+      "distractors": [
+        "leur",
+        "lui"
+      ],
+      "explain_it": "En vouloir à qqn è 'avercela con qualcuno': il pronome en va prima del verbo, dopo t'."
+    },
+    {
+      "id": "L078-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "prepositions",
+      "prompt": "Vado a fare visita a mia zia domenica.",
+      "answers": [
+        "Je vais rendre visite à ma tante dimanche.",
+        "Je vais rendre visite à ma tante le dimanche."
+      ],
+      "distractors": [
+        "visiter",
+        "chez"
+      ],
+      "explain_it": "Per una persona si usa rendre visite à; visiter si usa per i luoghi."
+    },
+    {
+      "id": "L078-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "connectors",
+      "prompt": "Visto che fa bel tempo, andiamo in spiaggia.",
+      "answers": [
+        "Vu qu'il fait beau, on va à la plage."
+      ],
+      "distractors": [
+        "que",
+        "pour"
+      ],
+      "explain_it": "Vu que davanti a il diventa vu qu'il: l'elisione è obbligatoria."
+    },
+    {
+      "id": "L078-e09",
+      "type": "cloze",
+      "level": 1,
+      "concept": "pronoun-order",
+      "text": "Le livre ? Je ___ prête demain.",
+      "answers": [
+        "te le"
+      ],
+      "hint": "(pronomi: te + le)",
+      "prompt": "Il libro? Te lo presto domani.",
+      "explain_it": "Con due pronomi, la prima o seconda persona (te) precede il COD (le): te le."
+    },
+    {
+      "id": "L078-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "pronominal-verbs",
+      "text": "Je ne veux pas ___ ici toute la journée.",
+      "answers": [
+        "m'embêter",
+        "m'ennuyer"
+      ],
+      "hint": "(s'embêter, infinito)",
+      "prompt": "Non voglio annoiarmi qui tutto il giorno.",
+      "explain_it": "Con l'infinito il pronome riflessivo si mette davanti all'infinito e si elide davanti a vocale: m'embêter."
+    },
+    {
+      "id": "L078-e11",
+      "type": "write",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Questo albergo costa caro.",
+      "answers": [
+        "Cet hôtel revient cher.",
+        "Cet hôtel, ça revient cher.",
+        "Cet hôtel revient très cher.",
+        "Cet hôtel, ça revient très cher.",
+        "Cet hôtel coûte cher.",
+        "Cet hôtel, ça coûte cher."
+      ],
+      "explain_it": "Revenir cher (o très cher) significa 'costare caro'; coûter cher è il sinonimo più comune."
+    },
+    {
+      "id": "L078-e12",
+      "type": "write",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Lo voglio subito, per favore (tu).",
+      "answers": [
+        "Je le veux tout de suite, s'il te plaît.",
+        "Je le veux immédiatement, s'il te plaît."
+      ],
+      "explain_it": "Tout de suite significa 'subito'; s'il te plaît è la forma con tu."
+    },
+    {
+      "id": "L078-e13",
+      "type": "write",
+      "level": 1,
+      "concept": "prepositions",
+      "prompt": "Sono alla ricerca di un regalo per mia sorella.",
+      "answers": [
+        "Je suis à la recherche d'un cadeau pour ma sœur.",
+        "Je suis à la recherche d'un cadeau pour ma soeur."
+      ],
+      "explain_it": "Être à la recherche de: à la è obbligatorio perché recherche è femminile."
+    },
+    {
+      "id": "L078-e14",
+      "type": "write",
+      "level": 1,
+      "concept": "pronoun-order",
+      "prompt": "Diglielo subito (tu, a loro).",
+      "answers": [
+        "Dis-le-leur tout de suite !",
+        "Dis-le-leur immédiatement !"
+      ],
+      "explain_it": "All'imperativo il COD (le) precede il COI di terza persona (leur), con trattini."
+    },
+    {
+      "id": "L078-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-en",
+      "text": "Tu as des copains ? Oui, j'___ ai beaucoup.",
+      "answers": [
+        "en"
+      ],
+      "hint": "(pronome, prima di avoir)",
+      "prompt": "Hai degli amici? Sì, ne ho molti.",
+      "explain_it": "En sostituisce 'di amici' (una quantità) e si mette prima del verbo avoir, con elisione j'en."
+    },
+    {
+      "id": "L078-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "prepositions",
+      "text": "Je suis ___ recherche d'un bon restaurant.",
+      "answers": [
+        "à la"
+      ],
+      "hint": "(preposizione + articolo)",
+      "prompt": "Sono alla ricerca di un buon ristorante.",
+      "explain_it": "Essere alla ricerca di: à + la, perché recherche è femminile."
+    },
+    {
+      "id": "L078-e17",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-order",
+      "text": "Les clés ? Je ___ ai données hier.",
+      "answers": [
+        "les lui",
+        "les leur"
+      ],
+      "hint": "(COD + COI, participio concordato)",
+      "prompt": "Le chiavi? Gliele ho date ieri.",
+      "explain_it": "Il COD les precede lui/leur (gli/loro), e il participio données si accorda con les, che lo precede."
+    },
+    {
+      "id": "L078-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-en",
+      "prompt": "Non me ne importa niente, lo sai (registro familiare).",
+      "answers": [
+        "Je n'en ai rien à faire, [tu sais|tu le sais].",
+        "Je m'en fiche, [tu sais|tu le sais].",
+        "Je m'en moque, [tu sais|tu le sais]."
+      ],
+      "explain_it": "N'en avoir rien à faire è un'espressione fissa con en; m'en fiche è la versione più colloquiale."
+    },
+    {
+      "id": "L078-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "connectors",
+      "prompt": "Visto che non ho tempo, non vengo.",
+      "answers": [
+        "[Vu que|Comme|Puisque] je n'ai pas le temps, je ne viens pas.",
+        "[Vu que|Comme|Puisque] je n'ai pas le temps, je ne vais pas venir."
+      ],
+      "explain_it": "Vu que introduce la causa, seguito dall'indicativo come in italiano con 'visto che'."
+    },
+    {
+      "id": "L078-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "connectors",
+      "prompt": "Preferisco scrivere piuttosto che telefonare.",
+      "answers": [
+        "Je préfère écrire plutôt que [de|] téléphoner."
+      ],
+      "explain_it": "Plutôt que vuole de davanti all'infinito seguente: plutôt que de téléphoner."
+    },
+    {
+      "id": "L078-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "Non riesco ad addormentarmi stasera.",
+      "answers": [
+        "Je n'arrive pas à m'endormir ce soir."
+      ],
+      "explain_it": "Arriver à + infinito significa 'riuscire a'; la forma negativa è n'arrive pas à."
+    },
+    {
+      "id": "L078-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Loro (femminile plurale) si sono divertite molto.",
+      "answers": [
+        "Elles se sont beaucoup amusées.",
+        "Elles se sont énormément amusées."
+      ],
+      "explain_it": "Il passato composto con essere dei verbi pronominali concorda il participio con il soggetto: amusées al femminile plurale."
+    },
+    {
+      "id": "L078-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-order",
+      "prompt": "Glielo porto domani.",
+      "answers": [
+        "Je le lui apporte demain.",
+        "Demain, je le lui apporte.",
+        "Je le leur apporte demain.",
+        "Demain, je le leur apporte."
+      ],
+      "explain_it": "Il COD le precede il COI lui (o leur): glielo è ambiguo in italiano, quindi le due forme sono accettate."
+    },
+    {
+      "id": "L078-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "Vado spesso a trovare mia nonna.",
+      "answers": [
+        "Je rends souvent visite à ma grand-mère.",
+        "Je rends souvent visite à ma mamie.",
+        "Je vais souvent rendre visite à ma grand-mère.",
+        "Je vais souvent voir ma grand-mère.",
+        "Je vais souvent voir ma mamie."
+      ],
+      "explain_it": "Rendre visite si costruisce con à seguito dalla persona che si va a trovare."
+    },
+    {
+      "id": "L078-e25",
+      "type": "dictation",
+      "level": 2,
+      "concept": "pronoun-order",
+      "text": "Je le lui ai dit hier.",
+      "explain_it": "Con due pronomi il COD le precede il COI lui: je le lui ai dit."
+    },
+    {
+      "id": "L078-e26",
+      "type": "dictation",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "text": "Les enfants s'embêtent un peu à la maison.",
+      "explain_it": "S'embêter è pronominale: les enfants s'embêtent = i bambini si annoiano."
+    },
+    {
+      "id": "L078-e27",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronoun-order",
+      "front": "Ordine dei pronomi oggetto quando sono due",
+      "back": "1) me/te/nous/vous 2) le/la/les 3) lui/leur 4) y 5) en. Esempi: il me le donne; je la leur ai montrée; je le lui ai dit.",
+      "note": "All'imperativo affermativo i pronomi vanno dopo il verbo: donne-le-moi."
+    },
+    {
+      "id": "L078-e28",
+      "type": "flash",
+      "level": 2,
+      "concept": "prepositions",
+      "front": "Arriver + preposizione + infinito",
+      "back": "Arriver à + infinito = riuscire a. Al negativo: je n'arrive pas à + infinito = non riesco a.",
+      "note": "La stessa struttura regge anche l'espressione 'non ce la faccio a'."
+    },
+    {
+      "id": "L078-e29",
+      "type": "flash",
+      "level": 2,
+      "concept": "connectors",
+      "front": "Vu que / plutôt que (de) / qu'importe",
+      "back": "vu que = visto che (causa). plutôt que de + infinito = piuttosto che. qu'importe = non importa.",
+      "note": "Vu que davanti a il diventa vu qu'il."
+    },
+    {
+      "id": "L078-e30",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "front": "Embêter vs s'embêter",
+      "back": "embêter = infastidire, rompere. s'embêter = annoiarsi (je m'embête).",
+      "note": "Con il pronome riflessivo cambia completamente il significato del verbo."
+    },
+    {
+      "id": "L078-e31",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronoun-en",
+      "front": "En vouloir à qqn",
+      "back": "Avercela con qualcuno. Esempio: je ne t'en veux pas = non ce l'ho con te.",
+      "note": "Il pronome en non si traduce letteralmente: è parte fissa dell'espressione."
+    },
+    {
+      "id": "L078-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-order",
+      "prompt": "Non dirmelo adesso, dimmelo domani (tu).",
+      "answers": [
+        "Ne me le dis pas maintenant, dis-le-moi demain !"
+      ],
+      "explain_it": "Nella negativa ne precede i pronomi e pas segue il verbo; all'imperativo affermativo i pronomi vanno dopo il verbo."
+    },
+    {
+      "id": "L078-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-order",
+      "prompt": "L'ho mostrata a loro ieri (si parla di una foto).",
+      "answers": [
+        "Je la leur ai montrée hier.",
+        "Hier, je la leur ai montrée."
+      ],
+      "explain_it": "Il COD la precede il COI leur; il participio montrée si accorda con la, che lo precede."
+    },
+    {
+      "id": "L078-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-en",
+      "prompt": "Non ce l'ho con lei e non ce l'ho con te.",
+      "answers": [
+        "Je ne lui en veux pas et je ne t'en veux pas.",
+        "Je ne lui en veux pas, et je ne t'en veux pas."
+      ],
+      "explain_it": "En vouloir à qqn: i pronomi si dispongono come lui en / t'en, davanti al verbo, con la negazione ne ... pas intorno."
+    },
+    {
+      "id": "L078-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "prepositions",
+      "prompt": "Non riesco a ricordare il suo nome.",
+      "answers": [
+        "Je n'arrive pas à me rappeler son nom.",
+        "Je n'arrive pas à me souvenir de son nom."
+      ],
+      "explain_it": "Arriver à + infinito con un verbo pronominale: il pronome me va prima dell'infinito."
+    },
+    {
+      "id": "L078-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "connectors",
+      "prompt": "Visto che sono stanco, preferisco restare a casa piuttosto che uscire.",
+      "answers": [
+        "[Vu que|Comme|Puisque] je suis fatigué, je préfère [rester à la maison|rester chez moi] plutôt que [de|] sortir."
+      ],
+      "explain_it": "Vu que introduce la causa; plutôt que de + infinito esprime la scelta alternativa."
+    },
+    {
+      "id": "L078-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "pronominal-verbs",
+      "prompt": "Noi ci siamo divertiti molto a Parigi, ma i bambini si sono annoiati.",
+      "answers": [
+        "Nous nous sommes beaucoup amusés à Paris, mais les enfants se sont embêtés.",
+        "Nous nous sommes beaucoup amusés à Paris, mais les enfants se sont ennuyés."
+      ],
+      "explain_it": "Nel passato composto dei verbi pronominali con essere il participio concorda con il soggetto; con 'les enfants' (masc. plurale) resta al maschile plurale."
+    },
+    {
+      "id": "L078-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "prepositions",
+      "prompt": "Visto che non potete venire, andiamo noi a trovare la zia.",
+      "answers": [
+        "[Vu que|Comme|Puisque] vous ne pouvez pas venir, [nous allons|on va] [rendre visite à|voir] [notre|la] tante."
+      ],
+      "explain_it": "Rendre visite à + persona; vu que o comme introducono la causa."
+    },
+    {
+      "id": "L078-e39",
+      "type": "dictation",
+      "level": 3,
+      "concept": "pronoun-order",
+      "text": "Vu que tu es là, je te le donne tout de suite.",
+      "explain_it": "Con due pronomi: te (1a/2a persona) precede le: je te le donne."
+    },
+    {
+      "id": "L078-e40",
+      "type": "dictation",
+      "level": 3,
+      "concept": "pronominal-verbs",
+      "text": "Nous nous sommes amusés, mais ils se sont beaucoup embêtés.",
+      "explain_it": "Con i verbi pronominali al passé composé il participio concorda con il soggetto: amusés, embêtés (maschile plurale)."
+    },
+    {
+      "id": "L078-e41",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Torniamo al nostro argomento: il viaggio a Nîmes.",
+      "answers": [
+        "Revenons à notre sujet : le voyage à Nîmes.",
+        "Revenons à notre sujet, le voyage à Nîmes."
+      ],
+      "explain_it": "Revenons à notre sujet è la formula standard per riportare la discussione al tema principale."
+    },
+    {
+      "id": "L078-e42",
+      "type": "flash",
+      "level": 3,
+      "concept": "pronoun-order",
+      "front": "Negazione con due pronomi oggetto",
+      "back": "ne + pronomi + verbo + pas (ne me le donne pas). All'imperativo affermativo: verbo + pronomi con trattini (donne-le-moi).",
+      "note": "Il pronome ne si mette sempre davanti al primo pronome oggetto."
+    },
+    {
+      "id": "L078-e43",
+      "type": "flash",
+      "level": 3,
+      "concept": "idioms",
+      "front": "N'en avoir rien à faire / être chaud pour",
+      "back": "n'en avoir rien à faire = fregarsene, non importarsene affatto. être chaud pour = essere entusiasta di; in negativo, non avere voglia di.",
+      "note": "Chaud qui non significa 'caldo': è un falso amico per gli italiani."
+    },
+    {
+      "id": "L078-e44",
+      "type": "cloze",
+      "level": 3,
+      "concept": "pronoun-order",
+      "text": "Les cartes postales ? Nous ___ envoyons pas aujourd'hui.",
+      "answers": [
+        "ne les leur",
+        "ne les lui"
+      ],
+      "hint": "(negazione + COD + COI)",
+      "prompt": "Le cartoline? Non gliele mandiamo oggi.",
+      "explain_it": "Nella frase negativa il ne precede i due pronomi (les leur) e il pas segue il verbo."
+    },
+    {
+      "id": "L078-e45",
+      "type": "cloze",
+      "level": 3,
+      "concept": "prepositions",
+      "text": "Je n'___ pas à convaincre mes parents.",
+      "answers": [
+        "arrive"
+      ],
+      "hint": "(arriver, presente)",
+      "prompt": "Non riesco a convincere i miei genitori.",
+      "explain_it": "Arriver à + infinito significa 'riuscire a'; la negazione avvolge il verbo: n'arrive pas."
+    },
+    {
+      "id": "L078-e46",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "text": "L'an passé, ils ___ à Nîmes.",
+      "answers": [
+        "se sont amusés"
+      ],
+      "hint": "(s'amuser, passato composto)",
+      "prompt": "L'anno scorso si sono divertiti a Nîmes.",
+      "explain_it": "Il passato composto dei verbi pronominali usa essere e il participio concorda con il soggetto; qui è maschile plurale."
+    }
+  ]
+}

@@ -1,0 +1,746 @@
+{
+  "n": 72,
+  "title_fr": "Ça ne se fait pas !",
+  "title_it": "Così non si fa!",
+  "review": false,
+  "status": "verified",
+  "source": "a1be3e47 pdf 38-44 (libro p.411-417; in fondo a p.417 solo l'inizio della lezione 73, e la risposta all'esercizio 2 a p.418 non è in questo intervallo)",
+  "theme_it": "Éric Camus lascia l'azienda alla fine del mese e i colleghi organizzano per lui un pot de départ a mezzogiorno. Si discute chi prepara la festa, il buffet ordinato a un catering, il regalo e il discorso, e alla fine un collega ricorda che in azienda si parla francese. Il tono è quotidiano e cordiale, con qualche battuta ironica.",
+  "grammar": [
+    {
+      "id": "passive",
+      "title_it": "Il passivo e i suoi agenti",
+      "explain_it": "In francese il passivo si forma come in italiano: essere coniugato + participio passato, che concorda con il soggetto (le contrat a été signé). L'agente, cioè chi compie l'azione, si introduce con par: par le directeur. Con i verbi che esprimono un sentimento o un'emozione (aimer, apprécier, respecter) l'agente va con de: il est apprécié de ses collègues. Il francese usa spesso anche il pronome se alla terza persona singolare (tout se fait en français) al posto del passivo, soprattutto quando non si sa chi agisce o non interessa.",
+      "examples": [
+        {
+          "fr": "Le contrat a été signé par la directrice.",
+          "it": "Il contratto è stato firmato dalla direttrice."
+        },
+        {
+          "fr": "Il est apprécié de tous.",
+          "it": "È apprezzato da tutti."
+        },
+        {
+          "fr": "Ici, le pain se vend le matin.",
+          "it": "Qui il pane si vende al mattino."
+        }
+      ]
+    },
+    {
+      "id": "emphasis",
+      "title_it": "C'est ... qui: mettere in evidenza il soggetto",
+      "explain_it": "Per mettere in primo piano chi compie l'azione si usa c'est (singolare) o ce sont (plurale) + soggetto + qui + verbo. Il verbo dopo qui concorda con il soggetto messo in evidenza (C'est nous qui allons...). In italiano si rende con «è ... che»: c'est Marta qui gère le service = è Marta che gestisce il servizio. Con i pronomi tonici di 1a e 2a persona si usa c'est (C'est vous qui...) e il verbo concorda con la persona.",
+      "examples": [
+        {
+          "fr": "C'est nous qui allons tout préparer.",
+          "it": "Siamo noi che prepareremo tutto."
+        },
+        {
+          "fr": "Ce sont les collègues qui organisent la fête.",
+          "it": "Sono i colleghi che organizzano la festa."
+        },
+        {
+          "fr": "C'est Marta qui gère le service.",
+          "it": "È Marta che gestisce il servizio."
+        }
+      ]
+    },
+    {
+      "id": "adverbs",
+      "title_it": "Aussitôt e le altre forme di tempo",
+      "explain_it": "Aussitôt, formato da aussi + tôt, significa 'subito, immediatamente' e indica il tempo. Non va confuso con aussi, che vuol dire 'anche'. Si usa spesso in espressioni fisse e può essere sostituito da immédiatement. In una frase semplice si colloca dopo il verbo: il a répondu aussitôt.",
+      "examples": [
+        {
+          "fr": "Il a répondu aussitôt.",
+          "it": "Ha risposto subito."
+        },
+        {
+          "fr": "Elle est partie aussitôt après la réunion.",
+          "it": "È partita subito dopo la riunione."
+        },
+        {
+          "fr": "Moi aussi, je suis d'accord.",
+          "it": "Anch'io sono d'accordo."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Faire appel à e faire de grandes choses",
+      "explain_it": "Faire appel à qualcuno significa ricorrere a qualcuno per un aiuto o una competenza; la preposizione è à e appel non ha articolo. Faire de grandes choses significa 'fare grandi cose'. Non confonderlo con l'espressione negativa ne pas faire grand-chose ('non fare granché'), in cui grand-chose è invariabile.",
+      "examples": [
+        {
+          "fr": "On fait appel à un traducteur.",
+          "it": "Si ricorre a un traduttore."
+        },
+        {
+          "fr": "Il a fait de grandes choses.",
+          "it": "Ha fatto grandi cose."
+        },
+        {
+          "fr": "Il ne fait pas grand-chose ce matin.",
+          "it": "Questa mattina non fa granché."
+        }
+      ]
+    },
+    {
+      "id": "false-friends",
+      "title_it": "Falsi amici: postuler, entreprise, humour e humeur",
+      "explain_it": "Alcune parole sembrano italiane ma hanno un significato diverso. Postuler significa candidarsi a un posto (postuler à / pour un poste), non 'postulare'. Entreprise indica l'azienda. L'humour è il senso dell'umorismo, mentre l'humeur è l'umore e lo stato d'animo: être de bonne humeur, avoir de l'humour.",
+      "examples": [
+        {
+          "fr": "Je postule pour un poste de comptable.",
+          "it": "Mi candido per un posto da contabile."
+        },
+        {
+          "fr": "Elle a beaucoup d'humour.",
+          "it": "Ha molto senso dell'umorismo."
+        },
+        {
+          "fr": "Aujourd'hui, je suis de mauvaise humeur.",
+          "it": "Oggi sono di cattivo umore."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "un pot",
+      "it": "un drink, un bicchiere (spesso alcolico)",
+      "pos": "n"
+    },
+    {
+      "fr": "un pot de départ",
+      "it": "una festa di addio",
+      "pos": "n"
+    },
+    {
+      "fr": "un lustre",
+      "it": "un lustro (cinque anni); un lampadario",
+      "pos": "n",
+      "note": "usato soprattutto in depuis des lustres"
+    },
+    {
+      "fr": "quitter",
+      "it": "lasciare, andarsene da",
+      "pos": "v",
+      "note": "je quitte"
+    },
+    {
+      "fr": "souhaiter",
+      "it": "augurare",
+      "pos": "v"
+    },
+    {
+      "fr": "la chance",
+      "it": "la fortuna",
+      "pos": "n"
+    },
+    {
+      "fr": "gérer",
+      "it": "gestire",
+      "pos": "v",
+      "note": "il gère"
+    },
+    {
+      "fr": "le service",
+      "it": "il reparto, il servizio",
+      "pos": "n"
+    },
+    {
+      "fr": "rejoindre",
+      "it": "raggiungere, unirsi a",
+      "pos": "v",
+      "note": "il nous a rejoints"
+    },
+    {
+      "fr": "une dizaine",
+      "it": "una decina",
+      "pos": "n"
+    },
+    {
+      "fr": "auparavant",
+      "it": "prima, in precedenza",
+      "pos": "adv"
+    },
+    {
+      "fr": "un salarié",
+      "it": "un dipendente",
+      "pos": "n"
+    },
+    {
+      "fr": "une compagnie",
+      "it": "una compagnia, una società",
+      "pos": "n"
+    },
+    {
+      "fr": "une assurance",
+      "it": "un'assicurazione",
+      "pos": "n"
+    },
+    {
+      "fr": "l'avancement (m.)",
+      "it": "l'avanzamento di carriera, la promozione",
+      "pos": "n"
+    },
+    {
+      "fr": "postuler",
+      "it": "candidarsi",
+      "pos": "v",
+      "note": "postuler à / pour un poste"
+    },
+    {
+      "fr": "embaucher",
+      "it": "assumere",
+      "pos": "v"
+    },
+    {
+      "fr": "apprécier",
+      "it": "apprezzare",
+      "pos": "v",
+      "note": "être apprécié de"
+    },
+    {
+      "fr": "se disputer",
+      "it": "litigare",
+      "pos": "v",
+      "note": "il ne se dispute jamais"
+    },
+    {
+      "fr": "le traiteur",
+      "it": "il catering, il fornitore di banchetti",
+      "pos": "n"
+    },
+    {
+      "fr": "le buffet",
+      "it": "il buffet",
+      "pos": "n"
+    },
+    {
+      "fr": "livrer",
+      "it": "consegnare",
+      "pos": "v"
+    },
+    {
+      "fr": "un petit four",
+      "it": "un pasticcino salato o dolce da aperitivo",
+      "pos": "n"
+    },
+    {
+      "fr": "un comité",
+      "it": "un comitato",
+      "pos": "n"
+    },
+    {
+      "fr": "un discours",
+      "it": "un discorso",
+      "pos": "n"
+    },
+    {
+      "fr": "un cadeau",
+      "it": "un regalo",
+      "pos": "n"
+    },
+    {
+      "fr": "une entreprise",
+      "it": "un'azienda",
+      "pos": "n"
+    },
+    {
+      "fr": "l'humeur (f.)",
+      "it": "l'umore, lo stato d'animo",
+      "pos": "n"
+    },
+    {
+      "fr": "l'humour (m.)",
+      "it": "il senso dell'umorismo",
+      "pos": "n"
+    },
+    {
+      "fr": "aussitôt",
+      "it": "subito, immediatamente",
+      "pos": "adv"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Ça ne se fait pas !",
+      "it": "Così non si fa!",
+      "note": "si usa per dire che un comportamento non è educato o corretto"
+    },
+    {
+      "fr": "depuis des lustres",
+      "it": "da un'eternità, da secoli",
+      "note": "sempre al plurale; registro familiare"
+    },
+    {
+      "fr": "au plus tard",
+      "it": "al più tardi",
+      "note": "locuzione di tempo, per scadenze"
+    },
+    {
+      "fr": "Il ne faut pas exagérer.",
+      "it": "Non esageriamo.",
+      "note": "tono di ridimensionamento, spesso ironico"
+    },
+    {
+      "fr": "Il est préférable de",
+      "it": "è preferibile, è meglio",
+      "note": "seguito dall'infinito"
+    },
+    {
+      "fr": "dans les années à venir",
+      "it": "negli anni a venire",
+      "note": "formula da augurio o da discorso di saluto"
+    },
+    {
+      "fr": "de bonne humeur",
+      "it": "di buon umore",
+      "note": "il contrario è de mauvaise humeur"
+    },
+    {
+      "fr": "On me dit que",
+      "it": "mi dicono che",
+      "note": "per riferire una voce"
+    },
+    {
+      "fr": "Aussitôt dit, aussitôt fait !",
+      "it": "Detto fatto!",
+      "note": "detto popolare d'uso comune"
+    }
+  ],
+  "notes_it": [
+    "Un pot, in francese colloquiale, è spesso un drink da bere insieme (prendre un pot). Un pot de départ è la festa di saluto per chi lascia l'azienda.",
+    "Falsi amici: postuler vuol dire candidarsi, non 'postulare'; entreprise indica l'azienda in senso concreto.",
+    "Pronuncia: province e Provence si distinguono per la vocale nasale. In province la vocale nasale è -in- (come in vin), in Provence è -an- (come in chant). Non confonderle.",
+    "Lustre usato al plurale in depuis des lustres significa 'da tantissimo tempo'. In altri contesti il sostantivo indica la lucentezza o un lampadario: il contesto aiuta.",
+    "Nel dialogo la festa d'addio è organizzata dai colleghi a mezzogiorno con buffet ordinato a un catering: è una consuetudine di cortesia in azienda, non un obbligo."
+  ],
+  "exercises": [
+    {
+      "id": "L072-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "passive",
+      "prompt": "Scegli la preposizione: Le discours a été lu ___ le président.",
+      "options": [
+        "par",
+        "de",
+        "à",
+        "pour"
+      ],
+      "correct": 0,
+      "explain_it": "Con un verbo d'azione al passivo l'agente si introduce con par, non con de."
+    },
+    {
+      "id": "L072-e02",
+      "type": "cloze",
+      "level": 1,
+      "concept": "passive",
+      "text": "Tout ___ en français dans notre bureau.",
+      "answers": [
+        "se fait"
+      ],
+      "hint": "(faire, presente, con il pronome se)",
+      "prompt": "Tutto si fa in francese nel nostro ufficio.",
+      "explain_it": "Il pronome se con il verbo alla terza persona singolare sostituisce il passivo quando l'agente non conta."
+    },
+    {
+      "id": "L072-e03",
+      "type": "order",
+      "level": 1,
+      "concept": "passive",
+      "prompt": "Il progetto è stato approvato dal comitato.",
+      "answers": [
+        "Le projet a été approuvé par le comité."
+      ],
+      "distractors": [
+        "de",
+        "sont"
+      ],
+      "explain_it": "Il participio approuvé segue essere coniugato e l'agente va con par."
+    },
+    {
+      "id": "L072-e04",
+      "type": "cloze",
+      "level": 1,
+      "concept": "passive",
+      "text": "Le buffet ___ commandé chez un traiteur.",
+      "answers": [
+        "a été"
+      ],
+      "hint": "(être, passato prossimo)",
+      "prompt": "Il buffet è stato ordinato da un catering.",
+      "explain_it": "Il passivo al passato prossimo si costruisce con essere (a été) + participio passato."
+    },
+    {
+      "id": "L072-e05",
+      "type": "write",
+      "level": 2,
+      "concept": "passive",
+      "prompt": "Il regalo è stato scelto da un collega.",
+      "answers": [
+        "Le cadeau a été choisi par un collègue."
+      ],
+      "explain_it": "Il participio choisi concorda con le cadeau; l'agente con par."
+    },
+    {
+      "id": "L072-e06",
+      "type": "write",
+      "level": 2,
+      "concept": "passive",
+      "prompt": "Il biglietto si compra online.",
+      "answers": [
+        "Le billet s'achète [en ligne|sur Internet]."
+      ],
+      "explain_it": "Con il pronome se alla terza persona singolare si esprime il passivo senza agente."
+    },
+    {
+      "id": "L072-e07",
+      "type": "write",
+      "level": 3,
+      "concept": "passive",
+      "prompt": "Il rapporto è stato scritto dalla direttrice.",
+      "answers": [
+        "Le rapport a été écrit par la directrice.",
+        "Le rapport a été rédigé par la directrice."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Il passivo con agente richiede essere, participio concordato e par davanti all'agente."
+    },
+    {
+      "id": "L072-e08",
+      "type": "dictation",
+      "level": 3,
+      "concept": "passive",
+      "text": "Le buffet sera commandé chez un traiteur du quartier.",
+      "explain_it": "Il futuro semplice del passivo si forma con sera + participio passato concordato."
+    },
+    {
+      "id": "L072-e09",
+      "type": "flash",
+      "level": 2,
+      "concept": "passive",
+      "front": "Passivo francese: come si costruisce?",
+      "back": "essere coniugato + participio passato concordato col soggetto; l'agente con par (es. Le contrat a été signé par la directrice). Con i verbi di sentimento come apprécier o aimer l'agente va con de (es. Il est apprécié de ses collègues).",
+      "note": "Il se impersonale è un'alternativa: Tout se fait en français."
+    },
+    {
+      "id": "L072-e10",
+      "type": "mcq",
+      "level": 1,
+      "concept": "emphasis",
+      "prompt": "Come si dice 'È stato Éric a proporre l'idea'?",
+      "options": [
+        "C'est Éric qui a proposé l'idée.",
+        "C'est Éric que a proposé l'idée.",
+        "C'est Éric qui a été proposé l'idée.",
+        "Éric c'est qui a proposé l'idée."
+      ],
+      "correct": 0,
+      "explain_it": "Nella costruzione c'est ... qui il pronome è qui perché è il soggetto dell'azione."
+    },
+    {
+      "id": "L072-e11",
+      "type": "cloze",
+      "level": 2,
+      "concept": "emphasis",
+      "text": "C'est vous ___ avez choisi le menu ?",
+      "answers": [
+        "qui"
+      ],
+      "hint": "(pronome relativo soggetto)",
+      "prompt": "Siete voi che avete scelto il menu?",
+      "explain_it": "Dopo c'est + soggetto si usa qui quando il soggetto compie l'azione."
+    },
+    {
+      "id": "L072-e12",
+      "type": "order",
+      "level": 2,
+      "concept": "emphasis",
+      "prompt": "È il direttore che ha scelto il regalo.",
+      "answers": [
+        "C'est le directeur qui a choisi le cadeau."
+      ],
+      "distractors": [
+        "que",
+        "sont"
+      ],
+      "explain_it": "Con il soggetto singolare si usa c'est e poi qui prima del verbo."
+    },
+    {
+      "id": "L072-e13",
+      "type": "write",
+      "level": 2,
+      "concept": "emphasis",
+      "prompt": "È Éric che ha pagato il buffet.",
+      "answers": [
+        "C'est Éric qui a payé le buffet."
+      ],
+      "explain_it": "Con c'est e qui si mette in evidenza il soggetto, senza usare il passivo."
+    },
+    {
+      "id": "L072-e14",
+      "type": "write",
+      "level": 3,
+      "concept": "emphasis",
+      "prompt": "Sono i colleghi che organizzeranno la festa.",
+      "answers": [
+        "Ce sont les collègues qui organiseront la fête.",
+        "Ce sont les collègues qui vont organiser la fête."
+      ],
+      "explain_it": "Con il soggetto plurale si usa ce sont, e il verbo segue la persona del soggetto (les collègues, terza plurale)."
+    },
+    {
+      "id": "L072-e15",
+      "type": "flash",
+      "level": 2,
+      "concept": "emphasis",
+      "front": "Quando si usa c'est ... qui invece del passivo?",
+      "back": "Per mettere in primo piano chi compie l'azione: C'est + soggetto + qui + verbo (es. C'est Marta qui gère le service). Al plurale si usa ce sont.",
+      "note": ""
+    },
+    {
+      "id": "L072-e16",
+      "type": "mcq",
+      "level": 1,
+      "concept": "adverbs",
+      "prompt": "Quale avverbio significa 'subito'?",
+      "options": [
+        "aussitôt",
+        "aussi",
+        "autant",
+        "ensuite"
+      ],
+      "correct": 0,
+      "explain_it": "Aussitôt indica il tempo; aussi significa 'anche' e ensuite significa 'poi'."
+    },
+    {
+      "id": "L072-e17",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adverbs",
+      "text": "Dès qu'il a vu la lettre, il a répondu ___.",
+      "answers": [
+        "aussitôt",
+        "immédiatement"
+      ],
+      "hint": "(avverbio di tempo)",
+      "prompt": "Appena ha visto la lettera, ha risposto subito.",
+      "explain_it": "Aussitôt e immédiatement indicano entrambi la rapidità dell'azione."
+    },
+    {
+      "id": "L072-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "adverbs",
+      "prompt": "Ho chiamato subito il traiteur.",
+      "answers": [
+        "J'ai [aussitôt|immédiatement|tout de suite] appelé le traiteur.",
+        "J'ai appelé le traiteur [aussitôt|immédiatement|tout de suite]."
+      ],
+      "explain_it": "L'avverbio di tempo può stare prima del participio o dopo il complemento; aussitôt, immédiatement e tout de suite sono sinonimi."
+    },
+    {
+      "id": "L072-e19",
+      "type": "dictation",
+      "level": 2,
+      "concept": "adverbs",
+      "text": "Il a répondu aussitôt, sans hésiter.",
+      "explain_it": "Aussitôt indica la rapidità della risposta e si usa spesso subito dopo il verbo."
+    },
+    {
+      "id": "L072-e20",
+      "type": "flash",
+      "level": 2,
+      "concept": "adverbs",
+      "front": "Aussitôt o aussi?",
+      "back": "aussitôt = subito, immediatamente (tempo): aussitôt après. aussi = anche (aggiunta): moi aussi. Non sono intercambiabili.",
+      "note": ""
+    },
+    {
+      "id": "L072-e21",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Scegli il verbo: Nous avons ___ appel à un expert.",
+      "options": [
+        "fait",
+        "pris",
+        "donné",
+        "mis"
+      ],
+      "correct": 0,
+      "explain_it": "L'espressione fissa è faire appel à, non prendre appel."
+    },
+    {
+      "id": "L072-e22",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Pour traduire ce texte, on fait ___ à un traducteur.",
+      "answers": [
+        "appel"
+      ],
+      "hint": "(faire appel à)",
+      "prompt": "Per tradurre questo testo, si ricorre a un traduttore.",
+      "explain_it": "Appel è senza articolo nell'espressione faire appel à."
+    },
+    {
+      "id": "L072-e23",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Ieri ho chiesto aiuto a un esperto per il contratto.",
+      "answers": [
+        "Hier, j'ai fait appel à un [expert|spécialiste] pour le contrat.",
+        "J'ai fait appel à un [expert|spécialiste] hier pour le contrat.",
+        "Hier, j'ai demandé de l'aide à un [expert|spécialiste] pour le contrat."
+      ],
+      "explain_it": "Il passato prossimo di faire con avoir (ai fait) regge l'espressione fissa faire appel à."
+    },
+    {
+      "id": "L072-e24",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Ha fatto grandi cose per l'azienda.",
+      "answers": [
+        "[Il|Elle] a fait de grandes choses pour l'[entreprise|société]."
+      ],
+      "explain_it": "Con grandes choses il plurale di grand precede il sostantivo e la preposizione è de."
+    },
+    {
+      "id": "L072-e25",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Qui non si fa così.",
+      "answers": [
+        "Ça ne se fait pas ici.",
+        "Ici, ça ne se fait pas."
+      ],
+      "distractors": [
+        "fais",
+        "on"
+      ],
+      "explain_it": "Ça ne se fait pas è la formula fissa per dire che una cosa non è corretta."
+    },
+    {
+      "id": "L072-e26",
+      "type": "mcq",
+      "level": 1,
+      "concept": "false-friends",
+      "prompt": "Come si dice 'è di buon umore'?",
+      "options": [
+        "Il est de bonne humeur.",
+        "Il est de bon humour.",
+        "Il est très humide.",
+        "Il a beaucoup d'humour."
+      ],
+      "correct": 0,
+      "explain_it": "L'umore è humeur (femminile), mentre humour è il senso dell'umorismo."
+    },
+    {
+      "id": "L072-e27",
+      "type": "write",
+      "level": 3,
+      "concept": "false-friends",
+      "prompt": "Anche se è stanco, è sempre di buon umore.",
+      "answers": [
+        "Même s'il est fatigué, il est toujours de bonne humeur.",
+        "Même si elle est fatiguée, elle est toujours de bonne humeur."
+      ],
+      "explain_it": "Di buon umore si dice de bonne humeur: humeur, non humour."
+    },
+    {
+      "id": "L072-e28",
+      "type": "write",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "Mi candido per il posto di responsabile.",
+      "answers": [
+        "Je postule pour le poste de responsable.",
+        "Je postule au poste de responsable.",
+        "Je pose ma candidature pour le poste de responsable."
+      ],
+      "explain_it": "Postuler significa candidarsi, non 'postulare' nel senso italiano."
+    },
+    {
+      "id": "L072-e29",
+      "type": "cloze",
+      "level": 2,
+      "concept": "false-friends",
+      "text": "Marta a ___ pour le poste de comptable, et elle a été embauchée.",
+      "answers": [
+        "postulé"
+      ],
+      "hint": "(postuler, passato prossimo)",
+      "prompt": "Marta si è candidata per il posto di contabile e l'hanno assunta.",
+      "explain_it": "Postuler si coniuga con avoir al passato prossimo: a postulé."
+    },
+    {
+      "id": "L072-e30",
+      "type": "write",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "Lavoro in un'azienda moderna.",
+      "answers": [
+        "Je travaille dans une [entreprise|société] moderne."
+      ],
+      "explain_it": "Entreprise e société indicano entrambi l'azienda, quindi sono intercambiabili in questo contesto."
+    },
+    {
+      "id": "L072-e31",
+      "type": "flash",
+      "level": 2,
+      "concept": "false-friends",
+      "front": "Falsi amici: postuler, entreprise, humour, humeur",
+      "back": "postuler = candidarsi (non 'postulare'); entreprise = azienda; humour = senso dell'umorismo; humeur = umore. Es.: être de bonne humeur / avoir de l'humour.",
+      "note": ""
+    },
+    {
+      "id": "L072-e32",
+      "type": "cloze",
+      "level": 2,
+      "concept": "depuis-il-y-a",
+      "text": "Je ne l'ai pas vu ___ des lustres.",
+      "answers": [
+        "depuis"
+      ],
+      "hint": "(preposizione: da)",
+      "prompt": "Non l'ho visto da secoli.",
+      "explain_it": "Depuis des lustres significa «da secoli»; con una negazione al passato prossimo (je ne l'ai pas vu) si usa depuis + durata."
+    },
+    {
+      "id": "L072-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "depuis-il-y-a",
+      "prompt": "Lavoro in questa azienda da dieci anni.",
+      "answers": [
+        "Je travaille dans cette [entreprise|société] depuis dix ans."
+      ],
+      "explain_it": "Con depuis e il presente si indica un'azione iniziata nel passato e ancora in corso."
+    },
+    {
+      "id": "L072-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "il-faut",
+      "prompt": "Non bisogna esagerare con il buffet, sarà già abbondante.",
+      "answers": [
+        "Il ne faut pas exagérer avec le buffet, il sera [déjà|] [copieux|abondant]."
+      ],
+      "explain_it": "Il ne faut pas è la forma impersonale di 'bisogna non' seguita dall'infinito."
+    },
+    {
+      "id": "L072-e35",
+      "type": "dictation",
+      "level": 2,
+      "concept": "il-faut",
+      "text": "Il faut préparer les petits fours avant onze heures.",
+      "explain_it": "Il faut seguito dall'infinito esprime un obbligo impersonale."
+    }
+  ]
+}

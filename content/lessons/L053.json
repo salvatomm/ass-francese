@@ -1,0 +1,894 @@
+{
+  "n": 53,
+  "title_fr": "Je ne ferai plus jamais ça !",
+  "title_it": "Non lo farò mai più!",
+  "review": false,
+  "status": "verified",
+  "source": "1db59936 pdf 94-99 (libro p.275-280)",
+  "theme_it": "Una persona annuncia che andrà a fare la spesa come al solito, ma per i prodotti di tutti i giorni preferisce ordinare online. Il fornitore conferma la consegna della settimana successiva; in casa si discute dove sistemare le scatole e poi si scopre che un ordine non è corretto. La lezione introduce il futuro semplice dei verbi irregolari e di quelli in -re, insieme a aucun, tout e ad alcune espressioni fisse.",
+  "grammar": [
+    {
+      "id": "futur-simple",
+      "title_it": "Futuro semplice: faire, aller, être",
+      "explain_it": "Questi tre verbi hanno una radice irregolare ma le desinenze regolari del futuro: fer- per faire, ir- per aller, ser- per être. Le desinenze sono sempre -ai, -as, -a, -ons, -ez, -ont. Il futuro semplice corrisponde all'italiano (farò, andrò, sarò) e non va confuso con aller + infinito, il futuro prossimo (je vais faire = vado a fare, sto per fare).",
+      "examples": [
+        {
+          "fr": "Demain, je ferai mes courses.",
+          "it": "Domani farò la spesa."
+        },
+        {
+          "fr": "Nous irons au marché samedi.",
+          "it": "Andremo al mercato sabato."
+        },
+        {
+          "fr": "Vous serez là à huit heures ?",
+          "it": "Sarete lì alle otto?"
+        }
+      ]
+    },
+    {
+      "id": "spelling-accents",
+      "title_it": "Futuro dei verbi in -re e cambi di ortografia",
+      "explain_it": "Nei verbi in -re si toglie solo la -e finale dell'infinito prima delle desinenze: prendre diventa je prendrai, tu prendras, il prendra (la r resta). I verbi regolari in -ir e in -er mantengono l'infinito intero: je choisirai, je validerai. Alcuni verbi in -er cambiano ortografia: acheter diventa j'achèterai (accento grave); essayer ammette j'essaierai o j'essayerai.",
+      "examples": [
+        {
+          "fr": "Je prendrai le train de dix heures.",
+          "it": "Prenderò il treno delle dieci."
+        },
+        {
+          "fr": "J'achèterai du pain demain.",
+          "it": "Comprerò del pane domani."
+        }
+      ]
+    },
+    {
+      "id": "negation-other",
+      "title_it": "Aucun e aucune: nessuno, nessuna",
+      "explain_it": "Aucun (m.) e aucune (f.) significano nessuno, nessuna e vogliono ne davanti al verbo, senza pas: je n'ai aucune idée. Si usano con un nome (aucune idée) o con de/des + plurale per dire 'nessuno di': aucune de ces robes ne me plaît; aucun des deux. Come in italiano (non ho nessuna idea) c'è una negazione davanti al verbo, ma in francese è sempre ne, mai pas. Quando aucun è soggetto, il verbo resta al singolare.",
+      "examples": [
+        {
+          "fr": "Je n'ai aucune idée de l'heure.",
+          "it": "Non ho nessuna idea dell'ora."
+        },
+        {
+          "fr": "Elle n'aime aucun des deux films.",
+          "it": "Non le piace nessuno dei due film."
+        }
+      ]
+    },
+    {
+      "id": "tout",
+      "title_it": "Tout come avverbio: tout près, tout au fond",
+      "explain_it": "Quando tout significa 'proprio, del tutto' o indica una posizione o una distanza, è un avverbio e resta invariabile: il magasin est tout près d'ici. Si accorda solo davanti a un aggettivo femminile che inizia per consonante, come in elle est toute seule. L'italiano usa 'proprio' o 'del tutto' per lo stesso effetto.",
+      "examples": [
+        {
+          "fr": "Le café est tout près de la gare.",
+          "it": "Il bar è proprio vicino alla stazione."
+        },
+        {
+          "fr": "La cuisine est tout au fond du couloir.",
+          "it": "La cucina è proprio in fondo al corridoio."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Espressioni fisse: simple comme bonjour, bonjour les dégâts",
+      "explain_it": "In queste espressioni bonjour non significa il saluto: c'est simple comme bonjour vuol dire 'è semplicissimo' (lett. semplice come buongiorno), mentre bonjour les dégâts è una battuta ironica per 'ci mancava anche questo', detta quando qualcosa va storto. Vanno imparate come blocchi, perché non si traducono parola per parola.",
+      "examples": [
+        {
+          "fr": "Pour moi, c'est simple comme bonjour.",
+          "it": "Per me è semplicissimo."
+        },
+        {
+          "fr": "Bonjour les dégâts ! La voiture est en panne.",
+          "it": "Ci mancava anche questo! La macchina è in panne."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "faire les courses",
+      "it": "fare la spesa",
+      "pos": "expr",
+      "note": "anche faire ses courses"
+    },
+    {
+      "fr": "le supermarché",
+      "it": "il supermercato",
+      "pos": "n"
+    },
+    {
+      "fr": "le poisson",
+      "it": "il pesce",
+      "pos": "n"
+    },
+    {
+      "fr": "la charcuterie",
+      "it": "la salumeria, i salumi",
+      "pos": "n",
+      "note": "anche il reparto carni lavorate"
+    },
+    {
+      "fr": "le pâté",
+      "it": "il paté",
+      "pos": "n"
+    },
+    {
+      "fr": "le saucisson",
+      "it": "il salame",
+      "pos": "n"
+    },
+    {
+      "fr": "l'abricot (m.)",
+      "it": "l'albicocca",
+      "pos": "n"
+    },
+    {
+      "fr": "le raisin",
+      "it": "l'uva",
+      "pos": "n"
+    },
+    {
+      "fr": "le rayon",
+      "it": "il reparto, lo scaffale",
+      "pos": "n",
+      "note": "rayon frais = reparto freschi"
+    },
+    {
+      "fr": "l'épicerie (f.)",
+      "it": "il negozio di alimentari",
+      "pos": "n"
+    },
+    {
+      "fr": "les conserves (f. pl.)",
+      "it": "le conserve",
+      "pos": "n"
+    },
+    {
+      "fr": "le poivre",
+      "it": "il pepe",
+      "pos": "n"
+    },
+    {
+      "fr": "la moutarde",
+      "it": "la senape",
+      "pos": "n"
+    },
+    {
+      "fr": "la farine",
+      "it": "la farina",
+      "pos": "n"
+    },
+    {
+      "fr": "les pâtes (f. pl.)",
+      "it": "la pasta",
+      "pos": "n",
+      "note": "la pasta alimentare"
+    },
+    {
+      "fr": "le dentifrice",
+      "it": "il dentifricio",
+      "pos": "n"
+    },
+    {
+      "fr": "l'huile d'olive (f.)",
+      "it": "l'olio d'oliva",
+      "pos": "n"
+    },
+    {
+      "fr": "le papier toilette",
+      "it": "la carta igienica",
+      "pos": "n"
+    },
+    {
+      "fr": "la lessive",
+      "it": "il detersivo per il bucato",
+      "pos": "n"
+    },
+    {
+      "fr": "le cornichon",
+      "it": "il cetriolino sott'aceto",
+      "pos": "n"
+    },
+    {
+      "fr": "le carton",
+      "it": "lo scatolone di cartone",
+      "pos": "n"
+    },
+    {
+      "fr": "ajouter",
+      "it": "aggiungere",
+      "pos": "v"
+    },
+    {
+      "fr": "valider",
+      "it": "convalidare, confermare",
+      "pos": "v"
+    },
+    {
+      "fr": "livrer",
+      "it": "consegnare",
+      "pos": "v"
+    },
+    {
+      "fr": "régler",
+      "it": "pagare, saldare",
+      "pos": "v",
+      "note": "régler une commande = pagare un ordine"
+    },
+    {
+      "fr": "la promotion",
+      "it": "l'offerta speciale, lo sconto",
+      "pos": "n",
+      "note": "falso amico: non è la promozione di carriera"
+    },
+    {
+      "fr": "aucun(e)",
+      "it": "nessuno, nessuna",
+      "pos": "adj"
+    },
+    {
+      "fr": "en ligne",
+      "it": "online",
+      "pos": "adv"
+    },
+    {
+      "fr": "l'achat (m.)",
+      "it": "l'acquisto",
+      "pos": "n",
+      "note": "faire des achats = fare acquisti"
+    },
+    {
+      "fr": "le bocal",
+      "it": "il barattolo (di vetro)",
+      "pos": "n",
+      "note": "pl. les bocaux"
+    },
+    {
+      "fr": "la commande",
+      "it": "l'ordine, l'ordinazione",
+      "pos": "n"
+    },
+    {
+      "fr": "le couloir",
+      "it": "il corridoio",
+      "pos": "n"
+    },
+    {
+      "fr": "l'être humain (m.)",
+      "it": "l'essere umano",
+      "pos": "n"
+    },
+    {
+      "fr": "le fond",
+      "it": "il fondo",
+      "pos": "n",
+      "note": "tout au fond de = proprio in fondo a"
+    },
+    {
+      "fr": "le frigo",
+      "it": "il frigo",
+      "pos": "n",
+      "note": "abbreviazione di réfrigérateur"
+    },
+    {
+      "fr": "le jus",
+      "it": "il succo",
+      "pos": "n",
+      "note": "le jus de fruits"
+    },
+    {
+      "fr": "sélectionner",
+      "it": "selezionare",
+      "pos": "v"
+    },
+    {
+      "fr": "la pêche",
+      "it": "la pesca (frutto)",
+      "pos": "n",
+      "note": "pêche (frutto) e pêche (pescare) sono omografi"
+    },
+    {
+      "fr": "quotidien / quotidienne",
+      "it": "quotidiano",
+      "pos": "adj",
+      "note": "les produits du quotidien"
+    },
+    {
+      "fr": "rapporter",
+      "it": "riportare (indietro)",
+      "pos": "v"
+    },
+    {
+      "fr": "la saucisse",
+      "it": "la salsiccia",
+      "pos": "n",
+      "note": "il saucisson è invece un salume da mangiare freddo"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "C'est simple comme bonjour !",
+      "it": "È semplicissimo!",
+      "note": "registro colloquiale"
+    },
+    {
+      "fr": "Bonjour les dégâts !",
+      "it": "Ci mancava anche questo!",
+      "note": "battuta ironica quando qualcosa va storto"
+    },
+    {
+      "fr": "Ce ne sera pas évident.",
+      "it": "Non sarà facile.",
+      "note": "per dire che un compito è complicato"
+    },
+    {
+      "fr": "Au contraire,",
+      "it": "Al contrario,",
+      "note": "introduce una correzione o un'opinione opposta"
+    },
+    {
+      "fr": "en promotion",
+      "it": "in offerta",
+      "note": "detto di prodotti scontati"
+    },
+    {
+      "fr": "à distance",
+      "it": "a distanza",
+      "note": "ordinare o lavorare senza venire di persona"
+    },
+    {
+      "fr": "tout en haut de",
+      "it": "proprio in cima a",
+      "note": "tout rafforza la posizione"
+    }
+  ],
+  "notes_it": [
+    "Pronuncia: la desinenza -ai del futuro (je ferai, j'irai) si legge [e] chiusa, mentre quella del condizionale -ais si legge [ɛ] aperta. L'accento grave di j'achèterai indica una e aperta [ɛ].",
+    "Falso amico: la promotion in negozio è l'offerta speciale; la promozione di carriera si dice avancement. Chi pensa all'italiano 'promozione' rischia di non capire il cartello in vetrina.",
+    "Charcuterie: in Francia indica sia il negozio sia il reparto del supermercato dove si vendono salumi, paté e saucisson.",
+    "Rayon non significa raggio (per il raggio di sole si dice rayon de soleil), ma reparto o scaffale del supermercato: rayon frais, rayon épicerie.",
+    "Le espressioni con bonjour (simple comme bonjour, bonjour les dégâts) sono colloquiali: non vanno tradotte alla lettera e si usano solo nel parlato informale."
+  ],
+  "exercises": [
+    {
+      "id": "L053-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "futur-simple",
+      "prompt": "Come si dice 'Domani farò la spesa al mercato'?",
+      "options": [
+        "Demain je fairai mes courses au marché.",
+        "Demain je ferai mes courses au marché.",
+        "Demain je fais mes courses au marché.",
+        "Demain je ferrai mes courses au marché."
+      ],
+      "correct": 1,
+      "explain_it": "Faire è irregolare nella radice (fer-), ma prende le desinenze regolari del futuro: je ferai."
+    },
+    {
+      "id": "L053-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "futur-simple",
+      "prompt": "Come si dice 'Noi andremo al supermercato'?",
+      "options": [
+        "Nous irons au supermarché.",
+        "Nous allerons au supermarché.",
+        "Nous aillons au supermarché.",
+        "Nous irions au supermarché."
+      ],
+      "correct": 0,
+      "explain_it": "Aller al futuro ha la radice ir- (nous irons), non allerons come suggerirebbe l'italiano andremo."
+    },
+    {
+      "id": "L053-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "false-friends",
+      "tags": [
+        "false-friend"
+      ],
+      "prompt": "Sul volantino leggi 'en promotion'. Che cosa significa?",
+      "options": [
+        "In offerta speciale",
+        "In promozione di carriera",
+        "Esaurito in magazzino",
+        "Ritirato dalla vendita"
+      ],
+      "correct": 0,
+      "explain_it": "In un negozio promotion indica uno sconto o un'offerta; la promozione professionale si dice avancement."
+    },
+    {
+      "id": "L053-e04",
+      "type": "order",
+      "level": 1,
+      "concept": "futur-simple",
+      "prompt": "Prenderò il treno domani.",
+      "answers": [
+        "Je prendrai le train demain"
+      ],
+      "distractors": [
+        "prends",
+        "pris"
+      ],
+      "explain_it": "Per prendre si toglie la -e dell'infinito e si aggiungono le desinenze del futuro: je prendrai."
+    },
+    {
+      "id": "L053-e05",
+      "type": "order",
+      "level": 1,
+      "concept": "futur-simple",
+      "prompt": "Saremo a casa alle otto.",
+      "answers": [
+        "Nous serons à la maison à huit heures"
+      ],
+      "distractors": [
+        "sommes",
+        "sont"
+      ],
+      "explain_it": "Être al futuro usa la radice ser-, quindi nous serons, non il presente nous sommes."
+    },
+    {
+      "id": "L053-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "futur-simple",
+      "prompt": "Farai la spesa con me?",
+      "answers": [
+        "Tu feras les courses avec moi"
+      ],
+      "distractors": [
+        "fais"
+      ],
+      "explain_it": "Con tu il futuro di faire prende la -s finale: tu feras."
+    },
+    {
+      "id": "L053-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "prepositions",
+      "prompt": "Il pane è sul tavolo, vicino al frigo.",
+      "answers": [
+        "Le pain est sur la table près du frigo"
+      ],
+      "distractors": [
+        "contre"
+      ],
+      "explain_it": "Près de si contrae con il maschile: près du frigo, come in italiano si dice vicino al frigo."
+    },
+    {
+      "id": "L053-e08",
+      "type": "cloze",
+      "level": 1,
+      "concept": "futur-simple",
+      "text": "Demain, je ___ mes courses au marché.",
+      "answers": [
+        "ferai"
+      ],
+      "hint": "(faire, futuro)",
+      "prompt": "Domani farò la spesa al mercato.",
+      "explain_it": "Al futuro faire usa la radice fer- con la desinenza -ai per je."
+    },
+    {
+      "id": "L053-e09",
+      "type": "cloze",
+      "level": 1,
+      "concept": "futur-simple",
+      "text": "Nous ___ le train de dix heures.",
+      "answers": [
+        "prendrons"
+      ],
+      "hint": "(prendre, futuro)",
+      "prompt": "Prenderemo il treno delle dieci.",
+      "explain_it": "Prendre perde la -e dell'infinito e per nous prende la desinenza -ons."
+    },
+    {
+      "id": "L053-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "futur-simple",
+      "text": "Vous ___ au supermarché demain ?",
+      "answers": [
+        "irez"
+      ],
+      "hint": "(aller, futuro)",
+      "prompt": "Andrete al supermercato domani?",
+      "explain_it": "Aller al futuro ha la radice ir-, quindi vous irez."
+    },
+    {
+      "id": "L053-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "futur-simple",
+      "text": "Je ___ la commande dès ce soir.",
+      "answers": [
+        "validerai"
+      ],
+      "hint": "(valider, futuro)",
+      "prompt": "Confermerò l'ordine già stasera.",
+      "explain_it": "I verbi in -er mantengono l'infinito intero davanti alle desinenze del futuro."
+    },
+    {
+      "id": "L053-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "idioms",
+      "text": "C'est ___ comme bonjour.",
+      "answers": [
+        "simple"
+      ],
+      "hint": "(aggettivo: semplice)",
+      "prompt": "È semplicissimo.",
+      "explain_it": "L'espressione fissa è c'est simple comme bonjour, e l'aggettivo non cambia."
+    },
+    {
+      "id": "L053-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "futur-simple",
+      "text": "J'___ des pêches et des abricots.",
+      "answers": [
+        "achèterai"
+      ],
+      "hint": "(acheter, futuro)",
+      "prompt": "Comprerò pesche e albicocche.",
+      "explain_it": "Acheter cambia la e in è davanti alla desinenza del futuro: j'achèterai."
+    },
+    {
+      "id": "L053-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "futur-simple",
+      "text": "Tu ___ la nouvelle recette ce soir ?",
+      "answers": [
+        "essaieras",
+        "essayeras"
+      ],
+      "hint": "(essayer, futuro)",
+      "prompt": "Proverai la nuova ricetta stasera?",
+      "explain_it": "Con essayer al futuro sono accettate sia la forma con i sia quella con y."
+    },
+    {
+      "id": "L053-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "futur-simple",
+      "text": "Vous ___ le meilleur vin pour la fête.",
+      "answers": [
+        "choisirez"
+      ],
+      "hint": "(choisir, futuro)",
+      "prompt": "Sceglierete il vino migliore per la festa.",
+      "explain_it": "I verbi in -ir regolari usano l'infinito intero più le desinenze del futuro, con -ez per vous."
+    },
+    {
+      "id": "L053-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "futur-simple",
+      "text": "Si tu veux, je ___ au magasin avec toi.",
+      "answers": [
+        "viendrai"
+      ],
+      "hint": "(venir, futuro)",
+      "prompt": "Se vuoi, verrò al negozio con te.",
+      "explain_it": "Venir al futuro ha la radice vien-, quindi je viendrai."
+    },
+    {
+      "id": "L053-e17",
+      "type": "cloze",
+      "level": 2,
+      "concept": "futur-simple",
+      "text": "Ce soir, nous ___ à la maison, pas au restaurant.",
+      "answers": [
+        "serons"
+      ],
+      "hint": "(être, futuro)",
+      "prompt": "Stasera saremo a casa, non al ristorante.",
+      "explain_it": "Être al futuro usa la radice ser-, quindi nous serons."
+    },
+    {
+      "id": "L053-e18",
+      "type": "cloze",
+      "level": 2,
+      "concept": "negation-other",
+      "text": "Je n'ai ___ idée de l'heure.",
+      "answers": [
+        "aucune"
+      ],
+      "hint": "(aucun / aucune)",
+      "prompt": "Non ho nessuna idea dell'ora.",
+      "explain_it": "Idée è femminile, quindi serve aucune, e la negazione ne...verbo resta intorno al verbo."
+    },
+    {
+      "id": "L053-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "futur-simple",
+      "prompt": "Domani comprerò del pane.",
+      "answers": [
+        "Demain j'achèterai du pain",
+        "J'achèterai du pain demain"
+      ],
+      "explain_it": "Achèterai ha l'accento grave, e del pane si dice du pain con la partitiva."
+    },
+    {
+      "id": "L053-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "futur-simple",
+      "prompt": "Faccio la spesa al mercato.",
+      "ask": "Traduci in francese, con il verbo al futuro semplice",
+      "answers": [
+        "Je ferai mes courses au marché",
+        "Je ferai les courses au marché"
+      ],
+      "explain_it": "Faire les courses (fare la spesa) va al futuro con la radice fer-: je ferai."
+    },
+    {
+      "id": "L053-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "futur-simple",
+      "prompt": "Ti telefonerò domani.",
+      "answers": [
+        "Je t'[appellerai|appèlerai] demain",
+        "Je te téléphonerai demain"
+      ],
+      "explain_it": "Appeler raddoppia la l al futuro (appellerai), mentre téléphoner è regolare."
+    },
+    {
+      "id": "L053-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "negation",
+      "prompt": "Non prenderò mai più l'autobus.",
+      "answers": [
+        "Je ne prendrai plus jamais l'autobus",
+        "Je ne prendrai plus jamais le bus"
+      ],
+      "explain_it": "Ne...plus jamais circonda il verbo al futuro, e il pronome ne va subito prima di prendrai."
+    },
+    {
+      "id": "L053-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "negation-other",
+      "prompt": "Non ho comprato nessuno dei due libri.",
+      "answers": [
+        "Je n'ai acheté aucun des deux livres"
+      ],
+      "explain_it": "Aucun des deux regge un verbo negativo con ne, e il passato prossimo di acheter usa avoir: j'ai acheté."
+    },
+    {
+      "id": "L053-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "tout",
+      "prompt": "Il negozio è proprio vicino a casa mia.",
+      "answers": [
+        "Le magasin est tout près de chez moi",
+        "Le magasin est tout près de ma maison",
+        "Le magasin est juste à côté de chez moi"
+      ],
+      "explain_it": "Tout avverbio resta invariabile davanti a près, quindi non si accorda con magasin."
+    },
+    {
+      "id": "L053-e25",
+      "type": "dictation",
+      "level": 2,
+      "concept": "futur-simple",
+      "text": "Demain, j'irai au marché acheter des pêches et des abricots.",
+      "explain_it": "Irai è il futuro di aller: ascolta la -ai finale, che si legge come una e."
+    },
+    {
+      "id": "L053-e26",
+      "type": "flash",
+      "level": 2,
+      "concept": "futur-simple",
+      "front": "Futuro di aller, faire, être: come si forma?",
+      "back": "Radice irregolare più desinenze regolari: ir- (j'irai), fer- (je ferai), ser- (je serai). Desinenze: -ai, -as, -a, -ons, -ez, -ont.",
+      "note": "Attenzione: nous irons, vous serez, ils feront."
+    },
+    {
+      "id": "L053-e27",
+      "type": "flash",
+      "level": 2,
+      "concept": "futur-simple",
+      "front": "Futuro di prendre (verbi in -re)",
+      "back": "Togli la -e finale dell'infinito e aggiungi le desinenze: je prendrai, tu prendras, il prendra, nous prendrons, vous prendrez, ils prendront.",
+      "note": "La radice del futuro è prendr-: si toglie solo la -e finale dell'infinito, quindi la r resta (prendre -> prendr-)."
+    },
+    {
+      "id": "L053-e28",
+      "type": "flash",
+      "level": 2,
+      "concept": "negation-other",
+      "front": "Aucun / aucune: come si costruisce la frase?",
+      "back": "Il verbo va sempre con ne davanti: Aucune de ces robes ne me plaît. Per 'nessuno dei due' si usa aucun des deux.",
+      "note": "Con aucun il verbo si usa al singolare."
+    },
+    {
+      "id": "L053-e29",
+      "type": "mcq",
+      "level": 2,
+      "concept": "false-friends",
+      "tags": [
+        "false-friend"
+      ],
+      "prompt": "Che cosa significa 'le rayon frais' in un supermercato?",
+      "options": [
+        "Il reparto dei prodotti freschi",
+        "Il raggio fresco",
+        "Il frigorifero di casa",
+        "La cassa del supermercato"
+      ],
+      "correct": 0,
+      "explain_it": "Rayon in negozio è il reparto o lo scaffale, non il raggio come nel significato fisico."
+    },
+    {
+      "id": "L053-e30",
+      "type": "mcq",
+      "level": 2,
+      "concept": "tout",
+      "prompt": "Quale frase è corretta: 'La cucina è proprio in fondo al corridoio'?",
+      "options": [
+        "La cuisine est tout au fond du couloir.",
+        "La cuisine est toute au fond du couloir.",
+        "La cuisine est tous au fond du couloir.",
+        "La cuisine est tout à fond du couloir."
+      ],
+      "correct": 0,
+      "explain_it": "Tout avverbio è invariabile davanti a au; toute si usa solo davanti ad aggettivi femminili."
+    },
+    {
+      "id": "L053-e31",
+      "type": "mcq",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Che cosa significa 'C'est simple comme bonjour' ?",
+      "options": [
+        "È semplicissimo",
+        "È un saluto formale",
+        "È molto costoso",
+        "È una domanda difficile"
+      ],
+      "correct": 0,
+      "explain_it": "È un'espressione fissa colloquiale: bonjour qui non indica il saluto."
+    },
+    {
+      "id": "L053-e32",
+      "type": "mcq",
+      "level": 2,
+      "concept": "negation-other",
+      "prompt": "Quale frase è corretta per 'Nessuna di queste camicie mi piace'?",
+      "options": [
+        "Aucune de ces chemises ne me plaît.",
+        "Aucun de ces chemises ne me plaît.",
+        "Aucune de ces chemises me plaît pas.",
+        "Aucune de ces chemises ne me plaît pas."
+      ],
+      "correct": 0,
+      "explain_it": "Chemise è femminile, quindi aucune; con aucune il verbo vuole solo ne, senza pas."
+    },
+    {
+      "id": "L053-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "futur-simple",
+      "prompt": "Domani andrò al supermercato, ma non comprerò più pesche perché sono care.",
+      "answers": [
+        "Demain j'irai au supermarché, mais je n'achèterai plus de pêches parce qu'elles sont chères",
+        "Demain j'irai au supermarché, mais je n'achèterai plus de pêches car elles sont chères"
+      ],
+      "explain_it": "Dopo ne...plus il partitivo diventa de, e il futuro di aller e acheter si combina nella stessa frase."
+    },
+    {
+      "id": "L053-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "futur-simple",
+      "prompt": "Ti chiamerò appena arriverò al negozio.",
+      "answers": [
+        "Je [t'appellerai|te téléphonerai] [dès que|aussitôt que|quand] j'arriverai au magasin"
+      ],
+      "explain_it": "Come in italiano, dopo dès que il futuro si usa quando l'azione deve ancora avvenire."
+    },
+    {
+      "id": "L053-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "futur-simple",
+      "prompt": "Prendiamo il treno delle dieci e siamo a Parigi a mezzogiorno.",
+      "ask": "Traduci in francese, al futuro semplice",
+      "answers": [
+        "Nous prendrons le train de dix heures et nous serons à Paris à midi",
+        "On prendra le train de dix heures et on sera à Paris à midi"
+      ],
+      "explain_it": "Entrambi i verbi passano al futuro: prendre perde la -e e être usa la radice ser-."
+    },
+    {
+      "id": "L053-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "negation-other",
+      "prompt": "Nessuno dei due prodotti è in promozione.",
+      "answers": [
+        "Aucun des deux produits n'est en promotion",
+        "Aucun des deux produits n'est en promo"
+      ],
+      "explain_it": "Con aucun des deux il verbo resta al singolare: n'est, non sont."
+    },
+    {
+      "id": "L053-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "negation",
+      "prompt": "Non andrò mai più in quel negozio.",
+      "ask": "Traduci in francese, al futuro semplice",
+      "answers": [
+        "Je n'irai plus jamais dans ce magasin",
+        "Je n'irai plus jamais dans ce magasin-là"
+      ],
+      "explain_it": "Aller al futuro diventa irai, e ne...plus jamais circonda il verbo."
+    },
+    {
+      "id": "L053-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "futur-simple",
+      "prompt": "Quando verrete a casa mia, vi farò vedere la cucina nuova.",
+      "answers": [
+        "Quand vous viendrez [chez moi|à la maison], je vous [montrerai|ferai voir] la nouvelle cuisine"
+      ],
+      "explain_it": "Con quand il futuro si usa nella subordinata come in italiano; montrer è regolare, quindi je montrerai."
+    },
+    {
+      "id": "L053-e39",
+      "type": "cloze",
+      "level": 3,
+      "concept": "futur-simple",
+      "text": "Quand tu ___ au supermarché, achète du pain.",
+      "answers": [
+        "seras"
+      ],
+      "hint": "(être, futuro)",
+      "prompt": "Quando sarai al supermercato, compra del pane.",
+      "explain_it": "Dopo quand il futuro di être è tu seras, con la radice ser-."
+    },
+    {
+      "id": "L053-e40",
+      "type": "dictation",
+      "level": 3,
+      "concept": "negation",
+      "text": "Je ne ferai plus jamais mes courses en ligne, car le magasin est tout près d'ici.",
+      "explain_it": "Ne...plus jamais circonda il futuro di faire, e tout près d'ici è un avverbio invariabile."
+    },
+    {
+      "id": "L053-e41",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Je ne trouve pas le ___ de cornichons dans le frigo.",
+      "answers": [
+        "bocal"
+      ],
+      "prompt": "Non trovo il barattolo di cetriolini nel frigo.",
+      "explain_it": "Un bocal è un barattolo di vetro."
+    },
+    {
+      "id": "L053-e42",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Metti il succo di frutta nel frigo, per favore.",
+      "answers": [
+        "[Mets|Mettez] le jus de fruits dans le frigo, s'il [te|vous] plaît."
+      ],
+      "explain_it": "Le jus de fruits: succo di frutta; frigo è l'abbreviazione familiare di réfrigérateur."
+    }
+  ]
+}

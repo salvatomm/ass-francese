@@ -1,0 +1,923 @@
+{
+  "n": 40,
+  "title_fr": "Tu es si impatient !",
+  "title_it": "Sei così impaziente!",
+  "review": false,
+  "status": "verified",
+  "source": "1db59936 p6-11 (libro pp. 187-192)",
+  "theme_it": "Due amici scelgono un film da vedere al cinema. Uno propone un film con un attore russo, ma l'altro non ne è convinto e boccia alcune proposte; dopo aver controllato gli orari al multisala e scoperto di non aver preso i biglietti online, rinunciano alla fila e decidono di andare a bere qualcosa.",
+  "grammar": [
+    {
+      "id": "passe-compose-avoir",
+      "title_it": "Altri participi passati da conoscere",
+      "explain_it": "Alcuni verbi in -re hanno un participio irregolare da memorizzare (mettre → mis, prendre → pris, boire → bu, plaire → plu); altri formano il participio in -u (perdre → perdu, entendre → entendu). Tutti formano il passato prossimo con avoir, come in italiano (ho messo = j'ai mis). Con avoir il participio non si accorda con il soggetto.",
+      "examples": [
+        {
+          "fr": "J'ai mis les clés sur la table.",
+          "it": "Ho messo le chiavi sul tavolo."
+        },
+        {
+          "fr": "Nous avons pris le bus ce matin.",
+          "it": "Abbiamo preso l'autobus stamattina."
+        },
+        {
+          "fr": "Ce film m'a beaucoup plu.",
+          "it": "Questo film mi è piaciuto molto."
+        }
+      ]
+    },
+    {
+      "id": "negation",
+      "title_it": "Si per contraddire una domanda negativa",
+      "explain_it": "Per rispondere 'sì' a una domanda o a un'affermazione negativa si usa si, non oui: oui confermerebbe la negazione. Si può ripetere per rafforzare (si, si). Attenzione: si in francese significa anche 'se' (si tu veux, 'se vuoi'), quindi va distinto dal si di risposta.",
+      "examples": [
+        {
+          "fr": "Tu ne viens pas ? – Si, je viens.",
+          "it": "Non vieni? – Sì, vengo."
+        },
+        {
+          "fr": "Vous n'aimez pas le café ? – Si, beaucoup.",
+          "it": "Non vi piace il caffè? – Sì, moltissimo."
+        }
+      ]
+    },
+    {
+      "id": "adjective-agreement",
+      "title_it": "Nul, nulle: l'aggettivo che concorda",
+      "explain_it": "Nul (nulle al femminile) è un aggettivo familiare che significa 'pessimo, scadente, inutile', non 'nullo' come potrebbe far pensare l'italiano. Concorda con il nome a cui si riferisce: un film nul, une actrice nulle. Dopo il verbo essere è il modo più comune per dare un giudizio negativo.",
+      "examples": [
+        {
+          "fr": "Ce documentaire est nul.",
+          "it": "Questo documentario è pessimo."
+        },
+        {
+          "fr": "Cette actrice est nulle dans ce rôle.",
+          "it": "Questa attrice è pessima in questo ruolo."
+        }
+      ]
+    },
+    {
+      "id": "false-friends",
+      "title_it": "Étranger ed étrange: due parole da non confondere",
+      "explain_it": "Étranger (straniero; come aggettivo anche 'estraneo') ed étrange (strano, bizzarro) si assomigliano, ma hanno significati diversi. Gli italiani le confondono facilmente: la Légion étrangère è la Legione straniera, mentre una domanda strana si dice une question étrange. Ricordatevi: étrange = strano, étranger = straniero.",
+      "examples": [
+        {
+          "fr": "Il est étranger, il vient d'Espagne.",
+          "it": "È straniero, viene dalla Spagna."
+        },
+        {
+          "fr": "Quelle question étrange !",
+          "it": "Che domanda strana!"
+        }
+      ]
+    },
+    {
+      "id": "register",
+      "title_it": "Registro familiare: bof, ciné, truc",
+      "explain_it": "Il dialogo è in registro colloquiale. Bof è un'esclamazione di indifferenza (boh, mah); ciné è l'abbreviazione di cinéma; truc indica 'la cosa' in senso generico (ce n'est pas mon truc = non fa per me). Nel registro formale si direbbe cinéma e si userebbero espressioni più neutre; ma questi termini sono molto frequenti tra amici e nei film.",
+      "examples": [
+        {
+          "fr": "Bof, ce n'est pas mal.",
+          "it": "Boh, non è male."
+        },
+        {
+          "fr": "On va au ciné ce soir ?",
+          "it": "Andiamo al cinema stasera?"
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Bête: aggettivo familiare, ma anche 'non è una cattiva idea'",
+      "explain_it": "Come aggettivo bête significa 'sciocco, stupido' e in senso familiare si usa per sé stessi: Je suis bête (sono uno stupido / una stupida). Ce n'est pas bête significa invece 'non è una cattiva idea'. Il nome une bête, invece, indica un animale. Non confondete le due accezioni: il contesto chiarisce sempre il senso.",
+      "examples": [
+        {
+          "fr": "Je suis bête, j'ai oublié les clés.",
+          "it": "Che stupido, ho dimenticato le chiavi."
+        },
+        {
+          "fr": "Ce n'est pas bête, on prend la voiture.",
+          "it": "Non è una cattiva idea, prendiamo la macchina."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le ciné (m.)",
+      "it": "il cinema (abbreviazione familiare)",
+      "pos": "n"
+    },
+    {
+      "fr": "la nouveauté",
+      "it": "la novità",
+      "pos": "n"
+    },
+    {
+      "fr": "le guide",
+      "it": "la guida (libro informativo)",
+      "pos": "n"
+    },
+    {
+      "fr": "perdre",
+      "it": "perdere",
+      "pos": "v",
+      "note": "j'ai perdu"
+    },
+    {
+      "fr": "la bande-annonce",
+      "it": "il trailer",
+      "pos": "n"
+    },
+    {
+      "fr": "détester",
+      "it": "detestare",
+      "pos": "v"
+    },
+    {
+      "fr": "l'action (f.)",
+      "it": "l'azione",
+      "pos": "n"
+    },
+    {
+      "fr": "l'acteur (m.)",
+      "it": "l'attore",
+      "pos": "n"
+    },
+    {
+      "fr": "boire",
+      "it": "bere",
+      "pos": "v",
+      "note": "je bois, j'ai bu"
+    },
+    {
+      "fr": "choisir",
+      "it": "scegliere",
+      "pos": "v"
+    },
+    {
+      "fr": "la critique",
+      "it": "la recensione",
+      "pos": "n",
+      "note": "falso amico: non significa 'critica' in senso di biasimo"
+    },
+    {
+      "fr": "nul",
+      "it": "pessimo, scadente",
+      "pos": "adj",
+      "note": "féminin nulle"
+    },
+    {
+      "fr": "la comédie musicale",
+      "it": "il musical",
+      "pos": "n"
+    },
+    {
+      "fr": "le truc",
+      "it": "la cosa, la roba",
+      "pos": "n"
+    },
+    {
+      "fr": "la séance",
+      "it": "la proiezione, lo spettacolo",
+      "pos": "n"
+    },
+    {
+      "fr": "le multiplexe",
+      "it": "il multisala",
+      "pos": "n"
+    },
+    {
+      "fr": "la salle",
+      "it": "la sala",
+      "pos": "n"
+    },
+    {
+      "fr": "la queue",
+      "it": "la fila",
+      "pos": "n",
+      "note": "faire la queue"
+    },
+    {
+      "fr": "le tarif",
+      "it": "la tariffa",
+      "pos": "n"
+    },
+    {
+      "fr": "la billetterie",
+      "it": "la biglietteria",
+      "pos": "n"
+    },
+    {
+      "fr": "attendre",
+      "it": "aspettare",
+      "pos": "v",
+      "note": "j'attends"
+    },
+    {
+      "fr": "le verre",
+      "it": "il bicchiere",
+      "pos": "n"
+    },
+    {
+      "fr": "étrange",
+      "it": "strano, bizzarro",
+      "pos": "adj"
+    },
+    {
+      "fr": "étranger / étrangère",
+      "it": "straniero, straniera",
+      "pos": "adj",
+      "note": "usato anche come nome"
+    },
+    {
+      "fr": "dernier / dernière",
+      "it": "ultimo, ultima (anche: più recente)",
+      "pos": "adj"
+    },
+    {
+      "fr": "bête",
+      "it": "stupido, sciocco",
+      "pos": "adj",
+      "note": "registro familiare"
+    },
+    {
+      "fr": "plaire",
+      "it": "piacere",
+      "pos": "v",
+      "note": "j'ai plu"
+    },
+    {
+      "fr": "entendre",
+      "it": "sentire, udire",
+      "pos": "v",
+      "note": "j'ai entendu"
+    },
+    {
+      "fr": "mettre",
+      "it": "mettere",
+      "pos": "v",
+      "note": "j'ai mis"
+    },
+    {
+      "fr": "l'étudiant / l'étudiante",
+      "it": "lo studente / la studentessa",
+      "pos": "n",
+      "note": "tarif étudiant"
+    },
+    {
+      "fr": "impatient(e)",
+      "it": "impaziente",
+      "pos": "adj"
+    },
+    {
+      "fr": "le nord",
+      "it": "il nord",
+      "pos": "n"
+    },
+    {
+      "fr": "l'ouest (m.)",
+      "it": "l'ovest",
+      "pos": "n"
+    },
+    {
+      "fr": "le sud",
+      "it": "il sud",
+      "pos": "n"
+    },
+    {
+      "fr": "le port",
+      "it": "il porto",
+      "pos": "n",
+      "note": "Le Vieux Port"
+    },
+    {
+      "fr": "la proposition",
+      "it": "la proposta",
+      "pos": "n"
+    },
+    {
+      "fr": "la réalité",
+      "it": "la realtà",
+      "pos": "n",
+      "note": "en réalité = in realtà"
+    },
+    {
+      "fr": "russe",
+      "it": "russo",
+      "pos": "adj",
+      "note": "invariabile al femminile"
+    },
+    {
+      "fr": "le spectacle",
+      "it": "lo spettacolo",
+      "pos": "n",
+      "note": "le guide des spectacles"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Il y a plein de nouveautés",
+      "it": "Ci sono un sacco di novità",
+      "note": "plein de = un sacco di, familiare"
+    },
+    {
+      "fr": "Faire un effort !",
+      "it": "Dai, fai uno sforzo!",
+      "note": "invito a collaborare o a impegnarsi di più"
+    },
+    {
+      "fr": "Avoir lieu",
+      "it": "Svolgersi, avere luogo",
+      "note": "detto di eventi e azioni, non di persone"
+    },
+    {
+      "fr": "Avoir horreur de",
+      "it": "Detestare, non sopportare",
+      "note": "seguito da infinito con de"
+    },
+    {
+      "fr": "Ce n'est pas mon truc",
+      "it": "Non fa per me",
+      "note": "registro familiare"
+    },
+    {
+      "fr": "Prendre un verre",
+      "it": "Bere qualcosa",
+      "note": "non significa 'prendere un bicchiere'"
+    },
+    {
+      "fr": "Je suis bête",
+      "it": "Che stupido che sono!",
+      "note": "autocritica scherzosa, familiare"
+    },
+    {
+      "fr": "Bof",
+      "it": "Boh, mah",
+      "note": "interiezione di indifferenza"
+    }
+  ],
+  "notes_it": [
+    "Attenzione al falso amico critique: nel linguaggio del cinema e dei giornali significa 'recensione' (une bonne critique = una buona recensione), non 'critica' nel senso di biasimo.",
+    "Dernier può significare «ultimo» in una serie o «più recente»: le dernier film de l'acteur è il suo film più recente oppure l'ultimo della carriera. Il contesto chiarisce quasi sempre il senso.",
+    "Ciné, bof, truc, nul e bête appartengono al parlato quotidiano: si sentono nei film e tra amici, ma è meglio evitarli in un colloquio o in una lettera formale.",
+    "Il suffisso -erie (billetterie, huilerie, boulangerie) forma nomi femminili di luoghi, negozi o officine; la sua parte finale si pronuncia [ri]. La parola billetterie indica la biglietteria, sia fisica sia online.",
+    "Cultura: il multiplexe è spesso in un centro commerciale e propone più sale con proiezioni (les séances) a orari diversi. Per gli studenti esiste una tariffa ridotta (tarif étudiant), che può richiedere una fila alla biglietteria."
+  ],
+  "exercises": [
+    {
+      "id": "L040-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "prompt": "Quale frase significa 'ho preso il treno'?",
+      "options": [
+        "J'ai pris le train.",
+        "J'ai prendu le train.",
+        "Je suis pris le train.",
+        "J'ai prit le train."
+      ],
+      "correct": 0,
+      "explain_it": "Prendre ha il participio irregolare pris e si coniuga con avoir."
+    },
+    {
+      "id": "L040-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "prompt": "Quale frase significa 'ho perso le chiavi'?",
+      "options": [
+        "J'ai perdu les clés.",
+        "J'ai perdé les clés.",
+        "Je suis perdu les clés.",
+        "J'ai perdus les clés."
+      ],
+      "correct": 0,
+      "explain_it": "Perdre fa il participio perdu, non in -é, e l'ausiliare è avoir."
+    },
+    {
+      "id": "L040-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "false-friends",
+      "prompt": "Quale aggettivo significa 'strano, bizzarro'?",
+      "options": [
+        "étrange",
+        "étranger",
+        "étrangère",
+        "étrangeté"
+      ],
+      "correct": 0,
+      "explain_it": "Étrange è 'strano'; étranger è 'straniero': sono due parole diverse che sembrano simili.",
+      "tags": [
+        "false-friend"
+      ]
+    },
+    {
+      "id": "L040-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "negation",
+      "prompt": "Un amico ti chiede: 'Tu n'as pas vu le film ?' Invece l'hai visto. Come lo contraddici?",
+      "options": [
+        "Si, je l'ai vu.",
+        "Oui, je l'ai vu.",
+        "Non, je l'ai vu.",
+        "Si, je ne l'ai pas vu."
+      ],
+      "correct": 0,
+      "explain_it": "Per contraddire una domanda negativa in francese si usa si, non oui."
+    },
+    {
+      "id": "L040-e05",
+      "type": "order",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ho bevuto il caffè.",
+      "answers": [
+        "J'ai bu le café."
+      ],
+      "distractors": [
+        "suis",
+        "prendu"
+      ],
+      "explain_it": "Boire fa al passato prossimo J'ai bu: il participio è bu e l'ausiliare è avoir."
+    },
+    {
+      "id": "L040-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Andiamo a bere qualcosa qui vicino.",
+      "answers": [
+        "Allons prendre un verre près d'ici.",
+        "On va prendre un verre près d'ici."
+      ],
+      "distractors": [
+        "faire",
+        "manger"
+      ],
+      "explain_it": "Prendre un verre significa 'bere qualcosa', anche se verre vuol dire 'bicchiere'."
+    },
+    {
+      "id": "L040-e07",
+      "type": "order",
+      "level": 2,
+      "concept": "negation",
+      "prompt": "Non ho mai bevuto questo vino.",
+      "answers": [
+        "Je n'ai jamais bu ce vin."
+      ],
+      "distractors": [
+        "pas",
+        "suis"
+      ],
+      "explain_it": "Nel passato prossimo la negazione circonda l'ausiliare: n'ai jamais bu."
+    },
+    {
+      "id": "L040-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "adjective-agreement",
+      "prompt": "Quel documentario è pessimo.",
+      "answers": [
+        "Ce documentaire est nul."
+      ],
+      "distractors": [
+        "nulle",
+        "étranger"
+      ],
+      "explain_it": "Con un nome maschile si usa nul; con un nome femminile si direbbe nulle."
+    },
+    {
+      "id": "L040-e09",
+      "type": "cloze",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "text": "Hier soir, nous ___ un bon film au cinéma.",
+      "answers": [
+        "avons vu"
+      ],
+      "hint": "(voir, passato prossimo)",
+      "prompt": "Ieri sera abbiamo visto un bel film al cinema.",
+      "explain_it": "Voir fa il participio vu; l'ausiliare è avons (avoir, noi)."
+    },
+    {
+      "id": "L040-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "text": "Le journal ? Je l'___ oublié à la maison.",
+      "answers": [
+        "ai"
+      ],
+      "hint": "(avoir, presente)",
+      "prompt": "Il giornale? L'ho dimenticato a casa.",
+      "explain_it": "Con il pronome l' davanti al verbo si usa l'ausiliare avoir: je l'ai oublié."
+    },
+    {
+      "id": "L040-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "idioms",
+      "text": "Après le film, on va ___ un verre.",
+      "answers": [
+        "prendre"
+      ],
+      "hint": "(verbo all'infinito)",
+      "prompt": "Dopo il film andiamo a bere qualcosa.",
+      "explain_it": "Aller + infinito è il modo di dire 'andare a fare qualcosa'; prendre un verre significa 'bere qualcosa'."
+    },
+    {
+      "id": "L040-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "negation",
+      "text": "Tu n'aimes pas le thé ? – ___, je l'adore.",
+      "answers": [
+        "Si"
+      ],
+      "hint": "(risposta che contraddice)",
+      "prompt": "Non ti piace il tè? – Invece sì, lo adoro.",
+      "explain_it": "Dopo una domanda negativa si risponde con si, mai con oui."
+    },
+    {
+      "id": "L040-e13",
+      "type": "mcq",
+      "level": 2,
+      "concept": "register",
+      "prompt": "Un amico ti chiede se il film ti è piaciuto e tu rispondi 'Bof'. Che cosa intendi?",
+      "options": [
+        "Mah, così così: indifferenza",
+        "Sì, è bellissimo",
+        "È troppo lungo",
+        "Certamente, andiamo"
+      ],
+      "correct": 0,
+      "explain_it": "Bof è un'esclamazione familiare di indifferenza, come il nostro 'boh' o 'mah'."
+    },
+    {
+      "id": "L040-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "text": "Cette comédie musicale est ___.",
+      "answers": [
+        "nulle"
+      ],
+      "hint": "(nul, femminile)",
+      "prompt": "Questa commedia musicale è pessima.",
+      "explain_it": "Comédie musicale è femminile, quindi l'aggettivo prende la forma nulle."
+    },
+    {
+      "id": "L040-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "false-friends",
+      "text": "Il est ___ : il vient de Lisbonne.",
+      "answers": [
+        "étranger"
+      ],
+      "hint": "(straniero, maschile)",
+      "prompt": "È straniero: viene da Lisbona.",
+      "explain_it": "Straniero si dice étranger; étrange, con la stessa radice, significa 'strano'."
+    },
+    {
+      "id": "L040-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "text": "Qui a ___ les clés sur la table ?",
+      "answers": [
+        "mis"
+      ],
+      "hint": "(mettre, participio passato)",
+      "prompt": "Chi ha messo le chiavi sul tavolo?",
+      "explain_it": "Mettre ha il participio irregolare mis."
+    },
+    {
+      "id": "L040-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ho perso il biglietto.",
+      "answers": [
+        "J'ai perdu [le|mon] [billet|ticket]."
+      ],
+      "explain_it": "Perdre fa perdu; il biglietto è le billet o le ticket, con l'ausiliare avoir."
+    },
+    {
+      "id": "L040-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ho messo i fogli sulla scrivania.",
+      "answers": [
+        "J'ai mis les feuilles sur le bureau.",
+        "J'ai mis les papiers sur le bureau."
+      ],
+      "explain_it": "Mettre al passato prossimo: j'ai mis, con participio irregolare mis."
+    },
+    {
+      "id": "L040-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ho preso il treno delle otto.",
+      "answers": [
+        "J'ai pris le train de huit heures.",
+        "J'ai pris le train de 8 heures."
+      ],
+      "explain_it": "Prendre fa pris; il passato prossimo si forma con avoir."
+    },
+    {
+      "id": "L040-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Abbiamo bevuto due bicchieri di vino.",
+      "answers": [
+        "[Nous avons|On a] bu deux verres de vin."
+      ],
+      "explain_it": "Boire fa bu; con on come soggetto si usa comunque l'ausiliare a."
+    },
+    {
+      "id": "L040-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "negation",
+      "prompt": "Non ho mai letto questo libro.",
+      "answers": [
+        "Je n'ai jamais lu ce livre.",
+        "Je n'ai jamais lu ce livre-là."
+      ],
+      "explain_it": "La negazione ne ... jamais circonda l'ausiliare avoir, come nel passato prossimo."
+    },
+    {
+      "id": "L040-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "negation",
+      "prompt": "Non hai fame? – Invece sì, ho molta fame.",
+      "answers": [
+        "Si, j'ai [très|vraiment] faim.",
+        "Si, si, j'ai [très|vraiment] faim."
+      ],
+      "explain_it": "Alla domanda negativa si risponde con si, poi si usa avoir faim per 'avere fame'."
+    },
+    {
+      "id": "L040-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "Questo film è pessimo.",
+      "answers": [
+        "Ce film est [vraiment |]nul."
+      ],
+      "explain_it": "Nul è un aggettivo che concorda con il nome: film è maschile e quindi nul."
+    },
+    {
+      "id": "L040-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "Quest'attrice è pessima.",
+      "answers": [
+        "Cette actrice est [vraiment |]nulle."
+      ],
+      "explain_it": "Actrice è femminile: l'aggettivo prende la forma nulle."
+    },
+    {
+      "id": "L040-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "Lo straniero ha chiesto un'informazione.",
+      "answers": [
+        "L'étranger a demandé [un renseignement|une information]."
+      ],
+      "explain_it": "Straniero si dice étranger, non étrange, che significa strano."
+    },
+    {
+      "id": "L040-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "Che domanda strana!",
+      "answers": [
+        "Quelle question étrange !"
+      ],
+      "explain_it": "Strano si dice étrange; l'aggettivo concorda con question, femminile."
+    },
+    {
+      "id": "L040-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Vado a bere qualcosa con i colleghi.",
+      "answers": [
+        "Je vais prendre un verre avec [mes|les|des] collègues.",
+        "Je vais boire un verre avec [mes|les|des] collègues."
+      ],
+      "explain_it": "Prendre un verre significa bere qualcosa, non solo prendere un bicchiere."
+    },
+    {
+      "id": "L040-e28",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Detesto fare la fila al cinema.",
+      "answers": [
+        "J'ai horreur de faire la queue au [cinéma|ciné].",
+        "Je déteste faire la queue au [cinéma|ciné]."
+      ],
+      "explain_it": "Avoir horreur de più infinito significa detestare fare qualcosa."
+    },
+    {
+      "id": "L040-e29",
+      "type": "write",
+      "level": 2,
+      "concept": "il-faut",
+      "prompt": "Bisogna prenotare in anticipo per avere la tariffa ridotta.",
+      "answers": [
+        "Il faut réserver [à l'avance|d'avance] pour avoir [le|un] tarif réduit."
+      ],
+      "explain_it": "Il faut seguito da infinito esprime 'bisogna'; per avere è il verbo avoir all'infinito."
+    },
+    {
+      "id": "L040-e30",
+      "type": "write",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "Dov'è la biglietteria?",
+      "answers": [
+        "Où est la billetterie ?",
+        "Où se trouve la billetterie ?"
+      ],
+      "explain_it": "Billetterie è femminile: il suffisso -erie forma nomi femminili di luoghi."
+    },
+    {
+      "id": "L040-e31",
+      "type": "dictation",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Nous avons pris un verre après le film.",
+      "explain_it": "Prendre un verre è l'espressione per 'bere qualcosa'."
+    },
+    {
+      "id": "L040-e32",
+      "type": "flash",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "front": "Participi passati irregolari: mettre, prendre, perdre, boire, entendre, plaire",
+      "back": "mis, pris, perdu, bu, entendu, plu (tutti con avoir al passato prossimo)",
+      "note": "Stesso schema della prima serie del terzo gruppo: ho visto = j'ai vu."
+    },
+    {
+      "id": "L040-e33",
+      "type": "flash",
+      "level": 2,
+      "concept": "negation",
+      "front": "Come si risponde 'sì' a una domanda negativa in francese?",
+      "back": "Con si, non con oui: Tu ne viens pas ? – Si, je viens.",
+      "note": "Oui confermerebbe la negazione della domanda."
+    },
+    {
+      "id": "L040-e34",
+      "type": "flash",
+      "level": 2,
+      "concept": "false-friends",
+      "front": "étrange e étranger: che differenza di significato?",
+      "back": "étrange = strano, bizzarro; étranger/étrangère = straniero/a (o, come aggettivo, estraneo)",
+      "note": "Due parole simili con significati diversi: attenzione all'italiano strano/straniero."
+    },
+    {
+      "id": "L040-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-avoir",
+      "ask": "Volgi al passato prossimo.",
+      "prompt": "Lui mette la giacca.",
+      "answers": [
+        "Il a mis [sa|la] veste."
+      ],
+      "explain_it": "Mettre al passato prossimo: a mis, con participio irregolare mis."
+    },
+    {
+      "id": "L040-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "negation",
+      "ask": "Volgi al passato prossimo e alla forma negativa.",
+      "prompt": "Lei beve il vino.",
+      "answers": [
+        "Elle n'a pas bu [le|de] vin."
+      ],
+      "explain_it": "La negazione ne ... pas circonda l'ausiliare; con l'articolo determinativo resta le vin, mentre se il senso è «non ha bevuto vino» il partitivo diventa de."
+    },
+    {
+      "id": "L040-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-avoir",
+      "ask": "Volgi al passato prossimo e alla forma negativa.",
+      "prompt": "Io scelgo il film.",
+      "answers": [
+        "Je n'ai pas choisi [le|ce] film."
+      ],
+      "explain_it": "Choisir fa al passato prossimo j'ai choisi; la negazione va attorno all'ausiliare."
+    },
+    {
+      "id": "L040-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-en",
+      "ask": "Rispondi in francese usando en.",
+      "prompt": "Quanti film hai visto questa settimana? Ne ho visti tre.",
+      "answers": [
+        "J'en ai vu trois.",
+        "J'en ai vu trois cette semaine."
+      ],
+      "explain_it": "En sostituisce il complemento 'di film' e va davanti all'ausiliare; il participio vu resta invariato."
+    },
+    {
+      "id": "L040-e39",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-cod",
+      "ask": "Rispondi in francese, affermativamente.",
+      "prompt": "Hai letto il giornale? – Sì, l'ho letto ieri.",
+      "answers": [
+        "Oui, je l'ai lu hier.",
+        "Je l'ai lu hier."
+      ],
+      "explain_it": "Il pronome l' va prima di avoir; lire fa lu al participio."
+    },
+    {
+      "id": "L040-e40",
+      "type": "write",
+      "level": 3,
+      "concept": "false-friends",
+      "prompt": "Ho letto una buona recensione di questo film: il regista è straniero, ma non conosco l'attore.",
+      "answers": [
+        "J'ai lu une bonne critique [de|sur] ce film : le [réalisateur|metteur en scène] est étranger, mais je ne connais pas l'acteur."
+      ],
+      "explain_it": "Critique qui significa 'recensione' e étranger 'straniero': due falsi amici da ricordare."
+    },
+    {
+      "id": "L040-e41",
+      "type": "write",
+      "level": 3,
+      "concept": "register",
+      "ask": "Dillo in francese, in modo familiare.",
+      "prompt": "Questo tipo di film non fa per me.",
+      "answers": [
+        "Ce genre de film, [ce n'est pas|c'est pas] mon truc.",
+        "[Ce n'est pas|C'est pas] mon truc, ce genre de film."
+      ],
+      "explain_it": "Ce n'est pas mon truc è l'espressione familiare per 'non fa per me'."
+    },
+    {
+      "id": "L040-e42",
+      "type": "write",
+      "level": 3,
+      "concept": "negation",
+      "ask": "Traduci in francese, con encore.",
+      "prompt": "Non abbiamo ancora finito di mangiare.",
+      "answers": [
+        "[Nous n'avons|On n'a] pas encore fini de manger."
+      ],
+      "explain_it": "Encore si colloca tra ausiliare e participio, come pas: n'avons pas encore fini."
+    },
+    {
+      "id": "L040-e43",
+      "type": "dictation",
+      "level": 3,
+      "concept": "passe-compose-avoir",
+      "text": "Hier soir, nous avons attendu longtemps devant la salle, puis nous avons pris un verre.",
+      "explain_it": "Attendre fa attendu e prendre fa pris: due participi irregolari al passato prossimo."
+    },
+    {
+      "id": "L040-e44",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "La mia amica russa è molto impaziente.",
+      "answers": [
+        "Mon amie russe est très impatiente."
+      ],
+      "explain_it": "Russe e impatiente: l'aggettivo si accorda con amie (f.); russe è invariabile."
+    },
+    {
+      "id": "L040-e45",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ho perso la guida degli spettacoli.",
+      "answers": [
+        "J'ai perdu le guide des spectacles."
+      ],
+      "explain_it": "Perdre ha participio perdu; spectacle = spettacolo."
+    }
+  ]
+}

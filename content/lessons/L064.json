@@ -1,0 +1,746 @@
+{
+  "n": 64,
+  "title_fr": "Soixante-quatrième leçon",
+  "title_it": "Sessantaquattresima lezione",
+  "review": false,
+  "status": "verified",
+  "source": "fa2f8a2c p73-79 (pdf; libro pp. 353-359)",
+  "theme_it": "Un cliente stanco, appena uscito dal lavoro, chiede informazioni a un albergo della Costa Azzurra per le vacanze estive. L'addetto gli spiega quando conviene partire, quali periodi sono più affollati e quali pacchetti costano di più.",
+  "grammar": [
+    {
+      "id": "si-clauses",
+      "title_it": "Frasi con « si » al presente e futuro semplice (Si vous partez, vous arriverez)",
+      "explain_it": "Quando la condizione è reale e riguarda il futuro, il francese usa « si » + presente nella frase con la condizione e il futuro semplice nella principale: Si vous partez maintenant, vous arriverez avant midi. È la stessa logica dell'italiano « se parti adesso, arriverai prima di mezzogiorno »: dopo « si » non si usa mai il futuro, anche se l'azione deve ancora avvenire. Davanti a « il » e « ils » la forma diventa « s'il », « s'ils ».",
+      "examples": [
+        {
+          "fr": "Si tu pars tout de suite, tu arriveras avant nous.",
+          "it": "Se parti subito, arriverai prima di noi."
+        },
+        {
+          "fr": "S'il pleut demain, nous resterons à la maison.",
+          "it": "Se domani piove, resteremo a casa."
+        }
+      ]
+    },
+    {
+      "id": "superlatives",
+      "title_it": "Il superlativo: la posizione dell'aggettivo cambia l'articolo",
+      "explain_it": "Il superlativo relativo si costruisce con l'articolo determinativo + plus + aggettivo: le plus beau, la plus belle, les plus beaux. Se l'aggettivo segue il nome, l'articolo si ripete: les mois les plus agréables (i mesi più piacevoli). Se l'aggettivo precede il nome, l'articolo compare una sola volta: les plus beaux mois. Il superlativo di mauvais può essere irregolare: le pire (il peggio, il peggiore). In italiano la struttura è la stessa (il mese più bello / il più bel mese), ma il francese fa dipendere l'articolo dalla posizione dell'aggettivo.",
+      "examples": [
+        {
+          "fr": "C'est la plus belle plage de la région.",
+          "it": "È la spiaggia più bella della regione."
+        },
+        {
+          "fr": "Ce sont les jours les plus chauds de l'année.",
+          "it": "Sono i giorni più caldi dell'anno."
+        }
+      ]
+    },
+    {
+      "id": "faire",
+      "title_it": "Faire per sport e attività: faire du, de la, des",
+      "explain_it": "Per parlare di sport e attività fisiche il francese usa il verbo faire seguito dall'articolo partitivo, che segue il genere del nome dell'attività: du ski (maschile), de la natation, de la plongée (femminile), des randonnées (plurale). In italiano si dice « fare nuoto » o « fare sci » senza articolo; in francese l'articolo è obbligatorio. Per l'equitazione si può dire faire du cheval oppure monter à cheval.",
+      "examples": [
+        {
+          "fr": "Je fais du ski en hiver.",
+          "it": "Faccio sci in inverno."
+        },
+        {
+          "fr": "Elle fait de la plongée sous-marine.",
+          "it": "Lei fa immersioni subacquee."
+        }
+      ]
+    },
+    {
+      "id": "modals",
+      "title_it": "Savoir per la capacità acquisita: savoir nager, savoir conduire",
+      "explain_it": "Per dire di saper fare qualcosa (una competenza che si è imparata) il francese usa il verbo savoir: je sais nager, elle ne sait pas conduire. Pouvoir indica invece possibilità o permesso: on peut nager ici, cioè è permesso o è possibile. In italiano il contrasto è tra « sapere » e « potere » con lo stesso schema. Savoir regge direttamente l'infinito senza preposizione, e la negazione si mette intorno al verbo: je ne sais pas nager.",
+      "examples": [
+        {
+          "fr": "Je sais nager depuis l'enfance.",
+          "it": "So nuotare fin da bambino."
+        },
+        {
+          "fr": "Il ne sait pas conduire.",
+          "it": "Lui non sa guidare."
+        }
+      ]
+    },
+    {
+      "id": "adverbs",
+      "title_it": "Normalement: avverbio di « di norma » e risposta attenuata",
+      "explain_it": "Normalement significa « di norma, di solito » ed è un avverbio in -ment formato dall'aggettivo normal. Può stare all'inizio della frase, con la virgola: Normalement, je déjeune à midi. Da solo serve come risposta affermativa attenuata: Normalement oui equivale a « di norma sì », cioè probabilmente sì. In italiano « normalmente » funziona nello stesso modo, quindi il passaggio è immediato.",
+      "examples": [
+        {
+          "fr": "Normalement, je déjeune à midi.",
+          "it": "Di norma pranzo a mezzogiorno."
+        },
+        {
+          "fr": "Tu viens ce soir ? — Normalement, oui.",
+          "it": "Vieni stasera? — Di solito sì."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "renseigner",
+      "it": "informare, dare informazioni a",
+      "pos": "v",
+      "note": "renseigner qqn"
+    },
+    {
+      "fr": "épuisé",
+      "it": "esausto, sfinito",
+      "pos": "adj"
+    },
+    {
+      "fr": "les vacances (f. pl.)",
+      "it": "vacanze",
+      "pos": "n"
+    },
+    {
+      "fr": "falloir",
+      "it": "occorrere, bisognare",
+      "pos": "v",
+      "note": "il me faut (ho bisogno di)"
+    },
+    {
+      "fr": "proposer",
+      "it": "proporre, offrire",
+      "pos": "v"
+    },
+    {
+      "fr": "la condition",
+      "it": "condizione",
+      "pos": "n"
+    },
+    {
+      "fr": "juillet (m.)",
+      "it": "luglio",
+      "pos": "n"
+    },
+    {
+      "fr": "août (m.)",
+      "it": "agosto",
+      "pos": "n"
+    },
+    {
+      "fr": "bondé",
+      "it": "affollato, stracolmo",
+      "pos": "adj",
+      "note": "f. bondée"
+    },
+    {
+      "fr": "grimper",
+      "it": "salire, aumentare",
+      "pos": "v",
+      "note": "les prix grimpent"
+    },
+    {
+      "fr": "agréable",
+      "it": "piacevole, gradevole",
+      "pos": "adj"
+    },
+    {
+      "fr": "le moment",
+      "it": "momento",
+      "pos": "n"
+    },
+    {
+      "fr": "la réduction",
+      "it": "sconto, riduzione",
+      "pos": "n"
+    },
+    {
+      "fr": "exceptionnel",
+      "it": "eccezionale",
+      "pos": "adj",
+      "note": "f. exceptionnelle"
+    },
+    {
+      "fr": "le pire",
+      "it": "il peggio",
+      "pos": "n"
+    },
+    {
+      "fr": "craindre",
+      "it": "temere",
+      "pos": "v",
+      "note": "je crains"
+    },
+    {
+      "fr": "la plage",
+      "it": "spiaggia",
+      "pos": "n"
+    },
+    {
+      "fr": "se baigner",
+      "it": "fare il bagno",
+      "pos": "v",
+      "note": "je me baigne"
+    },
+    {
+      "fr": "la plongée",
+      "it": "immersione subacquea",
+      "pos": "n"
+    },
+    {
+      "fr": "tenter",
+      "it": "allettare, attirare",
+      "pos": "v",
+      "note": "ça ne me tente pas"
+    },
+    {
+      "fr": "le cours",
+      "it": "lezione, corso",
+      "pos": "n"
+    },
+    {
+      "fr": "le palace",
+      "it": "albergo di lusso",
+      "pos": "n"
+    },
+    {
+      "fr": "la demi-pension",
+      "it": "mezza pensione",
+      "pos": "n"
+    },
+    {
+      "fr": "tout compris",
+      "it": "tutto compreso",
+      "pos": "adj"
+    },
+    {
+      "fr": "la formule",
+      "it": "formula, pacchetto",
+      "pos": "n"
+    },
+    {
+      "fr": "réellement",
+      "it": "davvero, effettivamente",
+      "pos": "adv"
+    },
+    {
+      "fr": "l'enfer (m.)",
+      "it": "inferno",
+      "pos": "n"
+    },
+    {
+      "fr": "tranquille",
+      "it": "tranquillo",
+      "pos": "adj"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Est-ce que je peux vous renseigner ?",
+      "it": "Posso aiutarla con delle informazioni?",
+      "note": "formula di cortesia usata dal personale di servizio, registro formale"
+    },
+    {
+      "fr": "Tout dépend.",
+      "it": "Dipende.",
+      "note": "risposta breve, spesso seguita da una domanda di chiarimento"
+    },
+    {
+      "fr": "Je crains le pire.",
+      "it": "Temo il peggio.",
+      "note": "espressione usata anche nel titolo della lezione"
+    },
+    {
+      "fr": "Ce n'est pas donné.",
+      "it": "Non è a buon mercato.",
+      "note": "vuol dire costoso, letteralmente « non è regalato »"
+    },
+    {
+      "fr": "Après vous.",
+      "it": "Prego, dopo di lei.",
+      "note": "cortesia quando si cede il passo"
+    },
+    {
+      "fr": "Ça ne me tente pas.",
+      "it": "Non mi va, non mi attira.",
+      "note": "colloquiale"
+    },
+    {
+      "fr": "Ça sera réellement l'enfer.",
+      "it": "Sarà davvero un inferno.",
+      "note": "espressione colloquiale per dire che sarà insopportabile"
+    },
+    {
+      "fr": "Une formule tout compris",
+      "it": "Un pacchetto tutto compreso",
+      "note": "usato per viaggi e alberghi"
+    },
+    {
+      "fr": "Faire de la plongée",
+      "it": "Fare immersioni subacquee",
+      "note": "con faire + de la per le attività sportive"
+    }
+  ],
+  "notes_it": [
+    "Après vous è una cortesia di uso comune quando si cede il passo; la risposta tipica è di rimando (non, après vous).",
+    "Attenzione: le palace in francese è un albergo di lusso, non un palazzo (che si dice le palais o l'immeuble). La formule indica un pacchetto o una formula di soggiorno, non una formula in senso generale.",
+    "Falso amico: tenter in francese significa anche allettare o attirare, non solo tentare. Ça ne me tente pas vuol dire « non mi attira »: un italiano che traduce alla lettera rischia di sbagliare.",
+    "Un cours è singolare, nonostante la s finale: un cours de français è un corso di francese, un sinonimo di une leçon. Attenzione all'articolo (un, non une).",
+    "Pronuncia: nel grand hôtel la d finale del primo termine si pronuncia [t] per effetto del collegamento (liaison) con la vocale successiva; la h iniziale di hôtel è muta."
+  ],
+  "exercises": [
+    {
+      "id": "L064-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "si-clauses",
+      "prompt": "Quale frase traduce correttamente « Se parti adesso, arriverai prima di mezzogiorno » ?",
+      "options": [
+        "Si tu partiras maintenant, tu arriveras avant midi.",
+        "Si tu pars maintenant, tu arriveras avant midi.",
+        "Si tu pars maintenant, tu arriverais avant midi.",
+        "Si tu partais maintenant, tu arriveras avant midi."
+      ],
+      "correct": 1,
+      "explain_it": "Con « si » si usa il presente nella condizione e il futuro semplice nella conseguenza; dopo « si » non si usa mai il futuro."
+    },
+    {
+      "id": "L064-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "superlatives",
+      "prompt": "Quale completa correttamente « Juillet est ___ mois de l'année » (luglio è il mese più bello dell'anno)?",
+      "options": [
+        "le plus beau",
+        "le plus belle",
+        "plus le beau",
+        "le beau plus"
+      ],
+      "correct": 0,
+      "explain_it": "Il superlativo richiede l'articolo + plus + aggettivo concordato con il nome: mois è maschile, quindi le plus beau."
+    },
+    {
+      "id": "L064-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "faire",
+      "prompt": "Quale frase significa « faccio immersioni subacquee » ?",
+      "options": [
+        "Je fais la plongée sous-marine.",
+        "Je fais de la plongée sous-marine.",
+        "Je fais de plongée sous-marine.",
+        "Je vais de la plongée sous-marine."
+      ],
+      "correct": 1,
+      "explain_it": "Con faire e un'attività sportiva si usa l'articolo partitivo: de la plongée (femminile). Senza articolo o con aller la frase è sbagliata."
+    },
+    {
+      "id": "L064-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "modals",
+      "prompt": "Quale frase significa « non so nuotare » ?",
+      "options": [
+        "Je ne connais pas nager.",
+        "Je ne sais pas nager.",
+        "Je n'ai pas savoir nager.",
+        "Je ne sais nager pas."
+      ],
+      "correct": 1,
+      "explain_it": "Per una capacità acquisita si usa savoir, con ne ... pas intorno al verbo. Connaître regge un nome, non un infinito."
+    },
+    {
+      "id": "L064-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "adverbs",
+      "prompt": "Quale avverbio significa « normalmente, di norma » ?",
+      "options": [
+        "normalement",
+        "normalment",
+        "normallement",
+        "normalemment"
+      ],
+      "correct": 0,
+      "explain_it": "Gli avverbi in -ment da aggettivo in -al prendono -ment senza raddoppiare la consonante: normal diventa normalement."
+    },
+    {
+      "id": "L064-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Dopo di lei, signora.",
+      "answers": [
+        "Après vous, madame."
+      ],
+      "distractors": [
+        "avant",
+        "toi"
+      ],
+      "explain_it": "Après vous è la formula di cortesia per cedere il passo; si usa vous anche con persone che non si conoscono bene."
+    },
+    {
+      "id": "L064-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "faire",
+      "prompt": "Faccio nuoto tutti i giorni.",
+      "answers": [
+        "Je fais de la natation tous les jours."
+      ],
+      "distractors": [
+        "du",
+        "le"
+      ],
+      "explain_it": "Il nuoto è femminile (la natation), quindi faire vuole de la; a differenza dell'italiano, l'articolo non si omette."
+    },
+    {
+      "id": "L064-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "si-clauses",
+      "prompt": "Se parti domani, vedrai il mare.",
+      "answers": [
+        "Si tu pars demain, tu verras la mer."
+      ],
+      "distractors": [
+        "partiras"
+      ],
+      "explain_it": "Nella frase con « si » il verbo della condizione è al presente (pars) e quello della conseguenza al futuro (verras)."
+    },
+    {
+      "id": "L064-e09",
+      "type": "order",
+      "level": 1,
+      "concept": "superlatives",
+      "prompt": "Questa è la spiaggia più bella della costa.",
+      "answers": [
+        "C'est la plus belle plage de la côte."
+      ],
+      "distractors": [
+        "le",
+        "mer"
+      ],
+      "explain_it": "L'aggettivo beau precede il nome plage; per questo l'articolo non si ripete: la plus belle plage."
+    },
+    {
+      "id": "L064-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "present-irregular",
+      "text": "Je ___ le pire : il va pleuvoir toute la semaine.",
+      "answers": [
+        "crains"
+      ],
+      "hint": "(craindre, presente)",
+      "prompt": "Temo il peggio: pioverà per tutta la settimana.",
+      "explain_it": "Craindre è irregolare: je crains, tu crains, il craint, nous craignons, vous craignez, ils craignent."
+    },
+    {
+      "id": "L064-e11",
+      "type": "cloze",
+      "level": 2,
+      "concept": "superlatives",
+      "text": "Ce sont ___ belles plages de la région.",
+      "answers": [
+        "les plus"
+      ],
+      "hint": "(superlativo di beau)",
+      "prompt": "Sono le spiagge più belle della regione.",
+      "explain_it": "L'aggettivo beau precede il nome: si usa les plus senza ripetere l'articolo davanti al nome."
+    },
+    {
+      "id": "L064-e12",
+      "type": "cloze",
+      "level": 2,
+      "concept": "faire",
+      "text": "Mon frère fait ___ natation tous les jours.",
+      "answers": [
+        "de la"
+      ],
+      "hint": "(faire, presente + partitivo femminile)",
+      "prompt": "Mio fratello fa nuoto tutti i giorni.",
+      "explain_it": "Natation è femminile: con faire si dice faire de la natation."
+    },
+    {
+      "id": "L064-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "modals",
+      "text": "Elle ___ conduire, mais elle n'a pas de voiture.",
+      "answers": [
+        "sait"
+      ],
+      "hint": "(savoir, presente)",
+      "prompt": "Lei sa guidare, ma non ha la macchina.",
+      "explain_it": "Per la capacità acquisita si usa savoir: elle sait conduire."
+    },
+    {
+      "id": "L064-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adverbs",
+      "text": "Il fait chaud en été ; ___, le soir il fait frais.",
+      "answers": [
+        "normalement"
+      ],
+      "hint": "(avverbio, « di norma »)",
+      "prompt": "D'estate fa caldo; di norma la sera fa fresco.",
+      "explain_it": "Normalement indica ciò che accade di solito, ed è invariabile."
+    },
+    {
+      "id": "L064-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Nous avons choisi une ___ tout compris pour la semaine.",
+      "answers": [
+        "formule"
+      ],
+      "hint": "(sostantivo femminile)",
+      "prompt": "Abbiamo scelto un pacchetto tutto compreso per la settimana.",
+      "explain_it": "Une formule nel senso di pacchetto turistico; è femminile, quindi accordato con une."
+    },
+    {
+      "id": "L064-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "In luglio la spiaggia è troppo affollata.",
+      "answers": [
+        "En juillet, la plage est trop [bondée|pleine de monde].",
+        "La plage est trop [bondée|pleine de monde] en juillet."
+      ],
+      "explain_it": "Plage è femminile, quindi l'aggettivo è bondée; si può dire anche « pleine de monde »."
+    },
+    {
+      "id": "L064-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Le temperature salgono in estate.",
+      "answers": [
+        "Les températures grimpent en été.",
+        "En été, les températures grimpent."
+      ],
+      "explain_it": "Grimper significa salire, e si usa anche per i prezzi e le temperature; températures è femminile plurale."
+    },
+    {
+      "id": "L064-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Lo sconto è eccezionale.",
+      "answers": [
+        "La [réduction|remise] est [exceptionnelle|extraordinaire]."
+      ],
+      "explain_it": "La réduction è lo sconto; exceptionnel è l'equivalente di eccezionale, con -elle al femminile."
+    },
+    {
+      "id": "L064-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Le spiagge sono affollate in agosto.",
+      "answers": [
+        "Les plages sont [bondées|pleines de monde] en août.",
+        "En août, les plages sont [bondées|pleines de monde]."
+      ],
+      "explain_it": "Plage è femminile, quindi l'aggettivo prende -ées al plurale: bondées."
+    },
+    {
+      "id": "L064-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "faire",
+      "prompt": "Io faccio sci in inverno.",
+      "answers": [
+        "Je fais du ski en hiver.",
+        "Je fais du ski l'hiver."
+      ],
+      "explain_it": "Lo sci è maschile, quindi faire vuole du: faire du ski, senza articolo italiano."
+    },
+    {
+      "id": "L064-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Non è a buon mercato.",
+      "answers": [
+        "Ce n'est pas donné.",
+        "Ça n'est pas donné.",
+        "Ce n'est pas bon marché.",
+        "C'est cher."
+      ],
+      "explain_it": "« Ce n'est pas donné » è l'idioma per « costa caro »; non significa « non è dato » in senso letterale."
+    },
+    {
+      "id": "L064-e22",
+      "type": "dictation",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Nous passons nos vacances sur la Côte d'Azur.",
+      "explain_it": "Vacances è sempre plurale in francese; nos concorda con il soggetto nous."
+    },
+    {
+      "id": "L064-e23",
+      "type": "mcq",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Che cosa significa « Ce n'est pas donné » ?",
+      "options": [
+        "È molto costoso",
+        "È gratuito",
+        "Non è dato a nessuno",
+        "È un regalo"
+      ],
+      "correct": 0,
+      "explain_it": "L'idioma indica un prezzo elevato; non ha il senso letterale di « gratuito » o di « regalo »."
+    },
+    {
+      "id": "L064-e24",
+      "type": "flash",
+      "level": 2,
+      "concept": "si-clauses",
+      "front": "Frase con « si »: quale tempo si usa nella condizione e quale nella conseguenza?",
+      "back": "Nella frase con « si » (condizione reale) si usa il presente, anche per azioni future; nella frase principale il futuro semplice: Si vous partez, vous arriverez. Dopo « si » il futuro non compare mai.",
+      "note": "Si davanti a il diventa s'il."
+    },
+    {
+      "id": "L064-e25",
+      "type": "write",
+      "level": 3,
+      "concept": "si-clauses",
+      "prompt": "Se andate in Costa Azzurra, potrete nuotare.",
+      "answers": [
+        "Si vous allez [sur|à] la Côte d'Azur, vous pourrez [nager|vous baigner]."
+      ],
+      "explain_it": "La condizione usa il presente (allez), la conseguenza il futuro semplice di pouvoir (pourrez)."
+    },
+    {
+      "id": "L064-e26",
+      "type": "write",
+      "level": 3,
+      "concept": "si-clauses",
+      "prompt": "Se domani piove, non andremo in spiaggia.",
+      "answers": [
+        "S'il pleut demain, [nous n'irons|on n'ira] pas à la plage."
+      ],
+      "explain_it": "S'il con il presente pleut, poi il futuro semplice dell'andare; on è accettabile nel parlato come alternativa a nous."
+    },
+    {
+      "id": "L064-e27",
+      "type": "write",
+      "level": 3,
+      "concept": "superlatives",
+      "prompt": "Gennaio è il periodo più tranquillo dell'anno.",
+      "answers": [
+        "Janvier est la période la plus tranquille de l'année."
+      ],
+      "explain_it": "Con l'aggettivo che segue il nome l'articolo si ripete: la période la plus tranquille."
+    },
+    {
+      "id": "L064-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "superlatives",
+      "prompt": "Sono le giornate più calde dell'estate.",
+      "answers": [
+        "Ce sont les journées les plus chaudes de l'été."
+      ],
+      "explain_it": "Journées è femminile plurale, quindi l'aggettivo prende -es; il superlativo mantiene les plus davanti all'aggettivo."
+    },
+    {
+      "id": "L064-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "faire",
+      "prompt": "Mia sorella fa immersioni subacquee e nuoto.",
+      "answers": [
+        "Ma sœur fait de la plongée sous-marine et de la natation.",
+        "Ma soeur fait de la plongée sous-marine et de la natation.",
+        "Ma sœur fait de la plongée et de la natation."
+      ],
+      "explain_it": "Con faire si usa de la per le attività femminili: la plongée e la natation; sœur è femminile, quindi fait è al singolare."
+    },
+    {
+      "id": "L064-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "modals",
+      "prompt": "Sai nuotare? (forma tu)",
+      "answers": [
+        "Sais-tu nager ?",
+        "Tu sais nager ?",
+        "Est-ce que tu sais nager ?"
+      ],
+      "explain_it": "Con savoir la domanda di capacità si fa con sais-tu o con est-ce que, senza preposizione prima dell'infinito."
+    },
+    {
+      "id": "L064-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "modals",
+      "prompt": "Non so guidare la macchina.",
+      "answers": [
+        "Je ne sais pas conduire la voiture.",
+        "Je ne sais pas conduire.",
+        "Je ne sais pas conduire une voiture."
+      ],
+      "explain_it": "Per dire di non saper guidare si usa savoir con ne ... pas; conduire regge direttamente l'infinito."
+    },
+    {
+      "id": "L064-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Dipende: quanto tempo avete?",
+      "answers": [
+        "[Tout|Ça] dépend : combien de temps [avez-vous|vous avez|est-ce que vous avez] ?"
+      ],
+      "explain_it": "Tout dépend è la risposta tipica quando la risposta dipende da una condizione; si completa con una domanda, usando vous."
+    },
+    {
+      "id": "L064-e33",
+      "type": "dictation",
+      "level": 3,
+      "concept": "si-clauses",
+      "text": "Si vous partez maintenant, vous arriverez avant midi et vous pourrez nager.",
+      "explain_it": "Nella frase con « si » il presente (partez) introduce il futuro (arriverez, pourrez), e avant midi indica l'orario."
+    },
+    {
+      "id": "L064-e34",
+      "type": "dictation",
+      "level": 3,
+      "concept": "modals",
+      "text": "Je ne sais pas monter à cheval, mais j'aime nager.",
+      "explain_it": "Savoir esprime la capacità appresa (sais), mentre aimer regge direttamente l'infinito nager."
+    },
+    {
+      "id": "L064-e35",
+      "type": "flash",
+      "level": 3,
+      "concept": "superlatives",
+      "front": "Superlativo: quando l'articolo si ripete davanti al nome?",
+      "back": "Se l'aggettivo segue il nome, l'articolo si ripete: les mois les plus agréables. Se l'aggettivo precede il nome, l'articolo compare una sola volta: les plus beaux mois. Il superlativo di mauvais è irregolare: le pire.",
+      "note": "L'articolo dipende dalla posizione dell'aggettivo rispetto al nome."
+    },
+    {
+      "id": "L064-e36",
+      "type": "flash",
+      "level": 3,
+      "concept": "faire",
+      "front": "Faire + sport o attività: quale articolo partitivo si usa?",
+      "back": "faire du + maschile (du ski); faire de la + femminile (de la natation, de la plongée); faire des + plurale (des randonnées). In italiano si dice fare sci o fare nuoto senza articolo, ma in francese l'articolo è obbligatorio.",
+      "note": "Con andare a cavallo si può dire faire du cheval oppure monter à cheval."
+    },
+    {
+      "id": "L064-e37",
+      "type": "flash",
+      "level": 3,
+      "concept": "modals",
+      "front": "Savoir o pouvoir: quale verbo si usa per la capacità e quale per la possibilità?",
+      "back": "Savoir indica una capacità acquisita (je sais nager, so nuotare). Pouvoir indica possibilità o permesso (tu peux entrer, puoi entrare; on peut nager ici, è permesso).",
+      "note": "Savoir regge l'infinito senza preposizione."
+    }
+  ]
+}

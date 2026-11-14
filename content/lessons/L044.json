@@ -1,0 +1,950 @@
+{
+  "n": 44,
+  "title_fr": "Perturbations dans les transports...",
+  "title_it": "Disagi nei trasporti...",
+  "review": false,
+  "status": "verified",
+  "source": "1db59936 p32-39 (libro pp. 213-220)",
+  "theme_it": "Alla stazione un viaggiatore chiede come comprare i biglietti: il bigliettaio gli indica dove trovare la biglietteria e le macchinette. Poi, tra macchinette fuori servizio, treni in ritardo e linee perturbate, i due decidono di prendere il pullman.",
+  "grammar": [
+    {
+      "id": "adjective-position",
+      "title_it": "Mauvais e faux: l'aggettivo davanti al nome",
+      "explain_it": "Mauvais (f. mauvaise) sta di solito davanti al nome e significa 'cattivo' (une mauvaise idée) oppure 'sbagliato' (le mauvais train, un mauvais numéro). Anche faux (f. fausse) sta davanti al nome e vuol dire 'falso' o 'sbagliato': un faux numéro. In italiano l'aggettivo sta di solito dopo il nome, quindi conviene ricordare la posizione davanti per questi due aggettivi.",
+      "examples": [
+        {
+          "fr": "Vous avez pris le mauvais train.",
+          "it": "Avete preso il treno sbagliato."
+        },
+        {
+          "fr": "C'est une mauvaise idée.",
+          "it": "È una cattiva idea."
+        }
+      ]
+    },
+    {
+      "id": "false-friends",
+      "title_it": "Faux (f. fausse): falso o sbagliato",
+      "explain_it": "Faux significa 'falso' o 'sbagliato' e concorda con il nome: un faux billet (banconota falsa), une fausse note (nota stonata). Non va confuso con l'italiano 'fallo' (in francese faute), né con 'fausto'. Per dire 'avere torto' il francese usa avoir tort, non être faux.",
+      "examples": [
+        {
+          "fr": "Ce billet est un faux.",
+          "it": "Questa banconota è un falso."
+        },
+        {
+          "fr": "C'est faux, ce n'est pas vrai.",
+          "it": "È sbagliato, non è vero."
+        }
+      ]
+    },
+    {
+      "id": "pronoun-en",
+      "title_it": "En con avoir marre e con le quantità",
+      "explain_it": "Il pronome en sostituisce il complemento introdotto da de: con avoir marre de (averne abbastanza di) si dice J'en ai marre, non 'je suis marre de'. Lo stesso en si usa per sostituire un complemento con de o per indicare una quantità non precisata: Combien de billets ? J'en veux deux. In italiano corrisponde a 'ne'.",
+      "examples": [
+        {
+          "fr": "J'en ai marre de cette attente !",
+          "it": "Ne ho abbastanza di questa attesa!"
+        },
+        {
+          "fr": "Combien de billets veux-tu ? J'en veux trois.",
+          "it": "Quanti biglietti vuoi? Ne voglio tre."
+        }
+      ]
+    },
+    {
+      "id": "prepositions",
+      "title_it": "Être d'accord avec: essere d'accordo con",
+      "explain_it": "Il verbo essere d'accordo si costruisce con avec davanti alla persona o alla cosa con cui si è d'accordo: être d'accord avec quelqu'un, come in italiano 'con'. Il contrario è ne pas être d'accord avec. D'accord si scrive con l'apostrofo. Da solo, d'accord ! è anche una risposta: va bene, d'accordo.",
+      "examples": [
+        {
+          "fr": "Je suis d'accord avec toi.",
+          "it": "Sono d'accordo con te."
+        },
+        {
+          "fr": "Je ne suis pas d'accord avec ce plan.",
+          "it": "Non sono d'accordo con questo progetto."
+        }
+      ]
+    },
+    {
+      "id": "present-irregular",
+      "title_it": "Valoir: il verbo 'valere' al presente",
+      "explain_it": "Valoir (valere) è irregolare al presente: je vaux, tu vaux, il/elle vaut, nous valons, vous valez, ils/elles valent. È molto usato nell'espressione impersonale il vaut mieux (è meglio) e per chiedere o dire il prezzo: combien vaut... ? (quanto vale...?). La forma il vaut è quella che serve per l'espressione di consiglio.",
+      "examples": [
+        {
+          "fr": "Il vaut mieux attendre.",
+          "it": "È meglio aspettare."
+        },
+        {
+          "fr": "Ces bijoux valent beaucoup.",
+          "it": "Questi gioielli valgono molto."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Mal: avoir mal à, avoir du mal à, prendre son mal en patience",
+      "explain_it": "Mal (male, dolore) ha tre usi frequenti. Avoir mal à + parte del corpo indica un dolore: j'ai mal à la tête. Avoir du mal à + infinito significa 'avere difficoltà a': j'ai du mal à comprendre. Prendre son mal en patience significa rassegnarsi e sopportare con pazienza, e il possessivo concorda con la persona che sopporta: je prends mon mal en patience.",
+      "examples": [
+        {
+          "fr": "J'ai mal au dos depuis hier.",
+          "it": "Ho mal di schiena da ieri."
+        },
+        {
+          "fr": "J'ai du mal à comprendre cette règle.",
+          "it": "Faccio fatica a capire questa regola."
+        }
+      ]
+    },
+    {
+      "id": "vocab",
+      "title_it": "Il suffisso -age: da verbo a sostantivo",
+      "explain_it": "Molti verbi del primo gruppo si trasformano in sostantivi maschili aggiungendo il suffisso -age alla radice: composter → le compostage (obliterazione), afficher → l'affichage (affissione, esposizione), passer → le passage (passaggio). In italiano il suffisso corrisponde spesso a -aggio. Il significato va sempre letto nel contesto.",
+      "examples": [
+        {
+          "fr": "Le passage est fermé.",
+          "it": "Il passaggio è chiuso."
+        },
+        {
+          "fr": "L'affichage est en panne.",
+          "it": "Il tabellone è guasto."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le titre de transport",
+      "it": "il titolo di viaggio",
+      "pos": "n",
+      "note": "documento che autorizza a viaggiare"
+    },
+    {
+      "fr": "électronique",
+      "it": "elettronico",
+      "pos": "adj"
+    },
+    {
+      "fr": "le distributeur automatique",
+      "it": "il distributore automatico",
+      "pos": "n"
+    },
+    {
+      "fr": "le quai",
+      "it": "la banchina (del binario)",
+      "pos": "n",
+      "note": "il binario come numero si dice la voie"
+    },
+    {
+      "fr": "le billet",
+      "it": "il biglietto",
+      "pos": "n"
+    },
+    {
+      "fr": "un aller simple",
+      "it": "un biglietto di sola andata",
+      "pos": "n",
+      "note": "anche solo 'un aller simple'"
+    },
+    {
+      "fr": "un aller-retour",
+      "it": "un biglietto di andata e ritorno",
+      "pos": "n"
+    },
+    {
+      "fr": "la billetterie",
+      "it": "la biglietteria",
+      "pos": "n"
+    },
+    {
+      "fr": "la consigne",
+      "it": "il deposito bagagli",
+      "pos": "n"
+    },
+    {
+      "fr": "l'objet trouvé",
+      "it": "l'oggetto smarrito",
+      "pos": "n",
+      "note": "al plurale: les objets trouvés (ufficio oggetti smarriti)"
+    },
+    {
+      "fr": "la file d'attente",
+      "it": "la fila d'attesa",
+      "pos": "n"
+    },
+    {
+      "fr": "le guichet",
+      "it": "lo sportello",
+      "pos": "n"
+    },
+    {
+      "fr": "composter",
+      "it": "obliterare",
+      "pos": "v",
+      "note": "timbrare il biglietto cartaceo"
+    },
+    {
+      "fr": "le compostage",
+      "it": "l'obliterazione",
+      "pos": "n"
+    },
+    {
+      "fr": "valider",
+      "it": "convalidare",
+      "pos": "v"
+    },
+    {
+      "fr": "hors service",
+      "it": "fuori servizio",
+      "pos": "expr"
+    },
+    {
+      "fr": "le contrôleur",
+      "it": "il controllore",
+      "pos": "n"
+    },
+    {
+      "fr": "énervant / énervante",
+      "it": "irritante, esasperante",
+      "pos": "adj",
+      "note": "non 'nervoso': è il falso amico"
+    },
+    {
+      "fr": "le tableau d'affichage",
+      "it": "il tabellone",
+      "pos": "n"
+    },
+    {
+      "fr": "la panne",
+      "it": "il guasto",
+      "pos": "n",
+      "note": "être en panne: essere guasto"
+    },
+    {
+      "fr": "le retard",
+      "it": "il ritardo",
+      "pos": "n"
+    },
+    {
+      "fr": "annulé / annulée",
+      "it": "cancellato",
+      "pos": "adj"
+    },
+    {
+      "fr": "perturbé / perturbée",
+      "it": "disturbato, perturbato",
+      "pos": "adj"
+    },
+    {
+      "fr": "la circulation",
+      "it": "il traffico, la circolazione",
+      "pos": "n"
+    },
+    {
+      "fr": "le train omnibus",
+      "it": "il treno che ferma in tutte le stazioni",
+      "pos": "n"
+    },
+    {
+      "fr": "le car",
+      "it": "il pullman",
+      "pos": "n",
+      "note": "non l'auto: è il pullman a lunga percorrenza"
+    },
+    {
+      "fr": "léger / légère",
+      "it": "leggero",
+      "pos": "adj"
+    },
+    {
+      "fr": "le sens",
+      "it": "il senso, la direzione",
+      "pos": "n",
+      "note": "dans le bon sens: nel verso giusto"
+    },
+    {
+      "fr": "faux / fausse",
+      "it": "falso, sbagliato",
+      "pos": "adj"
+    },
+    {
+      "fr": "avoir l'air",
+      "it": "sembrare",
+      "pos": "expr",
+      "note": "avoir l'air + aggettivo"
+    },
+    {
+      "fr": "l'abonnement (m.)",
+      "it": "l'abbonamento",
+      "pos": "n",
+      "note": "la carte d'abonnement = la tessera dell'abbonamento"
+    },
+    {
+      "fr": "s'abonner (à)",
+      "it": "abbonarsi (a)",
+      "pos": "v"
+    },
+    {
+      "fr": "l'affiche (f.)",
+      "it": "il manifesto, l'avviso",
+      "pos": "n"
+    },
+    {
+      "fr": "afficher",
+      "it": "affiggere, esporre",
+      "pos": "v"
+    },
+    {
+      "fr": "avancer",
+      "it": "avanzare, procedere",
+      "pos": "v"
+    },
+    {
+      "fr": "à bord (de)",
+      "it": "a bordo (di)",
+      "pos": "expr",
+      "note": "à bord du train"
+    },
+    {
+      "fr": "le cousin / la cousine",
+      "it": "il cugino / la cugina",
+      "pos": "n"
+    },
+    {
+      "fr": "lourd / lourde",
+      "it": "pesante",
+      "pos": "adj"
+    },
+    {
+      "fr": "la mer",
+      "it": "il mare",
+      "pos": "n",
+      "note": "da non confondere con le maire = il sindaco"
+    },
+    {
+      "fr": "obligatoire",
+      "it": "obbligatorio",
+      "pos": "adj"
+    },
+    {
+      "fr": "partout",
+      "it": "dappertutto",
+      "pos": "adv"
+    },
+    {
+      "fr": "la perturbation",
+      "it": "il disagio, il disservizio",
+      "pos": "n",
+      "note": "anche: perturbazione"
+    },
+    {
+      "fr": "porter",
+      "it": "portare (addosso, in mano)",
+      "pos": "v",
+      "note": "non per « portare qualcosa a qualcuno » (= apporter)"
+    },
+    {
+      "fr": "le sac",
+      "it": "la borsa, lo zaino, il sacco",
+      "pos": "n"
+    },
+    {
+      "fr": "signaler",
+      "it": "segnalare",
+      "pos": "v"
+    },
+    {
+      "fr": "le souci",
+      "it": "la preoccupazione, il problema",
+      "pos": "n",
+      "note": "des soucis = guai, problemi"
+    },
+    {
+      "fr": "valoir",
+      "it": "valere",
+      "pos": "v",
+      "note": "il vaut; je vaux, nous valons, ils valent"
+    },
+    {
+      "fr": "la voie",
+      "it": "il binario, la via",
+      "pos": "n",
+      "note": "la voie numéro trois"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "J'en ai marre !",
+      "it": "Ne ho abbastanza!",
+      "note": "colloquiale; avoir marre de qc"
+    },
+    {
+      "fr": "Il vaut mieux...",
+      "it": "È meglio...",
+      "note": "espressione impersonale con valoir"
+    },
+    {
+      "fr": "Prendre son mal en patience",
+      "it": "Avere pazienza, rassegnarsi",
+      "note": "idioma; il possessivo cambia con la persona"
+    },
+    {
+      "fr": "À chaque fois",
+      "it": "Ogni volta",
+      "note": "anche 'chaque fois que' + frase"
+    },
+    {
+      "fr": "En réalité",
+      "it": "In realtà",
+      "note": "per contrapporre l'apparenza alla realtà"
+    },
+    {
+      "fr": "Vrai ou faux ?",
+      "it": "Vero o falso?",
+      "note": "per chiedere conferma"
+    },
+    {
+      "fr": "Être d'accord avec",
+      "it": "Essere d'accordo con",
+      "note": "non 'accordare' in senso musicale"
+    },
+    {
+      "fr": "Veux-tu de l'aide ?",
+      "it": "Vuoi una mano?",
+      "note": "registro colloquiale, con tu"
+    },
+    {
+      "fr": "Attends une minute.",
+      "it": "Aspetta un minuto.",
+      "note": "registro informale; con vous diventa Attendez"
+    },
+    {
+      "fr": "Faire attention à ne pas...",
+      "it": "Stare attento a non...",
+      "note": "ne va prima dell'infinito"
+    }
+  ],
+  "notes_it": [
+    "Pronuncia: la s finale di 'sens' si pronuncia, come in 'fils' (figlio) e in 'plus' a fine frase.",
+    "Trasporti: un 'aller simple' è di sola andata, un 'aller-retour' è andata e ritorno; per i biglietti cartacei in Francia si usa 'composter' prima di salire, gesto obbligatorio come da cartelli nelle stazioni.",
+    "Falsi amici: 'énervant' significa irritante, non nervoso; 'le car' è il pullman, non l'automobile; 'un ticket' si usa soprattutto per la metropolitana, 'un billet' per il treno.",
+    "Hors service è il cartello 'fuori servizio'; en panne si usa per un guasto di una macchina, di un treno o di un'auto: le distributeur est en panne."
+  ],
+  "exercises": [
+    {
+      "id": "L044-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "adjective-position",
+      "explain_it": "Mauvais nel senso di 'sbagliato' si mette davanti al nome: un mauvais numéro.",
+      "prompt": "Quale aggettivo completa 'un ___ numéro' con il senso di 'sbagliato'?",
+      "options": [
+        "mauvais",
+        "mal",
+        "malade"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L044-e02",
+      "type": "cloze",
+      "level": 1,
+      "concept": "adjective-position",
+      "text": "Tu as pris le ___ train, celui-ci va à Nancy.",
+      "answers": [
+        "mauvais"
+      ],
+      "hint": "(aggettivo: sbagliato, davanti al nome)",
+      "prompt": "Hai preso il treno sbagliato, questo va a Nancy.",
+      "explain_it": "Con il senso di 'sbagliato' l'aggettivo mauvais viene prima del nome."
+    },
+    {
+      "id": "L044-e03",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-position",
+      "prompt": "Hai fatto il numero sbagliato.",
+      "answers": [
+        "[Tu as|Vous avez] fait [un|le] [mauvais|faux] numéro.",
+        "[Tu t'es|Vous vous êtes] trompé de numéro."
+      ],
+      "explain_it": "Per dire 'numero sbagliato' il francese usa un mauvais numéro o un faux numéro, sempre con l'aggettivo prima del nome."
+    },
+    {
+      "id": "L044-e04",
+      "type": "write",
+      "level": 3,
+      "concept": "adjective-position",
+      "prompt": "Ho preso l'autobus sbagliato e sono arrivato in ritardo.",
+      "answers": [
+        "J'ai pris [le|un] mauvais [bus|autobus] et je suis [arrivé|arrivée] en retard."
+      ],
+      "explain_it": "Mauvais prima del nome, il passato prossimo con avoir e l'accordo del participio con être; qui è accettato l'accordo maschile o femminile."
+    },
+    {
+      "id": "L044-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "false-friends",
+      "tags": [
+        "false-friend"
+      ],
+      "explain_it": "Faux significa falso o sbagliato, non 'fallo' né 'fausto'.",
+      "prompt": "'C'est faux' in italiano significa:",
+      "options": [
+        "È falso o sbagliato",
+        "È un fallo (sportivo)",
+        "È fausto, di buon auspicio"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L044-e06",
+      "type": "write",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "Questa banconota è falsa.",
+      "answers": [
+        "Ce billet est [faux|un faux]",
+        "C'est un faux billet"
+      ],
+      "explain_it": "Faux è un aggettivo che indica il falso; 'un faux' è anche un sostantivo, come in un faux billet."
+    },
+    {
+      "id": "L044-e07",
+      "type": "cloze",
+      "level": 2,
+      "concept": "false-friends",
+      "text": "Cette information est ___.",
+      "answers": [
+        "fausse"
+      ],
+      "hint": "(faux, femminile)",
+      "prompt": "Questa informazione è falsa.",
+      "explain_it": "Faux concorda con il nome: information è femminile, quindi fausse."
+    },
+    {
+      "id": "L044-e08",
+      "type": "flash",
+      "level": 2,
+      "concept": "false-friends",
+      "front": "Faux / fausse: che cosa significa?",
+      "back": "Falso o sbagliato. Un faux billet è una banconota falsa; une fausse note è una nota stonata.",
+      "note": "Non significa 'fallo' né 'fausto'. Per 'avere torto' si dice avoir tort."
+    },
+    {
+      "id": "L044-e09",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronoun-en",
+      "explain_it": "Con avoir marre de qualcosa il complemento è sostituito da en: j'en ai marre.",
+      "prompt": "Completa: 'J'___ ai marre !' (ne ho abbastanza)",
+      "options": [
+        "en",
+        "y",
+        "le"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L044-e10",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-en",
+      "text": "Combien de billets veux-tu ? — J'___ veux trois.",
+      "answers": [
+        "en"
+      ],
+      "hint": "(pronome che sostituisce de + nome)",
+      "prompt": "Quanti biglietti vuoi? Ne voglio tre.",
+      "explain_it": "Quando la quantità è già indicata con de, il pronome en la riprende; si usa anche con una quantità numerica."
+    },
+    {
+      "id": "L044-e11",
+      "type": "order",
+      "level": 3,
+      "concept": "pronoun-en",
+      "prompt": "Non voglio più sentirne parlare.",
+      "answers": [
+        "Je ne veux plus en entendre parler."
+      ],
+      "distractors": [
+        "y",
+        "toujours"
+      ],
+      "explain_it": "Il pronome en va davanti all'infinito entendre, mentre ne...plus avvolge il verbo conjugato vouloir."
+    },
+    {
+      "id": "L044-e12",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-en",
+      "prompt": "Ne ho abbastanza di questi ritardi!",
+      "answers": [
+        "J'en ai [marre|assez] de ces retards"
+      ],
+      "explain_it": "Con avoir marre o avoir assez il complemento di de si riprende con en."
+    },
+    {
+      "id": "L044-e13",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-en",
+      "prompt": "Ci servono tre biglietti.",
+      "answers": [
+        "Il nous en faut trois.",
+        "Il nous faut trois billets.",
+        "Nous avons besoin de trois billets."
+      ],
+      "explain_it": "Con il verbo falloir la persona va al complemento indiretto, e en riprende la quantità di biglietti."
+    },
+    {
+      "id": "L044-e14",
+      "type": "mcq",
+      "level": 1,
+      "concept": "prepositions",
+      "explain_it": "Essere d'accordo si costruisce con avec: être d'accord avec quelqu'un.",
+      "prompt": "Completa: 'Je suis d'accord ___ toi.'",
+      "options": [
+        "avec",
+        "de",
+        "à"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L044-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "prepositions",
+      "text": "Je ne suis pas ___ avec toi.",
+      "answers": [
+        "d'accord"
+      ],
+      "hint": "(essere d'accordo, negativo)",
+      "prompt": "Non sono d'accordo con te.",
+      "explain_it": "Il negativo si forma con ne...pas attorno a être, e d'accord resta invariato."
+    },
+    {
+      "id": "L044-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "Sono d'accordo con voi.",
+      "answers": [
+        "Je suis d'accord avec vous."
+      ],
+      "explain_it": "Con essere d'accord si usa avec davanti alla persona: con voi si dice avec vous."
+    },
+    {
+      "id": "L044-e17",
+      "type": "write",
+      "level": 3,
+      "concept": "prepositions",
+      "prompt": "Non sono affatto d'accordo con questa decisione.",
+      "answers": [
+        "Je ne suis pas du tout d'accord avec [cette décision|ce choix]."
+      ],
+      "explain_it": "La negazione avvolge être, pas du tout rende 'affatto', e la preposizione resta avec."
+    },
+    {
+      "id": "L044-e18",
+      "type": "mcq",
+      "level": 1,
+      "concept": "present-irregular",
+      "explain_it": "Valoir è irregolare: il vaut mieux è l'espressione per dire 'è meglio'.",
+      "prompt": "Completa: 'Il ___ mieux attendre.' (è meglio aspettare)",
+      "options": [
+        "vaut",
+        "veut",
+        "vient"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L044-e19",
+      "type": "cloze",
+      "level": 2,
+      "concept": "present-irregular",
+      "text": "Combien ___ ce collier ?",
+      "answers": [
+        "vaut",
+        "coûte"
+      ],
+      "hint": "(valoir, presente, terza persona singolare)",
+      "prompt": "Quanto vale questa collana?",
+      "explain_it": "Per il prezzo si usa il verbo valoir, che alla terza persona singolare fa vaut (coûter è un sinonimo)."
+    },
+    {
+      "id": "L044-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "present-irregular",
+      "prompt": "Questi biglietti valgono molto.",
+      "answers": [
+        "Ces billets valent beaucoup"
+      ],
+      "explain_it": "Valoir alla terza persona plurale fa valent, con la radice che cambia rispetto alla forma nous."
+    },
+    {
+      "id": "L044-e21",
+      "type": "write",
+      "level": 3,
+      "concept": "present-irregular",
+      "prompt": "È meglio aspettare ancora un po'.",
+      "answers": [
+        "[Il vaut mieux|Mieux vaut] attendre encore un peu"
+      ],
+      "explain_it": "Il vaut mieux è l'espressione impersonale; esiste anche la forma senza soggetto Mieux vaut."
+    },
+    {
+      "id": "L044-e22",
+      "type": "flash",
+      "level": 2,
+      "concept": "present-irregular",
+      "front": "Valoir (valere), presente indicativo",
+      "back": "je vaux, tu vaux, il/elle vaut, nous valons, vous valez, ils/elles valent",
+      "note": "Il vaut mieux (è meglio) è la forma più usata. Attenzione al singolare: je vaux, tu vaux (con x), il vaut (con t)."
+    },
+    {
+      "id": "L044-e23",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "explain_it": "Prendre son mal en patience significa rassegnarsi con pazienza, non prendere una medicina.",
+      "prompt": "Che cosa significa 'prendre son mal en patience'?",
+      "options": [
+        "avere pazienza, sopportare",
+        "prendere una medicina",
+        "avere fretta"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L044-e24",
+      "type": "order",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Ogni volta c'è un problema con questi treni.",
+      "answers": [
+        "À chaque fois il y a un problème avec ces trains.",
+        "Il y a un problème avec ces trains à chaque fois."
+      ],
+      "distractors": [
+        "souvent",
+        "jamais"
+      ],
+      "explain_it": "À chaque fois significa 'ogni volta' ed è seguito direttamente dalla frase con il verbo."
+    },
+    {
+      "id": "L044-e25",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "J'ai ___ à la tête, je prends un cachet.",
+      "answers": [
+        "mal"
+      ],
+      "hint": "(avoir ___ à + parte del corpo)",
+      "prompt": "Ho mal di testa, prendo una pastiglia.",
+      "explain_it": "Per un dolore fisico si usa avoir mal à con la parte del corpo: mal à la tête."
+    },
+    {
+      "id": "L044-e26",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Faccio fatica a capire questa regola.",
+      "answers": [
+        "J'ai du mal à comprendre cette règle."
+      ],
+      "explain_it": "Avoir du mal à più infinito significa 'avere difficoltà a'; du è la forma partitiva di mal."
+    },
+    {
+      "id": "L044-e27",
+      "type": "mcq",
+      "level": 2,
+      "concept": "vocab",
+      "explain_it": "Il suffisso -age trasforma molti verbi in sostantivi maschili: composter → compostage.",
+      "prompt": "Il sostantivo 'compostage' deriva dal verbo 'composter' tramite quale suffisso?",
+      "options": [
+        "-age",
+        "-eur",
+        "-ment"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L044-e28",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "L'___ des horaires est en panne dans la gare.",
+      "answers": [
+        "affichage"
+      ],
+      "hint": "(afficher + -age)",
+      "prompt": "Il tabellone degli orari è guasto in stazione.",
+      "explain_it": "Il suffisso -age si aggiunge alla radice del verbo: afficher diventa affichage."
+    },
+    {
+      "id": "L044-e29",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Dal verbo 'passer' (passare), con il suffisso -age, forma il sostantivo che significa 'il passaggio'.",
+      "answers": [
+        "le passage",
+        "un passage",
+        "passage"
+      ],
+      "explain_it": "Passer più il suffisso -age dà passage, sostantivo maschile.",
+      "ask": "Forma il sostantivo con -age"
+    },
+    {
+      "id": "L044-e30",
+      "type": "dictation",
+      "level": 2,
+      "concept": "present-irregular",
+      "text": "Il vaut mieux partir tout de suite.",
+      "explain_it": "Il vaut mieux seguito dall'infinito è la forma di consiglio più frequente."
+    },
+    {
+      "id": "L044-e31",
+      "type": "dictation",
+      "level": 3,
+      "concept": "passe-compose-avoir",
+      "text": "Je n'ai pas pu composter mon billet, la machine est hors service.",
+      "explain_it": "Il passato prossimo con avoir e pu è il participio di pouvoir; la negazione avvolge l'ausiliare."
+    },
+    {
+      "id": "L044-e32",
+      "type": "order",
+      "level": 1,
+      "concept": "pronoun-cod",
+      "prompt": "Vado a comprarli domani.",
+      "answers": [
+        "Je vais les acheter demain."
+      ],
+      "distractors": [
+        "le",
+        "avons"
+      ],
+      "explain_it": "Il pronome les, complemento diretto plurale, si mette prima dell'infinito che dipende da vais."
+    },
+    {
+      "id": "L044-e33",
+      "type": "mcq",
+      "level": 1,
+      "concept": "comparatives",
+      "explain_it": "Il comparativo di maggioranza si forma con plus ... que: plus vite que.",
+      "prompt": "Completa: 'Ce car va ___ vite que le train.' (più veloce)",
+      "options": [
+        "plus",
+        "moins",
+        "très"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L044-e34",
+      "type": "write",
+      "level": 2,
+      "concept": "comparatives",
+      "prompt": "Questo treno è più lento dell'altro.",
+      "answers": [
+        "Ce train est plus lent que l'autre",
+        "Ce train va plus lentement que l'autre"
+      ],
+      "explain_it": "Il comparativo di maggioranza si forma con plus e que; con l'avverbio lentement si usa la stessa costruzione."
+    },
+    {
+      "id": "L044-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "negation",
+      "prompt": "Il treno non è mai in orario, e io ne ho abbastanza.",
+      "answers": [
+        "Le train n'est jamais à l'heure, et [j'en ai marre|j'en ai assez]"
+      ],
+      "explain_it": "Jamais avvolge il verbo essere, e il pronome en si usa con avoir marre o avoir assez."
+    },
+    {
+      "id": "L044-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "negation-other",
+      "prompt": "Non ho nemmeno un biglietto.",
+      "answers": [
+        "Je n'ai même pas de billet.",
+        "Je n'ai même pas un billet.",
+        "Je n'ai pas un seul billet."
+      ],
+      "explain_it": "Dopo la negazione il complemento prende de senza articolo; même pas rafforza la frase."
+    },
+    {
+      "id": "L044-e37",
+      "type": "write",
+      "level": 2,
+      "concept": "modals",
+      "prompt": "Puoi aspettarmi qui, per favore?",
+      "answers": [
+        "Peux-tu m'attendre ici, s'il te plaît ?",
+        "Tu peux m'attendre ici, s'il te plaît ?",
+        "Pouvez-vous m'attendre ici, s'il vous plaît ?",
+        "Vous pouvez m'attendre ici, s'il vous plaît ?"
+      ],
+      "explain_it": "Pouvoir più infinito chiede un favore; il pronome m' va prima dell'infinito."
+    },
+    {
+      "id": "L044-e38",
+      "type": "write",
+      "level": 2,
+      "concept": "imperative",
+      "prompt": "Aspetta un minuto, per favore.",
+      "answers": [
+        "Attends une minute, s'il te plaît.",
+        "Attendez une minute, s'il vous plaît."
+      ],
+      "explain_it": "L'imperativo di attendre è attends con tu, attendez con vous; in italiano l'ambiguità permette entrambe."
+    },
+    {
+      "id": "L044-e39",
+      "type": "cloze",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "text": "J'ai ___ mon billet hier.",
+      "answers": [
+        "composté"
+      ],
+      "hint": "(composter, participio passato)",
+      "prompt": "Ieri ho obliterato il mio biglietto.",
+      "explain_it": "Il participio passato di composter è composté, con avoir come ausiliare."
+    },
+    {
+      "id": "L044-e40",
+      "type": "write",
+      "level": 2,
+      "prompt": "Ci sono dei manifesti dappertutto.",
+      "ask": "Traduci in francese.",
+      "answers": [
+        "Il y a des affiches partout."
+      ],
+      "concept": "vocab",
+      "explain_it": "affiche è femminile: des affiches; partout = dappertutto."
+    },
+    {
+      "id": "L044-e41",
+      "type": "cloze",
+      "level": 2,
+      "text": "Il faut signaler la panne au contrôleur ___ du train.",
+      "answers": [
+        "à bord"
+      ],
+      "hint": "(a bordo)",
+      "concept": "prepositions",
+      "explain_it": "« à bord » = a bordo; « à bord du train » indica chi si trova sul treno."
+    }
+  ]
+}

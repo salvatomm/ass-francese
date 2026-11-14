@@ -1,0 +1,1095 @@
+{
+  "n": 39,
+  "title_fr": "Le septième art",
+  "title_it": "La settima arte",
+  "review": false,
+  "status": "verified",
+  "source": "c15d4fa8 p97-99; 1db59936 p1-5 (libro pp. 179-186)",
+  "theme_it": "Un giornalista o un presentatore radiofonico parla del cinema in Francia: la tradizione cinematografica, le piattaforme e le sale, il pubblico, i festival e i premi come i César. Alla fine si annuncia il vincitore del César per la miglior regia, che reagisce con finta calma e sorpresa.",
+  "grammar": [
+    {
+      "id": "passe-compose-avoir",
+      "title_it": "Participi passati particolari",
+      "explain_it": "Molti verbi hanno un participio passato particolare da imparare a memoria: voir → vu, avoir → eu, recevoir → reçu, prendre → pris, suivre → suivi, dormir → dormi. Con questi verbi il passato prossimo si forma con avoir, come per i regolari: ho visto = j'ai vu. Verbi di movimento come aller e venir usano invece être: li vedremo con calma più avanti.",
+      "examples": [
+        {
+          "fr": "J'ai vu ce film hier soir.",
+          "it": "Ho visto questo film ieri sera."
+        },
+        {
+          "fr": "Nous avons eu beaucoup de chance.",
+          "it": "Abbiamo avuto molta fortuna."
+        },
+        {
+          "fr": "Il a suivi le festival à la télévision.",
+          "it": "Ha seguito il festival in televisione."
+        }
+      ]
+    },
+    {
+      "id": "gerondif",
+      "title_it": "Il participio presente (-ant)",
+      "explain_it": "Il participio presente si forma prendendo la radice della prima persona plurale del presente e aggiungendo -ant: nous essayons → essayant, nous finissons → finissant, nous rendons → rendant. Tre eccezioni: ayant, étant, sachant. Nella lezione compare in due usi: come forma verbale per un'azione contemporanea (essayant de rester calme = cercando di restare calmo) e come aggettivo che concorda con il nome (les arts vivants = le arti viventi). Preceduto da en, il participio presente forma il gérondif, che indica un'azione contemporanea di cui è soggetto lo stesso soggetto del verbo principale: en écoutant le discours = ascoltando il discorso, mentre ascolto il discorso.",
+      "examples": [
+        {
+          "fr": "Il sourit, essayant de cacher sa joie.",
+          "it": "Sorride, cercando di nascondere la sua gioia."
+        },
+        {
+          "fr": "Les arts vivants sont à la mode.",
+          "it": "Le arti viventi sono di moda."
+        }
+      ]
+    },
+    {
+      "id": "negation",
+      "title_it": "La negazione al passato prossimo",
+      "explain_it": "Nel passato prossimo la negazione circonda l'ausiliare: ne + avoir + pas / jamais / pas encore + participio. Come in italiano il senso è lo stesso (non ho mai ricevuto), ma in francese pas, jamais e encore si mettono tra l'ausiliare e il participio, e ne va davanti all'ausiliare (nel parlato veloce spesso cade: j'ai pas vu).",
+      "examples": [
+        {
+          "fr": "Je n'ai pas vu ce film.",
+          "it": "Non ho visto questo film."
+        },
+        {
+          "fr": "Je n'ai jamais reçu de prix.",
+          "it": "Non ho mai ricevuto un premio."
+        },
+        {
+          "fr": "Nous n'avons pas encore fini.",
+          "it": "Non abbiamo ancora finito."
+        }
+      ]
+    },
+    {
+      "id": "register",
+      "title_it": "Il registro giornalistico e formale",
+      "explain_it": "Nella stampa e nei testi formali i verbi semplici come être e avoir vengono spesso sostituiti da verbi più ricercati: la Francia possède invece di avoir, il festival compte invece di avere. È una scelta stilistica tipica degli articoli di giornale, come in italiano vanta o annovera; nel parlato quotidiano suona artificiosa.",
+      "examples": [
+        {
+          "fr": "La région possède de nombreux musées.",
+          "it": "La regione possiede molti musei."
+        },
+        {
+          "fr": "Le festival compte plus de cent films.",
+          "it": "Il festival conta più di cento film."
+        }
+      ]
+    },
+    {
+      "id": "plural",
+      "title_it": "Rendez-vous: plurale invariabile",
+      "explain_it": "Rendez-vous è composto dalla forma imperativa rendez di rendre e dal pronome vous: al plurale resta invariato. Significa appuntamento, incontro, anche in senso figurato per un grande evento periodico.",
+      "examples": [
+        {
+          "fr": "J'ai un rendez-vous chez le dentiste.",
+          "it": "Ho un appuntamento dal dentista."
+        },
+        {
+          "fr": "Nous avons deux rendez-vous demain.",
+          "it": "Domani abbiamo due appuntamenti."
+        }
+      ]
+    },
+    {
+      "id": "false-friends",
+      "title_it": "Falsi amici e sfumature: obscur, sombre, comédien",
+      "explain_it": "L'espressione les salles obscures (sempre al plurale) indica le sale cinematografiche, non sale buie. Per il buio fisico si usa sombre, per i colori scuri foncé. Un comédien è un attore (anche di teatro), non un comico, che in francese è comique o humoriste.",
+      "examples": [
+        {
+          "fr": "Il fait sombre dans la cuisine.",
+          "it": "In cucina c'è buio."
+        },
+        {
+          "fr": "Ce comédien joue très bien.",
+          "it": "Questo attore recita molto bene."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la tradition",
+      "it": "la tradizione",
+      "pos": "n"
+    },
+    {
+      "fr": "cinématographique",
+      "it": "cinematografico",
+      "pos": "adj"
+    },
+    {
+      "fr": "vivant / vivante",
+      "it": "vivo, vivente",
+      "pos": "adj",
+      "note": "bien vivant = ancora vivo e vegeto"
+    },
+    {
+      "fr": "la plateforme (de diffusion)",
+      "it": "la piattaforma (di diffusione)",
+      "pos": "n"
+    },
+    {
+      "fr": "la diffusion",
+      "it": "la diffusione, la trasmissione",
+      "pos": "n"
+    },
+    {
+      "fr": "disponible",
+      "it": "disponibile",
+      "pos": "adj"
+    },
+    {
+      "fr": "malgré",
+      "it": "nonostante",
+      "pos": "prep"
+    },
+    {
+      "fr": "le public",
+      "it": "il pubblico",
+      "pos": "n"
+    },
+    {
+      "fr": "le choix",
+      "it": "la scelta",
+      "pos": "n"
+    },
+    {
+      "fr": "la comédie",
+      "it": "la commedia (film)",
+      "pos": "n"
+    },
+    {
+      "fr": "le policier",
+      "it": "il giallo, il poliziesco",
+      "pos": "n"
+    },
+    {
+      "fr": "le dessin animé",
+      "it": "il cartone animato",
+      "pos": "n"
+    },
+    {
+      "fr": "étranger / étrangère",
+      "it": "straniero, straniera",
+      "pos": "adj"
+    },
+    {
+      "fr": "la salle",
+      "it": "la sala (cinematografica)",
+      "pos": "n",
+      "note": "al plurale les salles obscures = i cinema"
+    },
+    {
+      "fr": "doubler",
+      "it": "doppiare",
+      "pos": "v"
+    },
+    {
+      "fr": "annuel / annuelle",
+      "it": "annuale",
+      "pos": "adj"
+    },
+    {
+      "fr": "indispensable",
+      "it": "indispensabile",
+      "pos": "adj"
+    },
+    {
+      "fr": "le cinéphile",
+      "it": "il cinefilo, l'appassionato di cinema",
+      "pos": "n"
+    },
+    {
+      "fr": "le festival",
+      "it": "il festival",
+      "pos": "n"
+    },
+    {
+      "fr": "le prix",
+      "it": "il premio",
+      "pos": "n"
+    },
+    {
+      "fr": "récompenser",
+      "it": "premiare, ricompensare",
+      "pos": "v"
+    },
+    {
+      "fr": "la cérémonie",
+      "it": "la cerimonia",
+      "pos": "n"
+    },
+    {
+      "fr": "le gagnant / la gagnante",
+      "it": "il vincitore / la vincitrice",
+      "pos": "n"
+    },
+    {
+      "fr": "le jury",
+      "it": "la giuria",
+      "pos": "n"
+    },
+    {
+      "fr": "le metteur en scène",
+      "it": "il regista (teatrale o cinematografico)",
+      "pos": "n",
+      "note": "da mettre en scène = mettere in scena"
+    },
+    {
+      "fr": "le comédien / la comédienne",
+      "it": "l'attore / l'attrice",
+      "pos": "n"
+    },
+    {
+      "fr": "décontracté / décontractée",
+      "it": "rilassato, disinvolto",
+      "pos": "adj"
+    },
+    {
+      "fr": "le rendez-vous",
+      "it": "l'appuntamento, l'incontro",
+      "pos": "n"
+    },
+    {
+      "fr": "la version originale",
+      "it": "la versione originale (VO)",
+      "pos": "n"
+    },
+    {
+      "fr": "l'amateur / l'amatrice",
+      "it": "l'appassionato / l'appassionata",
+      "pos": "n"
+    },
+    {
+      "fr": "apprécié(e)",
+      "it": "apprezzato",
+      "pos": "adj"
+    },
+    {
+      "fr": "l'art (m.)",
+      "it": "l'arte",
+      "pos": "n",
+      "note": "le septième art = il cinema"
+    },
+    {
+      "fr": "attribuer",
+      "it": "assegnare, attribuire",
+      "pos": "v",
+      "note": "Il est attribué à..."
+    },
+    {
+      "fr": "l'aventure (f.)",
+      "it": "l'avventura",
+      "pos": "n"
+    },
+    {
+      "fr": "le bibliophile",
+      "it": "il bibliofilo",
+      "pos": "n",
+      "note": "maschile e femminile"
+    },
+    {
+      "fr": "la clôture",
+      "it": "la chiusura",
+      "pos": "n",
+      "note": "cérémonie de clôture"
+    },
+    {
+      "fr": "commencer",
+      "it": "cominciare",
+      "pos": "v",
+      "note": "nous commençons; Commencez sans moi"
+    },
+    {
+      "fr": "depuis",
+      "it": "da",
+      "pos": "prep"
+    },
+    {
+      "fr": "diffuser",
+      "it": "diffondere, trasmettere",
+      "pos": "v"
+    },
+    {
+      "fr": "l'écran (m.)",
+      "it": "lo schermo",
+      "pos": "n",
+      "note": "le grand écran = il cinema"
+    },
+    {
+      "fr": "étonné(e)",
+      "it": "stupito, sorpreso",
+      "pos": "adj",
+      "note": "être étonné"
+    },
+    {
+      "fr": "le film",
+      "it": "il film",
+      "pos": "n"
+    },
+    {
+      "fr": "foncé(e)",
+      "it": "scuro (di colore)",
+      "pos": "adj",
+      "note": "bleu foncé"
+    },
+    {
+      "fr": "le maître / la maîtresse",
+      "it": "il padrone, il maestro / la padrona",
+      "pos": "n",
+      "note": "maître de cérémonie = presentatore"
+    },
+    {
+      "fr": "la mise en scène",
+      "it": "la regia",
+      "pos": "n",
+      "note": "dal verbo mettre"
+    },
+    {
+      "fr": "naturellement",
+      "it": "naturalmente",
+      "pos": "adv"
+    },
+    {
+      "fr": "notamment",
+      "it": "in particolare",
+      "pos": "adv"
+    },
+    {
+      "fr": "obscur(e)",
+      "it": "oscuro",
+      "pos": "adj",
+      "note": "les salles obscures = i cinema"
+    },
+    {
+      "fr": "posséder",
+      "it": "possedere",
+      "pos": "v",
+      "note": "je possède"
+    },
+    {
+      "fr": "le scénario",
+      "it": "la sceneggiatura",
+      "pos": "n"
+    },
+    {
+      "fr": "sombre",
+      "it": "buio, cupo",
+      "pos": "adj",
+      "note": "assenza di luce"
+    },
+    {
+      "fr": "le support",
+      "it": "il supporto",
+      "pos": "n"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "bien vivant",
+      "it": "ancora vivo e vegeto, tuttora vivo",
+      "note": "in senso figurato: ancora molto attivo"
+    },
+    {
+      "fr": "en version originale",
+      "it": "in versione originale",
+      "note": "con i sottotitoli, senza doppiaggio"
+    },
+    {
+      "fr": "en version française",
+      "it": "in versione doppiata",
+      "note": "il film doppiato in francese"
+    },
+    {
+      "fr": "deux ou trois fois par semaine",
+      "it": "due o tre volte alla settimana"
+    },
+    {
+      "fr": "c'est-à-dire",
+      "it": "cioè, ossia",
+      "note": "per precisare o spiegare"
+    },
+    {
+      "fr": "et cetera",
+      "it": "eccetera",
+      "note": "in forma scritta si usa anche et cætera"
+    },
+    {
+      "fr": "rester décontracté",
+      "it": "restare rilassato, disinvolto"
+    },
+    {
+      "fr": "c'est justement pour ça que",
+      "it": "è proprio per questo che",
+      "note": "registro neutro, usato per introdurre una conseguenza"
+    }
+  ],
+  "notes_it": [
+    "Il termine «le septième art» (la settima arte) per indicare il cinema è attribuito al critico italiano Ricciotto Canudo, attivo in Francia all'inizio del Novecento.",
+    "Registro: nella stampa francese si preferiscono verbi più ricercati ai semplici être e avoir (posséder, comporter). Non è un obbligo, ma è un tratto da riconoscere quando si legge un giornale.",
+    "Parole formate da verbi: la diffusion viene da diffuser, il metteur en scène da mettre en scène. Anglicismi come streaming e podcast sono ormai diffusi in francese, anche se esistono alternative ufficiali come baladodiffusion per il podcast.",
+    "Suffissi greci: -phile (dal greco philos, amico, amante) indica chi ama qualcosa (cinéphile, bibliophile); il contrario -phobe (phobos, paura) indica chi lo teme (aquaphobe). Sono termini formali, ma comprensibili anche dagli italiani.",
+    "Pronuncia: in «deux ou trois» si lega deux a ou ([døzu]), e la s di les, nous, vous si lega sempre a una vocale seguente (les arts, nous avons). Attenzione anche a comédien: non va confuso con comique."
+  ],
+  "exercises": [
+    {
+      "id": "L039-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "prompt": "Completa: 'Ils ___ vu le film hier soir.' (loro hanno visto il film ieri sera)",
+      "options": [
+        "ont",
+        "sont",
+        "a"
+      ],
+      "correct": 0,
+      "explain_it": "Voir è un verbo che vuole avoir nel passato prossimo: ils ont vu."
+    },
+    {
+      "id": "L039-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "prompt": "Qual è il participio passato di 'suivre' (seguire)?",
+      "options": [
+        "suivi",
+        "suivé",
+        "suivu"
+      ],
+      "correct": 0,
+      "explain_it": "Suivre è del gruppo 3 e fa suivi al participio passato."
+    },
+    {
+      "id": "L039-e03",
+      "type": "order",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ho avuto molto tempo.",
+      "answers": [
+        "J'ai eu beaucoup de temps."
+      ],
+      "distractors": [
+        "suis",
+        "sont"
+      ],
+      "explain_it": "Avoir al participio fa eu, quindi il passato prossimo è j'ai eu."
+    },
+    {
+      "id": "L039-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "gerondif",
+      "prompt": "Qual è il participio presente di 'finir'?",
+      "options": [
+        "finissant",
+        "finant",
+        "finé"
+      ],
+      "correct": 0,
+      "explain_it": "Si parte dalla forma nous finissons e si aggiunge -ant: finissant."
+    },
+    {
+      "id": "L039-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "gerondif",
+      "prompt": "Completa: 'Il sourit, ___ de rester calme.' (sorride, cercando di restare calmo)",
+      "options": [
+        "essayant",
+        "essayé",
+        "essayer"
+      ],
+      "correct": 0,
+      "explain_it": "Il participio presente di essayer è essayant, con la forma nous essayons come base."
+    },
+    {
+      "id": "L039-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "gerondif",
+      "prompt": "le arti viventi",
+      "answers": [
+        "les arts vivants"
+      ],
+      "distractors": [
+        "vivent",
+        "vivre"
+      ],
+      "explain_it": "Il participio presente usato come aggettivo concorda con il nome: vivants al plurale maschile."
+    },
+    {
+      "id": "L039-e07",
+      "type": "mcq",
+      "level": 1,
+      "concept": "negation",
+      "prompt": "Completa con 'mai': 'Je n'ai ___ reçu de réponse.' (non ho mai ricevuto risposta)",
+      "options": [
+        "jamais",
+        "toujours",
+        "souvent"
+      ],
+      "correct": 0,
+      "explain_it": "Nel passato prossimo jamais si mette tra avoir e il participio: je n'ai jamais reçu."
+    },
+    {
+      "id": "L039-e08",
+      "type": "mcq",
+      "level": 1,
+      "concept": "register",
+      "prompt": "Nel registro giornalistico, quale verbo sostituisce 'avoir' in: 'La Francia ___ una lunga tradizione cinematografica'?",
+      "options": [
+        "possède",
+        "fait",
+        "sort"
+      ],
+      "correct": 0,
+      "explain_it": "Posséder è un verbo più ricercato, tipico dello stile dei giornali."
+    },
+    {
+      "id": "L039-e09",
+      "type": "mcq",
+      "level": 1,
+      "concept": "plural",
+      "prompt": "Il plurale di 'un rendez-vous' è:",
+      "options": [
+        "des rendez-vous",
+        "des rendez-vouss",
+        "des rendezvous"
+      ],
+      "correct": 0,
+      "explain_it": "Rendez-vous è invariabile: il plurale non cambia."
+    },
+    {
+      "id": "L039-e10",
+      "type": "mcq",
+      "level": 1,
+      "concept": "false-friends",
+      "prompt": "Nel linguaggio del cinema, 'les salles obscures' indica:",
+      "options": [
+        "le sale cinematografiche",
+        "le sale buie, senza luce",
+        "le sale segrete"
+      ],
+      "correct": 0,
+      "explain_it": "È un'espressione fissa al plurale per dire 'cinema': non va tradotta alla lettera."
+    },
+    {
+      "id": "L039-e11",
+      "type": "mcq",
+      "level": 1,
+      "concept": "false-friends",
+      "prompt": "Un 'comédien' è:",
+      "options": [
+        "un attore",
+        "un comico",
+        "un commediografo"
+      ],
+      "correct": 0,
+      "explain_it": "Comédien significa attore; il comico in francese è comique o humoriste."
+    },
+    {
+      "id": "L039-e12",
+      "type": "order",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ho visto un film ieri sera.",
+      "answers": [
+        "J'ai vu un film hier soir.",
+        "Hier soir, j'ai vu un film."
+      ],
+      "distractors": [
+        "suis",
+        "vue"
+      ],
+      "explain_it": "Voir vuole avoir nel passato prossimo, e il participio è vu."
+    },
+    {
+      "id": "L039-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "text": "Nous n'avons pas ___ ce film depuis longtemps.",
+      "answers": [
+        "vu"
+      ],
+      "hint": "(voir, passato prossimo)",
+      "prompt": "Non abbiamo visto questo film da tempo.",
+      "explain_it": "Voir ha participio vu e vuole avoir."
+    },
+    {
+      "id": "L039-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "text": "Vous avez ___ cette série à la télévision ?",
+      "answers": [
+        "suivi"
+      ],
+      "hint": "(suivre, passato prossimo)",
+      "prompt": "Avete seguito questa serie in televisione?",
+      "explain_it": "Suivre fa suivi al participio, con avoir."
+    },
+    {
+      "id": "L039-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ho visto il tuo nuovo film.",
+      "answers": [
+        "J'ai vu ton nouveau film.",
+        "J'ai vu votre nouveau film."
+      ],
+      "explain_it": "Voir al passato prossimo vuole avoir e il participio vu; si usa ton con tu, votre con vous."
+    },
+    {
+      "id": "L039-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Hai avuto il tempo di leggerlo?",
+      "answers": [
+        "As-tu eu le temps de le lire ?",
+        "Tu as eu le temps de le lire ?",
+        "Est-ce que tu as eu le temps de le lire ?"
+      ],
+      "explain_it": "Avoir al participio fa eu; le temps resta invariato."
+    },
+    {
+      "id": "L039-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Abbiamo dormito poco.",
+      "answers": [
+        "Nous avons peu dormi.",
+        "On a peu dormi."
+      ],
+      "explain_it": "Dormir fa dormi al participio e vuole avoir; peu si mette tra l'ausiliare e il participio."
+    },
+    {
+      "id": "L039-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ho finito il libro che mi hai prestato.",
+      "answers": [
+        "J'ai [fini|terminé] le livre que [tu m'as|vous m'avez] prêté."
+      ],
+      "explain_it": "Finir fa fini al participio; que (il libro, maschile singolare) precede il verbo ma l'accordo non si vede."
+    },
+    {
+      "id": "L039-e19",
+      "type": "cloze",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "text": "Il n'a pas ___ le temps de répondre.",
+      "answers": [
+        "eu"
+      ],
+      "hint": "(avoir, passato prossimo)",
+      "prompt": "Non ha avuto il tempo di rispondere.",
+      "explain_it": "Il participio passato di avoir è eu: il n'a pas eu."
+    },
+    {
+      "id": "L039-e20",
+      "type": "cloze",
+      "level": 2,
+      "concept": "gerondif",
+      "text": "Il passe l'après-midi à Paris, ___ visite à ses amis.",
+      "answers": [
+        "rendant"
+      ],
+      "hint": "(rendre, participio presente)",
+      "prompt": "Passa il pomeriggio a Parigi, facendo visita ai suoi amici.",
+      "explain_it": "Il participio presente di rendre è rendant, dalla forma nous rendons."
+    },
+    {
+      "id": "L039-e21",
+      "type": "cloze",
+      "level": 2,
+      "concept": "gerondif",
+      "text": "Elle sourit, ___ de cacher son émotion.",
+      "answers": [
+        "essayant"
+      ],
+      "hint": "(essayer, participio presente)",
+      "prompt": "Lei sorride, cercando di nascondere l'emozione.",
+      "explain_it": "Il participio presente essayant indica un'azione contemporanea al sorridere."
+    },
+    {
+      "id": "L039-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "gerondif",
+      "prompt": "Participio presente di 'obéir' (obbedire)",
+      "ask": "Scrivi la forma richiesta",
+      "answers": [
+        "obéissant"
+      ],
+      "explain_it": "Obéir viene da nous obéissons: si aggiunge -ant alla radice obéiss-."
+    },
+    {
+      "id": "L039-e23",
+      "type": "flash",
+      "level": 2,
+      "concept": "gerondif",
+      "front": "Come si forma il participio presente francese?",
+      "back": "Si prende la radice della prima persona plurale del presente (nous finissons → finiss-) e si aggiunge -ant: finissant, rendant, essayant. Eccezioni: ayant, étant, sachant.",
+      "note": "Attenzione: non confonderlo con il gerundio italiano, che in francese si esprime con en + participio presente."
+    },
+    {
+      "id": "L039-e24",
+      "type": "cloze",
+      "level": 2,
+      "concept": "negation",
+      "text": "Nous n'avons ___ fini le travail.",
+      "answers": [
+        "pas encore"
+      ],
+      "hint": "(ancora non)",
+      "prompt": "Non abbiamo ancora finito il lavoro.",
+      "explain_it": "Pas encore si colloca tra l'ausiliare avoir e il participio fini."
+    },
+    {
+      "id": "L039-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "negation",
+      "prompt": "Non ho mai visto questo film.",
+      "answers": [
+        "Je n'ai jamais vu ce film.",
+        "Je n'ai jamais vu ce film-là."
+      ],
+      "explain_it": "Jamais si mette tra avoir e il participio, con ne davanti all'ausiliare."
+    },
+    {
+      "id": "L039-e26",
+      "type": "flash",
+      "level": 2,
+      "concept": "negation",
+      "front": "Dove si mettono pas, jamais ed encore al passato prossimo?",
+      "back": "Tra l'ausiliare e il participio, con ne davanti all'ausiliare: je n'ai pas vu, je n'ai jamais vu, je n'ai pas encore vu.",
+      "note": "Anche con être: je ne suis jamais allé."
+    },
+    {
+      "id": "L039-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "register",
+      "prompt": "Riscrivi in registro giornalistico: 'Il cinema francese ha molti spettatori.'",
+      "ask": "Traduci in francese con un verbo più ricercato di avoir",
+      "answers": [
+        "Le cinéma français compte [de nombreux spectateurs|un vaste public|un large public|beaucoup de spectateurs].",
+        "Le cinéma français possède un vaste public."
+      ],
+      "explain_it": "Posséder o compter sostituiscono avoir nello stile giornalistico."
+    },
+    {
+      "id": "L039-e28",
+      "type": "cloze",
+      "level": 2,
+      "concept": "plural",
+      "text": "Nous avons deux ___ cette semaine.",
+      "answers": [
+        "rendez-vous"
+      ],
+      "hint": "(appuntamento, plurale)",
+      "prompt": "Questa settimana abbiamo due appuntamenti.",
+      "explain_it": "Rendez-vous è invariabile anche al plurale."
+    },
+    {
+      "id": "L039-e29",
+      "type": "write",
+      "level": 2,
+      "concept": "plural",
+      "prompt": "Ho preso un appuntamento con il medico per domani.",
+      "answers": [
+        "J'ai pris [un |]rendez-vous [avec|chez] le médecin pour demain."
+      ],
+      "explain_it": "Prendre fa pris al participio; rendez-vous resta uguale anche se c'è più di uno."
+    },
+    {
+      "id": "L039-e30",
+      "type": "write",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "Gli attori francesi sono molto apprezzati dal pubblico.",
+      "answers": [
+        "Les [comédiens|acteurs] français sont très appréciés [du public|par le public]."
+      ],
+      "explain_it": "Comédien significa attore: attenzione a non tradurlo con comique."
+    },
+    {
+      "id": "L039-e31",
+      "type": "flash",
+      "level": 2,
+      "concept": "vocab",
+      "front": "Che cosa significa il suffisso -phile e qual è il suo contrario?",
+      "back": "-phile (dal greco philos) indica chi ama o è appassionato di qualcosa: cinéphile, bibliophile. Il contrario è -phobe (phobos, paura): aquaphobe, chi teme l'acqua.",
+      "note": "Sono termini formali, ma riconoscibili anche per un italiano."
+    },
+    {
+      "id": "L039-e32",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Mon père est un vrai ___ : il ne rate aucun festival.",
+      "answers": [
+        "cinéphile"
+      ],
+      "hint": "(chi ama il cinema)",
+      "prompt": "Mio padre è un vero appassionato di cinema: non perde nessun festival.",
+      "explain_it": "Cinéphile è formato dal suffisso -phile e significa amante del cinema."
+    },
+    {
+      "id": "L039-e33",
+      "type": "mcq",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Il sostantivo 'la diffusion' deriva dal verbo:",
+      "options": [
+        "diffuser",
+        "diffamer",
+        "diffracter"
+      ],
+      "correct": 0,
+      "explain_it": "Diffusion viene da diffuser (diffondere, trasmettere); diffamer significa diffamare, un falso amico."
+    },
+    {
+      "id": "L039-e34",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Les plateformes de diffusion, ___ les services de streaming, sont très nombreuses.",
+      "answers": [
+        "c'est-à-dire"
+      ],
+      "hint": "(locuzione: cioè, ossia)",
+      "prompt": "Le piattaforme di diffusione, cioè i servizi di streaming, sono moltissime.",
+      "explain_it": "C'est-à-dire introduce una precisazione o una spiegazione."
+    },
+    {
+      "id": "L039-e35",
+      "type": "dictation",
+      "level": 2,
+      "concept": "liaison",
+      "text": "Mon frère est un vrai cinéphile, il va au cinéma deux fois par semaine.",
+      "explain_it": "Nel registro curato la liaison in est un è obbligatoria: la t si pronuncia ([ɛtœ̃]); davanti a vrai e fois, che iniziano per consonante, non c'è liaison."
+    },
+    {
+      "id": "L039-e36",
+      "type": "write",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "Ieri ho incontrato l'attore del film.",
+      "answers": [
+        "Hier, j'ai rencontré [le comédien|l'acteur] du film.",
+        "J'ai rencontré [le comédien|l'acteur] du film hier."
+      ],
+      "explain_it": "Comédien è l'attore; non confonderlo con comique."
+    },
+    {
+      "id": "L039-e37",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Questo festival è un appuntamento annuale per gli appassionati di cinema.",
+      "answers": [
+        "Ce festival est un rendez-vous annuel pour les cinéphiles.",
+        "Ce festival est un rendez-vous annuel pour les amateurs de cinéma."
+      ],
+      "explain_it": "Rendez-vous significa appuntamento anche in senso figurato, e annuel concorda con il nome maschile."
+    },
+    {
+      "id": "L039-e38",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Il cinema è una tradizione viva in Francia.",
+      "answers": [
+        "Le cinéma est une tradition vivante en France.",
+        "Le cinéma est une tradition bien vivante en France."
+      ],
+      "explain_it": "Vivant concorda con tradition (femminile): vivante."
+    },
+    {
+      "id": "L039-e39",
+      "type": "dictation",
+      "level": 2,
+      "concept": "liaison",
+      "text": "Le public aime les arts vivants et les films étrangers.",
+      "explain_it": "Liaison obbligatoria in les arts: la s si pronuncia [z]; in films étrangers è facoltativa."
+    },
+    {
+      "id": "L039-e40",
+      "type": "write",
+      "level": 3,
+      "concept": "gerondif",
+      "prompt": "Mentre cercava di restare calmo, il vincitore ha sorriso.",
+      "answers": [
+        "En essayant de rester calme, le gagnant a souri.",
+        "Essayant de rester calme, le gagnant a souri.",
+        "Le gagnant a souri en essayant de rester calme."
+      ],
+      "explain_it": "Il participio presente esprime un'azione contemporanea al verbo principale; con en è più esplicito."
+    },
+    {
+      "id": "L039-e41",
+      "type": "write",
+      "level": 3,
+      "concept": "gerondif",
+      "prompt": "Mentre ascoltavo il discorso, ho pensato al premio.",
+      "answers": [
+        "En écoutant le discours, j'ai pensé au prix."
+      ],
+      "explain_it": "En + participio presente indica la simultaneità, e pensé à richiede au."
+    },
+    {
+      "id": "L039-e42",
+      "type": "write",
+      "level": 3,
+      "concept": "gerondif",
+      "prompt": "Il cinema, arte ancora viva, attira molto pubblico.",
+      "answers": [
+        "Le cinéma, [un |]art [toujours|encore] vivant, attire [beaucoup de public|un large public|beaucoup de spectateurs]."
+      ],
+      "explain_it": "Vivant (participio presente usato come aggettivo) concorda con art maschile."
+    },
+    {
+      "id": "L039-e43",
+      "type": "write",
+      "level": 3,
+      "concept": "negation",
+      "prompt": "Non hai mai preso il treno per Lione?",
+      "answers": [
+        "N'as-tu jamais pris le train pour Lyon ?",
+        "Tu n'as jamais pris le train pour Lyon ?",
+        "Est-ce que tu n'as jamais pris le train pour Lyon ?"
+      ],
+      "explain_it": "Nella domanda la negazione resta intorno all'ausiliare e jamais precede il participio pris."
+    },
+    {
+      "id": "L039-e44",
+      "type": "write",
+      "level": 3,
+      "concept": "negation",
+      "prompt": "Non ho ancora avuto il tempo di vedere il nuovo film di quel regista.",
+      "answers": [
+        "Je n'ai pas encore eu le temps de voir le [nouveau|dernier] film de ce [metteur en scène|réalisateur]."
+      ],
+      "explain_it": "Pas encore si mette tra avoir e il participio eu; il regista si dice metteur en scène."
+    },
+    {
+      "id": "L039-e45",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-avoir",
+      "prompt": "Il regista ha ricevuto il premio del pubblico, ma non ha mai avuto il César.",
+      "answers": [
+        "Le [metteur en scène|réalisateur] a reçu le prix du public, mais il n'a jamais eu le César."
+      ],
+      "explain_it": "Recevoir fa reçu al participio; avoir fa eu, e la negazione circonda l'ausiliare."
+    },
+    {
+      "id": "L039-e46",
+      "type": "write",
+      "level": 3,
+      "concept": "negation",
+      "prompt": "Non ho ancora visto il film che mi hai consigliato.",
+      "answers": [
+        "Je n'ai pas encore vu le film que [tu m'as|vous m'avez] conseillé."
+      ],
+      "explain_it": "Pas encore si mette tra l'ausiliare e il participio vu; que (il film) precede il verbo, e il pronome me si elide in m' prima di as/avez."
+    },
+    {
+      "id": "L039-e47",
+      "type": "write",
+      "level": 3,
+      "concept": "register",
+      "prompt": "Il giornale scrive che il festival ottiene un grande successo.",
+      "answers": [
+        "Le journal écrit que le festival [connaît|rencontre|remporte] un grand succès."
+      ],
+      "explain_it": "Connaître o rencontrer, più ricercati di avoir, sono tipici dello stile giornalistico."
+    },
+    {
+      "id": "L039-e48",
+      "type": "write",
+      "level": 3,
+      "concept": "plural",
+      "prompt": "Gli appuntamenti annuali sono indispensabili per i cinefili.",
+      "answers": [
+        "Les rendez-vous annuels sont indispensables pour les cinéphiles.",
+        "Les rendez-vous annuels sont indispensables aux cinéphiles."
+      ],
+      "explain_it": "Rendez-vous non cambia al plurale, mentre annuels e indispensables concordano con il nome."
+    },
+    {
+      "id": "L039-e49",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "È proprio per questo che il pubblico ama il cinema.",
+      "answers": [
+        "C'est [justement|précisément] pour [ça|cela] que le public aime le cinéma."
+      ],
+      "explain_it": "C'est justement pour ça que introduce una conseguenza in modo idiomatico."
+    },
+    {
+      "id": "L039-e50",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-avoir",
+      "prompt": "Malgrado il freddo, molte persone hanno seguito il festival.",
+      "answers": [
+        "Malgré le froid, beaucoup de [gens|personnes] ont suivi le festival.",
+        "Malgré le froid, de nombreuses personnes ont suivi le festival."
+      ],
+      "explain_it": "Suivre fa suivi al participio e vuole avoir; malgré significa nonostante."
+    },
+    {
+      "id": "L039-e51",
+      "type": "write",
+      "level": 3,
+      "concept": "vocab",
+      "prompt": "Ho visto molti film in versione originale, ma preferisco il doppiaggio.",
+      "answers": [
+        "J'ai vu beaucoup de films en version originale, mais je préfère la version [doublée|française].",
+        "J'ai vu beaucoup de films en version originale, mais je préfère [le doublage|les films doublés]."
+      ],
+      "explain_it": "En version originale indica il film con i sottotitoli; la versione doppiata è la version française."
+    },
+    {
+      "id": "L039-e52",
+      "type": "dictation",
+      "level": 3,
+      "concept": "liaison",
+      "text": "Nous avons vu trois films étrangers, mais le dernier est le plus beau.",
+      "explain_it": "Liaison obbligatoria in nous avons ([nuzavɔ̃]); in films étrangers è facoltativa nel registro curato."
+    },
+    {
+      "id": "L039-e53",
+      "type": "cloze",
+      "level": 2,
+      "concept": "depuis-il-y-a",
+      "text": "Je n'ai pas mangé de pizza ___ deux ans.",
+      "answers": [
+        "depuis"
+      ],
+      "prompt": "Non mangio la pizza da due anni.",
+      "explain_it": "Depuis + durata indica da quanto tempo qualcosa non succede o dura."
+    },
+    {
+      "id": "L039-e54",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Possiedono un grande schermo.",
+      "answers": [
+        "[Ils|Elles] possèdent un grand écran."
+      ],
+      "explain_it": "Posséder ha la forma possèdent alla terza persona plurale; écran = schermo."
+    }
+  ]
+}

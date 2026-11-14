@@ -1,0 +1,933 @@
+{
+  "n": 92,
+  "title_fr": "Quatre-vingt-douzième leçon - Un magazine littéraire",
+  "title_it": "Novantaduesima lezione - Un programma letterario",
+  "review": false,
+  "status": "verified",
+  "source": "3d1a4471 pdf 87-94 (libro p.563-570); la lezione inizia a pdf 87 (p.563) con il titolo; dialogo pdf 87-92 (righe 1-25); note pdf 87-92 (note 1-10); esercizio 1 pdf 93 (p.569), risposte pdf 94 (p.570); la lezione 93 inizia dopo pdf 94, fuori dal range",
+  "theme_it": "In un programma televisivo letterario, il conduttore ospita un'autrice (o un autore) che ha scritto un libro su una figura storica molto discussa, Maria Antonietta. Il dialogo mette a confronto la sua immagine superficiale con una lettura più equilibrata, e l'intervista usa un registro giornalistico e letterario, con il passato semplice nella parte scritta.",
+  "grammar": [
+    {
+      "id": "passe-simple",
+      "title_it": "Il passato semplice (passé simple): i verbi in -er",
+      "explain_it": "Il passé simple è il tempo del racconto scritto e letterario: significa come il passato prossimo (passé composé) ma si usa quasi solo nei libri, nei giornali e nella storia. In italiano corrisponde al passato remoto, che oggi si usa soprattutto nello scritto. Per i verbi in -er le desinenze sono: -ai, -as, -a, -âmes, -âtes, -èrent. Attenzione agli accenti circonflessi nella prima persona plurale e in vous (nous passâmes, vous passâtes). Non serve impararlo per parlare, ma va riconosciuto per leggere.",
+      "examples": [
+        {
+          "fr": "Elle passa son enfance à Lyon.",
+          "it": "Lei trascorse l'infanzia a Lione."
+        },
+        {
+          "fr": "Nous aidâmes nos voisins.",
+          "it": "Aiutammo i nostri vicini."
+        }
+      ]
+    },
+    {
+      "id": "passe-simple",
+      "title_it": "Passato semplice irregolare: faire (fare)",
+      "explain_it": "Il verbo faire ha un passato semplice irregolare, con la radice fi-: je fis, tu fis, il/elle fit, nous fîmes, vous fîtes, ils/elles firent. Attenzione: fit (faire) e fut (être) si confondono facilmente, e firent (faire) va distinto da furent (être).",
+      "examples": [
+        {
+          "fr": "Il fit une faute dans sa dictée.",
+          "it": "Fece un errore nel dettato."
+        },
+        {
+          "fr": "Ils firent un grand effort.",
+          "it": "Fecero un grande sforzo."
+        }
+      ]
+    },
+    {
+      "id": "passe-simple",
+      "title_it": "Passato semplice irregolare: être (essere)",
+      "explain_it": "Il verbo être ha un passé simple molto irregolare, con la radice fu-: je fus, tu fus, il/elle fut, nous fûmes, vous fûtes, ils/elles furent. Non va confuso con quello di faire: ils furent (essi furono) è di être, ils firent (essi fecero) è di faire. La differenza sta in una sola lettera, quindi leggi con attenzione.",
+      "examples": [
+        {
+          "fr": "Ils furent très heureux.",
+          "it": "Furono molto felici."
+        },
+        {
+          "fr": "Vous fûtes très gentils.",
+          "it": "Foste molto gentili."
+        }
+      ]
+    },
+    {
+      "id": "subjonctif",
+      "title_it": "Imperativo di terza persona con il congiuntivo: Qu'il parte!",
+      "explain_it": "Per esortare, dare un ordine o augurare qualcosa a una terza persona (lui, lei, loro) si usa il congiuntivo presente introdotto da que, come nell'italiano 'che parta!'. Esempi tipici: Vive les Bretons (viva i bretoni) e Qu'il parte immédiatement (che parta subito). È la stessa struttura del congiuntivo che hai già visto con il faut que, ma qui il verbo principale manca.",
+      "examples": [
+        {
+          "fr": "Qu'il parte immédiatement.",
+          "it": "Che parta subito."
+        },
+        {
+          "fr": "Qu'elle vienne demain !",
+          "it": "Che venga domani!"
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "title_it": "L'eufonia con l'impersonale on: où l'on habite",
+      "explain_it": "Dopo certe parole che finiscono per vocale (où, qui, que, et, ou, si), il pronome on può diventare l'on, per evitare lo iato: où l'on habite invece di où on habite. È un uso dello stile scritto o curato; nel parlato corrente si dice spesso semplicemente on. In italiano non esiste un fenomeno simile.",
+      "examples": [
+        {
+          "fr": "C'est la maison où l'on habite.",
+          "it": "È la casa dove si abita."
+        },
+        {
+          "fr": "Voilà ce que l'on pense.",
+          "it": "Ecco ciò che si pensa."
+        }
+      ]
+    },
+    {
+      "id": "plural",
+      "title_it": "I cognomi e i nomi propri non prendono la -s del plurale",
+      "explain_it": "In francese i cognomi restano invariati al plurale, anche con numerali o articolo plurale: les deux Martin, les Dupont. In italiano invece di solito il cognome prende il plurale (i Rossi), quindi attenzione a non aggiungere la -s.",
+      "examples": [
+        {
+          "fr": "Nous invitons les deux Dupont à dîner.",
+          "it": "Invitiamo a cena i due Dupont."
+        },
+        {
+          "fr": "Il y a trois Martin dans cette rue.",
+          "it": "In questa strada ci sono tre Martin."
+        }
+      ]
+    },
+    {
+      "id": "vocab",
+      "title_it": "I prefissi che cambiano il senso: é-, sous-, ré-, mal-, in-",
+      "explain_it": "I prefissi modificano il significato di verbi, sostantivi e aggettivi. é- indica allontanamento o cambio di stato (éloigné = lontano, écourté = accorciato); sous- indica un livello troppo basso (sous-estimer = sottovalutare); ré- indica ripetizione (réexaminer = riesaminare); mal- indica un cattivo modo (maltraiter = maltrattare); in- e le sue varianti im-, il-, ir- formano aggettivi negativi (inconstant = incostante, irréaliste = irrealistico). Attenzione: é- non è sempre un prefisso, come in épouse (sposa).",
+      "examples": [
+        {
+          "fr": "Ce projet est irréaliste.",
+          "it": "Questo progetto è irrealistico."
+        },
+        {
+          "fr": "Les experts ont sous-estimé le risque.",
+          "it": "Gli esperti hanno sottovalutato il rischio."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le plateau",
+      "it": "il piatto, il vassoio; (tv/cinema) il set, lo studio",
+      "pos": "n",
+      "note": "un plateau de fromages = un tagliere di formaggi"
+    },
+    {
+      "fr": "l'écrivain (m.)",
+      "it": "lo scrittore",
+      "pos": "n",
+      "note": "al femminile écrivaine"
+    },
+    {
+      "fr": "le roman",
+      "it": "il romanzo",
+      "pos": "n"
+    },
+    {
+      "fr": "l'encre (f.)",
+      "it": "l'inchiostro",
+      "pos": "n",
+      "note": "couler de l'encre = far parlare di sé"
+    },
+    {
+      "fr": "l'acteur (m.)",
+      "it": "l'attore",
+      "pos": "n",
+      "note": "al femminile actrice; les acteurs = gli attori, i protagonisti"
+    },
+    {
+      "fr": "rétablir",
+      "it": "ristabilire, ripristinare",
+      "pos": "v",
+      "note": "rétablir la réputation = ristabilire la reputazione"
+    },
+    {
+      "fr": "controversé",
+      "it": "controverso",
+      "pos": "adj",
+      "note": "controversée al femminile"
+    },
+    {
+      "fr": "revisiter",
+      "it": "rivisitare",
+      "pos": "v"
+    },
+    {
+      "fr": "réexaminer",
+      "it": "riesaminare",
+      "pos": "v"
+    },
+    {
+      "fr": "défaire",
+      "it": "disfare, annullare",
+      "pos": "v",
+      "note": "je défais"
+    },
+    {
+      "fr": "refaire",
+      "it": "rifare",
+      "pos": "v",
+      "note": "je refais"
+    },
+    {
+      "fr": "maltraiter",
+      "it": "maltrattare",
+      "pos": "v",
+      "note": "maltraité (part. pass.) = maltrattato"
+    },
+    {
+      "fr": "sincèrement",
+      "it": "sinceramente",
+      "pos": "adv"
+    },
+    {
+      "fr": "la plupart",
+      "it": "la maggior parte",
+      "pos": "n",
+      "note": "la plupart des = la maggior parte dei"
+    },
+    {
+      "fr": "réévaluer",
+      "it": "rivalutare",
+      "pos": "v"
+    },
+    {
+      "fr": "féministe",
+      "it": "femminista",
+      "pos": "adj"
+    },
+    {
+      "fr": "irresponsable",
+      "it": "irresponsabile",
+      "pos": "adj",
+      "note": "uguale al maschile e al femminile"
+    },
+    {
+      "fr": "écervelé",
+      "it": "scervellato, sventato",
+      "pos": "adj",
+      "note": "écervelée al femminile"
+    },
+    {
+      "fr": "mépriser",
+      "it": "disprezzare",
+      "pos": "v",
+      "note": "méprisé = disprezzato"
+    },
+    {
+      "fr": "entacher",
+      "it": "macchiare, infangare",
+      "pos": "v"
+    },
+    {
+      "fr": "la légende",
+      "it": "la leggenda",
+      "pos": "n"
+    },
+    {
+      "fr": "l'avant-propos (m.)",
+      "it": "la prefazione, l'introduzione",
+      "pos": "n"
+    },
+    {
+      "fr": "le scandale",
+      "it": "lo scandalo",
+      "pos": "n"
+    },
+    {
+      "fr": "le bijou",
+      "it": "il gioiello",
+      "pos": "n",
+      "note": "plurale bijoux"
+    },
+    {
+      "fr": "adorer",
+      "it": "adorare",
+      "pos": "v"
+    },
+    {
+      "fr": "haïr",
+      "it": "odiare",
+      "pos": "v",
+      "note": "je hais"
+    },
+    {
+      "fr": "le bourreau",
+      "it": "il boia, il carnefice",
+      "pos": "n"
+    },
+    {
+      "fr": "par mégarde",
+      "it": "per sbaglio, per distrazione",
+      "pos": "expr"
+    },
+    {
+      "fr": "venger",
+      "it": "vendicare",
+      "pos": "v",
+      "note": "venger quelqu'un = vendicare qualcuno"
+    },
+    {
+      "fr": "la linotte",
+      "it": "il fanello (uccellino); tête de linotte = svampito",
+      "pos": "n",
+      "note": "avoir une tête de linotte = essere uno sventato"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Vous n'y êtes pas du tout.",
+      "it": "Non ci siete affatto.",
+      "note": "si dice per correggere un'ipotesi sbagliata; registro neutro"
+    },
+    {
+      "fr": "Ça ne veut pas dire pour autant que",
+      "it": "Non vuol dire necessariamente che",
+      "note": "attenua una conclusione: pour autant = per questo"
+    },
+    {
+      "fr": "Nous en ferons notre affaire.",
+      "it": "Ce ne occuperemo noi.",
+      "note": "impegno a risolvere una questione"
+    },
+    {
+      "fr": "faire couler beaucoup d'encre",
+      "it": "far scrivere fiumi di inchiostro, far discutere molto",
+      "note": "si dice di un libro o di un fatto molto discusso"
+    },
+    {
+      "fr": "ne pas lâcher prise",
+      "it": "non mollare, non cedere",
+      "note": "registro neutro e familiare"
+    },
+    {
+      "fr": "avoir la tête en l'air",
+      "it": "essere distratto, sbadato",
+      "note": "si dice di chi dimentica spesso le cose"
+    },
+    {
+      "fr": "à votre place",
+      "it": "al vostro posto",
+      "note": "per dare un consiglio con tono cortese"
+    },
+    {
+      "fr": "ne pas faire exprès",
+      "it": "non farlo apposta",
+      "note": "si usa per scusarsi"
+    },
+    {
+      "fr": "faire la fête",
+      "it": "far festa",
+      "note": "registro familiare"
+    },
+    {
+      "fr": "tenir à distance",
+      "it": "tenere a distanza",
+      "note": "uso neutro, anche in senso figurato"
+    }
+  ],
+  "notes_it": [
+    "Il passé simple è un tempo letterario: nel parlato si usa il passé composé. In italiano il passato remoto è analogo, ma ormai è rimasto quasi solo nello scritto.",
+    "Falso amico: lâcher significa 'mollare, lasciare andare', non 'lasciare' nel senso di partire o abbandonare un luogo, che si dice quitter.",
+    "Pronuncia: l'on si pronuncia come on con una l di legamento davanti; è una scelta di stile (scritto e parlato curato), non cambia il senso.",
+    "Il plateau è un vassoio o un tagliere, ma nel cinema e in televisione indica il set e, per estensione, l'insieme degli ospiti di una trasmissione."
+  ],
+  "exercises": [
+    {
+      "id": "L092-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "passe-simple",
+      "prompt": "Qual è il passato semplice di 'faire' alla terza persona singolare (lui/lei)?",
+      "options": [
+        "il fit",
+        "il fut",
+        "il fait",
+        "il fera"
+      ],
+      "correct": 0,
+      "explain_it": "Fit è il passato semplice di faire (fare); fut è quello di être (essere), che si confonde spesso con fit."
+    },
+    {
+      "id": "L092-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "passe-simple",
+      "prompt": "Quale forma del passato semplice significa 'essi furono' (verbo être)?",
+      "options": [
+        "ils furent",
+        "ils firent",
+        "ils fûrent",
+        "ils étèrent"
+      ],
+      "correct": 0,
+      "explain_it": "Furent è il passato semplice di être alla terza persona plurale; firent è di faire."
+    },
+    {
+      "id": "L092-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "subjonctif",
+      "prompt": "Quale frase esprime l'esortazione 'Che parta subito!'?",
+      "options": [
+        "Qu'il parte tout de suite !",
+        "Qu'il partira tout de suite !",
+        "Qu'il partait tout de suite !",
+        "Qu'il part tout de suite !"
+      ],
+      "correct": 0,
+      "explain_it": "Per esortare la terza persona si usa il congiuntivo presente: qu'il parte; il futuro, l'imperfetto e l'indicativo presente non sono corretti in questa struttura."
+    },
+    {
+      "id": "L092-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Cosa significa l'espressione 'avoir la tête en l'air'?",
+      "options": [
+        "essere distratto, sbadato",
+        "avere mal di testa",
+        "essere arrogante",
+        "avere molte idee"
+      ],
+      "correct": 0,
+      "explain_it": "Avoir la tête en l'air significa essere distratti e dimenticare le cose, non è legato al mal di testa."
+    },
+    {
+      "id": "L092-e05",
+      "type": "order",
+      "level": 1,
+      "concept": "passe-simple",
+      "prompt": "Lui fece un errore.",
+      "answers": [
+        "Il fit une [erreur|faute]."
+      ],
+      "distractors": [
+        "fut",
+        "fait"
+      ],
+      "explain_it": "Fit è il passato semplice di faire; fait è il passato prossimo al presente, non il passato semplice."
+    },
+    {
+      "id": "L092-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "passe-simple",
+      "prompt": "Lei trascorse l'infanzia in Italia.",
+      "answers": [
+        "Elle passa son enfance en Italie."
+      ],
+      "distractors": [
+        "passe",
+        "a passé"
+      ],
+      "explain_it": "Passa è il passato semplice di passer (trascorrere); con il nome 'Italia', femminile, si usa en."
+    },
+    {
+      "id": "L092-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "subjonctif",
+      "prompt": "Che lui venga subito!",
+      "answers": [
+        "Qu'il vienne tout de suite !"
+      ],
+      "distractors": [
+        "vient",
+        "viendra"
+      ],
+      "explain_it": "L'esortazione con la terza persona usa il congiuntivo presente di venir: qu'il vienne."
+    },
+    {
+      "id": "L092-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "vocab",
+      "prompt": "Questo progetto è irrealistico.",
+      "answers": [
+        "Ce projet est irréaliste."
+      ],
+      "distractors": [
+        "réaliste",
+        "maltraité"
+      ],
+      "explain_it": "Il prefisso ir- (variante di in-) trasforma réaliste in irréaliste, cioè il contrario."
+    },
+    {
+      "id": "L092-e09",
+      "type": "cloze",
+      "level": 1,
+      "concept": "passe-simple",
+      "text": "Elle ___ son enfance à Lyon.",
+      "answers": [
+        "passa"
+      ],
+      "hint": "(passer, passato semplice, 3a persona singolare)",
+      "prompt": "Lei trascorse l'infanzia a Lione.",
+      "explain_it": "Il passato semplice di passer alla terza persona singolare è passa, con la desinenza -a dei verbi in -er."
+    },
+    {
+      "id": "L092-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "subjonctif",
+      "text": "Qu'il ___ tout de suite !",
+      "answers": [
+        "parte"
+      ],
+      "hint": "(partir, congiuntivo presente)",
+      "prompt": "Che parta subito!",
+      "explain_it": "Per l'esortazione alla terza persona si usa il congiuntivo presente di partir: parte."
+    },
+    {
+      "id": "L092-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "plural",
+      "text": "Nous invitons les deux ___ à dîner.",
+      "answers": [
+        "Dupont"
+      ],
+      "hint": "(cognome, plurale invariato)",
+      "prompt": "Invitiamo a cena i due Dupont.",
+      "explain_it": "I cognomi non prendono la -s al plurale: les deux Dupont."
+    },
+    {
+      "id": "L092-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "vocab",
+      "text": "Les experts ont ___ le risque.",
+      "answers": [
+        "sous-estimé"
+      ],
+      "hint": "(sous-estimer, participio passato)",
+      "prompt": "Gli esperti hanno sottovalutato il rischio.",
+      "explain_it": "Il prefisso sous- indica una riduzione: sous-estimer significa sottovalutare."
+    },
+    {
+      "id": "L092-e13",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-simple",
+      "prompt": "Lui fece il suo dovere.",
+      "answers": [
+        "Il fit son devoir."
+      ],
+      "explain_it": "Nel passato semplice di faire la terza persona singolare è fit, senza accento."
+    },
+    {
+      "id": "L092-e14",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-simple",
+      "prompt": "Loro furono molto felici.",
+      "answers": [
+        "Ils furent très heureux.",
+        "Elles furent très heureuses.",
+        "Ils furent très heureux"
+      ],
+      "explain_it": "Être al passato semplice, plurale: furent; l'aggettivo concorda con il soggetto."
+    },
+    {
+      "id": "L092-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-simple",
+      "prompt": "Io parlai con il direttore.",
+      "answers": [
+        "Je parlai avec le directeur.",
+        "Je parlai au directeur."
+      ],
+      "explain_it": "Parler si costruisce con à o avec: il passato semplice è parlai per la prima persona."
+    },
+    {
+      "id": "L092-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-simple",
+      "prompt": "Noi aiutammo i nostri vicini.",
+      "answers": [
+        "Nous aidâmes nos voisins."
+      ],
+      "explain_it": "Nella prima persona plurale dei verbi in -er il passato semplice ha la desinenza -âmes con l'accento circonflesso."
+    },
+    {
+      "id": "L092-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Voglio che tu venga con noi.",
+      "answers": [
+        "Je veux que tu viennes avec nous."
+      ],
+      "explain_it": "Vouloir que introduce il congiuntivo: que tu viennes, con la forma venir al congiuntivo."
+    },
+    {
+      "id": "L092-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "È necessario che lui finisca oggi.",
+      "answers": [
+        "Il faut qu'il finisse aujourd'hui.",
+        "Il est nécessaire qu'il finisse aujourd'hui."
+      ],
+      "explain_it": "Dopo il faut que si usa il congiuntivo presente: qu'il finisse, da finir."
+    },
+    {
+      "id": "L092-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "plural",
+      "prompt": "Ho visto i due Martin al mercato.",
+      "answers": [
+        "J'ai vu les deux Martin au marché."
+      ],
+      "explain_it": "Il cognome Martin resta invariato al plurale: les deux Martin."
+    },
+    {
+      "id": "L092-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "plural",
+      "prompt": "Abbiamo invitato i Bernard a cena.",
+      "answers": [
+        "Nous avons invité les Bernard à dîner."
+      ],
+      "explain_it": "I cognomi plurali restano uguali: les Bernard, senza -s."
+    },
+    {
+      "id": "L092-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Questa spiegazione è irrealistica.",
+      "answers": [
+        "Cette explication est irréaliste."
+      ],
+      "explain_it": "Il prefisso negativo (in-, qui nella variante ir-) forma l'aggettivo irréaliste."
+    },
+    {
+      "id": "L092-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Dovresti riscrivere il testo.",
+      "answers": [
+        "Tu devrais réécrire le texte.",
+        "Vous devriez réécrire le texte."
+      ],
+      "explain_it": "Il prefisso ré- indica la ripetizione: réécrire significa riscrivere."
+    },
+    {
+      "id": "L092-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Non l'ho fatto apposta.",
+      "answers": [
+        "Je ne l'ai pas fait exprès."
+      ],
+      "explain_it": "Ne pas faire exprès significa non farlo apposta; il pronome l' va prima dell'ausiliare."
+    },
+    {
+      "id": "L092-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Lei ha sempre la testa tra le nuvole.",
+      "answers": [
+        "Elle a toujours la tête en l'air.",
+        "Elle a toujours la tête dans les nuages."
+      ],
+      "explain_it": "Avoir la tête en l'air (o dans les nuages) indica una persona distratta."
+    },
+    {
+      "id": "L092-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Questo progetto fa molto parlare di sé.",
+      "answers": [
+        "Ce projet fait couler beaucoup d'encre.",
+        "Ce projet fait beaucoup parler de lui."
+      ],
+      "explain_it": "Faire couler de l'encre è un'espressione per 'far parlare molto di sé', di un fatto controverso."
+    },
+    {
+      "id": "L092-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "pronunciation",
+      "prompt": "È la casa dove si vive bene.",
+      "answers": [
+        "C'est la maison où l'on vit bien.",
+        "C'est la maison où on vit bien."
+      ],
+      "explain_it": "Dopo où si può usare l'eufonia l'on, più formale; on è comunque corretto nel parlato."
+    },
+    {
+      "id": "L092-e27",
+      "type": "cloze",
+      "level": 2,
+      "concept": "passe-simple",
+      "text": "Il ___ une faute dans sa dictée.",
+      "answers": [
+        "fit"
+      ],
+      "hint": "(faire, passato semplice, 3a persona singolare)",
+      "prompt": "Fece un errore nel dettato.",
+      "explain_it": "Il passato semplice di faire alla terza persona singolare è fit."
+    },
+    {
+      "id": "L092-e28",
+      "type": "cloze",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "Il faut que tu ___ la vérité.",
+      "answers": [
+        "saches"
+      ],
+      "hint": "(savoir, congiuntivo presente)",
+      "prompt": "Bisogna che tu sappia la verità.",
+      "explain_it": "Dopo il faut que il verbo va al congiuntivo presente: que tu saches."
+    },
+    {
+      "id": "L092-e29",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Il a ___ la lettre trois fois.",
+      "answers": [
+        "réécrit"
+      ],
+      "hint": "(réécrire, passato composto)",
+      "prompt": "Ha riscritto la lettera tre volte.",
+      "explain_it": "Réécrire è il verbo écrire con il prefisso ré-, e il passato composto con avoir usa il participio réécrit."
+    },
+    {
+      "id": "L092-e30",
+      "type": "dictation",
+      "level": 2,
+      "concept": "passe-simple",
+      "text": "Elle passa son enfance à Lyon.",
+      "explain_it": "Il passato semplice di passer è passa, con una -a finale come nei verbi in -er."
+    },
+    {
+      "id": "L092-e31",
+      "type": "dictation",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "Il faut qu'il soit à l'heure.",
+      "explain_it": "Dopo il faut que si usa il congiuntivo presente di être: qu'il soit."
+    },
+    {
+      "id": "L092-e32",
+      "type": "flash",
+      "level": 2,
+      "concept": "passe-simple",
+      "front": "Passato semplice dei verbi in -er: quali desinenze?",
+      "back": "-ai, -as, -a, -âmes, -âtes, -èrent (es. passer: je passai, il passa, ils passèrent).",
+      "explain_it": "Sono le desinenze tipiche dei verbi regolari in -er al passato semplice."
+    },
+    {
+      "id": "L092-e33",
+      "type": "flash",
+      "level": 2,
+      "concept": "passe-simple",
+      "front": "Passato semplice di être e faire",
+      "back": "être: je fus, tu fus, il fut, nous fûmes, vous fûtes, ils furent. faire: je fis, tu fis, il fit, nous fîmes, vous fîtes, ils firent.",
+      "note": "fut = être, fit = faire",
+      "explain_it": "Queste forme irregolari vanno memorizzate, perché si confondono facilmente."
+    },
+    {
+      "id": "L092-e34",
+      "type": "flash",
+      "level": 2,
+      "concept": "subjonctif",
+      "front": "Esortazione alla terza persona: come si costruisce?",
+      "back": "Qu'il / qu'elle / qu'ils + congiuntivo presente: Qu'il parte! (che parta!), Qu'elle vienne! (che venga!).",
+      "explain_it": "Il congiuntivo presente esprime esortazioni alla terza persona, come in italiano."
+    },
+    {
+      "id": "L092-e35",
+      "type": "flash",
+      "level": 2,
+      "concept": "plural",
+      "front": "I cognomi al plurale in francese",
+      "back": "Restano invariati: les deux Robert, les Martin. Non prendono la -s.",
+      "explain_it": "I cognomi e i nomi propri non si pluralizzano, al contrario dei nomi comuni."
+    },
+    {
+      "id": "L092-e36",
+      "type": "flash",
+      "level": 2,
+      "concept": "vocab",
+      "front": "Prefissi sous-, ré-, mal-: che cosa indicano?",
+      "back": "sous- = riduzione (sous-estimer: sottovalutare); ré- = ripetizione (réexaminer: riesaminare); mal- = cattivo modo (maltraiter: maltrattare).",
+      "explain_it": "Riconoscere il prefisso aiuta a capire il senso di parole nuove senza memorizzarle una per una."
+    },
+    {
+      "id": "L092-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-simple",
+      "ask": "Volgi al passé simple",
+      "prompt": "Elles ont fait un grand effort.",
+      "answers": [
+        "Elles firent un grand effort."
+      ],
+      "explain_it": "Il passato composto con avoir di faire diventa il passato semplice firent, alla terza persona plurale femminile."
+    },
+    {
+      "id": "L092-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-simple",
+      "ask": "Volgi al passé simple",
+      "prompt": "Vous avez été très gentils.",
+      "answers": [
+        "Vous fûtes très [gentils|gentilles|gentil|gentille]."
+      ],
+      "explain_it": "Être al passato semplice diventa fûtes alla seconda persona plurale; l'aggettivo resta al plurale maschile."
+    },
+    {
+      "id": "L092-e39",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-simple",
+      "ask": "Traduci in francese al passé simple",
+      "prompt": "Lui passò la notte in bianco.",
+      "answers": [
+        "Il passa la nuit blanche.",
+        "Il passa une nuit blanche."
+      ],
+      "explain_it": "Passer al passato semplice di terza persona singolare è passa; la nuit blanche è un'espressione fissa."
+    },
+    {
+      "id": "L092-e40",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-simple",
+      "prompt": "Lui viaggiò molto, poi visitò l'Italia.",
+      "answers": [
+        "Il voyagea beaucoup, puis visita l'Italie.",
+        "Il voyagea beaucoup et visita l'Italie."
+      ],
+      "explain_it": "Voyager e visiter al passato semplice terza persona singolare sono voyagea e visita; voyagea ha la e per mantenere il suono dolce della g."
+    },
+    {
+      "id": "L092-e41",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-simple",
+      "prompt": "L'ingegnere fece un errore, poi si scusò.",
+      "answers": [
+        "L'ingénieur fit une [erreur|faute], puis il s'excusa.",
+        "L'ingénieur fit une [erreur|faute], puis s'excusa.",
+        "L'ingénieur fit une [erreur|faute] et s'excusa."
+      ],
+      "explain_it": "Il verbo pronominale s'excuser va al passato semplice in terza persona: s'excusa."
+    },
+    {
+      "id": "L092-e42",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "ask": "Traduci con 'Il faut que' e il congiuntivo",
+      "prompt": "Dobbiamo partire subito.",
+      "answers": [
+        "Il faut que nous partions tout de suite.",
+        "Il faut qu'on parte tout de suite."
+      ],
+      "explain_it": "Dopo il faut que il verbo va al congiuntivo presente: nous partions, di partir."
+    },
+    {
+      "id": "L092-e43",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Penso che sia necessario che tu lo dica chiaramente.",
+      "answers": [
+        "Je pense qu'il est nécessaire que tu le dises clairement.",
+        "Je pense qu'il faut que tu le dises clairement."
+      ],
+      "explain_it": "Con il nécessaire o il faut que il verbo subordinato va al congiuntivo presente: que tu le dises, da dire."
+    },
+    {
+      "id": "L092-e44",
+      "type": "write",
+      "level": 3,
+      "concept": "vocab",
+      "prompt": "Lo scrittore è stato maltrattato dai critici, ma è in anticipo sui tempi.",
+      "answers": [
+        "L'écrivain a été maltraité par les critiques, mais il est en avance sur son temps.",
+        "L'écrivain a été maltraité par les critiques, mais il est en avance sur son époque."
+      ],
+      "explain_it": "Maltraiter ha il prefisso mal-; il participio passato maltraité concorda con il soggetto al passivo, qui al maschile."
+    },
+    {
+      "id": "L092-e45",
+      "type": "write",
+      "level": 3,
+      "concept": "pronunciation",
+      "prompt": "La casa in cui si abita è vicina al mercato.",
+      "answers": [
+        "La maison où l'on habite est près du marché.",
+        "La maison où on habite est près du marché."
+      ],
+      "explain_it": "Con où, qui o que e on si può usare l'eufonia l'on; è la forma più curata."
+    },
+    {
+      "id": "L092-e46",
+      "type": "write",
+      "level": 3,
+      "concept": "plural",
+      "prompt": "Ho incontrato i due Dupont e i tre Martin al mercato.",
+      "answers": [
+        "J'ai rencontré les deux Dupont et les trois Martin au marché."
+      ],
+      "explain_it": "I cognomi restano invariati, anche con i numeri: les deux Dupont, les trois Martin."
+    },
+    {
+      "id": "L092-e47",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Il suo libro ha fatto molto parlare, ma la gente esagera.",
+      "answers": [
+        "Son livre a fait couler beaucoup d'encre, mais les gens exagèrent."
+      ],
+      "explain_it": "Faire couler beaucoup d'encre significa far parlare molto di sé: è un'espressione che si usa per libri e polemiche."
+    },
+    {
+      "id": "L092-e48",
+      "type": "write",
+      "level": 3,
+      "concept": "negation",
+      "prompt": "Non è giusto criticare una persona che non conosci.",
+      "answers": [
+        "Ce n'est pas juste de critiquer [quelqu'un|une personne] que tu ne connais pas.",
+        "Ce n'est pas juste de critiquer [quelqu'un|une personne] que vous ne connaissez pas."
+      ],
+      "explain_it": "La negazione ne... pas circonda il verbo; que è il pronome relativo oggetto e connaître si accorda con il soggetto (tu connais, vous connaissez)."
+    },
+    {
+      "id": "L092-e49",
+      "type": "dictation",
+      "level": 3,
+      "concept": "vocab",
+      "text": "Je pensais qu'il fallait réévaluer ce projet d'un point de vue différent.",
+      "explain_it": "Il prefisso ré- indica che si valuta di nuovo; l'imperfetto pensais e fallait descrivono ciò che si pensava."
+    }
+  ]
+}

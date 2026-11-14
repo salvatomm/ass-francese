@@ -1,0 +1,880 @@
+{
+  "n": 43,
+  "title_fr": "Le foot féminin",
+  "title_it": "Il calcio femminile",
+  "review": false,
+  "status": "verified",
+  "source": "1db59936 p26-31 (libro pp. 207-212)",
+  "theme_it": "Una persona segnala a un'altra un articolo di un sito sportivo: Manuel Alonso è stato nominato allenatore della nazionale femminile di calcio, al posto di chi si è ritirata dopo una lunga carriera. Il testo ripercorre la sua vita, dall'infanzia in Spagna agli studi a Nizza e Parigi, fino all'incarico a Bordeaux. Alla fine si chiede perché si scelga un allenatore uomo e non un'allenatrice.",
+  "grammar": [
+    {
+      "id": "gender",
+      "title_it": "I nomi di sport: genere maschile (le foot, le basket)",
+      "explain_it": "In francese molti nomi di sport importati dall'inglese sono maschili: le tennis, le golf, le squash, le volley-ball, le basket. Il football si abbrevia in le foot, con l'articolo maschile. Il genere resta maschile anche quando in italiano l'equivalente sarebbe femminile. Fanno eccezione i nomi francesi come la natation (nuoto), che è femminile, perché non deriva dall'inglese.",
+      "examples": [
+        {
+          "fr": "J'adore le tennis.",
+          "it": "Adoro il tennis."
+        },
+        {
+          "fr": "La natation est un sport complet.",
+          "it": "Il nuoto è uno sport completo."
+        }
+      ]
+    },
+    {
+      "id": "adjective-agreement",
+      "title_it": "Aggettivo con nome composto: conta il nome principale",
+      "explain_it": "Quando un aggettivo accompagna un nome formato da due parole, come équipe de football, concorda con il nome principale (il primo), non con quello che segue. In une équipe de football féminine l'aggettivo si riferisce a équipe, femminile: féminine. In le football féminin, invece, il nome è semplice e maschile, quindi l'aggettivo è féminin. Per scegliere la forma giusta, individua il nome che regge la frase.",
+      "examples": [
+        {
+          "fr": "L'équipe de football féminine a gagné.",
+          "it": "La squadra di calcio femminile ha vinto."
+        },
+        {
+          "fr": "Le football féminin progresse.",
+          "it": "Il calcio femminile cresce."
+        }
+      ]
+    },
+    {
+      "id": "passe-compose-etre",
+      "title_it": "Passato prossimo con être: verbi di movimento, naître e mourir",
+      "explain_it": "Alcuni verbi intransitivi, soprattutto di movimento o di cambiamento di stato, al passato prossimo prendono être invece di avoir, come in italiano (sono andato). Con être il participio concorda con il soggetto, come in italiano: il est parti, elle est partie, ils sont partis. Verbi tipici: aller, venir, arriver, partir, sortir, entrer, rentrer, retourner, monter, rester, devenir, passer. Naître e mourir hanno sempre être: il est né, elle est née; il est mort, elle est morte. Attenzione: molti verbi che in italiano vogliono essere in francese vogliono avoir se non sono di movimento, e grandir vuole avoir: il a grandi.",
+      "examples": [
+        {
+          "fr": "Elle est partie tôt.",
+          "it": "È partita presto."
+        },
+        {
+          "fr": "Mon grand-père est né à Lyon.",
+          "it": "Mio nonno è nato a Lione."
+        }
+      ]
+    },
+    {
+      "id": "pronoun-coi",
+      "title_it": "Plaire à e demander à: il complemento indiretto",
+      "explain_it": "Plaire vuole il complemento indiretto introdotto da à: la cosa che piace è il soggetto, la persona è il complemento indiretto, come in italiano con piacere. Il participio è plu, e con avoir non concorda con il complemento indiretto. Anche demander à qualcuno usa à con la persona; quando la persona è sostituita si usa il pronome indiretto lui (a lui, a lei) o leur (a loro), che va davanti al verbo.",
+      "examples": [
+        {
+          "fr": "Ce film t'a plu ?",
+          "it": "Il film ti è piaciuto?"
+        },
+        {
+          "fr": "Je vais lui demander l'heure.",
+          "it": "Adesso gli chiedo che ore sono."
+        }
+      ]
+    },
+    {
+      "id": "adjectives-irregular",
+      "title_it": "Aggettivi in -if che fanno il femminile in -ive",
+      "explain_it": "Molti aggettivi maschili in -if fanno il femminile in -ive: sportif → sportive, créatif → créative, actif → active, positif → positive, agressif → agressive. La trasformazione è simile all'italiano -ivo / -iva, quindi è facile da riconoscere. Va ricordata come eccezione alla regola generale, che aggiunge solo la -e al femminile.",
+      "examples": [
+        {
+          "fr": "Il est très sportif.",
+          "it": "È molto sportivo."
+        },
+        {
+          "fr": "Elle est créative.",
+          "it": "È creativa."
+        }
+      ]
+    },
+    {
+      "id": "adverbs",
+      "title_it": "Quelque temps e longtemps: per qualche tempo e a lungo",
+      "explain_it": "Quelque temps, in due parole, significa per qualche tempo, un po': indica una durata breve e non precisa. Longtemps, in una sola parola, significa a lungo e indica una durata lunga. Non vanno scambiati: quelque temps non significa a lungo. In italiano l'equivalente di quelque temps è 'da un po'' o 'per un po''.",
+      "examples": [
+        {
+          "fr": "Il est resté quelque temps à Paris.",
+          "it": "È rimasto a Parigi per qualche tempo."
+        },
+        {
+          "fr": "Nous avons attendu longtemps.",
+          "it": "Abbiamo aspettato a lungo."
+        }
+      ]
+    },
+    {
+      "id": "adjective-position",
+      "title_it": "Bon: il senso cambia con l'articolo",
+      "explain_it": "Bon, bonne sta davanti al nome e di solito significa buono: une bonne idée è un'idea buona. Con l'articolo determinativo e nomi come réponse, moment, direction assume il senso di giusto, adatto, corretto: la bonne réponse, le bon moment, au bon moment significa al momento giusto. Con l'articolo indeterminativo resta il significato di buono o bello.",
+      "examples": [
+        {
+          "fr": "C'est la bonne réponse.",
+          "it": "È la risposta giusta."
+        },
+        {
+          "fr": "Il a fait une bonne impression.",
+          "it": "Ha fatto una buona impressione."
+        }
+      ]
+    },
+    {
+      "id": "negation-other",
+      "title_it": "Personne: nessuno, sempre con ne",
+      "explain_it": "Personne significa nessuno quando è accompagnato da ne. Come soggetto va all'inizio della frase, con ne prima del verbo; come complemento va dopo il verbo, sempre con ne prima del verbo. Il verbo resta in forma negativa e non si usa pas. In italiano il meccanismo è simile, con nessuno e il non prima del verbo.",
+      "examples": [
+        {
+          "fr": "Personne ne parle italien ici.",
+          "it": "Nessuno parla italiano qui."
+        },
+        {
+          "fr": "Je n'ai invité personne.",
+          "it": "Non ho invitato nessuno."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le foot",
+      "it": "il calcio (abbreviazione di football)",
+      "pos": "n",
+      "note": "maschile, come le tennis e le basket"
+    },
+    {
+      "fr": "le basket",
+      "it": "il basket (pallacanestro)",
+      "pos": "n"
+    },
+    {
+      "fr": "la natation",
+      "it": "il nuoto",
+      "pos": "n",
+      "note": "parola francese, femminile"
+    },
+    {
+      "fr": "féminin / féminine",
+      "it": "femminile",
+      "pos": "adj"
+    },
+    {
+      "fr": "l'article (m.)",
+      "it": "l'articolo",
+      "pos": "n"
+    },
+    {
+      "fr": "intéresser",
+      "it": "interessare",
+      "pos": "v",
+      "note": "peut t'intéresser"
+    },
+    {
+      "fr": "l'entraîneur (m.)",
+      "it": "l'allenatore",
+      "pos": "n",
+      "note": "per la femmina si usa entraîneuse"
+    },
+    {
+      "fr": "l'équipe (f.)",
+      "it": "la squadra",
+      "pos": "n",
+      "note": "équipe nationale: la nazionale"
+    },
+    {
+      "fr": "succéder à",
+      "it": "succedere a",
+      "pos": "v",
+      "note": "succéder à qqn"
+    },
+    {
+      "fr": "la retraite",
+      "it": "la pensione, il ritiro",
+      "pos": "n",
+      "note": "partir à la retraite"
+    },
+    {
+      "fr": "la carrière",
+      "it": "la carriera",
+      "pos": "n"
+    },
+    {
+      "fr": "naître",
+      "it": "nascere",
+      "pos": "v",
+      "note": "je suis né(e)"
+    },
+    {
+      "fr": "mourir",
+      "it": "morire",
+      "pos": "v",
+      "note": "je suis mort(e)"
+    },
+    {
+      "fr": "l'accident (m.)",
+      "it": "l'incidente",
+      "pos": "n"
+    },
+    {
+      "fr": "le lycée",
+      "it": "il liceo",
+      "pos": "n"
+    },
+    {
+      "fr": "les études (f. pl.)",
+      "it": "gli studi",
+      "pos": "n"
+    },
+    {
+      "fr": "la faculté",
+      "it": "la facoltà universitaria",
+      "pos": "n",
+      "note": "falso amico parziale"
+    },
+    {
+      "fr": "plaire à",
+      "it": "piacere a",
+      "pos": "v",
+      "note": "participio passato: plu"
+    },
+    {
+      "fr": "la décision",
+      "it": "la decisione",
+      "pos": "n"
+    },
+    {
+      "fr": "le match",
+      "it": "la partita",
+      "pos": "n"
+    },
+    {
+      "fr": "rentrer",
+      "it": "tornare a casa, rientrare",
+      "pos": "v",
+      "note": "je suis rentré(e)"
+    },
+    {
+      "fr": "rester",
+      "it": "restare, rimanere",
+      "pos": "v"
+    },
+    {
+      "fr": "nommer",
+      "it": "nominare",
+      "pos": "v"
+    },
+    {
+      "fr": "le directeur",
+      "it": "il direttore",
+      "pos": "n",
+      "note": "femminile: la directrice"
+    },
+    {
+      "fr": "expliquer",
+      "it": "spiegare",
+      "pos": "v"
+    },
+    {
+      "fr": "sportif",
+      "it": "sportivo",
+      "pos": "adj",
+      "note": "femminile: sportive"
+    },
+    {
+      "fr": "créatif",
+      "it": "creativo",
+      "pos": "adj",
+      "note": "femminile: créative"
+    },
+    {
+      "fr": "personne",
+      "it": "nessuno (con ne)",
+      "pos": "pron",
+      "note": "non significa 'persona'"
+    },
+    {
+      "fr": "quelque temps",
+      "it": "qualche tempo, un po'",
+      "pos": "adv",
+      "note": "due parole"
+    },
+    {
+      "fr": "longtemps",
+      "it": "a lungo",
+      "pos": "adv",
+      "note": "una parola"
+    },
+    {
+      "fr": "bon / bonne",
+      "it": "buono",
+      "pos": "adj",
+      "note": "davanti al nome; con l'articolo: giusto"
+    },
+    {
+      "fr": "agressif / agressive",
+      "it": "aggressivo",
+      "pos": "adj",
+      "note": "maschile in -if, femminile in -ive"
+    },
+    {
+      "fr": "l'Allemagne (f.)",
+      "it": "la Germania",
+      "pos": "n",
+      "note": "falso amico di forma: non « Germanie »"
+    },
+    {
+      "fr": "le classement",
+      "it": "la classifica",
+      "pos": "n"
+    },
+    {
+      "fr": "le diplôme",
+      "it": "il diploma",
+      "pos": "n"
+    },
+    {
+      "fr": "l'Espagne (f.)",
+      "it": "la Spagna",
+      "pos": "n"
+    },
+    {
+      "fr": "étudier",
+      "it": "studiare",
+      "pos": "v"
+    },
+    {
+      "fr": "l'expérience (f.)",
+      "it": "l'esperienza",
+      "pos": "n"
+    },
+    {
+      "fr": "facilement",
+      "it": "facilmente",
+      "pos": "adv"
+    },
+    {
+      "fr": "la gestion",
+      "it": "la gestione",
+      "pos": "n"
+    },
+    {
+      "fr": "international / internationale",
+      "it": "internazionale",
+      "pos": "adj",
+      "note": "pl. internationaux"
+    },
+    {
+      "fr": "monter",
+      "it": "salire",
+      "pos": "v",
+      "note": "con être nel passato composto: il est monté"
+    },
+    {
+      "fr": "national / nationale",
+      "it": "nazionale",
+      "pos": "adj",
+      "note": "pl. nationaux"
+    },
+    {
+      "fr": "officiel / officielle",
+      "it": "ufficiale",
+      "pos": "adj"
+    },
+    {
+      "fr": "l'oncle (m.)",
+      "it": "lo zio",
+      "pos": "n"
+    },
+    {
+      "fr": "les Pays-Bas (m. pl.)",
+      "it": "i Paesi Bassi",
+      "pos": "n",
+      "note": "sempre al plurale"
+    },
+    {
+      "fr": "la poche",
+      "it": "la tasca",
+      "pos": "n",
+      "note": "avec son diplôme en poche"
+    },
+    {
+      "fr": "quelquefois",
+      "it": "qualche volta",
+      "pos": "adv",
+      "note": "non confondere con quelque temps"
+    },
+    {
+      "fr": "la raison",
+      "it": "il motivo, la ragione",
+      "pos": "n",
+      "note": "pour quelle raison ? = per quale motivo?"
+    },
+    {
+      "fr": "retourner",
+      "it": "ritornare",
+      "pos": "v",
+      "note": "con être nel passato composto: il est retourné"
+    },
+    {
+      "fr": "la route",
+      "it": "la strada",
+      "pos": "n",
+      "note": "un accident de la route"
+    },
+    {
+      "fr": "la tante",
+      "it": "la zia",
+      "pos": "n"
+    },
+    {
+      "fr": "travailler",
+      "it": "lavorare",
+      "pos": "v"
+    },
+    {
+      "fr": "l'université (f.)",
+      "it": "l'università",
+      "pos": "n"
+    },
+    {
+      "fr": "l'usage (m.)",
+      "it": "l'uso",
+      "pos": "n",
+      "note": "le bon usage = l'uso corretto"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "au bon moment",
+      "it": "al momento giusto",
+      "note": "bon davanti a moment con l'articolo"
+    },
+    {
+      "fr": "il y a quelque temps",
+      "it": "qualche tempo fa",
+      "note": "per un fatto recente ma non immediato"
+    },
+    {
+      "fr": "partir à la retraite",
+      "it": "andare in pensione",
+      "note": "registro neutro"
+    },
+    {
+      "fr": "peu de temps après",
+      "it": "poco dopo",
+      "note": "per collegare due fatti in un racconto"
+    },
+    {
+      "fr": "faire des études",
+      "it": "fare studi, studiare",
+      "note": "di solito all'università"
+    },
+    {
+      "fr": "devenir un fan de",
+      "it": "diventare appassionato di",
+      "note": "fan vale per maschile e femminile"
+    },
+    {
+      "fr": "Bonne question !",
+      "it": "Bella domanda!",
+      "note": "per prendere tempo prima di rispondere"
+    },
+    {
+      "fr": "une offre d'emploi",
+      "it": "un'offerta di lavoro",
+      "note": "linguaggio del lavoro"
+    },
+    {
+      "fr": "prendre la décision de",
+      "it": "prendere la decisione di",
+      "note": "seguito dall'infinito"
+    }
+  ],
+  "notes_it": [
+    "Il francese prende in prestito molti nomi di sport dall'inglese e li usa al maschile: le tennis, le golf, le squash, le volley-ball. Il football diventa le foot, mentre il basket resta le basket con la -t finale che si pronuncia. Il nuoto invece è la natation, parola francese e femminile.",
+    "Falso amico parziale: in francese faculté indica di norma la facoltà universitaria (faculté de droit = facoltà di giurisprudenza). Per la capacità in senso generale si usano più spesso capacité o aptitude.",
+    "Falso amico: personne, quando è accompagnato da ne, significa nessuno e non persona, che in francese si dice une personne. Con ne il verbo resta sempre negativo.",
+    "Nel linguaggio sportivo équipe nationale indica la nazionale. L'aggettivo che la descrive concorda con équipe, quindi è femminile: équipe nationale féminine, la nazionale femminile."
+  ],
+  "exercises": [
+    {
+      "id": "L043-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "gender",
+      "prompt": "Qual è la forma corretta per 'il calcio' in francese, nella forma abbreviata?",
+      "options": [
+        "le foot",
+        "la foot",
+        "les foot"
+      ],
+      "correct": 0,
+      "explain_it": "Foot è maschile come football: l'abbreviazione conserva l'articolo le."
+    },
+    {
+      "id": "L043-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "passe-compose-etre",
+      "prompt": "Completa: 'Marie ___ partie tôt ce matin.' (Maria è partita presto stamattina)",
+      "options": [
+        "est",
+        "a",
+        "sont"
+      ],
+      "correct": 0,
+      "explain_it": "Partir è un verbo di movimento che vuole être al passato prossimo; il participio concorda con il soggetto femminile: partie."
+    },
+    {
+      "id": "L043-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "adjective-agreement",
+      "prompt": "Quale aggettivo completa correttamente 'le football ___' (il calcio femminile)?",
+      "options": [
+        "féminin",
+        "féminine",
+        "féminins"
+      ],
+      "correct": 0,
+      "explain_it": "Football è un nome maschile singolare, quindi l'aggettivo è féminin, anche se descrive uno sport femminile."
+    },
+    {
+      "id": "L043-e04",
+      "type": "order",
+      "level": 1,
+      "concept": "passe-compose-etre",
+      "prompt": "Mio fratello è arrivato ieri.",
+      "answers": [
+        "Mon frère est arrivé hier."
+      ],
+      "distractors": [
+        "arrivée",
+        "a"
+      ],
+      "explain_it": "Arriver si coniuga con être; il participio arrivé è maschile singolare perché il soggetto frère è maschile."
+    },
+    {
+      "id": "L043-e05",
+      "type": "order",
+      "level": 1,
+      "concept": "adverbs",
+      "prompt": "Ho aspettato a lungo.",
+      "answers": [
+        "J'ai attendu longtemps."
+      ],
+      "distractors": [
+        "quelque",
+        "temps"
+      ],
+      "explain_it": "Longtemps è una sola parola e significa a lungo; non va confuso con quelque temps, che indica un periodo breve."
+    },
+    {
+      "id": "L043-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "pronoun-coi",
+      "prompt": "Il film mi è piaciuto.",
+      "answers": [
+        "Le film m'a plu.",
+        "Ce film m'a plu."
+      ],
+      "distractors": [
+        "ce",
+        "plaît"
+      ],
+      "explain_it": "Plaire ha il participio plu; la persona è il complemento indiretto m' (a me), che si colloca prima dell'ausiliare avoir."
+    },
+    {
+      "id": "L043-e07",
+      "type": "cloze",
+      "level": 1,
+      "concept": "adjectives-irregular",
+      "text": "Ma sœur est très ___ : elle fait du sport chaque jour.",
+      "answers": [
+        "sportive"
+      ],
+      "hint": "(sportif, al femminile)",
+      "prompt": "Mia sorella è molto sportiva: fa sport ogni giorno.",
+      "explain_it": "Gli aggettivi maschili in -if diventano in -ive al femminile: sportif, sportive."
+    },
+    {
+      "id": "L043-e08",
+      "type": "cloze",
+      "level": 1,
+      "concept": "passe-compose-etre",
+      "text": "Les enfants sont ___ à la maison toute la journée.",
+      "answers": [
+        "restés"
+      ],
+      "hint": "(rester, participio passato maschile plurale)",
+      "prompt": "I bambini sono rimasti a casa tutto il giorno.",
+      "explain_it": "Rester vuole être; il participio concorda con il soggetto les enfants, maschile plurale: restés."
+    },
+    {
+      "id": "L043-e09",
+      "type": "flash",
+      "level": 1,
+      "concept": "gender",
+      "front": "Qual è il genere dei nomi di sport come tennis, golf e basket in francese?",
+      "back": "Sono maschili: le tennis, le golf, le basket. Il nuoto (la natation) è invece femminile.",
+      "note": "Il francese importa dall'inglese molti nomi di sport e li rende maschili."
+    },
+    {
+      "id": "L043-e10",
+      "type": "mcq",
+      "level": 2,
+      "concept": "negation-other",
+      "prompt": "Come si dice 'nessuno mi ha risposto' in francese?",
+      "options": [
+        "Personne ne m'a répondu.",
+        "Quelqu'un ne m'a répondu.",
+        "Personne m'a répondu."
+      ],
+      "correct": 0,
+      "explain_it": "Personne è il pronome negativo: va con ne prima del verbo, che resta negativo senza pas. Senza ne la frase è sbagliata."
+    },
+    {
+      "id": "L043-e11",
+      "type": "order",
+      "level": 2,
+      "concept": "adjective-position",
+      "prompt": "È la domanda giusta.",
+      "answers": [
+        "C'est la bonne question."
+      ],
+      "distractors": [
+        "bon",
+        "un"
+      ],
+      "explain_it": "Con l'articolo determinativo bon assume il senso di giusto: la bonne question è la domanda giusta, mentre une bonne question significa una bella domanda."
+    },
+    {
+      "id": "L043-e12",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-coi",
+      "text": "Je vais ___ demander son avis.",
+      "answers": [
+        "lui"
+      ],
+      "hint": "(pronome indiretto per una persona, con demander à)",
+      "prompt": "Chiederò a lui il suo parere.",
+      "explain_it": "Demander à qualcuno: la persona diventa il pronome indiretto lui, che va prima del verbo."
+    },
+    {
+      "id": "L043-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adverbs",
+      "text": "Elle a étudié ___ à la bibliothèque.",
+      "answers": [
+        "longtemps"
+      ],
+      "hint": "(avverbio di una sola parola: a lungo)",
+      "prompt": "Lei ha studiato a lungo in biblioteca.",
+      "explain_it": "Longtemps è una parola sola e indica una durata lunga; quelque temps indicherebbe un periodo breve."
+    },
+    {
+      "id": "L043-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "text": "Mon père est ___ à Milan en 1950.",
+      "answers": [
+        "né"
+      ],
+      "hint": "(naître, participio passato maschile)",
+      "prompt": "Mio padre è nato a Milano nel 1950.",
+      "explain_it": "Naître si coniuga sempre con être; il participio concorda con il soggetto maschile: né (per una donna sarebbe née)."
+    },
+    {
+      "id": "L043-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "prompt": "Ieri Marco e Luca sono tornati a casa alle dieci.",
+      "answers": [
+        "Hier, Marc et Luc sont [rentrés|revenus] [à la maison|chez eux] à dix heures.",
+        "Marc et Luc sont [rentrés|revenus] [à la maison|chez eux] à dix heures hier."
+      ],
+      "explain_it": "Rentrer e revenir si coniugano con être al passato prossimo; il participio si accorda con il soggetto maschile plurale."
+    },
+    {
+      "id": "L043-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-coi",
+      "prompt": "Ti è piaciuto il film?",
+      "answers": [
+        "Le film t'a plu ?",
+        "Ce film t'a plu ?",
+        "Est-ce que le film t'a plu ?",
+        "Ça t'a plu, le film ?"
+      ],
+      "explain_it": "Plaire ha come soggetto la cosa che piace; la persona è il complemento indiretto t', e il participio plu resta invariato."
+    },
+    {
+      "id": "L043-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "Il calcio femminile è molto popolare in Francia.",
+      "answers": [
+        "Le [football|foot] féminin est très populaire en France."
+      ],
+      "explain_it": "Il nome è maschile singolare, quindi l'aggettivo resta al maschile: féminin."
+    },
+    {
+      "id": "L043-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "adjectives-irregular",
+      "prompt": "Lei è molto creativa e attiva.",
+      "answers": [
+        "Elle est très créative et [très |]active."
+      ],
+      "explain_it": "Gli aggettivi in -if al femminile diventano -ive: créative, active."
+    },
+    {
+      "id": "L043-e19",
+      "type": "dictation",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "text": "Elle est née à Nice, puis elle est partie à Paris.",
+      "explain_it": "Naître e partir vogliono être; con soggetto femminile il participio prende la -e: née, partie."
+    },
+    {
+      "id": "L043-e20",
+      "type": "flash",
+      "level": 2,
+      "concept": "adverbs",
+      "front": "Quelque temps o longtemps: quale usare per 'per qualche tempo' e quale per 'a lungo'?",
+      "back": "Quelque temps (due parole) = per qualche tempo, un po'. Longtemps (una parola) = a lungo, per molto tempo.",
+      "note": "Attenzione alla grafia: quelque temps si scrive separato, longtemps è unito."
+    },
+    {
+      "id": "L043-e21",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-etre",
+      "prompt": "Il ragazzo è nato a Lione nel 1999 e poi è andato a vivere a Parigi con i nonni.",
+      "answers": [
+        "Le [garçon|jeune homme] est né à Lyon en [1999|mille neuf cent quatre-vingt-dix-neuf|dix-neuf cent quatre-vingt-dix-neuf], [puis|et puis|ensuite] il est allé [vivre|habiter] à Paris avec ses grands-parents."
+      ],
+      "explain_it": "Naître e aller vogliono être; con un soggetto maschile il participio resta né e allé."
+    },
+    {
+      "id": "L043-e22",
+      "type": "write",
+      "level": 3,
+      "concept": "adjective-agreement",
+      "prompt": "L'allenatore della nazionale femminile di calcio è arrivato ieri.",
+      "answers": [
+        "L'entraîneur de l'équipe nationale de [football|foot] féminine est arrivé hier.",
+        "L'entraîneur de l'équipe nationale féminine de [football|foot] est arrivé hier."
+      ],
+      "explain_it": "L'aggettivo concorda con il nome principale équipe, femminile: féminine, e non féminin come se si riferisse a football."
+    },
+    {
+      "id": "L043-e23",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-coi",
+      "prompt": "Ho chiesto al direttore se il mio progetto gli piace.",
+      "answers": [
+        "J'ai demandé [au directeur|à mon directeur] si mon projet lui plaît."
+      ],
+      "explain_it": "Demander à qualcuno e plaire à qualcuno: la persona è il complemento indiretto, quindi à + nome nella prima parte e lui davanti a plaît; il verbo resta al presente perché il piacere è attuale."
+    },
+    {
+      "id": "L043-e24",
+      "type": "write",
+      "level": 3,
+      "concept": "adjective-position",
+      "prompt": "Non è la risposta giusta, ma è una buona idea.",
+      "answers": [
+        "Ce n'est pas la bonne réponse, mais c'est une bonne idée.",
+        "Ce n'est pas la réponse juste, mais c'est une bonne idée."
+      ],
+      "explain_it": "Con l'articolo determinativo bonne assume il senso di giusto; con l'indeterminativo una bonne idée significa un'idea buona."
+    },
+    {
+      "id": "L043-e25",
+      "type": "write",
+      "level": 3,
+      "concept": "negation-other",
+      "prompt": "Nessuno ha visto il mio cane in giardino.",
+      "answers": [
+        "Personne n'a vu mon chien [dans le|au] jardin."
+      ],
+      "explain_it": "Personne soggetto va all'inizio con ne prima dell'ausiliare: n'a vu; il verbo resta negativo."
+    },
+    {
+      "id": "L043-e26",
+      "type": "write",
+      "level": 3,
+      "concept": "adverbs",
+      "prompt": "Ho aspettato per qualche tempo, poi sono partito.",
+      "answers": [
+        "J'ai attendu [pendant |]quelque temps, [puis|et puis|ensuite] je suis parti."
+      ],
+      "explain_it": "Quelque temps, in due parole, indica un periodo breve; partir vuole être e il participio parti concorda con il soggetto maschile."
+    },
+    {
+      "id": "L043-e27",
+      "type": "cloze",
+      "level": 3,
+      "concept": "negation-other",
+      "text": "Je ne vois ___ dans la rue.",
+      "answers": [
+        "personne"
+      ],
+      "hint": "(pronome negativo come complemento: nessuno)",
+      "prompt": "Non vedo nessuno nella strada.",
+      "explain_it": "Come complemento personne va dopo il verbo, mentre ne resta prima del verbo: je ne vois personne."
+    },
+    {
+      "id": "L043-e28",
+      "type": "dictation",
+      "level": 3,
+      "concept": "passe-compose-etre",
+      "text": "Après le lycée, elle est allée à Lyon. Elle est restée deux ans, puis elle est revenue à Paris.",
+      "explain_it": "Aller, rester e revenir vogliono être; con soggetto femminile i participi prendono la -e: allée, restée, revenue."
+    },
+    {
+      "id": "L043-e29",
+      "type": "order",
+      "level": 3,
+      "concept": "passe-compose-etre",
+      "prompt": "Lei è nata a Nizza, ma è cresciuta a Parigi.",
+      "answers": [
+        "Elle est née à Nice, mais elle a grandi à Paris."
+      ],
+      "distractors": [
+        "grandie",
+        "suis"
+      ],
+      "explain_it": "Naître vuole être: est née; grandir invece vuole avoir: a grandi, senza accordo con il soggetto."
+    },
+    {
+      "id": "L043-e30",
+      "type": "write",
+      "level": 2,
+      "prompt": "Mio zio e mia zia lavorano all'università.",
+      "ask": "Traduci in francese.",
+      "answers": [
+        "Mon oncle et ma tante travaillent à l'université.",
+        "Mon oncle et ma tante travaillent à la fac."
+      ],
+      "concept": "vocab",
+      "explain_it": "oncle è maschile e tante femminile; « travailler à l'université » = lavorare all'università."
+    },
+    {
+      "id": "L043-e31",
+      "type": "write",
+      "level": 2,
+      "prompt": "Ho studiato la gestione all'università.",
+      "ask": "Traduci in francese.",
+      "answers": [
+        "J'ai étudié la gestion à l'université.",
+        "J'ai étudié la gestion à la fac."
+      ],
+      "concept": "passe-compose-avoir",
+      "explain_it": "Passato composto con avoir: j'ai étudié."
+    }
+  ]
+}

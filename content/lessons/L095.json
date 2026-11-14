@@ -1,0 +1,795 @@
+{
+  "n": 95,
+  "title_fr": "Quatre-vingt-quinzième leçon - Le JT du soir",
+  "title_it": "Novantacinquesima lezione - Il TG della sera",
+  "review": false,
+  "status": "verified",
+  "source": "4a88e539 pdf 20-29 (libro p.585-594); la lezione inizia a pdf 20 (p.585, in basso) con il titolo; dialogo righe 1-2 a pdf 20-21, righe 3-10 a pdf 22-23, righe 11-19 a pdf 24-25, righe 20-25 a pdf 26-27; note 1-10 a pdf 21-27; esercizio 1 a pdf 26 (p.591), risposte a pdf 27 (p.592); esercizio 2 a pdf 28 (p.593, in alto), risposte a pdf 29 (p.594, in alto); la lezione 96 inizia a pdf 28 (p.593, in basso)",
+  "theme_it": "Il telegiornale della sera apre con i titoli principali: un furto in un hotel di lusso della Costa Azzurra, la ripresa di una fabbrica dopo un guasto, il Salone dell'agricoltura, la nuova star della musica francofona e un incidente stradale. Il tono è quello di un servizio di cronaca, con molte informazioni riportate senza conferma, quindi con il condizionale.",
+  "grammar": [
+    {
+      "id": "conditionnel",
+      "title_it": "Il condizionale per le notizie non confermate",
+      "explain_it": "Nel linguaggio giornalistico il condizionale presente (serait, aurait) indica un'informazione non ancora confermata. Di solito compare con selon o d'après (secondo): Selon la police, le voleur serait parti à pied. Il passato del condizionale (aurait volé, serait sorti) presenta un fatto come avvenuto, ma non verificato. In italiano il meccanismo è lo stesso (sarebbe partito, avrebbe rubato), quindi è facile da riconoscere; l'errore tipico è usare il futuro o il passato prossimo al posto del condizionale.",
+      "examples": [
+        {
+          "fr": "D'après les témoins, le voleur serait entré par la fenêtre.",
+          "it": "Secondo i testimoni, il ladro sarebbe entrato dalla finestra."
+        },
+        {
+          "fr": "Il aurait volé une voiture.",
+          "it": "Avrebbe rubato un'auto."
+        }
+      ]
+    },
+    {
+      "id": "gender",
+      "title_it": "Vedette: femminile anche per un uomo",
+      "explain_it": "Il sostantivo une vedette (star, celebrità) è sempre femminile, anche quando indica un uomo: un attore o un cantante famoso è une vedette. Articolo, aggettivi e participi si accordano al femminile: une nouvelle vedette, la vedette est arrivée. Il genere segue la parola, non il sesso della persona (come l'italiano 'la star').",
+      "examples": [
+        {
+          "fr": "C'est la nouvelle vedette du cinéma français.",
+          "it": "È la nuova star del cinema francese."
+        },
+        {
+          "fr": "Cette vedette de la chanson est très connue.",
+          "it": "Questa star della canzone è molto nota."
+        }
+      ]
+    },
+    {
+      "id": "pronominal-verbs",
+      "title_it": "Se débrouiller: cavarsela",
+      "explain_it": "Il verbo pronominale se débrouiller significa cavarsela, arrangiarsi. Al passato prossimo vuole être e il participio concorda con il soggetto: je me suis débrouillé (uomo), elle s'est débrouillée (donna). Nel parlato si usa molto all'imperativo: débrouille-toi ! (arrangiati!).",
+      "examples": [
+        {
+          "fr": "Je me débrouille bien en français.",
+          "it": "Me la cavo bene in francese."
+        },
+        {
+          "fr": "Elle s'est débrouillée toute seule.",
+          "it": "Se l'è cavata da sola."
+        }
+      ]
+    },
+    {
+      "id": "vocab",
+      "title_it": "Voler e dérober: rubare senza violenza",
+      "explain_it": "Nel senso di rubare, voler e dérober sono sinonimi e indicano un furto compiuto di nascosto, senza violenza; dérober è più letterario o giornalistico. Voler vuol dire anche 'volare': il contesto chiarisce il senso. Il furto con violenza si dice braquer (rapinare); un cambriolage è il furto con scasso in un'abitazione o in un hotel; un casse è, in termini familiari, un colpo.",
+      "examples": [
+        {
+          "fr": "Le voleur a dérobé des bijoux dans la suite.",
+          "it": "Il ladro ha rubato dei gioielli nella suite."
+        },
+        {
+          "fr": "On lui a volé son portefeuille dans le métro.",
+          "it": "Gli hanno rubato il portafoglio in metro."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le JT / le journal télévisé",
+      "it": "il TG (telegiornale)",
+      "pos": "n",
+      "note": "si dice anche le journal, abbreviato JT"
+    },
+    {
+      "fr": "l'actualité (f.)",
+      "it": "l'attualità, le notizie",
+      "pos": "n",
+      "note": "anche al plurale: les actualités = i notiziari"
+    },
+    {
+      "fr": "le titre",
+      "it": "il titolo",
+      "pos": "n",
+      "note": "qui: titolo di un servizio, di un notiziario"
+    },
+    {
+      "fr": "un cambriolage",
+      "it": "un furto con scasso",
+      "pos": "n",
+      "note": "di solito in un'abitazione o in un albergo"
+    },
+    {
+      "fr": "un palace",
+      "it": "un hotel di lusso",
+      "pos": "n"
+    },
+    {
+      "fr": "un collier",
+      "it": "una collana",
+      "pos": "n"
+    },
+    {
+      "fr": "une perle",
+      "it": "una perla",
+      "pos": "n"
+    },
+    {
+      "fr": "un coffre-fort",
+      "it": "una cassaforte",
+      "pos": "n"
+    },
+    {
+      "fr": "un vol",
+      "it": "un furto",
+      "pos": "n",
+      "note": "attenzione: vol significa anche volo (aereo)"
+    },
+    {
+      "fr": "un casse",
+      "it": "un colpo, un furto (familiare)",
+      "pos": "n",
+      "note": "registro familiare"
+    },
+    {
+      "fr": "un indice",
+      "it": "un indizio",
+      "pos": "n"
+    },
+    {
+      "fr": "une piste",
+      "it": "una pista",
+      "pos": "n"
+    },
+    {
+      "fr": "le parquet",
+      "it": "la procura",
+      "pos": "n",
+      "note": "qui: ufficio del pubblico ministero; parquet significa anche pavimento"
+    },
+    {
+      "fr": "une enquête",
+      "it": "un'inchiesta",
+      "pos": "n"
+    },
+    {
+      "fr": "un porte-parole",
+      "it": "un portavoce",
+      "pos": "n"
+    },
+    {
+      "fr": "une usine",
+      "it": "una fabbrica, uno stabilimento",
+      "pos": "n"
+    },
+    {
+      "fr": "un dysfonctionnement",
+      "it": "un malfunzionamento, una disfunzione",
+      "pos": "n"
+    },
+    {
+      "fr": "un agriculteur",
+      "it": "un agricoltore",
+      "pos": "n",
+      "note": "il termine oggi usato per il mestiere; paysan è più antico"
+    },
+    {
+      "fr": "un salon",
+      "it": "una fiera, un salone espositivo",
+      "pos": "n",
+      "note": "le Salon de l'Agriculture è la grande fiera agricola di Parigi"
+    },
+    {
+      "fr": "une vedette",
+      "it": "una star, una celebrità",
+      "pos": "n",
+      "note": "femminile anche per un uomo"
+    },
+    {
+      "fr": "un clip",
+      "it": "un videoclip musicale",
+      "pos": "n"
+    },
+    {
+      "fr": "un souci",
+      "it": "un problema, una preoccupazione",
+      "pos": "n"
+    },
+    {
+      "fr": "l'espoir (m.)",
+      "it": "la speranza",
+      "pos": "n"
+    },
+    {
+      "fr": "malicieux",
+      "it": "malizioso",
+      "pos": "adj",
+      "note": "f. malicieuse"
+    },
+    {
+      "fr": "diminuer",
+      "it": "diminuire",
+      "pos": "v",
+      "note": "il nombre diminue"
+    },
+    {
+      "fr": "une autoroute",
+      "it": "un'autostrada",
+      "pos": "n"
+    },
+    {
+      "fr": "un carambolage",
+      "it": "un tamponamento a catena",
+      "pos": "n"
+    },
+    {
+      "fr": "la gendarmerie",
+      "it": "la gendarmeria, i carabinieri francesi",
+      "pos": "n",
+      "note": "corpo di polizia militare"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "du bout des lèvres",
+      "it": "senza convinzione, a fior di labbra",
+      "note": "letteralmente 'dalla punta delle labbra': dire o accettare senza entusiasmo"
+    },
+    {
+      "fr": "défrayer la chronique",
+      "it": "fare scalpore, far parlare di sé",
+      "note": "espressione del giornalismo; si dice di un fatto molto commentato"
+    },
+    {
+      "fr": "disparaître dans la nature",
+      "it": "sparire nel nulla",
+      "note": "disparaître vuole avoir: ils ont disparu"
+    },
+    {
+      "fr": "aux quatre coins de l'Hexagone",
+      "it": "in tutta la Francia",
+      "note": "l'Hexagone è un modo giornalistico/familiare per dire la Francia"
+    },
+    {
+      "fr": "Restez à l'antenne.",
+      "it": "Restate sintonizzati.",
+      "note": "formula di chiusura del conduttore"
+    },
+    {
+      "fr": "Nous vous tiendrons informés.",
+      "it": "Vi terremo aggiornati.",
+      "note": "formula tipica dei notiziari"
+    },
+    {
+      "fr": "ne rien vouloir entendre",
+      "it": "non voler sentire ragioni",
+      "note": "al passato: on n'a rien voulu entendre"
+    },
+    {
+      "fr": "Place à la culture.",
+      "it": "Spazio alla cultura.",
+      "note": "formula per introdurre un nuovo argomento"
+    },
+    {
+      "fr": "se débrouiller tout seul",
+      "it": "cavarsela da solo",
+      "note": "registro familiare, molto comune"
+    }
+  ],
+  "notes_it": [
+    "Actualité significa 'attualità' o 'notizie' (les actualités = il notiziario); non va confusa con actuellement, 'attualmente'. Il JT (journal télévisé) si pronuncia 'gi-té'.",
+    "Parquet non ha nulla a che fare con il pavimento quando si parla di cronaca: il parquet è la procura, cioè l'ufficio del pubblico ministero.",
+    "Vol significa 'furto' ma anche 'volo' (aereo): è il contesto a indicare il senso. Nei titoli di cronaca si trovano anche dérober e cambriolage.",
+    "L'Hexagone è la Francia metropolitana, chiamata così per la forma del suo territorio. Chronique significa 'cronaca' o 'rubrica': défrayer la chronique = fare notizia."
+  ],
+  "exercises": [
+    {
+      "id": "L095-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "conditionnel",
+      "prompt": "Quale frase significa 'Secondo la polizia, il ladro sarebbe scappato a piedi' (informazione non confermata)?",
+      "options": [
+        "Selon la police, le voleur serait parti à pied.",
+        "Selon la police, le voleur est parti à pied.",
+        "Selon la police, le voleur sera parti à pied.",
+        "Selon la police, le voleur aurait parti à pied."
+      ],
+      "correct": 0,
+      "explain_it": "Per una notizia non confermata si usa il condizionale presente (serait). Aurait parti è sbagliato perché partir vuole essere, non avoir."
+    },
+    {
+      "id": "L095-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "gender",
+      "prompt": "Quale forma è corretta per 'la nuova star del festival' riferita a un attore uomo?",
+      "options": [
+        "une nouvelle vedette",
+        "un nouveau vedette",
+        "un nouvel vedette",
+        "le nouvel vedette"
+      ],
+      "correct": 0,
+      "explain_it": "Vedette è femminile anche per un uomo, quindi vanno al femminile l'articolo une e l'aggettivo nouvelle."
+    },
+    {
+      "id": "L095-e03",
+      "type": "mcq",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Nel linguaggio giornalistico, 'défrayer la chronique' significa:",
+      "options": [
+        "fare scalpore, far parlare di sé",
+        "pagare il conto della cronaca",
+        "raccontare la cronaca di ieri",
+        "rinunciare a un'intervista"
+      ],
+      "correct": 0,
+      "explain_it": "È un'espressione idiomatica: un fatto che fa scalpore e viene molto commentato. Il verbo défrayer non significa pagare in questo contesto."
+    },
+    {
+      "id": "L095-e04",
+      "type": "mcq",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Il verbo 'dérober', riferito a un oggetto, significa:",
+      "options": [
+        "rubare senza violenza",
+        "rubare con la forza",
+        "volare",
+        "difendere"
+      ],
+      "correct": 0,
+      "explain_it": "Dérober indica un furto di nascosto, senza violenza. Rubare con la forza è braquer, non dérober."
+    },
+    {
+      "id": "L095-e05",
+      "type": "mcq",
+      "level": 2,
+      "concept": "negation",
+      "prompt": "Quale frase significa 'Non smetto di pensare al furto'?",
+      "options": [
+        "Je ne cesse de penser au vol.",
+        "Je cesse de penser au vol.",
+        "Je ne cesse pas penser au vol.",
+        "Je ne cesse à penser au vol."
+      ],
+      "correct": 0,
+      "explain_it": "Ne cesser de più l'infinito significa non smettere di; la costruzione richiede la preposizione de e non à."
+    },
+    {
+      "id": "L095-e06",
+      "type": "mcq",
+      "level": 3,
+      "concept": "conditionnel",
+      "prompt": "Quale frase traduce 'Secondo il TG, il sospetto avrebbe confessato'?",
+      "options": [
+        "Selon le JT, le suspect aurait avoué.",
+        "Selon le JT, le suspect avouerait.",
+        "Selon le JT, le suspect a avoué.",
+        "Selon le JT, le suspect avait avoué."
+      ],
+      "correct": 0,
+      "explain_it": "Un fatto riportato ma non confermato, già avvenuto, richiede il passato del condizionale (aurait avoué). Avouerait è il presente e non indica il passato."
+    },
+    {
+      "id": "L095-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "conditionnel",
+      "prompt": "Secondo le guardie di sicurezza, il ladro sarebbe uscito dalla porta di servizio.",
+      "answers": [
+        "Selon les vigiles, le voleur serait sorti par la porte de service.",
+        "Selon les vigiles, le cambrioleur serait sorti par la porte de service."
+      ],
+      "distractors": [
+        "est",
+        "aurait"
+      ],
+      "explain_it": "Sortir si coniuga con être, quindi il condizionale è serait sorti; aurait sarebbe un errore comune."
+    },
+    {
+      "id": "L095-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "gender",
+      "prompt": "La nuova star del festival è arrivata ieri.",
+      "answers": [
+        "La nouvelle vedette du festival est arrivée hier."
+      ],
+      "distractors": [
+        "le",
+        "nouveau"
+      ],
+      "explain_it": "Vedette è femminile, quindi l'articolo è la/une e l'aggettivo è nouvelle; anche arrivée concorda con il soggetto femminile."
+    },
+    {
+      "id": "L095-e09",
+      "type": "order",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Mia sorella si cava sempre bene.",
+      "answers": [
+        "Ma [soeur|sœur] se débrouille toujours bien."
+      ],
+      "distractors": [
+        "vous",
+        "s'en"
+      ],
+      "explain_it": "Il verbo se débrouiller al presente ha il pronome se davanti al verbo e l'avverbio toujours va dopo il verbo coniugato."
+    },
+    {
+      "id": "L095-e10",
+      "type": "order",
+      "level": 2,
+      "concept": "conditionnel",
+      "prompt": "Secondo il portavoce, la fabbrica riprenderebbe la produzione lunedì.",
+      "answers": [
+        "Selon le porte-parole, l'usine reprendrait la production lundi."
+      ],
+      "distractors": [
+        "reprend",
+        "aura"
+      ],
+      "explain_it": "Riprendere ha la forma reprendrait al condizionale presente; con una notizia non ancora confermata si usa questo tempo."
+    },
+    {
+      "id": "L095-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "conditionnel",
+      "text": "Selon la police, le suspect ___ en fuite.",
+      "answers": [
+        "serait"
+      ],
+      "hint": "(être, condizionale presente)",
+      "prompt": "Secondo la polizia, il sospettato sarebbe in fuga.",
+      "explain_it": "Per una notizia non confermata si usa il condizionale presente del verbo essere: serait."
+    },
+    {
+      "id": "L095-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "pronominal-verbs",
+      "text": "Ne t'inquiète pas, je me ___ très bien.",
+      "answers": [
+        "débrouille"
+      ],
+      "hint": "(se débrouiller, presente)",
+      "prompt": "Non preoccuparti, me la cavo molto bene.",
+      "explain_it": "Se débrouiller al presente per io è je me débrouille: il pronome me precede il verbo coniugato."
+    },
+    {
+      "id": "L095-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Les bijoux ont été ___ pendant la nuit.",
+      "answers": [
+        "volés",
+        "dérobés"
+      ],
+      "hint": "(voler o dérober, participio passato)",
+      "prompt": "I gioielli sono stati rubati durante la notte.",
+      "explain_it": "Entrambi i verbi significano rubare; al passivo il participio concorda con il soggetto plurale les bijoux."
+    },
+    {
+      "id": "L095-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "gender",
+      "text": "Cette ___ de la chanson est très connue.",
+      "answers": [
+        "vedette"
+      ],
+      "hint": "(nome femminile)",
+      "prompt": "Questa star della canzone è molto nota.",
+      "explain_it": "Vedette è un nome femminile anche per una persona di sesso maschile; il dimostrativo deve quindi essere cette."
+    },
+    {
+      "id": "L095-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "false-friends",
+      "text": "Le ___ de Nice a ouvert une enquête.",
+      "answers": [
+        "parquet"
+      ],
+      "hint": "(in cronaca: ufficio del pubblico ministero)",
+      "prompt": "La procura di Nizza ha aperto un'inchiesta.",
+      "explain_it": "Parquet, in questo senso, significa procura. Il significato di pavimento è il più noto ma non si applica qui."
+    },
+    {
+      "id": "L095-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "text": "Mon fils s'est bien ___ dans la nouvelle école.",
+      "answers": [
+        "débrouillé"
+      ],
+      "hint": "(se débrouiller, passato prossimo)",
+      "prompt": "Mio figlio si è cavato bene nella nuova scuola.",
+      "explain_it": "Con essere il participio concorda con il soggetto: mon fils è maschile singolare, quindi débrouillé senza -e."
+    },
+    {
+      "id": "L095-e17",
+      "type": "cloze",
+      "level": 3,
+      "concept": "conditionnel",
+      "text": "Selon les pompiers, il y ___ eu plusieurs blessés.",
+      "answers": [
+        "aurait"
+      ],
+      "hint": "(il y a, condizionale passato)",
+      "prompt": "Secondo i pompieri, ci sarebbero stati diversi feriti.",
+      "explain_it": "Il passato del condizionale di il y a è il y aurait eu: il verbo avoir è al condizionale presente e il participio resta eu."
+    },
+    {
+      "id": "L095-e18",
+      "type": "write",
+      "level": 1,
+      "concept": "vocab",
+      "prompt": "Il ladro ha rubato una collana di perle.",
+      "answers": [
+        "Le voleur a [volé|dérobé] un collier de perles"
+      ],
+      "explain_it": "Voler e dérober sono sinonimi nel senso di rubare; entrambi prendono avoir al passato prossimo."
+    },
+    {
+      "id": "L095-e19",
+      "type": "write",
+      "level": 1,
+      "concept": "vocab",
+      "prompt": "Il titolo del telegiornale è molto interessante.",
+      "answers": [
+        "Le titre du JT est très intéressant",
+        "Le titre du journal télévisé est très intéressant"
+      ],
+      "explain_it": "Titre è maschile e il JT, abbreviazione di journal télévisé, mantiene il genere del sostantivo principale."
+    },
+    {
+      "id": "L095-e20",
+      "type": "write",
+      "level": 1,
+      "concept": "gender",
+      "prompt": "Lei porta una collana di perle rare.",
+      "answers": [
+        "Elle porte un collier de perles rares"
+      ],
+      "explain_it": "Rare ha la forma uguale al maschile e al femminile; il plurale di perles richiede la s finale anche in rares."
+    },
+    {
+      "id": "L095-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Il portavoce ha nascosto la verità.",
+      "answers": [
+        "Le porte-parole a [caché|dissimulé] la vérité"
+      ],
+      "explain_it": "Cacher è un verbo transitivo e il passato prossimo si forma con avoir: a caché. Porte-parole è maschile e invariabile al singolare."
+    },
+    {
+      "id": "L095-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "negation",
+      "prompt": "Non smetto di pensarci.",
+      "answers": [
+        "Je ne cesse d'y penser",
+        "Je n'arrête pas d'y penser",
+        "Je ne cesse de penser à ça"
+      ],
+      "explain_it": "Ne cesser de più infinito corrisponde a non smettere di; y sostituisce il complemento con à, quindi d'y penser."
+    },
+    {
+      "id": "L095-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Questo caso ha fatto scalpore in tutta la Francia.",
+      "answers": [
+        "Cette affaire a défrayé la chronique dans [toute la France|tout le pays|tout l'Hexagone]"
+      ],
+      "explain_it": "È l'espressione défrayer la chronique, fare scalpore; affaire è il termine generico per un caso di cronaca."
+    },
+    {
+      "id": "L095-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "La polizia ha aperto un'inchiesta ieri sera.",
+      "answers": [
+        "La police a ouvert une enquête hier soir",
+        "Hier soir, la police a ouvert une enquête"
+      ],
+      "explain_it": "Ouvrir è un verbo con avoir al passato prossimo, e il participio ouvert resta invariato con il complemento une enquête."
+    },
+    {
+      "id": "L095-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Mio fratello se la cava bene da solo.",
+      "answers": [
+        "Mon frère se débrouille bien tout seul",
+        "Mon frère se débrouille très bien tout seul",
+        "Mon frère se débrouille bien seul"
+      ],
+      "explain_it": "Se débrouiller si usa con il pronome se davanti al verbo; tout seul è l'espressione per da solo."
+    },
+    {
+      "id": "L095-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "relative-pronouns",
+      "prompt": "Il cantante di cui tutti parlano è arrivato.",
+      "answers": [
+        "Le chanteur dont tout le monde parle est arrivé"
+      ],
+      "explain_it": "Parler de diventa dont con un complemento preceduto da de: dont tout le monde parle."
+    },
+    {
+      "id": "L095-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-en",
+      "prompt": "Il nuovo album è uscito ieri e tutti ne parlano.",
+      "answers": [
+        "Le nouvel album est sorti hier et tout le monde en parle"
+      ],
+      "explain_it": "Parler de ha il complemento sostituito da en: tout le monde en parle."
+    },
+    {
+      "id": "L095-e28",
+      "type": "write",
+      "level": 2,
+      "concept": "passive",
+      "prompt": "Ieri i diamanti sono stati rubati in un hotel di lusso.",
+      "answers": [
+        "Hier, les diamants ont été [volés|dérobés] dans un [hôtel de luxe|palace]",
+        "Les diamants ont été [volés|dérobés] hier dans un [hôtel de luxe|palace]"
+      ],
+      "explain_it": "Il passivo al passato prossimo è ont été più il participio, che concorda con il soggetto les diamants."
+    },
+    {
+      "id": "L095-e29",
+      "type": "write",
+      "level": 2,
+      "concept": "conditionnel",
+      "prompt": "Secondo i giornali, la nuova star avrebbe già firmato un contratto.",
+      "answers": [
+        "[Selon|D'après] les journaux, la nouvelle vedette aurait déjà signé un contrat"
+      ],
+      "explain_it": "Notizia non confermata al passato: aurait signé. Vedette è femminile e richiede nouvelle."
+    },
+    {
+      "id": "L095-e30",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Il Salone del libro apre al pubblico tra una settimana.",
+      "answers": [
+        "Le salon du livre ouvre [ses portes|] au public dans une semaine",
+        "Le salon du livre ouvrira [ses portes|] au public dans une semaine"
+      ],
+      "explain_it": "Ouvrir ses portes al pubblico si dice così; il futuro ouvrira è accettabile nel contesto di un annuncio."
+    },
+    {
+      "id": "L095-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "conditionnel",
+      "prompt": "Secondo la procura, il ladro avrebbe rubato più di cento diamanti in un hotel di lusso.",
+      "answers": [
+        "[Selon|D'après] le parquet, le voleur aurait [volé|dérobé] plus de cent diamants dans un [hôtel de luxe|palace]"
+      ],
+      "explain_it": "Un fatto riferito ma non confermato, avvenuto nel passato, richiede aurait rubato; plus de cent è la forma corretta senza -s."
+    },
+    {
+      "id": "L095-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "relative-pronouns",
+      "prompt": "Il ladro, che nessuno ha visto, è sparito nel nulla.",
+      "answers": [
+        "Le voleur, que personne n'a vu, a disparu dans la nature",
+        "Le voleur que personne n'a vu a disparu dans la nature"
+      ],
+      "explain_it": "Que è complemento diretto di voir; con personne la negazione è ne... personne, quindi n'a vu."
+    },
+    {
+      "id": "L095-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "si-clauses",
+      "prompt": "Se lo avessi saputo, avrei chiamato la polizia.",
+      "answers": [
+        "Si [je l'|j']avais su, j'aurais [appelé|prévenu] la police"
+      ],
+      "explain_it": "Nella frase con si va il trapassato (avais su) e nella principale il passato del condizionale (aurais appelé)."
+    },
+    {
+      "id": "L095-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "gender",
+      "prompt": "Secondo il TG, la celebre star ha firmato un contratto a Parigi.",
+      "answers": [
+        "[Selon|D'après] le JT, la célèbre vedette a signé un contrat à Paris"
+      ],
+      "explain_it": "Vedette è femminile, quindi l'aggettivo è célèbre (uguale al maschile) con l'articolo la; il passato prossimo di signer si fa con avoir."
+    },
+    {
+      "id": "L095-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "pronominal-verbs",
+      "prompt": "Ieri mia sorella se l'è cavata bene con i bagagli.",
+      "answers": [
+        "Hier, ma [soeur|sœur] s'est bien débrouillée avec les [bagages|valises]"
+      ],
+      "explain_it": "Il passato prossimo di se débrouiller prende être e il participio concorda con il soggetto femminile sœur: débrouillée."
+    },
+    {
+      "id": "L095-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "pronominal-verbs",
+      "prompt": "Dovrai cavartela da solo.",
+      "answers": [
+        "Tu devras te débrouiller [tout seul|toute seule|seul|seule]",
+        "Vous devrez vous débrouiller [tout seuls|toutes seules|tout seul|toute seule|seuls|seules|seul|seule]"
+      ],
+      "explain_it": "Il futuro di devoir è tu devras / vous devrez; il pronome riflessivo (te, vous) precede l'infinito débrouiller; seul si accorda con la persona."
+    },
+    {
+      "id": "L095-e37",
+      "type": "dictation",
+      "level": 2,
+      "concept": "conditionnel",
+      "text": "Selon les témoins, le voleur serait entré par la fenêtre.",
+      "explain_it": "Il condizionale presente indica un'informazione non confermata: serait entré, con être."
+    },
+    {
+      "id": "L095-e38",
+      "type": "dictation",
+      "level": 3,
+      "concept": "negation",
+      "text": "Le parquet a ouvert une enquête, mais la police n'a aucun indice.",
+      "explain_it": "Aucun è un indefinito negativo; con n'a aucun il ne resta davanti al verbo avoir."
+    },
+    {
+      "id": "L095-e39",
+      "type": "flash",
+      "level": 2,
+      "concept": "conditionnel",
+      "front": "Come si usa il condizionale per le notizie non confermate?",
+      "back": "Con selon o d'après: Selon la police, le suspect serait en fuite (notizia non confermata). Il presente (serait) indica una notizia ancora da verificare; il passato (aurait volé) presenta un fatto già avvenuto, ma non confermato.",
+      "explain_it": "È il tipico uso giornalistico, più frequente in italiano nei notiziari che nel parlato."
+    },
+    {
+      "id": "L095-e40",
+      "type": "flash",
+      "level": 2,
+      "concept": "false-friends",
+      "front": "Voler: significa 'rubare' o 'volare'?",
+      "back": "Entrambi: voler è rubare (senza violenza, come dérober) oppure volare (un oiseau vole). In cronaca nera il senso è quasi sempre il furto: Il a volé un collier.",
+      "explain_it": "Voler ha due sensi: 'volare' e 'rubare'. Il contesto decide; in cronaca nera è quasi sempre 'rubare'."
+    },
+    {
+      "id": "L095-e41",
+      "type": "flash",
+      "level": 2,
+      "concept": "gender",
+      "front": "Vedette è maschile o femminile?",
+      "back": "È femminile anche quando la persona è un uomo: une vedette, la nouvelle vedette. Gli aggettivi concordano al femminile: une vedette célèbre.",
+      "explain_it": "Il genere della parola non cambia con il sesso della persona: è come 'la star' in italiano."
+    },
+    {
+      "id": "L095-e42",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "front": "Se débrouiller al passato prossimo: quale ausiliare e quale concordanza?",
+      "back": "Si usa être. Il participio concorda con il soggetto, perché il pronome riflessivo è complemento diretto che si riferisce al soggetto: je me suis débrouillé(e), elle s'est débrouillée.",
+      "explain_it": "È la regola generale dei verbi pronominali: il pronome e il soggetto sono la stessa persona, quindi la concordanza segue il soggetto."
+    }
+  ]
+}

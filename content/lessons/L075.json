@@ -1,0 +1,834 @@
+{
+  "n": 75,
+  "title_fr": "Le Prix « Accord majeur »",
+  "title_it": "Il premio «Accordo maggiore»",
+  "review": false,
+  "status": "verified",
+  "source": "a1be3e47 pdf 58-65 (libro p.431-438; la lezione inizia a pdf 58 con il titolo; la lezione 76 inizia a pdf 66 e non è inclusa)",
+  "theme_it": "Alain Poupon, celebre cantante alla sua ultima tournée, è ospite di un programma televisivo che premia i talenti musicali. Il conduttore lo presenta e ripercorre la sua vita: un ragazzo molto bravo a scuola, che ha cambiato molti mestieri prima di diventare cantante e non ha mai dubitato del proprio talento. Il tono è brillante e un po' autoironico.",
+  "grammar": [
+    {
+      "id": "vocab",
+      "title_it": "Entamer e commencer: iniziare in modo transitivo",
+      "explain_it": "Entamer significa «cominciare, iniziare» e richiede sempre un complemento oggetto: entamer une tournée, entamer sa carrière, entamer une bouteille (aprirla, cominciare a consumarla). È più ricercato di commencer, che può essere transitivo o intransitivo (le voyage a commencé). Entamer non si usa mai senza oggetto.",
+      "examples": [
+        {
+          "fr": "Il entame sa dernière tournée en mars.",
+          "it": "Inizia il suo ultimo tour a marzo."
+        },
+        {
+          "fr": "Nous avons entamé notre voyage à l'aube.",
+          "it": "Abbiamo iniziato il nostro viaggio all'alba."
+        },
+        {
+          "fr": "Le voyage a commencé hier.",
+          "it": "Il viaggio è cominciato ieri."
+        }
+      ]
+    },
+    {
+      "id": "time-date",
+      "title_it": "La durata con de: un contrat de trois ans",
+      "explain_it": "Per qualificare un nome con una durata il francese usa de + durata: un programme de trois ans, un contrat de cinq ans. Non si può mettere la durata direttamente davanti al nome come in inglese (three-year): anche ans resta al plurale e non c'è trattino. Un'altra costruzione è longue de: une carrière longue de quatre décennies. Con il verbo durer la durata segue direttamente il verbo: ce programme dure deux ans.",
+      "examples": [
+        {
+          "fr": "C'est un programme de trois ans.",
+          "it": "È un programma di tre anni."
+        },
+        {
+          "fr": "Ils ont signé un contrat de cinq ans.",
+          "it": "Hanno firmato un contratto di cinque anni."
+        },
+        {
+          "fr": "Une carrière longue de dix ans.",
+          "it": "Una carriera lunga dieci anni."
+        }
+      ]
+    },
+    {
+      "id": "pronominal-verbs",
+      "title_it": "Douter e se douter de",
+      "explain_it": "Douter de significa «dubitare di qualcuno o qualcosa»: je doute de sa sincérité. Il pronominale se douter de (o se douter que) significa invece «sospettare, intuire»: je m'en doutais = lo sospettavo (en riprende l'idea già nota). Fai attenzione: l'italiano «dubitare» non rende se douter, che esprime una quasi-certezza.",
+      "examples": [
+        {
+          "fr": "Je doute de sa sincérité.",
+          "it": "Dubito della sua sincerità."
+        },
+        {
+          "fr": "Je me doutais de l'arrivée de Marc.",
+          "it": "Sospettavo l'arrivo di Marc."
+        },
+        {
+          "fr": "Nous nous sommes doutés qu'il mentait.",
+          "it": "Abbiamo sospettato che mentisse."
+        }
+      ]
+    },
+    {
+      "id": "participle-agreement",
+      "title_it": "Il participio che concorda con l'oggetto che precede",
+      "explain_it": "Con avoir, il participio passato concorda con il complemento oggetto diretto solo quando questo sta prima del verbo, per esempio con il pronome relativo que: les chansons que j'ai écrites (que riprende chansons, femminile plurale). Se l'oggetto sta dopo il verbo, il participio resta invariato: j'ai écrit des chansons. In italiano l'accordo con «che» non si fa (le canzoni che ho scritto): è una differenza da ricordare.",
+      "examples": [
+        {
+          "fr": "Les chansons que j'ai écrites sont belles.",
+          "it": "Le canzoni che ho scritto sono belle."
+        },
+        {
+          "fr": "Les erreurs que tu as faites.",
+          "it": "Gli errori che hai fatto."
+        },
+        {
+          "fr": "Il a écrit les lettres.",
+          "it": "Ha scritto le lettere."
+        }
+      ]
+    },
+    {
+      "id": "prepositions",
+      "title_it": "Toucher à e se mettre à",
+      "explain_it": "Toucher da solo è transitivo diretto e significa 'toccare fisicamente'. Con à diventa un verbo indiretto che significa 'mettere mano a, provare': toucher à tout vuol dire 'provare di tutto'. Anche mettre, nella forma pronominale se mettre à, prende la preposizione à e significa 'cominciare a fare qualcosa', con un infinito o un sostantivo: se mettre au travail, 'mettersi al lavoro'.",
+      "examples": [
+        {
+          "fr": "Cette armoire touche le plafond.",
+          "it": "Quest'armadio tocca il soffitto."
+        },
+        {
+          "fr": "Il n'a pas touché à son repas.",
+          "it": "Non ha toccato il suo pasto."
+        },
+        {
+          "fr": "Elle s'est mise à chanter.",
+          "it": "Si è messa a cantare."
+        }
+      ]
+    },
+    {
+      "id": "stressed-pronouns",
+      "title_it": "Il pronome soi",
+      "explain_it": "Soi è un pronome tonico riflessivo impersonale: si usa quando il soggetto è generico, come on, chacun o il faut. Si traduce con 'sé stessi' e nella forma rafforzata soi-même: avoir confiance en soi, tout faire soi-même. Non va confuso con soit, che è una forma del congiuntivo del verbo être.",
+      "examples": [
+        {
+          "fr": "Chacun doit compter sur soi-même.",
+          "it": "Ognuno deve contare su sé stesso."
+        },
+        {
+          "fr": "On est toujours mieux chez soi.",
+          "it": "Si sta sempre meglio a casa propria."
+        },
+        {
+          "fr": "Il faut avoir confiance en soi.",
+          "it": "Bisogna avere fiducia in sé stessi."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "une émission (f.)",
+      "it": "programma televisivo",
+      "pos": "n"
+    },
+    {
+      "fr": "récompenser",
+      "it": "premiare, ricompensare",
+      "pos": "v"
+    },
+    {
+      "fr": "un talent",
+      "it": "un talento",
+      "pos": "n"
+    },
+    {
+      "fr": "immense",
+      "it": "immenso, enorme",
+      "pos": "adj"
+    },
+    {
+      "fr": "accueillir",
+      "it": "accogliere, ricevere",
+      "pos": "v",
+      "note": "nous avons le plaisir d'accueillir"
+    },
+    {
+      "fr": "célèbre",
+      "it": "celebre",
+      "pos": "adj"
+    },
+    {
+      "fr": "entamer",
+      "it": "cominciare, iniziare",
+      "pos": "v",
+      "note": "il entame sa tournée"
+    },
+    {
+      "fr": "une tournée (f.)",
+      "it": "un tour, una tournée",
+      "pos": "n"
+    },
+    {
+      "fr": "une décennie (f.)",
+      "it": "un decennio",
+      "pos": "n"
+    },
+    {
+      "fr": "décerner",
+      "it": "conferire, assegnare",
+      "pos": "v",
+      "note": "un prix décerné à"
+    },
+    {
+      "fr": "un prix",
+      "it": "un premio",
+      "pos": "n"
+    },
+    {
+      "fr": "un musicien / une musicienne",
+      "it": "un musicista / una musicista",
+      "pos": "n"
+    },
+    {
+      "fr": "exceptionnel",
+      "it": "eccezionale",
+      "pos": "adj",
+      "note": "f. exceptionnelle"
+    },
+    {
+      "fr": "une carrière (f.)",
+      "it": "una carriera",
+      "pos": "n"
+    },
+    {
+      "fr": "fabuleux",
+      "it": "favoloso, straordinario",
+      "pos": "adj",
+      "note": "f. fabuleuse"
+    },
+    {
+      "fr": "douter",
+      "it": "dubitare",
+      "pos": "v",
+      "note": "se douter de: sospettare"
+    },
+    {
+      "fr": "passionnant",
+      "it": "appassionante",
+      "pos": "adj"
+    },
+    {
+      "fr": "mouvementé",
+      "it": "movimentato, ricco di avvenimenti",
+      "pos": "adj",
+      "note": "f. mouvementée"
+    },
+    {
+      "fr": "apprécié",
+      "it": "apprezzato, stimato",
+      "pos": "adj",
+      "note": "f. appréciée"
+    },
+    {
+      "fr": "un pote",
+      "it": "un amico, un compagno",
+      "pos": "n",
+      "note": "registro familiare"
+    },
+    {
+      "fr": "un succès",
+      "it": "un successo",
+      "pos": "n",
+      "note": "avoir du succès"
+    },
+    {
+      "fr": "le lycée",
+      "it": "il liceo",
+      "pos": "n"
+    },
+    {
+      "fr": "fort",
+      "it": "bravo, forte",
+      "pos": "adj",
+      "note": "être fort en: essere bravo in"
+    },
+    {
+      "fr": "toucher à",
+      "it": "mettere mano a, provare",
+      "pos": "v"
+    },
+    {
+      "fr": "bosser",
+      "it": "lavorare",
+      "pos": "v",
+      "note": "registro familiare"
+    },
+    {
+      "fr": "un maçon",
+      "it": "un muratore",
+      "pos": "n"
+    },
+    {
+      "fr": "surdoué",
+      "it": "superdotato",
+      "pos": "adj"
+    },
+    {
+      "fr": "confiant",
+      "it": "fiducioso",
+      "pos": "adj",
+      "note": "f. confiante"
+    },
+    {
+      "fr": "contredire",
+      "it": "contraddire",
+      "pos": "v"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Ça, vous pouvez le dire !",
+      "it": "Eccome se lo dice!",
+      "note": "risposta enfatica e colloquiale"
+    },
+    {
+      "fr": "Je m'en doutais !",
+      "it": "Lo sospettavo!",
+      "note": "reazione a una notizia che si era intuita"
+    },
+    {
+      "fr": "Quelle histoire de fou !",
+      "it": "Che storia assurda!",
+      "note": "esclamazione per un fatto incredibile"
+    },
+    {
+      "fr": "Il faut dire que",
+      "it": "bisogna dire che",
+      "note": "introduce una precisazione o un elogio"
+    },
+    {
+      "fr": "un touche-à-tout",
+      "it": "un tuttofare",
+      "note": "anche al femminile, di solito in tono di stima o ironico"
+    },
+    {
+      "fr": "tout faire soi-même",
+      "it": "fare tutto da sé",
+      "note": "soi è pronome impersonale"
+    },
+    {
+      "fr": "avoir confiance en soi",
+      "it": "avere fiducia in sé stessi",
+      "note": "espressione fissa"
+    },
+    {
+      "fr": "un tas de choses",
+      "it": "un sacco di cose",
+      "note": "registro colloquiale"
+    },
+    {
+      "fr": "plein de potes",
+      "it": "un sacco di amici",
+      "note": "potes è slang"
+    },
+    {
+      "fr": "se mettre au travail",
+      "it": "mettersi al lavoro",
+      "note": "au = à + le"
+    },
+    {
+      "fr": "Qui suis-je pour vous contredire ?",
+      "it": "Chi sono io per contraddirvi?",
+      "note": "domanda retorica, per declinare un'opinione"
+    }
+  ],
+  "notes_it": [
+    "Un prix significa sia «premio» sia «prezzo»: il contesto chiarisce (le prix du billet, le prix de la meilleure chanson).",
+    "Il lycée è la scuola secondaria superiore (da circa 15 a 18 anni): non corrisponde al solo liceo italiano, ma comprende anche gli istituti tecnici e professionali.",
+    "«Confiance» non significa «confidenza»: avoir confiance en vuol dire avere fiducia in, mentre la confidence è un segreto che si confida a qualcuno.",
+    "Pronuncia: in «talent» la terminazione -ent è una nasale finale e la t non si pronuncia; è pronunciata [talɑ̃], come in molte altre parole con -ent.",
+    "Registro: «un pote», «bosser» e «plein de» appartengono al francese familiare, da usare con amici e non in contesti formali o scritti."
+  ],
+  "exercises": [
+    {
+      "id": "L075-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronominal-verbs",
+      "prompt": "Cosa significa « Je m'en doutais ! » ?",
+      "options": [
+        "Lo sospettavo",
+        "Non ci credo affatto",
+        "Me ne vado subito",
+        "Lo avevo dimenticato"
+      ],
+      "correct": 0,
+      "explain_it": "Se douter de, con en, significa sospettare o intuire; all'imperfetto diventa doutais."
+    },
+    {
+      "id": "L075-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "time-date",
+      "prompt": "Come si dice «un programma di tre anni» in francese?",
+      "options": [
+        "un programme de trois ans",
+        "un programme trois ans",
+        "un programme de trois-ans",
+        "un trois-ans programme"
+      ],
+      "correct": 0,
+      "explain_it": "Il periodo di tempo si collega al nome con de e non funziona da aggettivo davanti al sostantivo."
+    },
+    {
+      "id": "L075-e03",
+      "type": "mcq",
+      "level": 2,
+      "concept": "participle-agreement",
+      "prompt": "Completa con il participio corretto (faire): Les erreurs que j'ai ___ étaient graves.",
+      "options": [
+        "faites",
+        "faite",
+        "faits",
+        "fait"
+      ],
+      "correct": 0,
+      "explain_it": "Il pronome que riprende erreurs, femminile plurale, e viene prima del verbo: il participio concorda."
+    },
+    {
+      "id": "L075-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "stressed-pronouns",
+      "prompt": "Completa: Quant à ___, je n'ai aucun doute.",
+      "options": [
+        "moi",
+        "me",
+        "je",
+        "mon"
+      ],
+      "correct": 0,
+      "explain_it": "Dopo quant à si usa il pronome tonico, qui moi; me e je non sono forme toniche."
+    },
+    {
+      "id": "L075-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "prepositions",
+      "prompt": "Completa: Elle s'est mise ___ écrire des chansons à vingt ans.",
+      "options": [
+        "à",
+        "de",
+        "en",
+        "pour"
+      ],
+      "correct": 0,
+      "explain_it": "Se mettre à seguito da infinito significa cominciare a fare qualcosa: la preposizione è sempre à."
+    },
+    {
+      "id": "L075-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Ci sono un sacco di cose da imparare.",
+      "answers": [
+        "Il y a un tas de choses à apprendre",
+        "Il y a plein de choses à apprendre"
+      ],
+      "distractors": [
+        "plein",
+        "beaucoup"
+      ],
+      "explain_it": "Un tas de più nome significa 'un sacco di', espressione colloquiale."
+    },
+    {
+      "id": "L075-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "pronominal-verbs",
+      "prompt": "Lo sospettavo da tempo.",
+      "answers": [
+        "Je m'en doutais depuis longtemps"
+      ],
+      "distractors": [
+        "doute",
+        "sais"
+      ],
+      "explain_it": "Se douter de con en richiede il pronome en, e all'imperfetto la forma è doutais."
+    },
+    {
+      "id": "L075-e08",
+      "type": "order",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "Lui ha iniziato a suonare la chitarra.",
+      "answers": [
+        "Il s'est mis à jouer de la guitare"
+      ],
+      "distractors": [
+        "pour",
+        "en"
+      ],
+      "explain_it": "Se mettre à più infinito indica l'inizio di un'azione; suonare uno strumento si dice jouer de."
+    },
+    {
+      "id": "L075-e09",
+      "type": "order",
+      "level": 2,
+      "concept": "negation",
+      "prompt": "Non posso più dirti niente.",
+      "answers": [
+        "Je ne peux plus rien te dire"
+      ],
+      "distractors": [
+        "pas",
+        "jamais"
+      ],
+      "explain_it": "Ne ... plus rien avvolge il verbo; il pronome te precede l'infinito dire."
+    },
+    {
+      "id": "L075-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "pronominal-verbs",
+      "text": "Je ___ de l'arrivée de Marc.",
+      "answers": [
+        "me doutais"
+      ],
+      "hint": "(se douter de, imperfetto)",
+      "prompt": "Sospettavo l'arrivo di Marc.",
+      "explain_it": "Se douter è pronominale: il pronome me concorda con je, e l'imperfetto indica un'intuizione in corso."
+    },
+    {
+      "id": "L075-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "vocab",
+      "text": "Il ___ une nouvelle tournée en mars.",
+      "answers": [
+        "entame",
+        "commence"
+      ],
+      "hint": "(entamer, presente)",
+      "prompt": "Inizia un nuovo tour a marzo.",
+      "explain_it": "Entamer significa iniziare con un oggetto diretto come tournée; commencer è sinonimo accettabile."
+    },
+    {
+      "id": "L075-e12",
+      "type": "cloze",
+      "level": 2,
+      "concept": "time-date",
+      "text": "Ils ont signé un contrat ___ cinq ans.",
+      "answers": [
+        "de"
+      ],
+      "hint": "(preposizione)",
+      "prompt": "Hanno firmato un contratto di cinque anni.",
+      "explain_it": "La durata si introduce con de: un contrat de cinq ans."
+    },
+    {
+      "id": "L075-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "stressed-pronouns",
+      "text": "Chacun doit compter sur ___.",
+      "answers": [
+        "soi",
+        "soi-même"
+      ],
+      "hint": "(pronome tonico riflessivo)",
+      "prompt": "Ognuno deve contare su di sé.",
+      "explain_it": "Con il soggetto generico chacun si usa il pronome impersonale soi, dopo la preposizione sur."
+    },
+    {
+      "id": "L075-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "prepositions",
+      "text": "Nous allons nous mettre ___ travail demain.",
+      "answers": [
+        "au"
+      ],
+      "hint": "(à + le, contrazione)",
+      "prompt": "Domani ci metteremo al lavoro.",
+      "explain_it": "Se mettre à richiede à, che davanti a le diventa au."
+    },
+    {
+      "id": "L075-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "prepositions",
+      "text": "Il a ___ à tout : plombier, cuisinier et acteur.",
+      "answers": [
+        "touché"
+      ],
+      "hint": "(toucher, passato prossimo)",
+      "prompt": "Ha provato di tutto: idraulico, cuoco e attore.",
+      "explain_it": "Toucher à tout significa provare di tutto; con avoir il participio non concorda."
+    },
+    {
+      "id": "L075-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "time-date",
+      "prompt": "Ho firmato un contratto di tre anni.",
+      "answers": [
+        "J'ai signé un contrat de trois ans",
+        "J'ai signé un contrat d'une durée de trois ans"
+      ],
+      "explain_it": "La durata del contratto si esprime con de più il periodo, senza trattino."
+    },
+    {
+      "id": "L075-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "participle-agreement",
+      "prompt": "Le lettere che ho scritto ieri.",
+      "answers": [
+        "Les lettres que j'ai écrites hier"
+      ],
+      "explain_it": "Il pronome que riprende lettres, femminile plurale, che precede il verbo: écrit diventa écrites."
+    },
+    {
+      "id": "L075-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "participle-agreement",
+      "prompt": "Le canzoni che abbiamo ascoltato sono belle.",
+      "answers": [
+        "Les chansons que nous avons écoutées sont belles"
+      ],
+      "explain_it": "Chansons è femminile plurale e precede il participio tramite que: écouté diventa écoutées."
+    },
+    {
+      "id": "L075-e19",
+      "type": "write",
+      "level": 3,
+      "concept": "participle-agreement",
+      "prompt": "Ho visto delle città che non ho mai dimenticato.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "J'ai vu des villes que je n'ai jamais oubliées"
+      ],
+      "explain_it": "Que riprende villes (femminile plurale) e sta prima del verbo: il participio oubliées concorda."
+    },
+    {
+      "id": "L075-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Lo sospettavo già.",
+      "answers": [
+        "Je m'en doutais [déjà|]"
+      ],
+      "explain_it": "Se douter de in forma pronominale con en, all'imperfetto, per dire 'lo sospettavo'."
+    },
+    {
+      "id": "L075-e21",
+      "type": "write",
+      "level": 3,
+      "concept": "pronominal-verbs",
+      "prompt": "Abbiamo intuito che lui mentiva.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Nous nous sommes [doutés|doutées] qu'il mentait",
+        "Nous avons deviné qu'il mentait"
+      ],
+      "explain_it": "Se douter que seguito dall'indicativo indica un sospetto; con il passato prossimo pronominale il participio concorda con il soggetto."
+    },
+    {
+      "id": "L075-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "Dopo la laurea si è messo a dipingere.",
+      "answers": [
+        "[Après ses études|Après son diplôme|Après sa licence|Après l'université], il s'est mis à peindre"
+      ],
+      "explain_it": "Se mettre à più infinito: il s'est mis à peindre, con à obbligatorio."
+    },
+    {
+      "id": "L075-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "Toccava sempre tutto, in casa.",
+      "answers": [
+        "[Il|Elle] touchait toujours à tout [à la maison|chez lui|chez elle]"
+      ],
+      "explain_it": "Toucher à tout all'imperfetto significa 'toccare o provare tutto', con la preposizione à."
+    },
+    {
+      "id": "L075-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "stressed-pronouns",
+      "prompt": "Bisogna avere fiducia in sé stessi e nel proprio talento.",
+      "answers": [
+        "Il faut avoir confiance en soi et en son talent"
+      ],
+      "explain_it": "Con il faut il riferimento generico si esprime con soi, e il possessivo son si accorda con talent, maschile."
+    },
+    {
+      "id": "L075-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "stressed-pronouns",
+      "prompt": "Quanto a me, preferisco restare a casa.",
+      "answers": [
+        "Quant à moi, je préfère rester à la maison",
+        "Moi, je préfère rester à la maison"
+      ],
+      "explain_it": "Il pronome tonico moi serve per mettere in contrasto la persona con gli altri."
+    },
+    {
+      "id": "L075-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Inizia il suo ultimo tour.",
+      "answers": [
+        "[Il|Elle] entame sa [toute |]dernière tournée",
+        "[Il|Elle] commence sa dernière tournée"
+      ],
+      "explain_it": "Entamer è usato con tournée per indicare l'inizio di una tournée; sa e dernière concordano con la tournée."
+    },
+    {
+      "id": "L075-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "time-date",
+      "prompt": "Ha una carriera lunga quattro decenni.",
+      "answers": [
+        "[Il|Elle] a une carrière [longue |]de quatre décennies"
+      ],
+      "explain_it": "La durata si esprime con longue de più il periodo, senza trattino."
+    },
+    {
+      "id": "L075-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "imparfait-vs-pc",
+      "prompt": "Da giovane ero bravo in tutte le materie, ma non ho mai dubitato del mio talento.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "[Quand j'étais jeune|Jeune], j'étais [bon|fort] [en|dans] toutes les matières, mais je n'ai jamais douté de mon talent"
+      ],
+      "explain_it": "L'imperfetto descrive la situazione passata (j'étais), il passato prossimo l'azione conclusa (je n'ai jamais douté)."
+    },
+    {
+      "id": "L075-e29",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-coi",
+      "prompt": "Gli hanno conferito un premio per tutta la sua carriera.",
+      "answers": [
+        "On lui a décerné un prix pour toute sa carrière",
+        "Il s'est vu décerner un prix pour toute sa carrière"
+      ],
+      "explain_it": "Décerner richiede un complemento indiretto di persona, lui, che si esprime con lui prima del verbo."
+    },
+    {
+      "id": "L075-e30",
+      "type": "dictation",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "text": "Je m'en doutais, mais je n'ai rien dit.",
+      "explain_it": "Se douter con en e l'imperfetto, più la negazione ne ... rien in una frase di tipo narrativo."
+    },
+    {
+      "id": "L075-e31",
+      "type": "dictation",
+      "level": 3,
+      "concept": "prepositions",
+      "text": "Il a touché à tout avant de devenir chanteur, et il n'a jamais douté de son talent.",
+      "explain_it": "Toucher à tout è un'espressione con à; la frase mescola il passato prossimo con la negazione ne ... jamais."
+    },
+    {
+      "id": "L075-e32",
+      "type": "dictation",
+      "level": 3,
+      "concept": "time-date",
+      "text": "Ce programme dure deux ans, mais il est très intéressant.",
+      "explain_it": "Con durer la durata segue direttamente il verbo, senza preposizione: dure deux ans."
+    },
+    {
+      "id": "L075-e33",
+      "type": "flash",
+      "level": 1,
+      "concept": "time-date",
+      "front": "Come si dice «un programma di tre anni» in francese?",
+      "back": "un programme de trois ans",
+      "note": "I periodi di tempo non si usano come aggettivi prima del nome: si collegano con de (un programme de trois ans, non un programme trois ans)."
+    },
+    {
+      "id": "L075-e34",
+      "type": "flash",
+      "level": 2,
+      "concept": "participle-agreement",
+      "front": "Quando il participio passato con avoir concorda con l'oggetto diretto?",
+      "back": "Quando l'oggetto diretto viene prima del verbo, per esempio con il pronome relativo que: les chansons que j'ai écrites.",
+      "note": "Se l'oggetto è dopo il verbo, il participio resta invariato: j'ai écrit des chansons."
+    },
+    {
+      "id": "L075-e35",
+      "type": "flash",
+      "level": 2,
+      "concept": "prepositions",
+      "front": "Qual è la differenza tra toucher e toucher à?",
+      "back": "Toucher: toccare fisicamente un oggetto. Toucher à: mettere mano a qualcosa o provare; toucher à tout significa provare di tutto.",
+      "note": "Con à il verbo è indiretto e non si usa con un oggetto diretto nel senso fisico."
+    },
+    {
+      "id": "L075-e36",
+      "type": "flash",
+      "level": 3,
+      "concept": "stressed-pronouns",
+      "front": "Quale pronome si usa per 'sé stessi' con un soggetto generico come on, chacun o il faut?",
+      "back": "soi (in forma rafforzata soi-même): avoir confiance en soi, tout faire soi-même.",
+      "note": "Soi non va confuso con soit, forma del congiuntivo del verbo être."
+    },
+    {
+      "id": "L075-e37",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "front": "Douter de e se douter de: qual è la differenza?",
+      "back": "douter de = dubitare di qualcuno o qualcosa; se douter de = sospettare, intuire (je m'en doutais = lo sospettavo).",
+      "note": "Con se douter de, quando l'oggetto è una frase, si usa spesso il pronome en."
+    },
+    {
+      "id": "L075-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "stressed-pronouns",
+      "prompt": "So che ce la farai, ma devi avere fiducia in te stesso.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Je sais que tu [réussiras|vas réussir|y arriveras], mais [il faut|tu dois] avoir confiance en toi[-même|]"
+      ],
+      "explain_it": "Ti rivolgi a una persona precisa, quindi si usa il pronome tonico toi (soi vale per un soggetto generico)."
+    },
+    {
+      "id": "L075-e39",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-avoir",
+      "prompt": "Prima di diventare cantante, ho lavorato come muratore e come elettricista.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Avant de devenir chanteur, j'ai travaillé comme maçon et [comme |]électricien"
+      ],
+      "explain_it": "Avant de seguito dall'infinito e il passato prossimo con avoir: j'ai travaillé è la forma conclusa; comme introduce il mestiere."
+    },
+    {
+      "id": "L075-e40",
+      "type": "write",
+      "level": 3,
+      "concept": "pronominal-verbs",
+      "prompt": "Je me doute de sa réponse.",
+      "ask": "Volgi al passato prossimo",
+      "answers": [
+        "Je me suis [douté|doutée] de sa réponse"
+      ],
+      "explain_it": "Il passato prossimo di se douter è con être: il participio concorda con il soggetto (douté per un uomo, doutée per una donna)."
+    }
+  ]
+}

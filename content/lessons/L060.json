@@ -1,0 +1,808 @@
+{
+  "n": 60,
+  "title_fr": "Soixantième leçon",
+  "title_it": "Sessantesima lezione",
+  "review": false,
+  "status": "verified",
+  "source": "fa2f8a2c p43-50 (pdf; libro pp. 323-330)",
+  "theme_it": "Di notte, poco dopo la chiusura di un bar, scoppia un incendio in un palazzo del quartiere. Un vicino racconta al brigadiere di aver visto il fumo, di aver chiamato i soccorsi e di aver notato quanto il quartiere stia diventando pericoloso.",
+  "grammar": [
+    {
+      "id": "adverbs",
+      "title_it": "L'avverbio peu (poco, poco prima, poco dopo)",
+      "explain_it": "Peu è un avverbio invariabile che significa 'poco'. Davanti a un complemento di tempo indica una distanza breve: peu avant = poco prima, peu après = poco dopo. Non cambia mai, neppure con un soggetto femminile o plurale. Attenzione a non confonderlo con un peu (un po'), che esprime un grado piccolo ma positivo, e con peu de + nome, che significa 'poco' riferito a una quantità.",
+      "examples": [
+        {
+          "fr": "Je suis parti peu avant midi.",
+          "it": "Sono partito poco prima di mezzogiorno."
+        },
+        {
+          "fr": "Elle est arrivée peu après moi.",
+          "it": "È arrivata poco dopo di me."
+        }
+      ]
+    },
+    {
+      "id": "prepositions",
+      "title_it": "Environ e dans les environs (circa, nei dintorni)",
+      "explain_it": "Environ significa 'circa' ed è invariabile, senza s. Dans les environs (al plurale, con s) significa 'nei dintorni' ed è un'espressione di luogo. Con un'indicazione di ora si usa aux environs de, che corrisponde all'italiano 'verso'. In italiano queste sfumature si rendono con 'nei dintorni' e 'verso', ma in francese la s finale fa la differenza.",
+      "examples": [
+        {
+          "fr": "Il y a un café dans les environs.",
+          "it": "C'è un bar nei dintorni."
+        },
+        {
+          "fr": "Nous serons là aux environs de huit heures.",
+          "it": "Saremo lì verso le otto."
+        }
+      ]
+    },
+    {
+      "id": "indefinites",
+      "title_it": "Peu de e un peu de (poco / un po' di)",
+      "explain_it": "Con un nome, peu de significa 'poco' (valore negativo, quasi niente) ed è seguito direttamente dal nome, senza articolo: peu de temps. Un peu de significa 'un po' di' (valore positivo, qualcosa c'è): un peu de temps. Anche un peu de vuole il nome senza articolo (un peu de pain, non un peu du pain). Lo stesso schema vale con i nomi collettivi: peu de monde = poca gente.",
+      "examples": [
+        {
+          "fr": "Il y a peu de monde ce soir.",
+          "it": "Stasera c'è poca gente."
+        },
+        {
+          "fr": "Je voudrais un peu de pain.",
+          "it": "Vorrei un po' di pane."
+        }
+      ]
+    },
+    {
+      "id": "connectors",
+      "title_it": "Lorsque (quando, registro formale)",
+      "explain_it": "Lorsque è sinonimo di quand e significa 'quando', ma ha un tono più elegante e scritto. Ha lo stesso valore e la stessa costruzione: come quand, introduce una subordinata temporale. Nella subordinata, come indicato nella lezione 58, il verbo si mette al futuro quando la frase principale è al futuro. Nella pratica quotidiana si preferisce quand, ma lorsque compare spesso nei testi e nei discorsi formali.",
+      "examples": [
+        {
+          "fr": "Lorsque tu arriveras, appelle-moi.",
+          "it": "Quando arriverai, chiamami."
+        },
+        {
+          "fr": "Lorsque je suis rentré, la rue était déserte.",
+          "it": "Quando sono tornato, la strada era deserta."
+        }
+      ]
+    },
+    {
+      "id": "depuis-il-y-a",
+      "title_it": "Depuis con il presente (da, azione ancora in corso)",
+      "explain_it": "Con il presente, depuis indica da quanto tempo un'azione è iniziata e continua ancora ora: Je travaille ici depuis trois ans = lavoro qui da tre anni. Si usa con un periodo (depuis trois ans), con un punto di partenza (depuis lundi) o con un avverbio come longtemps, peu. Per dire 'fa' (un fatto concluso nel passato) si usa invece il y a con il passato: je suis arrivé il y a trois ans. Contrasto: depuis + presente = azione ancora in corso; il y a + passato = azione finita.",
+      "examples": [
+        {
+          "fr": "Je le connais depuis peu.",
+          "it": "Lo conosco da poco."
+        },
+        {
+          "fr": "J'habite ici depuis longtemps.",
+          "it": "Abito qui da molto tempo."
+        }
+      ]
+    },
+    {
+      "id": "pronominal-verbs",
+      "title_it": "Se rendre compte (rendersi conto)",
+      "explain_it": "Se rendre compte è un verbo pronominale che significa 'rendersi conto'. Il nome compte è complemento diretto e segue il verbo: per questo il participio passato rendu non concorda, neppure con un soggetto femminile. Elle s'est rendu compte de son erreur. Si usa con de + nome, oppure con que + frase. Attenzione a non aggiungere la -e: rendue sarebbe un errore comune per chi parla italiano.",
+      "examples": [
+        {
+          "fr": "Elle s'est rendu compte de son erreur.",
+          "it": "Lei si è resa conto del suo errore."
+        },
+        {
+          "fr": "Je me suis rendu compte que tu avais raison.",
+          "it": "Mi sono reso conto che avevi ragione."
+        }
+      ]
+    },
+    {
+      "id": "imparfait-vs-pc",
+      "title_it": "Pendant que e pendant (mentre, durante)",
+      "explain_it": "Pendant seguito da un periodo di tempo significa 'durante' (pendant trois heures). Pendant que significa 'mentre' e introduce una subordinata: in una frase al passato, il verbo che segue pendant que va di solito all'imperfetto, perché descrive un'azione di sfondo che dura. La frase principale può essere al passato prossimo per un'azione che avviene in quel momento.",
+      "examples": [
+        {
+          "fr": "Pendant que je cuisinais, il a téléphoné.",
+          "it": "Mentre cucinavo, ha telefonato."
+        },
+        {
+          "fr": "Il a plu pendant trois heures.",
+          "it": "Ha piovuto per tre ore."
+        }
+      ]
+    },
+    {
+      "id": "comparatives",
+      "title_it": "De plus en plus (sempre più)",
+      "explain_it": "Per dire 'sempre più' con un aggettivo o un avverbio si usa de plus en plus. Il contrario è de moins en moins (sempre meno). L'espressione è invariabile e si mette prima dell'aggettivo, con il verbo essere o devenir davanti.",
+      "examples": [
+        {
+          "fr": "Il fait de plus en plus froid.",
+          "it": "Fa sempre più freddo."
+        },
+        {
+          "fr": "Ça devient de plus en plus difficile.",
+          "it": "Diventa sempre più difficile."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "l'incendie (m.)",
+      "it": "incendio",
+      "pos": "n"
+    },
+    {
+      "fr": "la fermeture",
+      "it": "chiusura",
+      "pos": "n"
+    },
+    {
+      "fr": "dangereux",
+      "it": "pericoloso",
+      "pos": "adj",
+      "note": "f. dangereuse"
+    },
+    {
+      "fr": "le brigadier",
+      "it": "brigadiere (grado di polizia)",
+      "pos": "n"
+    },
+    {
+      "fr": "la fumée",
+      "it": "fumo",
+      "pos": "n"
+    },
+    {
+      "fr": "le toit",
+      "it": "tetto",
+      "pos": "n"
+    },
+    {
+      "fr": "la flamme",
+      "it": "fiamma",
+      "pos": "n"
+    },
+    {
+      "fr": "les pompiers (m. pl.)",
+      "it": "vigili del fuoco",
+      "pos": "n"
+    },
+    {
+      "fr": "les secours (m. pl.)",
+      "it": "soccorsi, servizi di emergenza",
+      "pos": "n"
+    },
+    {
+      "fr": "le brouillard",
+      "it": "nebbia",
+      "pos": "n"
+    },
+    {
+      "fr": "l'équipage (m.)",
+      "it": "equipaggio, squadra",
+      "pos": "n"
+    },
+    {
+      "fr": "le lieu",
+      "it": "luogo",
+      "pos": "n",
+      "note": "sur les lieux = sul posto"
+    },
+    {
+      "fr": "une dizaine (de)",
+      "it": "una decina (di)",
+      "pos": "n"
+    },
+    {
+      "fr": "réaliser",
+      "it": "realizzare, eseguire, compiere",
+      "pos": "v",
+      "note": "je réalise un travail = eseguo un lavoro"
+    },
+    {
+      "fr": "se rendre compte",
+      "it": "rendersi conto",
+      "pos": "v",
+      "note": "je me suis rendu compte"
+    },
+    {
+      "fr": "importer",
+      "it": "importare; avere importanza",
+      "pos": "v",
+      "note": "peu importe = non importa"
+    },
+    {
+      "fr": "apercevoir",
+      "it": "scorgere, notare",
+      "pos": "v",
+      "note": "j'ai aperçu"
+    },
+    {
+      "fr": "prévenir",
+      "it": "avvisare",
+      "pos": "v",
+      "note": "je voulais vous prévenir"
+    },
+    {
+      "fr": "bruiner",
+      "it": "piovigginare",
+      "pos": "v",
+      "note": "il bruine"
+    },
+    {
+      "fr": "maussade",
+      "it": "uggioso, cupo",
+      "pos": "adj"
+    },
+    {
+      "fr": "lorsque",
+      "it": "quando (registro formale)",
+      "pos": "conj"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "de plus en plus",
+      "it": "sempre più",
+      "note": "con aggettivi e avverbi: de plus en plus dangereux"
+    },
+    {
+      "fr": "peu importe",
+      "it": "non importa",
+      "note": "registro colloquiale: non ha importanza"
+    },
+    {
+      "fr": "plus ou moins",
+      "it": "più o meno",
+      "note": "per indicare una quantità o un tempo approssimativi"
+    },
+    {
+      "fr": "aux environs de midi",
+      "it": "verso mezzogiorno",
+      "note": "aux environs de + ora o momento della giornata"
+    },
+    {
+      "fr": "Encore vous !",
+      "it": "Ancora lei!",
+      "note": "tono di sorpresa o di fastidio con una persona già incontrata"
+    },
+    {
+      "fr": "sur les lieux",
+      "it": "sul posto",
+      "note": "espressione formale, usata per la scena di un evento"
+    },
+    {
+      "fr": "je me suis rendu compte que",
+      "it": "mi sono reso conto che",
+      "note": "seguito da una frase"
+    },
+    {
+      "fr": "mettre trois minutes à arriver",
+      "it": "impiegare tre minuti ad arrivare",
+      "note": "mettre + tempo + à + infinito"
+    },
+    {
+      "fr": "une dizaine de",
+      "it": "una decina di",
+      "note": "usato per dire 'circa dieci'"
+    }
+  ],
+  "notes_it": [
+    "Réaliser corrisponde a 'realizzare, eseguire' (réaliser un travail, réaliser un rêve). Per 'rendersi conto' la lingua corretta usa se rendre compte; réaliser que in questo senso è un anglicismo molto diffuso, ma da evitare nello scritto.",
+    "Pompiers e secours: in Francia 'les pompiers' sono i vigili del fuoco (la parola deriva da 'pompe', pompa), mentre 'les secours' indica in generale i servizi di emergenza. In Francia si chiama il 18 per i pompieri, il 17 per la polizia e il 112 per l'emergenza europea.",
+    "Pronuncia di plus: davanti a consonante si dice /ply/, davanti a vocale la s si lega (de plus en plus: /plyz/ + en), e alla fine di frase nel senso di 'di più' si sente /plys/. Nella negazione ne … plus (non più) la s finale è muta: je n'en veux plus.",
+    "Peu / un peu / peu de: fai attenzione alla differenza di senso. Peu è negativo ('poco'), un peu è positivo ('un po''), e peu de o un peu de reggono sempre un nome senza articolo."
+  ],
+  "exercises": [
+    {
+      "id": "L060-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "adverbs",
+      "prompt": "Come si dice: « Sono arrivato poco prima della chiusura. »",
+      "options": [
+        "Je suis arrivé peu avant la fermeture.",
+        "Je suis arrivé peu après la fermeture.",
+        "Je suis arrivé un peu de avant la fermeture.",
+        "Je suis arrivé peu de avant la fermeture."
+      ],
+      "correct": 0,
+      "explain_it": "Peu avant significa 'poco prima': peu è un avverbio invariabile e non vuole de. Peu après sarebbe 'poco dopo', il contrario."
+    },
+    {
+      "id": "L060-e02",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adverbs",
+      "text": "Il est arrivé ___ après minuit.",
+      "answers": [
+        "peu"
+      ],
+      "hint": "(avverbio: poco)",
+      "prompt": "È arrivato poco dopo mezzanotte.",
+      "explain_it": "Peu davanti a un complemento di tempo indica una distanza breve, e con après significa 'poco dopo'."
+    },
+    {
+      "id": "L060-e03",
+      "type": "write",
+      "level": 3,
+      "concept": "adverbs",
+      "prompt": "Sono arrivata poco dopo di lui, ma tutto era chiuso.",
+      "answers": [
+        "Je suis arrivée peu après lui, mais tout était fermé.",
+        "Je suis arrivée peu après lui, mais j'ai trouvé tout fermé."
+      ],
+      "explain_it": "Peu après lui = poco dopo di lui; il participio arrivée concorda con il soggetto femminile, mentre peu resta invariato."
+    },
+    {
+      "id": "L060-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "prepositions",
+      "prompt": "Come si dice: « Abita nei dintorni della stazione. »",
+      "options": [
+        "Il habite dans les environs de la gare.",
+        "Il habite dans environ la gare.",
+        "Il habite environ de la gare.",
+        "Il habite aux environ de la gare."
+      ],
+      "correct": 0,
+      "explain_it": "Dans les environs (con la s) significa 'nei dintorni'; environ senza s è l'avverbio 'circa' e non si usa per il luogo."
+    },
+    {
+      "id": "L060-e05",
+      "type": "cloze",
+      "level": 2,
+      "concept": "prepositions",
+      "text": "Il y a une boulangerie dans les ___ de la place.",
+      "answers": [
+        "environs"
+      ],
+      "hint": "(plurale, nei dintorni)",
+      "prompt": "C'è una panetteria nei dintorni della piazza.",
+      "explain_it": "Dans les environs prende la s: il luogo è plurale, mentre environ resta invariabile."
+    },
+    {
+      "id": "L060-e06",
+      "type": "cloze",
+      "level": 2,
+      "concept": "prepositions",
+      "text": "Nous arriverons ___ sept heures.",
+      "answers": [
+        "aux environs de",
+        "vers"
+      ],
+      "hint": "(verso, circa)",
+      "prompt": "Arriveremo verso le sette.",
+      "explain_it": "Con un'ora si usa aux environs de, che corrisponde a 'verso'; vers è l'equivalente più semplice."
+    },
+    {
+      "id": "L060-e07",
+      "type": "write",
+      "level": 3,
+      "concept": "prepositions",
+      "prompt": "Ci sono circa venti persone in sala.",
+      "answers": [
+        "Il y a environ vingt personnes dans la salle.",
+        "Il y a à peu près vingt personnes dans la salle.",
+        "Il y a une vingtaine de personnes dans la salle."
+      ],
+      "explain_it": "Environ è invariabile e resta senza s, mentre à peu près è l'altra espressione per 'circa'."
+    },
+    {
+      "id": "L060-e08",
+      "type": "mcq",
+      "level": 1,
+      "concept": "indefinites",
+      "prompt": "Completa per dire « Ho poco tempo »: J'ai ___ temps.",
+      "options": [
+        "peu de",
+        "un peu de",
+        "peu du",
+        "très de"
+      ],
+      "correct": 0,
+      "explain_it": "Peu de + nome senza articolo significa 'poco'; un peu de avrebbe un valore positivo, 'un po' di'."
+    },
+    {
+      "id": "L060-e09",
+      "type": "cloze",
+      "level": 2,
+      "concept": "indefinites",
+      "text": "Je voudrais ___ sucre, s'il vous plaît.",
+      "answers": [
+        "un peu de"
+      ],
+      "hint": "(un po' di)",
+      "prompt": "Vorrei un po' di zucchero, per favore.",
+      "explain_it": "Un peu de si usa con il nome senza articolo ed esprime una quantità piccola ma positiva."
+    },
+    {
+      "id": "L060-e10",
+      "type": "order",
+      "level": 1,
+      "concept": "indefinites",
+      "prompt": "Ho un po' di pazienza.",
+      "answers": [
+        "J'ai un peu de patience."
+      ],
+      "distractors": [
+        "du",
+        "beaucoup"
+      ],
+      "explain_it": "Dopo un peu de il nome va senza articolo: un peu de patience, non un peu de la patience."
+    },
+    {
+      "id": "L060-e11",
+      "type": "write",
+      "level": 2,
+      "concept": "indefinites",
+      "prompt": "C'è poca gente qui.",
+      "answers": [
+        "Il y a peu de [monde|gens] [ici|là]."
+      ],
+      "explain_it": "Peu de regge il nome senza articolo, e il verbo impersonale è il y a."
+    },
+    {
+      "id": "L060-e12",
+      "type": "write",
+      "level": 3,
+      "concept": "indefinites",
+      "prompt": "Ho poco lavoro ma un po' di riposo.",
+      "answers": [
+        "J'ai peu de travail mais un peu de repos.",
+        "J'ai peu de travail, mais un peu de repos."
+      ],
+      "explain_it": "Peu de ha valore negativo, un peu de positivo: due nomi senza articolo nella stessa frase."
+    },
+    {
+      "id": "L060-e13",
+      "type": "mcq",
+      "level": 1,
+      "concept": "connectors",
+      "prompt": "Quale parola significa « quando » in un registro più elegante?",
+      "options": [
+        "alors",
+        "lorsque",
+        "lors",
+        "pourtant"
+      ],
+      "correct": 1,
+      "explain_it": "Lorsque è sinonimo di quand con tono più formale; alors significa 'allora' e pourtant 'eppure'."
+    },
+    {
+      "id": "L060-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "connectors",
+      "text": "___ je suis rentré, la rue était déserte.",
+      "answers": [
+        "Lorsque",
+        "Quand"
+      ],
+      "hint": "(congiunzione di tempo)",
+      "prompt": "Quando sono tornato, la strada era deserta.",
+      "explain_it": "Lorsque e quand hanno lo stesso significato; la seconda parte della frase è all'imperfetto perché descrive uno stato."
+    },
+    {
+      "id": "L060-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "connectors",
+      "prompt": "Traduci con lorsque: « Quando arriverai, chiamami. »",
+      "answers": [
+        "Lorsque tu arriveras, [appelle|téléphone]-moi.",
+        "Lorsque vous arriverez, [appelez|téléphonez]-moi."
+      ],
+      "explain_it": "Dopo lorsque la subordinata temporale va al futuro, come in italiano, quando la frase principale è al futuro.",
+      "ask": "Traduci in francese con lorsque"
+    },
+    {
+      "id": "L060-e16",
+      "type": "write",
+      "level": 3,
+      "concept": "connectors",
+      "prompt": "Quando sarete pronti, partiremo.",
+      "answers": [
+        "[Lorsque|Quand] vous serez prêts, [nous partirons|on partira].",
+        "[Lorsque|Quand] vous serez prêtes, [nous partirons|on partira]."
+      ],
+      "explain_it": "Il futuro serez e partirons compare sia nella subordinata sia nella principale, come in italiano."
+    },
+    {
+      "id": "L060-e17",
+      "type": "mcq",
+      "level": 1,
+      "concept": "depuis-il-y-a",
+      "prompt": "Come si dice « Lo conosco da poco »?",
+      "options": [
+        "Je le connais depuis peu.",
+        "Je le connais pendant peu.",
+        "Je le connais il y a peu.",
+        "Je l'ai connu depuis peu."
+      ],
+      "correct": 0,
+      "explain_it": "Con il presente si usa depuis; il y a indica 'fa' con il passato, e l'ultima opzione al passato prossimo esprime un fatto concluso, non una conoscenza in corso."
+    },
+    {
+      "id": "L060-e18",
+      "type": "cloze",
+      "level": 2,
+      "concept": "depuis-il-y-a",
+      "text": "Je travaille ici ___ longtemps.",
+      "answers": [
+        "depuis"
+      ],
+      "hint": "(da, con il presente)",
+      "prompt": "Lavoro qui da tanto tempo.",
+      "explain_it": "Depuis con il presente indica un'azione iniziata nel passato e che continua ancora."
+    },
+    {
+      "id": "L060-e19",
+      "type": "order",
+      "level": 1,
+      "concept": "depuis-il-y-a",
+      "prompt": "Abito qui da molto tempo.",
+      "answers": [
+        "J'habite ici depuis longtemps."
+      ],
+      "distractors": [
+        "pendant",
+        "il y a"
+      ],
+      "explain_it": "Depuis con il presente indica da quanto tempo l'azione dura; il y a indicherebbe 'fa' e non va bene qui."
+    },
+    {
+      "id": "L060-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "depuis-il-y-a",
+      "prompt": "Lui studia il francese da tre anni.",
+      "answers": [
+        "Il étudie le français depuis trois ans.",
+        "Il apprend le français depuis trois ans."
+      ],
+      "explain_it": "Con depuis e il presente si esprime un'azione iniziata tre anni fa e ancora in corso."
+    },
+    {
+      "id": "L060-e21",
+      "type": "write",
+      "level": 3,
+      "concept": "depuis-il-y-a",
+      "prompt": "Non conosco ancora bene questa città: ci vivo da poco.",
+      "answers": [
+        "Je ne connais pas encore [très |]bien cette ville, j'y [habite|vis] depuis peu[ de temps|]."
+      ],
+      "explain_it": "Depuis peu usa il presente per dire 'da poco' e continua la situazione presente; y richiama la città già nominata."
+    },
+    {
+      "id": "L060-e22",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronominal-verbs",
+      "prompt": "Come si dice « Mi sono reso conto del problema »?",
+      "options": [
+        "Je me suis rendu compte du problème.",
+        "Je me suis rendue compte du problème.",
+        "Je me suis rendu du problème.",
+        "Je me suis rendu le problème."
+      ],
+      "correct": 0,
+      "explain_it": "Compte è complemento diretto dopo il verbo, quindi il participio resta rendu anche per una donna; la forma rendue è un errore comune."
+    },
+    {
+      "id": "L060-e23",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "text": "Elle s'est ___ compte de son erreur.",
+      "answers": [
+        "rendu"
+      ],
+      "hint": "(se rendre compte, passato prossimo)",
+      "prompt": "Lei si è resa conto del suo errore.",
+      "explain_it": "Il participio di se rendre compte non concorda, perché il complemento diretto compte viene dopo il verbo."
+    },
+    {
+      "id": "L060-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Mi rendo conto che hai ragione.",
+      "answers": [
+        "Je me rends compte que tu as raison.",
+        "Je me rends compte que vous avez raison."
+      ],
+      "explain_it": "Al presente si dice je me rends compte que più una frase; il soggetto tu o vous dipende da chi si ha davanti."
+    },
+    {
+      "id": "L060-e25",
+      "type": "write",
+      "level": 3,
+      "concept": "pronominal-verbs",
+      "prompt": "Si è resa conto che il problema era grave.",
+      "answers": [
+        "Elle s'est rendu compte que le problème était grave."
+      ],
+      "explain_it": "Il passato prossimo di se rendre compte usa essere e rendu invariato; la subordinata resta all'imperfetto (était) come in italiano.",
+      "ask": "Traduci in francese"
+    },
+    {
+      "id": "L060-e26",
+      "type": "mcq",
+      "level": 1,
+      "concept": "imparfait-vs-pc",
+      "prompt": "Completa: « Pendant que je ___, il a téléphoné. » (cuisiner, imperfetto)",
+      "options": [
+        "cuisinais",
+        "cuisine",
+        "cuisinerai",
+        "cuisinerais"
+      ],
+      "correct": 0,
+      "explain_it": "Pendant que è seguito dall'imperfetto per l'azione di sfondo; la frase principale al passato prossimo indica l'azione puntuale."
+    },
+    {
+      "id": "L060-e27",
+      "type": "cloze",
+      "level": 2,
+      "concept": "imparfait-vs-pc",
+      "text": "Pendant qu'il ___, le téléphone a sonné.",
+      "answers": [
+        "dormait"
+      ],
+      "hint": "(dormir, imperfetto)",
+      "prompt": "Mentre lui dormiva, il telefono ha squillato.",
+      "explain_it": "L'imperfetto della subordinata descrive un'azione che dura; la principale, al passato prossimo, indica l'evento."
+    },
+    {
+      "id": "L060-e28",
+      "type": "write",
+      "level": 2,
+      "concept": "imparfait-vs-pc",
+      "prompt": "Mentre cucinavo, ho sentito un rumore.",
+      "answers": [
+        "Pendant que je cuisinais, j'ai entendu un bruit."
+      ],
+      "explain_it": "Pendant que richiede l'imperfetto nella subordinata, mentre il passato prossimo resta nella frase principale."
+    },
+    {
+      "id": "L060-e29",
+      "type": "cloze",
+      "level": 2,
+      "concept": "imparfait-vs-pc",
+      "text": "Il a plu ___ trois heures.",
+      "answers": [
+        "pendant",
+        "durant"
+      ],
+      "hint": "(durante, con un periodo di tempo)",
+      "prompt": "Ha piovuto per tre ore.",
+      "explain_it": "Pendant senza que è seguito da un periodo di tempo e significa 'durante'."
+    },
+    {
+      "id": "L060-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "imparfait-vs-pc",
+      "prompt": "Mentre loro discutevano, i vigili del fuoco sono arrivati.",
+      "answers": [
+        "Pendant qu'ils discutaient, les pompiers sont arrivés.",
+        "Pendant qu'ils discutaient, les sapeurs-pompiers sont arrivés."
+      ],
+      "explain_it": "La subordinata con pendant que va all'imperfetto, mentre l'arrivo dei vigili è un evento puntuale al passato prossimo con être."
+    },
+    {
+      "id": "L060-e31",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Che significa l'espressione « Peu importe » ?",
+      "options": [
+        "Non importa",
+        "Ha molta importanza",
+        "Costa poco",
+        "Arriva presto"
+      ],
+      "correct": 0,
+      "explain_it": "Peu importe è una forma colloquiale di 'non importa'; il verbo importer qui significa 'avere importanza'."
+    },
+    {
+      "id": "L060-e32",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "C'est très cher ! — ___ , je le prends.",
+      "answers": [
+        "Peu importe"
+      ],
+      "hint": "(non importa)",
+      "prompt": "È molto caro! — Non importa, lo prendo.",
+      "explain_it": "Peu importe si usa come risposta quando il prezzo o un altro dettaglio non è un problema."
+    },
+    {
+      "id": "L060-e33",
+      "type": "flash",
+      "level": 2,
+      "concept": "depuis-il-y-a",
+      "front": "Depuis con il presente: che cosa significa?",
+      "back": "Indica un'azione iniziata nel passato e ancora in corso: Je vis ici depuis deux ans = vivo qui da due anni. Per dire 'fa' (azione finita) si usa il y a con il passato: Je suis arrivé il y a deux ans = sono arrivato due anni fa."
+    },
+    {
+      "id": "L060-e34",
+      "type": "flash",
+      "level": 2,
+      "concept": "indefinites",
+      "front": "Peu de e un peu de: qual è la differenza?",
+      "back": "Peu de = poco (valore negativo, quasi niente). Un peu de = un po' di (valore positivo). Entrambi reggono il nome senza articolo: peu de temps, un peu de temps."
+    },
+    {
+      "id": "L060-e35",
+      "type": "dictation",
+      "level": 2,
+      "concept": "comparatives",
+      "text": "Il fait de plus en plus froid."
+    },
+    {
+      "id": "L060-e36",
+      "type": "write",
+      "level": 2,
+      "concept": "comparatives",
+      "prompt": "Diventa sempre più pericoloso.",
+      "answers": [
+        "[Ça|Il|Cela] devient de plus en plus dangereux."
+      ],
+      "explain_it": "De plus en plus si mette prima dell'aggettivo ed è invariabile; con devenir il soggetto può essere ça o il."
+    },
+    {
+      "id": "L060-e37",
+      "type": "dictation",
+      "level": 3,
+      "concept": "adverbs",
+      "text": "Nous sommes arrivés peu avant la fermeture, mais le bar était déjà vide.",
+      "explain_it": "Peu avant la fermeture: peu resta invariabile davanti a avant, come davanti a après."
+    },
+    {
+      "id": "L060-e38",
+      "type": "order",
+      "level": 1,
+      "concept": "connectors",
+      "prompt": "Quando arriverai, avvisami.",
+      "answers": [
+        "[Lorsque|Quand] tu arriveras, préviens-moi."
+      ],
+      "distractors": [
+        "alors",
+        "pourtant"
+      ],
+      "explain_it": "Lorsque introduce la subordinata temporale e richiede il futuro arriveras anche in francese."
+    },
+    {
+      "id": "L060-e39",
+      "type": "order",
+      "level": 1,
+      "concept": "prepositions",
+      "prompt": "Sono arrivati verso le sette.",
+      "answers": [
+        "Ils sont arrivés aux environs de sept heures.",
+        "Ils sont arrivés vers [les |]sept heures."
+      ],
+      "distractors": [
+        "environ",
+        "depuis"
+      ],
+      "explain_it": "Aux environs de indica 'verso' con un'ora; environ e depuis non servono qui."
+    },
+    {
+      "id": "L060-e40",
+      "type": "flash",
+      "level": 2,
+      "concept": "imparfait-vs-pc",
+      "front": "Pendant que + verbo: quale tempo nella subordinata?",
+      "back": "L'imperfetto, per l'azione di sfondo che dura: Pendant que je dormais, le téléphone a sonné. Pendant senza que è seguito da un periodo: pendant trois heures (durante tre ore)."
+    }
+  ]
+}

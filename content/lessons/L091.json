@@ -1,0 +1,905 @@
+{
+  "n": 91,
+  "title_fr": "Révision",
+  "title_it": "Ripasso",
+  "review": true,
+  "status": "verified",
+  "source": "3d1a4471 pdf 77-88 (libro p.553-564); la lezione inizia a meta pagina pdf 77 (p.553) dopo l'esercizio 2 della L90, con il titolo 'Quatre-vingt-onzième leçon'; sezioni di ripasso 1-6 pdf 77-85; dialogo di revisione pdf 86 (p.562); traduzione pdf 87-88 (p.563-564); la lezione 92 inizia a meta pagina pdf 87 (p.563)",
+  "theme_it": "Ripasso delle lezioni 85-90: domande formali e informali, il causativo con faire, il congiuntivo dopo superlativi, espressioni di unicità e concessive (qui que, où que, quoi que, quel que), il pronome dont, il plus-que-parfait e alcune parole dell'argot. Il dialogo di revisione è un colloquio di lavoro: un responsabile ha perso il proprio assistente, che si è dimesso, e cerca un sostituto; un amico gli propone un giovane brillante, che secondo lui saprà analizzare le esigenze del lavoro.",
+  "grammar": [
+    {
+      "id": "interrogatives",
+      "title_it": "Domande formali e informali: intonazione, est-ce que, inversione",
+      "explain_it": "Ci sono tre forme di domanda. La prima usa solo l'intonazione crescente, tipica del parlato familiare: la parola interrogativa resta in fondo alla frase (Tu vas où ?). La seconda usa est-ce que dopo la parola interrogativa (Où est-ce que tu vas ?) ed è neutra, molto frequente nel parlato e nello scritto. La terza è l'inversione, più formale: il verbo sale davanti al soggetto pronominale (Où vas-tu ?). Con 'cosa' la forma cambia: tu penses quoi ? / qu'est-ce que tu penses ? / que penses-tu ? Se il verbo regge una preposizione, questa sta sempre all'inizio: À qui parles-tu ? Con un soggetto nominale l'inversione si fa ripetendo il soggetto come pronome: Michelle est-elle là ? In italiano l'inversione non esiste: la domanda si distingue solo dall'intonazione, quindi conviene abituarsi a est-ce que.",
+      "examples": [
+        {
+          "fr": "Il habite où ?",
+          "it": "Dove abita?"
+        },
+        {
+          "fr": "Où est-ce qu'il habite ?",
+          "it": "Dove abita?"
+        },
+        {
+          "fr": "Où habite-t-il ?",
+          "it": "Dove abita?"
+        }
+      ]
+    },
+    {
+      "id": "faire",
+      "title_it": "Il causativo: faire + infinito",
+      "explain_it": "Il causativo si costruisce con faire coniugato seguito da un infinito e significa 'far fare' o 'farsi fare' qualcosa: il soggetto provoca l'azione, che è compiuta da altri. Il participio fait, quando è seguito da un infinito, resta sempre invariato (elle a fait venir le médecin). Se l'oggetto è un pronome, va davanti a faire e non all'infinito: je les fais venir. Con il riflessivo il soggetto fa fare qualcosa a sé: elle s'est fait couper les cheveux (si è fatta tagliare i capelli); anche qui fait non si accorda. Lo stesso vale per se faire mal: elle s'est fait mal (si è fatta male).",
+      "examples": [
+        {
+          "fr": "Je fais venir le médecin.",
+          "it": "Faccio venire il medico."
+        },
+        {
+          "fr": "Il s'est fait aider par un ami.",
+          "it": "Si è fatto aiutare da un amico."
+        },
+        {
+          "fr": "Elle s'est fait mal au pied.",
+          "it": "Si è fatta male al piede."
+        }
+      ]
+    },
+    {
+      "id": "subjonctif",
+      "title_it": "Congiuntivo dopo superlativi, unicità e espressioni indefinite",
+      "explain_it": "Il congiuntivo compare dopo un superlativo relativo e dopo espressioni di unicità (le seul, l'unique, le premier, personne qui, rien qui...), quando chi parla esprime una valutazione personale: C'est le plus beau paysage que j'aie jamais vu. Con le espressioni indefinite di concessione (qui que, où que, quoi que, quel que) il congiuntivo è sempre obbligatorio: Où que tu ailles, Quoi qu'il dise. Quel que è l'unico che si accorda con il nome: quel que soit le prix, quelle que soit la raison, quels que soient vos avis. Non confondere quoi que (in due parole, 'qualunque cosa') con quoique ('benché').",
+      "examples": [
+        {
+          "fr": "C'est le plus beau paysage que j'aie jamais vu.",
+          "it": "È il paesaggio più bello che abbia mai visto."
+        },
+        {
+          "fr": "Quoi qu'il dise, je le crois.",
+          "it": "Qualunque cosa dica, gli credo."
+        },
+        {
+          "fr": "Quel que soit ton choix, je te soutiendrai.",
+          "it": "Qualunque sia la tua scelta, ti sosterrò."
+        }
+      ]
+    },
+    {
+      "id": "relative-pronouns",
+      "title_it": "Il pronome relativo dont",
+      "explain_it": "Dont traduce 'di cui', 'del quale', 'il cui' e si usa quando la relativa richiede la preposizione de: parler de, être fier de, avoir besoin de. Dont sostituisce 'de + nome' e può riferirsi a persone e cose. Davanti al nome posseduto non c'è articolo ripetuto: la femme dont le fils est malade (la donna il cui figlio è malato). Non si può mai omettere. Dont introduce anche la parte di un gruppo: ils ont cinq enfants, dont deux filles (di cui due femmine).",
+      "examples": [
+        {
+          "fr": "C'est la femme dont le fils est malade.",
+          "it": "È la donna il cui figlio è malato."
+        },
+        {
+          "fr": "Le livre dont je te parle est épuisé.",
+          "it": "Il libro di cui ti parlo è esaurito."
+        },
+        {
+          "fr": "Il y a dix élèves, dont trois sont absents.",
+          "it": "Ci sono dieci allievi, di cui tre sono assenti."
+        }
+      ]
+    },
+    {
+      "id": "plus-que-parfait",
+      "title_it": "Il plus-que-parfait (trapassato prossimo)",
+      "explain_it": "Il plus-que-parfait si forma con l'imperfetto di avoir o être più il participio passato: j'avais envoyé, il était parti. La scelta dell'ausiliare e l'accordo del participio seguono le regole del passé composé: con être il participio si accorda con il soggetto (elle était partie), con avoir con il complemento oggetto che precede (la lettre que j'avais envoyée). Corrisponde al trapassato prossimo italiano e indica un'azione anteriore a un'altra azione passata.",
+      "examples": [
+        {
+          "fr": "Il avait fini son repas quand je suis arrivé.",
+          "it": "Aveva finito il pasto quando sono arrivato."
+        },
+        {
+          "fr": "Nous l'avions attendu pendant une heure.",
+          "it": "Lo avevamo aspettato per un'ora."
+        },
+        {
+          "fr": "Vous étiez venu m'aider.",
+          "it": "Eravate venuto ad aiutarmi."
+        }
+      ]
+    },
+    {
+      "id": "register",
+      "title_it": "L'argot: parole familiari e gergali",
+      "explain_it": "L'argot è il gergo familiare che si incontra nella conversazione tra amici, nei film e nei romanzi. Molte parole vengono da altre lingue: toubib (medico) viene dall'arabo. In una conversazione conviene saperle riconoscere per capire il senso generale, ma usarle con prudenza. Gars, mec e type sono sinonimi familiari di 'tizio, tipo'. Bagnole indica l'auto, fric i soldi; dingue significa 'pazzo' e fichu 'maledetto, spacciato'.",
+      "examples": [
+        {
+          "fr": "Ma bagnole est en panne.",
+          "it": "La mia auto è in panne."
+        },
+        {
+          "fr": "Il a du fric.",
+          "it": "Ha un po' di soldi."
+        },
+        {
+          "fr": "Ce mec est dingue.",
+          "it": "Quel tipo è pazzo."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "démissionner",
+      "it": "dimettersi",
+      "pos": "v"
+    },
+    {
+      "fr": "reconnaître",
+      "it": "riconoscere",
+      "pos": "v",
+      "note": "je reconnais"
+    },
+    {
+      "fr": "s'avérer",
+      "it": "rivelarsi, risultare",
+      "pos": "v",
+      "note": "il s'avère que"
+    },
+    {
+      "fr": "analyser",
+      "it": "analizzare",
+      "pos": "v",
+      "note": "j'analyse"
+    },
+    {
+      "fr": "faire venir",
+      "it": "far venire, chiamare",
+      "pos": "v",
+      "note": "je fais venir"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "faire la tête",
+      "it": "tenere il broncio",
+      "note": "registro familiare"
+    },
+    {
+      "fr": "faire la fête",
+      "it": "far festa, festeggiare"
+    },
+    {
+      "fr": "avoir l'impression que",
+      "it": "avere l'impressione che",
+      "note": "seguito dall'indicativo"
+    },
+    {
+      "fr": "ça ne veut pas dire que",
+      "it": "non vuol dire che",
+      "note": "per attenuare o correggere un'affermazione"
+    },
+    {
+      "fr": "tant que",
+      "it": "finché, fintanto che",
+      "note": "l'azione dipende da una condizione"
+    },
+    {
+      "fr": "pas pour autant",
+      "it": "non per questo",
+      "note": "spesso con 'ça ne veut pas dire que'"
+    }
+  ],
+  "notes_it": [
+    "Oltremare: la Francia comprende il territorio metropolitano, detto l'Hexagone (l'esagono), e i dipartimenti e territori d'oltremare, detti collettivamente la France d'outre-mer.",
+    "Falso amico: 'actuellement' significa 'attualmente' nel senso di 'in questo momento', mentre 'actuel' significa 'attuale'.",
+    "Registro: 'faire la tête' (tenere il broncio) è familiare, 'faire la fête' (far festa) è neutro; non confonderli.",
+    "Nel parlato si usa molto 'ça veut dire' con il significato di 'significa'; la forma negativa 'ça ne veut pas dire que' serve a correggere un'idea."
+  ],
+  "exercises": [
+    {
+      "id": "L091-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "interrogatives",
+      "prompt": "Quale domanda significa 'Dove vai?' con inversione (forma I-3)?",
+      "options": [
+        "Où vas-tu ?",
+        "Où est-ce vas-tu ?",
+        "Où tu vas-tu ?",
+        "Vas-tu où ?"
+      ],
+      "correct": 0,
+      "explain_it": "Nella forma con inversione il pronome interrogativo va in testa e il verbo sale davanti al soggetto: Où vas-tu ? Vas-tu où ? è scorretto."
+    },
+    {
+      "id": "L091-e02",
+      "type": "mcq",
+      "level": 2,
+      "concept": "interrogatives",
+      "prompt": "Come si dice in modo informale, con quoi a fine frase, 'Cosa pensi?'",
+      "options": [
+        "Tu penses quoi ?",
+        "Quoi tu penses ?",
+        "Tu penses que ?",
+        "Que penses-tu quoi ?"
+      ],
+      "correct": 0,
+      "explain_it": "Nella forma I-1 la parola interrogativa va in fondo alla frase con intonazione crescente: quoi non è preceduto da que."
+    },
+    {
+      "id": "L091-e03",
+      "type": "cloze",
+      "level": 2,
+      "concept": "interrogatives",
+      "text": "___ est-ce que tu habites ?",
+      "answers": [
+        "Où"
+      ],
+      "hint": "(dove, forma I-2)",
+      "prompt": "Dove abiti?",
+      "explain_it": "Nella forma I-2 la parola interrogativa va all'inizio, seguita da est-ce que: Où est-ce que tu habites ?"
+    },
+    {
+      "id": "L091-e04",
+      "type": "write",
+      "level": 2,
+      "concept": "interrogatives",
+      "prompt": "Dove va tuo fratello?",
+      "ask": "Traduci in francese con l'inversione (forma I-3)",
+      "answers": [
+        "Où ton frère va-t-il",
+        "Où va ton frère"
+      ],
+      "explain_it": "Con un soggetto nominale nella forma I-3 il soggetto resta davanti al verbo e si ripete come pronome (ton frère va-t-il), con la t eufonica; è accettata anche l'inversione semplice Où va ton frère."
+    },
+    {
+      "id": "L091-e05",
+      "type": "write",
+      "level": 3,
+      "concept": "interrogatives",
+      "prompt": "Perché avete chiamato Marie?",
+      "ask": "Traduci in francese con l'inversione (forma I-3)",
+      "answers": [
+        "Pourquoi avez-vous appelé Marie"
+      ],
+      "explain_it": "Pourquoi precede l'inversione, e vous si lega ad avez con un trattino; il participio appelé non cambia."
+    },
+    {
+      "id": "L091-e06",
+      "type": "cloze",
+      "level": 2,
+      "concept": "interrogatives",
+      "text": "À ___ parles-tu ?",
+      "answers": [
+        "qui"
+      ],
+      "prompt": "A chi parli?",
+      "explain_it": "Quando la domanda ha una preposizione, questa va sempre prima del pronome interrogativo: À qui parles-tu ?"
+    },
+    {
+      "id": "L091-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "interrogatives",
+      "prompt": "Dove abiti?",
+      "answers": [
+        "Où est-ce que tu habites",
+        "Où est-ce que vous habitez"
+      ],
+      "distractors": [
+        "quoi"
+      ],
+      "explain_it": "Nella forma I-2 si usa la parola interrogativa seguita da est-ce que, poi soggetto e verbo; quoi è un distrattore."
+    },
+    {
+      "id": "L091-e08",
+      "type": "flash",
+      "level": 2,
+      "concept": "interrogatives",
+      "front": "Come si chiedono 'Cosa pensi?' in forma I-2 e in forma I-3?",
+      "back": "I-2: Qu'est-ce que tu penses ? I-3: Que penses-tu ?",
+      "note": "Quoi resta in fondo solo nella forma I-1: Tu penses quoi ?"
+    },
+    {
+      "id": "L091-e09",
+      "type": "mcq",
+      "level": 1,
+      "concept": "faire",
+      "prompt": "Come si dice 'Mi sono fatto male'?",
+      "options": [
+        "Je me suis fait mal",
+        "Je me suis fais mal",
+        "Je me suis fait malade",
+        "Je me suis faite mal"
+      ],
+      "correct": 0,
+      "explain_it": "Con faire nel senso di 'farsi male' il participio fait resta invariato; malade significa invece 'ammalato'."
+    },
+    {
+      "id": "L091-e10",
+      "type": "cloze",
+      "level": 2,
+      "concept": "faire",
+      "text": "Il a ___ réparer la voiture.",
+      "answers": [
+        "fait"
+      ],
+      "hint": "(faire, passato prossimo)",
+      "prompt": "Ha fatto riparare la macchina.",
+      "explain_it": "Nel causativo al passato composto l'ausiliare avoir si lega a fait, seguito dall'infinito."
+    },
+    {
+      "id": "L091-e11",
+      "type": "order",
+      "level": 2,
+      "concept": "faire",
+      "prompt": "Mi faccio tagliare i capelli.",
+      "answers": [
+        "Je me fais couper les cheveux"
+      ],
+      "distractors": [
+        "fait"
+      ],
+      "explain_it": "Nel riflessivo causativo il soggetto si fa qualcosa; il verbo è faire al presente, fais, e non fait."
+    },
+    {
+      "id": "L091-e12",
+      "type": "cloze",
+      "level": 2,
+      "concept": "faire",
+      "text": "Les ouvriers, je les ___ venir lundi.",
+      "answers": [
+        "fais"
+      ],
+      "hint": "(faire, presente)",
+      "prompt": "Gli operai, li faccio venire lunedì.",
+      "explain_it": "Il pronome oggetto les va davanti al verbo faire coniugato, non davanti all'infinito venir."
+    },
+    {
+      "id": "L091-e13",
+      "type": "write",
+      "level": 2,
+      "concept": "faire",
+      "prompt": "Ho fatto venire un idraulico.",
+      "answers": [
+        "J'ai fait venir un plombier"
+      ],
+      "explain_it": "Il participio fait, seguito dall'infinito, resta invariato; un plombier è l'idraulico."
+    },
+    {
+      "id": "L091-e14",
+      "type": "write",
+      "level": 3,
+      "concept": "faire",
+      "prompt": "Ho fatto riparare la macchina dal meccanico.",
+      "ask": "Traduci in francese usando il pronome oggetto",
+      "answers": [
+        "Je l'ai fait réparer par le mécanicien",
+        "Je l'ai fait réparer par un mécanicien"
+      ],
+      "explain_it": "Il pronome l' sostituisce la voiture e si mette davanti all'ausiliare ai; par introduce chi compie l'azione."
+    },
+    {
+      "id": "L091-e15",
+      "type": "write",
+      "level": 3,
+      "concept": "faire",
+      "prompt": "Si è fatta tagliare i capelli dal parrucchiere.",
+      "ask": "Traduci in francese con il causativo riflessivo",
+      "answers": [
+        "Elle s'est fait couper les cheveux par le coiffeur",
+        "Elle s'est fait couper les cheveux chez le coiffeur"
+      ],
+      "explain_it": "Con faire + infinito il participio fait resta invariato anche con un soggetto femminile: elle s'est fait couper."
+    },
+    {
+      "id": "L091-e16",
+      "type": "dictation",
+      "level": 2,
+      "concept": "faire",
+      "text": "Je vais faire venir mon frère demain matin."
+    },
+    {
+      "id": "L091-e17",
+      "type": "flash",
+      "level": 2,
+      "concept": "faire",
+      "front": "Dove va il pronome oggetto in 'faire + infinito'?",
+      "back": "Davanti al verbo faire coniugato: je les fais venir. Non si dice je fais les venir.",
+      "note": "Il pronome si lega al verbo che è effettivamente coniugato."
+    },
+    {
+      "id": "L091-e18",
+      "type": "cloze",
+      "level": 2,
+      "concept": "faire",
+      "text": "Elle s'est ___ mal à la main.",
+      "answers": [
+        "fait"
+      ],
+      "hint": "(faire, passato prossimo)",
+      "prompt": "Si è fatta male alla mano.",
+      "explain_it": "Con se faire mal il participio fait resta invariato, anche con un soggetto femminile."
+    },
+    {
+      "id": "L091-e19",
+      "type": "mcq",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Completa: 'C'est le meilleur film que j'___ jamais vu.' (È il miglior film che io abbia mai visto)",
+      "options": [
+        "aie",
+        "ai",
+        "avais",
+        "aurai"
+      ],
+      "correct": 0,
+      "explain_it": "Dopo un superlativo che esprime una valutazione personale si usa il congiuntivo: aie, non ai (indicativo), avais (imperfetto) o aurai (futuro)."
+    },
+    {
+      "id": "L091-e20",
+      "type": "cloze",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "Il est le seul qui ___ me comprendre.",
+      "answers": [
+        "puisse"
+      ],
+      "hint": "(pouvoir, congiuntivo presente)",
+      "prompt": "È l'unico che possa capirmi.",
+      "explain_it": "Dopo le seul qui si usa il congiuntivo, che esprime l'unicità del soggetto."
+    },
+    {
+      "id": "L091-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "È l'unica persona che possa aiutarmi.",
+      "answers": [
+        "C'est la seule personne qui puisse m'aider",
+        "C'est l'unique personne qui puisse m'aider"
+      ],
+      "explain_it": "Seule concorda con personne al femminile; il verbo della relativa sta al congiuntivo presente."
+    },
+    {
+      "id": "L091-e22",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Chiunque tu sia, ti aiuterò.",
+      "answers": [
+        "Qui que tu sois, je t'aiderai",
+        "Qui que tu sois, je vais t'aider"
+      ],
+      "explain_it": "Qui que introduce il congiuntivo di être: sois per tu; l'indicativo (es. es) non è ammesso."
+    },
+    {
+      "id": "L091-e23",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Dovunque andiate, troverete un buon ristorante.",
+      "ask": "Traduci in francese; la subordinata usa il congiuntivo",
+      "answers": [
+        "Où que vous alliez, vous trouverez un bon restaurant"
+      ],
+      "explain_it": "Où que vuole il congiuntivo di aller (vous alliez); vous trouverez è il futuro della principale."
+    },
+    {
+      "id": "L091-e24",
+      "type": "cloze",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "Quoi qu'il ___, il reste calme.",
+      "answers": [
+        "fasse"
+      ],
+      "hint": "(faire, congiuntivo presente)",
+      "prompt": "Qualunque cosa faccia, resta calmo.",
+      "explain_it": "Quoi que introduce sempre il congiuntivo: fasse è la forma del congiuntivo presente di faire."
+    },
+    {
+      "id": "L091-e25",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Qualunque sia la ragione, non lo accetto.",
+      "ask": "Traduci in francese con quel que",
+      "answers": [
+        "Quelle que soit la raison, je ne l'accepte pas"
+      ],
+      "explain_it": "Quel que concorda con il nome: raison è femminile, quindi quelle que; il verbo è soit al congiuntivo di être."
+    },
+    {
+      "id": "L091-e26",
+      "type": "flash",
+      "level": 2,
+      "concept": "subjonctif",
+      "front": "Quali espressioni introducono il congiuntivo concessivo (qualunque, chiunque, dovunque)?",
+      "back": "qui que, où que, quoi que, quel que (+ soit): Où que tu ailles, Quel que soit le prix.",
+      "note": "Il verbo della subordinata è sempre al congiuntivo."
+    },
+    {
+      "id": "L091-e27",
+      "type": "mcq",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Completa: 'Il est l'unique homme qui ___ comprendre cela.' (È l'unico uomo che possa capirlo)",
+      "options": [
+        "puisse",
+        "peut",
+        "pourra",
+        "pouvait"
+      ],
+      "correct": 0,
+      "explain_it": "Dopo l'unique qui il verbo va al congiuntivo: puisse; peut è indicativo, pourra è futuro, pouvait è imperfetto."
+    },
+    {
+      "id": "L091-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "È il libro più interessante che abbia mai letto.",
+      "ask": "Traduci in francese con il superlativo e il congiuntivo",
+      "answers": [
+        "C'est le livre le plus intéressant que j'aie jamais lu"
+      ],
+      "explain_it": "Jamais si colloca tra l'ausiliare e il participio, e il congiuntivo di avoir è aie."
+    },
+    {
+      "id": "L091-e29",
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Bisogna che tu venga domani.",
+      "answers": [
+        "Il faut que tu viennes demain"
+      ],
+      "explain_it": "Dopo il faut que si usa il congiuntivo; la forma di venir per tu è viennes."
+    },
+    {
+      "id": "L091-e30",
+      "type": "order",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Bisogna che io parta subito.",
+      "answers": [
+        "Il faut que je parte tout de suite"
+      ],
+      "distractors": [
+        "pars"
+      ],
+      "explain_it": "Dopo il faut que il verbo sta al congiuntivo: parte; pars è indicativo."
+    },
+    {
+      "id": "L091-e31",
+      "type": "mcq",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Quale frase significa 'Qualunque cosa tu dica, ti crederò'?",
+      "options": [
+        "Quoi que tu dises, je te croirai.",
+        "Quoi que tu dis, je te croirai.",
+        "Quoi que tu diras, je te croirai.",
+        "Quoi que tu dire, je te croirai."
+      ],
+      "correct": 0,
+      "explain_it": "Quoi que vuole il congiuntivo presente di dire, dises; dis è indicativo, diras è futuro e dire è l'infinito."
+    },
+    {
+      "id": "L091-e32",
+      "type": "mcq",
+      "level": 2,
+      "concept": "relative-pronouns",
+      "prompt": "Completa: 'La ragazza il cui padre è medico è mia amica.' -> 'La fille ___ le père est médecin est mon amie.'",
+      "options": [
+        "dont",
+        "que",
+        "qui",
+        "où"
+      ],
+      "correct": 0,
+      "explain_it": "Il padre appartiene alla ragazza: la costruzione richiede dont, che traduce 'di cui'; qui, que e où non funzionano qui."
+    },
+    {
+      "id": "L091-e33",
+      "type": "cloze",
+      "level": 2,
+      "concept": "relative-pronouns",
+      "text": "Le livre ___ je t'ai parlé est sur la table.",
+      "answers": [
+        "dont"
+      ],
+      "prompt": "Il libro di cui ti ho parlato è sul tavolo.",
+      "explain_it": "Parler de regge la preposizione de, quindi il relativo è dont, non que."
+    },
+    {
+      "id": "L091-e34",
+      "type": "write",
+      "level": 2,
+      "concept": "relative-pronouns",
+      "prompt": "Il ragazzo di cui ti ho parlato è arrivato.",
+      "answers": [
+        "Le garçon dont je t'ai parlé est arrivé",
+        "Le garçon dont je vous ai parlé est arrivé"
+      ],
+      "explain_it": "Dont sostituisce de + nome; con tu o vous il pronome del verbo parler cambia, ma dont resta uguale."
+    },
+    {
+      "id": "L091-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "relative-pronouns",
+      "prompt": "Ecco il prezzo di cui sono fiero.",
+      "answers": [
+        "Voici le prix dont je suis fier",
+        "Voilà le prix dont je suis fier"
+      ],
+      "explain_it": "Être fier de regge de, quindi il relativo è dont; fier concorda con il soggetto je."
+    },
+    {
+      "id": "L091-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "relative-pronouns",
+      "prompt": "Ci sono quattro studenti, di cui due sono italiani.",
+      "answers": [
+        "Il y a quatre étudiants, dont deux sont italiens"
+      ],
+      "explain_it": "Dont introduce la parte del gruppo: dont deux sont, con il verbo al plurale."
+    },
+    {
+      "id": "L091-e37",
+      "type": "dictation",
+      "level": 2,
+      "concept": "relative-pronouns",
+      "text": "Le train dont le moteur est en panne part dans une heure."
+    },
+    {
+      "id": "L091-e38",
+      "type": "flash",
+      "level": 2,
+      "concept": "relative-pronouns",
+      "front": "Quando si usa dont e che valore ha?",
+      "back": "Traduce 'di cui' o 'del quale' e sostituisce de + nome: je suis fier de ce prix, le prix dont je suis fier.",
+      "note": "Dont non si può mai omettere, a differenza dell'inglese 'of which'."
+    },
+    {
+      "id": "L091-e39",
+      "type": "mcq",
+      "level": 1,
+      "concept": "plus-que-parfait",
+      "prompt": "Come si dice 'Avevo già mangiato'?",
+      "options": [
+        "J'avais déjà mangé.",
+        "J'ai déjà mangé.",
+        "J'étais déjà mangé.",
+        "Je mangeais déjà."
+      ],
+      "correct": 0,
+      "explain_it": "Il plus-que-parfait si forma con l'imperfetto di avoir più il participio: avais mangé. J'ai mangé è passato composto."
+    },
+    {
+      "id": "L091-e40",
+      "type": "cloze",
+      "level": 2,
+      "concept": "plus-que-parfait",
+      "text": "Nous ___ attendu pendant une heure.",
+      "answers": [
+        "avions"
+      ],
+      "hint": "(avoir, imperfetto)",
+      "prompt": "Avevamo aspettato per un'ora.",
+      "explain_it": "L'ausiliare dell'imperfetto per nous è avions."
+    },
+    {
+      "id": "L091-e41",
+      "type": "write",
+      "level": 2,
+      "concept": "plus-que-parfait",
+      "prompt": "Lei era già partita quando lui è arrivato.",
+      "answers": [
+        "Elle était déjà partie quand il est arrivé"
+      ],
+      "explain_it": "Con être il participio concorda con il soggetto: partie per elle. Il secondo verbo, arriver, va al passato composto perché indica l'azione principale."
+    },
+    {
+      "id": "L091-e42",
+      "type": "write",
+      "level": 3,
+      "concept": "plus-que-parfait",
+      "prompt": "Il treno era già partito quando siamo arrivati.",
+      "answers": [
+        "Le train était déjà parti quand nous sommes arrivés"
+      ],
+      "explain_it": "Il trapassato indica l'azione anteriore (partire), il passato composto l'azione principale (arrivare)."
+    },
+    {
+      "id": "L091-e43",
+      "type": "write",
+      "level": 3,
+      "concept": "plus-que-parfait",
+      "prompt": "Non avevo mai visto quel film.",
+      "answers": [
+        "Je n'avais jamais vu ce film",
+        "Je n'avais jamais vu ce film-là"
+      ],
+      "explain_it": "Jamais si colloca tra l'ausiliare e il participio, e ne si elide in n' davanti ad avais."
+    },
+    {
+      "id": "L091-e44",
+      "type": "order",
+      "level": 2,
+      "concept": "plus-que-parfait",
+      "prompt": "Mi aveva detto la verità.",
+      "answers": [
+        "Il m'avait dit la vérité"
+      ],
+      "distractors": [
+        "ai"
+      ],
+      "explain_it": "Il pronome me diventa m' davanti ad avait; il trapassato usa l'imperfetto di avoir."
+    },
+    {
+      "id": "L091-e45",
+      "type": "cloze",
+      "level": 2,
+      "concept": "plus-que-parfait",
+      "text": "Ils étaient ___ tôt.",
+      "answers": [
+        "arrivés"
+      ],
+      "hint": "(arriver, participio)",
+      "prompt": "Erano arrivati presto.",
+      "explain_it": "Con être il participio concorda con il soggetto plurale maschile: arrivés."
+    },
+    {
+      "id": "L091-e46",
+      "type": "mcq",
+      "level": 3,
+      "concept": "plus-que-parfait",
+      "prompt": "Quale frase significa 'Quando sono arrivato, lei era già uscita'?",
+      "options": [
+        "Quand je suis arrivé, elle était déjà sortie.",
+        "Quand je suis arrivé, elle est déjà sortie.",
+        "Quand je suis arrivé, elle avait déjà sortie.",
+        "Quand je suis arrivé, elle sortait déjà."
+      ],
+      "correct": 0,
+      "explain_it": "L'azione anteriore usa il trapassato con être, e sortie concorda con elle. Est sortie è passato composto; avait è con avoir; sortait è imperfetto."
+    },
+    {
+      "id": "L091-e47",
+      "type": "flash",
+      "level": 2,
+      "concept": "plus-que-parfait",
+      "front": "Come si forma il plus-que-parfait?",
+      "back": "Imperfetto di avoir o être più il participio passato: j'avais mangé, il était parti.",
+      "note": "Il participio segue le regole del passato composto con l'ausiliare scelto."
+    },
+    {
+      "id": "L091-e48",
+      "type": "mcq",
+      "level": 1,
+      "concept": "register",
+      "prompt": "Nel francese familiare, 'un toubib' significa:",
+      "options": [
+        "un medico",
+        "un'auto",
+        "un amico",
+        "un soldo"
+      ],
+      "correct": 0,
+      "explain_it": "Toubib è una parola gergale per medico: non è il termine standard, che è médecin."
+    },
+    {
+      "id": "L091-e49",
+      "type": "cloze",
+      "level": 2,
+      "concept": "register",
+      "text": "Ma ___ est en panne.",
+      "answers": [
+        "bagnole"
+      ],
+      "hint": "(auto, familiare)",
+      "prompt": "La mia auto è in panne.",
+      "explain_it": "Bagnole è la parola familiare per 'auto', usata solo tra amici."
+    },
+    {
+      "id": "L091-e50",
+      "type": "write",
+      "level": 3,
+      "concept": "register",
+      "prompt": "Ho bisogno di soldi.",
+      "ask": "Traduci in francese con un termine familiare",
+      "answers": [
+        "J'ai besoin de fric"
+      ],
+      "explain_it": "Fric è l'argot per i soldi, da usare solo con persone con cui si ha confidenza."
+    },
+    {
+      "id": "L091-e51",
+      "type": "flash",
+      "level": 2,
+      "concept": "register",
+      "front": "Che cos'è l'argot?",
+      "back": "Il gergo, un linguaggio familiare e colorito che nasce in una comunità e prende parole da altre lingue.",
+      "note": "Non si usa in contesti formali, ma è utile riconoscerlo nei film e nei romanzi."
+    },
+    {
+      "id": "L091-e52",
+      "type": "mcq",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "Come si dice 'il manico della padella'?",
+      "options": [
+        "le manche de la poêle",
+        "la manche de la poêle",
+        "le manche à la poêle",
+        "la poêle du manche"
+      ],
+      "correct": 0,
+      "explain_it": "Manche maschile significa 'manico'; la manche femminile è la 'manica'. Poêle è femminile, quindi de la poêle."
+    },
+    {
+      "id": "L091-e53",
+      "type": "cloze",
+      "level": 2,
+      "concept": "gender",
+      "text": "Il a déchiré la ___ de sa chemise.",
+      "answers": [
+        "manche"
+      ],
+      "hint": "(la manica, femminile)",
+      "prompt": "Ha strappato la manica della sua camicia.",
+      "explain_it": "Manche femminile significa 'manica': il genere cambia il significato."
+    },
+    {
+      "id": "L091-e54",
+      "type": "write",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "Il manico della padella è rotto.",
+      "answers": [
+        "Le manche de la poêle est cassé"
+      ],
+      "explain_it": "Manche è maschile quando significa manico; poêle è femminile e richiede de la."
+    },
+    {
+      "id": "L091-e55",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "prompt": "Lui è sceso dalla macchina.",
+      "ask": "Traduci in francese (puoi usare un termine familiare)",
+      "answers": [
+        "Il est descendu de la voiture",
+        "Il est descendu de la bagnole"
+      ],
+      "explain_it": "Descendre si coniuga con être al passato composto e il participio concorda con il soggetto maschile."
+    },
+    {
+      "id": "L091-e56",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "text": "Il ___ derrière la porte.",
+      "answers": [
+        "s'est caché"
+      ],
+      "hint": "(se cacher, passato composto)",
+      "prompt": "Si è nascosto dietro la porta.",
+      "explain_it": "Il verbo pronominale al passato composto usa être: il s'est caché; il participio si accorda con il soggetto maschile singolare."
+    },
+    {
+      "id": "L091-e57",
+      "type": "mcq",
+      "level": 2,
+      "concept": "pronoun-order",
+      "prompt": "Come si dice 'Glielo ho dato' (il libro, a lui)?",
+      "options": [
+        "Je le lui ai donné.",
+        "Je lui le ai donné.",
+        "Je lui ai le donné.",
+        "Je lui l'ai donné."
+      ],
+      "correct": 0,
+      "explain_it": "Con due pronomi oggetto l'ordine è fisso: le (oggetto diretto) prima di lui (oggetto indiretto)."
+    }
+  ]
+}

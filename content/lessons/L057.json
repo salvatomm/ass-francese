@@ -1,0 +1,776 @@
+{
+  "n": 57,
+  "title_fr": "Vive les Bretons !",
+  "title_it": "Viva i bretoni!",
+  "review": false,
+  "status": "verified",
+  "source": "fa2f8a2c p21-28",
+  "theme_it": "Due persone che parlano bretone spiegano a un ospite perché conoscono questa lingua: hanno vissuto a Vannes da giovani, dove i commercianti del quartiere la parlavano come prima lingua. Il racconto si chiude con l'origine del verbo « baragouiner », legata ai bretoni emigrati a Parigi che non si facevano capire.",
+  "grammar": [
+    {
+      "id": "imparfait",
+      "title_it": "L'imperfetto (imparfait)",
+      "explain_it": "L'imperfetto descrive situazioni, abitudini o azioni del passato senza indicare quando sono iniziate o finite, come l'imperfetto italiano (abitavamo, pioveva). Si forma prendendo la radice della prima persona plurale del presente (nous habitons, quindi habit-) e aggiungendo -ais, -ais, -ait, -ions, -iez, -aient. Attenzione alle radici delle forme con -ger e -cer: nous mangeons, je mangeais; nous commençons, je commençais. L'unico verbo davvero irregolare è être: j'étais, tu étais, il était, nous étions, vous étiez, ils étaient.",
+      "examples": [
+        {
+          "fr": "Quand nous étions jeunes, nous habitions à Vannes.",
+          "it": "Quando eravamo giovani, abitavamo a Vannes."
+        },
+        {
+          "fr": "Il pleuvait tout le temps.",
+          "it": "Pioveva sempre."
+        }
+      ]
+    },
+    {
+      "id": "tout",
+      "title_it": "Tous les deux e les deux",
+      "explain_it": "Per dire « entrambi » o « tutti e due » si usa tous les deux (maschile) o toutes les deux (femminile). Funziona da pronome, da solo o dopo il soggetto: Ils sont tous les deux bretons. Davanti a un nome si usa invece les deux, senza tous: les deux fenêtres. Il genere della forma tous/toutes segue quello delle persone o delle cose di cui si parla, come in italiano con entrambi/entrambe.",
+      "examples": [
+        {
+          "fr": "Ils parlent tous les deux le breton.",
+          "it": "Parlano entrambi il bretone."
+        },
+        {
+          "fr": "Les deux fenêtres sont ouvertes.",
+          "it": "Tutte e due le finestre sono aperte."
+        }
+      ]
+    },
+    {
+      "id": "pronoun-y",
+      "title_it": "Il pronome y per cose e luoghi",
+      "explain_it": "Il pronome y sostituisce « à » seguito da un nome di cosa, di idea o di luogo, mai di persona (per le persone si usano lui, leur, ecc.): Je pense à mes vacances → J'y pense, come l'italiano « ci penso ». Si mette davanti al verbo, tra ne e il verbo nella negazione. Nell'espressione on n'y comprend rien, y è un « ci » generico che rimanda alla situazione di cui si parla (in questo film, in questa storia): non nasce da un à, ma funziona allo stesso modo.",
+      "examples": [
+        {
+          "fr": "Je pense à mes vacances. → J'y pense.",
+          "it": "Penso alle vacanze. → Ci penso."
+        },
+        {
+          "fr": "Je n'y comprends rien.",
+          "it": "Non ci capisco niente."
+        }
+      ]
+    },
+    {
+      "id": "false-friends",
+      "title_it": "Apprendre e enseigner",
+      "explain_it": "Enseigner significa insegnare una materia o un sapere a scuola (j'enseigne l'histoire). Apprendre significa imparare, ma con un complemento di persona (leur, me, lui) diventa insegnare: Il m'apprend l'allemand, « mi insegna il tedesco ». Per un italiano è un vero falso amico: non tradurre apprendre con insegnare senza complemento di persona, né viceversa.",
+      "examples": [
+        {
+          "fr": "J'enseigne l'histoire au lycée.",
+          "it": "Insegno storia al liceo."
+        },
+        {
+          "fr": "Il m'apprend l'allemand.",
+          "it": "Mi insegna il tedesco."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Comment ça se fait que... ? e altre espressioni",
+      "explain_it": "Comment ça se fait que... ? è un modo colloquiale per chiedere « come mai? » o « com'è possibile che? ». Non va confuso con comment ça se passe (che cosa succede, come va). La forma più corretta è anche Comment se fait-il que... ? Dopo que spesso il verbo richiede il congiuntivo: ne parleremo più avanti. Anche À propos (a proposito) e tout le temps (sempre) sono espressioni da imparare come blocchi.",
+      "examples": [
+        {
+          "fr": "Comment ça se fait que tu parles breton ?",
+          "it": "Come mai parli bretone?"
+        },
+        {
+          "fr": "À propos, tu viens demain ?",
+          "it": "A proposito, vieni domani?"
+        }
+      ]
+    },
+    {
+      "id": "adjective-agreement",
+      "title_it": "Nomi e aggettivi di nazionalità",
+      "explain_it": "Quando la parola indica una persona (sostantivo), il nome di nazionalità prende la maiuscola: un Breton, une Bretonne, des Bretons. Quando funziona da aggettivo si scrive con la minuscola: il est breton, elle est bretonne. Come in italiano, l'aggettivo concorda con il nome per genere e numero. La lingua si scrive minuscola: parler breton o parler français.",
+      "examples": [
+        {
+          "fr": "C'est un Breton.",
+          "it": "È un bretone."
+        },
+        {
+          "fr": "Elle est bretonne.",
+          "it": "Lei è bretone."
+        }
+      ]
+    },
+    {
+      "id": "pronoun-cod",
+      "title_it": "Connaître, savoir e il pronome la",
+      "explain_it": "Connaître significa conoscere (persone, luoghi, storie già note), savoir significa sapere (fatti, lingue, come fare qualcosa). Il pronome oggetto diretto la (le, l') sostituisce il complemento e si mette davanti al verbo: Je ne la connaissais pas. All'imperfetto i due verbi diventano connaissais e savais, senza cambiare la struttura.",
+      "examples": [
+        {
+          "fr": "Je ne la connaissais pas.",
+          "it": "Non la conoscevo."
+        },
+        {
+          "fr": "Je savais qu'il parlait breton.",
+          "it": "Sapevo che parlava bretone."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le breton",
+      "it": "il bretone (la lingua)",
+      "pos": "n"
+    },
+    {
+      "fr": "un Breton (m.) / une Bretonne (f.)",
+      "it": "un bretone / una bretone",
+      "pos": "n"
+    },
+    {
+      "fr": "la Bretagne",
+      "it": "la Bretagna",
+      "pos": "n"
+    },
+    {
+      "fr": "Vannes",
+      "it": "Vannes (città della Bretagna)",
+      "pos": "n"
+    },
+    {
+      "fr": "le collège",
+      "it": "la scuola media",
+      "pos": "n"
+    },
+    {
+      "fr": "la construction navale",
+      "it": "la cantieristica navale",
+      "pos": "n"
+    },
+    {
+      "fr": "le commerçant (m.) / la commerçante (f.)",
+      "it": "il commerciante / la commerciante",
+      "pos": "n"
+    },
+    {
+      "fr": "le quartier",
+      "it": "il quartiere",
+      "pos": "n"
+    },
+    {
+      "fr": "rien que",
+      "it": "solo, soltanto",
+      "pos": "adv",
+      "note": "rien que pour + infinito: solo per"
+    },
+    {
+      "fr": "baragouiner",
+      "it": "parlare in modo incomprensibile, farfugliare",
+      "pos": "v",
+      "note": "il baragouine"
+    },
+    {
+      "fr": "autrefois",
+      "it": "un tempo, in passato",
+      "pos": "adv"
+    },
+    {
+      "fr": "affamé (m.) / affamée (f.)",
+      "it": "affamato / affamata",
+      "pos": "adj"
+    },
+    {
+      "fr": "pourtant",
+      "it": "eppure, tuttavia",
+      "pos": "adv"
+    },
+    {
+      "fr": "le bara (m.)",
+      "it": "il pane (in bretone)",
+      "pos": "n"
+    },
+    {
+      "fr": "le guin (m.)",
+      "it": "il vino (in bretone)",
+      "pos": "n"
+    },
+    {
+      "fr": "enseigner",
+      "it": "insegnare (una materia)",
+      "pos": "v",
+      "note": "j'enseigne l'anglais"
+    },
+    {
+      "fr": "maîtriser",
+      "it": "padroneggiare, dominare",
+      "pos": "v"
+    },
+    {
+      "fr": "motiver",
+      "it": "motivare, spingere a fare",
+      "pos": "v",
+      "note": "motivé(e): motivato"
+    },
+    {
+      "fr": "fascinant (m.) / fascinante (f.)",
+      "it": "affascinante",
+      "pos": "adj"
+    },
+    {
+      "fr": "l'explication (f.)",
+      "it": "la spiegazione",
+      "pos": "n"
+    },
+    {
+      "fr": "vivre",
+      "it": "vivere",
+      "pos": "v",
+      "note": "j'ai vécu"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Comment ça se fait que... ?",
+      "it": "Come mai...?",
+      "note": "registro colloquiale; dopo que si può trovare anche il congiuntivo"
+    },
+    {
+      "fr": "tous les deux",
+      "it": "entrambi, tutti e due",
+      "note": "per due persone o cose"
+    },
+    {
+      "fr": "rien que pour",
+      "it": "solo per, anche solo per",
+      "note": "sottolinea che un motivo basta da solo"
+    },
+    {
+      "fr": "Vous m'apprenez quelque chose !",
+      "it": "È una novità per me!",
+      "note": "reazione alla notizia; lett. mi insegnate qualcosa"
+    },
+    {
+      "fr": "On n'y comprend rien.",
+      "it": "Non ci si capisce niente.",
+      "note": "detto di un film, un discorso o una situazione confusa"
+    },
+    {
+      "fr": "sans doute",
+      "it": "senza dubbio, probabilmente",
+      "note": "più sicuro di peut-être"
+    },
+    {
+      "fr": "au moins",
+      "it": "almeno, per lo meno",
+      "note": "si mette all'inizio o alla fine della frase"
+    },
+    {
+      "fr": "tout le temps",
+      "it": "sempre, di continuo",
+      "note": "usato come in italiano « sempre, di continuo »"
+    },
+    {
+      "fr": "À propos,",
+      "it": "A proposito,",
+      "note": "per introdurre una nuova informazione"
+    },
+    {
+      "fr": "d'origine bretonne",
+      "it": "di origine bretone",
+      "note": "per indicare la provenienza di una parola"
+    }
+  ],
+  "notes_it": [
+    "Comment ça se fait que... ? e tous les deux vanno imparate come blocchi interi: « come mai » e « entrambi » non si costruiscono parola per parola dall'italiano.",
+    "Falso amico: apprendre non è sempre imparare. Con un complemento di persona significa insegnare (je leur apprends le français). Enseigner invece resta sempre insegnare.",
+    "Pronuncia: la cediglia sotto la c (ç) indica il suono s davanti a a, o, u, come in commerçant e reçu. La lingua bretone rimane presente nei nomi di luoghi e nelle parole della lezione, come bara e guin.",
+    "Origine di « baragouiner »: viene dal bretone e indica un modo di parlare incomprensibile, con parole mal pronunciate. Nel francese familiare e scherzoso ha ancora questo senso, più o meno come « parlare arabo » in italiano."
+  ],
+  "exercises": [
+    {
+      "id": "L057-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Quale espressione serve per chiedere « come mai? » con tono colloquiale?",
+      "options": [
+        "Comment ça se fait que... ?",
+        "Comment ça se passe que... ?",
+        "Comment ça va que... ?",
+        "Comment ça se dit que... ?"
+      ],
+      "correct": 0,
+      "explain_it": "Comment ça se fait que... ? chiede una spiegazione; comment ça se passe significa che cosa succede."
+    },
+    {
+      "id": "L057-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "imparfait",
+      "prompt": "Completa la frase: « Nous ___ à Vannes quand nous étions jeunes. »",
+      "options": [
+        "habitions",
+        "habitons",
+        "habiterons",
+        "avons habité"
+      ],
+      "correct": 0,
+      "explain_it": "L'imperfetto si forma dalla radice di nous habitons più -ions: habitions."
+    },
+    {
+      "id": "L057-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "tout",
+      "prompt": "Come si dice « tutti e due » riferito a due uomini?",
+      "options": [
+        "tous les deux",
+        "tout les deux",
+        "toutes les deux",
+        "les tous deux"
+      ],
+      "correct": 0,
+      "explain_it": "Tous è maschile plurale; toutes è femminile plurale, e tout non concorda con deux."
+    },
+    {
+      "id": "L057-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronoun-y",
+      "prompt": "Come si dice « non ci si capisce niente » parlando di un film confuso?",
+      "options": [
+        "On n'y comprend rien.",
+        "On ne comprend rien y.",
+        "On y ne comprend rien.",
+        "On le comprend rien."
+      ],
+      "correct": 0,
+      "explain_it": "Y sostituisce à + cosa e si mette prima del verbo, dopo il ne della negazione."
+    },
+    {
+      "id": "L057-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "false-friends",
+      "prompt": "Nella frase « Je leur apprends le français », il verbo apprendre significa:",
+      "options": [
+        "insegnare",
+        "imparare",
+        "capire",
+        "studiare"
+      ],
+      "correct": 0,
+      "explain_it": "Con un complemento di persona (leur) apprendre significa insegnare, un uso che in italiano non esiste per imparare."
+    },
+    {
+      "id": "L057-e06",
+      "type": "mcq",
+      "level": 1,
+      "concept": "adjective-agreement",
+      "prompt": "Come si scrive al plurale il nome « un Breton » (una persona della Bretagna)?",
+      "options": [
+        "des Bretons",
+        "des bretons",
+        "des Bretonnes",
+        "des Bretonnais"
+      ],
+      "correct": 0,
+      "explain_it": "Quando la nazionalità indica una persona, prende la maiuscola; l'aggettivo invece è minuscolo."
+    },
+    {
+      "id": "L057-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "tout",
+      "prompt": "Noi parliamo entrambi il bretone.",
+      "answers": [
+        "Nous parlons tous les deux le breton.",
+        "Nous parlons le breton tous les deux."
+      ],
+      "distractors": [
+        "toutes"
+      ],
+      "explain_it": "Tous les deux si colloca dopo il verbo o dopo il soggetto, senza preposizioni."
+    },
+    {
+      "id": "L057-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "pronoun-y",
+      "prompt": "In questo film non ci si capisce niente.",
+      "answers": [
+        "Dans ce film, on n'y comprend rien.",
+        "On n'y comprend rien, dans ce film."
+      ],
+      "distractors": [
+        "le"
+      ],
+      "explain_it": "Y rimanda a ce film e va davanti al verbo comprend."
+    },
+    {
+      "id": "L057-e09",
+      "type": "order",
+      "level": 1,
+      "concept": "imparfait",
+      "prompt": "Quando eravamo giovani, lavoravamo molto.",
+      "answers": [
+        "Quand nous étions jeunes, nous travaillions beaucoup."
+      ],
+      "distractors": [
+        "avons"
+      ],
+      "explain_it": "Étions è l'imperfetto irregolare di être; travaillions viene dalla radice di nous travaillons."
+    },
+    {
+      "id": "L057-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "imparfait",
+      "text": "Je ___ au lycée quand ma sœur étudiait à Rennes.",
+      "answers": [
+        "enseignais"
+      ],
+      "hint": "(enseigner, imperfetto)",
+      "prompt": "Insegnavo al liceo quando mia sorella studiava a Rennes.",
+      "explain_it": "Con je l'imperfetto di enseigner è enseignais: la radice viene da nous enseignons."
+    },
+    {
+      "id": "L057-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "pronoun-cod",
+      "text": "Je ne ___ pas, cette chanson.",
+      "answers": [
+        "la connaissais"
+      ],
+      "hint": "(connaître, imperfetto)",
+      "prompt": "Non conoscevo questa canzone.",
+      "explain_it": "Il pronome la sostituisce il complemento diretto femminile e precede il verbo."
+    },
+    {
+      "id": "L057-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "false-friends",
+      "text": "Ma sœur ___ le français au collège.",
+      "answers": [
+        "enseignait"
+      ],
+      "hint": "(enseigner, imperfetto)",
+      "prompt": "Mia sorella insegnava francese alla scuola media.",
+      "explain_it": "Enseigner è sempre insegnare, anche con un complemento di materia."
+    },
+    {
+      "id": "L057-e13",
+      "type": "cloze",
+      "level": 1,
+      "concept": "tout",
+      "text": "Ils parlent ___ les deux le breton.",
+      "answers": [
+        "tous"
+      ],
+      "hint": "(tout, plurale maschile)",
+      "prompt": "Parlano entrambi il bretone.",
+      "explain_it": "Con due persone maschili, la forma è tous les deux."
+    },
+    {
+      "id": "L057-e14",
+      "type": "write",
+      "level": 2,
+      "concept": "imparfait",
+      "prompt": "Io vivevo a Vannes.",
+      "answers": [
+        "Je vivais à Vannes.",
+        "J'habitais à Vannes."
+      ],
+      "explain_it": "Vivre all'imperfetto: je vivais, con l'accento sulla preposizione à."
+    },
+    {
+      "id": "L057-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "imparfait",
+      "prompt": "Pioveva sempre.",
+      "answers": [
+        "Il pleuvait tout le temps.",
+        "Il pleuvait toujours."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Pleuvoir all'imperfetto: il pleuvait; tout le temps e toujours esprimono l'idea di abitudine."
+    },
+    {
+      "id": "L057-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-y",
+      "prompt": "Non ci si capisce niente.",
+      "answers": [
+        "On n'y comprend rien.",
+        "On n'y comprend rien du tout.",
+        "On n'y comprend absolument rien."
+      ],
+      "explain_it": "Il pronome y riprende la situazione o il contenuto di cui si parla."
+    },
+    {
+      "id": "L057-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "Insegno l'inglese ai miei studenti.",
+      "answers": [
+        "J'enseigne l'anglais à mes [étudiants|élèves].",
+        "J'apprends l'anglais à mes [étudiants|élèves]."
+      ],
+      "explain_it": "Enseigner con una materia e un complemento di persona resta insegnare."
+    },
+    {
+      "id": "L057-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "Insegno loro il francese.",
+      "answers": [
+        "Je leur apprends le français.",
+        "Je leur enseigne le français."
+      ],
+      "explain_it": "Con un complemento di persona sia apprendre sia enseigner significano insegnare."
+    },
+    {
+      "id": "L057-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Come mai parli così bene il bretone? (tu)",
+      "answers": [
+        "Comment [ça se fait|se fait-il] que tu parles si bien [le |]breton ?"
+      ],
+      "explain_it": "Comment ça se fait que e Comment se fait-il que sono entrambe corrette per chiedere come mai."
+    },
+    {
+      "id": "L057-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "tout",
+      "prompt": "Entrambi sono bretoni.",
+      "answers": [
+        "Ils sont bretons tous les deux.",
+        "Ils sont tous les deux bretons.",
+        "Les deux sont bretons.",
+        "Tous les deux sont bretons."
+      ],
+      "ask": "Traduci in francese (due uomini)",
+      "explain_it": "Tous les deux si usa per due persone maschili, anche come pronome."
+    },
+    {
+      "id": "L057-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-cod",
+      "prompt": "Non conoscevo questa storia.",
+      "answers": [
+        "Je ne la connaissais pas."
+      ],
+      "ask": "Traduci in francese, usando il pronome al posto di « questa storia »",
+      "explain_it": "Histoire è femminile, quindi il pronome è la e va prima di connaissais."
+    },
+    {
+      "id": "L057-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "È un bretone.",
+      "answers": [
+        "C'est un Breton.",
+        "Il est breton."
+      ],
+      "explain_it": "Come nome la nazionalità è maiuscola; come aggettivo dopo être è minuscola."
+    },
+    {
+      "id": "L057-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "imparfait",
+      "prompt": "Mangiavamo spesso del pane.",
+      "answers": [
+        "Nous mangions souvent du pain.",
+        "On mangeait souvent du pain.",
+        "Nous mangions du pain souvent."
+      ],
+      "explain_it": "Manger all'imperfetto: nous mangions (la e di mangeons cade davanti a -i, resta in je mangeais)."
+    },
+    {
+      "id": "L057-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "imparfait",
+      "prompt": "Un tempo lavoravo a Parigi.",
+      "answers": [
+        "[Autrefois|Avant], je travaillais à Paris.",
+        "Je travaillais à Paris [autrefois|avant]."
+      ],
+      "explain_it": "Autrefois è spesso seguito dall'imperfetto per parlare di abitudini passate."
+    },
+    {
+      "id": "L057-e25",
+      "type": "write",
+      "level": 3,
+      "concept": "imparfait",
+      "prompt": "Quando era giovane, viveva a Parigi.",
+      "answers": [
+        "Quand il était jeune, il [vivait|habitait] à Paris.",
+        "Lorsqu'il était jeune, il [vivait|habitait] à Paris."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Être all'imperfetto è il était; vivre diventa il vivait."
+    },
+    {
+      "id": "L057-e26",
+      "type": "write",
+      "level": 3,
+      "concept": "imparfait",
+      "prompt": "Eravamo obbligati a parlare inglese al lavoro.",
+      "answers": [
+        "[Nous étions|On était] obligés de parler anglais au travail.",
+        "Nous étions obligées de parler anglais au travail.",
+        "Nous devions parler anglais au travail."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Nous étions è l'imperfetto di être, con obligés al maschile plurale (obligées se parlano delle donne)."
+    },
+    {
+      "id": "L057-e27",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-y",
+      "prompt": "Non penso a quella faccenda.",
+      "answers": [
+        "Je n'y pense pas."
+      ],
+      "ask": "Usa il pronome y al posto di « a quella faccenda »",
+      "explain_it": "Y sostituisce à + cosa e si mette davanti a pense, tra ne e pas."
+    },
+    {
+      "id": "L057-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "tout",
+      "prompt": "Quei due ragazzi, entrambi bretoni, parlano sempre il bretone.",
+      "answers": [
+        "Ces deux garçons, tous les deux bretons, parlent [toujours|tout le temps] [le |]breton.",
+        "Ces deux garçons, bretons tous les deux, parlent [toujours|tout le temps] [le |]breton.",
+        "Ces deux garçons, tous les deux bretons, parlent [le |]breton [toujours|tout le temps]."
+      ],
+      "explain_it": "Tous les deux può seguire il nome come apposizione, anche dopo l'aggettivo."
+    },
+    {
+      "id": "L057-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "false-friends",
+      "prompt": "Mio nonno insegnava l'italiano ai nipoti, che lo imparavano con piacere.",
+      "answers": [
+        "Mon grand-père [enseignait|apprenait] l'italien à ses petits-enfants, qui l'apprenaient avec plaisir."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Enseigner resta insegnare (apprendre à qqn lo è pure); apprendre con il pronome l' e senza complemento di persona significa imparare."
+    },
+    {
+      "id": "L057-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "A proposito, il mio amico parlava bretone tutto il tempo.",
+      "answers": [
+        "À propos, mon [ami|copain] parlait [le |]breton [tout le temps|toujours].",
+        "À propos, mon [ami|copain] parlait [tout le temps|toujours] [le |]breton."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "À propos e tout le temps sono espressioni da usare come blocchi, con l'imperfetto per l'abitudine."
+    },
+    {
+      "id": "L057-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "tout",
+      "prompt": "Le due donne erano entrambe bretoni.",
+      "answers": [
+        "Toutes les deux étaient bretonnes.",
+        "Elles étaient toutes les deux bretonnes.",
+        "Elles étaient bretonnes toutes les deux.",
+        "Les deux femmes étaient bretonnes."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Per due donne si usa toutes les deux, con il femminile bretonne."
+    },
+    {
+      "id": "L057-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "imparfait",
+      "prompt": "Ogni giorno pioveva e restavamo in casa.",
+      "answers": [
+        "Il pleuvait [tous les jours|chaque jour] et [nous restions|on restait] [à la maison|chez nous].",
+        "[Tous les jours|Chaque jour], il pleuvait et [nous restions|on restait] [à la maison|chez nous]."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Pleuvoir e rester all'imperfetto esprimono azioni ripetute nel passato."
+    },
+    {
+      "id": "L057-e33",
+      "type": "dictation",
+      "level": 2,
+      "concept": "imparfait",
+      "text": "Autrefois, nous allions souvent à la plage.",
+      "explain_it": "Aller all'imperfetto: nous allions, con la radice all- da nous allons."
+    },
+    {
+      "id": "L057-e34",
+      "type": "dictation",
+      "level": 2,
+      "concept": "tout",
+      "text": "Ils viennent tous les deux.",
+      "explain_it": "Tous les deux in fine di frase indica che entrambi arrivano insieme."
+    },
+    {
+      "id": "L057-e35",
+      "type": "dictation",
+      "level": 3,
+      "concept": "pronoun-y",
+      "text": "Je n'y comprenais rien, mais j'aimais bien la région.",
+      "explain_it": "Y riprende la situazione non capita, e i due verbi sono all'imperfetto."
+    },
+    {
+      "id": "L057-e36",
+      "type": "flash",
+      "level": 2,
+      "concept": "imparfait",
+      "front": "Come si forma l'imperfetto francese?",
+      "back": "Si parte dalla radice della prima persona plurale del presente (nous habitons, radice habit-) e si aggiungono -ais, -ais, -ait, -ions, -iez, -aient. Unica eccezione importante: être, con la radice ét-.",
+      "note": "Esempio: nous mangeons → je mangeais ma nous mangions (la e resta davanti a a, o; cade davanti a i). Così nous commençons → je commençais, nous commencions."
+    },
+    {
+      "id": "L057-e37",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronoun-y",
+      "front": "Quando si usa il pronome y?",
+      "back": "Sostituisce à + un nome di cosa, idea o luogo, non di persona. Je pense à mes vacances diventa J'y pense.",
+      "note": "Per le persone si usano lui, leur, ecc.: Je pense à mes amis → Je pense à eux."
+    },
+    {
+      "id": "L057-e38",
+      "type": "flash",
+      "level": 2,
+      "concept": "false-friends",
+      "front": "Apprendre o enseigner?",
+      "back": "Enseigner significa insegnare (una materia). Apprendre significa imparare, ma con un complemento di persona significa insegnare: je leur apprends le français.",
+      "note": "Attenzione al falso amico: apprendre con persona non è imparare."
+    },
+    {
+      "id": "L057-e39",
+      "type": "flash",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "front": "Nazionalità: maiuscola o minuscola?",
+      "back": "Maiuscola quando indica una persona (un Breton, une Bretonne). Minuscola quando è aggettivo (il est breton) o indica la lingua (parler breton).",
+      "note": "Il genere e il numero dell'aggettivo concordano sempre con il nome."
+    }
+  ]
+}

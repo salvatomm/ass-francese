@@ -1,0 +1,849 @@
+{
+  "n": 98,
+  "title_fr": "Révision",
+  "title_it": "Ripasso",
+  "review": true,
+  "status": "verified",
+  "source": "4a88e539 pdf 44-55 (libro p.609-620); la lezione 98 inizia a pdf 44 (p.609, in basso, sotto l'esercizio 2 della L97) con il titolo 'Quatre-vingt-dix-huitième leçon' e 'Révision'; sezioni di ripasso 1-5 pdf 44-53 (p.609-618); dialogo di revisione pdf 54 (p.619); traduzione pdf 55 (p.620); la lezione 99 inizia a pdf 56 (p.621)",
+  "theme_it": "Driss, giornalista, incontra un collega visibilmente stanco perché sta scrivendo un articolo su una vecchia vicenda: un calciatore scomparso nel 1980. Il collega racconta di aver cercato di intervistare il protagonista senza riuscirci, mentre il suo ex agente ha confermato la storia; il dialogo si chiude con una battuta sul fatto che il più forte è sempre quello che vince.",
+  "grammar": [
+    {
+      "id": "passe-simple",
+      "title_it": "Il passé simple: il passato della narrazione",
+      "explain_it": "Il passé simple è il passato storico: si usa quasi solo nei romanzi e nei testi storici o letterari, non nella conversazione. Per i verbi in -er si toglie -er e si aggiungono -ai, -as, -a, -âmes, -âtes, -èrent; per i verbi in -ir e -re le desinenze sono -is, -is, -it, -îmes, -îtes, -irent. Il significato corrisponde al passato remoto italiano, ma nel parlato i francesi usano il passato prossimo. Alcuni verbi molto frequenti sono irregolari: être (je fus, il fut, nous fûmes), avoir (j'eus, il eut, nous eûmes), faire (je fis, il fit, nous fîmes). Nei testi narrativi il passé simple indica un'azione conclusa e puntuale, l'imparfait una durata, un'abitudine o uno sfondo.",
+      "examples": [
+        {
+          "fr": "Il ferma la porte et sortit.",
+          "it": "Chiuse la porta e uscì."
+        },
+        {
+          "fr": "Nous finîmes le travail à minuit.",
+          "it": "Finimmo il lavoro a mezzanotte."
+        }
+      ]
+    },
+    {
+      "id": "vocab",
+      "title_it": "Prefissi e suffissi: come si formano le parole",
+      "explain_it": "Il francese forma molte parole aggiungendo un prefisso o un suffisso a una base, come l'italiano. I prefissi a-, im-/in- indicano negazione (moral → amoral, mobile → immobile); dé-/dés- indica il contrario (boucher → déboucher); em-/en- indica l'entrare in uno stato (ménage → emménager, dette → endetter); mé- ha valore negativo (se fier → se méfier); sous- e super- indicano 'sotto' e 'sopra' (payer → sous-payer, poser → superposer); re- indica la ripetizione (renouveler). Tra i suffissi, -ateur/-atrice e -ier/-ière formano nomi di mestiere (présenter → présentateur, présentatrice; boulanger → boulangère), -erie indica il negozio (boucher → boucherie), -esse forma sostantivi astratti femminili (gentil → gentillesse). Attenzione alla grafia: a volte la consonante si raddoppia (a + léger → alléger). Non tutte le parole sono prevedibili, quindi conviene verificare nel dizionario.",
+      "examples": [
+        {
+          "fr": "Ils ont sous-payé les ouvriers.",
+          "it": "Hanno pagato troppo poco gli operai."
+        },
+        {
+          "fr": "Il faut renouveler son passeport.",
+          "it": "Bisogna rinnovare il passaporto."
+        }
+      ]
+    },
+    {
+      "id": "conditionnel",
+      "title_it": "Il condizionale passato",
+      "explain_it": "Il condizionale passato si forma con il condizionale presente di avoir o être più il participio passato: j'aurais acheté, je serais venu(e). Si usa con être come con avoir, quindi il participio concorda con il soggetto quando l'ausiliare è être (je serais venue, se parla di una donna). Nei periodi ipotetici con si, il verbo dopo si è al trapassato prossimo e la frase principale al condizionale passato: Si tu m'avais invité, je serais venu. Il condizionale passato serve anche per riportare notizie non confermate: L'accident aurait fait deux morts (l'incidente avrebbe causato due morti). Come in italiano, la forma negativa e quella interrogativa seguono le regole normali.",
+      "examples": [
+        {
+          "fr": "J'aurais aimé venir.",
+          "it": "Avrei voluto venire."
+        },
+        {
+          "fr": "Aurais-tu oublié quelque chose ?",
+          "it": "Avresti dimenticato qualcosa?"
+        }
+      ]
+    },
+    {
+      "id": "gender",
+      "title_it": "Gli aggettivi di provenienza (i gentilé)",
+      "explain_it": "I gentilé indicano la nazionalità o la provenienza e come aggettivi concordano con il sostantivo in genere e numero. Come aggettivi si scrivono con la minuscola (un vin italien, une femme anglaise). Il femminile segue alcune regole: -ain/-aine (américain, américaine), -ais/-aise (anglais, anglaise), -ois/-oise (chinois, chinoise), -ien/-ienne (italien, italienne), -on/-onne (breton, bretonne). Le eccezioni sono numerose: per il Regno Unito si usa britannique, Monaco dà monégasque, Chypre dà chypriote. Quando il gentilé è un sostantivo si scrive con la maiuscola: un Français, une Italienne.",
+      "examples": [
+        {
+          "fr": "Elle est suédoise.",
+          "it": "Lei è svedese."
+        },
+        {
+          "fr": "Un restaurant chinois.",
+          "it": "Un ristorante cinese."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Espressioni prese dallo sport",
+      "explain_it": "Molte espressioni francesi vengono dallo sport: ciclismo, vela, rugby, boxe, ippica, tiro con l'arco, gioco del Mikado. Il significato complessivo non è quasi mai la somma delle singole parole: avoir le nez dans le guidon vuol dire essere totalmente immersi in quello che si fa, jeter l'éponge significa arrendersi, mettre dans le mille significa fare centro. Alcune hanno un equivalente italiano quasi identico (jeter l'éponge / gettare la spugna), altre vanno tradotte con un'espressione diversa. Conviene impararle come blocchi.",
+      "examples": [
+        {
+          "fr": "Il a jeté l'éponge après le troisième round.",
+          "it": "Ha gettato la spugna dopo il terzo round."
+        },
+        {
+          "fr": "Il a mis dans le mille.",
+          "it": "Ha fatto centro."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "faramineux / faramineuse",
+      "it": "enorme, esorbitante",
+      "pos": "adj"
+    },
+    {
+      "fr": "une interview",
+      "it": "un'intervista",
+      "pos": "n"
+    },
+    {
+      "fr": "texter",
+      "it": "mandare un SMS",
+      "pos": "v"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "défrayer la chronique",
+      "it": "far parlare di sé sui giornali",
+      "note": "si dice di un fatto che fa scalpore"
+    },
+    {
+      "fr": "faire couler beaucoup d'encre",
+      "it": "far parlare molto di sé",
+      "note": "tono giornalistico"
+    },
+    {
+      "fr": "disparaître dans la nature",
+      "it": "sparire nel nulla",
+      "note": "per una persona scomparsa senza lasciare tracce"
+    },
+    {
+      "fr": "avoir le nez dans le guidon",
+      "it": "avere la testa china sul lavoro",
+      "note": "essere totalmente immersi in quello che si fa"
+    },
+    {
+      "fr": "botter en touche",
+      "it": "eludere la domanda",
+      "note": "dal rugby; registro familiare"
+    },
+    {
+      "fr": "mettre dans le mille",
+      "it": "fare centro",
+      "note": "dal tiro al bersaglio; anche En plein dans le mille !"
+    },
+    {
+      "fr": "tirer son épingle du jeu",
+      "it": "cavarsela, uscirne bene",
+      "note": "dal gioco del Mikado"
+    },
+    {
+      "fr": "encaisser les coups",
+      "it": "incassare i colpi, reggere la botta",
+      "note": "anche in senso figurato"
+    }
+  ],
+  "notes_it": [
+    "Il passé simple è un tempo quasi solo scritto: nel francese parlato si usa il passato prossimo, mentre nei testi contemporanei si usa spesso il présent historique. Per la lettura di romanzi, però, è utile saperlo riconoscere.",
+    "Prefissi e ortografia: davanti a m, b, p il prefisso in- diventa im- (immobile, impossible); davanti a n il prefisso si raddoppia (in + nombrable → innombrable). Anche sous-payer si scrive con il trattino, a differenza di 'sottopagare'.",
+    "Con i gentilé attenzione alla maiuscola: come aggettivi vanno in minuscolo (un vin italien), come sostantivi in maiuscolo (un Italien). Ricorda le eccezioni: monégasque, chypriote, britannique.",
+    "Le espressioni dello sport sono quasi tutte idiomatiche: non vanno tradotte parola per parola. Per esempio coiffer au poteau significa vincere per un soffio, e tirer son épingle du jeu significa cavarsela."
+  ],
+  "exercises": [
+    {
+      "id": "L098-e01",
+      "type": "flash",
+      "level": 2,
+      "concept": "passe-simple",
+      "front": "Passé simple dei verbi in -er: come si forma?",
+      "back": "Si toglie -er e si aggiungono -ai, -as, -a, -âmes, -âtes, -èrent: je parlai, nous parlâmes, ils parlèrent.",
+      "note": "Il passé simple è un tempo quasi solo scritto e letterario.",
+      "explain_it": "È la regola di base: la stessa terminazione con la vocale accentata nelle forme di noi e voi."
+    },
+    {
+      "id": "L098-e02",
+      "type": "flash",
+      "level": 2,
+      "concept": "passe-simple",
+      "front": "Passé simple di être, avoir e faire: le forme di je e nous",
+      "back": "être: je fus, nous fûmes; avoir: j'eus, nous eûmes; faire: je fis, nous fîmes.",
+      "explain_it": "Sono forme irregolari molto frequenti nei testi narrativi, quindi vanno memorizzate."
+    },
+    {
+      "id": "L098-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "passe-simple",
+      "prompt": "Qual è il passé simple di 'finir' alla terza persona singolare?",
+      "options": [
+        "il finit",
+        "il finissait",
+        "il a fini",
+        "il finira"
+      ],
+      "correct": 0,
+      "explain_it": "Nei verbi in -ir il passé simple alla terza persona singolare termina in -it: il finit."
+    },
+    {
+      "id": "L098-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "passe-simple",
+      "prompt": "Quale forma è il passé simple per 'lui chiuse' (verbo fermer)?",
+      "options": [
+        "il ferma",
+        "il a fermé",
+        "il fermait",
+        "il fermera"
+      ],
+      "correct": 0,
+      "explain_it": "Nei verbi in -er la terza persona singolare del passé simple termina in -a: il ferma."
+    },
+    {
+      "id": "L098-e05",
+      "type": "cloze",
+      "level": 1,
+      "concept": "passe-simple",
+      "text": "Ce soir-là, nous ___ le travail avant minuit.",
+      "answers": [
+        "finîmes"
+      ],
+      "hint": "(finir, passé simple, nous)",
+      "prompt": "Quella sera finimmo il lavoro prima di mezzanotte.",
+      "explain_it": "Con nous il passé simple di finir è finîmes, con l'accento circonflesso sulla i."
+    },
+    {
+      "id": "L098-e06",
+      "type": "cloze",
+      "level": 2,
+      "concept": "passe-simple",
+      "text": "Le train ___ en gare à huit heures.",
+      "answers": [
+        "arriva"
+      ],
+      "hint": "(arriver, passé simple, 3ª persona singolare)",
+      "prompt": "Il treno arrivò in stazione alle otto.",
+      "explain_it": "I verbi in -er alla terza persona singolare del passé simple finiscono in -a."
+    },
+    {
+      "id": "L098-e07",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-simple",
+      "prompt": "Lui scese le scale in silenzio.",
+      "ask": "Traduci in francese al passé simple",
+      "answers": [
+        "Il descendit [l'escalier|les escaliers] [en silence|silencieusement|sans bruit]."
+      ],
+      "explain_it": "Descendre è un verbo in -re: alla terza persona singolare il passé simple è descendit, con la stessa desinenza dei verbi in -ir."
+    },
+    {
+      "id": "L098-e08",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-simple",
+      "prompt": "Abbiamo finito il progetto e poi abbiamo fatto una pausa.",
+      "ask": "Traduci in francese al passé simple",
+      "answers": [
+        "Nous finîmes le projet [et |]puis [nous |]fîmes une pause.",
+        "Nous finîmes le projet et [nous |]fîmes une pause."
+      ],
+      "explain_it": "Finir e faire alla prima persona plurale: finîmes e fîmes, entrambi con circonflesso."
+    },
+    {
+      "id": "L098-e09",
+      "type": "dictation",
+      "level": 2,
+      "concept": "passe-simple",
+      "text": "Ils descendirent du train en riant.",
+      "explain_it": "La terza persona plurale di descendre al passé simple è descendirent, con -irent finale."
+    },
+    {
+      "id": "L098-e10",
+      "type": "order",
+      "level": 1,
+      "concept": "passe-simple",
+      "prompt": "Lei fece una torta per il compleanno (passé simple).",
+      "answers": [
+        "Elle fit un gâteau pour [l'anniversaire|son anniversaire]."
+      ],
+      "distractors": [
+        "fait",
+        "faisait"
+      ],
+      "explain_it": "Faire al passé simple alla terza persona singolare è fit, non fait (presente, passato prossimo) né faisait (imparfait)."
+    },
+    {
+      "id": "L098-e11",
+      "type": "flash",
+      "level": 2,
+      "concept": "passe-simple",
+      "front": "Quando si usa il passé simple invece dell'imparfait?",
+      "back": "Per un'azione puntuale e conclusa: Il ferma la porte et sortit. L'imparfait invece indica durata, abitudine o sfondo: Il pleuvait depuis des heures.",
+      "explain_it": "Il passé simple fa avanzare la narrazione; l'imparfait la descrive."
+    },
+    {
+      "id": "L098-e12",
+      "type": "mcq",
+      "level": 3,
+      "concept": "passe-simple",
+      "prompt": "In un racconto scritto, quale frase esprime correttamente 'scese e ebbe paura'?",
+      "options": [
+        "Il descendit et eut peur.",
+        "Il descendit et il a eu peur.",
+        "Il descend et eut peur.",
+        "Il descendait et eut peur."
+      ],
+      "correct": 0,
+      "explain_it": "Nella narrazione scritta le azioni in sequenza si esprimono al passé simple: descendit ed eut."
+    },
+    {
+      "id": "L098-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "passe-simple",
+      "text": "Le roi ___ un grand banquet pour ses sujets.",
+      "answers": [
+        "donna"
+      ],
+      "hint": "(donner, passé simple, 3ª persona singolare)",
+      "prompt": "Il re diede un grande banchetto per i suoi sudditi.",
+      "explain_it": "Donner è un verbo in -er: al passé simple, terza persona singolare, termina in -a (donna)."
+    },
+    {
+      "id": "L098-e14",
+      "type": "mcq",
+      "level": 1,
+      "concept": "vocab",
+      "prompt": "Quale parola significa 'immobile' (base mobile con prefisso negativo)?",
+      "options": [
+        "immobile",
+        "mobilité",
+        "démobile",
+        "remobile"
+      ],
+      "correct": 0,
+      "explain_it": "Il prefisso im- indica la negazione: mobile diventa immobile."
+    },
+    {
+      "id": "L098-e15",
+      "type": "mcq",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Quale verbo significa 'diffidare' (base fier con prefisso negativo)?",
+      "options": [
+        "se méfier",
+        "se refier",
+        "se fier",
+        "s'affier"
+      ],
+      "correct": 0,
+      "explain_it": "Il prefisso mé- ha valore negativo: se fier (fidarsi) diventa se méfier (diffidare)."
+    },
+    {
+      "id": "L098-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Il faut se ___ des arnaques.",
+      "answers": [
+        "méfier"
+      ],
+      "hint": "(verbo: diffidare, prefisso negativo)",
+      "prompt": "Bisogna diffidare delle truffe.",
+      "explain_it": "Se méfier de significa diffidare di; il verbo è pronominale, quindi ha bisogno di se."
+    },
+    {
+      "id": "L098-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Bisogna rinnovare il contratto.",
+      "ask": "Traduci in francese (usa renouveler)",
+      "answers": [
+        "Il faut renouveler [le|son] contrat"
+      ],
+      "explain_it": "Renouveler è formato da re- (di nuovo) e dalla radice di nouveau: rinnovare, rifare di nuovo."
+    },
+    {
+      "id": "L098-e18",
+      "type": "write",
+      "level": 3,
+      "concept": "vocab",
+      "prompt": "Hanno pagato troppo poco gli operai.",
+      "ask": "Traduci in francese al passato prossimo, usando sous-payer",
+      "answers": [
+        "[Ils ont|On a] sous-payé les ouvriers."
+      ],
+      "explain_it": "Il prefisso sous- indica 'sotto' e qui significa pagare meno del dovuto: sous-payer."
+    },
+    {
+      "id": "L098-e19",
+      "type": "cloze",
+      "level": 1,
+      "concept": "vocab",
+      "text": "La ___ est ouverte le lundi.",
+      "answers": [
+        "boucherie"
+      ],
+      "hint": "(negozio del macellaio, suffisso -erie)",
+      "prompt": "La macelleria è aperta il lunedì.",
+      "explain_it": "Il suffisso -erie indica il negozio: boucher diventa boucherie."
+    },
+    {
+      "id": "L098-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "La panettiera lavora presto la mattina.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "La boulangère travaille [tôt|de bonne heure][ le matin|]."
+      ],
+      "explain_it": "Boulanger ha il femminile in -ère: boulangère, la panettiera."
+    },
+    {
+      "id": "L098-e21",
+      "type": "flash",
+      "level": 2,
+      "concept": "vocab",
+      "front": "Il suffisso -esse: che cosa forma?",
+      "back": "Sostantivi astratti femminili derivati da aggettivi: gentil → gentillesse, riche → richesse. Attenzione: la grossesse è la gravidanza, non la 'grossezza'.",
+      "explain_it": "Il suffisso -esse indica la qualità espressa dall'aggettivo, come -ezza in italiano."
+    },
+    {
+      "id": "L098-e22",
+      "type": "mcq",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Che cosa significa 'une somme faramineuse'?",
+      "options": [
+        "una somma enorme, esorbitante",
+        "una somma ridicola",
+        "una somma in ritardo",
+        "una somma falsa"
+      ],
+      "correct": 0,
+      "explain_it": "Faramineux significa enorme o esorbitante e si usa soprattutto per somme di denaro o cifre."
+    },
+    {
+      "id": "L098-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Ho rilasciato un'intervista al giornale.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "J'ai donné une interview au journal",
+        "J'ai accordé une interview au journal"
+      ],
+      "explain_it": "Interview è femminile e si scrive come in italiano. Si dice donner o accorder une interview."
+    },
+    {
+      "id": "L098-e24",
+      "type": "mcq",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Come si dice in francese 'mandare un SMS'?",
+      "options": [
+        "texter",
+        "tester",
+        "textiler",
+        "tacter"
+      ],
+      "correct": 0,
+      "explain_it": "Texter è il verbo per mandare un SMS (da texto, SMS in francese del Québec); tester significa provare, testare."
+    },
+    {
+      "id": "L098-e25",
+      "type": "mcq",
+      "level": 1,
+      "concept": "gender",
+      "prompt": "Come si dice 'la francese' (femminile di français)?",
+      "options": [
+        "française",
+        "françaisse",
+        "françoise",
+        "francaise"
+      ],
+      "correct": 0,
+      "explain_it": "Il femminile di français è française, con la cediglia e una sola s."
+    },
+    {
+      "id": "L098-e26",
+      "type": "mcq",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "Qual è il femminile di 'canadien'?",
+      "options": [
+        "canadienne",
+        "canadiène",
+        "canadiennne",
+        "canadiene"
+      ],
+      "correct": 0,
+      "explain_it": "Gli aggettivi in -ien fanno il femminile in -ienne: canadienne."
+    },
+    {
+      "id": "L098-e27",
+      "type": "cloze",
+      "level": 2,
+      "concept": "gender",
+      "text": "Elle est ___, mais elle vit à Paris.",
+      "answers": [
+        "italienne"
+      ],
+      "hint": "(gentilé femminile, dall'Italia)",
+      "prompt": "Lei è italiana, ma vive a Parigi.",
+      "explain_it": "Italien diventa italienne: il suffisso -ien fa -ienne al femminile."
+    },
+    {
+      "id": "L098-e28",
+      "type": "write",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "Lui è messicano.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Il est mexicain"
+      ],
+      "explain_it": "Mexicain è maschile singolare; in francese il gentilé è minuscolo quando è un aggettivo."
+    },
+    {
+      "id": "L098-e29",
+      "type": "write",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "Lei è inglese.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Elle est anglaise"
+      ],
+      "explain_it": "Anglais diventa anglaise: il suffisso -ais fa -aise al femminile."
+    },
+    {
+      "id": "L098-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "gender",
+      "prompt": "Hanno una casa a Lisbona: il loro figlio è portoghese.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Ils ont une maison à Lisbonne[ et|] leur fils est portugais."
+      ],
+      "explain_it": "Portugais si accorda con il sostantivo fils, maschile singolare. Il gentilé è minuscolo."
+    },
+    {
+      "id": "L098-e31",
+      "type": "flash",
+      "level": 2,
+      "concept": "gender",
+      "front": "I gentilé si scrivono con la maiuscola in francese?",
+      "back": "No, come aggettivi: un vin italien, une femme anglaise. Con la maiuscola solo quando sono sostantivi: un Français, une Italienne.",
+      "note": "Concordano con il sostantivo in genere e numero.",
+      "explain_it": "Come aggettivi i gentilé hanno la minuscola; con la maiuscola solo quando sono sostantivi."
+    },
+    {
+      "id": "L098-e32",
+      "type": "mcq",
+      "level": 3,
+      "concept": "gender",
+      "prompt": "Quale gentilé è corretto per 'Monaco'?",
+      "options": [
+        "monégasque",
+        "monacais",
+        "monacien",
+        "monacaise"
+      ],
+      "correct": 0,
+      "explain_it": "Monaco fa monégasque: è un'eccezione che non segue i suffissi regolari."
+    },
+    {
+      "id": "L098-e33",
+      "type": "cloze",
+      "level": 3,
+      "concept": "gender",
+      "text": "Ses deux amis sont ___, ils viennent de Sydney.",
+      "answers": [
+        "australiens"
+      ],
+      "hint": "(gentilé maschile plurale, dall'Australia)",
+      "prompt": "I suoi due amici sono australiani, vengono da Sydney.",
+      "explain_it": "Australien è un gentilé in -ien: il maschile plurale è australiens."
+    },
+    {
+      "id": "L098-e34",
+      "type": "mcq",
+      "level": 1,
+      "concept": "conditionnel",
+      "prompt": "Come si dice 'avrei comprato' con acheter alla prima persona singolare?",
+      "options": [
+        "j'aurais acheté",
+        "j'aurais achetais",
+        "j'avais acheté",
+        "je serais acheté"
+      ],
+      "correct": 0,
+      "explain_it": "Il condizionale passato di acheter si forma con avoir al condizionale presente più il participio: j'aurais acheté."
+    },
+    {
+      "id": "L098-e35",
+      "type": "mcq",
+      "level": 2,
+      "concept": "conditionnel",
+      "prompt": "Come si dice 'sarei venuta' (parla una donna)?",
+      "options": [
+        "je serais venue",
+        "je serais venu",
+        "je suis venue",
+        "je serais venus"
+      ],
+      "correct": 0,
+      "explain_it": "Con être il participio concorda con il soggetto: venue al femminile singolare."
+    },
+    {
+      "id": "L098-e36",
+      "type": "cloze",
+      "level": 1,
+      "concept": "conditionnel",
+      "text": "Ils ___ venus si on les avait invités.",
+      "answers": [
+        "seraient"
+      ],
+      "hint": "(être, condizionale presente, 3ª persona plurale)",
+      "prompt": "Sarebbero venuti se li avessimo invitati.",
+      "explain_it": "Il condizionale passato usa il condizionale presente dell'ausiliare: seraient venus."
+    },
+    {
+      "id": "L098-e37",
+      "type": "cloze",
+      "level": 2,
+      "concept": "conditionnel",
+      "text": "Nous ___ acheté une voiture si nous avions eu l'argent.",
+      "answers": [
+        "aurions"
+      ],
+      "hint": "(avoir, condizionale presente, 1ª persona plurale)",
+      "prompt": "Avremmo comprato un'auto se avessimo avuto i soldi.",
+      "explain_it": "Nel periodo ipotetico con si il verbo della principale è al condizionale passato: aurions acheté."
+    },
+    {
+      "id": "L098-e38",
+      "type": "write",
+      "level": 2,
+      "concept": "conditionnel",
+      "prompt": "Avrei dovuto dirlo prima.",
+      "ask": "Traduci in francese con il condizionale passato",
+      "answers": [
+        "J'aurais dû le dire plus tôt",
+        "J'aurais dû le dire avant"
+      ],
+      "explain_it": "Devoir al condizionale passato è aurais dû, con dû al participio (accento circonflesso)."
+    },
+    {
+      "id": "L098-e39",
+      "type": "write",
+      "level": 3,
+      "concept": "conditionnel",
+      "prompt": "Avresti potuto chiamarmi?",
+      "ask": "Traduci in francese con il condizionale passato, forma tu",
+      "answers": [
+        "Aurais-tu pu m'appeler ?",
+        "Aurais-tu pu me téléphoner ?",
+        "Tu aurais pu m'appeler ?",
+        "Tu aurais pu me téléphoner ?"
+      ],
+      "explain_it": "Nella forma interrogativa con inversione il soggetto tu si lega all'ausiliare con un trattino: aurais-tu pu."
+    },
+    {
+      "id": "L098-e40",
+      "type": "write",
+      "level": 3,
+      "concept": "conditionnel",
+      "prompt": "Secondo le notizie, l'incidente avrebbe causato due morti.",
+      "ask": "Traduci in francese con il condizionale passato, valore di notizia non confermata",
+      "answers": [
+        "[Selon|D'après] les [informations|infos|médias], l'accident aurait [fait|causé] deux morts.",
+        "L'accident aurait [fait|causé] deux morts."
+      ],
+      "explain_it": "Il condizionale passato riporta un'informazione non ancora confermata, come in italiano."
+    },
+    {
+      "id": "L098-e41",
+      "type": "dictation",
+      "level": 2,
+      "concept": "conditionnel",
+      "text": "Je serais venue tout de suite.",
+      "explain_it": "Con être il participio concorda con il soggetto: venue, al femminile singolare."
+    },
+    {
+      "id": "L098-e42",
+      "type": "flash",
+      "level": 2,
+      "concept": "conditionnel",
+      "front": "Come si forma il condizionale passato?",
+      "back": "Condizionale presente di avoir o être + participio passato: j'aurais acheté, je serais venu(e), il serait parti.",
+      "explain_it": "Con être il participio concorda con il soggetto, come nel passato prossimo."
+    },
+    {
+      "id": "L098-e43",
+      "type": "write",
+      "level": 3,
+      "concept": "si-clauses",
+      "prompt": "Se me l'avessi detto, non sarei venuto.",
+      "ask": "Traduci in francese (tu, periodo ipotetico al passato)",
+      "answers": [
+        "Si tu me l'avais dit, je ne serais pas [venu|venue]."
+      ],
+      "explain_it": "Dopo si va il trapassato prossimo (avais dit), nella principale il condizionale passato con la negazione ne ... pas."
+    },
+    {
+      "id": "L098-e44",
+      "type": "mcq",
+      "level": 3,
+      "concept": "si-clauses",
+      "prompt": "Quale frase è corretta in un periodo ipotetico al passato?",
+      "options": [
+        "Si tu m'avais invité, je serais venu.",
+        "Si tu m'aurais invité, je serais venu.",
+        "Si tu m'as invité, je serais venu.",
+        "Si tu m'invitais, je serais venu."
+      ],
+      "correct": 0,
+      "explain_it": "Dopo si va il trapassato prossimo (avais invité) e nella principale il condizionale passato (serais venu)."
+    },
+    {
+      "id": "L098-e45",
+      "type": "cloze",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "text": "Hier, nous ___ une voiture neuve.",
+      "answers": [
+        "avons acheté"
+      ],
+      "hint": "(acheter, passato prossimo)",
+      "prompt": "Ieri abbiamo comprato un'auto nuova.",
+      "explain_it": "Il passato prossimo di acheter con avoir: nous avons acheté."
+    },
+    {
+      "id": "L098-e46",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Che cosa significa 'jeter l'éponge'?",
+      "options": [
+        "gettare la spugna, arrendersi",
+        "lavare i piatti",
+        "pulire il tavolo",
+        "buttare via tutto"
+      ],
+      "correct": 0,
+      "explain_it": "Dal pugilato: gettare la spugna significa arrendersi, come in italiano."
+    },
+    {
+      "id": "L098-e47",
+      "type": "mcq",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Quale espressione significa 'essere completamente immersi in quello che si fa'?",
+      "options": [
+        "avoir le nez dans le guidon",
+        "avoir le vent en poupe",
+        "avoir les pieds sur terre",
+        "avoir la tête dans les nuages"
+      ],
+      "correct": 0,
+      "explain_it": "Dal ciclismo: avoir le nez dans le guidon significa avere il naso sul manubrio, tutti concentrati sulla strada."
+    },
+    {
+      "id": "L098-e48",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Cette affaire a ___ beaucoup d'encre.",
+      "answers": [
+        "fait couler"
+      ],
+      "hint": "(faire, passato prossimo, poi couler)",
+      "prompt": "Questo caso ha fatto parlare molto di sé.",
+      "explain_it": "Faire couler beaucoup d'encre significa far parlare molto di sé sui giornali; il verbo è al passato prossimo."
+    },
+    {
+      "id": "L098-e49",
+      "type": "cloze",
+      "level": 3,
+      "concept": "idioms",
+      "text": "Le boxeur a bien ___ les coups.",
+      "answers": [
+        "encaissé"
+      ],
+      "hint": "(encaisser, participio passato)",
+      "prompt": "Il pugile ha incassato bene i colpi.",
+      "explain_it": "Encaisser les coups significa incassare i colpi, anche in senso figurato; il participio è encaissé."
+    },
+    {
+      "id": "L098-e50",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Se l'è cavata bene in quella situazione.",
+      "ask": "Traduci in francese con un'espressione idiomatica",
+      "answers": [
+        "Il a tiré son épingle du jeu.",
+        "Il a su tirer son épingle du jeu.",
+        "Elle a tiré son épingle du jeu."
+      ],
+      "explain_it": "Tirer son épingle du jeu significa cavarsela, uscire bene da una situazione difficile."
+    },
+    {
+      "id": "L098-e51",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Ha vinto per un soffio sul suo avversario.",
+      "ask": "Traduci in francese con coiffer au poteau, al passato prossimo",
+      "answers": [
+        "[Il|Elle] a coiffé [son adversaire|son rival|son concurrent] au poteau."
+      ],
+      "explain_it": "Coiffer au poteau è un'espressione dell'ippica: vincere per un soffio, all'ultimo momento."
+    },
+    {
+      "id": "L098-e52",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Hai fatto centro con la tua risposta!",
+      "ask": "Traduci in francese, forma tu, con mettre dans le mille",
+      "answers": [
+        "Tu as mis dans le mille avec ta réponse !",
+        "Tu as mis en plein dans le mille avec ta réponse !",
+        "Tu as tapé en plein dans le mille avec ta réponse !"
+      ],
+      "explain_it": "Mettre dans le mille significa fare centro; al passato prossimo con avoir il participio è mis."
+    },
+    {
+      "id": "L098-e53",
+      "type": "mcq",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Quale espressione significa 'eludere una domanda' (metafora del rugby)?",
+      "options": [
+        "botter en touche",
+        "toucher au but",
+        "tirer au flanc",
+        "reculer pour mieux sauter"
+      ],
+      "correct": 0,
+      "explain_it": "Botter en touche significa calciare la palla fuori campo, quindi evitare il problema."
+    },
+    {
+      "id": "L098-e54",
+      "type": "flash",
+      "level": 2,
+      "concept": "idioms",
+      "front": "Che cosa significa avoir le vent en poupe?",
+      "back": "Essere in un periodo molto favorevole, avere fortuna (dalla vela: avere il vento in poppa).",
+      "note": "Il verbo avoir qui è usato in senso figurato.",
+      "explain_it": "È un'espressione dalla vela: il vento in poppa spinge la barca, come la fortuna spinge chi ne ha."
+    }
+  ]
+}

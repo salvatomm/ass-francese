@@ -1,0 +1,1038 @@
+{
+  "n": 48,
+  "title_fr": "Ça ne me dit rien",
+  "title_it": "Non mi va proprio",
+  "review": false,
+  "status": "verified",
+  "source": "1db59936 p58-63",
+  "theme_it": "Un gruppo di amici organizza un picnic nella foresta di Fontainebleau, ma una persona non ha voglia: sedersi per terra, mangiare male e avere insetti tra i piedi non le piace. Alla fine arriva la pioggia e il picnic salta.",
+  "grammar": [
+    {
+      "id": "idioms",
+      "title_it": "Ça ne me dit rien: il verbo dire in senso idiomatico",
+      "explain_it": "Con il verbo dire e un pronome (me, te, lui...) si esprime se una cosa attira: Ça te dit de venir ? significa 'ti va di venire?'. Nella forma negativa Ça ne me dit rien vale 'non mi va per niente, non mi attira' (ma può anche voler dire 'non mi ricorda niente'). Attenzione: Ça me dit quelque chose significa invece 'mi ricorda qualcosa'. Si può aggiungere de + infinito per indicare l'attività: Ça ne me dit rien de sortir.",
+      "examples": [
+        {
+          "fr": "Ça ne me dit rien.",
+          "it": "Non mi va per niente."
+        },
+        {
+          "fr": "Ça te dit de venir ?",
+          "it": "Ti va di venire?"
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Avoir chaud, faire chaud: persone e tempo",
+      "explain_it": "Per dire come si sente una persona si usa avoir: avoir chaud, avoir froid. Per descrivere il tempo atmosferico si usa faire: il fait chaud, il fait froid. È la stessa logica dell'italiano (avere caldo / fa caldo), quindi è facile da ricordare; attenzione solo a non dire 'je suis froid' o 'il est chaud' per le sensazioni.",
+      "examples": [
+        {
+          "fr": "J'ai froid, mets ton manteau !",
+          "it": "Ho freddo, metti il cappotto!"
+        },
+        {
+          "fr": "Il fait très chaud aujourd'hui.",
+          "it": "Oggi fa molto caldo."
+        }
+      ]
+    },
+    {
+      "id": "adverbs",
+      "title_it": "Mal e mauvais: avverbio e aggettivo",
+      "explain_it": "Mal è l'avverbio di 'male', opposto di bien; si mette dopo il verbo: on mange mal, elle chante mal. Mauvais è l'aggettivo (cattivo) e concorda con il nome: une mauvaise idée. Chi parla italiano è tentato di usare 'mauvais' con il verbo, ma in quel caso serve l'avverbio. Attenzione anche a avoir mal (avere male), che usa mal come nome.",
+      "examples": [
+        {
+          "fr": "Il mange mal quand il fait chaud.",
+          "it": "Mangia male quando fa caldo."
+        },
+        {
+          "fr": "C'est une mauvaise idée.",
+          "it": "È una cattiva idea."
+        }
+      ]
+    },
+    {
+      "id": "adjective-agreement",
+      "title_it": "Aggettivo con i nomi composti (salade de fruits)",
+      "explain_it": "Nella locuzione 'salade de fruits' il nome principale è salade, non fruits. L'aggettivo concorda quindi con salade (femminile singolare) e non con il complemento fruits. Lo stesso vale per i nomi composti di questo tipo: il genere e il numero seguono il primo nome.",
+      "examples": [
+        {
+          "fr": "Cette salade de fruits est délicieuse.",
+          "it": "Questa macedonia è deliziosa."
+        },
+        {
+          "fr": "Ces salades de riz sont dégoûtantes.",
+          "it": "Queste insalate di riso sono disgustose."
+        }
+      ]
+    },
+    {
+      "id": "prepositions",
+      "title_it": "En e à: materiale, forma e scopo",
+      "explain_it": "La preposizione en si usa per indicare il materiale di un oggetto: une assiette en carton (un piatto di cartone). La preposizione à si usa nei nomi composti per indicare lo scopo dell'oggetto: un panier à pique-nique (un cestino da picnic), un verre à vin (un bicchiere da vino), un sac à dos (uno zaino). Con i nomi composti in italiano si usa spesso 'da' o 'di', in francese à o en a seconda del senso.",
+      "examples": [
+        {
+          "fr": "Des couverts en métal.",
+          "it": "Posate di metallo."
+        },
+        {
+          "fr": "Un sac à dos pour la randonnée.",
+          "it": "Uno zaino per l'escursione."
+        }
+      ]
+    },
+    {
+      "id": "articles-indefinite",
+      "title_it": "Des diventa de davanti a un aggettivo plurale",
+      "explain_it": "Davanti a un aggettivo plurale che precede il nome, l'articolo indeterminato plurale des si trasforma in de (o d' davanti a vocale): de bons produits, de beaux arbres. Se invece l'aggettivo segue il nome, des resta: des produits frais. In italiano la regola non esiste in questa forma, quindi va memorizzata come una variante.",
+      "examples": [
+        {
+          "fr": "Nous achetons de bons produits.",
+          "it": "Compriamo dei buoni prodotti."
+        },
+        {
+          "fr": "Ce sont des produits frais.",
+          "it": "Sono dei prodotti freschi."
+        }
+      ]
+    },
+    {
+      "id": "demonstratives",
+      "title_it": "Ceci e cela (questo, quello)",
+      "explain_it": "Ceci indica qualcosa di vicino o che sta per essere mostrato o detto: Regarde ceci ! (guarda questo!). Cela indica qualcosa di già menzionato, come 'quello' o 'ciò'. Nel parlato quotidiano cela è sostituito da ça, mentre ceci è più raro e usato soprattutto per presentare qualcosa.",
+      "examples": [
+        {
+          "fr": "Écoute ceci.",
+          "it": "Ascolta questo."
+        },
+        {
+          "fr": "Qu'est-ce que tu penses de ça ?",
+          "it": "Che cosa ne pensi di questo?"
+        }
+      ]
+    },
+    {
+      "id": "pronominal-verbs",
+      "title_it": "Se passer: succedere",
+      "explain_it": "Il verbo passer con il pronome se (se passer) significa 'succedere, accadere' e si usa soprattutto nella domanda Qu'est-ce qui se passe ? (che cosa succede?). Senza il pronome passer ha altri significati (passare, trascorrere). Ça se passe bien si usa per dire che qualcosa 'sta andando bene'.",
+      "examples": [
+        {
+          "fr": "Qu'est-ce qui se passe ici ?",
+          "it": "Che cosa succede qui?"
+        },
+        {
+          "fr": "Ça se passe bien.",
+          "it": "Sta andando bene."
+        }
+      ]
+    },
+    {
+      "id": "negation-other",
+      "title_it": "Ne... rien: niente",
+      "explain_it": "La negazione ne... rien ha il significato di 'niente' e racchiude il verbo, come ne... pas. Nei tempi composti rien si mette dopo l'ausiliare: je n'ai rien fait. Nel parlato si può usare anche da solo come risposta, e con il verbo dire crea l'espressione Ça ne me dit rien.",
+      "examples": [
+        {
+          "fr": "Je ne fais rien aujourd'hui.",
+          "it": "Oggi non faccio niente."
+        },
+        {
+          "fr": "Je n'ai rien compris.",
+          "it": "Non ho capito niente."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le pique-nique",
+      "it": "il picnic",
+      "pos": "n"
+    },
+    {
+      "fr": "pique-niquer",
+      "it": "fare un picnic",
+      "pos": "v",
+      "note": "nous allons pique-niquer"
+    },
+    {
+      "fr": "la forêt",
+      "it": "la foresta",
+      "pos": "n"
+    },
+    {
+      "fr": "inconfortable",
+      "it": "scomodo",
+      "pos": "adj",
+      "note": "uguale al maschile e al femminile"
+    },
+    {
+      "fr": "être assis",
+      "it": "essere seduto",
+      "pos": "v",
+      "note": "on est assis"
+    },
+    {
+      "fr": "par terre",
+      "it": "per terra",
+      "pos": "adv"
+    },
+    {
+      "fr": "mal",
+      "it": "male",
+      "pos": "adv",
+      "note": "contrario di bien"
+    },
+    {
+      "fr": "le riz",
+      "it": "il riso",
+      "pos": "n"
+    },
+    {
+      "fr": "dégoûtant",
+      "it": "disgustoso",
+      "pos": "adj",
+      "note": "f. dégoûtante"
+    },
+    {
+      "fr": "la fourmi",
+      "it": "la formica",
+      "pos": "n"
+    },
+    {
+      "fr": "la guêpe",
+      "it": "la vespa",
+      "pos": "n"
+    },
+    {
+      "fr": "proprement",
+      "it": "in modo pulito",
+      "pos": "adv"
+    },
+    {
+      "fr": "l'assiette (f.)",
+      "it": "il piatto",
+      "pos": "n"
+    },
+    {
+      "fr": "le gobelet",
+      "it": "il bicchiere di carta",
+      "pos": "n"
+    },
+    {
+      "fr": "la fourchette",
+      "it": "la forchetta",
+      "pos": "n"
+    },
+    {
+      "fr": "le couteau",
+      "it": "il coltello",
+      "pos": "n"
+    },
+    {
+      "fr": "couper",
+      "it": "tagliare",
+      "pos": "v",
+      "note": "je coupe"
+    },
+    {
+      "fr": "bref",
+      "it": "insomma, in breve",
+      "pos": "adv"
+    },
+    {
+      "fr": "supporter",
+      "it": "sopportare, tollerare",
+      "pos": "v",
+      "note": "je supporte"
+    },
+    {
+      "fr": "le bruit",
+      "it": "il rumore",
+      "pos": "n"
+    },
+    {
+      "fr": "le panier",
+      "it": "il cestino",
+      "pos": "n"
+    },
+    {
+      "fr": "le sac à dos",
+      "it": "lo zaino",
+      "pos": "n"
+    },
+    {
+      "fr": "la porcelaine",
+      "it": "la porcellana",
+      "pos": "n"
+    },
+    {
+      "fr": "sophistiqué",
+      "it": "sofisticato",
+      "pos": "adj",
+      "note": "f. sophistiquée"
+    },
+    {
+      "fr": "la bouteille",
+      "it": "la bottiglia",
+      "pos": "n"
+    },
+    {
+      "fr": "pliant",
+      "it": "pieghevole",
+      "pos": "adj",
+      "note": "f. pliante"
+    },
+    {
+      "fr": "la pluie",
+      "it": "la pioggia",
+      "pos": "n"
+    },
+    {
+      "fr": "pleuvoir",
+      "it": "piovere",
+      "pos": "v",
+      "note": "il pleut"
+    },
+    {
+      "fr": "le carton",
+      "it": "il cartone",
+      "pos": "n"
+    },
+    {
+      "fr": "ceci",
+      "it": "questo",
+      "pos": "pron"
+    },
+    {
+      "fr": "la chaise",
+      "it": "la sedia",
+      "pos": "n"
+    },
+    {
+      "fr": "les chips (f. pl.)",
+      "it": "le patatine",
+      "pos": "n",
+      "note": "sempre al plurale"
+    },
+    {
+      "fr": "au contraire",
+      "it": "al contrario, anzi",
+      "pos": "expr"
+    },
+    {
+      "fr": "les couverts (m. pl.)",
+      "it": "le posate",
+      "pos": "n"
+    },
+    {
+      "fr": "la couverture",
+      "it": "la coperta",
+      "pos": "n"
+    },
+    {
+      "fr": "honnêtement",
+      "it": "onestamente",
+      "pos": "adv"
+    },
+    {
+      "fr": "le métal",
+      "it": "il metallo",
+      "pos": "n"
+    },
+    {
+      "fr": "la nourriture",
+      "it": "il cibo, il nutrimento",
+      "pos": "n"
+    },
+    {
+      "fr": "le plastique",
+      "it": "la plastica",
+      "pos": "n"
+    },
+    {
+      "fr": "le poulet",
+      "it": "il pollo",
+      "pos": "n"
+    },
+    {
+      "fr": "préparer",
+      "it": "preparare",
+      "pos": "v"
+    },
+    {
+      "fr": "le produit",
+      "it": "il prodotto",
+      "pos": "n"
+    },
+    {
+      "fr": "sain(e)",
+      "it": "sano",
+      "pos": "adj"
+    },
+    {
+      "fr": "la salade",
+      "it": "l'insalata",
+      "pos": "n"
+    },
+    {
+      "fr": "spécifique",
+      "it": "specifico",
+      "pos": "adj"
+    },
+    {
+      "fr": "tomber",
+      "it": "cadere",
+      "pos": "v"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Ça ne me dit rien",
+      "it": "Non mi va per niente",
+      "note": "registro colloquiale"
+    },
+    {
+      "fr": "Ça te dit de venir ?",
+      "it": "Ti va di venire?",
+      "note": "domanda informale con de + infinito"
+    },
+    {
+      "fr": "Qu'est-ce qui se passe ?",
+      "it": "Che cosa succede?",
+      "note": "per chiedere cosa sta accadendo"
+    },
+    {
+      "fr": "Il y a tout ce qu'il faut.",
+      "it": "C'è tutto il necessario.",
+      "note": "per dire che si ha tutto"
+    },
+    {
+      "fr": "avoir du mal à + infinitif",
+      "it": "fare fatica a + infinito",
+      "note": "uso frequente con il verbo all'infinito"
+    },
+    {
+      "fr": "Je ne supporte pas",
+      "it": "Non sopporto",
+      "note": "forma negativa molto usata nel parlato"
+    },
+    {
+      "fr": "Mais attends !",
+      "it": "Ma aspetta!",
+      "note": "esclamazione colloquiale"
+    },
+    {
+      "fr": "C'est pour ça que",
+      "it": "Ecco perché",
+      "note": "per collegare una causa a una conseguenza"
+    }
+  ],
+  "notes_it": [
+    "Falso amico: supporter in francese significa sopportare o tollerare (je ne supporte pas le bruit), non 'supportare' nel senso di 'sostenere'.",
+    "Bref è un avverbio che significa 'insomma, in breve' e chiude un discorso; come aggettivo (bref, brève) vuol dire 'breve'.",
+    "Pronuncia: 'guêpe' si legge [gɛp]: la u serve solo a mantenere duro il suono g; l'accento circonflesso di 'dégoûtant' non cambia la pronuncia della u.",
+    "Il verbo dire ha molti usi idiomatici in francese: ça me dit quelque chose, ça ne me dit rien, ça te dit de. Non tradurle parola per parola."
+  ],
+  "exercises": [
+    {
+      "id": "L048-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Completa: 'Le cinéma ce soir ne ___ rien.' (stasera al cinema non mi va)",
+      "options": [
+        "me dit",
+        "me fait",
+        "me vaut"
+      ],
+      "correct": 0,
+      "explain_it": "L'espressione ne me dire rien significa 'non mi attira'; fare e valere non si usano in questo senso."
+    },
+    {
+      "id": "L048-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Completa: 'Moi, j'___ froid.' (io ho freddo)",
+      "options": [
+        "ai",
+        "fais",
+        "suis"
+      ],
+      "correct": 0,
+      "explain_it": "Le sensazioni di una persona si esprimono con avoir: j'ai froid, come in italiano 'ho freddo'."
+    },
+    {
+      "id": "L048-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "adverbs",
+      "prompt": "Completa: 'On mange ___ ici.' (qui si mangia male)",
+      "options": [
+        "mal",
+        "mauvais",
+        "mauvaise"
+      ],
+      "correct": 0,
+      "explain_it": "Mangiare è un verbo, quindi serve l'avverbio mal; mauvais è un aggettivo."
+    },
+    {
+      "id": "L048-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "adjective-agreement",
+      "prompt": "Completa: 'Cette salade de fruits est ___.' (questa macedonia è deliziosa)",
+      "options": [
+        "délicieuse",
+        "délicieux",
+        "délicieuses"
+      ],
+      "correct": 0,
+      "explain_it": "L'aggettivo concorda con salade, femminile singolare, non con fruits."
+    },
+    {
+      "id": "L048-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "prepositions",
+      "prompt": "Completa: 'Un panier ___ pique-nique.' (un cestino da picnic)",
+      "options": [
+        "à",
+        "de",
+        "pour"
+      ],
+      "correct": 0,
+      "explain_it": "Nei nomi composti che indicano lo scopo si usa à, non di o per."
+    },
+    {
+      "id": "L048-e06",
+      "type": "mcq",
+      "level": 1,
+      "concept": "prepositions",
+      "prompt": "Completa: 'Une assiette ___ carton.' (un piatto di cartone)",
+      "options": [
+        "en",
+        "de",
+        "à"
+      ],
+      "correct": 0,
+      "explain_it": "Il materiale di un oggetto si indica con en: en carton, en papier, en porcelaine."
+    },
+    {
+      "id": "L048-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Non mi va per niente.",
+      "answers": [
+        "Ça ne me dit rien"
+      ],
+      "distractors": [
+        "fait"
+      ],
+      "explain_it": "L'espressione idiomatica è Ça ne me dit rien, con il pronome me davanti a dit."
+    },
+    {
+      "id": "L048-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "prepositions",
+      "prompt": "Il piatto è di porcellana.",
+      "answers": [
+        "L'assiette est en porcelaine"
+      ],
+      "distractors": [
+        "de"
+      ],
+      "explain_it": "Per indicare il materiale si usa en, non de."
+    },
+    {
+      "id": "L048-e09",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Non sopporto il rumore.",
+      "answers": [
+        "Je ne supporte pas le bruit"
+      ],
+      "distractors": [
+        "la"
+      ],
+      "explain_it": "Supporter con ne ... pas significa 'non sopportare'; la negazione circonda il verbo."
+    },
+    {
+      "id": "L048-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "present-er",
+      "text": "Nous allons ___ dans la forêt.",
+      "answers": [
+        "pique-niquer"
+      ],
+      "hint": "(pique-niquer, infinito)",
+      "prompt": "Andiamo a fare un picnic nella foresta.",
+      "explain_it": "Dopo aller si usa l'infinito del verbo: allons pique-niquer."
+    },
+    {
+      "id": "L048-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "etre",
+      "text": "On ___ assis par terre.",
+      "answers": [
+        "est"
+      ],
+      "hint": "(être, presente)",
+      "prompt": "Siamo seduti per terra.",
+      "explain_it": "Con on la forma di être è est, come in on est là."
+    },
+    {
+      "id": "L048-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "faire",
+      "text": "Il ___ froid aujourd'hui.",
+      "answers": [
+        "fait"
+      ],
+      "hint": "(faire, presente)",
+      "prompt": "Oggi fa freddo.",
+      "explain_it": "Per il tempo atmosferico si usa faire: il fait froid."
+    },
+    {
+      "id": "L048-e13",
+      "type": "cloze",
+      "level": 1,
+      "concept": "present-irregular",
+      "text": "Regarde, il ___ !",
+      "answers": [
+        "pleut"
+      ],
+      "hint": "(pleuvoir, presente)",
+      "prompt": "Guarda, piove!",
+      "explain_it": "Pleuvoir si coniuga solo alla terza persona singolare: il pleut."
+    },
+    {
+      "id": "L048-e14",
+      "type": "cloze",
+      "level": 1,
+      "concept": "prepositions",
+      "text": "Cette assiette ___ porcelaine est fragile.",
+      "answers": [
+        "en"
+      ],
+      "hint": "(materiale)",
+      "prompt": "Questo piatto di porcellana è fragile.",
+      "explain_it": "Il materiale si indica con en: en porcelaine."
+    },
+    {
+      "id": "L048-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "negation-other",
+      "text": "Je ne fais ___ aujourd'hui.",
+      "answers": [
+        "rien"
+      ],
+      "hint": "(ne... rien)",
+      "prompt": "Oggi non faccio niente.",
+      "explain_it": "La negazione ne... rien circonda il verbo e significa 'niente'."
+    },
+    {
+      "id": "L048-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adverbs",
+      "text": "Elle chante ___.",
+      "answers": [
+        "mal"
+      ],
+      "prompt": "Lei canta male.",
+      "explain_it": "Cantare è un verbo, quindi serve l'avverbio mal, non l'aggettivo mauvais."
+    },
+    {
+      "id": "L048-e17",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "text": "Qu'est-ce qui se ___ ici ?",
+      "answers": [
+        "passe"
+      ],
+      "hint": "(passer, presente)",
+      "prompt": "Che cosa succede qui?",
+      "explain_it": "Se passer significa 'succedere'; alla terza persona singolare il verbo è passe."
+    },
+    {
+      "id": "L048-e18",
+      "type": "cloze",
+      "level": 2,
+      "concept": "demonstratives",
+      "text": "Regarde ___ : c'est mon nouveau sac.",
+      "answers": [
+        "ceci",
+        "ça",
+        "cela"
+      ],
+      "hint": "(questo, qualcosa di vicino da mostrare)",
+      "prompt": "Guarda questo: è la mia nuova borsa.",
+      "explain_it": "Ceci si usa per presentare qualcosa che si mostra o si sta per dire."
+    },
+    {
+      "id": "L048-e19",
+      "type": "cloze",
+      "level": 2,
+      "concept": "prepositions",
+      "text": "J'ai acheté un verre ___ vin.",
+      "answers": [
+        "à"
+      ],
+      "prompt": "Ho comprato un bicchiere da vino.",
+      "explain_it": "Nei nomi composti che indicano lo scopo si usa à: un verre à vin.",
+      "hint": "(scopo)"
+    },
+    {
+      "id": "L048-e20",
+      "type": "cloze",
+      "level": 2,
+      "concept": "articles-indefinite",
+      "text": "Ils préparent ___ bons gâteaux.",
+      "answers": [
+        "de"
+      ],
+      "hint": "(des davanti a aggettivo plurale)",
+      "prompt": "Preparano dei buoni dolci.",
+      "explain_it": "Quando l'aggettivo plurale precede il nome, des diventa de (d' davanti a vocale)."
+    },
+    {
+      "id": "L048-e21",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Je ne ___ pas le froid.",
+      "answers": [
+        "supporte"
+      ],
+      "hint": "(supporter, presente)",
+      "prompt": "Non sopporto il freddo.",
+      "explain_it": "Supporter nel senso di 'sopportare' è un verbo in -er: je supporte."
+    },
+    {
+      "id": "L048-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Non mi va di uscire stasera.",
+      "answers": [
+        "Ça ne me dit [pas|rien] de sortir ce soir.",
+        "Je n'ai pas envie de sortir ce soir."
+      ],
+      "explain_it": "Ça ne me dit rien de + infinito esprime 'non mi va di fare qualcosa'; se ne ha pas, comunque comprensibile."
+    },
+    {
+      "id": "L048-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Che cosa succede?",
+      "answers": [
+        "Qu'est-ce qui se passe ?",
+        "Que se passe-t-il ?",
+        "Qu'est-ce qu'il se passe ?"
+      ],
+      "explain_it": "Per chiedere cosa succede si usa Qu'est-ce qui se passe, con il pronome se."
+    },
+    {
+      "id": "L048-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Ho freddo, ho le mani gelate.",
+      "answers": [
+        "J'ai froid, j'ai les mains froides.",
+        "J'ai froid, mes mains sont froides.",
+        "J'ai froid, j'ai les mains gelées.",
+        "J'ai froid, j'ai les mains glacées."
+      ],
+      "explain_it": "Le sensazioni di una persona si esprimono con avoir: j'ai froid; il corpo si descrive con avoir + les + parte del corpo."
+    },
+    {
+      "id": "L048-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Fa troppo caldo per uscire.",
+      "answers": [
+        "Il fait trop chaud pour sortir."
+      ],
+      "explain_it": "Per il tempo si usa faire: il fait trop chaud; sortir è il verbo che segue pour."
+    },
+    {
+      "id": "L048-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Ho fatica a capire questa regola.",
+      "answers": [
+        "J'ai du mal à comprendre cette règle."
+      ],
+      "explain_it": "Avoir du mal à + infinito significa 'avere difficoltà a'; mal qui è un nome."
+    },
+    {
+      "id": "L048-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "Questa macedonia è deliziosa.",
+      "answers": [
+        "Cette salade de fruits est délicieuse."
+      ],
+      "explain_it": "L'aggettivo concorda con salade, il nome principale, quindi è au féminin singulier."
+    },
+    {
+      "id": "L048-e28",
+      "type": "write",
+      "level": 2,
+      "concept": "plural",
+      "prompt": "Ci sono quattro sedie pieghevoli.",
+      "answers": [
+        "Il y a quatre chaises pliantes."
+      ],
+      "explain_it": "Il femminile plurale di pliant è pliantes: l'aggettivo concorda con chaises."
+    },
+    {
+      "id": "L048-e29",
+      "type": "write",
+      "level": 2,
+      "concept": "plural",
+      "prompt": "Le bottiglie di vino bianco sono nel cestino.",
+      "answers": [
+        "Les bouteilles de vin blanc sont dans le panier."
+      ],
+      "explain_it": "Il plurale di bouteille è bouteilles, e vin blanc resta invariato dopo de."
+    },
+    {
+      "id": "L048-e30",
+      "type": "write",
+      "level": 2,
+      "concept": "demonstratives",
+      "prompt": "Non sopporto questo rumore.",
+      "answers": [
+        "Je ne supporte pas ce bruit."
+      ],
+      "explain_it": "Davanti a un nome maschile che inizia per consonante si usa ce per 'questo'."
+    },
+    {
+      "id": "L048-e31",
+      "type": "dictation",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "text": "Qu'est-ce qui se passe ? Il pleut !",
+      "explain_it": "Il pronome se resta davanti al verbo; in passe la -e finale è muta."
+    },
+    {
+      "id": "L048-e32",
+      "type": "dictation",
+      "level": 2,
+      "concept": "prepositions",
+      "text": "Ce sac à dos est vraiment un sac de luxe, non ?",
+      "explain_it": "Sac à dos è un nome composto con à che indica lo scopo: lo zaino."
+    },
+    {
+      "id": "L048-e33",
+      "type": "flash",
+      "level": 2,
+      "concept": "idioms",
+      "front": "Ça ne me dit rien / Ça me dit de + infinito",
+      "back": "Ça ne me dit rien = non mi va per niente. Ça te dit de sortir ? = ti va di uscire? Il verbo dire qui è idiomatico. Attenzione: ça me dit quelque chose = mi ricorda qualcosa.",
+      "note": "Si può usare anche Ça te dit de venir ? (ti va di venire?)."
+    },
+    {
+      "id": "L048-e34",
+      "type": "flash",
+      "level": 2,
+      "concept": "idioms",
+      "front": "Avoir chaud / faire chaud: qual è la differenza?",
+      "back": "Persone: avoir chaud / avoir froid (ho caldo / ho freddo). Tempo: il fait chaud / il fait froid (fa caldo / fa freddo).",
+      "note": "Come in italiano: 'avere' per le sensazioni, 'fare' per il tempo."
+    },
+    {
+      "id": "L048-e35",
+      "type": "flash",
+      "level": 2,
+      "concept": "adverbs",
+      "front": "Mal o mauvais: quale usare?",
+      "back": "Mal è l'avverbio (on mange mal, elle chante mal). Mauvais è l'aggettivo che concorda con il nome (une mauvaise idée).",
+      "note": "Quando la parola modifica un verbo si usa mal, quando modifica un nome si usa mauvais."
+    },
+    {
+      "id": "L048-e36",
+      "type": "flash",
+      "level": 2,
+      "concept": "prepositions",
+      "front": "En o à con i nomi: quando usare quale preposizione?",
+      "back": "en indica materiale o forma: une assiette en papier. à indica lo scopo nei nomi composti: un panier à pique-nique, un verre à vin.",
+      "note": "In italiano spesso si usa 'di' o 'da', ma in francese la scelta segue queste due regole."
+    },
+    {
+      "id": "L048-e37",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "front": "Se passer: che cosa significa?",
+      "back": "Significa 'succedere, accadere'. Qu'est-ce qui se passe ? = Che cosa succede? Senza il pronome se, passer ha altri significati (passare, trascorrere).",
+      "note": "Ça se passe bien = va tutto bene."
+    },
+    {
+      "id": "L048-e38",
+      "type": "flash",
+      "level": 2,
+      "concept": "articles-indefinite",
+      "front": "Des davanti a aggettivo plurale: come cambia?",
+      "back": "Quando l'aggettivo plurale precede il nome, des diventa de: de bons produits. Se l'aggettivo segue il nome, resta des: des produits frais.",
+      "note": "Nessuna regola simile esiste in italiano, quindi va ricordata a memoria."
+    },
+    {
+      "id": "L048-e39",
+      "type": "write",
+      "level": 3,
+      "concept": "negation-other",
+      "ask": "Volgi al passé composé",
+      "prompt": "Aujourd'hui, je ne fais rien.",
+      "answers": [
+        "Aujourd'hui, je n'ai rien fait.",
+        "Je n'ai rien fait aujourd'hui."
+      ],
+      "explain_it": "Nel passato prossimo rien si mette dopo l'ausiliare avoir: je n'ai rien fait."
+    },
+    {
+      "id": "L048-e40",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-cod",
+      "ask": "Rispondi negativamente",
+      "prompt": "Tu aimes les pique-niques ?",
+      "answers": [
+        "Non, je ne les aime pas.",
+        "Non, je n'aime pas les pique-niques.",
+        "Non, ça ne me dit rien."
+      ],
+      "explain_it": "Le è il pronome complemento oggetto che sostituisce pique-niques e precede il verbo."
+    },
+    {
+      "id": "L048-e41",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Non sopporto i picnic: si mangia male, seduti per terra, con le formiche.",
+      "answers": [
+        "Je ne supporte pas les pique-niques : on mange mal, assis par terre, avec [des|les] fourmis."
+      ],
+      "explain_it": "Combina supporter in negativo, l'avverbio mal, l'aggettivo assis e la preposizione avec con des."
+    },
+    {
+      "id": "L048-e42",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Fa freddo oggi: non mi va di uscire, e ho anche mal alla testa.",
+      "answers": [
+        "Il fait froid aujourd'hui : ça ne me dit [pas|rien] de sortir, et j'ai [aussi|en plus|] mal à la tête."
+      ],
+      "explain_it": "Combina faire per il tempo, ça ne me dit de per la voglia e avoir mal per il dolore."
+    },
+    {
+      "id": "L048-e43",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ho messo una bottiglia di vino bianco in uno zaino di lusso.",
+      "answers": [
+        "J'ai mis une bouteille de vin blanc dans un sac à dos de luxe."
+      ],
+      "explain_it": "Il passato prossimo di mettre con avoir è j'ai mis, con il participio irregolare mis."
+    },
+    {
+      "id": "L048-e44",
+      "type": "write",
+      "level": 3,
+      "concept": "articles-indefinite",
+      "prompt": "Ci sono dei bei cani e dei buoni amici qui.",
+      "answers": [
+        "Il y a de beaux chiens et de bons amis ici.",
+        "Ici, il y a de beaux chiens et de bons amis."
+      ],
+      "explain_it": "Con gli aggettivi plurali che precedono il nome, des diventa de sia con beaux sia con bons."
+    },
+    {
+      "id": "L048-e45",
+      "type": "write",
+      "level": 3,
+      "concept": "connectors",
+      "prompt": "Dato che piove, non possiamo fare il picnic, quindi resto a casa.",
+      "answers": [
+        "[Comme il|Puisqu'il] pleut, [nous ne pouvons|on ne peut] pas [pique-niquer|faire de pique-nique|faire un pique-nique], donc je reste [à la maison|chez moi]."
+      ],
+      "explain_it": "Comme introduce la causa all'inizio della frase, donc la conseguenza nel secondo membro."
+    },
+    {
+      "id": "L048-e46",
+      "type": "write",
+      "level": 3,
+      "concept": "adverbs",
+      "ask": "Esprimi il contrario",
+      "prompt": "Elle mange bien.",
+      "answers": [
+        "Elle mange mal.",
+        "Elle ne mange pas bien."
+      ],
+      "explain_it": "Il contrario di bien è mal, avverbio che segue il verbo."
+    },
+    {
+      "id": "L048-e47",
+      "type": "dictation",
+      "level": 3,
+      "concept": "idioms",
+      "text": "Bref, le pique-nique ne me dit rien, mais ce panier est vraiment sophistiqué.",
+      "explain_it": "Bref significa 'insomma' e introduce la conclusione; ne me dit rien è l'espressione idiomatica."
+    },
+    {
+      "id": "L048-e48",
+      "type": "write",
+      "level": 3,
+      "concept": "articles-indefinite",
+      "ask": "Volgi al plurale",
+      "prompt": "un bon produit sain",
+      "answers": [
+        "de bons produits sains"
+      ],
+      "explain_it": "Al plurale des diventa de davanti all'aggettivo che precede il nome: de bons produits sains."
+    },
+    {
+      "id": "L048-e49",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Prepariamo un'insalata di riso.",
+      "answers": [
+        "Nous préparons une salade de riz.",
+        "On prépare une salade de riz."
+      ],
+      "explain_it": "Salade de riz: la salade è femminile e de + nome indica il contenuto."
+    },
+    {
+      "id": "L048-e50",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Attention, le verre va ___ !",
+      "answers": [
+        "tomber"
+      ],
+      "prompt": "Attenzione, il bicchiere sta per cadere!",
+      "explain_it": "Aller + infinito (futur proche): le verre va tomber.",
+      "hint": "(tomber)"
+    }
+  ]
+}

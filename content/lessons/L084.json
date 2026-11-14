@@ -1,0 +1,798 @@
+{
+  "n": 84,
+  "title_fr": "Révision",
+  "title_it": "Ripasso",
+  "review": true,
+  "status": "verified",
+  "source": "3d1a4471 pdf 23-32 (libro p.499-508; la lezione inizia a pdf 23 con il titolo 'Quatre-vingt-quatrième leçon - Révision'; la lezione 85 inizia a pdf 33; pdf 22 è la fine della lezione 83)",
+  "theme_it": "Lezione di ripasso delle lezioni 78-83: il congiuntivo (formazione e usi), l'ordine dei pronomi oggetto, le negazioni composte (ne... jamais, plus, rien, personne, que, ni... ni), l'inversione con la t eufonica e alcuni modi di dire legati al cibo. Il dialogo di revisione è una telefonata tra un artigiano e una cliente: i lavori di pittura devono slittare perché due operai sono malati e il collega è impegnato in un altro cantiere; alla fine si cerca una nuova data.",
+  "grammar": [
+    {
+      "id": "subjonctif",
+      "title_it": "Il congiuntivo (subjonctif): formazione e uso",
+      "explain_it": "Il congiuntivo presente dei verbi regolari si forma dalla terza persona plurale del presente: si toglie -ent e si aggiungono -e, -es, -e, -ions, -iez, -ent (que j'aime, que tu finisses, qu'il attende). Sono irregolari être (que je sois), avoir (que j'aie), aller (que j'aille), faire (que je fasse), pouvoir (que je puisse), vouloir (que je veuille), savoir (que je sache). Si usa dopo que quando la frase esprime un sentimento, un desiderio, un dubbio o una necessità (je veux que tu viennes, il faut que je parte, je suis content que tu sois là); dopo le espressioni impersonali come il faut que, il est nécessaire que, il est indispensable que è obbligatorio. Lo richiedono anche alcune congiunzioni: bien que, pour que, avant que, jusqu'à ce que, pourvu que. Attenzione: nei verbi regolari nous e vous hanno la stessa forma dell'imperfetto (que nous parlions / nous parlions): si distinguono dal contesto.",
+      "examples": [
+        {
+          "fr": "Il faut que tu sois à l'heure.",
+          "it": "Bisogna che tu sia puntuale."
+        },
+        {
+          "fr": "Je suis content que vous soyez là.",
+          "it": "Sono contento che siate qui."
+        },
+        {
+          "fr": "Je fais tout pour qu'il réussisse.",
+          "it": "Faccio di tutto perché ci riesca."
+        }
+      ]
+    },
+    {
+      "id": "pronoun-order",
+      "title_it": "Due pronomi oggetto insieme: l'ordine fisso",
+      "explain_it": "Quando davanti al verbo ci sono due pronomi oggetto, in francese l'ordine è fisso e non esiste un pronome unico come l'italiano 'glielo'. Ordine: me/te/se/nous/vous, poi le/la/les, poi lui/leur, poi y, poi en. Esempi da memorizzare: il me le donne, je la leur ai montrée, je te le donnerai, je ne lui en parle jamais. All'imperativo affermativo i pronomi seguono il verbo con i trattini, prima le/la/les e poi gli altri, e me/te diventano moi/toi: donne-le-moi. Nella frase negativa ne precede il primo pronome e pas segue il verbo; all'imperativo negativo l'ordine torna quello normale: ne me le donne pas.",
+      "examples": [
+        {
+          "fr": "Il me le donne.",
+          "it": "Me lo dà."
+        },
+        {
+          "fr": "Je la leur ai montrée.",
+          "it": "Gliel'ho mostrata (a loro)."
+        },
+        {
+          "fr": "Ne le lui dis jamais !",
+          "it": "Non dirglielo mai!"
+        }
+      ]
+    },
+    {
+      "id": "negation-other",
+      "title_it": "Le negazioni composte: jamais, plus, rien, personne, que, ni... ni",
+      "explain_it": "Oltre a ne... pas, il francese ha altre negazioni composte: ne... jamais (mai), ne... plus (non più), ne... rien (niente), ne... personne (nessuno), ne... aucun (nessuno), ne... ni... ni (né... né) e ne... que (solo: non è una vera negazione ma una restrizione). Ne sta davanti al verbo e il secondo elemento dopo il verbo (ai tempi composti: dopo l'ausiliare, tranne personne e que, che seguono il participio). Dopo plus, un articolo indeterminato o partitivo diventa de: il n'y a plus de pain. Personne e rien come soggetto vanno all'inizio: personne ne vient. Nel parlato il ne spesso cade (il vient jamais), ma nello scritto va sempre mantenuto.",
+      "examples": [
+        {
+          "fr": "Il ne mange jamais de viande.",
+          "it": "Non mangia mai carne."
+        },
+        {
+          "fr": "Je n'ai plus de temps.",
+          "it": "Non ho più tempo."
+        },
+        {
+          "fr": "Ni lui ni moi ne sommes allés.",
+          "it": "Né lui né io siamo andati."
+        }
+      ]
+    },
+    {
+      "id": "interrogatives",
+      "title_it": "La t eufonica nelle domande con inversione",
+      "explain_it": "Nella domanda con inversione il verbo e il pronome soggetto si scambiano di posto. Se il verbo finisce per vocale e il soggetto è il, elle o on, si inserisce una -t- eufonica tra due trattini: parle-t-il ?, a-t-elle ?, va-t-on ?. Con je l'inversione di solito non si usa. La forma con est-ce que è più comune nel parlato, l'inversione è tipica dello scritto e del registro formale.",
+      "examples": [
+        {
+          "fr": "Parle-t-il français ?",
+          "it": "Parla francese?"
+        },
+        {
+          "fr": "A-t-elle un frère ?",
+          "it": "Ha un fratello?"
+        },
+        {
+          "fr": "Pourquoi a-t-il laissé la porte ouverte ?",
+          "it": "Perché ha lasciato la porta aperta?"
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Modi di dire con il cibo",
+      "explain_it": "Il francese è ricco di espressioni legate al cibo, e molte non si traducono letteralmente: avoir la pêche significa essere in forma, mettre du beurre dans les épinards significa arrotondare le entrate, couper la poire en deux significa trovare un compromesso, en faire tout un fromage significa farne una tragedia, tomber dans les pommes significa svenire, faire l'andouille significa fare lo stupido, être dans les choux significa essere nei guai, avoir un cœur d'artichaut significa innamorarsi facilmente. Vanno imparate come blocchi interi, con articoli e preposizioni già fissati.",
+      "examples": [
+        {
+          "fr": "Il est tombé dans les pommes.",
+          "it": "È svenuto."
+        },
+        {
+          "fr": "Je suis dans les choux.",
+          "it": "Sono nei guai."
+        },
+        {
+          "fr": "N'en fais pas tout un fromage !",
+          "it": "Non farne una tragedia!"
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "les travaux (m. pl.)",
+      "it": "i lavori (di costruzione o ristrutturazione)",
+      "pos": "n"
+    },
+    {
+      "fr": "remplacer",
+      "it": "sostituire",
+      "pos": "v",
+      "note": "remplacer qqn"
+    },
+    {
+      "fr": "reporter",
+      "it": "rinviare, spostare",
+      "pos": "v",
+      "note": "reporter un rendez-vous"
+    },
+    {
+      "fr": "se libérer",
+      "it": "liberarsi, rendersi disponibile",
+      "pos": "v",
+      "note": "peut-il se libérer ?"
+    },
+    {
+      "fr": "une mauvaise nouvelle",
+      "it": "una brutta notizia",
+      "pos": "n"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "être dans les choux",
+      "it": "essere nei guai",
+      "note": "registro familiare"
+    },
+    {
+      "fr": "ne pas être sorti de l'auberge",
+      "it": "non essere ancora fuori dai guai",
+      "note": "si usa quando la situazione non è ancora risolta"
+    },
+    {
+      "fr": "en faire tout un fromage",
+      "it": "farne una tragedia",
+      "note": "registro familiare"
+    },
+    {
+      "fr": "faire l'andouille",
+      "it": "fare lo stupido",
+      "note": "registro familiare"
+    },
+    {
+      "fr": "tomber dans les pommes",
+      "it": "svenire",
+      "note": "registro familiare"
+    },
+    {
+      "fr": "couper la poire en deux",
+      "it": "trovare un compromesso, fare a metà"
+    },
+    {
+      "fr": "avoir la pêche",
+      "it": "essere in gran forma",
+      "note": "registro familiare"
+    },
+    {
+      "fr": "mettre du beurre dans les épinards",
+      "it": "arrotondare le entrate"
+    },
+    {
+      "fr": "ne pas avoir un radis",
+      "it": "non avere un soldo",
+      "note": "registro familiare"
+    },
+    {
+      "fr": "avoir un cœur d'artichaut",
+      "it": "innamorarsi facilmente",
+      "note": "si dice di chi cambia spesso innamorato"
+    },
+    {
+      "fr": "ça ne dépend pas que de moi",
+      "it": "non dipende solo da me"
+    }
+  ],
+  "notes_it": [
+    "Molti modi di dire del francese usano nomi di cibi (pain, beurre, fromage, poire, choux, pommes): impararli come blocchi, senza tradurre parola per parola.",
+    "Nei verbi con più forme identiche (noi e voi al congiuntivo presente e all'imperfetto) il contesto e la struttura della frase (spesso la presenza di que) aiutano a distinguere le due forme.",
+    "Nel parlato il ne delle negazioni composte spesso cade (il vient jamais), ma nello scritto e negli esercizi va sempre mantenuto.",
+    "Il dialogo di revisione è un buon esempio di linguaggio professionale al telefono: si usano molti verbi di richiesta e dubbio seguiti dal congiuntivo (je veux que, il n'est pas certain que)."
+  ],
+  "exercises": [
+    {
+      "id": "L084-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "subjonctif",
+      "prompt": "Completa: 'Il faut que je ___ maintenant.' (partire, congiuntivo presente)",
+      "options": [
+        "pars",
+        "parte",
+        "partirai",
+        "partir"
+      ],
+      "correct": 1,
+      "explain_it": "Dopo il faut que si usa il congiuntivo: que je parte. 'Pars' è l'indicativo e 'partir' è l'infinito, entrambi sbagliati qui."
+    },
+    {
+      "id": "L084-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "negation-other",
+      "prompt": "Quale frase significa 'Non ho più tempo'?",
+      "options": [
+        "Je n'ai plus de temps.",
+        "Je n'ai pas plus de temps.",
+        "Je n'ai plus du temps.",
+        "Je ne plus ai de temps."
+      ],
+      "correct": 0,
+      "explain_it": "Con ne... plus si usa il ne prima del verbo e plus dopo; davanti al nome senza articolo si usa de."
+    },
+    {
+      "id": "L084-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronoun-order",
+      "prompt": "Quale frase significa 'Me lo dai?' (a un amico)?",
+      "options": [
+        "Tu me le donnes ?",
+        "Tu le me donnes ?",
+        "Tu me donnes le ?",
+        "Tu me lui donnes ?"
+      ],
+      "correct": 0,
+      "explain_it": "L'ordine è me (prima colonna) poi le (seconda colonna): me le. Il pronome le non può precedere me."
+    },
+    {
+      "id": "L084-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Quale espressione significa 'farne una tragedia'?",
+      "options": [
+        "en faire tout un fromage",
+        "faire l'andouille",
+        "tomber dans les pommes",
+        "avoir la pêche"
+      ],
+      "correct": 0,
+      "explain_it": "En faire tout un fromage vuol dire esagerare un problema. Faire l'andouille è fare lo stupido, tomber dans les pommes è svenire."
+    },
+    {
+      "id": "L084-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "interrogatives",
+      "prompt": "Quale forma con inversione significa 'Lui parla francese?'",
+      "options": [
+        "Parle-t-il français ?",
+        "Parle-il français ?",
+        "Il parle-t français ?",
+        "Parlet-il français ?"
+      ],
+      "correct": 0,
+      "explain_it": "Il verbo finisce in vocale e il soggetto è il: si inserisce la -t- con i trattini: parle-t-il."
+    },
+    {
+      "id": "L084-e06",
+      "type": "mcq",
+      "level": 1,
+      "concept": "subjonctif",
+      "prompt": "Completa: 'Je suis content que tu ___ là.' (essere, congiuntivo presente)",
+      "options": [
+        "es",
+        "sois",
+        "seras",
+        "étais"
+      ],
+      "correct": 1,
+      "explain_it": "Dopo un'espressione di sentimento più que si usa il congiuntivo; essere è irregolare: que tu sois."
+    },
+    {
+      "id": "L084-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "pronoun-order",
+      "prompt": "Glielo dico domani.",
+      "answers": [
+        "Je le lui dis demain.",
+        "Je le leur dis demain."
+      ],
+      "distractors": [
+        "la",
+        "en"
+      ],
+      "explain_it": "Il pronome le (prima colonna dell'ordine: le/la/les) precede lui (terza colonna): le lui."
+    },
+    {
+      "id": "L084-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "pronoun-en",
+      "prompt": "Non ce n'è più.",
+      "answers": [
+        "Il n'y en a plus."
+      ],
+      "distractors": [
+        "leur",
+        "les"
+      ],
+      "explain_it": "Y precede en nell'ordine dei pronomi e il ne va davanti a tutto. Il n'y en a plus è la forma fissa."
+    },
+    {
+      "id": "L084-e09",
+      "type": "cloze",
+      "level": 1,
+      "concept": "subjonctif",
+      "text": "Il faut que vous ___ à l'heure.",
+      "answers": [
+        "soyez"
+      ],
+      "hint": "(être, congiuntivo presente)",
+      "prompt": "Bisogna che siate puntuali.",
+      "explain_it": "Essere al congiuntivo per vous è soyez: la forma non coincide con l'indicativo (vous êtes)."
+    },
+    {
+      "id": "L084-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "negation-other",
+      "text": "Elle ne mange ___ de viande.",
+      "answers": [
+        "jamais"
+      ],
+      "hint": "(avverbio di negazione temporale)",
+      "prompt": "Lei non mangia mai carne.",
+      "explain_it": "Ne... jamais racchiude il verbo; dopo una negazione il partitivo du/de la diventa de: ne mange jamais de viande."
+    },
+    {
+      "id": "L084-e11",
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Voglio che tu venga con me.",
+      "answers": [
+        "Je veux que tu viennes avec moi."
+      ],
+      "explain_it": "Vouloir que vuole il congiuntivo; venir al congiuntivo per tu è viennes."
+    },
+    {
+      "id": "L084-e12",
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "È necessario che partiamo presto.",
+      "answers": [
+        "Il est nécessaire que nous partions tôt.",
+        "Il est nécessaire qu'on parte tôt.",
+        "Il faut que nous partions tôt.",
+        "Il faut qu'on parte tôt."
+      ],
+      "explain_it": "Con nous il congiuntivo di partir è partions, identico all'imperfetto: il contesto lo distingue. Attenzione all'accento di tôt."
+    },
+    {
+      "id": "L084-e13",
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Non credo che lui sia a casa.",
+      "answers": [
+        "Je ne [crois|pense] pas qu'il soit [à la maison|chez lui]."
+      ],
+      "explain_it": "Quando il dubbio è espresso in forma negativa (je ne crois pas que), il congiuntivo è obbligatorio: qu'il soit."
+    },
+    {
+      "id": "L084-e14",
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Bisogna che tu abbia pazienza.",
+      "answers": [
+        "Il faut que tu aies de la patience.",
+        "Il faut que tu aies patience."
+      ],
+      "explain_it": "Avoir al congiuntivo è aies per tu: que tu aies. Sono accettabili entrambe le forme, con o senza de la."
+    },
+    {
+      "id": "L084-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-order",
+      "prompt": "Te lo do domani.",
+      "answers": [
+        "Je te le donne demain."
+      ],
+      "explain_it": "Te (prima colonna) precede le (seconda colonna): je te le donne."
+    },
+    {
+      "id": "L084-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-order",
+      "prompt": "Glielo ho dato ieri.",
+      "answers": [
+        "Je le lui ai donné hier.",
+        "Je le leur ai donné hier."
+      ],
+      "explain_it": "L'italiano gliel' è ambiguo: in francese si sceglie lui o leur. I pronomi vanno prima dell'ausiliare avoir."
+    },
+    {
+      "id": "L084-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-order",
+      "prompt": "Dammelo!",
+      "ask": "Traduci in francese (forma tu)",
+      "answers": [
+        "Donne-le-moi !"
+      ],
+      "explain_it": "All'imperativo affermativo i pronomi seguono il verbo con trattini e me diventa moi."
+    },
+    {
+      "id": "L084-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "negation-other",
+      "prompt": "Non ho più soldi.",
+      "answers": [
+        "Je n'ai plus d'argent."
+      ],
+      "explain_it": "Ne... plus davanti a un nome senza articolo: plus d'argent (de diventa d' davanti a vocale)."
+    },
+    {
+      "id": "L084-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "negation-other",
+      "prompt": "Non ho visto nessuno.",
+      "answers": [
+        "Je n'ai vu personne."
+      ],
+      "explain_it": "Ne... personne è la negazione di nessuno come oggetto; il participio resta vu."
+    },
+    {
+      "id": "L084-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "negation-other",
+      "prompt": "Lui non ha niente da dire.",
+      "answers": [
+        "Il n'a rien à dire."
+      ],
+      "explain_it": "Ne... rien con l'infinito introdotto da à: il n'a rien à dire (non ha niente da dire). Rien sta dopo l'ausiliare ai tempi composti."
+    },
+    {
+      "id": "L084-e21",
+      "type": "cloze",
+      "level": 2,
+      "concept": "interrogatives",
+      "text": "Parle-___-il français ?",
+      "answers": [
+        "t"
+      ],
+      "hint": "(lettera eufonica)",
+      "prompt": "Lui parla francese?",
+      "explain_it": "Il verbo finisce in vocale e il soggetto è il: si inserisce -t-."
+    },
+    {
+      "id": "L084-e22",
+      "type": "cloze",
+      "level": 2,
+      "concept": "interrogatives",
+      "text": "Aime-___-elle la musique ?",
+      "answers": [
+        "t"
+      ],
+      "hint": "(lettera eufonica)",
+      "prompt": "Lei ama la musica?",
+      "explain_it": "Con elle e verbo in vocale si usa la -t- eufonica tra i trattini: aime-t-elle."
+    },
+    {
+      "id": "L084-e23",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Il est ___ dans les pommes en voyant le sang.",
+      "answers": [
+        "tombé"
+      ],
+      "hint": "(tomber, passato prossimo)",
+      "prompt": "È svenuto alla vista del sangue.",
+      "explain_it": "Tomber è un verbo di movimento e prende essere al passato prossimo: il est tombé."
+    },
+    {
+      "id": "L084-e24",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "N'___ fais pas tout un fromage !",
+      "answers": [
+        "en"
+      ],
+      "hint": "(pronome en)",
+      "prompt": "Non farne una tragedia!",
+      "explain_it": "Nell'espressione en faire tout un fromage il pronome en è obbligatorio: n'en fais pas."
+    },
+    {
+      "id": "L084-e25",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-en",
+      "text": "Il y a dix élèves dans la classe. J'___ connais sept.",
+      "answers": [
+        "en"
+      ],
+      "hint": "(pronome, 'di loro')",
+      "prompt": "Ci sono dieci allievi in classe. Ne conosco sette.",
+      "explain_it": "En sostituisce un complemento di quantità: j'en connais sept (ne conosco sette)."
+    },
+    {
+      "id": "L084-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-en",
+      "prompt": "Ne ho comprati tre.",
+      "answers": [
+        "J'en ai acheté trois."
+      ],
+      "explain_it": "Il pronome en va prima dell'ausiliare: j'en ai acheté; non si accorda il participio con en."
+    },
+    {
+      "id": "L084-e27",
+      "type": "dictation",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "Il faut que tu fasses attention."
+    },
+    {
+      "id": "L084-e28",
+      "type": "dictation",
+      "level": 2,
+      "concept": "pronoun-order",
+      "text": "Il ne le lui dit jamais."
+    },
+    {
+      "id": "L084-e29",
+      "type": "flash",
+      "level": 2,
+      "concept": "subjonctif",
+      "front": "Come si forma il congiuntivo presente? (es. aimer, finir, attendre)",
+      "back": "Si parte dalla 3ª persona plurale del presente: si toglie -ent e si aggiungono -e, -es, -e, -ions, -iez, -ent: que j'aime, que tu finisses, qu'il attende. Sono irregolari être, avoir, aller, faire, pouvoir, vouloir.",
+      "note": "Noi e voi hanno la stessa forma dell'imperfetto: distinguili dal contesto."
+    },
+    {
+      "id": "L084-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Benché sia stanco, esco.",
+      "answers": [
+        "[Bien que|Quoique] je sois [fatigué|fatiguée], je sors."
+      ],
+      "explain_it": "Bien que (o quoique) richiede il congiuntivo: que je sois. L'aggettivo fatigué si accorda con chi parla (fatiguée al femminile)."
+    },
+    {
+      "id": "L084-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Ti aspetterò finché tu non torni.",
+      "answers": [
+        "Je t'attendrai jusqu'à ce que tu reviennes.",
+        "Je t'attendrai jusqu'à ce que tu rentres."
+      ],
+      "explain_it": "Jusqu'à ce que è seguito dal congiuntivo: que tu reviennes (o rentres). Non si usa il futuro dopo que."
+    },
+    {
+      "id": "L084-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "È indispensabile che tu venga domani.",
+      "answers": [
+        "Il est indispensable que tu viennes demain."
+      ],
+      "explain_it": "Le espressioni impersonali con que (è indispensabile che) richiedono il congiuntivo: que tu viennes."
+    },
+    {
+      "id": "L084-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Faccio tutto perché tu sia contento.",
+      "answers": [
+        "Je fais tout pour que tu sois content.",
+        "Je fais tout pour que tu sois contente."
+      ],
+      "explain_it": "Pour que introduce uno scopo e richiede il congiuntivo: que tu sois. Essere è irregolare."
+    },
+    {
+      "id": "L084-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-order",
+      "prompt": "Non dirglielo mai!",
+      "ask": "Traduci in francese (forma tu)",
+      "answers": [
+        "Ne le lui dis jamais !"
+      ],
+      "explain_it": "Nella frase negativa l'ordine dei pronomi resta invariato: ne precede le lui e jamais segue il verbo."
+    },
+    {
+      "id": "L084-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-order",
+      "prompt": "Gliel'ho mostrata ieri.",
+      "answers": [
+        "Je la lui ai montrée hier.",
+        "Je la leur ai montrée hier."
+      ],
+      "explain_it": "Il participio montrée si accorda con il COD la che precede l'ausiliare. La scelta tra lui e leur dipende dal contesto."
+    },
+    {
+      "id": "L084-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "negation-other",
+      "prompt": "Non c'è più nessuno in questa città.",
+      "answers": [
+        "Il n'y a plus personne dans cette ville."
+      ],
+      "explain_it": "Ne... plus personne è la negazione completa di 'nessuno' con il soggetto impersonale il y a."
+    },
+    {
+      "id": "L084-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "negation-other",
+      "prompt": "Né lui né io siamo andati.",
+      "answers": [
+        "Ni lui ni moi ne sommes allés."
+      ],
+      "explain_it": "Con ni... ni il ne resta davanti al verbo e il soggetto plurale richiede sommes."
+    },
+    {
+      "id": "L084-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "negation-other",
+      "prompt": "Ho solo due minuti per te.",
+      "answers": [
+        "Je n'ai que deux minutes pour toi.",
+        "Je n'ai que deux minutes à te consacrer."
+      ],
+      "explain_it": "Ne... que significa 'solo, soltanto': il que va subito dopo il verbo e non cambia il senso restrittivo."
+    },
+    {
+      "id": "L084-e39",
+      "type": "write",
+      "level": 3,
+      "concept": "interrogatives",
+      "prompt": "Lei parla bene il francese?",
+      "answers": [
+        "Parle-t-elle bien le français ?",
+        "Parle-t-elle bien français ?",
+        "Est-ce qu'elle parle bien le français ?",
+        "Est-ce qu'elle parle bien français ?"
+      ],
+      "explain_it": "Con elle e verbo in vocale si inserisce -t-; l'avverbio bien resta dopo il verbo."
+    },
+    {
+      "id": "L084-e40",
+      "type": "write",
+      "level": 3,
+      "concept": "interrogatives",
+      "prompt": "Perché ha lasciato la porta aperta?",
+      "answers": [
+        "Pourquoi a-t-il laissé la porte ouverte ?",
+        "Pourquoi a-t-elle laissé la porte ouverte ?",
+        "Pourquoi est-ce qu'il a laissé la porte ouverte ?",
+        "Pourquoi est-ce qu'elle a laissé la porte ouverte ?"
+      ],
+      "explain_it": "Con la domanda introdotta da pourquoi si usa l'inversione e la -t-: a-t-il/a-t-elle (l'italiano ha è neutro)."
+    },
+    {
+      "id": "L084-e41",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Con questo lavoro arrotonderò lo stipendio.",
+      "answers": [
+        "Avec ce [travail|boulot], [je vais mettre|je mettrai] du beurre dans les épinards."
+      ],
+      "explain_it": "Mettre du beurre dans les épinards significa arrotondare le entrate; il registro è familiare."
+    },
+    {
+      "id": "L084-e42",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Smettila di fare lo stupido!",
+      "ask": "Traduci in francese (forma tu)",
+      "answers": [
+        "Arrête de faire l'andouille !"
+      ],
+      "explain_it": "Faire l'andouille è il modo familiare di dire 'fare lo stupido', e si usa con arrête de."
+    },
+    {
+      "id": "L084-e43",
+      "type": "cloze",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "Il faut que vous ___ votre passeport.",
+      "answers": [
+        "montriez"
+      ],
+      "hint": "(montrer, congiuntivo presente)",
+      "prompt": "Bisogna che mostriate il passaporto.",
+      "explain_it": "Con vous il congiuntivo termina in -iez, come l'imperfetto: que vous montriez."
+    },
+    {
+      "id": "L084-e44",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-order",
+      "text": "Je ne ___ lui dirai pas.",
+      "answers": [
+        "le"
+      ],
+      "hint": "(pronome oggetto diretto)",
+      "prompt": "Non glielo dirò.",
+      "explain_it": "Il pronome le è la prima colonna dei pronomi e precede lui; il ne va davanti al primo pronome."
+    },
+    {
+      "id": "L084-e45",
+      "type": "flash",
+      "level": 3,
+      "concept": "pronoun-order",
+      "front": "Ordine dei pronomi oggetto prima del verbo",
+      "back": "me/te/se/nous/vous, poi le/la/les, poi lui/leur, poi y, poi en. Non si usano due pronomi della stessa colonna. All'imperativo affermativo: Donne-le-moi (moi e toi al posto di me e te).",
+      "note": "Nella negazione il ne precede il primo pronome e il pas segue il verbo."
+    },
+    {
+      "id": "L084-e46",
+      "type": "flash",
+      "level": 3,
+      "concept": "negation-other",
+      "front": "Negazioni composte: ne ... jamais / plus / rien / personne / que / ni... ni",
+      "back": "Il ne va sempre davanti al verbo; il secondo elemento va dopo. Dopo plus, l'articolo indeterminato o partitivo diventa de: plus de pain. Ne... que significa solo e non è una vera negazione. Ni... ni vuole ne davanti al verbo.",
+      "note": "Personne e rien soggetto stanno all'inizio della frase."
+    },
+    {
+      "id": "L084-e47",
+      "type": "flash",
+      "level": 3,
+      "concept": "interrogatives",
+      "front": "Quando si inserisce la t eufonica nell'interrogativa con inversione?",
+      "back": "Quando il verbo finisce in vocale e il soggetto è il, elle o on: a-t-il, parle-t-elle, va-t-on. Con je di solito non si inverte.",
+      "note": "Con est-ce que non serve nessuna t eufonica."
+    },
+    {
+      "id": "L084-e48",
+      "type": "order",
+      "level": 2,
+      "concept": "pronoun-en",
+      "prompt": "Non gliene parlo mai.",
+      "answers": [
+        "Je ne lui en parle jamais."
+      ],
+      "distractors": [
+        "pas",
+        "y"
+      ],
+      "explain_it": "Gliene è lui + en: il ne va per primo, poi lui, poi en, e jamais segue il verbo."
+    },
+    {
+      "id": "L084-e49",
+      "type": "order",
+      "level": 2,
+      "concept": "negation-other",
+      "prompt": "Non l'ho mai visto.",
+      "answers": [
+        "Je ne l'ai jamais vu."
+      ],
+      "distractors": [
+        "les",
+        "pas"
+      ],
+      "explain_it": "Ne... jamais racchiude l'ausiliare avoir: il ne precede l'ausiliare e jamais segue il participio."
+    }
+  ]
+}

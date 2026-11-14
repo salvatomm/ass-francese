@@ -1,0 +1,950 @@
+{
+  "n": 49,
+  "title_fr": "Révision",
+  "title_it": "Ripasso",
+  "review": true,
+  "status": "verified",
+  "source": "1db59936 p64-73",
+  "theme_it": "Ripasso delle lezioni 43-48: verbi di movimento con essere, pronomi tonici, pronomi relativi qui/que e ce qui/ce que, nomi singolari e plurali, preposizioni. Il dialogo di ripasso è una conversazione tra amici su quale sia il monumento più visitato di Francia, tra il Louvre e la Torre Eiffel.",
+  "grammar": [
+    {
+      "id": "passe-compose-etre",
+      "title_it": "Verbi con essere al passato prossimo e accordo del participio",
+      "explain_it": "Alcuni verbi di movimento o di cambiamento di stato formano il passato prossimo con essere invece che con avere. Sono circa sedici (venire, andare, arrivare, partire, entrare, uscire, salire, scendere, tornare, restare, cadere, nascere, morire, diventare e i loro composti). Per ricordarli si usa il mnemonico 'Dr e Mrs Vandertramp'. Cinque di questi verbi hanno il participio irregolare: venir diventa venu, devenir diventa devenu, revenir diventa revenu, naître diventa né, mourir diventa mort. Il verbo passer usa avere quando ha un complemento oggetto (ho passato la serata) ed essere quando significa passare nel senso di fare una visita o un passaggio. Con essere il participio concorda sempre con il soggetto, in genere e numero (Marie est arrivée; les hommes sont partis). Se il gruppo misto contiene maschile e femminile, il participio va al maschile plurale (Paul et Marie sont partis).",
+      "examples": [
+        {
+          "fr": "Je suis allé au marché ce matin.",
+          "it": "Sono andato al mercato stamattina."
+        },
+        {
+          "fr": "Marie est arrivée très tard.",
+          "it": "Marie è arrivata molto tardi."
+        },
+        {
+          "fr": "J'ai passé une belle soirée.",
+          "it": "Ho passato una bella serata (passer con avere)."
+        }
+      ]
+    },
+    {
+      "id": "stressed-pronouns",
+      "title_it": "I pronomi tonici (moi, toi, lui, elle, nous, vous, eux, elles)",
+      "explain_it": "I pronomi tonici sono moi, toi, lui, elle, nous, vous, eux, elles. Si usano dopo una preposizione (avec moi, chez toi), per enfatizzare o contrastare il soggetto (Moi, je reste), da soli nelle risposte (Qui est là ? - Lui), con c'est e ce sont (c'est lui, ce sont elles), con aussi e non plus (moi aussi, lui non plus) e nei soggetti doppi (toi et moi). In francese sono usati più spesso che in italiano, dove basta la desinenza del verbo. Si chiamano anche pronomi 'disgiunti' perché stanno staccati dal verbo.",
+      "examples": [
+        {
+          "fr": "Je pars sans lui demain.",
+          "it": "Parto senza di lui domani."
+        },
+        {
+          "fr": "Moi, j'aime le jazz ; toi, tu préfères le rock ?",
+          "it": "Io amo il jazz; tu invece preferisci il rock?"
+        },
+        {
+          "fr": "Ma sœur et moi habitons à Paris.",
+          "it": "Mia sorella e io abitiamo a Parigi."
+        }
+      ]
+    },
+    {
+      "id": "relative-pronouns",
+      "title_it": "I pronomi relativi qui, que, ce qui, ce que",
+      "explain_it": "Qui e que servono a unire due frasi senza ripetere il nome. Qui è il soggetto della frase relativa ed è seguito direttamente dal verbo (l'homme qui habite ici). Que sostituisce il complemento oggetto diretto ed è seguito dal soggetto e dal verbo (le livre que je lis); davanti a vocale diventa qu'. Il relativo va subito dopo il nome a cui si riferisce, e la preposizione resta davanti al relativo: la personne avec qui je parle. Ce qui e ce que, senza nome di riferimento, significano 'ciò che, quello che': ce qui è soggetto del verbo, ce que è complemento oggetto (ce qu' davanti a vocale).",
+      "examples": [
+        {
+          "fr": "Le garçon qui parle est mon cousin.",
+          "it": "Il ragazzo che parla è mio cugino."
+        },
+        {
+          "fr": "Le livre que je lis est passionnant.",
+          "it": "Il libro che leggo è appassionante."
+        },
+        {
+          "fr": "Je ne comprends pas ce que vous dites.",
+          "it": "Non capisco quello che dite."
+        }
+      ]
+    },
+    {
+      "id": "plural",
+      "title_it": "Singolari e plurali diversi dall'italiano",
+      "explain_it": "Alcuni nomi sono plurali in francese dove l'italiano usa il singolare: les toilettes (il bagno), les vacances (la vacanza), les courses (la spesa), les gens (la gente), les affaires (le cose, gli affari). Al contrario sono singolari un pantalon e un jean (i pantaloni, i jeans) e la vaisselle (i piatti, le stoviglie): per due paia si dice deux pantalons. Alcuni nomi cambiano senso al plurale: une information è un'informazione, les informations sono il telegiornale o le notizie; une affaire è un affare, les affaires sono le cose personali o gli affari.",
+      "examples": [
+        {
+          "fr": "Les informations commencent à vingt heures.",
+          "it": "Il telegiornale inizia alle venti."
+        },
+        {
+          "fr": "Il a un pantalon noir.",
+          "it": "Ha un paio di pantaloni neri."
+        },
+        {
+          "fr": "Les toilettes sont au fond du couloir.",
+          "it": "Il bagno è in fondo al corridoio."
+        }
+      ]
+    },
+    {
+      "id": "prepositions",
+      "title_it": "Le preposizioni più comuni",
+      "explain_it": "Le preposizioni collegano le parti della frase e la preposizione che segue un verbo va imparata insieme a esso (écouter qqn, chercher qqch). Alcune preposizioni (après, avant, avec, contre, derrière, devant) possono anche funzionare da avverbi. Attenzione ai contrasti: depuis indica una durata che inizia nel passato e continua ancora (da); pendant indica un periodo di tempo (durante); pour indica uno scopo o una durata prevista (per). Chez significa presso la casa o lo studio di una persona (chez le médecin). Per i mesi si usa en (en juin), per le città à (à Rome).",
+      "examples": [
+        {
+          "fr": "Je suis chez le médecin.",
+          "it": "Sono dal medico."
+        },
+        {
+          "fr": "J'habite à Rome depuis deux ans.",
+          "it": "Abito a Roma da due anni."
+        },
+        {
+          "fr": "Le musée est entre la gare et la banque.",
+          "it": "Il museo è tra la stazione e la banca."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "Internet",
+      "it": "internet",
+      "pos": "n",
+      "note": "sur Internet (senza articolo)"
+    },
+    {
+      "fr": "impressionniste",
+      "it": "impressionista",
+      "pos": "adj"
+    },
+    {
+      "fr": "l'entrée (f.)",
+      "it": "l'ingresso; il biglietto d'ingresso",
+      "pos": "n",
+      "note": "le billet d'entrée"
+    },
+    {
+      "fr": "le visiteur",
+      "it": "il visitatore",
+      "pos": "n",
+      "note": "f. la visiteuse"
+    },
+    {
+      "fr": "circuler",
+      "it": "circolare; diffondersi (di notizie)",
+      "pos": "v",
+      "note": "elles circulent"
+    },
+    {
+      "fr": "masculin(e)",
+      "it": "maschile",
+      "pos": "adj"
+    },
+    {
+      "fr": "la règle",
+      "it": "la regola",
+      "pos": "n",
+      "note": "regola grammaticale (anche: righello)"
+    },
+    {
+      "fr": "le short",
+      "it": "i pantaloncini",
+      "pos": "n",
+      "note": "pl. les shorts; si usa anche al singolare"
+    },
+    {
+      "fr": "le slip",
+      "it": "gli slip",
+      "pos": "n",
+      "note": "pl. les slips"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "À mon avis",
+      "it": "secondo me",
+      "note": "per esprimere un'opinione in modo neutro"
+    },
+    {
+      "fr": "Plus... plus...",
+      "it": "più... più...",
+      "note": "comparativo proporzionale, es. Plus j'avance, plus je comprends"
+    },
+    {
+      "fr": "Peut-être, mais...",
+      "it": "forse, ma...",
+      "note": "per introdurre un'obiezione con cortesia"
+    },
+    {
+      "fr": "Eh non, désolé(e) !",
+      "it": "eh no, mi dispiace!",
+      "note": "risposta negativa colloquiale"
+    },
+    {
+      "fr": "Bien sûr",
+      "it": "certo, naturalmente",
+      "note": "risposta affermativa molto usata"
+    },
+    {
+      "fr": "Faire penser que",
+      "it": "far pensare che",
+      "note": "costruzione con que; faire penser à = far pensare a"
+    }
+  ],
+  "notes_it": [
+    "Il dialogo di ripasso discute dei monumenti e dei musei più visitati di Francia: il Louvre è un enorme museo, mentre il Musée d'Orsay è famoso per i pittori impressionisti.",
+    "L'entrée in francese indica l'ingresso (le billet d'entrée) ma anche l'antipasto al ristorante (la portata d'entrata).",
+    "Internet di solito si usa senza articolo, come in sur Internet, e nella lingua corrente si scrive con la maiuscola.",
+    "Il singolare e il plurale di alcune parole cambiano il senso: une information (un'informazione) e les informations (il telegiornale), une affaire (un affare) e les affaires (le cose personali)."
+  ],
+  "exercises": [
+    {
+      "id": "L049-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "passe-compose-etre",
+      "prompt": "Completa con la forma corretta: Ieri Marie è arrivata molto tardi.",
+      "options": [
+        "Marie est arrivée très tard hier.",
+        "Marie a arrivée très tard hier.",
+        "Marie est arrivé très tard hier.",
+        "Marie a arrivé très tard hier."
+      ],
+      "correct": 0,
+      "explain_it": "Arriver si coniuga con essere e il participio concorda con Marie, femminile."
+    },
+    {
+      "id": "L049-e02",
+      "type": "cloze",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "text": "Elles sont ___ au cinéma.",
+      "answers": [
+        "allées"
+      ],
+      "hint": "(aller, participio passato)",
+      "prompt": "Sono andate al cinema.",
+      "explain_it": "Aller vuole essere; il soggetto femminile plurale fa concordare il participio in -ées."
+    },
+    {
+      "id": "L049-e03",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "prompt": "Ieri Paolo è uscito presto.",
+      "answers": [
+        "[Paul|Paolo] est sorti tôt hier.",
+        "Hier, [Paul|Paolo] est sorti tôt.",
+        "[Paul|Paolo] est sorti de bonne heure hier."
+      ],
+      "explain_it": "Sortir è un verbo di movimento con essere; il participio sorti va al maschile singolare."
+    },
+    {
+      "id": "L049-e04",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-etre",
+      "prompt": "Mia sorella è nata a Lione nel 1995.",
+      "answers": [
+        "Ma sœur est née à Lyon en 1995.",
+        "Ma soeur est née à Lyon en 1995."
+      ],
+      "explain_it": "Naître vuole essere e il participio irregolare è né, con concordanza al femminile."
+    },
+    {
+      "id": "L049-e05",
+      "type": "order",
+      "level": 1,
+      "concept": "passe-compose-etre",
+      "prompt": "Siamo tornati a casa tardi.",
+      "answers": [
+        "Nous sommes rentrés tard à la maison",
+        "Nous sommes rentrés à la maison tard"
+      ],
+      "distractors": [
+        "avons",
+        "ont"
+      ],
+      "explain_it": "Rentrer è un verbo di movimento e prende essere; il participio concorda con il soggetto nous."
+    },
+    {
+      "id": "L049-e06",
+      "type": "flash",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "front": "Quali verbi di movimento o di cambiamento usano essere nel passato prossimo?",
+      "back": "Devenir, revenir, retourner, sortir, venir, arriver, naître, descendre, entrer, rentrer, tomber, rester, aller, monter, partir, mourir.",
+      "note": "Mnemonico: Dr e Mrs Vandertramp (D-R-M-V). Il verbo passer usa avere con oggetto diretto."
+    },
+    {
+      "id": "L049-e07",
+      "type": "flash",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "front": "Come concorda il participio passato con essere?",
+      "back": "Concorda con il soggetto in genere e numero: elle est partie, ils sont partis. Con soggetto misto maschile e femminile si usa il maschile plurale.",
+      "note": "Esempio: Paul et Sophie sont partis."
+    },
+    {
+      "id": "L049-e08",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-etre",
+      "prompt": "Ieri le nostre amiche sono tornate a casa in taxi.",
+      "answers": [
+        "Hier, nos amies sont rentrées chez elles en taxi.",
+        "Hier, nos amies sont rentrées à la maison en taxi.",
+        "Nos amies sont rentrées chez elles en taxi hier.",
+        "Nos amies sont rentrées à la maison en taxi hier."
+      ],
+      "explain_it": "Rentrer con essere; il participio concorde con nos amies (femminile plurale)."
+    },
+    {
+      "id": "L049-e09",
+      "type": "dictation",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "text": "Mon oncle est mort en mai.",
+      "explain_it": "Mourir vuole essere; il participio irregolare è mort."
+    },
+    {
+      "id": "L049-e10",
+      "type": "mcq",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "prompt": "Quale frase usa correttamente passer con avere?",
+      "options": [
+        "J'ai passé une belle soirée.",
+        "Je suis passé une belle soirée.",
+        "J'ai passée une belle soirée.",
+        "Je suis passée une belle soirée."
+      ],
+      "correct": 0,
+      "explain_it": "Passer con complemento oggetto diretto (una serata) richiede avere, e il participio resta invariato."
+    },
+    {
+      "id": "L049-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "passe-compose-etre",
+      "text": "Hier, il est ___ dans l'escalier.",
+      "answers": [
+        "tombé"
+      ],
+      "hint": "(tomber, participio passato)",
+      "prompt": "Ieri è caduto sulle scale.",
+      "explain_it": "Tomber è un verbo di movimento e vuole essere."
+    },
+    {
+      "id": "L049-e12",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-etre",
+      "prompt": "Mia sorella è venuta con me, ma lui è rimasto a casa.",
+      "answers": [
+        "Ma sœur est venue avec moi, mais lui est resté à la maison.",
+        "Ma soeur est venue avec moi, mais lui est resté chez lui.",
+        "Ma sœur est venue avec moi, mais lui est resté chez lui."
+      ],
+      "explain_it": "Venir e rester vogliono essere; il pronome tonico lui serve per il contrasto."
+    },
+    {
+      "id": "L049-e13",
+      "type": "order",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "prompt": "È partito presto per la stazione.",
+      "answers": [
+        "Il est parti tôt pour la gare."
+      ],
+      "distractors": [
+        "a",
+        "partis"
+      ],
+      "explain_it": "Partir si coniuga con essere e il soggetto maschile singolare non richiede accordo."
+    },
+    {
+      "id": "L049-e14",
+      "type": "mcq",
+      "level": 1,
+      "concept": "stressed-pronouns",
+      "prompt": "Come si dice 'con te' in francese?",
+      "options": [
+        "avec toi",
+        "avec tu",
+        "avec te",
+        "avec ton"
+      ],
+      "correct": 0,
+      "explain_it": "Dopo una preposizione si usa il pronome tonico toi, non il soggetto tu."
+    },
+    {
+      "id": "L049-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "stressed-pronouns",
+      "text": "Je pars sans ___ demain.",
+      "answers": [
+        "lui"
+      ],
+      "hint": "(pronome tonico, lui)",
+      "prompt": "Parto senza di lui domani.",
+      "explain_it": "Dopo la preposizione sans si usa il pronome tonico lui."
+    },
+    {
+      "id": "L049-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "stressed-pronouns",
+      "prompt": "Io e te andiamo al cinema.",
+      "answers": [
+        "Toi et moi, nous allons au cinéma.",
+        "Toi et moi, on va au cinéma.",
+        "Toi et moi allons au cinéma."
+      ],
+      "explain_it": "Con un soggetto doppio si usano due pronomi tonici uniti da et."
+    },
+    {
+      "id": "L049-e17",
+      "type": "order",
+      "level": 1,
+      "concept": "stressed-pronouns",
+      "prompt": "Mia sorella e io abitiamo a Parigi.",
+      "answers": [
+        "Ma sœur et moi habitons à Paris."
+      ],
+      "distractors": [
+        "je",
+        "nous"
+      ],
+      "explain_it": "Nel soggetto doppio il pronome tonico moi va dopo il nome."
+    },
+    {
+      "id": "L049-e18",
+      "type": "mcq",
+      "level": 2,
+      "concept": "stressed-pronouns",
+      "prompt": "Quale forma completa 'chez ___' per dire 'a casa mia'?",
+      "options": [
+        "chez moi",
+        "chez je",
+        "chez me",
+        "chez mon"
+      ],
+      "correct": 0,
+      "explain_it": "Dopo chez si usa il pronome tonico moi."
+    },
+    {
+      "id": "L049-e19",
+      "type": "cloze",
+      "level": 2,
+      "concept": "stressed-pronouns",
+      "text": "C'est ___ qui ai téléphoné.",
+      "answers": [
+        "moi"
+      ],
+      "hint": "(pronome tonico, io)",
+      "prompt": "Sono io che ho telefonato.",
+      "explain_it": "Con c'est si usa il pronome tonico, qui seguito dal verbo nella frase relativa."
+    },
+    {
+      "id": "L049-e20",
+      "type": "flash",
+      "level": 2,
+      "concept": "stressed-pronouns",
+      "front": "Quando si usano i pronomi tonici (moi, toi, lui, elle...)?",
+      "back": "Dopo una preposizione (avec moi), per enfasi o contrasto (Moi, je...), da soli nelle risposte (Et toi ?), con c'est/ce sont (c'est lui), con aussi e non plus (moi aussi), nei soggetti multipli (toi et moi).",
+      "note": "Non si confondono con i pronomi soggetto je, tu, il."
+    },
+    {
+      "id": "L049-e21",
+      "type": "write",
+      "level": 3,
+      "concept": "stressed-pronouns",
+      "prompt": "Loro, gli uomini, sono venuti con noi.",
+      "answers": [
+        "Eux, ils sont venus avec nous.",
+        "Eux sont venus avec nous.",
+        "Ils sont venus avec nous.",
+        "Les hommes, eux, sont venus avec nous."
+      ],
+      "explain_it": "Il pronome tonico eux enfatizza il soggetto ils e si mette all'inizio della frase."
+    },
+    {
+      "id": "L049-e22",
+      "type": "write",
+      "level": 3,
+      "concept": "comparatives",
+      "prompt": "Lui è più alto di me.",
+      "answers": [
+        "Il est plus grand que moi.",
+        "Lui, il est plus grand que moi."
+      ],
+      "explain_it": "Dopo que nel paragone si usa il pronome tonico moi, non je."
+    },
+    {
+      "id": "L049-e23",
+      "type": "mcq",
+      "level": 1,
+      "concept": "relative-pronouns",
+      "prompt": "Completa con il pronome giusto: L'uomo ___ abita qui è mio zio.",
+      "options": [
+        "qui",
+        "que",
+        "quoi"
+      ],
+      "correct": 0,
+      "explain_it": "Qui è il soggetto della frase relativa e precede il verbo abita."
+    },
+    {
+      "id": "L049-e24",
+      "type": "cloze",
+      "level": 2,
+      "concept": "relative-pronouns",
+      "text": "Le livre ___ tu lis est intéressant.",
+      "answers": [
+        "que"
+      ],
+      "hint": "(che, complemento oggetto)",
+      "prompt": "Il libro che leggi è interessante.",
+      "explain_it": "Que è il complemento oggetto di lis, quindi è seguito dal soggetto tu."
+    },
+    {
+      "id": "L049-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "relative-pronouns",
+      "prompt": "La donna che parla è mia madre.",
+      "answers": [
+        "La femme qui parle est ma mère."
+      ],
+      "explain_it": "Qui è il soggetto di parle, quindi è seguito direttamente dal verbo."
+    },
+    {
+      "id": "L049-e26",
+      "type": "write",
+      "level": 3,
+      "concept": "relative-pronouns",
+      "prompt": "Il film che ho visto ieri era bello.",
+      "answers": [
+        "Le film que j'ai vu hier était [beau|bien|bon]."
+      ],
+      "explain_it": "Que è il complemento oggetto di vu, e precede il passato prossimo con avere."
+    },
+    {
+      "id": "L049-e27",
+      "type": "cloze",
+      "level": 3,
+      "concept": "relative-pronouns",
+      "text": "Je ne comprends pas ___ tu veux dire.",
+      "answers": [
+        "ce que"
+      ],
+      "hint": "(ciò che, complemento oggetto)",
+      "prompt": "Non capisco quello che vuoi dire.",
+      "explain_it": "Ce que è il complemento oggetto di veux dire, senza antecedente esplicito."
+    },
+    {
+      "id": "L049-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "relative-pronouns",
+      "prompt": "Quello che mi preoccupa è il lavoro.",
+      "answers": [
+        "Ce qui [m'inquiète|me préoccupe], c'est le [travail|boulot]."
+      ],
+      "explain_it": "Ce qui è soggetto del verbo inquiète, quindi è seguito direttamente dal verbo."
+    },
+    {
+      "id": "L049-e29",
+      "type": "mcq",
+      "level": 2,
+      "concept": "relative-pronouns",
+      "prompt": "Come si traduce 'quello che volete dire'?",
+      "options": [
+        "ce que vous voulez dire",
+        "ce qui vous voulez dire",
+        "ce que vous dites",
+        "celui que vous voulez dire"
+      ],
+      "correct": 0,
+      "explain_it": "Ce que è il complemento oggetto di vouloir dire; ce qui non sarebbe corretto davanti a vous voulez."
+    },
+    {
+      "id": "L049-e30",
+      "type": "flash",
+      "level": 2,
+      "concept": "relative-pronouns",
+      "front": "Qui o que?",
+      "back": "Qui è il soggetto della relativa ed è seguito dal verbo (l'homme qui parle). Que è il complemento oggetto ed è seguito da soggetto e verbo (le livre que je lis). Davanti a vocale diventa qu'.",
+      "note": "Il relativo va subito dopo il nome a cui si riferisce."
+    },
+    {
+      "id": "L049-e31",
+      "type": "dictation",
+      "level": 2,
+      "concept": "relative-pronouns",
+      "text": "C'est la femme qui habite à côté.",
+      "explain_it": "Qui introduce la relativa con soggetto femminile femme e verbo habite."
+    },
+    {
+      "id": "L049-e32",
+      "type": "order",
+      "level": 3,
+      "concept": "relative-pronouns",
+      "prompt": "Quello che mi piace è il mare.",
+      "answers": [
+        "Ce qui me plaît c'est la mer"
+      ],
+      "distractors": [
+        "que",
+        "qui"
+      ],
+      "explain_it": "Ce qui è soggetto della relativa: plaît ha come soggetto ce qui."
+    },
+    {
+      "id": "L049-e33",
+      "type": "mcq",
+      "level": 2,
+      "concept": "plural",
+      "prompt": "Come si dice 'due paia di pantaloni'?",
+      "options": [
+        "deux pantalons",
+        "deux pantalon",
+        "deux pantaloni",
+        "deux pantalones"
+      ],
+      "correct": 0,
+      "explain_it": "In francese pantalon è singolare; il plurale è pantalons, e con un numero si usa il plurale."
+    },
+    {
+      "id": "L049-e34",
+      "type": "write",
+      "level": 2,
+      "concept": "plural",
+      "prompt": "Le informazioni sono importanti.",
+      "answers": [
+        "Les informations sont importantes.",
+        "Les renseignements sont importants."
+      ],
+      "explain_it": "Les informations al plurale indica le notizie o le informazioni."
+    },
+    {
+      "id": "L049-e35",
+      "type": "cloze",
+      "level": 2,
+      "concept": "plural",
+      "text": "J'ai besoin de tes ___.",
+      "answers": [
+        "conseils"
+      ],
+      "hint": "(consiglio, plurale)",
+      "prompt": "Ho bisogno dei tuoi consigli.",
+      "explain_it": "Conseils è il plurale di conseil: qui serve il plurale dopo tes."
+    },
+    {
+      "id": "L049-e36",
+      "type": "flash",
+      "level": 2,
+      "concept": "plural",
+      "front": "Singolare in francese, plurale in italiano: quali esempi?",
+      "back": "Un pantalon e un jean (i pantaloni, i jeans), la vaisselle (i piatti).",
+      "note": "Plurali in francese: les toilettes, les vacances, les courses, les gens, les affaires."
+    },
+    {
+      "id": "L049-e37",
+      "type": "order",
+      "level": 2,
+      "concept": "plural",
+      "prompt": "Le notizie di oggi sono buone.",
+      "answers": [
+        "Les [informations|actualités] d'aujourd'hui sont bonnes."
+      ],
+      "distractors": [
+        "est",
+        "bon"
+      ],
+      "explain_it": "Les informations e les actualités sono plurali e concordano con sont."
+    },
+    {
+      "id": "L049-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "plural",
+      "prompt": "Hai già preso i bagagli?",
+      "answers": [
+        "As-tu déjà pris les bagages ?",
+        "Tu as déjà pris les bagages ?",
+        "Est-ce que tu as déjà pris les bagages ?",
+        "As-tu déjà pris tes bagages ?",
+        "Tu as déjà pris tes bagages ?",
+        "Est-ce que tu as déjà pris tes bagages ?"
+      ],
+      "explain_it": "In questo senso bagages si usa al plurale, anche con il possessivo tes."
+    },
+    {
+      "id": "L049-e39",
+      "type": "mcq",
+      "level": 3,
+      "concept": "plural",
+      "prompt": "Quale parola indica 'un'informazione' (singolare)?",
+      "options": [
+        "une information",
+        "les informations",
+        "des informations",
+        "une informations"
+      ],
+      "correct": 0,
+      "explain_it": "Information è singolare con l'articolo une; il plurale les informations indica le notizie."
+    },
+    {
+      "id": "L049-e40",
+      "type": "mcq",
+      "level": 1,
+      "concept": "prepositions",
+      "prompt": "Completa: Sono dal medico.",
+      "options": [
+        "Je suis chez le médecin.",
+        "Je suis à le médecin.",
+        "Je suis dans le médecin.",
+        "Je suis de le médecin."
+      ],
+      "correct": 0,
+      "explain_it": "Chez indica la casa o lo studio di una persona; à le non si contrae correttamente."
+    },
+    {
+      "id": "L049-e41",
+      "type": "cloze",
+      "level": 1,
+      "concept": "prepositions",
+      "text": "Il est arrivé ___ midi.",
+      "answers": [
+        "après"
+      ],
+      "hint": "(dopo)",
+      "prompt": "È arrivato dopo mezzogiorno.",
+      "explain_it": "Après indica un momento successivo a un altro."
+    },
+    {
+      "id": "L049-e42",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "Le chiavi sono sotto la sedia.",
+      "answers": [
+        "Les [clés|clefs] sont sous la chaise."
+      ],
+      "explain_it": "Sous indica una posizione inferiore, sotto l'oggetto."
+    },
+    {
+      "id": "L049-e43",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "Sono qui da lunedì.",
+      "answers": [
+        "Je suis ici depuis lundi.",
+        "Je suis là depuis lundi."
+      ],
+      "explain_it": "Depuis indica un'azione iniziata nel passato che continua ancora."
+    },
+    {
+      "id": "L049-e44",
+      "type": "cloze",
+      "level": 2,
+      "concept": "prepositions",
+      "text": "J'habite ici ___ deux ans.",
+      "answers": [
+        "depuis"
+      ],
+      "hint": "(da, con durata che continua)",
+      "prompt": "Abito qui da due anni.",
+      "explain_it": "Depuis indica una durata che inizia nel passato e arriva fino al presente."
+    },
+    {
+      "id": "L049-e45",
+      "type": "mcq",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "Completa: Ho riflettuto per alcuni secondi.",
+      "options": [
+        "J'ai réfléchi pendant quelques secondes.",
+        "J'ai réfléchi depuis quelques secondes.",
+        "J'ai réfléchi pour quelques secondes.",
+        "J'ai réfléchi devant quelques secondes."
+      ],
+      "correct": 0,
+      "explain_it": "Pendant indica un periodo concluso, come durante; depuis richiederebbe un'azione ancora in corso."
+    },
+    {
+      "id": "L049-e46",
+      "type": "write",
+      "level": 3,
+      "concept": "prepositions",
+      "prompt": "Il museo è vicino alla stazione, tra la banca e la chiesa.",
+      "answers": [
+        "Le musée est [près de|à côté de] la gare, entre la banque et l'église."
+      ],
+      "explain_it": "Près de indica la vicinanza, entre indica la posizione fra due elementi."
+    },
+    {
+      "id": "L049-e47",
+      "type": "dictation",
+      "level": 2,
+      "concept": "prepositions",
+      "text": "Je vais au marché avec ma mère.",
+      "explain_it": "Au è la contrazione di à + le e si usa davanti a un nome maschile."
+    },
+    {
+      "id": "L049-e48",
+      "type": "flash",
+      "level": 2,
+      "concept": "prepositions",
+      "front": "Depuis, pendant, pour: qual è la differenza?",
+      "back": "Depuis = da (durata che inizia nel passato e continua). Pendant = durante (periodo concluso o in corso). Pour = per (scopo o durata prevista).",
+      "note": "Esempio: depuis deux ans / pendant deux ans / pour deux ans."
+    },
+    {
+      "id": "L049-e49",
+      "type": "cloze",
+      "level": 2,
+      "concept": "prepositions",
+      "text": "Nous partons ___ juin.",
+      "answers": [
+        "en"
+      ],
+      "hint": "(in, mese)",
+      "prompt": "Partiamo a giugno.",
+      "explain_it": "Con i mesi e le stagioni si usa en, non dans o à."
+    },
+    {
+      "id": "L049-e50",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Questa idea non mi interessa affatto.",
+      "answers": [
+        "Cette idée ne me dit rien.",
+        "Cette idée ne me dit rien du tout.",
+        "Cette idée ne m'intéresse pas du tout.",
+        "Cette idée ne m'intéresse pas."
+      ],
+      "explain_it": "Ne... rien con il pronome me e il verbo dire: 'non mi dice niente' (non mi attrae)."
+    },
+    {
+      "id": "L049-e51",
+      "type": "write",
+      "level": 2,
+      "concept": "negation-other",
+      "prompt": "Non ho nessun amico qui.",
+      "answers": [
+        "Je n'ai aucun ami ici.",
+        "Je n'ai pas d'ami ici.",
+        "Je n'ai pas d'amis ici."
+      ],
+      "explain_it": "Aucun si usa con ne, senza pas; in alternativa si può usare pas de."
+    },
+    {
+      "id": "L049-e52",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-cod",
+      "text": "Les billets ? Je ___ ai achetés hier.",
+      "answers": [
+        "les"
+      ],
+      "hint": "(pronome, oggetto diretto)",
+      "prompt": "I biglietti? Li ho comprati ieri.",
+      "explain_it": "Il pronome les sostituisce il complemento oggetto plurale e il participio concorda con esso."
+    },
+    {
+      "id": "L049-e53",
+      "type": "mcq",
+      "level": 2,
+      "concept": "ce-cest-il-est",
+      "prompt": "Completa: ___ un bon médecin.",
+      "options": [
+        "C'est",
+        "Il est",
+        "Il",
+        "Ce sont"
+      ],
+      "correct": 0,
+      "explain_it": "Davanti a un nome con articolo si usa c'est, non il est."
+    },
+    {
+      "id": "L049-e54",
+      "type": "cloze",
+      "level": 1,
+      "concept": "adjective-agreement",
+      "text": "Marie est très ___.",
+      "answers": [
+        "contente"
+      ],
+      "hint": "(contento, femminile)",
+      "prompt": "Marie è molto contenta.",
+      "explain_it": "L'aggettivo concorda con il soggetto femminile Marie."
+    },
+    {
+      "id": "L049-e55",
+      "type": "write",
+      "level": 2,
+      "concept": "comparatives",
+      "prompt": "L'aereo è più veloce del treno.",
+      "answers": [
+        "L'avion est plus rapide que le train."
+      ],
+      "explain_it": "Il comparativo di maggioranza si costruisce con plus... que."
+    },
+    {
+      "id": "L049-e56",
+      "type": "write",
+      "level": 3,
+      "concept": "relative-pronouns",
+      "prompt": "Ieri la nostra vicina, che abita al secondo piano, è uscita presto con sua figlia.",
+      "answers": [
+        "Hier, notre voisine, qui habite au deuxième étage, est sortie tôt avec sa fille.",
+        "Hier, notre voisine qui habite au deuxième étage est sortie tôt avec sa fille."
+      ],
+      "explain_it": "Qui introduce la relativa, poi il passato prossimo con essere concorda con voisine femminile."
+    },
+    {
+      "id": "L049-e57",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-etre",
+      "prompt": "Il libro che hai comprato a Parigi è diventato famoso.",
+      "answers": [
+        "Le livre que tu as acheté à Paris est devenu [célèbre|connu]."
+      ],
+      "explain_it": "Devenir vuole essere; que è il complemento oggetto di acheté, e il participio non cambia perché livre è maschile singolare."
+    },
+    {
+      "id": "L049-e58",
+      "type": "order",
+      "level": 3,
+      "concept": "relative-pronouns",
+      "prompt": "Ciò che dici è vero.",
+      "answers": [
+        "Ce que tu dis est vrai"
+      ],
+      "distractors": [
+        "qui",
+        "quoi"
+      ],
+      "explain_it": "Ce que è il complemento oggetto di dis."
+    },
+    {
+      "id": "L049-e59",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Porta dei pantaloncini blu.",
+      "answers": [
+        "Il porte un short bleu.",
+        "Il porte des shorts bleus.",
+        "Elle porte un short bleu.",
+        "Elle porte des shorts bleus."
+      ],
+      "explain_it": "Short è maschile; al plurale prende la s: des shorts."
+    }
+  ]
+}

@@ -10,21 +10,39 @@
     {
       "id": "pronominal-verbs",
       "title_it": "Verbi pronominali (riflessivi)",
-      "explain_it": "In francese molti verbi della vita quotidiana si costruiscono con un pronome riflessivo (me, te, se, nous, vous, se) che concorda con il soggetto: je me lève, tu te lèves. Come in italiano (mi alzo), il pronome sta davanti al verbo coniugato, ma in francese non si può mai omettere. Alcuni verbi sono riflessivi in francese anche quando il senso è diverso, come se demander (chiedersi). Attenzione: ennuyer senza pronome è transitivo e significa annoiare qualcuno, mentre s'ennuyer significa annoiarsi.",
+      "explain_it": "In francese molti verbi della vita quotidiana si costruiscono con un pronome riflessivo (me, te, se, nous, vous) che concorda con il soggetto: je me lève, tu te lèves, il se lève. Come in italiano (mi alzo), il pronome sta davanti al verbo coniugato. Attenzione: ennuyer senza pronome è transitivo e significa annoiare qualcuno, mentre s'ennuyer significa annoiarsi.",
       "examples": [
-        { "fr": "Je me lève à sept heures.", "it": "Mi alzo alle sette." },
-        { "fr": "Ce film m'ennuie.", "it": "Questo film mi annoia." },
-        { "fr": "Je m'ennuie au bureau.", "it": "Mi annoio in ufficio." }
+        {
+          "fr": "Je me lève à sept heures.",
+          "it": "Mi alzo alle sette."
+        },
+        {
+          "fr": "Ce film m'ennuie.",
+          "it": "Questo film mi annoia."
+        },
+        {
+          "fr": "Je m'ennuie au bureau.",
+          "it": "Mi annoio in ufficio."
+        }
       ]
     },
     {
       "id": "imperative",
       "title_it": "Imperativo dei verbi riflessivi",
-      "explain_it": "Nell'imperativo affermativo il pronome riflessivo segue il verbo e si unisce con un trattino: lève-toi (tu), levez-vous (voi). Nell'imperativo negativo il pronome torna davanti al verbo, senza trattino. Il confronto con l'italiano (alzati / non ti alzare) è simile, ma in francese la regola è identica per tutti i verbi riflessivi.",
+      "explain_it": "Nell'imperativo affermativo il pronome riflessivo segue il verbo e si unisce con un trattino: lève-toi (tu), levez-vous (voi). Nell'imperativo negativo il pronome torna davanti al verbo, senza trattino: ne te lève pas. Come in italiano (alzati / non ti alzare, ma anche non alzarti), il pronome cambia posto tra forma affermativa e negativa.",
       "examples": [
-        { "fr": "Dépêche-toi !", "it": "Sbrigati!" },
-        { "fr": "Méfiez-vous !", "it": "Attenzione!" },
-        { "fr": "Ne te méfie pas !", "it": "Non diffidare!" }
+        {
+          "fr": "Dépêche-toi !",
+          "it": "Sbrigati!"
+        },
+        {
+          "fr": "Méfiez-vous !",
+          "it": "Attenzione!"
+        },
+        {
+          "fr": "Ne te méfie pas !",
+          "it": "Non diffidare!"
+        }
       ]
     },
     {
@@ -32,8 +50,14 @@
       "title_it": "À con radio, televisione e telefono",
       "explain_it": "Per i mezzi di comunicazione si usa la preposizione à: à la radio, à la télévision, au téléphone, come in italiano si dice alla radio o al telefono. Non si usa sur. Ricorda le contrazioni: à + le diventa au, à + les diventa aux.",
       "examples": [
-        { "fr": "J'ai entendu la nouvelle à la radio.", "it": "Ho sentito la notizia alla radio." },
-        { "fr": "Je parle au téléphone.", "it": "Parlo al telefono." }
+        {
+          "fr": "J'ai entendu la nouvelle à la radio.",
+          "it": "Ho sentito la notizia alla radio."
+        },
+        {
+          "fr": "Je parle au téléphone.",
+          "it": "Parlo al telefono."
+        }
       ]
     },
     {
@@ -41,8 +65,14 @@
       "title_it": "En e dans con i mezzi di trasporto",
       "explain_it": "Con i mezzi di trasporto si usa en senza articolo: en voiture, en bus, en métro, en train. Per andare a piedi si dice à pied, non en. Dans indica invece il luogo in cui si trova qualcosa o qualcuno: dans le bureau, dans la salle de bains.",
       "examples": [
-        { "fr": "Je vais au bureau en métro.", "it": "Vado in ufficio in metro." },
-        { "fr": "Il va à l'école à pied.", "it": "Va a scuola a piedi." }
+        {
+          "fr": "Je vais au bureau en métro.",
+          "it": "Vado in ufficio in metro."
+        },
+        {
+          "fr": "Il va à l'école à pied.",
+          "it": "Va a scuola a piedi."
+        }
       ]
     },
     {
@@ -50,8 +80,14 @@
       "title_it": "De + les = des, anche con se méfier",
       "explain_it": "Davanti a un plurale, de e les si contraggono in des: se méfier des informations, parler des enfants. Con de + ces non c'è contrazione: de ces informations. In italiano è lo stesso meccanismo di dei e delle (di + i, di + le).",
       "examples": [
-        { "fr": "Il parle des enfants.", "it": "Parla dei bambini." },
-        { "fr": "Je me méfie des politiciens.", "it": "Diffido dei politici." }
+        {
+          "fr": "Il parle des enfants.",
+          "it": "Parla dei bambini."
+        },
+        {
+          "fr": "Je me méfie des politiciens.",
+          "it": "Diffido dei politici."
+        }
       ]
     },
     {
@@ -59,334 +95,830 @@
       "title_it": "Espressioni idiomatiche della lezione",
       "explain_it": "Alcune espressioni non si traducono parola per parola: faire semblant de significa fingere di, ça ne m'étonne pas significa non mi sorprende, au bout de indica il momento in cui qualcosa avviene, cioè dopo un certo tempo. Vanno memorizzate come blocchi.",
       "examples": [
-        { "fr": "Il fait semblant de dormir.", "it": "Finge di dormire." },
-        { "fr": "Au bout d'une heure, je pars.", "it": "Dopo un'ora, parto." }
+        {
+          "fr": "Il fait semblant de dormir.",
+          "it": "Finge di dormire."
+        },
+        {
+          "fr": "Au bout d'une heure, je pars.",
+          "it": "Dopo un'ora, parto."
+        }
       ]
     }
   ],
   "vocab": [
-    { "fr": "s'ennuyer", "it": "annoiarsi", "pos": "v", "note": "je m'ennuie" },
-    { "fr": "se réveiller", "it": "svegliarsi", "pos": "v", "note": "je me réveille" },
-    { "fr": "se connecter (à)", "it": "collegarsi (a)", "pos": "v", "note": "je me connecte" },
-    { "fr": "Internet (m.)", "it": "Internet", "pos": "n" },
-    { "fr": "la boîte de réception", "it": "la casella di posta in arrivo", "pos": "n" },
-    { "fr": "l'information (f.)", "it": "la notizia, l'informazione", "pos": "n" },
-    { "fr": "se méfier (de)", "it": "diffidare (di)", "pos": "v", "note": "je me méfie" },
-    { "fr": "le journal télévisé", "it": "il telegiornale", "pos": "n" },
-    { "fr": "déprimer", "it": "deprimere", "pos": "v", "note": "ça me déprime" },
-    { "fr": "se tromper", "it": "sbagliarsi", "pos": "v", "note": "je me trompe" },
-    { "fr": "constamment", "it": "costantemente", "pos": "adv" },
-    { "fr": "le magazine", "it": "la rivista", "pos": "n" },
-    { "fr": "la tablette", "it": "il tablet", "pos": "n" },
-    { "fr": "se dépêcher", "it": "sbrigarsi", "pos": "v", "note": "je me dépêche" },
-    { "fr": "se raser", "it": "radersi", "pos": "v", "note": "je me rase" },
-    { "fr": "s'habiller", "it": "vestirsi", "pos": "v", "note": "je m'habille" },
-    { "fr": "se maquiller", "it": "truccarsi", "pos": "v", "note": "je me maquille" },
-    { "fr": "se brosser", "it": "spazzolarsi", "pos": "v", "note": "se brosser les dents" },
-    { "fr": "la salle de bains", "it": "il bagno (la stanza)", "pos": "n" },
-    { "fr": "le bureau (m.)", "it": "l'ufficio", "pos": "n" },
-    { "fr": "la clé", "it": "la chiave", "pos": "n" },
-    { "fr": "se détendre", "it": "rilassarsi", "pos": "v", "note": "je me détends" },
-    { "fr": "s'énerver", "it": "innervosirsi", "pos": "v", "note": "je m'énerve" },
-    { "fr": "s'étonner", "it": "stupirsi", "pos": "v", "note": "ça ne m'étonne pas" },
-    { "fr": "le métier", "it": "il mestiere", "pos": "n" },
-    { "fr": "se demander", "it": "chiedersi", "pos": "v", "note": "je me demande" },
-    { "fr": "se reposer", "it": "riposarsi", "pos": "v", "note": "je me repose" },
-    { "fr": "le médecin", "it": "il medico", "pos": "n" },
-    { "fr": "tranquille", "it": "tranquillo", "pos": "adj", "note": "uguale al maschile e al femminile" }
+    {
+      "fr": "s'ennuyer",
+      "it": "annoiarsi",
+      "pos": "v",
+      "note": "je m'ennuie"
+    },
+    {
+      "fr": "se réveiller",
+      "it": "svegliarsi",
+      "pos": "v",
+      "note": "je me réveille"
+    },
+    {
+      "fr": "se connecter (à)",
+      "it": "collegarsi (a)",
+      "pos": "v",
+      "note": "je me connecte"
+    },
+    {
+      "fr": "Internet (m.)",
+      "it": "Internet",
+      "pos": "n"
+    },
+    {
+      "fr": "la boîte de réception",
+      "it": "la casella di posta in arrivo",
+      "pos": "n"
+    },
+    {
+      "fr": "l'information (f.)",
+      "it": "la notizia, l'informazione",
+      "pos": "n"
+    },
+    {
+      "fr": "se méfier (de)",
+      "it": "diffidare (di)",
+      "pos": "v",
+      "note": "je me méfie"
+    },
+    {
+      "fr": "le journal télévisé",
+      "it": "il telegiornale",
+      "pos": "n"
+    },
+    {
+      "fr": "déprimer",
+      "it": "deprimere",
+      "pos": "v",
+      "note": "ça me déprime"
+    },
+    {
+      "fr": "se tromper",
+      "it": "sbagliarsi",
+      "pos": "v",
+      "note": "je me trompe"
+    },
+    {
+      "fr": "constamment",
+      "it": "costantemente",
+      "pos": "adv"
+    },
+    {
+      "fr": "le magazine",
+      "it": "la rivista",
+      "pos": "n"
+    },
+    {
+      "fr": "la tablette",
+      "it": "il tablet",
+      "pos": "n"
+    },
+    {
+      "fr": "se dépêcher",
+      "it": "sbrigarsi",
+      "pos": "v",
+      "note": "je me dépêche"
+    },
+    {
+      "fr": "se raser",
+      "it": "radersi",
+      "pos": "v",
+      "note": "je me rase"
+    },
+    {
+      "fr": "s'habiller",
+      "it": "vestirsi",
+      "pos": "v",
+      "note": "je m'habille"
+    },
+    {
+      "fr": "se maquiller",
+      "it": "truccarsi",
+      "pos": "v",
+      "note": "je me maquille"
+    },
+    {
+      "fr": "se brosser",
+      "it": "spazzolarsi (se brosser les dents: lavarsi i denti)",
+      "pos": "v",
+      "note": "se brosser les dents"
+    },
+    {
+      "fr": "la salle de bains",
+      "it": "il bagno (la stanza)",
+      "pos": "n"
+    },
+    {
+      "fr": "le bureau",
+      "it": "l'ufficio",
+      "pos": "n"
+    },
+    {
+      "fr": "la clé",
+      "it": "la chiave",
+      "pos": "n"
+    },
+    {
+      "fr": "se détendre",
+      "it": "rilassarsi",
+      "pos": "v",
+      "note": "je me détends"
+    },
+    {
+      "fr": "s'énerver",
+      "it": "innervosirsi",
+      "pos": "v",
+      "note": "je m'énerve"
+    },
+    {
+      "fr": "s'étonner",
+      "it": "stupirsi",
+      "pos": "v",
+      "note": "ça ne m'étonne pas"
+    },
+    {
+      "fr": "le métier",
+      "it": "il mestiere",
+      "pos": "n"
+    },
+    {
+      "fr": "se demander",
+      "it": "chiedersi",
+      "pos": "v",
+      "note": "je me demande"
+    },
+    {
+      "fr": "se reposer",
+      "it": "riposarsi",
+      "pos": "v",
+      "note": "je me repose"
+    },
+    {
+      "fr": "le médecin",
+      "it": "il medico",
+      "pos": "n"
+    },
+    {
+      "fr": "tranquille",
+      "it": "tranquillo",
+      "pos": "adj",
+      "note": "uguale al maschile e al femminile"
+    },
+    {
+      "fr": "autant que",
+      "it": "tanto quanto",
+      "pos": "expr",
+      "note": "autant que possible"
+    },
+    {
+      "fr": "car",
+      "it": "poiché, perché (formale)",
+      "pos": "conj",
+      "note": "falso amico: non è le car, il pullman"
+    },
+    {
+      "fr": "le centre-ville",
+      "it": "il centro (città)",
+      "pos": "n",
+      "note": "pl. les centres-villes"
+    },
+    {
+      "fr": "la dent",
+      "it": "il dente",
+      "pos": "n",
+      "note": "se brosser les dents"
+    },
+    {
+      "fr": "se doucher",
+      "it": "farsi la doccia",
+      "pos": "v"
+    },
+    {
+      "fr": "s'endormir",
+      "it": "addormentarsi",
+      "pos": "v",
+      "note": "je m'endors"
+    },
+    {
+      "fr": "exactement",
+      "it": "esattamente",
+      "pos": "adv"
+    },
+    {
+      "fr": "se fier (à)",
+      "it": "fidarsi (di)",
+      "pos": "v",
+      "note": "contrario di se méfier"
+    },
+    {
+      "fr": "les infos (f. pl.)",
+      "it": "le notizie, il telegiornale",
+      "pos": "n",
+      "note": "familiare, da les informations"
+    },
+    {
+      "fr": "s'installer",
+      "it": "sistemarsi, mettersi",
+      "pos": "v"
+    },
+    {
+      "fr": "la radio",
+      "it": "la radio",
+      "pos": "n",
+      "note": "à la radio"
+    },
+    {
+      "fr": "stressant(e)",
+      "it": "stressante",
+      "pos": "adj"
+    }
   ],
   "expressions": [
-    { "fr": "Je m'ennuie.", "it": "Mi annoio.", "note": "il pronome riflessivo è obbligatorio" },
-    { "fr": "tous les jours", "it": "ogni giorno" },
-    { "fr": "sans exception", "it": "senza eccezioni" },
-    { "fr": "faire semblant de", "it": "fingere di" },
-    { "fr": "Ça ne m'étonne pas.", "it": "Non mi sorprende.", "note": "espressione idiomatica, non letterale" },
-    { "fr": "de toute façon", "it": "in ogni caso", "note": "registro neutro" },
-    { "fr": "Méfiez-vous !", "it": "Attenzione!", "note": "avvertimento alla forma di cortesia" },
-    { "fr": "à pied", "it": "a piedi" },
-    { "fr": "en voiture", "it": "in macchina" },
-    { "fr": "au bout de", "it": "dopo, alla fine di", "note": "seguito da un periodo di tempo" },
-    { "fr": "Je me demande si…", "it": "Mi chiedo se…" }
+    {
+      "fr": "Je m'ennuie.",
+      "it": "Mi annoio.",
+      "note": "il pronome riflessivo è obbligatorio"
+    },
+    {
+      "fr": "tous les jours",
+      "it": "ogni giorno"
+    },
+    {
+      "fr": "sans exception",
+      "it": "senza eccezioni"
+    },
+    {
+      "fr": "faire semblant de",
+      "it": "fingere di"
+    },
+    {
+      "fr": "Ça ne m'étonne pas.",
+      "it": "Non mi sorprende.",
+      "note": "espressione idiomatica, non letterale"
+    },
+    {
+      "fr": "de toute façon",
+      "it": "in ogni caso",
+      "note": "registro neutro"
+    },
+    {
+      "fr": "Méfiez-vous !",
+      "it": "Diffidate! Attenzione!",
+      "note": "avvertimento alla forma di cortesia"
+    },
+    {
+      "fr": "à pied",
+      "it": "a piedi"
+    },
+    {
+      "fr": "en voiture",
+      "it": "in macchina"
+    },
+    {
+      "fr": "au bout de",
+      "it": "dopo, alla fine di",
+      "note": "seguito da un periodo di tempo"
+    },
+    {
+      "fr": "Je me demande si…",
+      "it": "Mi chiedo se…"
+    }
   ],
   "notes_it": [
     "Il verbo ennuyer senza pronome è transitivo (annoiare qualcuno), mentre s'ennuyer significa annoiarsi: attenzione a non confonderli.",
     "Falso amico: les informations, al plurale, indica il telegiornale o i notiziari; l'information al singolare è la notizia. Nel parlato si dice anche les infos.",
     "Pronuncia: in tranquille la desinenza -ille si legge [il], non come l'italiano gli, e la parola è uguale al maschile e al femminile.",
-    "Il riflessivo francese è spesso lo stesso dell'italiano (mi alzo, je me lève), ma in francese non si omette mai, anche con verbi che in italiano usiamo senza pronome come annoiare (s'ennuyer)."
+    "I verbi riflessivi francesi corrispondono in gran parte a quelli italiani (mi alzo, je me lève; mi annoio, je m'ennuie); ricorda il pronome davanti al verbo, anche quando l'italiano può usare una forma diversa (mi sveglio, je me réveille)."
   ],
   "exercises": [
     {
-      "id": "L050-e01", "type": "mcq", "level": 1, "concept": "pronominal-verbs",
+      "id": "L050-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronominal-verbs",
       "prompt": "Come si dice 'Mi alzo presto'?",
-      "options": ["Je me lève tôt", "Je lève tôt", "Je me levé tôt", "Je me lève tard"],
+      "options": [
+        "Je me lève tôt",
+        "Je lève tôt",
+        "Je me levé tôt",
+        "Je me lève tard"
+      ],
       "correct": 0,
       "explain_it": "Il verbo se lever è riflessivo: il pronome me va davanti al verbo, come mi in italiano. Tôt significa presto, mentre tard significa tardi."
     },
     {
-      "id": "L050-e02", "type": "mcq", "level": 1, "concept": "pronominal-verbs",
+      "id": "L050-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronominal-verbs",
       "prompt": "Quale forma è corretta per 'Mi annoio'?",
-      "options": ["Je m'ennuie", "Je m'ennui", "Je ennuie", "Je me ennuie"],
+      "options": [
+        "Je m'ennuie",
+        "Je m'ennui",
+        "Je ennuie",
+        "Je me ennuie"
+      ],
       "correct": 0,
       "explain_it": "Davanti a vocale il pronome me diventa m', e il verbo è s'ennuyer, quindi je m'ennuie."
     },
     {
-      "id": "L050-e03", "type": "mcq", "level": 2, "concept": "pronominal-verbs",
+      "id": "L050-e03",
+      "type": "mcq",
+      "level": 2,
+      "concept": "pronominal-verbs",
       "prompt": "Scegli la traduzione di 'Questo film mi annoia':",
-      "options": ["Ce film m'ennuie", "Ce film s'ennuie", "Ce film m'ennuies", "Je m'ennuie ce film"],
+      "options": [
+        "Ce film m'ennuie",
+        "Ce film s'ennuie",
+        "Ce film m'ennuies",
+        "Je m'ennuie ce film"
+      ],
       "correct": 0,
-      "explain_it": "Senza pronome riflessivo ennuyer è transitivo: il pronome m' indica la persona annoiata. S'ennuie vorrebbe dire che il film si annoia da solo."
+      "explain_it": "Qui ennuyer è transitivo: il pronome m' indica la persona annoiata. Ce film s'ennuie vorrebbe dire che il film si annoia."
     },
     {
-      "id": "L050-e04", "type": "mcq", "level": 1, "concept": "prepositions",
+      "id": "L050-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "prepositions",
       "prompt": "Come si dice 'Ho sentito la notizia alla radio'?",
-      "options": ["J'ai entendu la nouvelle à la radio", "J'ai entendu la nouvelle sur la radio", "J'ai entendu la nouvelle dans la radio", "J'ai entendu la nouvelle en radio"],
+      "options": [
+        "J'ai entendu la nouvelle à la radio",
+        "J'ai entendu la nouvelle sur la radio",
+        "J'ai entendu la nouvelle dans la radio",
+        "J'ai entendu la nouvelle en radio"
+      ],
       "correct": 0,
       "explain_it": "Con i mezzi di comunicazione si usa à: à la radio. Sur e dans non si usano con radio, e en radio non ha articolo."
     },
     {
-      "id": "L050-e05", "type": "mcq", "level": 1, "concept": "prepositions-place",
+      "id": "L050-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "prepositions-place",
       "prompt": "Come si dice 'Vado al lavoro in metro'?",
-      "options": ["Je vais au travail en métro", "Je vais au travail dans le métro", "Je vais au travail à métro", "Je vais au travail au métro"],
+      "options": [
+        "Je vais au travail en métro",
+        "Je vais au travail dans le métro",
+        "Je vais au travail à métro",
+        "Je vais au travail au métro"
+      ],
       "correct": 0,
       "explain_it": "Con i mezzi di trasporto si usa en senza articolo: en métro. Dans le métro indica il luogo, non il mezzo."
     },
     {
-      "id": "L050-e06", "type": "mcq", "level": 2, "concept": "contractions-au-du",
+      "id": "L050-e06",
+      "type": "mcq",
+      "level": 2,
+      "concept": "contractions-au-du",
       "prompt": "Quale frase significa 'Diffido delle notizie'?",
-      "options": ["Je me méfie des informations", "Je me méfie de les informations", "Je me méfie du informations", "Je me méfie de informations"],
+      "options": [
+        "Je me méfie des informations",
+        "Je me méfie de les informations",
+        "Je me méfie du informations",
+        "Je me méfie de informations"
+      ],
       "correct": 0,
       "explain_it": "Con un plurale, de + les si contrae in des, anche dopo se méfier. Du è solo per il maschile singolare."
     },
     {
-      "id": "L050-e07", "type": "mcq", "level": 2, "concept": "idioms",
+      "id": "L050-e07",
+      "type": "mcq",
+      "level": 2,
+      "concept": "idioms",
       "prompt": "Cosa significa l'espressione 'faire semblant de'?",
-      "options": ["fingere di", "sembrare di", "assomigliare a", "credere di"],
+      "options": [
+        "fingere di",
+        "sembrare di",
+        "assomigliare a",
+        "credere di"
+      ],
       "correct": 0,
       "explain_it": "Faire semblant de è un'espressione idiomatica: fingere di fare qualcosa. Non ha il senso di sembrare o assomigliare."
     },
     {
-      "id": "L050-e08", "type": "order", "level": 1, "concept": "imperative",
+      "id": "L050-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "imperative",
       "prompt": "Alzatevi subito!",
-      "answers": ["Levez-vous tout de suite"],
-      "distractors": ["Lève-toi", "rapide"],
+      "answers": [
+        "Levez-vous tout de suite"
+      ],
+      "distractors": [
+        "Lève-toi",
+        "rapide"
+      ],
       "explain_it": "All'imperativo di vous il pronome segue il verbo con un trattino: Levez-vous. Tout de suite traduce subito."
     },
     {
-      "id": "L050-e09", "type": "order", "level": 2, "concept": "prepositions",
+      "id": "L050-e09",
+      "type": "order",
+      "level": 2,
+      "concept": "prepositions",
       "prompt": "Ho visto la notizia alla televisione.",
-      "answers": ["J'ai vu la nouvelle à la télévision"],
-      "distractors": ["sur", "dans"],
+      "answers": [
+        "J'ai vu la nouvelle à la télévision"
+      ],
+      "distractors": [
+        "sur",
+        "dans"
+      ],
       "explain_it": "Alla televisione si dice à la télévision, come alla radio. Sur non è corretto con i mezzi di comunicazione."
     },
     {
-      "id": "L050-e10", "type": "order", "level": 1, "concept": "prepositions-place",
+      "id": "L050-e10",
+      "type": "order",
+      "level": 1,
+      "concept": "prepositions-place",
       "prompt": "Vado a scuola a piedi.",
-      "answers": ["Je vais à l'école à pied"],
-      "distractors": ["en", "dans"],
+      "answers": [
+        "Je vais à l'école à pied"
+      ],
+      "distractors": [
+        "en",
+        "dans"
+      ],
       "explain_it": "Per andare a piedi si usa à pied, non en. A l'école è la scuola come destinazione."
     },
     {
-      "id": "L050-e11", "type": "cloze", "level": 1, "concept": "prepositions",
+      "id": "L050-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "prepositions",
       "text": "J'écoute les infos ___ radio le matin.",
-      "answers": ["à la"],
+      "answers": [
+        "à la"
+      ],
       "hint": "(preposizione + articolo)",
       "prompt": "Ascolto le notizie alla radio la mattina.",
       "explain_it": "Radio è femminile e il mezzo di comunicazione richiede à la: alla radio."
     },
     {
-      "id": "L050-e12", "type": "cloze", "level": 1, "concept": "prepositions-place",
+      "id": "L050-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "prepositions-place",
       "text": "Je vais au travail ___ voiture.",
-      "answers": ["en"],
+      "answers": [
+        "en"
+      ],
       "hint": "(mezzo di trasporto, senza articolo)",
       "prompt": "Vado al lavoro in macchina.",
       "explain_it": "Voiture è un mezzo di trasporto e si costruisce con en, senza articolo."
     },
     {
-      "id": "L050-e13", "type": "cloze", "level": 2, "concept": "contractions-au-du",
+      "id": "L050-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "contractions-au-du",
       "text": "Il parle ___ enfants de son école.",
-      "answers": ["des"],
+      "answers": [
+        "des"
+      ],
       "hint": "(parler de + plurale)",
       "prompt": "Parla dei bambini della sua scuola.",
       "explain_it": "Parler de con un plurale contrae de + les in des: des enfants."
     },
     {
-      "id": "L050-e14", "type": "cloze", "level": 2, "concept": "idioms",
+      "id": "L050-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
       "text": "Il fait ___ de dormir.",
-      "answers": ["semblant"],
+      "answers": [
+        "semblant"
+      ],
       "hint": "(faire ___ de: fingere)",
       "prompt": "Lui finge di dormire.",
       "explain_it": "L'espressione faire semblant de significa fingere di: il sostantivo semblant non va cambiato."
     },
     {
-      "id": "L050-e15", "type": "cloze", "level": 2, "concept": "pronominal-verbs",
+      "id": "L050-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronominal-verbs",
       "text": "Elle ___ tôt le matin.",
-      "answers": ["se lève"],
+      "answers": [
+        "se lève"
+      ],
       "hint": "(se lever, presente, elle)",
       "prompt": "Lei si alza presto la mattina.",
       "explain_it": "Con elle il riflessivo è se, e il verbo lever prende la forme lève: elle se lève."
     },
     {
-      "id": "L050-e16", "type": "cloze", "level": 2, "concept": "pronominal-verbs",
+      "id": "L050-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronominal-verbs",
       "text": "Le soir, ___ à Internet.",
-      "answers": ["nous nous connectons", "on se connecte"],
+      "answers": [
+        "nous nous connectons",
+        "on se connecte"
+      ],
       "hint": "(se connecter, presente)",
       "prompt": "La sera ci colleghiamo a Internet.",
       "explain_it": "Con nous il pronome è nous e il verbo è connectons. Con on il pronome è se."
     },
     {
-      "id": "L050-e17", "type": "write", "level": 2, "concept": "pronominal-verbs",
+      "id": "L050-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "pronominal-verbs",
       "prompt": "Mi lavo i denti dopo cena.",
-      "answers": ["Je me brosse les dents après [le dîner|le repas]"],
-      "ask": "Traduci in francese",
+      "answers": [
+        "Je me [brosse|lave] les dents après [le dîner|le repas|dîner]"
+      ],
       "explain_it": "Il verbo se brosser è riflessivo e i denti si indicano con l'articolo les, non con un possessivo."
     },
     {
-      "id": "L050-e18", "type": "write", "level": 2, "concept": "pronominal-verbs",
-      "prompt": "Mi sono vestito in fretta.",
-      "answers": ["Je me suis habillé [vite|rapidement]", "Je me suis habillée [vite|rapidement]"],
-      "ask": "Traduci in francese",
-      "explain_it": "Al passato prossimo i verbi riflessivi usano essere e il participio concorda con il soggetto: habillé per un uomo, habillée per una donna."
+      "id": "L050-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Mi vesto in fretta.",
+      "answers": [
+        "Je m'habille [vite|rapidement|en vitesse]"
+      ],
+      "explain_it": "S'habiller è un verbo riflessivo: me si elide in m' davanti a vocale."
     },
     {
-      "id": "L050-e19", "type": "write", "level": 2, "concept": "pronominal-verbs",
+      "id": "L050-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "pronominal-verbs",
       "prompt": "Ti svegli alle sette?",
-      "answers": ["Tu te réveilles à [sept|7] heures ?", "Te réveilles-tu à [sept|7] heures ?"],
+      "answers": [
+        "Tu te réveilles à [sept|7] heures ?",
+        "Te réveilles-tu à [sept|7] heures ?",
+        "Est-ce que tu te réveilles à [sept|7] heures ?"
+      ],
       "ask": "Traduci in francese (tu)",
       "explain_it": "Con tu la domanda si può fare con l'intonazione o con l'inversione, e il pronome te resta sempre davanti al verbo."
     },
     {
-      "id": "L050-e20", "type": "write", "level": 3, "concept": "pronominal-verbs",
+      "id": "L050-e20",
+      "type": "write",
+      "level": 3,
+      "concept": "pronominal-verbs",
       "prompt": "Je me lève tôt.",
-      "answers": ["Je ne me lève pas tôt"],
+      "answers": [
+        "Je ne me lève pas tôt"
+      ],
       "ask": "Volgi alla forma negativa",
       "explain_it": "Nella negazione ne va prima del pronome riflessivo e pas dopo il verbo coniugato."
     },
     {
-      "id": "L050-e21", "type": "write", "level": 3, "concept": "pronominal-verbs",
-      "prompt": "Elle se maquille avant le travail.",
-      "answers": ["Elle s'est maquillée avant le travail", "Elle s'est maquillée avant son travail"],
-      "ask": "Volgi al passé composé",
-      "explain_it": "Il passato prossimo dei verbi riflessivi usa être, e il participio passato concorda con il soggetto femminile: maquillée."
+      "id": "L050-e21",
+      "type": "write",
+      "level": 3,
+      "concept": "pronominal-verbs",
+      "prompt": "Il se rase tous les matins.",
+      "answers": [
+        "Ils se rasent tous les matins",
+        "Ils se rasent chaque matin"
+      ],
+      "ask": "Volgi al plurale (ils)",
+      "explain_it": "Al plurale il pronome diventa se e il verbo prende -ent: ils se rasent."
     },
     {
-      "id": "L050-e22", "type": "write", "level": 2, "concept": "pronominal-verbs",
-      "prompt": "Mi chiedo se lui verrà domani.",
-      "answers": ["Je me demande s'il viendra demain", "Je me demande s'il vient demain"],
-      "ask": "Traduci in francese",
+      "id": "L050-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Mi chiedo se lui viene domani.",
+      "answers": [
+        "Je me demande s'il vient demain",
+        "Je me demande s'il viendra demain"
+      ],
       "explain_it": "Se demander è riflessivo e si usa per chiedersi; s'il è la forma elisa di si il."
     },
     {
-      "id": "L050-e23", "type": "write", "level": 1, "concept": "imperative",
+      "id": "L050-e23",
+      "type": "write",
+      "level": 1,
+      "concept": "imperative",
       "prompt": "Sbrigati!",
-      "answers": ["Dépêche-toi"],
+      "answers": [
+        "Dépêche-toi"
+      ],
       "ask": "Traduci in francese (tu)",
       "explain_it": "All'imperativo affermativo con tu il pronome toi va dopo il verbo con un trattino."
     },
     {
-      "id": "L050-e24", "type": "write", "level": 2, "concept": "imperative",
+      "id": "L050-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "imperative",
       "prompt": "Diffidate di quell'uomo!",
-      "answers": ["Méfiez-vous de cet homme", "Méfiez-vous de ce monsieur"],
+      "answers": [
+        "Méfiez-vous de cet homme",
+        "Méfiez-vous de cet homme-là",
+        "Méfiez-vous de ce monsieur"
+      ],
       "ask": "Traduci in francese (vous)",
       "explain_it": "All'imperativo di vous il pronome vous segue il verbo con un trattino, e il complemento introdotto da de va al maschile con cet davanti a vocale o h muta."
     },
     {
-      "id": "L050-e25", "type": "write", "level": 3, "concept": "imperative",
+      "id": "L050-e25",
+      "type": "write",
+      "level": 3,
+      "concept": "imperative",
       "prompt": "Lève-toi !",
-      "answers": ["Ne te lève pas"],
+      "answers": [
+        "Ne te lève pas"
+      ],
       "ask": "Volgi alla forma negativa (tu)",
       "explain_it": "Nella forma negativa dell'imperativo il pronome torna davanti al verbo e non si unisce con il trattino."
     },
     {
-      "id": "L050-e26", "type": "write", "level": 2, "concept": "prepositions",
+      "id": "L050-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions",
       "prompt": "Parlo al telefono con mia madre.",
-      "answers": ["Je parle au téléphone avec ma mère", "Je parle au téléphone avec maman"],
+      "answers": [
+        "Je parle au téléphone avec ma mère",
+        "Je parle au téléphone avec maman",
+        "Je parle avec ma mère au téléphone"
+      ],
       "ask": "Traduci in francese",
       "explain_it": "Con il telefono si usa au téléphone, con au come contrazione di à + le."
     },
     {
-      "id": "L050-e27", "type": "write", "level": 2, "concept": "contractions-au-du",
+      "id": "L050-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "contractions-au-du",
       "prompt": "Parlo delle nuove riviste.",
-      "answers": ["Je parle des nouveaux magazines", "Je parle des magazines récents"],
+      "answers": [
+        "Je parle des nouveaux magazines",
+        "Je parle des magazines récents",
+        "Je parle des nouvelles revues"
+      ],
       "ask": "Traduci in francese",
       "explain_it": "Parler de con un plurale produce la contrazione des, come in italiano delle."
     },
     {
-      "id": "L050-e28", "type": "write", "level": 3, "concept": "contractions-au-du",
+      "id": "L050-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "contractions-au-du",
       "prompt": "Je me méfie de cette information.",
-      "answers": ["Je me méfie de ces informations", "Je me méfie de ces infos"],
+      "answers": [
+        "Je me méfie de ces informations",
+        "Je me méfie de ces infos"
+      ],
       "ask": "Volgi al plurale",
       "explain_it": "Con ces non c'è contrazione: de resta de. La contrazione des compare solo con les."
     },
     {
-      "id": "L050-e29", "type": "write", "level": 3, "concept": "prepositions-place",
+      "id": "L050-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "prepositions-place",
       "prompt": "Vado al lavoro in macchina e poi lavoro in centro.",
-      "answers": ["Je vais au travail en voiture, puis je travaille [au|dans le] centre-ville"],
+      "answers": [
+        "Je vais au travail en voiture, [puis|et puis|ensuite|et ensuite|et] je travaille [au|dans le] [centre-ville|centre]"
+      ],
       "ask": "Traduci in francese",
       "explain_it": "Il mezzo di trasporto si esprime con en voiture, mentre il luogo di lavoro in centro si esprime con au o dans le centre-ville."
     },
     {
-      "id": "L050-e30", "type": "write", "level": 2, "concept": "idioms",
+      "id": "L050-e30",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
       "prompt": "Non mi sorprende affatto.",
-      "answers": ["Ça ne m'étonne pas du tout", "Ça ne m'étonne absolument pas"],
+      "answers": [
+        "Ça ne m'étonne pas du tout",
+        "Ça ne m'étonne absolument pas",
+        "Ça ne m'étonne pas"
+      ],
       "ask": "Traduci in francese",
       "explain_it": "Ça ne m'étonne pas è l'equivalente idiomatico di non mi sorprende; du tout e absolument rafforzano la negazione."
     },
     {
-      "id": "L050-e31", "type": "write", "level": 3, "concept": "idioms",
+      "id": "L050-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
       "prompt": "Dopo mezz'ora ho finito il lavoro.",
-      "answers": ["Au bout d'une demi-heure, j'ai fini le travail", "Au bout d'une demi-heure, j'ai terminé le travail"],
+      "answers": [
+        "Au bout d'une demi-heure, j'ai [fini|terminé] [le|mon] travail"
+      ],
       "ask": "Traduci in francese",
       "explain_it": "Au bout de indica il momento in cui qualcosa si conclude; con avoir il participio di finir è fini oppure terminé."
     },
     {
-      "id": "L050-e32", "type": "write", "level": 3, "concept": "pronominal-verbs",
+      "id": "L050-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "pronominal-verbs",
       "prompt": "Ogni mattina mi sveglio alle sette, mi lavo e poi vado al lavoro in metro.",
-      "answers": ["[Chaque matin|Tous les matins], je me réveille à [sept|7] heures, je me lave et [ensuite|puis] je vais au travail en métro"],
+      "answers": [
+        "[Chaque matin|Tous les matins], je me réveille à [sept|7] heures, je me lave et [ensuite|puis] je vais [au travail|au bureau] en métro"
+      ],
       "ask": "Traduci in francese",
       "explain_it": "Frase lunga con verbi riflessivi, mezzo di trasporto con en e preposizione au per il luogo di lavoro."
     },
     {
-      "id": "L050-e33", "type": "write", "level": 2, "concept": "pronominal-verbs",
+      "id": "L050-e33",
+      "type": "write",
+      "level": 2,
+      "concept": "pronominal-verbs",
       "prompt": "Non ti annoi mai in ufficio?",
-      "answers": ["Ne t'ennuies-tu jamais au bureau ?", "Tu ne t'ennuies jamais au bureau ?"],
+      "answers": [
+        "Ne t'ennuies-tu jamais au bureau ?",
+        "Tu ne t'ennuies jamais au bureau ?"
+      ],
       "ask": "Traduci in francese (tu)",
       "explain_it": "Con tu la domanda negativa usa ne ... jamais attorno al verbo riflessivo, e il pronome t' elide davanti a vocale."
     },
     {
-      "id": "L050-e34", "type": "write", "level": 3, "concept": "idioms",
+      "id": "L050-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
       "prompt": "Dopo un'ora mi annoio e faccio finta di lavorare.",
-      "answers": ["Au bout d'une heure, je m'ennuie et je fais semblant de [travailler|bosser]"],
+      "answers": [
+        "Au bout d'une heure, je m'ennuie et je fais semblant de [travailler|bosser]"
+      ],
       "ask": "Traduci in francese",
       "explain_it": "Au bout de, s'ennuyer e faire semblant de si combinano in una sola frase: attenzione al pronome riflessivo me che si elide."
     },
     {
-      "id": "L050-e35", "type": "dictation", "level": 2, "concept": "pronominal-verbs",
+      "id": "L050-e35",
+      "type": "dictation",
+      "level": 2,
+      "concept": "pronominal-verbs",
       "text": "Chaque matin, je me lave les mains avant le petit-déjeuner.",
-      "explain_it": "Il pronome me si elide davanti a vocale o resta intero davanti a consonante; qui lave è preceduto da me: je me lave."
+      "explain_it": "Je me lave: il pronome me resta intero davanti a consonante; le parti del corpo vogliono l'articolo (les mains), non il possessivo."
     },
     {
-      "id": "L050-e36", "type": "dictation", "level": 3, "concept": "pronominal-verbs",
+      "id": "L050-e36",
+      "type": "dictation",
+      "level": 3,
+      "concept": "pronominal-verbs",
       "text": "Tu t'ennuies au bureau, mais tu ne te méfies pas de tes collègues.",
       "explain_it": "Tu t'ennuies usa il pronome t' davanti a vocale; nella negazione ne te méfies pas mantiene il pronome davanti al verbo."
     },
     {
-      "id": "L050-e37", "type": "flash", "level": 2, "concept": "pronominal-verbs",
+      "id": "L050-e37",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronominal-verbs",
       "front": "Presente di 'se lever' (je, tu, il, nous, vous, ils)",
       "back": "je me lève, tu te lèves, il se lève, nous nous levons, vous vous levez, ils se lèvent",
       "note": "Il pronome riflessivo precede sempre il verbo coniugato; me e te si elidono davanti a vocale.",
       "explain_it": "Ripassare la coniugazione completa aiuta a non dimenticare il pronome riflessivo."
     },
     {
-      "id": "L050-e38", "type": "flash", "level": 1, "concept": "prepositions",
+      "id": "L050-e38",
+      "type": "flash",
+      "level": 1,
+      "concept": "prepositions",
       "front": "Con radio, televisione e telefono quale preposizione si usa?",
       "back": "à: à la radio, à la télévision, au téléphone (non si dice sur la radio)",
       "explain_it": "Con i mezzi di comunicazione si usa sempre à, mai sur o dans."
     },
     {
-      "id": "L050-e39", "type": "flash", "level": 2, "concept": "imperative",
+      "id": "L050-e39",
+      "type": "flash",
+      "level": 2,
+      "concept": "imperative",
       "front": "Imperativo di 'se lever' con tu: forma affermativa e negativa",
       "back": "Lève-toi (affermativo, pronome dopo il verbo con trattino); ne te lève pas (negativo, pronome prima del verbo)",
       "explain_it": "Il pronome cambia posizione nell'imperativo a seconda che la frase sia affermativa o negativa."
+    },
+    {
+      "id": "L050-e40",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Mi faccio la doccia e mi lavo i denti.",
+      "answers": [
+        "Je me douche et je me brosse les dents."
+      ],
+      "explain_it": "Verbi pronominali: se doucher, se brosser les dents (articolo, non possessivo)."
+    },
+    {
+      "id": "L050-e41",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Ce travail est très ___, mais je l'aime.",
+      "answers": [
+        "stressant"
+      ],
+      "prompt": "Questo lavoro è molto stressante, ma mi piace.",
+      "explain_it": "Stressant, maschile come travail.",
+      "hint": "(stressant)"
     }
   ]
 }

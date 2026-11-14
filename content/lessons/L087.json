@@ -1,0 +1,855 @@
+{
+  "n": 87,
+  "title_fr": "Quatre-vingt-septième leçon - Le commissaire Périer mène l'enquête",
+  "title_it": "Ottantasettesima lezione - Il commissario Périer conduce l'indagine",
+  "review": false,
+  "status": "verified",
+  "source": "3d1a4471 pdf 47-56 (libro p.523-532): la lezione inizia in basso a pdf 47 (p.523, titolo dopo l'esercizio 2 della L86); dialogo a pdf 47-53; note a pdf 49-54; esercizio 1 a pdf 53 (p.529), risposte a pdf 54 (p.530); esercizio 2 in alto a pdf 55 (p.531), risposte in alto a pdf 56 (p.532, fuori dall'intervallo richiesto ma lette per completezza); la L88 inizia a meta pdf 55",
+  "theme_it": "Il commissario Périer riunisce i suoi collaboratori dopo il ritrovamento del cadavere di un agente segreto sui gradini del Trocadero. Il sospetto è che qualcuno della squadra abbia tradito, e il commissario avverte che tutti sono sospettati: nessuno sarà risparmiato.",
+  "grammar": [
+    {
+      "id": "plus-que-parfait",
+      "title_it": "Il plus-que-parfait (trapassato prossimo)",
+      "explain_it": "Il plus-que-parfait indica un'azione avvenuta prima di un'altra nel passato, come il trapassato prossimo italiano. Si forma con l'imperfetto di avoir o être più il participio passato: avais fini, étais parti. Con i verbi che vogliono être (partir, sortir, arriver) il participio concorda con il soggetto: elle était partie, ils étaient sortis. Nel dialogo serve a dire che Antoine era già scomparso o stava per fare qualcosa quando è successo il fatto: il francese racconta la sequenza con questo tempo, come in italiano.",
+      "examples": [
+        {
+          "fr": "Elle était déjà partie quand je suis arrivé.",
+          "it": "Era già partita quando sono arrivato."
+        },
+        {
+          "fr": "Ils avaient fini le travail avant le dîner.",
+          "it": "Avevano finito il lavoro prima di cena."
+        }
+      ]
+    },
+    {
+      "id": "subjonctif",
+      "title_it": "Il congiuntivo e le sue alternative: avant de",
+      "explain_it": "Dopo avant que, jusqu'à ce que e i verbi di volontà (vouloir que) si usa il congiuntivo. Se però il soggetto della principale e quello della subordinata sono lo stesso, si preferisce avant de + infinito: avant de devenir espion (e non 'avant que je devienne espion'), come in italiano 'prima di diventare spia'. Con soggetti diversi resta avant que + congiuntivo: avant qu'il parte.",
+      "examples": [
+        {
+          "fr": "Avant de devenir espion, il était comptable.",
+          "it": "Prima di diventare spia, era contabile."
+        },
+        {
+          "fr": "Partons avant qu'il pleuve.",
+          "it": "Partiamo prima che piova."
+        }
+      ]
+    },
+    {
+      "id": "negation-other",
+      "title_it": "Il 'ne' espletivo dopo empêcher que",
+      "explain_it": "In alcune costruzioni il ne non nega nulla: è un ne espletivo, facoltativo e tipico del registro formale. Compare dopo verbi di timore o impedimento come empêcher que, craindre que e avant que, con il congiuntivo. Le mauvais temps empêche qu'ils ne partent e ...qu'ils partent hanno lo stesso senso. In italiano non esiste un equivalente: si può ignorare in ascolto e usare con parsimonia nello scritto.",
+      "examples": [
+        {
+          "fr": "Le brouillard empêche qu'on ne voie la mer.",
+          "it": "La nebbia impedisce che si veda il mare."
+        },
+        {
+          "fr": "Je crains qu'il ne parte.",
+          "it": "Temo che parta."
+        }
+      ]
+    },
+    {
+      "id": "connectors",
+      "title_it": "Tant que: finché, fintanto che",
+      "explain_it": "Tant que è una congiunzione che indica la durata di una condizione: finché, fintanto che (as long as). Quando è preceduta dalla negazione (tant que... ne... pas) significa fino a quando non. In questi casi si usa l'indicativo, non il congiuntivo: tant qu'il pleut, tant que je n'aurai pas de preuves. Attenzione a non confonderla con tant de (tanto, quantità) e con tandis que (mentre, contrasto).",
+      "examples": [
+        {
+          "fr": "Vous pouvez boire tant que vous voulez.",
+          "it": "Potete bere finché volete."
+        },
+        {
+          "fr": "Je ne lâcherai pas tant que je n'aurai pas de preuves.",
+          "it": "Non mollerò finché non avrò delle prove."
+        }
+      ]
+    },
+    {
+      "id": "imperative",
+      "title_it": "L'imperativo di 'se taire' e dei verbi pronominali",
+      "explain_it": "L'imperativo dei verbi pronominali si forma come quello degli altri verbi, ma il pronome riflessivo segue il verbo con un trattino e te diventa toi: tais-toi (tu), taisez-vous (vous). Alla forma negativa il pronome torna davanti al verbo: ne te tais pas. Il participio passato di taire (tu) segue il modello di plaire (plu), ma questo serve per il passato, non per l'imperativo.",
+      "examples": [
+        {
+          "fr": "Tais-toi, tout le monde t'écoute.",
+          "it": "Stai zitto, tutti ti ascoltano."
+        },
+        {
+          "fr": "Taisez-vous, s'il vous plaît.",
+          "it": "Zitti, per favore."
+        }
+      ]
+    },
+    {
+      "id": "adjective-agreement",
+      "title_it": "Super: aggettivo e avverbio invariabile",
+      "explain_it": "In francese colloquiale super è invariabile: non cambia né per genere né per numero. Può essere un aggettivo (elle est super, une pharmacienne super sympa) o un intensificatore davanti a un altro aggettivo (super sympa = davvero simpatica). Non va confuso con superbe, che è un aggettivo variabile e formale (magnifico, splendido).",
+      "examples": [
+        {
+          "fr": "Elle est super sympa, la nouvelle pharmacienne.",
+          "it": "La nuova farmacista è davvero simpatica."
+        },
+        {
+          "fr": "Quelle journée superbe !",
+          "it": "Che giornata splendida!"
+        }
+      ]
+    },
+    {
+      "id": "adjective-position",
+      "title_it": "Drôle de: aggettivo davanti al nome",
+      "explain_it": "L'espressione drôle de più nome significa 'strano, bizzarro' e si costruisce con il de tra l'aggettivo e il nome: un drôle de type, une drôle d'odeur. Il drôle da solo, invece, vuol dire 'divertente'. In italiano diremmo 'un tipo strano' con l'aggettivo dopo il nome: qui la struttura è invertita.",
+      "examples": [
+        {
+          "fr": "C'est un drôle de type.",
+          "it": "È un tipo strano."
+        },
+        {
+          "fr": "Il avait une drôle d'idée.",
+          "it": "Aveva un'idea bizzarra."
+        }
+      ]
+    },
+    {
+      "id": "register",
+      "title_it": "Descendre nel gergo: far fuori",
+      "explain_it": "Descendre è intransitivo (con être) nel senso di 'scendere': je suis descendu. Con un complemento oggetto si coniuga con avoir e significa 'portare giù' (j'ai descendu la valise); nel gergo descendre quelqu'un vuol dire 'far fuori qualcuno', espressione colloquiale da film poliziesco.",
+      "examples": [
+        {
+          "fr": "Je suis descendu au premier étage.",
+          "it": "Sono sceso al primo piano."
+        },
+        {
+          "fr": "Les gangsters ont descendu le témoin.",
+          "it": "I gangster hanno fatto fuori il testimone."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le commissaire",
+      "it": "il commissario",
+      "pos": "n"
+    },
+    {
+      "fr": "l'enquête (f.)",
+      "it": "l'indagine",
+      "pos": "n"
+    },
+    {
+      "fr": "le collègue",
+      "it": "il collega",
+      "pos": "n"
+    },
+    {
+      "fr": "la guerre froide",
+      "it": "la guerra fredda",
+      "pos": "n"
+    },
+    {
+      "fr": "se réchauffer",
+      "it": "riscaldarsi, riaccendersi",
+      "pos": "v"
+    },
+    {
+      "fr": "l'agent secret (m.)",
+      "it": "l'agente segreto",
+      "pos": "n"
+    },
+    {
+      "fr": "le service de sécurité",
+      "it": "il servizio di sicurezza",
+      "pos": "n"
+    },
+    {
+      "fr": "l'ennemi (m.)",
+      "it": "il nemico",
+      "pos": "n"
+    },
+    {
+      "fr": "la marche",
+      "it": "il gradino",
+      "pos": "n",
+      "note": "au pluriel: les marches, la scalinata"
+    },
+    {
+      "fr": "sans vie",
+      "it": "senza vita",
+      "pos": "expr"
+    },
+    {
+      "fr": "descendre",
+      "it": "abbattere, far fuori",
+      "pos": "v",
+      "note": "nel gergo, con complemento diretto"
+    },
+    {
+      "fr": "l'espion (m.)",
+      "it": "la spia",
+      "pos": "n"
+    },
+    {
+      "fr": "redoutable",
+      "it": "temibile",
+      "pos": "adj"
+    },
+    {
+      "fr": "l'arme (f.)",
+      "it": "l'arma",
+      "pos": "n"
+    },
+    {
+      "fr": "potable",
+      "it": "potabile",
+      "pos": "adj"
+    },
+    {
+      "fr": "l'agglomération (f.)",
+      "it": "l'agglomerato urbano",
+      "pos": "n"
+    },
+    {
+      "fr": "honteux / honteuse",
+      "it": "vergognoso",
+      "pos": "adj"
+    },
+    {
+      "fr": "risquer",
+      "it": "rischiare",
+      "pos": "v"
+    },
+    {
+      "fr": "la peau",
+      "it": "la pelle",
+      "pos": "n"
+    },
+    {
+      "fr": "l'ombre (f.)",
+      "it": "l'ombra",
+      "pos": "n"
+    },
+    {
+      "fr": "trahir",
+      "it": "tradire",
+      "pos": "v"
+    },
+    {
+      "fr": "le tueur",
+      "it": "il killer, l'assassino",
+      "pos": "n"
+    },
+    {
+      "fr": "le commanditaire",
+      "it": "il mandante",
+      "pos": "n"
+    },
+    {
+      "fr": "le meurtre",
+      "it": "l'omicidio",
+      "pos": "n"
+    },
+    {
+      "fr": "empoisonner",
+      "it": "avvelenare",
+      "pos": "v"
+    },
+    {
+      "fr": "la vraisemblance",
+      "it": "la verosimiglianza",
+      "pos": "n"
+    },
+    {
+      "fr": "le cadavre",
+      "it": "il cadavere",
+      "pos": "n"
+    },
+    {
+      "fr": "le suspect",
+      "it": "il sospettato",
+      "pos": "n"
+    },
+    {
+      "fr": "épargner",
+      "it": "risparmiare",
+      "pos": "v"
+    },
+    {
+      "fr": "le coupable",
+      "it": "il colpevole",
+      "pos": "n"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Mener l'enquête",
+      "it": "Condurre l'indagine",
+      "note": "espressione standard per un'inchiesta"
+    },
+    {
+      "fr": "Selon toute vraisemblance",
+      "it": "Con ogni probabilità",
+      "note": "registro formale"
+    },
+    {
+      "fr": "Tout laisse à penser que",
+      "it": "Tutto fa pensare che",
+      "note": "seguito da indicativo"
+    },
+    {
+      "fr": "Le fin mot de l'histoire",
+      "it": "Il bandolo della matassa",
+      "note": "la verità nascosta, il punto chiave"
+    },
+    {
+      "fr": "Mettre la main sur",
+      "it": "Mettere le mani su",
+      "note": "trovare, afferrare qualcuno"
+    },
+    {
+      "fr": "Risquer sa peau",
+      "it": "Rischiare la pelle",
+      "note": "rischiare la vita"
+    },
+    {
+      "fr": "Au fin fond de la campagne",
+      "it": "In fondo alla campagna, nel nulla",
+      "note": "fin fond = il punto più remoto"
+    },
+    {
+      "fr": "Vous pouvez compter sur moi",
+      "it": "Potete contare su di me",
+      "note": "formula di impegno"
+    },
+    {
+      "fr": "Surtout pas !",
+      "it": "Assolutamente no!",
+      "note": "risposta colloquiale e decisa"
+    }
+  ],
+  "notes_it": [
+    "Falsi amici e pronuncia: assassin si legge [assasè] e suspect [süspè], con la t finale muta. Sono simili all'italiano ma non vanno pronunciati all'italiana.",
+    "Attenzione a 'fin': come aggettivo vuol dire 'fine, sottile' (un fil fin), come nome femminile 'la fin' è la fine. L'espressione 'au fin fond de' significa 'in fondo a, nel più remoto angolo di'.",
+    "Super è un prefisso/anglicismo ormai integrato: invariabile e colloquiale (elle est super, des idées super). Non va confuso con 'superbe', aggettivo regolare (superbe/superbes) e più formale, che significa 'splendido, magnifico'.",
+    "Vraisemblable e verosimile sono quasi identici: la formula selon toute vraisemblance (con ogni probabilità) è un modo elegante e formale per esprimere una supposizione."
+  ],
+  "exercises": [
+    {
+      "id": "L087-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "plus-que-parfait",
+      "prompt": "Quale frase significa 'Quando sono arrivato, lei era già partita'?",
+      "options": [
+        "Quand je suis arrivé, elle était déjà partie.",
+        "Quand je suis arrivé, elle avait déjà parti.",
+        "Quand je suis arrivé, elle est déjà partie.",
+        "Quand je suis arrivé, elle était déjà partir."
+      ],
+      "correct": 0,
+      "explain_it": "Partir vuole être, quindi si usa l'imperfetto di être più il participio concordato: était partie. Est partie è il passato prossimo e significa 'è partita'."
+    },
+    {
+      "id": "L087-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "imperative",
+      "prompt": "Come si dice a un amico: 'Stai zitto!'?",
+      "options": [
+        "Tais-toi !",
+        "Tu te tais ?",
+        "Taisez-toi !",
+        "Tais-te !"
+      ],
+      "correct": 0,
+      "explain_it": "All'imperativo tu di se taire si dice tais-toi: il pronome te diventa toi dopo il trattino."
+    },
+    {
+      "id": "L087-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "connectors",
+      "prompt": "Quale locuzione significa 'finché' (per tutto il tempo in cui)?",
+      "options": [
+        "tant que",
+        "tant de",
+        "tandis que",
+        "tant qu'à"
+      ],
+      "correct": 0,
+      "explain_it": "Tant que indica la durata: finché. Tant de è 'tanto' (quantità), tandis que è 'mentre' (contrasto)."
+    },
+    {
+      "id": "L087-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "adjective-position",
+      "prompt": "Come si dice 'un tipo strano'?",
+      "options": [
+        "un drôle de type",
+        "un type drôle de",
+        "un type drôle",
+        "un drôle type"
+      ],
+      "correct": 0,
+      "explain_it": "Con il senso di 'strano' drôle si mette davanti al nome, con il de: un drôle de type."
+    },
+    {
+      "id": "L087-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "register",
+      "prompt": "Nel linguaggio colloquiale, 'descendre quelqu'un' significa:",
+      "options": [
+        "far fuori qualcuno",
+        "scendere da qualcuno",
+        "abbassare qualcuno",
+        "fare visita a qualcuno"
+      ],
+      "correct": 0,
+      "explain_it": "Nel gergo descendre con persona come complemento vuol dire abbattere o far fuori: non ha il senso letterale di 'scendere'."
+    },
+    {
+      "id": "L087-e06",
+      "type": "mcq",
+      "level": 1,
+      "concept": "subjonctif",
+      "prompt": "Completa con il congiuntivo presente di partir: 'Prépare-toi avant que nous ___.'",
+      "options": [
+        "partions",
+        "partons",
+        "partirons",
+        "partîmes"
+      ],
+      "correct": 0,
+      "explain_it": "Dopo avant que si usa il congiuntivo: que nous partions. Partons è indicativo, partirons è futuro, partîmes è passato semplice."
+    },
+    {
+      "id": "L087-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "plus-que-parfait",
+      "prompt": "Lei era già uscita quando sono arrivato.",
+      "answers": [
+        "Elle était déjà sortie quand je suis arrivé."
+      ],
+      "distractors": [
+        "avait"
+      ],
+      "explain_it": "Sortir si coniuga con être, quindi il plus-que-parfait è était sortie, con il participio concordato al femminile."
+    },
+    {
+      "id": "L087-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "imperative",
+      "prompt": "Stai zitto, Marc!",
+      "answers": [
+        "Tais-toi, Marc !"
+      ],
+      "distractors": [
+        "tu",
+        "te"
+      ],
+      "explain_it": "Si usa l'imperativo di se taire alla seconda persona singolare: tais-toi."
+    },
+    {
+      "id": "L087-e09",
+      "type": "order",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Ripassiamo tutto prima che arrivino i colleghi.",
+      "answers": [
+        "Repassons tout avant que les collègues arrivent."
+      ],
+      "distractors": [
+        "arrivons"
+      ],
+      "explain_it": "Avant que richiede il congiuntivo: que les collègues arrivent."
+    },
+    {
+      "id": "L087-e10",
+      "type": "order",
+      "level": 2,
+      "concept": "connectors",
+      "prompt": "Non usciamo finché piove.",
+      "answers": [
+        "Nous ne sortons pas tant qu'il pleut.",
+        "On ne sort pas tant qu'il pleut."
+      ],
+      "distractors": [
+        "tandis"
+      ],
+      "explain_it": "Tant que con il presente segue l'indicativo: tant qu'il pleut."
+    },
+    {
+      "id": "L087-e11",
+      "type": "order",
+      "level": 2,
+      "concept": "adjective-position",
+      "prompt": "È un tipo strano, Marco.",
+      "answers": [
+        "C'est un drôle de type, Marco."
+      ],
+      "distractors": [
+        "drôles"
+      ],
+      "explain_it": "Drôle de precede il nome: un drôle de type."
+    },
+    {
+      "id": "L087-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "plus-que-parfait",
+      "text": "Quand je suis arrivé, elle ___ déjà partie.",
+      "answers": [
+        "était"
+      ],
+      "hint": "(être, imperfetto)",
+      "prompt": "Quando sono arrivato, lei era già partita.",
+      "explain_it": "Il plus-que-parfait si forma con l'imperfetto dell'ausiliare être seguito dal participio."
+    },
+    {
+      "id": "L087-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "plus-que-parfait",
+      "text": "Nous ___ déjà mangé quand ils sont rentrés.",
+      "answers": [
+        "avions"
+      ],
+      "hint": "(avoir, imperfetto)",
+      "prompt": "Avevamo già mangiato quando sono rientrati.",
+      "explain_it": "Manger vuole avoir: l'ausiliare va all'imperfetto, nous avions."
+    },
+    {
+      "id": "L087-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "Je veux qu'il ___ la vérité.",
+      "answers": [
+        "dise"
+      ],
+      "hint": "(dire, congiuntivo presente)",
+      "prompt": "Voglio che dica la verità.",
+      "explain_it": "Vouloir que regge il congiuntivo: qu'il dise."
+    },
+    {
+      "id": "L087-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "Je veux que tu ___ à l'heure.",
+      "answers": [
+        "sois"
+      ],
+      "hint": "(être, congiuntivo presente)",
+      "prompt": "Voglio che tu sia puntuale.",
+      "explain_it": "Être ha il congiuntivo irregolare: que tu sois."
+    },
+    {
+      "id": "L087-e16",
+      "type": "cloze",
+      "level": 1,
+      "concept": "imperative",
+      "text": "___-toi, Lucas !",
+      "answers": [
+        "Tais"
+      ],
+      "hint": "(se taire, imperativo tu)",
+      "prompt": "Stai zitto, Lucas!",
+      "explain_it": "L'imperativo di se taire alla seconda persona singolare è tais-toi."
+    },
+    {
+      "id": "L087-e17",
+      "type": "cloze",
+      "level": 2,
+      "concept": "connectors",
+      "text": "Je reste ici ___ il pleut.",
+      "answers": [
+        "tant que"
+      ],
+      "hint": "(finché)",
+      "prompt": "Resto qui finché piove.",
+      "explain_it": "Tant que indica la durata della condizione: finché piove."
+    },
+    {
+      "id": "L087-e18",
+      "type": "cloze",
+      "level": 1,
+      "concept": "adjective-agreement",
+      "text": "Cette nouvelle pharmacienne est ___ sympa.",
+      "answers": [
+        "super"
+      ],
+      "hint": "(aggettivo invariabile)",
+      "prompt": "Questa nuova farmacista è davvero simpatica.",
+      "explain_it": "Super è invariabile e colloquiale: non cambia con il genere né con il numero."
+    },
+    {
+      "id": "L087-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "plus-que-parfait",
+      "prompt": "Avevano già finito il lavoro quando sono arrivati.",
+      "answers": [
+        "Ils avaient déjà fini le travail quand ils sont arrivés.",
+        "Ils avaient déjà terminé le travail quand ils sont arrivés."
+      ],
+      "explain_it": "Il plus-que-parfait con avoir è avaient + participio; arriver vuole être, quindi sont arrivés."
+    },
+    {
+      "id": "L087-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "plus-que-parfait",
+      "prompt": "Era già partito quando ho telefonato.",
+      "answers": [
+        "Il était déjà parti quand j'ai [téléphoné|appelé]."
+      ],
+      "explain_it": "Partir vuole être: il participio parti concorda con il soggetto il."
+    },
+    {
+      "id": "L087-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Voglio che tu sappia la verità.",
+      "answers": [
+        "Je veux que tu saches la vérité."
+      ],
+      "explain_it": "Savoir al congiuntivo presente: que tu saches."
+    },
+    {
+      "id": "L087-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Partiamo prima che piova.",
+      "answers": [
+        "Nous partons avant qu'il pleuve.",
+        "On part avant qu'il pleuve."
+      ],
+      "explain_it": "Avant que vuole il congiuntivo: qu'il pleuve."
+    },
+    {
+      "id": "L087-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "negation-other",
+      "prompt": "Il brutto tempo impedisce che partano.",
+      "answers": [
+        "Le mauvais temps empêche qu'ils [ne |]partent."
+      ],
+      "explain_it": "Dopo empêcher que il ne è espletivo: è facoltativo e non nega la frase."
+    },
+    {
+      "id": "L087-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "connectors",
+      "prompt": "Restiamo qui finché c'è il sole.",
+      "answers": [
+        "Restons ici tant qu'il y a du soleil.",
+        "Nous restons ici tant qu'il y a du soleil.",
+        "On reste ici tant qu'il y a du soleil."
+      ],
+      "explain_it": "Tant que con l'indicativo indica la durata: finché c'è il sole."
+    },
+    {
+      "id": "L087-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "imperative",
+      "prompt": "Zitti, ragazzi!",
+      "answers": [
+        "Taisez-vous, les enfants !",
+        "Taisez-vous, les gamins !"
+      ],
+      "explain_it": "Alla forma di cortesia o plurale l'imperativo è taisez-vous."
+    },
+    {
+      "id": "L087-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "imperative",
+      "prompt": "Stai zitto e ascoltami!",
+      "answers": [
+        "Tais-toi et écoute-moi !"
+      ],
+      "explain_it": "Nell'imperativo affermativo i pronomi seguono il verbo con un trattino: tais-toi, écoute-moi."
+    },
+    {
+      "id": "L087-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-position",
+      "prompt": "Che tipo strano, il tuo vicino!",
+      "answers": [
+        "Quel drôle de type, ton voisin !"
+      ],
+      "explain_it": "Drôle de precede il nome e quel concorda con type, maschile singolare."
+    },
+    {
+      "id": "L087-e28",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "Questa farmacista è fantastica.",
+      "answers": [
+        "Cette pharmacienne est [super|géniale|fantastique|formidable]."
+      ],
+      "explain_it": "Super è invariabile e colloquiale; géniale, fantastique e formidable sono sinonimi accettati."
+    },
+    {
+      "id": "L087-e29",
+      "type": "write",
+      "level": 2,
+      "concept": "register",
+      "prompt": "Hanno fatto fuori due dei loro uomini.",
+      "answers": [
+        "Ils ont descendu deux de leurs hommes."
+      ],
+      "explain_it": "Nel gergo descendre significa far fuori e si usa con avoir."
+    },
+    {
+      "id": "L087-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Il commissario vuole che i colleghi restino in ufficio finché non trovano il colpevole.",
+      "answers": [
+        "Le commissaire veut que les collègues restent au bureau jusqu'à ce qu'ils trouvent le coupable."
+      ],
+      "explain_it": "Jusqu'à ce que richiede il congiuntivo: qu'ils trouvent."
+    },
+    {
+      "id": "L087-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "plus-que-parfait",
+      "prompt": "Non avevano ancora trovato il colpevole quando è arrivato il commissario.",
+      "answers": [
+        "Ils n'avaient pas encore trouvé le coupable quand le commissaire est arrivé."
+      ],
+      "explain_it": "La negazione circonda l'ausiliare: n'avaient pas encore trouvé; il participio resta dopo."
+    },
+    {
+      "id": "L087-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "connectors",
+      "prompt": "Non lascerò il sospettato finché non avrò le prove.",
+      "answers": [
+        "Je ne lâcherai pas le suspect tant que je n'aurai pas de preuves."
+      ],
+      "explain_it": "Tant que con il futuro esprime 'finché non'; la negazione si costruisce con ne... pas."
+    },
+    {
+      "id": "L087-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "negation-other",
+      "prompt": "La nebbia impedisce che si veda il mare.",
+      "answers": [
+        "Le brouillard empêche qu'on [ne |]voie la mer."
+      ],
+      "explain_it": "Dopo empêcher que il congiuntivo è di rigore e il ne espletivo è facoltativo."
+    },
+    {
+      "id": "L087-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "imperative",
+      "prompt": "Dimmi tutto e non ti preoccupare.",
+      "answers": [
+        "Dis-moi tout et ne t'inquiète pas."
+      ],
+      "explain_it": "All'imperativo negativo il pronome torna davanti al verbo: ne t'inquiète pas."
+    },
+    {
+      "id": "L087-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Prima di diventare spia, lui era contabile.",
+      "answers": [
+        "Avant de devenir espion, il était comptable."
+      ],
+      "explain_it": "Avant de con l'infinito evita il congiuntivo quando il soggetto è lo stesso."
+    },
+    {
+      "id": "L087-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Può darsi che lui parta domani.",
+      "answers": [
+        "Il se peut qu'il parte demain.",
+        "Il est possible qu'il parte demain."
+      ],
+      "explain_it": "Il se peut que e il est possible que vogliono il congiuntivo: qu'il parte."
+    },
+    {
+      "id": "L087-e37",
+      "type": "dictation",
+      "level": 2,
+      "concept": "plus-que-parfait",
+      "text": "Il avait déjà fini son travail quand le téléphone a sonné.",
+      "explain_it": "Il plus-que-parfait indica un'azione anteriore a un'altra nel passato."
+    },
+    {
+      "id": "L087-e38",
+      "type": "dictation",
+      "level": 3,
+      "concept": "imparfait-vs-pc",
+      "text": "Nous étions sur le point de partir quand j'ai entendu un bruit dans le couloir.",
+      "explain_it": "Étions sur le point de più infinito descrive l'azione imminente; il passato prossimo è l'evento che interrompe."
+    },
+    {
+      "id": "L087-e39",
+      "type": "dictation",
+      "level": 3,
+      "concept": "connectors",
+      "text": "Tu ne bouges pas tant que je ne te le dis pas.",
+      "explain_it": "Tant que con la negazione significa finché non, con il presente indicativo."
+    },
+    {
+      "id": "L087-e40",
+      "type": "flash",
+      "level": 2,
+      "concept": "plus-que-parfait",
+      "front": "Plus-que-parfait: come si forma?",
+      "back": "Imperfetto di avoir o être + participio passato. Con être il participio concorda con il soggetto (elle était partie).",
+      "note": "Corrisponde al trapassato prossimo italiano."
+    },
+    {
+      "id": "L087-e41",
+      "type": "flash",
+      "level": 2,
+      "concept": "connectors",
+      "front": "Tant que: quali significati?",
+      "back": "Finché, fintanto che (as long as); con la negazione, fino a quando non (until). Si usa con l'indicativo."
+    },
+    {
+      "id": "L087-e42",
+      "type": "flash",
+      "level": 2,
+      "concept": "negation-other",
+      "front": "Il 'ne' espletivo: quando compare?",
+      "back": "Dopo empêcher que, craindre que e avant que, nel registro formale: il ne non nega la frase ed è facoltativo.",
+      "note": "Esempio: Je crains qu'il ne parte."
+    },
+    {
+      "id": "L087-e43",
+      "type": "flash",
+      "level": 2,
+      "concept": "register",
+      "front": "Descendre: quali significati?",
+      "back": "Con être significa scendere. Con avoir e un complemento diretto significa abbattere; nel gergo far fuori qualcuno."
+    }
+  ]
+}

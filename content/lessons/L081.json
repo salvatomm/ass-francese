@@ -1,0 +1,816 @@
+{
+  "n": 81,
+  "title_fr": "Quatre-vingt-unième leçon - La réaction des patrons",
+  "title_it": "Ottantunesima lezione - La reazione dei padroni",
+  "review": false,
+  "status": "verified",
+  "source": "3d1a4471 pdf 1-8 (libro p.477-484; la lezione inizia a pdf 1, le risposte agli esercizi sono a pdf 8; la lezione 82 inizia a pdf 9)",
+  "theme_it": "Il Gruppo dei datori di lavoro e del lavoro si riunisce a Lille per discutere le richieste degli scioperanti. I padroni temono la delegata sindacale Inès Laurent, abile e molto esperta nelle trattative, e si chiedono se lei darà il via a un'agitazione sindacale. Decidono di aspettare la sua proposta e intanto si preparano, mentre uno di loro racconta l'aneddoto di un giovane venditore assunto con il salario minimo.",
+  "grammar": [
+    {
+      "id": "subjonctif",
+      "title_it": "Il congiuntivo dopo bien que, pourvu que e quoi que",
+      "explain_it": "Bien que (benché, sebbene), pourvu que (purché) e quoi que (qualunque cosa) vogliono sempre il congiuntivo presente. Attenzione: l'italiano 'anche se' regge l'indicativo e in francese si dice même si + indicativo; bien que, invece, è concessivo e vuole il congiuntivo. Quoi que + congiuntivo significa 'qualunque cosa' (quoi que tu fasses) e si scrive in due parole, a differenza di quoique (benché). La formula fissa quoi qu'il en soit vuol dire 'comunque stiano le cose'.",
+      "examples": [
+        {
+          "fr": "Bien que nous soyons fatigués, nous continuons.",
+          "it": "Benché siamo stanchi, continuiamo."
+        },
+        {
+          "fr": "Je viens, pourvu que tu sois là.",
+          "it": "Vengo, purché tu ci sia."
+        },
+        {
+          "fr": "Quoi que tu fasses, je te soutiendrai.",
+          "it": "Qualunque cosa tu faccia, ti sosterrò."
+        }
+      ]
+    },
+    {
+      "id": "subjonctif",
+      "title_it": "Certezza e dubbio: il est certain que / il n'est pas certain que",
+      "explain_it": "Dopo le espressioni di certezza o di probabilità affermate (il est certain que, il est sûr que, il est probable que) si usa l'indicativo. Quando l'espressione è negata o indica poca probabilità (il n'est pas certain que, il n'est pas sûr que, il est peu probable que), c'è un dubbio e serve il congiuntivo. Si confrontino il est certain qu'elle sera d'accord (indicativo futuro) e il n'est pas certain qu'elle soit d'accord (congiuntivo).",
+      "examples": [
+        {
+          "fr": "Il n'est pas certain qu'elle soit d'accord.",
+          "it": "Non è sicuro che lei sia d'accordo."
+        },
+        {
+          "fr": "Il est certain qu'elle sera d'accord.",
+          "it": "È certo che lei sarà d'accordo."
+        },
+        {
+          "fr": "Il est peu probable qu'il vienne.",
+          "it": "È poco probabile che lui venga."
+        }
+      ]
+    },
+    {
+      "id": "subjonctif",
+      "title_it": "Le congiunzioni di tempo: jusqu'à ce que e avant que",
+      "explain_it": "Jusqu'à ce que (finché non) e avant que (prima che) vogliono sempre il congiuntivo, perché indicano un fatto non ancora avvenuto. Se il soggetto della principale e quello della subordinata coincidono, con 'prima' si preferisce avant de + infinito (téléphonez-moi avant de partir); con soggetti diversi si usa avant que + congiuntivo (avant que vous arriviez).",
+      "examples": [
+        {
+          "fr": "Attends jusqu'à ce que je revienne.",
+          "it": "Aspetta finché non torno."
+        },
+        {
+          "fr": "Avant que vous arriviez, téléphonez-moi.",
+          "it": "Prima che arriviate, chiamatemi."
+        }
+      ]
+    },
+    {
+      "id": "connectors",
+      "title_it": "Espressioni di collegamento: n'empêche que, en revanche, de toutes les façons",
+      "explain_it": "N'empêche que (ciò non toglie che, tuttavia) è seguito dall'indicativo: il n'empêche qu'ils ont raison. Nel parlato si sente spesso anche solo n'empêche. En revanche vuol dire 'in compenso, per contro' e introduce un contrasto. De toutes les façons (anche de toute façon) significa 'in ogni caso': la conclusione non cambia.",
+      "examples": [
+        {
+          "fr": "Il est fatigué ; il n'empêche qu'il travaille bien.",
+          "it": "È stanco; tuttavia lavora bene."
+        },
+        {
+          "fr": "Je n'aime pas ce plan ; en revanche, j'aime l'idée.",
+          "it": "Non mi piace questo piano; in compenso, mi piace l'idea."
+        },
+        {
+          "fr": "De toutes les façons, nous partons demain.",
+          "it": "In ogni caso, partiamo domani."
+        }
+      ]
+    },
+    {
+      "id": "adjective-agreement",
+      "title_it": "Méchant: aggettivo e sostantivo",
+      "explain_it": "L'aggettivo méchant significa cattivo, malvagio (femminile méchante, con la -e finale). Può diventare un sostantivo: le méchant è il cattivo di una storia o di un film. Di solito precede il nome (un méchant garçon, une méchante femme), ma dopo être segue il soggetto (il est méchant). Non è il falso amico 'meschino', che in francese si dice mesquin.",
+      "examples": [
+        {
+          "fr": "Il est méchant avec les enfants.",
+          "it": "È cattivo con i bambini."
+        },
+        {
+          "fr": "Dans les films pour enfants, le méchant est toujours antipathique.",
+          "it": "Nei film per bambini il cattivo è sempre antipatico."
+        },
+        {
+          "fr": "C'est une méchante femme.",
+          "it": "È una donna cattiva."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le patron",
+      "it": "il padrone, il datore di lavoro",
+      "pos": "n"
+    },
+    {
+      "fr": "l'employeur (m.)",
+      "it": "il datore di lavoro",
+      "pos": "n"
+    },
+    {
+      "fr": "le groupement",
+      "it": "il raggruppamento, il gruppo",
+      "pos": "n"
+    },
+    {
+      "fr": "le gréviste",
+      "it": "lo scioperante",
+      "pos": "n"
+    },
+    {
+      "fr": "la demande",
+      "it": "la richiesta",
+      "pos": "n"
+    },
+    {
+      "fr": "le compte-rendu",
+      "it": "il resoconto, il verbale",
+      "pos": "n"
+    },
+    {
+      "fr": "se dérouler",
+      "it": "svolgersi, tenersi",
+      "pos": "v",
+      "note": "la réunion s'est déroulée"
+    },
+    {
+      "fr": "la négociation",
+      "it": "la trattativa, la negoziazione",
+      "pos": "n"
+    },
+    {
+      "fr": "le délégué du personnel",
+      "it": "il rappresentante sindacale dei lavoratori",
+      "pos": "n",
+      "note": "al femminile: la déléguée du personnel"
+    },
+    {
+      "fr": "adroit(e)",
+      "it": "abile, scaltro",
+      "pos": "adj"
+    },
+    {
+      "fr": "expérimenté(e)",
+      "it": "esperto, con esperienza",
+      "pos": "adj"
+    },
+    {
+      "fr": "les médias (m. pl.)",
+      "it": "i media",
+      "pos": "n"
+    },
+    {
+      "fr": "méchant(e)",
+      "it": "cattivo",
+      "pos": "adj"
+    },
+    {
+      "fr": "attentif / attentive",
+      "it": "attento",
+      "pos": "adj"
+    },
+    {
+      "fr": "les pourparlers (m. pl.)",
+      "it": "le trattative preliminari, i colloqui",
+      "pos": "n"
+    },
+    {
+      "fr": "déclencher",
+      "it": "scatenare, innescare",
+      "pos": "v"
+    },
+    {
+      "fr": "soumettre",
+      "it": "sottoporre, presentare",
+      "pos": "v",
+      "note": "je soumets"
+    },
+    {
+      "fr": "la proposition",
+      "it": "la proposta",
+      "pos": "n"
+    },
+    {
+      "fr": "le délai",
+      "it": "il termine, la scadenza",
+      "pos": "n"
+    },
+    {
+      "fr": "le préavis",
+      "it": "il preavviso",
+      "pos": "n"
+    },
+    {
+      "fr": "rompre",
+      "it": "interrompere, rompere",
+      "pos": "v",
+      "note": "rompre les négociations"
+    },
+    {
+      "fr": "le communiqué de presse",
+      "it": "il comunicato stampa",
+      "pos": "n"
+    },
+    {
+      "fr": "l'anecdote (f.)",
+      "it": "l'aneddoto",
+      "pos": "n"
+    },
+    {
+      "fr": "le genre",
+      "it": "il tipo, la specie",
+      "pos": "n",
+      "note": "un genre d'individus"
+    },
+    {
+      "fr": "solliciter",
+      "it": "chiedere, fare domanda per",
+      "pos": "v"
+    },
+    {
+      "fr": "l'école de commerce (f.)",
+      "it": "la scuola di commercio",
+      "pos": "n"
+    },
+    {
+      "fr": "le salaire",
+      "it": "lo stipendio",
+      "pos": "n"
+    },
+    {
+      "fr": "augmenter",
+      "it": "aumentare",
+      "pos": "v"
+    },
+    {
+      "fr": "la période d'essai",
+      "it": "il periodo di prova",
+      "pos": "n"
+    },
+    {
+      "fr": "inadmissible",
+      "it": "inaccettabile, intollerabile",
+      "pos": "adj"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "un dialogue de sourds",
+      "it": "un dialogo tra sordi",
+      "note": "discussione in cui nessuno ascolta l'altro"
+    },
+    {
+      "fr": "n'empêche que",
+      "it": "ciò non toglie che, tuttavia",
+      "note": "registro formale; seguito dall'indicativo"
+    },
+    {
+      "fr": "gagner du terrain",
+      "it": "guadagnare terreno",
+      "note": "per idee, movimenti, opinioni"
+    },
+    {
+      "fr": "être sur le qui-vive",
+      "it": "stare all'erta",
+      "note": "pronti a reagire a un imprevisto"
+    },
+    {
+      "fr": "se tourner les pouces",
+      "it": "girarsi i pollici",
+      "note": "stare senza fare nulla"
+    },
+    {
+      "fr": "en vouloir à quelqu'un",
+      "it": "avercela con qualcuno",
+      "note": "essere arrabbiati con una persona"
+    },
+    {
+      "fr": "en revanche",
+      "it": "in compenso, invece",
+      "note": "introduce un contrasto"
+    },
+    {
+      "fr": "de toutes les façons",
+      "it": "in ogni caso, comunque",
+      "note": "la conclusione non cambia"
+    },
+    {
+      "fr": "dans un délai de",
+      "it": "entro un termine di",
+      "note": "con la durata: dans un délai de dix jours"
+    },
+    {
+      "fr": "avoir affaire à quelqu'un",
+      "it": "avere a che fare con qualcuno",
+      "note": "uso comune in ambito professionale"
+    }
+  ],
+  "notes_it": [
+    "Falso amico: 'solliciter' non significa 'sollecitare' (in italiano 'sollecitare' vuol dire spingere a fare in fretta). In francese vuol dire chiedere, fare domanda, candidarsi per un posto.",
+    "Falso amico: 'délai' non è 'delay' né 'ritardo' (che in francese è 'retard'). Indica il termine entro cui fare qualcosa, la scadenza.",
+    "'Inadmissible' somiglia a 'inammissibile', ma nell'uso comune significa inaccettabile, intollerabile, scandaloso: c'est inadmissible!",
+    "'Méchant' non va confuso con 'meschino' (in francese 'mesquin'): qui è semplicemente cattivo, malvagio.",
+    "Il 'dialogue de sourds' e 'tourner les pouces' hanno un equivalente italiano quasi identico (dialogo tra sordi, girarsi i pollici): un buon esempio di espressioni che si possono capire senza tradurle parola per parola."
+  ],
+  "exercises": [
+    {
+      "id": "L081-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "subjonctif",
+      "prompt": "Completa: « Bien que nous ___ fatigués, nous continuons. » (benché siamo stanchi)",
+      "options": [
+        "soyons",
+        "sommes",
+        "serons",
+        "soit"
+      ],
+      "correct": 0,
+      "explain_it": "Bien que vuole il congiuntivo: 'soyons' è la forma di être con nous; 'sommes' è l'indicativo, sbagliato qui."
+    },
+    {
+      "id": "L081-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "subjonctif",
+      "prompt": "Quale forma completa la frase? « Il n'est pas sûr qu'elle ___ d'accord. » (non è sicuro che lei sia d'accordo)",
+      "options": [
+        "soit",
+        "est",
+        "sera",
+        "serait"
+      ],
+      "correct": 0,
+      "explain_it": "Con il negativo di 'essere sicuro' il dubbio richiede il congiuntivo presente: soit, non est."
+    },
+    {
+      "id": "L081-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "connectors",
+      "prompt": "Quale espressione significa 'tuttavia, ciò non toglie che' e vuole l'indicativo?",
+      "options": [
+        "n'empêche que",
+        "pourvu que",
+        "en revanche",
+        "jusqu'à ce que"
+      ],
+      "correct": 0,
+      "explain_it": "N'empêche que è seguito dall'indicativo; pourvu que e jusqu'à ce que vogliono invece il congiuntivo."
+    },
+    {
+      "id": "L081-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "false-friends",
+      "prompt": "« Un jeune homme sollicite un poste dans mon entreprise » significa:",
+      "options": [
+        "un giovane chiede un posto nella mia azienda",
+        "un giovane sollecita la mia azienda a sbrigarsi",
+        "un giovane mi offre un posto di lavoro",
+        "un giovane vuole licenziare un dipendente"
+      ],
+      "correct": 0,
+      "explain_it": "Solliciter vuol dire chiedere, fare domanda; non è il verbo italiano sollecitare, che significa spingere."
+    },
+    {
+      "id": "L081-e05",
+      "type": "order",
+      "level": 1,
+      "concept": "subjonctif",
+      "prompt": "Purché ci sia tu, va benissimo.",
+      "answers": [
+        "Pourvu que tu sois là c'est parfait"
+      ],
+      "distractors": [
+        "soit",
+        "serais"
+      ],
+      "explain_it": "Pourvu que vuole il congiuntivo; 'sois' è la forma di être con tu."
+    },
+    {
+      "id": "L081-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "subjonctif",
+      "prompt": "Aspetta finché non torno.",
+      "answers": [
+        "Attends jusqu'à ce que je revienne"
+      ],
+      "distractors": [
+        "reviendrai",
+        "ici"
+      ],
+      "explain_it": "Jusqu'à ce que vuole il congiuntivo; 'reviendrai' è il futuro e non va bene dopo questa congiunzione."
+    },
+    {
+      "id": "L081-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "connectors",
+      "prompt": "Ciò non toglie che abbiano ragione.",
+      "answers": [
+        "Il n'empêche qu'ils ont raison",
+        "N'empêche qu'ils ont raison"
+      ],
+      "distractors": [
+        "soient",
+        "avoir"
+      ],
+      "explain_it": "N'empêche que regge l'indicativo: qu'ils ont, non qu'ils aient."
+    },
+    {
+      "id": "L081-e08",
+      "type": "cloze",
+      "level": 1,
+      "concept": "subjonctif",
+      "text": "Bien qu'il ___ malade, il vient au travail.",
+      "answers": [
+        "soit"
+      ],
+      "hint": "(être, subjonctif présent)",
+      "prompt": "Benché sia malato, viene al lavoro.",
+      "explain_it": "Bien que vuole il congiuntivo presente di être; con il (lui) la forma è soit."
+    },
+    {
+      "id": "L081-e09",
+      "type": "cloze",
+      "level": 1,
+      "concept": "subjonctif",
+      "text": "Il faut que nous ___ très attention.",
+      "answers": [
+        "fassions"
+      ],
+      "hint": "(faire, subjonctif présent)",
+      "prompt": "Bisogna che facciamo molta attenzione.",
+      "explain_it": "Dopo 'il faut que' serve il congiuntivo: il verbo faire con nous diventa 'fassions'."
+    },
+    {
+      "id": "L081-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "connectors",
+      "text": "Il est en retard ; ___ qu'il est un bon ami.",
+      "answers": [
+        "il n'empêche",
+        "n'empêche"
+      ],
+      "prompt": "È in ritardo; tuttavia è un buon amico.",
+      "explain_it": "Il n'empêche qu'… è la forma tipica per dire 'tuttavia' e prende l'indicativo dopo que."
+    },
+    {
+      "id": "L081-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "adjective-agreement",
+      "text": "Ce garçon n'est pas ___ avec ses camarades.",
+      "answers": [
+        "méchant"
+      ],
+      "hint": "(aggettivo, maschile singolare)",
+      "prompt": "Questo ragazzo non è cattivo con i compagni.",
+      "explain_it": "Méchant è l'aggettivo maschile; per il femminile diventa méchante."
+    },
+    {
+      "id": "L081-e12",
+      "type": "cloze",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "Je reste ici jusqu'à ce que tu ___ .",
+      "answers": [
+        "arrives"
+      ],
+      "hint": "(arriver, subjonctif présent)",
+      "prompt": "Resto qui finché tu non arrivi.",
+      "explain_it": "Jusqu'à ce que richiede il congiuntivo; con tu il presente di arriver e il congiuntivo coincidono nella forma 'arrives'."
+    },
+    {
+      "id": "L081-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "Pourvu qu'il ___ le temps, il viendra.",
+      "answers": [
+        "ait"
+      ],
+      "hint": "(avoir, subjonctif présent)",
+      "prompt": "Purché abbia tempo, verrà.",
+      "explain_it": "Pourvu que vuole il congiuntivo; il congiuntivo presente di avoir con il è 'ait'."
+    },
+    {
+      "id": "L081-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "connectors",
+      "text": "Il pleut ; ___, nous sortons quand même.",
+      "answers": [
+        "de toutes les façons",
+        "de toute façon",
+        "en tout cas"
+      ],
+      "prompt": "Piove; in ogni caso usciamo lo stesso.",
+      "explain_it": "De toutes les façons indica che la conclusione non cambia, qualunque sia la situazione."
+    },
+    {
+      "id": "L081-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Resta qui finché non finisci il lavoro.",
+      "answers": [
+        "Reste ici jusqu'à ce que tu [finisses|termines] [le|ton|ce] travail"
+      ],
+      "explain_it": "Jusqu'à ce que vuole il congiuntivo, quindi 'finisses' e non 'finis'."
+    },
+    {
+      "id": "L081-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Bisogna che tu prenda una decisione oggi.",
+      "answers": [
+        "Il faut que tu prennes une décision aujourd'hui"
+      ],
+      "explain_it": "Dopo 'il faut que' il verbo va al congiuntivo: prennes, con soggetto tu."
+    },
+    {
+      "id": "L081-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Ho paura che sia tardi.",
+      "answers": [
+        "J'ai peur qu'il [ne |]soit tard",
+        "J'ai peur qu'il [ne |]soit trop tard"
+      ],
+      "explain_it": "Avoir peur que vuole il congiuntivo: 'soit' è la forma di être con il."
+    },
+    {
+      "id": "L081-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Non è sicuro che lui venga.",
+      "answers": [
+        "Il n'est pas sûr qu'il vienne",
+        "Il n'est pas certain qu'il vienne"
+      ],
+      "explain_it": "Il negativo di 'essere sicuro' esprime dubbio, quindi vuole il congiuntivo presente di venir: 'vienne'."
+    },
+    {
+      "id": "L081-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "connectors",
+      "prompt": "Tuttavia lui è molto gentile.",
+      "answers": [
+        "Il n'empêche qu'il est très gentil",
+        "Il n'empêche qu'il est gentil",
+        "N'empêche qu'il est très gentil"
+      ],
+      "explain_it": "N'empêche que è seguito dall'indicativo: qu'il est, non qu'il soit."
+    },
+    {
+      "id": "L081-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "Lei è una persona cattiva.",
+      "answers": [
+        "Elle est méchante",
+        "C'est une personne méchante",
+        "C'est une méchante personne"
+      ],
+      "explain_it": "Méchant al femminile prende la -e: méchante, come in italiano 'cattiva'."
+    },
+    {
+      "id": "L081-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "È poco probabile che lei conosca questo libro.",
+      "answers": [
+        "Il est peu probable qu'elle connaisse ce livre"
+      ],
+      "explain_it": "È poco probabile che vuole il congiuntivo: 'connaisse' è la forma di connaître con elle."
+    },
+    {
+      "id": "L081-e22",
+      "type": "dictation",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "Il n'est pas certain que le délégué soit là.",
+      "explain_it": "Dopo 'il n'est pas certain que' il verbo va al congiuntivo: soit, non est."
+    },
+    {
+      "id": "L081-e23",
+      "type": "flash",
+      "level": 2,
+      "concept": "subjonctif",
+      "front": "Le congiunzioni bien que, pourvu que, quoi que: che modo vogliono?",
+      "back": "Tutte e tre vogliono il congiuntivo presente: bien que (anche se), pourvu que (purché), quoi que (qualunque cosa). Attenzione: n'empêche que vuole l'indicativo.",
+      "note": "Quoi qu'il en soit = comunque stiano le cose.",
+      "explain_it": "Sono le tre congiunzioni più usate con il congiuntivo; n'empêche que è l'eccezione che vuole l'indicativo."
+    },
+    {
+      "id": "L081-e24",
+      "type": "mcq",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Quale frase esprime un dubbio e quindi richiede il congiuntivo?",
+      "options": [
+        "Il n'est pas certain qu'il vienne.",
+        "Il est certain qu'il viendra.",
+        "Il est sûr qu'il viendra.",
+        "Il est certain qu'il vient."
+      ],
+      "correct": 0,
+      "explain_it": "Il negativo di 'essere certo' esprime dubbio e vuole il congiuntivo. Con 'il est certain que' (certezza) si usa l'indicativo."
+    },
+    {
+      "id": "L081-e25",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Benché siate stanchi, bisogna che finiate il lavoro prima di venerdì. (dare del voi, più persone maschili)",
+      "answers": [
+        "Bien que vous soyez fatigués, il faut que vous [finissiez|terminiez] [le|votre|ce] travail [avant|d'ici] vendredi"
+      ],
+      "explain_it": "Bien que e il faut que vogliono entrambi il congiuntivo: soyez e finissiez con vous."
+    },
+    {
+      "id": "L081-e26",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "È certo che lei sarà d'accordo.",
+      "ask": "Volgi in forma di dubbio, con il negativo di 'être certain'",
+      "answers": [
+        "Il n'est pas certain qu'elle soit d'accord",
+        "Il n'est pas sûr qu'elle soit d'accord"
+      ],
+      "explain_it": "Il negativo esprime dubbio e fa passare al congiuntivo: sera diventa soit."
+    },
+    {
+      "id": "L081-e27",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Puoi venire, purché tu abbia tempo.",
+      "answers": [
+        "Tu peux venir, pourvu que tu aies [le|du] temps"
+      ],
+      "explain_it": "Pourvu que vuole il congiuntivo: aies è la forma di avoir con tu."
+    },
+    {
+      "id": "L081-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Restiamo qui finché la riunione non è finita.",
+      "answers": [
+        "[Nous restons|Restons] ici jusqu'à ce que la réunion soit [terminée|finie]"
+      ],
+      "explain_it": "Jusqu'à ce que vuole il congiuntivo: 'soit' con la riunione (sujet al singolare)."
+    },
+    {
+      "id": "L081-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Qualunque cosa tu dica, non cambierò idea.",
+      "answers": [
+        "Quoi que tu dises, je ne changerai pas d'avis",
+        "Quoi que tu dises, je ne vais pas changer d'avis"
+      ],
+      "explain_it": "Quoi que vuole il congiuntivo: dises con tu; la principale può usare il futuro o il futur proche."
+    },
+    {
+      "id": "L081-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Dice che è poco probabile che il direttore accetti la proposta prima di giovedì.",
+      "answers": [
+        "[Il|Elle] dit qu'il est peu probable que le directeur accepte la proposition [avant|d'ici] jeudi",
+        "[Il|Elle] dit qu'il est peu probable que la directrice accepte la proposition [avant|d'ici] jeudi"
+      ],
+      "explain_it": "Il est peu probable que vuole il congiuntivo, quindi 'accepte'; il contesto temporale si aggiunge con avant o d'ici à."
+    },
+    {
+      "id": "L081-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "connectors",
+      "prompt": "È stanco; tuttavia lavora ogni giorno fino a mezzanotte.",
+      "answers": [
+        "Il est fatigué ; il n'empêche qu'il travaille [tous les jours|chaque jour] jusqu'à minuit",
+        "Il est fatigué ; n'empêche, il travaille [tous les jours|chaque jour] jusqu'à minuit"
+      ],
+      "explain_it": "N'empêche que regge l'indicativo (qu'il travaille). Per i verbi in -er indicativo e congiuntivo coincidono alla terza persona, ma la regola è l'indicativo."
+    },
+    {
+      "id": "L081-e32",
+      "type": "dictation",
+      "level": 3,
+      "concept": "subjonctif",
+      "text": "Avant que vous arriviez, il faut que tout soit prêt.",
+      "explain_it": "Avant que vuole il congiuntivo con un soggetto diverso (vous); 'arriviez' è il congiuntivo di arriver."
+    },
+    {
+      "id": "L081-e33",
+      "type": "dictation",
+      "level": 3,
+      "concept": "emphasis",
+      "text": "Ce qui est sûr, c'est que nous devons nous réunir demain matin.",
+      "explain_it": "Ce qui est sûr, c'est que… è una struttura di enfasi seguita dall'indicativo: qui c'è certezza, quindi niente congiuntivo."
+    },
+    {
+      "id": "L081-e34",
+      "type": "cloze",
+      "level": 3,
+      "concept": "subjonctif",
+      "text": "Il est peu probable que le train ___ à l'heure.",
+      "answers": [
+        "arrive"
+      ],
+      "hint": "(arriver, subjonctif présent)",
+      "prompt": "È poco probabile che il treno arrivi in orario.",
+      "explain_it": "È poco probabile che vuole il congiuntivo: 'arrive' con il treno (3ª persona singolare)."
+    },
+    {
+      "id": "L081-e35",
+      "type": "cloze",
+      "level": 3,
+      "concept": "subjonctif",
+      "text": "Attendez jusqu'à ce qu'il ___ son repas.",
+      "answers": [
+        "finisse"
+      ],
+      "hint": "(finir, subjonctif présent)",
+      "prompt": "Aspettate finché lui non finisce il pasto.",
+      "explain_it": "Jusqu'à ce que vuole il congiuntivo: 'finisse' è la 3ª persona singolare di finir."
+    },
+    {
+      "id": "L081-e36",
+      "type": "cloze",
+      "level": 3,
+      "concept": "subjonctif",
+      "text": "Avant que vous ___ une décision, réfléchissez.",
+      "answers": [
+        "preniez"
+      ],
+      "hint": "(prendre, subjonctif présent)",
+      "prompt": "Prima che prendiate una decisione, riflettete.",
+      "explain_it": "Avant que vuole il congiuntivo: 'preniez' è la forma di prendre con vous."
+    },
+    {
+      "id": "L081-e37",
+      "type": "cloze",
+      "level": 3,
+      "concept": "idioms",
+      "text": "Arrête de te ___ les pouces !",
+      "answers": [
+        "tourner"
+      ],
+      "hint": "(tourner, infinitif)",
+      "prompt": "Smettila di stare con le mani in mano!",
+      "explain_it": "Se tourner les pouces significa stare senza fare nulla, in italiano 'girarsi i pollici'."
+    },
+    {
+      "id": "L081-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Con lui è un dialogo tra sordi.",
+      "answers": [
+        "Avec lui, c'est un dialogue de sourds",
+        "Avec lui c'est un dialogue de sourds"
+      ],
+      "explain_it": "Un dialogue de sourds è una conversazione in cui nessuno ascolta l'altro: l'italiano dice la stessa cosa."
+    },
+    {
+      "id": "L081-e39",
+      "type": "flash",
+      "level": 3,
+      "concept": "subjonctif",
+      "front": "Congiuntivo presente di faire (con que)",
+      "back": "que je fasse, que tu fasses, qu'il/elle fasse, que nous fassions, que vous fassiez, qu'ils/elles fassent",
+      "note": "Nelle forme nous e vous compare la -ss- e la -i- tipiche del congiuntivo.",
+      "explain_it": "Il congiuntivo di faire ha la radice 'fass-' in tutte le persone, con 'fassions' e 'fassiez' per nous e vous."
+    },
+    {
+      "id": "L081-e40",
+      "type": "flash",
+      "level": 3,
+      "concept": "false-friends",
+      "front": "Il significato di 'délai' in 'dans un délai de dix jours'",
+      "back": "Termine, scadenza: entro dieci giorni. Non è 'ritardo', che in francese è 'retard'.",
+      "note": "Dans un délai de + durata = entro un termine di.",
+      "explain_it": "Délai indica il termine di una scadenza, non il ritardo: attenzione al falso amico con l'inglese 'delay' e con l'italiano 'ritardo' (in francese retard)."
+    }
+  ]
+}

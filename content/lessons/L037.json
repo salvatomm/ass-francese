@@ -1,0 +1,1057 @@
+{
+  "n": 37,
+  "title_fr": "J'ai réfléchi à la question du loyer…",
+  "title_it": "Ho riflettuto sulla questione dell'affitto…",
+  "review": false,
+  "status": "verified",
+  "source": "c15d4fa8 p167-174 (PDF 85-92)",
+  "theme_it": "Un uomo racconta a un amico la sua ricerca di un appartamento in affitto: da due mesi cerca, ha coinvolto un'agenzia immobiliare, ha compilato un modulo online e visitato diverse proprietà. Alla fine confronta due appartamenti in base al budget e chiede all'amico di garantire l'affitto, perché il canone è troppo alto per il suo stipendio.",
+  "grammar": [
+    {
+      "id": "passe-compose-avoir",
+      "title_it": "Il passato prossimo dei verbi in -ir (2° gruppo)",
+      "explain_it": "I verbi regolari in -ir del secondo gruppo (grandir, réfléchir, remplir, fournir, élargir) formano il passato prossimo con avoir più il participio passato. Il participio si ottiene togliendo la -r finale dall'infinito: grandir → grandi, remplir → rempli. Quindi: j'ai grandi, tu as grandi, il/elle a grandi, nous avons grandi, vous avez grandi, ils/elles ont grandi. Attenzione: in italiano alcuni verbi di crescita usano essere («sono cresciuto»), ma in francese grandir vuole sempre avoir.",
+      "examples": [
+        {
+          "fr": "J'ai grandi à Marseille.",
+          "it": "Sono cresciuto a Marsiglia."
+        },
+        {
+          "fr": "Nous avons rempli le formulaire.",
+          "it": "Abbiamo compilato il modulo."
+        }
+      ]
+    },
+    {
+      "id": "comparatives",
+      "title_it": "Il comparativo: plus / moins … que",
+      "explain_it": "Per dire che qualcosa è più (o meno) di un'altra cosa si mette plus (più) o moins (meno) davanti all'aggettivo, e que (di) davanti al secondo termine: plus cher que (più caro di), moins cher que (meno caro di). L'aggettivo concorda con il nome a cui si riferisce, come in italiano. Per l'uguaglianza si usa aussi … que (tanto … quanto, «così … come»).",
+      "examples": [
+        {
+          "fr": "Ce quartier est plus calme que le centre.",
+          "it": "Questo quartiere è più tranquillo del centro."
+        },
+        {
+          "fr": "Il est moins grand que son frère.",
+          "it": "È meno alto di suo fratello."
+        }
+      ]
+    },
+    {
+      "id": "superlatives",
+      "title_it": "Il superlativo: le / la / les plus",
+      "explain_it": "Il superlativo relativo si forma con l'articolo determinativo concordato (le, la, les) seguito da plus (o moins) e dall'aggettivo: le plus grand (il più grande), la plus belle (la più bella), les plus jolis (i più carini). Il complemento si introduce con de: le plus grand de la ville. Quando l'aggettivo segue il nome, l'articolo compare due volte: l'appartement le plus grand, la rue la plus calme.",
+      "examples": [
+        {
+          "fr": "C'est le plus joli village de la région.",
+          "it": "È il villaggio più carino della regione."
+        },
+        {
+          "fr": "Elle est la plus jeune de la famille.",
+          "it": "È la più giovane della famiglia."
+        }
+      ]
+    },
+    {
+      "id": "prepositions-place",
+      "title_it": "Dessus e dessous: sopra e sotto",
+      "explain_it": "Dessus (sopra) e dessous (sotto) sono avverbi di luogo. Davanti a un complemento si usano au-dessus de (sopra a) e au-dessous de (sotto a). Au-dessus indica un punto più alto, au-dessous uno più basso. Nel parlato au-dessous può essere sostituito da en dessous, con lo stesso significato.",
+      "examples": [
+        {
+          "fr": "Mon bureau est au-dessus du garage.",
+          "it": "Il mio studio è sopra il garage."
+        },
+        {
+          "fr": "Le lac est au-dessous du village.",
+          "it": "Il lago è sotto il villaggio."
+        }
+      ]
+    },
+    {
+      "id": "plural",
+      "title_it": "Il plurale che cambia il significato: la recherche / les recherches",
+      "explain_it": "Il singolare la recherche indica la ricerca in generale, come attività o campo di studio (la recherche scientifique). Il plurale les recherches indica le ricerche concrete su qualcosa: cercare informazioni, un appartamento, un lavoro. Per «ho fatto ricerche su…» in francese si usa quindi il plurale: j'ai fait des recherches sur…",
+      "examples": [
+        {
+          "fr": "La recherche d'un emploi prend du temps.",
+          "it": "La ricerca di un lavoro richiede tempo."
+        },
+        {
+          "fr": "Nous faisons des recherches sur le marché.",
+          "it": "Facciamo ricerche sul mercato."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Espressioni con moyen e bonheur",
+      "explain_it": "Al plurale les moyens significa i mezzi economici, e avoir les moyens de + infinito vuol dire potersi permettere qualcosa. Al singolare un moyen è un mezzo o un modo per fare qualcosa. Le bonheur significa felicità o fortuna; trouver son bonheur vuol dire trovare quello che si cerca. Il contrario è le malheur (sventura).",
+      "examples": [
+        {
+          "fr": "Je n'ai pas les moyens de partir.",
+          "it": "Non posso permettermi di partire."
+        },
+        {
+          "fr": "C'est un bon moyen de gagner du temps.",
+          "it": "È un buon modo per guadagnare tempo."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "title_it": "Pronuncia: liaison facoltativa e h muta",
+      "explain_it": "In pas encore la liaison tra pas e encore è facoltativa: chi parla con cura la fa, cioè la s si legge z e le due parole si uniscono; nel parlato veloce spesso non si fa. La forma con liaison è più elegante. Nelle parole bonheur e malheur la h è muta anche se si trova dentro la parola: si legge bonheur come [bɔnœʁ].",
+      "examples": [
+        {
+          "fr": "Pas encore.",
+          "it": "Non ancora."
+        },
+        {
+          "fr": "Le bonheur ne dépend pas de l'argent.",
+          "it": "La felicità non dipende dal denaro."
+        }
+      ]
+    },
+    {
+      "id": "vocab",
+      "title_it": "I nomi in -ment derivati da verbi",
+      "explain_it": "Molti verbi del secondo gruppo hanno un nome corrispondente in -issement: avertir (avvertire) → un avertissement (avviso, avvertimento), arrondir (arrotondare) → un arrondissement (circoscrizione), établir (stabilire) → un établissement (istituto, stabilimento). Questi nomi hanno un articolo e un genere (sempre maschile); vanno distinti dagli avverbi in -ment (rapidement), che modificano un verbo e sono invariabili.",
+      "examples": [
+        {
+          "fr": "Il m'a donné un avertissement.",
+          "it": "Mi ha dato un avvertimento."
+        },
+        {
+          "fr": "J'habite dans un arrondissement calme.",
+          "it": "Abito in un quartiere tranquillo."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le loyer",
+      "it": "affitto (canone d'affitto)",
+      "pos": "n",
+      "note": "payer son loyer = pagare l'affitto"
+    },
+    {
+      "fr": "louer",
+      "it": "affittare",
+      "pos": "v",
+      "note": "un appartement à louer = in affitto"
+    },
+    {
+      "fr": "l'appartement (m.)",
+      "it": "appartamento",
+      "pos": "n"
+    },
+    {
+      "fr": "compliqué",
+      "it": "complicato",
+      "pos": "adj",
+      "note": "femminile compliquée"
+    },
+    {
+      "fr": "fini",
+      "it": "finito",
+      "pos": "adj",
+      "note": "femminile finie"
+    },
+    {
+      "fr": "un arrondissement",
+      "it": "circoscrizione, quartiere amministrativo",
+      "pos": "n",
+      "note": "dal verbo arrondir"
+    },
+    {
+      "fr": "grandir",
+      "it": "crescere",
+      "pos": "v",
+      "note": "j'ai grandi"
+    },
+    {
+      "fr": "réfléchir",
+      "it": "riflettere",
+      "pos": "v",
+      "note": "réfléchir à = riflettere su"
+    },
+    {
+      "fr": "élargir",
+      "it": "allargare",
+      "pos": "v",
+      "note": "j'ai élargi"
+    },
+    {
+      "fr": "contacter",
+      "it": "contattare",
+      "pos": "v",
+      "note": "j'ai contacté"
+    },
+    {
+      "fr": "un agent immobilier",
+      "it": "agente immobiliare",
+      "pos": "n"
+    },
+    {
+      "fr": "joindre",
+      "it": "raggiungere (al telefono)",
+      "pos": "v",
+      "note": "joindre quelqu'un = contattare qualcuno"
+    },
+    {
+      "fr": "remplir",
+      "it": "compilare (un modulo)",
+      "pos": "v",
+      "note": "j'ai rempli"
+    },
+    {
+      "fr": "un formulaire",
+      "it": "modulo",
+      "pos": "n"
+    },
+    {
+      "fr": "fournir",
+      "it": "fornire",
+      "pos": "v",
+      "note": "j'ai fourni"
+    },
+    {
+      "fr": "un renseignement",
+      "it": "informazione, notizia",
+      "pos": "n",
+      "note": "di solito al plurale: les renseignements"
+    },
+    {
+      "fr": "le lendemain",
+      "it": "il giorno dopo",
+      "pos": "n"
+    },
+    {
+      "fr": "une propriété",
+      "it": "proprietà (immobile)",
+      "pos": "n"
+    },
+    {
+      "fr": "le bonheur",
+      "it": "felicità, fortuna",
+      "pos": "n"
+    },
+    {
+      "fr": "un moyen",
+      "it": "mezzo, modo",
+      "pos": "n",
+      "note": "al plurale les moyens = disponibilità economiche"
+    },
+    {
+      "fr": "prohibitif",
+      "it": "proibitivo (di prezzo)",
+      "pos": "adj",
+      "note": "femminile prohibitive; non significa «proibito»"
+    },
+    {
+      "fr": "un salaire",
+      "it": "stipendio",
+      "pos": "n"
+    },
+    {
+      "fr": "mensuel",
+      "it": "mensile",
+      "pos": "adj",
+      "note": "femminile mensuelle"
+    },
+    {
+      "fr": "garantir",
+      "it": "garantire",
+      "pos": "v",
+      "note": "j'ai garanti"
+    },
+    {
+      "fr": "difficile",
+      "it": "difficile",
+      "pos": "adj"
+    },
+    {
+      "fr": "peut-être",
+      "it": "forse",
+      "pos": "adv"
+    },
+    {
+      "fr": "une cour",
+      "it": "cortile",
+      "pos": "n"
+    },
+    {
+      "fr": "un étage",
+      "it": "piano (di un edificio)",
+      "pos": "n",
+      "note": "non confondere con «stage»"
+    },
+    {
+      "fr": "spacieux",
+      "it": "spazioso",
+      "pos": "adj",
+      "note": "femminile spacieuse"
+    },
+    {
+      "fr": "joli",
+      "it": "carino, grazioso",
+      "pos": "adj",
+      "note": "femminile jolie"
+    },
+    {
+      "fr": "une terrasse",
+      "it": "terrazza",
+      "pos": "n"
+    },
+    {
+      "fr": "bruyant",
+      "it": "rumoroso",
+      "pos": "adj",
+      "note": "femminile bruyante"
+    },
+    {
+      "fr": "intéressant",
+      "it": "interessante",
+      "pos": "adj",
+      "note": "femminile intéressante"
+    },
+    {
+      "fr": "cher",
+      "it": "caro",
+      "pos": "adj",
+      "note": "femminile chère"
+    },
+    {
+      "fr": "calme",
+      "it": "tranquillo",
+      "pos": "adj"
+    },
+    {
+      "fr": "dernier",
+      "it": "ultimo",
+      "pos": "adj",
+      "note": "femminile dernière"
+    },
+    {
+      "fr": "élevé",
+      "it": "alto, elevato",
+      "pos": "adj",
+      "note": "femminile élevée"
+    },
+    {
+      "fr": "une recherche",
+      "it": "ricerca",
+      "pos": "n",
+      "note": "al plurale: les recherches"
+    },
+    {
+      "fr": "au-dessus de",
+      "it": "sopra",
+      "pos": "prep"
+    },
+    {
+      "fr": "au-dessous de",
+      "it": "sotto",
+      "pos": "prep",
+      "note": "anche en dessous de"
+    },
+    {
+      "fr": "réussir à",
+      "it": "riuscire a",
+      "pos": "v",
+      "note": "réussir à + infinito"
+    },
+    {
+      "fr": "autour",
+      "it": "intorno",
+      "pos": "adv",
+      "note": "tout autour = tutt'intorno"
+    },
+    {
+      "fr": "avertir",
+      "it": "avvertire",
+      "pos": "v"
+    },
+    {
+      "fr": "l'avertissement (m.)",
+      "it": "l'avvertimento",
+      "pos": "n",
+      "note": "nome in -ment, preceduto dall'articolo"
+    },
+    {
+      "fr": "le jugement",
+      "it": "il giudizio",
+      "pos": "n",
+      "note": "attenzione all'ortografia: -ge-"
+    },
+    {
+      "fr": "juger",
+      "it": "giudicare",
+      "pos": "v"
+    },
+    {
+      "fr": "la copine",
+      "it": "l'amica, la ragazza",
+      "pos": "n",
+      "note": "familiare: la mia amica o la mia ragazza"
+    },
+    {
+      "fr": "énorme",
+      "it": "enorme",
+      "pos": "adj"
+    },
+    {
+      "fr": "nécessaire",
+      "it": "necessario",
+      "pos": "adj"
+    },
+    {
+      "fr": "la langue",
+      "it": "la lingua",
+      "pos": "n",
+      "note": "apprendre une langue"
+    },
+    {
+      "fr": "rappeler",
+      "it": "richiamare",
+      "pos": "v",
+      "note": "Il m'a rappelée le lendemain."
+    },
+    {
+      "fr": "sérieusement",
+      "it": "seriamente",
+      "pos": "adv"
+    },
+    {
+      "fr": "visiter",
+      "it": "visitare",
+      "pos": "v",
+      "note": "si usa per luoghi, non per persone"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Ça fait deux mois que",
+      "it": "sono due mesi che",
+      "note": "ça fait + durata + que, con il presente per un'azione ancora in corso"
+    },
+    {
+      "fr": "pas encore",
+      "it": "non ancora",
+      "note": "risposta breve molto comune"
+    },
+    {
+      "fr": "sans succès",
+      "it": "senza successo"
+    },
+    {
+      "fr": "Et alors ?",
+      "it": "E allora?",
+      "note": "registro colloquiale"
+    },
+    {
+      "fr": "avoir les moyens de",
+      "it": "potersi permettere di"
+    },
+    {
+      "fr": "trouver son bonheur",
+      "it": "trovare quello che si cerca",
+      "note": "usata anche per gli acquisti"
+    },
+    {
+      "fr": "Eh oui",
+      "it": "Eh sì",
+      "note": "registro colloquiale, per confermare"
+    },
+    {
+      "fr": "Un malheur n'arrive jamais seul",
+      "it": "le disgrazie non vengono mai sole",
+      "note": "proverbio"
+    },
+    {
+      "fr": "vivre au-dessous de ses moyens",
+      "it": "vivere al di sotto delle proprie possibilità",
+      "note": "spendere meno di quanto si guadagna"
+    },
+    {
+      "fr": "C'est plus compliqué que ça",
+      "it": "È più complicato di così",
+      "note": "registro colloquiale"
+    },
+    {
+      "fr": "En effet",
+      "it": "in effetti"
+    }
+  ],
+  "notes_it": [
+    "Eponimi: nel riquadro culturale alcune parole prendono il nome da persone reali: poubelle (pattumiera) dal prefetto Eugène Poubelle, martinet (la frusta, anche nel senso di persona molto rigida) dal generale Jean Martinet, nicotine da Jean Nicot, guillotine dal medico Joseph-Ignace Guillotin.",
+    "Falsi amici e parole da non confondere: étage significa piano di un edificio, non «stage» (tirocinio); prohibitif vuol dire «proibitivo» nel senso di troppo caro, non «proibito» (che si dice interdit).",
+    "Parlato: appartement si abbrevia in appart, con la t finale pronunciata. In pas encore la liaison è facoltativa, più elegante quando si parla con cura.",
+    "La h di bonheur e malheur è muta anche se non è all'inizio della parola: attenzione a non pronunciarla, come succede spesso con le h interne del francese.",
+    "Il lessico dell'affitto: un loyer è il canone mensile; prohibitif descrive un prezzo esorbitante; une cour è un cortile interno, spesso più silenzioso della strada."
+  ],
+  "exercises": [
+    {
+      "id": "L037-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "prompt": "Completa: 'Nous ___ beaucoup réfléchi.' (noi abbiamo riflettuto molto)",
+      "options": [
+        "avons",
+        "sommes",
+        "avez"
+      ],
+      "correct": 0,
+      "explain_it": "I verbi in -ir del secondo gruppo formano il passato prossimo con avoir, quindi nous avons."
+    },
+    {
+      "id": "L037-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "prompt": "Qual è il participio passato di 'grandir'?",
+      "options": [
+        "grandi",
+        "grandit",
+        "grandir"
+      ],
+      "correct": 0,
+      "explain_it": "Si toglie la -r finale dell'infinito: grandi. La forma grandit è il presente di terza persona."
+    },
+    {
+      "id": "L037-e03",
+      "type": "order",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ho fornito tutte le informazioni necessarie.",
+      "answers": [
+        "J'ai fourni toutes les informations nécessaires.",
+        "J'ai fourni tous les renseignements nécessaires."
+      ],
+      "distractors": [
+        "suis",
+        "sont"
+      ],
+      "explain_it": "Con fournir si usa avoir; l'aggettivo nécessaires concorda con il plurale informations."
+    },
+    {
+      "id": "L037-e04",
+      "type": "cloze",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "text": "Hier, ___ réfléchi à la question.",
+      "answers": [
+        "j'ai"
+      ],
+      "hint": "(réfléchir, passato prossimo)",
+      "prompt": "Ieri ho riflettuto sulla questione.",
+      "explain_it": "Il passato prossimo di réfléchir si costruisce con avoir al presente più il participio réfléchi."
+    },
+    {
+      "id": "L037-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "comparatives",
+      "prompt": "Completa: 'Le loyer est ___ élevé que mon salaire.' (l'affitto è più alto del mio stipendio)",
+      "options": [
+        "plus",
+        "moins",
+        "aussi"
+      ],
+      "correct": 0,
+      "explain_it": "Per dire più alto si usa plus élevé que; moins indicherebbe il contrario."
+    },
+    {
+      "id": "L037-e06",
+      "type": "mcq",
+      "level": 1,
+      "concept": "superlatives",
+      "prompt": "Completa: 'C'est ___ appartement de la ville.' (è l'appartamento più grande della città)",
+      "options": [
+        "le plus grand",
+        "la plus grande",
+        "le plus grande"
+      ],
+      "correct": 0,
+      "explain_it": "Il superlativo prende l'articolo maschile le perché appartement è maschile; grand resta maschile."
+    },
+    {
+      "id": "L037-e07",
+      "type": "mcq",
+      "level": 1,
+      "concept": "prepositions-place",
+      "prompt": "Completa: 'Moi, j'habite au troisième étage ; elle habite à l'étage ___.' (lei abita al piano di sotto)",
+      "options": [
+        "au-dessous",
+        "au-dessus",
+        "sous"
+      ],
+      "correct": 0,
+      "explain_it": "Au-dessous indica il piano più basso; au-dessus sarebbe il piano sopra."
+    },
+    {
+      "id": "L037-e08",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Quale espressione significa «potersi permettere»?",
+      "options": [
+        "avoir les moyens de",
+        "avoir besoin de",
+        "avoir mal à"
+      ],
+      "correct": 0,
+      "explain_it": "Avoir les moyens de vuol dire avere i mezzi economici per fare qualcosa; avoir besoin de è avere bisogno di."
+    },
+    {
+      "id": "L037-e09",
+      "type": "order",
+      "level": 1,
+      "concept": "comparatives",
+      "prompt": "Questo treno è più veloce dell'autobus.",
+      "answers": [
+        "Ce train est plus rapide que le bus.",
+        "Ce train est plus rapide que l'autobus."
+      ],
+      "distractors": [
+        "moins",
+        "lent"
+      ],
+      "explain_it": "Plus davanti all'aggettivo e que prima del secondo termine: plus rapide que."
+    },
+    {
+      "id": "L037-e10",
+      "type": "order",
+      "level": 1,
+      "concept": "superlatives",
+      "prompt": "Questo è l'appartamento più piccolo del palazzo.",
+      "answers": [
+        "C'est l'appartement le plus petit de l'immeuble.",
+        "C'est le plus petit appartement de l'immeuble."
+      ],
+      "distractors": [
+        "moins",
+        "grand"
+      ],
+      "explain_it": "Il superlativo usa le plus più l'aggettivo, e de per il complemento: le plus petit de l'immeuble."
+    },
+    {
+      "id": "L037-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "superlatives",
+      "text": "C'est la ___ belle vue de la ville.",
+      "answers": [
+        "plus"
+      ],
+      "hint": "(superlativo)",
+      "prompt": "È la vista più bella della città.",
+      "explain_it": "Con il femminile la vista si dice la plus belle: l'articolo la concorda con vue."
+    },
+    {
+      "id": "L037-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "comparatives",
+      "text": "Cette cour est ___ calme que la rue.",
+      "answers": [
+        "plus"
+      ],
+      "hint": "(comparativo di superiorità)",
+      "prompt": "Questo cortile è più tranquillo della strada.",
+      "explain_it": "Per il comparativo di superiorità si usa plus davanti all'aggettivo, seguito da que."
+    },
+    {
+      "id": "L037-e13",
+      "type": "cloze",
+      "level": 1,
+      "concept": "idioms",
+      "text": "Je n'ai pas les ___ de payer ce loyer.",
+      "answers": [
+        "moyens"
+      ],
+      "prompt": "Non posso permettermi questo affitto.",
+      "explain_it": "Avoir les moyens de è il modo per dire potersi permettere: il plurale moyens è obbligatorio."
+    },
+    {
+      "id": "L037-e14",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ho riflettuto a lungo sulla questione.",
+      "answers": [
+        "J'ai [longuement|longtemps] réfléchi à la question.",
+        "J'ai réfléchi [longuement|longtemps] à la question."
+      ],
+      "explain_it": "Riflettere su qualcosa si dice réfléchir à; l'avverbio può stare prima o dopo il participio."
+    },
+    {
+      "id": "L037-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Abbiamo fornito tutti i documenti necessari.",
+      "answers": [
+        "Nous avons fourni tous les documents nécessaires."
+      ],
+      "explain_it": "Il participio fourni è invariabile con avoir quando il complemento oggetto viene dopo il verbo."
+    },
+    {
+      "id": "L037-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "text": "Il ___ le formulaire hier.",
+      "answers": [
+        "a rempli"
+      ],
+      "hint": "(remplir, passato prossimo)",
+      "prompt": "Ieri ha compilato il modulo.",
+      "explain_it": "Il passato prossimo di remplir si forma con a più rempli, il participio tolto -r."
+    },
+    {
+      "id": "L037-e17",
+      "type": "cloze",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "text": "Nous ___ nos recherches.",
+      "answers": [
+        "avons élargi"
+      ],
+      "hint": "(élargir, passato prossimo)",
+      "prompt": "Abbiamo allargato le nostre ricerche.",
+      "explain_it": "Élargir è un verbo del secondo gruppo: avons più élargi."
+    },
+    {
+      "id": "L037-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "comparatives",
+      "prompt": "Questo appartamento è meno caro dell'altro.",
+      "answers": [
+        "Cet appartement est moins cher que l'autre.",
+        "Cet appartement est moins cher que l'autre appartement."
+      ],
+      "explain_it": "Meno caro si dice moins cher que, e l'autre sostituisce il secondo termine di paragone."
+    },
+    {
+      "id": "L037-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "comparatives",
+      "prompt": "Il balcone è più piccolo della terrazza.",
+      "answers": [
+        "Le balcon est plus petit que la terrasse."
+      ],
+      "explain_it": "Plus petit que: l'aggettivo concorda con balcon (maschile) e il secondo termine di paragone è introdotto da que."
+    },
+    {
+      "id": "L037-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "superlatives",
+      "prompt": "È la strada più tranquilla del quartiere.",
+      "answers": [
+        "C'est la rue la plus calme du quartier.",
+        "C'est la rue la plus tranquille du quartier."
+      ],
+      "explain_it": "Con rue (femminile) l'articolo è la plus; de + le si contrae in du davanti a quartier."
+    },
+    {
+      "id": "L037-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "superlatives",
+      "prompt": "Sono i vicini più simpatici della città.",
+      "answers": [
+        "Ce sont les voisins les plus [sympathiques|sympas] de la ville.",
+        "Ils sont les voisins les plus [sympathiques|sympas] de la ville."
+      ],
+      "explain_it": "Al plurale il superlativo prende les plus, con voisins maschile plurale."
+    },
+    {
+      "id": "L037-e22",
+      "type": "cloze",
+      "level": 2,
+      "concept": "superlatives",
+      "text": "Ce roman est le ___ long de la bibliothèque.",
+      "answers": [
+        "plus"
+      ],
+      "hint": "(superlativo)",
+      "prompt": "Questo romanzo è il più lungo della biblioteca.",
+      "explain_it": "Il superlativo maschile singolare è le plus, quindi plus è la parola da inserire."
+    },
+    {
+      "id": "L037-e23",
+      "type": "cloze",
+      "level": 2,
+      "concept": "prepositions-place",
+      "text": "Le bureau est ___ la cuisine.",
+      "answers": [
+        "au-dessus de"
+      ],
+      "hint": "(sopra)",
+      "prompt": "Lo studio è sopra la cucina.",
+      "explain_it": "Au-dessus de indica un luogo più alto rispetto a un punto di riferimento."
+    },
+    {
+      "id": "L037-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions-place",
+      "prompt": "Lei abita al piano di sotto.",
+      "answers": [
+        "Elle habite à l'étage [au-dessous|en dessous|du dessous]."
+      ],
+      "explain_it": "Au-dessous e en dessous sono equivalenti in questo contesto: entrambi indicano il piano inferiore."
+    },
+    {
+      "id": "L037-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "plural",
+      "prompt": "Le mie ricerche sono in corso.",
+      "answers": [
+        "Mes recherches sont en cours."
+      ],
+      "explain_it": "Al plurale recherches indica le ricerche concrete, non l'attività in generale."
+    },
+    {
+      "id": "L037-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Lei non ha i mezzi per partire in vacanza.",
+      "answers": [
+        "Elle n'a pas les moyens de partir en vacances."
+      ],
+      "explain_it": "Avoir les moyens de + infinito significa potersi permettere di fare qualcosa."
+    },
+    {
+      "id": "L037-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Ha trovato la felicità in campagna.",
+      "answers": [
+        "[Il|Elle] a trouvé [son|le] bonheur à la campagne."
+      ],
+      "explain_it": "Trouver son bonheur significa trovare quello che si cerca; le bonheur può sostituire son bonheur."
+    },
+    {
+      "id": "L037-e28",
+      "type": "dictation",
+      "level": 2,
+      "concept": "pronunciation",
+      "text": "Le bonheur ne dépend pas de l'argent.",
+      "explain_it": "La h di bonheur è muta: il suono è [bɔnœʁ], senza aspirazione."
+    },
+    {
+      "id": "L037-e29",
+      "type": "dictation",
+      "level": 2,
+      "concept": "liaison",
+      "text": "Nous avons eu une idée intéressante.",
+      "explain_it": "Nous avons eu une idée: la s di nous si lega alla vocale di avons, e la liaison collega anche avons a eu."
+    },
+    {
+      "id": "L037-e30",
+      "type": "flash",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "front": "Passato prossimo dei verbi in -ir del 2° gruppo: quale ausiliare e quale participio?",
+      "back": "Si usa avoir più il participio passato, ottenuto togliendo la -r dell'infinito: grandir → j'ai grandi; remplir → j'ai rempli; réfléchir → j'ai réfléchi.",
+      "note": "Anche se in italiano alcuni verbi di crescita usano essere, grandir in francese vuole avoir."
+    },
+    {
+      "id": "L037-e31",
+      "type": "flash",
+      "level": 2,
+      "concept": "comparatives",
+      "front": "Come si esprime il comparativo di superiorità e di inferiorità?",
+      "back": "Superiorità: plus + aggettivo + que (più … di). Inferiorità: moins + aggettivo + que (meno … di). Esempio: Ce café est moins cher que le restaurant.",
+      "note": "Il secondo termine di paragone introdotto da que."
+    },
+    {
+      "id": "L037-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-avoir",
+      "prompt": "Lui riflette a lungo sul problema.",
+      "ask": "Volgi al passato prossimo",
+      "answers": [
+        "Il a [longuement|longtemps] réfléchi au problème.",
+        "Il a réfléchi [longuement|longtemps] au problème."
+      ],
+      "explain_it": "Au problème è la contrazione di à + le; l'avverbio si può mettere prima o dopo il participio."
+    },
+    {
+      "id": "L037-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-avoir",
+      "prompt": "Non abbiamo ancora trovato un appartamento in centro.",
+      "ask": "Traduci in francese (passato prossimo, negazione)",
+      "answers": [
+        "Nous n'avons pas encore trouvé d'appartement [en centre-ville|au centre-ville|au centre|dans le centre|dans le centre-ville].",
+        "On n'a pas encore trouvé d'appartement [en centre-ville|au centre-ville|au centre|dans le centre|dans le centre-ville]."
+      ],
+      "explain_it": "Dopo la negazione pas l'articolo indeterminativo un diventa de (d'appartement), e la negazione avvolge l'ausiliare avons."
+    },
+    {
+      "id": "L037-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "superlatives",
+      "prompt": "Il terzo appartamento è il più spazioso, ma è anche il più caro.",
+      "answers": [
+        "Le troisième appartement est le plus spacieux, mais [c'est|il est] aussi le plus cher."
+      ],
+      "explain_it": "Il superlativo si costruisce con le plus, e aussi serve per aggiungere un'informazione in più."
+    },
+    {
+      "id": "L037-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "comparatives",
+      "prompt": "La cucina è più piccola del soggiorno ma più luminosa.",
+      "answers": [
+        "La cuisine est plus petite que le salon mais plus lumineuse.",
+        "La cuisine est plus petite que le salon, mais elle est plus lumineuse."
+      ],
+      "explain_it": "Due comparativi di superiorità nella stessa frase: plus petite que e plus lumineuse, con l'accordo al femminile di cuisine."
+    },
+    {
+      "id": "L037-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Lui vive al di sotto dei suoi mezzi: cerca un appartamento meno caro.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Il vit [au-dessous|en dessous] de ses moyens : il cherche un appartement moins cher.",
+        "Il vit [au-dessous|en dessous] de ses moyens, il cherche un appartement moins cher.",
+        "Il vit [au-dessous|en dessous] de ses moyens, car il cherche un appartement moins cher."
+      ],
+      "explain_it": "Vivre au-dessous de ses moyens è un'espressione idiomatica (spendere meno di quanto si può); moins cher que è il comparativo di inferiorità, qui senza secondo termine."
+    },
+    {
+      "id": "L037-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-avoir",
+      "prompt": "Non ho trovato la lettera, ma ho contattato l'agenzia.",
+      "ask": "Traduci in francese (passato prossimo)",
+      "answers": [
+        "Je n'ai pas trouvé la lettre, mais j'ai contacté l'agence[ immobilière|]."
+      ],
+      "explain_it": "Entrambe le frasi usano il passato prossimo con avoir; la negazione ne...pas circonda l'ausiliare."
+    },
+    {
+      "id": "L037-e38",
+      "type": "dictation",
+      "level": 3,
+      "concept": "negation",
+      "text": "Ça fait deux mois que je cherche un appartement, mais je n'ai pas encore trouvé mon bonheur.",
+      "explain_it": "Ça fait + durata + que introduce un'azione ancora in corso al presente; pas encore indica che l'azione non è ancora conclusa."
+    },
+    {
+      "id": "L037-e39",
+      "type": "dictation",
+      "level": 3,
+      "concept": "comparatives",
+      "text": "Ce studio est beaucoup moins cher que le grand appartement.",
+      "explain_it": "Beaucoup moins cher que: l'avverbio beaucoup rafforza il comparativo di inferiorità."
+    },
+    {
+      "id": "L037-e40",
+      "type": "cloze",
+      "level": 3,
+      "concept": "passe-compose-avoir",
+      "text": "Hier soir, nous ___ à joindre l'agent immobilier.",
+      "answers": [
+        "avons réussi"
+      ],
+      "hint": "(réussir, passato prossimo)",
+      "prompt": "Ieri sera siamo riusciti a raggiungere l'agente immobiliare.",
+      "explain_it": "Réussir è un verbo del secondo gruppo che si coniuga con avoir: avons réussi à + infinito."
+    },
+    {
+      "id": "L037-e41",
+      "type": "write",
+      "level": 3,
+      "concept": "comparatives",
+      "prompt": "Ti ho già spiegato che il secondo appartamento è più caro del primo.",
+      "answers": [
+        "Je [t'|vous ]ai déjà expliqué que le [deuxième|second] appartement est plus cher que le premier."
+      ],
+      "explain_it": "Il pronome te si mette prima dell'ausiliare (je t'ai expliqué); il comparativo usa plus cher que."
+    },
+    {
+      "id": "L037-e42",
+      "type": "cloze",
+      "level": 2,
+      "concept": "plural",
+      "text": "Il a fait plusieurs ___ sur le marché immobilier.",
+      "answers": [
+        "recherches"
+      ],
+      "hint": "(ricerca, plurale)",
+      "prompt": "Ha fatto diverse ricerche sul mercato immobiliare.",
+      "explain_it": "Al plurale recherches indica le indagini e le ricerche concrete, come mostra plusieurs."
+    },
+    {
+      "id": "L037-e43",
+      "type": "flash",
+      "level": 2,
+      "concept": "vocab",
+      "front": "Come si forma il nome in -ment da un verbo come avertir o arrondir?",
+      "back": "Molti verbi del secondo gruppo danno un nome in -issement: avertir → un avertissement (avviso); arrondir → un arrondissement (circoscrizione).",
+      "note": "Il nome ha un articolo; l'avverbio in -ment modifica un verbo (rapidement)."
+    },
+    {
+      "id": "L037-e44",
+      "type": "dictation",
+      "level": 2,
+      "concept": "pronunciation",
+      "text": "Pas encore, mais je continue à chercher.",
+      "explain_it": "In pas encore la liaison è facoltativa: qui la si può fare o omettere, ma la forma con liaison è più elegante."
+    },
+    {
+      "id": "L037-e45",
+      "type": "flash",
+      "level": 2,
+      "concept": "vocab",
+      "front": "In che cosa si distinguono un nome in -ment e un avverbio in -ment?",
+      "back": "L'avverbio (rapidement) modifica un verbo o un aggettivo ed è invariabile; il nome (un avertissement) ha un articolo e un genere.",
+      "note": "Riconoscere la categoria grammaticale aiuta a scegliere l'articolo giusto."
+    },
+    {
+      "id": "L037-e46",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ho riflettuto seriamente alla domanda.",
+      "answers": [
+        "J'ai réfléchi sérieusement à la question."
+      ],
+      "explain_it": "Réfléchir è un verbo del 2o gruppo: participio réfléchi, con avoir; à introduce l'argomento."
+    },
+    {
+      "id": "L037-e47",
+      "type": "cloze",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "text": "Nous avons ___ deux appartements hier soir.",
+      "answers": [
+        "visité"
+      ],
+      "hint": "(visiter)",
+      "prompt": "Abbiamo visitato due appartamenti ieri sera.",
+      "explain_it": "Visiter è un verbo in -er: avoir + participio in -é."
+    }
+  ]
+}

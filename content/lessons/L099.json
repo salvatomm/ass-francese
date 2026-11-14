@@ -1,0 +1,924 @@
+{
+  "n": 99,
+  "title_fr": "Quatre-vingt-dix-neuvième leçon - Incroyable mais vrai...",
+  "title_it": "Novantanovesima lezione - Incredibile ma vero...",
+  "review": false,
+  "status": "verified",
+  "source": "4a88e539 pdf 56-62 (libro p.621-627): titolo e dialogo righe 1-7 a pdf 56, righe 8-18 a pdf 58, righe 19-24 a pdf 60; note 1-5 a pdf 56-57, nota 6 a pdf 58, note 7-8 a pdf 59, nota 9 a pdf 60, nota 10 a pdf 61; esercizio 1 a pdf 60 (p.625), risposte a pdf 61 (p.626); esercizio 2 a pdf 62 (p.627), risposte fuori intervallo; la lezione 100 inizia a pdf 62 (p.627)",
+  "theme_it": "Due amici si ritrovano dopo settimane di silenzio e uno dei due racconta, con ironia, il progetto a cui sta lavorando per il concorso sulla città di domani. Descrive le idee degli altri concorrenti (informatica, denaro virtuale, divieto di circolazione) e la soluzione radicale della propria squadra: costruire le città in campagna, dove l'aria è più pura.",
+  "grammar": [
+    {
+      "id": "superlatives",
+      "title_it": "Moindre: il minimo (superlativo di petit)",
+      "explain_it": "Moindre è il comparativo di petit (minore) e, preceduto dall'articolo determinativo, diventa un superlativo: le moindre, la moindre, les moindres. Concorda con il nome come un normale aggettivo: la moindre chose, les moindres détails. Nelle espressioni fisse significa 'il minimo', 'il meno possibile': la moindre des choses è 'il minimo che si possa fare'. Non va confuso con moins petit, che è una costruzione più pesante.",
+      "examples": [
+        {
+          "fr": "Il n'a pas la moindre idée.",
+          "it": "Non ha la minima idea."
+        },
+        {
+          "fr": "Il remarque les moindres détails.",
+          "it": "Nota i minimi dettagli."
+        }
+      ]
+    },
+    {
+      "id": "imperative",
+      "title_it": "Passons ! : noi dell'imperativo di passer",
+      "explain_it": "La prima persona plurale dell'imperativo di passer (passons) si usa da sola per proporre di cambiare argomento o chiudere un discorso: 'passiamo oltre', 'andiamo avanti'. Come tutti gli imperativi non vuole il pronome soggetto. Con un complemento si costruisce con à: passons à autre chose, passons aux faits. Il tono è deciso e colloquiale, ideale tra amici o colleghi.",
+      "examples": [
+        {
+          "fr": "Bon, passons à la suite.",
+          "it": "Bene, passiamo oltre."
+        },
+        {
+          "fr": "Passons aux choses sérieuses.",
+          "it": "Passiamo alle cose serie."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Devenir: Qu'est-ce que tu deviens ?",
+      "explain_it": "Qu'est-ce que tu deviens ? è una domanda idiomatica che si fa a una persona che non si vede da tempo: 'che fai di bello?', 'che ne è di te?'. Al passato prossimo la domanda su un assente diventa Qu'est-il devenu ? ('che ne è stato di lui?'). Devenir si coniuga con être, quindi il participio concorda con il soggetto: elle est devenue, ils sont devenus.",
+      "examples": [
+        {
+          "fr": "Qu'est-ce que vous devenez ?",
+          "it": "Come ve la passate?"
+        },
+        {
+          "fr": "Qu'est-il devenu après l'accident ?",
+          "it": "Che ne è stato di lui dopo l'incidente?"
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "N'avoir rien à voir (avec): non c'entrare niente",
+      "explain_it": "L'espressione n'avoir rien à voir avec significa 'non avere niente a che fare con', cioè 'non c'entrare'. Si usa anche da sola come risposta, con Ça n'a rien à voir, per dire che un argomento è fuori tema. Il verbo voir resta all'infinito perché dipende da avoir. Non va tradotta parola per parola: in italiano si dice 'non c'entra' o 'non ha niente a che vedere'.",
+      "examples": [
+        {
+          "fr": "Ce problème n'a rien à voir avec ton travail.",
+          "it": "Questo problema non c'entra niente con il tuo lavoro."
+        },
+        {
+          "fr": "Ça n'a rien à voir, on en reparle demain.",
+          "it": "Non c'entra, ne riparliamo domani."
+        }
+      ]
+    },
+    {
+      "id": "futur-simple",
+      "title_it": "Il futuro anteriore (futur antérieur)",
+      "explain_it": "Il futuro anteriore si forma con il futuro semplice di avoir o être più il participio passato: j'aurai fini, je serai parti. Indica un'azione futura già conclusa prima di un'altra azione futura. Dopo le congiunzioni di tempo (quand, lorsque, dès que, aussitôt que) il francese usa il futuro anteriore per l'azione completata, come l'italiano 'quando avrò finito'. Nella frase principale si usa di solito il futuro semplice, come in italiano.",
+      "examples": [
+        {
+          "fr": "Dès que j'aurai terminé, je t'appellerai.",
+          "it": "Appena avrò finito, ti chiamerò."
+        },
+        {
+          "fr": "Ils seront partis avant minuit.",
+          "it": "Saranno partiti prima di mezzanotte."
+        }
+      ]
+    },
+    {
+      "id": "connectors",
+      "title_it": "Soit... soit: o... o (alternativa)",
+      "explain_it": "Soit... soit introduce due alternative che si escludono a vicenda, come l'italiano 'o... o'. Ha lo stesso significato di ou... ou ma suona più formale. Se ogni alternativa è una frase, si ripete il soggetto con il verbo: soit tu viens, soit tu restes. Se sono sostantivi, basta il nome: soit le train, soit l'avion.",
+      "examples": [
+        {
+          "fr": "Soit il vient demain, soit il appelle.",
+          "it": "O viene domani, o chiama."
+        },
+        {
+          "fr": "Soit tu choisis le vin, soit je choisis le dessert.",
+          "it": "O scegli tu il vino, o scelgo io il dolce."
+        }
+      ]
+    },
+    {
+      "id": "comparatives",
+      "title_it": "Aussi bien... que: sia... sia, tanto... quanto",
+      "explain_it": "Aussi bien... que collega due elementi di uguale valore e significa 'sia... sia' o 'tanto... quanto'. Con i pronomi tonici si usa la forma lui, moi, elle: aussi bien lui que moi = sia lui sia io. Quando il soggetto è composto da due elementi uniti da aussi bien... que, il verbo si accorda con il plurale. Non va confuso con aussi... que, che è un semplice confronto di uguaglianza.",
+      "examples": [
+        {
+          "fr": "Il parle aussi bien l'italien que l'anglais.",
+          "it": "Parla sia l'italiano sia l'inglese."
+        },
+        {
+          "fr": "Aussi bien lui que sa sœur viendront demain.",
+          "it": "Sia lui sia sua sorella verranno domani."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "moindre",
+      "it": "minore, minimo",
+      "pos": "adj",
+      "note": "comparativo di petit; con l'articolo: le/la moindre, les moindres"
+    },
+    {
+      "fr": "hypersensible",
+      "it": "ipersensibile, molto delicato",
+      "pos": "adj"
+    },
+    {
+      "fr": "un associé / une associée",
+      "it": "un socio, una socia",
+      "pos": "n"
+    },
+    {
+      "fr": "un dossier",
+      "it": "un fascicolo, una pratica",
+      "pos": "n"
+    },
+    {
+      "fr": "finaliser",
+      "it": "finalizzare, rifinire",
+      "pos": "v",
+      "note": "je finalise"
+    },
+    {
+      "fr": "compléter",
+      "it": "completare",
+      "pos": "v",
+      "note": "je complète"
+    },
+    {
+      "fr": "un concours",
+      "it": "un concorso",
+      "pos": "n"
+    },
+    {
+      "fr": "concevoir",
+      "it": "concepire, ideare",
+      "pos": "v",
+      "note": "je conçois"
+    },
+    {
+      "fr": "contrairement à",
+      "it": "a differenza di, contrariamente a",
+      "pos": "prep"
+    },
+    {
+      "fr": "miser sur",
+      "it": "puntare su, scommettere su",
+      "pos": "v"
+    },
+    {
+      "fr": "un logiciel",
+      "it": "un software, un programma",
+      "pos": "n"
+    },
+    {
+      "fr": "le haut débit",
+      "it": "la banda larga",
+      "pos": "n"
+    },
+    {
+      "fr": "un billet",
+      "it": "una banconota",
+      "pos": "n"
+    },
+    {
+      "fr": "une pièce de monnaie",
+      "it": "una moneta",
+      "pos": "n"
+    },
+    {
+      "fr": "virtuel / virtuelle",
+      "it": "virtuale",
+      "pos": "adj"
+    },
+    {
+      "fr": "la circulation",
+      "it": "il traffico, la circolazione",
+      "pos": "n"
+    },
+    {
+      "fr": "interdire",
+      "it": "vietare, proibire",
+      "pos": "v",
+      "note": "vous interdisez"
+    },
+    {
+      "fr": "un véhicule",
+      "it": "un veicolo",
+      "pos": "n"
+    },
+    {
+      "fr": "particulier / particulière",
+      "it": "privato, personale",
+      "pos": "adj",
+      "note": "un véhicule particulier = auto privata"
+    },
+    {
+      "fr": "obliger",
+      "it": "obbligare",
+      "pos": "v",
+      "note": "obliger qqn à + infinitif"
+    },
+    {
+      "fr": "se déplacer",
+      "it": "spostarsi, muoversi",
+      "pos": "v",
+      "note": "je me déplace"
+    },
+    {
+      "fr": "un PV",
+      "it": "una multa stradale",
+      "pos": "n",
+      "note": "abbreviazione di procès-verbal"
+    },
+    {
+      "fr": "radical / radicale",
+      "it": "radicale, drastico",
+      "pos": "adj"
+    },
+    {
+      "fr": "s'attaquer à",
+      "it": "attaccare, affrontare",
+      "pos": "v",
+      "note": "je m'attaque à"
+    },
+    {
+      "fr": "la pollution",
+      "it": "l'inquinamento",
+      "pos": "n"
+    },
+    {
+      "fr": "la campagne",
+      "it": "la campagna, la zona rurale",
+      "pos": "n"
+    },
+    {
+      "fr": "l'ouïe (f.)",
+      "it": "l'udito",
+      "pos": "n"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "C'est la moindre des choses.",
+      "it": "È il minimo.",
+      "note": "si risponde a un ringraziamento"
+    },
+    {
+      "fr": "Je suis tout ouïe.",
+      "it": "Sono tutt'orecchi.",
+      "note": "letteralmente 'sono tutto udito'"
+    },
+    {
+      "fr": "Qu'est-ce que tu deviens ?",
+      "it": "Che fai di bello? Che ne è di te?",
+      "note": "domanda colloquiale tra amici"
+    },
+    {
+      "fr": "Quoi de neuf ?",
+      "it": "Che c'è di nuovo?",
+      "note": "saluto informale per chiedere notizie"
+    },
+    {
+      "fr": "Ça n'a rien à voir.",
+      "it": "Non c'entra niente.",
+      "note": "per dire che un argomento è fuori tema"
+    },
+    {
+      "fr": "dans les moindres détails",
+      "it": "nei minimi dettagli",
+      "note": "con il superlativo: l'aggettivo concorda con détails"
+    },
+    {
+      "fr": "les grandes lignes",
+      "it": "le linee generali",
+      "note": "per un'informazione sommaria, non ancora dettagliata"
+    },
+    {
+      "fr": "ne pas prendre au sérieux",
+      "it": "non prendere sul serio",
+      "note": "anche nella forma Prendre au sérieux"
+    },
+    {
+      "fr": "Vas-y !",
+      "it": "Dai, vai avanti!",
+      "note": "invito a continuare a parlare"
+    }
+  ],
+  "notes_it": [
+    "Pronuncia: moindre si legge con la n nasale, come in 'mwɛ̃dʁ'; la -e finale non si pronuncia. Ouïe si legge [uj]: la tréma indica che la i va pronunciata a parte, dopo ou.",
+    "PV è l'abbreviazione di procès-verbal, che in senso proprio è il verbale; nell'uso comune un PV è la multa (la contravvenzione) che un agente redige a chi viola il codice della strada.",
+    "Campagne significa anche campagna elettorale o pubblicitaria: il contesto decide. Nel dialogo à la campagne indica la zona rurale, in contrapposizione alla città.",
+    "Débit in francese indica il flusso o la velocità di trasmissione (haut débit = banda larga). In banca, invece, débit significa addebito: non è l'italiano 'debito'.",
+    "L'informatique copre in francese un campo più ampio dell'italiano 'informatica' (software, trattamento dei dati, protezione dei dati). La legge francese sulla protezione dei dati si chiama Informatique et Libertés."
+  ],
+  "exercises": [
+    {
+      "id": "L099-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "superlatives",
+      "prompt": "Quale frase significa 'Non ho la minima idea'?",
+      "options": [
+        "Je n'ai pas la moindre idée.",
+        "Je n'ai pas le moindre idée.",
+        "Je n'ai pas moindre idée.",
+        "Je n'ai aucune moindre idée."
+      ],
+      "correct": 0,
+      "explain_it": "Moindre concorda con il nome: la moindre idée, con idée femminile. Le altre forme non sono corrette."
+    },
+    {
+      "id": "L099-e02",
+      "type": "mcq",
+      "level": 2,
+      "concept": "superlatives",
+      "prompt": "Nel dialogo, 'les moindres détails' significa:",
+      "options": [
+        "i minimi dettagli",
+        "i dettagli più grandi",
+        "i dettagli nascosti",
+        "i dettagli del mese"
+      ],
+      "correct": 0,
+      "explain_it": "Moindre al plurale con l'articolo significa 'i minimi': les moindres détails sono i dettagli più piccoli."
+    },
+    {
+      "id": "L099-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "imperative",
+      "prompt": "Dopo aver chiuso un argomento, un amico dice 'Passons !'. Significa:",
+      "options": [
+        "passiamo oltre, andiamo avanti",
+        "passiamo di qui",
+        "passiamo l'esame",
+        "passeggiamo insieme"
+      ],
+      "correct": 0,
+      "explain_it": "Passons è il noi dell'imperativo di passer, usato per cambiare argomento: non ha il senso di passare fisicamente da un luogo."
+    },
+    {
+      "id": "L099-e04",
+      "type": "mcq",
+      "level": 2,
+      "concept": "futur-simple",
+      "prompt": "Quale frase significa 'Quando avrò finito, ti chiamo'?",
+      "options": [
+        "Quand j'aurai fini, je t'appellerai.",
+        "Quand j'ai fini, je t'appellerai.",
+        "Quand je finirai, je t'ai appelé.",
+        "Quand je finirais, je t'appellerais."
+      ],
+      "correct": 0,
+      "explain_it": "Dopo quand, per un'azione futura già conclusa, si usa il futuro anteriore (aurai fini), e nella principale il futuro semplice."
+    },
+    {
+      "id": "L099-e05",
+      "type": "mcq",
+      "level": 2,
+      "concept": "connectors",
+      "prompt": "Quale frase traduce 'O tu vieni, o resti a casa'?",
+      "options": [
+        "Soit tu viens, soit tu restes à la maison.",
+        "Soit tu viens et tu restes à la maison.",
+        "Tu viens, mais tu restes à la maison.",
+        "Tu viens si tu restes à la maison."
+      ],
+      "correct": 0,
+      "explain_it": "Soit... soit introduce due alternative: 'et' unisce, 'mais' oppone e 'si' pone una condizione, quindi non hanno il senso dell'alternativa."
+    },
+    {
+      "id": "L099-e06",
+      "type": "mcq",
+      "level": 2,
+      "concept": "comparatives",
+      "prompt": "Quale frase significa 'Parla sia l'inglese sia il francese'?",
+      "options": [
+        "Il parle aussi bien l'anglais que le français.",
+        "Il parle aussi bien que l'anglais le français.",
+        "Il parle plus bien l'anglais que le français.",
+        "Il parle autant l'anglais ou le français."
+      ],
+      "correct": 0,
+      "explain_it": "Aussi bien... que collega due elementi di pari valore; plus bien è scorretto e autant... ou non è l'espressione giusta."
+    },
+    {
+      "id": "L099-e07",
+      "type": "mcq",
+      "level": 1,
+      "concept": "vocab",
+      "prompt": "Nel dialogo, 'un PV' significa:",
+      "options": [
+        "una multa stradale",
+        "un pacco postale",
+        "un passaporto",
+        "un pezzo di vetro"
+      ],
+      "correct": 0,
+      "explain_it": "Un PV è l'abbreviazione di procès-verbal; nel linguaggio comune indica la multa stradale."
+    },
+    {
+      "id": "L099-e08",
+      "type": "mcq",
+      "level": 1,
+      "concept": "vocab",
+      "prompt": "Il significato di 'l'ouïe' è:",
+      "options": [
+        "l'udito",
+        "la vista",
+        "l'olfatto",
+        "il gusto"
+      ],
+      "correct": 0,
+      "explain_it": "L'ouïe è il senso dell'udito, legato all'oreille; la vista è la vue, l'olfatto l'odorat e il gusto le goût."
+    },
+    {
+      "id": "L099-e09",
+      "type": "order",
+      "level": 1,
+      "concept": "superlatives",
+      "prompt": "Non ha commesso il minimo errore.",
+      "answers": [
+        "Il n'a pas [fait|commis] la moindre [faute|erreur]."
+      ],
+      "distractors": [
+        "plus",
+        "grande"
+      ],
+      "explain_it": "Il superlativo moindre si pone davanti al nome, con l'articolo: la moindre faute, femminile come faute."
+    },
+    {
+      "id": "L099-e10",
+      "type": "order",
+      "level": 2,
+      "concept": "imperative",
+      "prompt": "Passiamo alla domanda successiva.",
+      "answers": [
+        "Passons à la [question suivante|prochaine question]."
+      ],
+      "distractors": [
+        "passez",
+        "passent"
+      ],
+      "explain_it": "Passons è il noi dell'imperativo: il pronome soggetto non si mette e la forma è passons, non passez."
+    },
+    {
+      "id": "L099-e11",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Non c'entra niente con il progetto.",
+      "answers": [
+        "[Ça|Cela] n'a rien à voir avec le projet."
+      ],
+      "distractors": [
+        "beaucoup",
+        "encore"
+      ],
+      "explain_it": "Con n'avoir rien à voir si usa rien al posto di pas e l'espressione si completa con avec."
+    },
+    {
+      "id": "L099-e12",
+      "type": "order",
+      "level": 2,
+      "concept": "futur-simple",
+      "prompt": "Quando avremo finito il dossier, ti scriveremo.",
+      "answers": [
+        "Quand nous aurons [fini|terminé] le dossier, nous t'écrirons."
+      ],
+      "distractors": [
+        "avons",
+        "écrivons"
+      ],
+      "explain_it": "Il futuro anteriore aurons fini indica un'azione conclusa prima di quella nella principale, che è al futuro semplice."
+    },
+    {
+      "id": "L099-e13",
+      "type": "order",
+      "level": 2,
+      "concept": "comparatives",
+      "prompt": "Lui gioca bene quanto me.",
+      "answers": [
+        "Il joue aussi bien que moi."
+      ],
+      "distractors": [
+        "plus",
+        "mieux"
+      ],
+      "explain_it": "Aussi bien... que con il pronome tonico moi indica il pari valore; mieux e plus non servono qui."
+    },
+    {
+      "id": "L099-e14",
+      "type": "order",
+      "level": 3,
+      "concept": "connectors",
+      "prompt": "O ci vediamo domani, o ci sentiamo al telefono.",
+      "answers": [
+        "Soit on se voit demain, soit on se parle au téléphone.",
+        "Soit on se voit demain, soit on se téléphone.",
+        "Soit on se voit demain, soit on s'appelle.",
+        "Soit nous nous voyons demain, soit nous nous parlons au téléphone."
+      ],
+      "distractors": [
+        "ou",
+        "mais"
+      ],
+      "explain_it": "Soit... soit introduce due alternative e si ripete prima di ciascuna frase: il connettivo va sempre in coppia."
+    },
+    {
+      "id": "L099-e15",
+      "type": "cloze",
+      "level": 1,
+      "concept": "superlatives",
+      "text": "Il n'a pas fait le ___ effort pour venir.",
+      "answers": [
+        "moindre"
+      ],
+      "hint": "(aggettivo, superlativo di petit)",
+      "prompt": "Non ha fatto il minimo sforzo per venire.",
+      "explain_it": "Il superlativo moindre concorda con effort, maschile singolare, e si usa con l'articolo le."
+    },
+    {
+      "id": "L099-e16",
+      "type": "cloze",
+      "level": 1,
+      "concept": "idioms",
+      "text": "Quand il parle de cinéma, je suis tout ___.",
+      "answers": [
+        "ouïe"
+      ],
+      "hint": "(sostantivo femminile)",
+      "prompt": "Quando parla di cinema, sono tutt'orecchi.",
+      "explain_it": "Tout ouïe è un'espressione fissa: davanti a un sostantivo femminile che comincia per vocale tout resta invariato (je suis tout ouïe)."
+    },
+    {
+      "id": "L099-e17",
+      "type": "cloze",
+      "level": 2,
+      "concept": "futur-simple",
+      "text": "Quand tu ___ fini ton travail, tu me téléphoneras.",
+      "answers": [
+        "auras"
+      ],
+      "hint": "(avoir, futuro anteriore)",
+      "prompt": "Quando avrai finito il lavoro, mi telefonerai.",
+      "explain_it": "Il futuro anteriore si forma con il futuro semplice di avoir più il participio fini."
+    },
+    {
+      "id": "L099-e18",
+      "type": "cloze",
+      "level": 2,
+      "concept": "futur-simple",
+      "text": "Dès qu'ils ___ partis, nous pourrons manger.",
+      "answers": [
+        "seront"
+      ],
+      "hint": "(être, futuro anteriore)",
+      "prompt": "Appena saranno partiti, potremo mangiare.",
+      "explain_it": "Partir si coniuga con être, quindi il futuro anteriore è seront partis e il participio concorda con ils."
+    },
+    {
+      "id": "L099-e19",
+      "type": "cloze",
+      "level": 2,
+      "concept": "imperative",
+      "text": "___ à la question suivante !",
+      "answers": [
+        "Passons"
+      ],
+      "hint": "(passer, imperativo, noi)",
+      "prompt": "Passiamo alla domanda successiva!",
+      "explain_it": "Passons è la prima persona plurale dell'imperativo, usata senza il pronome soggetto."
+    },
+    {
+      "id": "L099-e20",
+      "type": "cloze",
+      "level": 2,
+      "concept": "connectors",
+      "text": "Soit tu viens, soit tu ___ à la maison.",
+      "answers": [
+        "restes"
+      ],
+      "hint": "(rester, presente)",
+      "prompt": "O vieni, o resti a casa.",
+      "explain_it": "Ogni alternativa con soit ripete il soggetto e il verbo, qui tu restes al presente."
+    },
+    {
+      "id": "L099-e21",
+      "type": "cloze",
+      "level": 2,
+      "concept": "comparatives",
+      "text": "Elle chante aussi ___ que sa sœur.",
+      "answers": [
+        "bien"
+      ],
+      "hint": "(avverbio)",
+      "prompt": "Canta tanto bene quanto sua sorella.",
+      "explain_it": "Aussi bien... que si usa con l'avverbio bien per il confronto di uguaglianza."
+    },
+    {
+      "id": "L099-e22",
+      "type": "cloze",
+      "level": 1,
+      "concept": "vocab",
+      "text": "Il y a trop de ___ en centre-ville.",
+      "answers": [
+        "circulation"
+      ],
+      "hint": "(sostantivo femminile)",
+      "prompt": "C'è troppo traffico in centro.",
+      "explain_it": "La circulation indica il traffico dei veicoli; come in italiano la stessa parola vale anche per la circolazione del sangue."
+    },
+    {
+      "id": "L099-e23",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Il faut ___ les véhicules polluants.",
+      "answers": [
+        "interdire"
+      ],
+      "hint": "(infinito)",
+      "prompt": "Bisogna vietare i veicoli inquinanti.",
+      "explain_it": "Dopo il faut si usa l'infinito, e interdire regge direttamente il complemento oggetto."
+    },
+    {
+      "id": "L099-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "superlatives",
+      "prompt": "Non ho la minima idea di cosa succederà.",
+      "answers": [
+        "Je n'ai pas la moindre idée de ce qui va se passer.",
+        "Je n'ai pas la moindre idée de ce qui se passera.",
+        "Je n'ai pas la moindre idée de ce qui va arriver.",
+        "Je n'ai pas la moindre idée de ce qui arrivera."
+      ],
+      "explain_it": "Con la moindre idée si usa il superlativo femminile; poi si costruisce la frase interrogativa indiretta."
+    },
+    {
+      "id": "L099-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "superlatives",
+      "prompt": "Tu non hai fatto il minimo sforzo!",
+      "answers": [
+        "Tu n'as pas fait le moindre effort !",
+        "Vous n'avez pas fait le moindre effort !"
+      ],
+      "explain_it": "Moindre ha la stessa forma al maschile e al femminile: qui precede il sostantivo maschile effort, con l'articolo le."
+    },
+    {
+      "id": "L099-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "superlatives",
+      "prompt": "Mi occupo dei minimi dettagli del progetto.",
+      "answers": [
+        "Je m'occupe des moindres détails du projet.",
+        "Je m'occupe des moindres détails de ce projet."
+      ],
+      "explain_it": "Les moindres détails è il plurale del superlativo: moindres concorda con détails; de + les diventa des."
+    },
+    {
+      "id": "L099-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "imperative",
+      "prompt": "Basta così: passiamo a qualcos'altro.",
+      "answers": [
+        "[Bon|Ça suffit|Voilà], passons à autre chose.",
+        "[Bon|Ça suffit|Voilà], passons à quelque chose d'autre."
+      ],
+      "explain_it": "Passons è il noi dell'imperativo con à per introdurre il nuovo argomento."
+    },
+    {
+      "id": "L099-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "imperative",
+      "prompt": "Basta scuse: passiamo ai fatti.",
+      "answers": [
+        "[Assez|Plus] d'excuses : passons aux faits."
+      ],
+      "explain_it": "Passons aux faits: à più il articolo les si contrae in aux, come in italiano a + i."
+    },
+    {
+      "id": "L099-e29",
+      "type": "write",
+      "level": 2,
+      "concept": "futur-simple",
+      "prompt": "Quando avremo finito il progetto, ve ne parleremo.",
+      "answers": [
+        "Quand nous aurons fini le projet, nous vous en parlerons.",
+        "Quand nous aurons terminé le projet, nous vous en parlerons."
+      ],
+      "explain_it": "Il futuro anteriore aurons fini indica un'azione conclusa; en è il pronome che sostituisce de le projet."
+    },
+    {
+      "id": "L099-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "futur-simple",
+      "prompt": "Appena avrò completato il dossier, ti chiamerò.",
+      "answers": [
+        "[Dès que|Aussitôt que] j'aurai [complété|fini|terminé] le dossier, je [t'appellerai|te téléphonerai]."
+      ],
+      "explain_it": "Dès que introduce un'azione futura conclusa: j'aurai complété al futuro anteriore e je t'appellerai al futuro semplice."
+    },
+    {
+      "id": "L099-e31",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Non c'entra niente con il mio problema.",
+      "answers": [
+        "Ça n'a rien à voir avec mon problème.",
+        "Cela n'a rien à voir avec mon problème."
+      ],
+      "explain_it": "L'espressione n'avoir rien à voir avec significa 'non c'entrare con'; ça e cela sono entrambi accettabili."
+    },
+    {
+      "id": "L099-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Non c'entra niente, parliamo d'altro.",
+      "answers": [
+        "[Ça|Cela] n'a rien à voir, parlons d'autre chose.",
+        "[Ça|Cela] n'a rien à voir, passons à autre chose."
+      ],
+      "explain_it": "Ça n'a rien à voir è la risposta fissa per dire che un argomento è fuori tema; poi si propone di cambiare con parlons."
+    },
+    {
+      "id": "L099-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Che fai di bello? Che ne è di te?",
+      "answers": [
+        "Qu'est-ce que tu deviens ?",
+        "Qu'est-ce que tu deviens, toi ?",
+        "Que deviens-tu ?"
+      ],
+      "explain_it": "Qu'est-ce que tu deviens ? è la domanda idiomatica per chiedere notizie di un amico, con il verbo devenir al presente."
+    },
+    {
+      "id": "L099-e34",
+      "type": "write",
+      "level": 2,
+      "concept": "connectors",
+      "prompt": "O cambi idea, o non ti aspetto più.",
+      "answers": [
+        "Soit tu changes d'avis, soit je ne t'attends plus.",
+        "Ou tu changes d'avis, ou je ne t'attends plus.",
+        "Ou bien tu changes d'avis, ou bien je ne t'attends plus."
+      ],
+      "explain_it": "Soit... soit e ou... ou hanno lo stesso significato; in entrambi i casi la frase finale è al presente con ne... plus."
+    },
+    {
+      "id": "L099-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "connectors",
+      "prompt": "O studi o lavori: devi scegliere.",
+      "answers": [
+        "Soit tu étudies, soit tu travailles, [il faut|tu dois] choisir."
+      ],
+      "explain_it": "Soit... soit introduce le due alternative e la conclusione il faut choisir si esprime con l'impersonale."
+    },
+    {
+      "id": "L099-e36",
+      "type": "write",
+      "level": 2,
+      "concept": "comparatives",
+      "prompt": "Lui parla bene sia l'inglese sia lo spagnolo.",
+      "answers": [
+        "Il parle aussi bien l'anglais que l'espagnol.",
+        "Il parle l'anglais aussi bien que l'espagnol."
+      ],
+      "explain_it": "Aussi bien... que collega due elementi con lo stesso valore: sia l'inglese sia lo spagnolo."
+    },
+    {
+      "id": "L099-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "comparatives",
+      "prompt": "Oggi fa bel tempo quanto ieri.",
+      "answers": [
+        "Aujourd'hui il fait aussi beau qu'hier.",
+        "Aujourd'hui, il fait aussi beau qu'hier."
+      ],
+      "explain_it": "Aussi beau que indica il confronto di uguaglianza con l'aggettivo beau, e hier diventa qu'hier con elisione."
+    },
+    {
+      "id": "L099-e38",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Ci serve una connessione veloce.",
+      "answers": [
+        "Il nous faut une connexion [à haut débit|rapide].",
+        "Nous avons besoin d'une connexion [à haut débit|rapide]."
+      ],
+      "explain_it": "Haut débit è la banda larga; débit indica la velocità di trasmissione, non l'addebito bancario."
+    },
+    {
+      "id": "L099-e39",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Ho ricevuto una multa per eccesso di velocità.",
+      "answers": [
+        "J'ai reçu un PV pour excès de vitesse.",
+        "J'ai reçu une contravention pour excès de vitesse."
+      ],
+      "explain_it": "Un PV è la multa stradale; in alternativa si dice une contravention. L'eccesso di velocità è l'excès de vitesse."
+    },
+    {
+      "id": "L099-e40",
+      "type": "dictation",
+      "level": 2,
+      "concept": "superlatives",
+      "text": "Il n'y a pas le moindre doute.",
+      "explain_it": "Le moindre doute: il superlativo è al maschile singolare, come doute."
+    },
+    {
+      "id": "L099-e41",
+      "type": "dictation",
+      "level": 2,
+      "concept": "futur-simple",
+      "text": "Dès que je serai rentré, je t'appellerai.",
+      "explain_it": "Serai rentré è il futuro anteriore di rentrer con être, quindi il participio rentré è maschile singolare."
+    },
+    {
+      "id": "L099-e42",
+      "type": "dictation",
+      "level": 3,
+      "concept": "idioms",
+      "text": "Ça n'a rien à voir avec ce que tu m'as dit hier.",
+      "explain_it": "Ça n'a rien à voir è l'espressione per dire che un argomento è fuori tema, seguita dal complemento con avec."
+    },
+    {
+      "id": "L099-e43",
+      "type": "dictation",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Les grandes lignes du projet sont prêtes.",
+      "explain_it": "Les grandes lignes sono le linee generali; grandes concorda con lignes, femminile plurale."
+    },
+    {
+      "id": "L099-e44",
+      "type": "flash",
+      "level": 2,
+      "concept": "connectors",
+      "front": "Soit... soit",
+      "back": "o... o: introduce due alternative che si escludono (come ou... ou, ma più formale)",
+      "note": "Ogni alternativa, se è una frase, ripete il soggetto con il verbo.",
+      "explain_it": "Soit... soit serve a esprimere un'alternativa, come l'italiano o... o."
+    },
+    {
+      "id": "L099-e45",
+      "type": "flash",
+      "level": 2,
+      "concept": "futur-simple",
+      "front": "Futuro anteriore: come si forma?",
+      "back": "futuro semplice di avoir o être + participio passato: j'aurai fini, je serai parti",
+      "note": "Dopo quand, dès que, lorsque, aussitôt que per un'azione futura già conclusa.",
+      "explain_it": "Il futuro anteriore indica un'azione futura completata prima di un'altra azione futura."
+    },
+    {
+      "id": "L099-e46",
+      "type": "flash",
+      "level": 1,
+      "concept": "superlatives",
+      "front": "Moindre",
+      "back": "minore, minimo: le/la moindre, les moindres (concorda con il nome)",
+      "note": "Nell'espressione la moindre des choses significa 'il minimo che si possa fare'.",
+      "explain_it": "Moindre concorda con il nome come un aggettivo e nelle espressioni fisse significa 'il minimo'."
+    },
+    {
+      "id": "L099-e47",
+      "type": "flash",
+      "level": 1,
+      "concept": "imperative",
+      "front": "Passons !",
+      "back": "passiamo (oltre), andiamo avanti: il noi dell'imperativo di passer",
+      "note": "Si usa senza il pronome soggetto, per cambiare argomento.",
+      "explain_it": "Passons è la prima persona plurale dell'imperativo di passer, usata per chiudere un argomento."
+    },
+    {
+      "id": "L099-e48",
+      "type": "flash",
+      "level": 2,
+      "concept": "comparatives",
+      "front": "Aussi bien... que",
+      "back": "sia... sia; tanto... quanto (confronto di uguaglianza)",
+      "note": "Con i pronomi tonici: aussi bien lui que moi = sia lui sia io.",
+      "explain_it": "Aussi bien... que collega due elementi di pari valore, come l'italiano sia... sia."
+    }
+  ]
+}

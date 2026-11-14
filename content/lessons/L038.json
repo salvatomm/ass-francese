@@ -1,0 +1,830 @@
+{
+  "n": 38,
+  "title_fr": "Trente-huitième leçon - C'est de la part de qui ?",
+  "title_it": "Trentottesima lezione - Chi lo desidera?",
+  "review": false,
+  "status": "verified",
+  "source": "c15d4fa8 p173-179 (pdf 91-98)",
+  "theme_it": "Una telefonata in un ufficio: qualcuno cerca Alain Bolland, la persona che risponde chiede chi chiama, mette in attesa e poi prende un messaggio. Si parla anche di un nuovo direttore commerciale, di un incontro al salone dell'automobile e di una visita ai locali. È la lezione del telefono e dei verbi in -re al passato prossimo (prendre, dire).",
+  "grammar": [
+    {
+      "id": "idioms",
+      "title_it": "«De la part de» al telefono",
+      "explain_it": "Al telefono la domanda standard di chi risponde è «C'est de la part de qui ?», cioè «Chi la desidera? / Chi la chiama?». Si risponde con «De la part de» + nome (De la part de Monsieur Ferrari) oppure semplicemente con il proprio nome. Chi chiama può anche dire «Je vous appelle de la part de Michel», cioè «la chiamo da parte di Michel» (è Michel che ha dato l'incarico o l'indirizzo). Fuori dal telefono «de la part de» significa semplicemente «da parte di».",
+      "examples": [
+        {
+          "fr": "C'est de la part de qui ?",
+          "it": "Chi la chiama?"
+        },
+        {
+          "fr": "Je vous appelle de la part de Madame Ferrari.",
+          "it": "La chiamo da parte della signora Ferrari."
+        }
+      ]
+    },
+    {
+      "id": "passe-compose-avoir",
+      "title_it": "Il passato prossimo dei verbi in -re: prendre e i suoi derivati",
+      "explain_it": "Alcuni verbi in -re fanno il participio passato in modo irregolare: prendre fa pris, e i suoi derivati apprendre (appris) e comprendre (compris) seguono lo stesso schema. Si coniugano con avoir: j'ai pris, tu as pris, il/elle a pris, nous avons pris, vous avez pris, ils/elles ont pris. Come in italiano («ho preso»), ma il participio con avoir non si accorda con il soggetto e resta invariato.",
+      "examples": [
+        {
+          "fr": "J'ai pris le train de huit heures.",
+          "it": "Ho preso il treno delle otto."
+        },
+        {
+          "fr": "Elle a appris la nouvelle hier.",
+          "it": "Ha appreso la notizia ieri."
+        }
+      ]
+    },
+    {
+      "id": "passe-compose-avoir",
+      "title_it": "Il participio passato in -t di dire, écrire e contredire",
+      "explain_it": "Dire ed écrire, e i verbi della stessa famiglia come contredire, formano il participio in -t, che è muto: dit, écrit, contredit. Anche con avoir non c'è accordo. Attenzione: lire, pur essendo un verbo in -re, fa il participio lu, senza -t, quindi va imparato a parte.",
+      "examples": [
+        {
+          "fr": "Il a écrit une lettre à sa mère.",
+          "it": "Ha scritto una lettera a sua madre."
+        },
+        {
+          "fr": "Tu m'as dit la vérité ?",
+          "it": "Mi hai detto la verità?"
+        }
+      ]
+    },
+    {
+      "id": "plural",
+      "title_it": "Local e locaux: il plurale in -aux",
+      "explain_it": "Local può essere un aggettivo («local, locale») oppure un sostantivo maschile che indica un locale commerciale o di lavoro. Il plurale les locaux indica spesso i locali di un'azienda nel loro insieme: uffici, sede, spazi di lavoro. I sostantivi e gli aggettivi in -al fanno il plurale in -aux: un local commercial, des locaux commerciaux; un journal, des journaux.",
+      "examples": [
+        {
+          "fr": "Les locaux sont au troisième étage.",
+          "it": "Gli uffici sono al terzo piano."
+        },
+        {
+          "fr": "Nous cherchons un local commercial.",
+          "it": "Cerchiamo un locale commerciale."
+        }
+      ]
+    },
+    {
+      "id": "register",
+      "title_it": "«Je vous en prie» e la cortesia formale",
+      "explain_it": "«Je vous en prie» è la risposta di cortesia, «prego», a un ringraziamento. È una formula formale con vous; la forma con tu (je t'en prie) è rara. In contesti molto formali l'en si può omettere, soprattutto a fine frase: «Entrez, je vous prie» significa «Si accomodi, prego». Si sente spesso anche al telefono.",
+      "examples": [
+        {
+          "fr": "Merci beaucoup ! — Je vous en prie.",
+          "it": "Grazie mille! — Prego."
+        },
+        {
+          "fr": "Entrez, je vous prie.",
+          "it": "Si accomodi, prego."
+        }
+      ]
+    },
+    {
+      "id": "gender",
+      "title_it": "Poste: due generi, due significati",
+      "explain_it": "Poste è un sostantivo che cambia significato con il genere. La poste (f.) è l'ufficio postale o il servizio postale. Le poste (m.), invece, è il posto di lavoro o la carica (un poste de directeur) e anche l'interno telefonico (le poste ne répond pas: l'interno non risponde). In italiano esistono due parole diverse, «posta» e «posto»: in francese è un'unica parola che cambia genere e significato. Conviene memorizzare insieme genere e significato.",
+      "examples": [
+        {
+          "fr": "Je vais à la poste.",
+          "it": "Vado all'ufficio postale."
+        },
+        {
+          "fr": "Il a obtenu un poste à Paris.",
+          "it": "Ha ottenuto un posto a Parigi."
+        }
+      ]
+    },
+    {
+      "id": "adjectives-irregular",
+      "title_it": "Plein (pleine) e plein de",
+      "explain_it": "Plein significa «pieno» e concorda con il nome: plein (m.), pleine (f.); nel femminile la vocale non è più nasale e si pronuncia [plɛn]. Plein de + nome, invariabile, significa «pieno di» e, in senso lato, «un sacco di»: plein de travail vuol dire molto lavoro. Dopo plein de il nome non vuole l'articolo.",
+      "examples": [
+        {
+          "fr": "Le train est plein de touristes.",
+          "it": "Il treno è pieno di turisti."
+        },
+        {
+          "fr": "Elle a plein de travail en ce moment.",
+          "it": "Ha un sacco di lavoro in questo periodo."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Entendu: la risposta formale di assenso",
+      "explain_it": "Entendu è il participio passato di entendre (sentito) ed è usato come «inteso» o «d'accordo». In ambito professionale è più formale di «OK», che è più colloquiale. Si usa come risposta a un'istruzione o a una proposta.",
+      "examples": [
+        {
+          "fr": "Entendu, à demain.",
+          "it": "D'accordo, a domani."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "joindre",
+      "it": "raggiungere (al telefono), contattare",
+      "pos": "v",
+      "note": "j'essaie de joindre"
+    },
+    {
+      "fr": "le bureau",
+      "it": "l'ufficio",
+      "pos": "n"
+    },
+    {
+      "fr": "vérifier",
+      "it": "controllare, verificare",
+      "pos": "v",
+      "note": "je vais vérifier"
+    },
+    {
+      "fr": "la part",
+      "it": "la parte, la porzione",
+      "pos": "n"
+    },
+    {
+      "fr": "dire",
+      "it": "dire",
+      "pos": "v",
+      "note": "dites-lui"
+    },
+    {
+      "fr": "le salon",
+      "it": "il salone (la fiera)",
+      "pos": "n"
+    },
+    {
+      "fr": "la carte de visite",
+      "it": "il biglietto da visita",
+      "pos": "n"
+    },
+    {
+      "fr": "apprendre",
+      "it": "apprendere, venire a sapere",
+      "pos": "v",
+      "note": "j'ai appris"
+    },
+    {
+      "fr": "le directeur commercial",
+      "it": "il direttore commerciale",
+      "pos": "n"
+    },
+    {
+      "fr": "le début",
+      "it": "l'inizio",
+      "pos": "n"
+    },
+    {
+      "fr": "organiser",
+      "it": "organizzare",
+      "pos": "v",
+      "note": "organiser une visite"
+    },
+    {
+      "fr": "la visite",
+      "it": "la visita",
+      "pos": "n"
+    },
+    {
+      "fr": "les locaux (m. pl.)",
+      "it": "i locali, gli uffici",
+      "pos": "n"
+    },
+    {
+      "fr": "regretter",
+      "it": "rincrescere, dispiacersi",
+      "pos": "v",
+      "note": "je regrette"
+    },
+    {
+      "fr": "répondre",
+      "it": "rispondere",
+      "pos": "v",
+      "note": "ne répond pas"
+    },
+    {
+      "fr": "l'extérieur (m.)",
+      "it": "l'esterno",
+      "pos": "n"
+    },
+    {
+      "fr": "surpris",
+      "it": "sorpreso",
+      "pos": "adj",
+      "note": "al femminile surprise"
+    },
+    {
+      "fr": "l'agenda (m.)",
+      "it": "l'agenda",
+      "pos": "n"
+    },
+    {
+      "fr": "laisser",
+      "it": "lasciare",
+      "pos": "v",
+      "note": "laisser un message"
+    },
+    {
+      "fr": "le message",
+      "it": "il messaggio",
+      "pos": "n"
+    },
+    {
+      "fr": "recontacter",
+      "it": "ricontattare, richiamare",
+      "pos": "v",
+      "note": "me recontacter"
+    },
+    {
+      "fr": "la journée",
+      "it": "la giornata",
+      "pos": "n"
+    },
+    {
+      "fr": "les coordonnées (f. pl.)",
+      "it": "i recapiti, i dati di contatto",
+      "pos": "n"
+    },
+    {
+      "fr": "le numéro",
+      "it": "il numero",
+      "pos": "n"
+    },
+    {
+      "fr": "la réunion",
+      "it": "la riunione",
+      "pos": "n"
+    },
+    {
+      "fr": "la boîte",
+      "it": "la casella (di posta)",
+      "pos": "n",
+      "note": "ta boîte est pleine"
+    },
+    {
+      "fr": "le poste",
+      "it": "il posto di lavoro; l'interno telefonico",
+      "pos": "n"
+    },
+    {
+      "fr": "la poste",
+      "it": "l'ufficio postale",
+      "pos": "n"
+    },
+    {
+      "fr": "plein",
+      "it": "pieno",
+      "pos": "adj",
+      "note": "al femminile pleine"
+    },
+    {
+      "fr": "l'appel (m.)",
+      "it": "la chiamata, la telefonata",
+      "pos": "n",
+      "note": "merci de votre appel"
+    },
+    {
+      "fr": "le bruit",
+      "it": "il rumore",
+      "pos": "n",
+      "note": "J'ai entendu un bruit."
+    },
+    {
+      "fr": "la coopération",
+      "it": "la cooperazione",
+      "pos": "n",
+      "note": "co- si pronuncia [ko-o]"
+    },
+    {
+      "fr": "écrire",
+      "it": "scrivere",
+      "pos": "v",
+      "note": "participio: écrit (j'ai écrit)"
+    },
+    {
+      "fr": "l'île (f.)",
+      "it": "l'isola",
+      "pos": "n",
+      "note": "l'Île de France"
+    },
+    {
+      "fr": "présumer",
+      "it": "presumere, supporre",
+      "pos": "v"
+    },
+    {
+      "fr": "rencontrer",
+      "it": "incontrare",
+      "pos": "v",
+      "note": "j'ai rencontré"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "C'est de la part de qui ?",
+      "it": "Chi la chiama?",
+      "note": "formula standard al telefono, con vous o tu"
+    },
+    {
+      "fr": "Ne quittez pas.",
+      "it": "Non riattacchi, resti in linea.",
+      "note": "detto da chi risponde, con vous"
+    },
+    {
+      "fr": "Je vous mets en attente.",
+      "it": "La metto in attesa.",
+      "note": "al telefono, con vous"
+    },
+    {
+      "fr": "Je vous en prie.",
+      "it": "Prego. Si figuri.",
+      "note": "formula di cortesia; con tu si dice je t'en prie"
+    },
+    {
+      "fr": "Je regrette, mais...",
+      "it": "Mi dispiace, ma...",
+      "note": "per spiegare un'indisponibilità in modo cortese"
+    },
+    {
+      "fr": "en début de semaine",
+      "it": "all'inizio della settimana",
+      "note": "per indicare un momento della settimana"
+    },
+    {
+      "fr": "plein de",
+      "it": "pieno di, un sacco di",
+      "note": "invariabile; plein de travail = molto lavoro"
+    },
+    {
+      "fr": "Entendu.",
+      "it": "D'accordo, inteso.",
+      "note": "più formale di «OK»"
+    },
+    {
+      "fr": "Il doit être à l'extérieur.",
+      "it": "Dovrebbe essere fuori ufficio.",
+      "note": "detto di persona assente per una trasferta o un appuntamento"
+    },
+    {
+      "fr": "en ce moment",
+      "it": "in questo periodo",
+      "note": "molto frequente nelle conversazioni di lavoro"
+    }
+  ],
+  "notes_it": [
+    "Pronuncia: la doppia «oo» di coordonnées e coopération non è una vocale lunga come in inglese, ma due vocali separate: [ko-or], [ko-op]. Il prefisso co- si legge così anche in altre parole.",
+    "Falso amico: «local» come sostantivo maschile indica un locale di lavoro (uffici, sede), non un locale pubblico: un bar, un ristorante o un night club si dicono in francese un bar, un restaurant, une boîte de nuit.",
+    "«Entendu» è il participio di entendre (sentito): in ufficio sostituisce il francese «OK», più colloquiale. Scrivere «OK» in una mail di lavoro suona trascurato.",
+    "Coordonnées al plurale significa anche recapiti, dati di contatto: «Donnez-moi vos coordonnées» vuol dire «mi dia i suoi recapiti». Al singolare, coordonnée, il termine indica una coordinata geografica o numerica."
+  ],
+  "exercises": [
+    {
+      "id": "L038-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Quale frase si usa al telefono per chiedere chi sta chiamando?",
+      "options": [
+        "C'est de la part de qui ?",
+        "C'est de qui la part ?",
+        "De la part qui c'est ?",
+        "Qui est la part de ?"
+      ],
+      "correct": 0,
+      "explain_it": "«De la part de» introduce la persona per conto della quale si chiama, e la domanda standard è «C'est de la part de qui ?»."
+    },
+    {
+      "id": "L038-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "prompt": "Quale frase significa «Ho preso il treno delle otto»?",
+      "options": [
+        "J'ai pris le train de huit heures.",
+        "J'ai prend le train de huit heures.",
+        "Je suis pris le train de huit heures.",
+        "J'ai prise le train de huit heures."
+      ],
+      "correct": 0,
+      "explain_it": "Con avoir il participio di prendre è pris, invariabile; il verbo non vuole être e non si accorda."
+    },
+    {
+      "id": "L038-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "gender",
+      "prompt": "Quale frase significa «L'ufficio postale è vicino alla stazione»?",
+      "options": [
+        "La poste est près de la gare.",
+        "Le poste est près de la gare.",
+        "La poste est près du gare.",
+        "Le poste est loin de la gare."
+      ],
+      "correct": 0,
+      "explain_it": "Poste come ufficio postale è femminile (la poste); al maschile significa posto di lavoro o interno telefonico."
+    },
+    {
+      "id": "L038-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "plural",
+      "prompt": "Qual è il plurale corretto di «un local commercial» (un locale commerciale)?",
+      "options": [
+        "des locaux commerciaux",
+        "des locals commerciaux",
+        "des locaux commerciales",
+        "des local commerciaux"
+      ],
+      "correct": 0,
+      "explain_it": "I sostantivi e gli aggettivi in -al fanno il plurale in -aux: locaux, commerciaux."
+    },
+    {
+      "id": "L038-e05",
+      "type": "mcq",
+      "level": 2,
+      "concept": "adjectives-irregular",
+      "prompt": "Quale frase significa «La sala è piena di gente»?",
+      "options": [
+        "La salle est pleine de monde.",
+        "La salle est plein de monde.",
+        "La salle est pleine avec le monde.",
+        "La salle est plaine de monde."
+      ],
+      "correct": 0,
+      "explain_it": "Plein concorda con salle, femminile, quindi pleine; dopo de, monde non vuole l'articolo."
+    },
+    {
+      "id": "L038-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Chi la desidera? (al telefono)",
+      "answers": [
+        "C'est de la part de qui ?"
+      ],
+      "distractors": [
+        "quoi",
+        "chez"
+      ],
+      "explain_it": "«De la part de» è la formula con cui si chiede o si dichiara per conto di chi si telefona."
+    },
+    {
+      "id": "L038-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ho appreso la notizia ieri.",
+      "answers": [
+        "J'ai appris la nouvelle hier.",
+        "Hier, j'ai appris la nouvelle."
+      ],
+      "distractors": [
+        "suis",
+        "appri"
+      ],
+      "explain_it": "Apprendre come prendre fa il participio appris e si coniuga con avoir."
+    },
+    {
+      "id": "L038-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "register",
+      "prompt": "Mi dispiace, ma il signor Martin è in riunione.",
+      "answers": [
+        "Je regrette, mais Monsieur Martin est en réunion.",
+        "Je regrette, mais M. Martin est en réunion."
+      ],
+      "distractors": [
+        "regarde",
+        "toujours"
+      ],
+      "explain_it": "«Je regrette, mais» è la formula formale per spiegare un'indisponibilità, e «en réunion» indica che la persona non può rispondere."
+    },
+    {
+      "id": "L038-e09",
+      "type": "order",
+      "level": 1,
+      "concept": "plural",
+      "prompt": "Gli uffici sono al terzo piano.",
+      "answers": [
+        "Les locaux sont au troisième étage."
+      ],
+      "distractors": [
+        "local",
+        "troisièmes"
+      ],
+      "explain_it": "Locaux è il plurale di local e indica gli uffici o i locali di lavoro; il verbo è al plurale, sont."
+    },
+    {
+      "id": "L038-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "idioms",
+      "text": "Je vous mets en ___.",
+      "answers": [
+        "attente"
+      ],
+      "hint": "(attesa)",
+      "prompt": "La metto in attesa.",
+      "explain_it": "Al telefono «mettere in attesa» si dice mettre en attente, con il sostantivo femminile attente."
+    },
+    {
+      "id": "L038-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "text": "Hier, nous ___ appris la nouvelle.",
+      "answers": [
+        "avons"
+      ],
+      "hint": "(avoir, presente, noi)",
+      "prompt": "Ieri abbiamo appreso la notizia.",
+      "explain_it": "Il passato prossimo di apprendre richiede l'ausiliare avoir al presente: nous avons appris."
+    },
+    {
+      "id": "L038-e12",
+      "type": "cloze",
+      "level": 2,
+      "concept": "gender",
+      "text": "Je vais à la ___ pour envoyer ce colis.",
+      "answers": [
+        "poste"
+      ],
+      "hint": "(ufficio postale)",
+      "prompt": "Vado all'ufficio postale per spedire questo pacco.",
+      "explain_it": "La poste è femminile quando significa ufficio postale, e l'articolo è la."
+    },
+    {
+      "id": "L038-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "plural",
+      "text": "Les ___ commerciaux de l'entreprise sont au centre-ville.",
+      "answers": [
+        "locaux"
+      ],
+      "hint": "(plurale di local)",
+      "prompt": "I locali commerciali dell'azienda sono in centro.",
+      "explain_it": "Il plurale di local è locaux, perché le parole in -al prendono -aux."
+    },
+    {
+      "id": "L038-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adjectives-irregular",
+      "text": "La salle est ___ de monde.",
+      "answers": [
+        "pleine"
+      ],
+      "hint": "(aggettivo, femminile)",
+      "prompt": "La sala è piena di gente.",
+      "explain_it": "Plein concorda con salle, femminile, e prende la forma pleine."
+    },
+    {
+      "id": "L038-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Chiamo da parte di Michel.",
+      "answers": [
+        "J'appelle de la part de Michel.",
+        "Je vous appelle de la part de Michel.",
+        "Je t'appelle de la part de Michel."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Quando si chiama per conto di qualcuno si usa «de la part de» seguito dal nome di chi ha chiesto la chiamata."
+    },
+    {
+      "id": "L038-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Mi hai detto la verità?",
+      "answers": [
+        "Est-ce que tu m'as dit la vérité ?",
+        "Tu m'as dit la vérité ?",
+        "M'as-tu dit la vérité ?"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Dire è irregolare: il participio è dit, si usa avoir, e m' è un complemento di termine che non crea accordo."
+    },
+    {
+      "id": "L038-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "Dov'è l'ufficio postale?",
+      "answers": [
+        "Où est la poste ?",
+        "Où se trouve la poste ?",
+        "Où est le bureau de poste ?",
+        "Où se trouve le bureau de poste ?"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Poste come ufficio postale è femminile, quindi l'articolo è la."
+    },
+    {
+      "id": "L038-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "adjectives-irregular",
+      "prompt": "Il nostro ufficio è sempre pieno di clienti.",
+      "answers": [
+        "Notre bureau est toujours [plein|rempli] de clients."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Bureau è maschile, quindi plein non cambia, e plein de non vuole articolo davanti a clients."
+    },
+    {
+      "id": "L038-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "plural",
+      "prompt": "Abbiamo due locali in centro.",
+      "answers": [
+        "[Nous avons|On a] deux locaux [au centre-ville|en centre-ville|dans le centre|dans le centre-ville|au centre]."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Dopo deux il sostantivo resta al plurale, locaux, e la forma in -al diventa -aux."
+    },
+    {
+      "id": "L038-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "register",
+      "prompt": "Risposta formale di cortesia a «Grazie mille!»",
+      "answers": [
+        "Je vous en prie."
+      ],
+      "ask": "Rispondi in francese",
+      "explain_it": "Je vous en prie è la risposta formale di cortesia, con vous perché il tono è formale."
+    },
+    {
+      "id": "L038-e21",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ieri non ho preso il treno: ho preso un taxi.",
+      "answers": [
+        "Hier, je n'ai pas pris le train, j'ai pris un taxi.",
+        "Hier, je n'ai pas pris le train, mais j'ai pris un taxi.",
+        "Je n'ai pas pris le train hier, j'ai pris un taxi.",
+        "Je n'ai pas pris le train hier, mais j'ai pris un taxi."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "La negazione ne...pas circonda l'ausiliare (je n'ai pas pris), e il participio pris resta invariato con avoir."
+    },
+    {
+      "id": "L038-e22",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ho detto alla signora Dupont di richiamarmi nel pomeriggio.",
+      "answers": [
+        "J'ai dit à Madame Dupont de me [recontacter|rappeler] [dans l'après-midi|cet après-midi]."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Dire con complemento di persona richiede à, più de con l'infinito; il participio dit resta invariato con avoir."
+    },
+    {
+      "id": "L038-e23",
+      "type": "write",
+      "level": 3,
+      "concept": "imperative",
+      "prompt": "Dica al signor Bolland di chiamarmi, per favore.",
+      "answers": [
+        "[Dites à Monsieur Bolland|Dites-lui] de me [rappeler|recontacter|téléphoner|appeler], s'il vous plaît."
+      ],
+      "ask": "Traduci in francese, forma di cortesia con vous",
+      "explain_it": "L'imperativo con vous è dites, e il pronome lui sostituisce la persona a cui ci si rivolge."
+    },
+    {
+      "id": "L038-e24",
+      "type": "write",
+      "level": 3,
+      "concept": "plural",
+      "prompt": "Gli uffici sono al primo piano, ma il direttore non c'è.",
+      "answers": [
+        "Les locaux sont au premier étage, mais le directeur n'est pas [là|présent|ici]."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Locaux è plurale e il verbo concorda con esso: les locaux sont."
+    },
+    {
+      "id": "L038-e25",
+      "type": "write",
+      "level": 3,
+      "concept": "gender",
+      "prompt": "Non so dov'è l'ufficio postale, ma so dov'è la stazione.",
+      "answers": [
+        "Je ne sais pas [où est|où se trouve] la poste, mais je sais [où est|où se trouve] la gare."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "La poste e la gare sono femminili, quindi i loro articoli sono sempre la."
+    },
+    {
+      "id": "L038-e26",
+      "type": "write",
+      "level": 3,
+      "concept": "adjectives-irregular",
+      "prompt": "Il treno è pieno di gente, quindi prendo un taxi.",
+      "answers": [
+        "Le train est plein de [monde|gens], [alors|donc] je prends un taxi."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Plein de resta invariabile, e con train maschile l'aggettivo non cambia; poi je prends è il presente di prendre."
+    },
+    {
+      "id": "L038-e27",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ho appreso che il direttore commerciale lascia il suo posto in primavera.",
+      "answers": [
+        "J'ai appris que le directeur commercial quitte son poste au printemps."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Apprendre al passato prossimo prende avoir, mentre la frase con que ha il presente quitte."
+    },
+    {
+      "id": "L038-e28",
+      "type": "dictation",
+      "level": 2,
+      "concept": "register",
+      "text": "Pouvez-vous lui demander de me recontacter demain ?",
+      "explain_it": "Chiedere con vous e lui è la forma formale tipica delle telefonate di lavoro."
+    },
+    {
+      "id": "L038-e29",
+      "type": "dictation",
+      "level": 2,
+      "concept": "gender",
+      "text": "La poste ferme à midi le samedi.",
+      "explain_it": "Poste come ufficio postale è femminile: l'articolo è la."
+    },
+    {
+      "id": "L038-e30",
+      "type": "dictation",
+      "level": 3,
+      "concept": "passe-compose-avoir",
+      "text": "Monsieur Bolland a pris sa carte de visite et il a écrit son numéro.",
+      "explain_it": "Pris e écrit sono participi con avoir e restano invariati; la t di écrit è muta."
+    },
+    {
+      "id": "L038-e31",
+      "type": "flash",
+      "level": 2,
+      "concept": "idioms",
+      "front": "«C'est de la part de qui ?» al telefono significa…",
+      "back": "«Chi la chiama?». Per rispondere si dice solo il proprio nome.",
+      "note": "Formula standard di chi risponde al telefono."
+    },
+    {
+      "id": "L038-e32",
+      "type": "flash",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "front": "Participi passati di prendre, apprendre, comprendre, dire, écrire, lire",
+      "back": "pris, appris, compris, dit, écrit, lu. Con avoir non c'è accordo con il soggetto.",
+      "note": "Attenzione: lire fa lu, senza -t."
+    },
+    {
+      "id": "L038-e33",
+      "type": "flash",
+      "level": 2,
+      "concept": "plural",
+      "front": "Il plurale di local (locale, locali)",
+      "back": "locaux. I sostantivi e gli aggettivi in -al fanno il plurale in -aux (un journal, des journaux).",
+      "note": "Regola generale per tutte le parole in -al."
+    },
+    {
+      "id": "L038-e34",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ho incontrato il direttore al Salone.",
+      "answers": [
+        "J'ai rencontré le directeur au Salon."
+      ],
+      "explain_it": "Rencontrer è regolare: j'ai rencontré."
+    },
+    {
+      "id": "L038-e35",
+      "type": "cloze",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "text": "Hier, j'ai ___ un message au directeur.",
+      "answers": [
+        "écrit"
+      ],
+      "hint": "(écrire)",
+      "prompt": "Ieri ho scritto un messaggio al direttore.",
+      "explain_it": "Il participio di écrire è écrit (con -t finale muta)."
+    }
+  ]
+}

@@ -1,0 +1,736 @@
+{
+  "n": 85,
+  "title_fr": "Quatre-vingt-cinquième leçon - Comment ça, je massacre le français ?",
+  "title_it": "Come sarebbe a dire che massacro il francese?",
+  "review": false,
+  "status": "verified",
+  "source": "3d1a4471 pdf 33-39 (libro p.509-515; la lezione inizia a pdf 33 con il titolo 'Quatre-vingt-cinquième leçon'; l'esercizio 1 è a pdf 37-38 con le risposte a pdf 38; l'esercizio 2 è in alto a pdf 39; la lezione 86 inizia in basso a pdf 39)",
+  "theme_it": "Michel esce in una giornata gelida e un amico lo tempesta di domande: scopriamo che il conto in banca di Michel è scoperto e che deve correre alla filiale. Il dialogo serve a praticare le domande in francese familiare, l'uso di comment come interiezione e alcune espressioni colloquiali per liquidare chi è troppo curioso.",
+  "grammar": [
+    {
+      "id": "interrogatives",
+      "title_it": "Domande familiari: senza inversione, con c'est quoi / c'est qui",
+      "explain_it": "Nel francese parlato e familiare una domanda si può fare senza inversione: si lascia la frase dichiarativa e si mette la parola interrogativa in fondo (Tu pars quand ? Tu vas où ?), oppure si usa c'est quoi / c'est qui (C'est quoi, ton problème ?). Nello scritto e nel registro formale si usa l'inversione (Où allez-vous ?). Quando il soggetto è un nome, l'inversione ripete il soggetto come pronome dopo il verbo: Quand le train est-il arrivé ? Non si dice *Quand est arrivé-le train : la forma Le train est arrivé quand ? è invece possibile, ma solo nel parlato familiare.",
+      "examples": [
+        {
+          "fr": "Tu pars quand ?",
+          "it": "Quando parti?"
+        },
+        {
+          "fr": "C'est qui, ton ami ?",
+          "it": "Chi è il tuo amico?"
+        },
+        {
+          "fr": "Quand le train est-il arrivé ?",
+          "it": "Quando è arrivato il treno?"
+        }
+      ]
+    },
+    {
+      "id": "exclamatives",
+      "title_it": "Comment come interiezione: Et comment !, Comment ça ?",
+      "explain_it": "Comment oltre a 'come' interrogativo è anche un'interiezione. Et comment ! è una risposta affermativa enfatica, il nostro 'eccome!'. Comment ça ? (o Comment ça, ...) esprime sorpresa o indignazione e chiede spiegazioni con tono piccato, come 'come sarebbe a dire?'. In queste espressioni comment non si traduce con un semplice 'come'.",
+      "examples": [
+        {
+          "fr": "Tu viens ce soir ? – Et comment !",
+          "it": "Vieni stasera? – Eccome!"
+        },
+        {
+          "fr": "Comment ça, tu es en retard ?",
+          "it": "Come sarebbe, sei in ritardo?"
+        }
+      ]
+    },
+    {
+      "id": "participle-agreement",
+      "title_it": "Il participio découvert: verbo o aggettivo",
+      "explain_it": "Il participio passato di découvrir (découvert) non concorda quando forma il passato prossimo con avoir: il a découvert la vérité. Diventa invece un aggettivo, e allora concorda con il nome: une piscine découverte (piscina scoperta, all'aperto). Il sostantivo le découvert (lo scoperto di conto) è maschile e si usa con être à découvert: il conto è scoperto, in italiano diciamo anche 'essere in rosso'.",
+      "examples": [
+        {
+          "fr": "Il a découvert la vérité.",
+          "it": "Ha scoperto la verità."
+        },
+        {
+          "fr": "Une piscine découverte.",
+          "it": "Una piscina all'aperto."
+        },
+        {
+          "fr": "Mon compte est à découvert.",
+          "it": "Il mio conto è scoperto."
+        }
+      ]
+    },
+    {
+      "id": "register",
+      "title_it": "Registro familiare: tu, espressioni e insulti scherzosi",
+      "explain_it": "Molte frasi della lezione appartengono al francese familiare: espèce de (razza di, usato come rimprovero o insulto scherzoso), un petit voyou (birbante, detto con affetto a un bambino), occupe-toi de tes affaires (brusco), ce ne sont pas tes oignons (non sono affari tuoi). Si usano con amici o persone di pari confidenza. Con un collega, un funzionario o il personale della banca si usa vous e si evitano queste espressioni: il registro si vede anche dalla scelta fra tu e vous.",
+      "examples": [
+        {
+          "fr": "Espèce de bavard !",
+          "it": "Razza di chiacchierone!"
+        },
+        {
+          "fr": "Occupe-toi de tes affaires, s'il te plaît.",
+          "it": "Fatti gli affari tuoi, per favore."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le pardessus",
+      "it": "il soprabito, il cappotto",
+      "pos": "n"
+    },
+    {
+      "fr": "grognon",
+      "it": "brontolone, di cattivo umore",
+      "pos": "adj",
+      "note": "femminile grognonne"
+    },
+    {
+      "fr": "l'oignon (m.)",
+      "it": "la cipolla",
+      "pos": "n"
+    },
+    {
+      "fr": "le découvert",
+      "it": "lo scoperto (di conto)",
+      "pos": "n"
+    },
+    {
+      "fr": "découvrir",
+      "it": "scoprire",
+      "pos": "v",
+      "note": "il a découvert"
+    },
+    {
+      "fr": "le voyou",
+      "it": "il monello, il teppista",
+      "pos": "n"
+    },
+    {
+      "fr": "le nuage",
+      "it": "la nuvola",
+      "pos": "n"
+    },
+    {
+      "fr": "nu",
+      "it": "nudo",
+      "pos": "adj",
+      "note": "femminile nue"
+    },
+    {
+      "fr": "glacial",
+      "it": "gelido",
+      "pos": "adj",
+      "note": "femminile glaciale"
+    },
+    {
+      "fr": "la curiosité",
+      "it": "la curiosità",
+      "pos": "n"
+    },
+    {
+      "fr": "curieux",
+      "it": "curioso",
+      "pos": "adj",
+      "note": "femminile curieuse"
+    },
+    {
+      "fr": "vilain",
+      "it": "brutto, cattivo (detto di un difetto)",
+      "pos": "adj",
+      "note": "femminile vilaine"
+    },
+    {
+      "fr": "se mêler de",
+      "it": "immischiarsi in, ficcare il naso in",
+      "pos": "v",
+      "note": "je me mêle"
+    },
+    {
+      "fr": "emprunter",
+      "it": "prendere in prestito",
+      "pos": "v"
+    },
+    {
+      "fr": "dépenser",
+      "it": "spendere",
+      "pos": "v"
+    },
+    {
+      "fr": "massacrer",
+      "it": "massacrare, storpiare (una lingua)",
+      "pos": "v"
+    },
+    {
+      "fr": "l'espèce (f.)",
+      "it": "la specie, il tipo",
+      "pos": "n",
+      "note": "espèce de + nome: un tipo di"
+    },
+    {
+      "fr": "le conseiller de clientèle",
+      "it": "il consulente clienti (di banca)",
+      "pos": "n"
+    },
+    {
+      "fr": "au plus vite",
+      "it": "il prima possibile",
+      "pos": "adv"
+    },
+    {
+      "fr": "le nez",
+      "it": "il naso",
+      "pos": "n"
+    },
+    {
+      "fr": "le torse",
+      "it": "il torso",
+      "pos": "n"
+    },
+    {
+      "fr": "le blé noir",
+      "it": "il grano saraceno",
+      "pos": "n"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Ça te va comme explication ?",
+      "it": "Ti basta come spiegazione?",
+      "note": "registro familiare, con tu"
+    },
+    {
+      "fr": "Ce ne sont pas tes oignons.",
+      "it": "Non sono affari tuoi.",
+      "note": "familiare; oignons è figurato"
+    },
+    {
+      "fr": "Occupe-toi de tes affaires.",
+      "it": "Fatti gli affari tuoi.",
+      "note": "imperativo con tu, un po' brusco"
+    },
+    {
+      "fr": "Tomber des nues",
+      "it": "Cadere dalle nuvole, restare di stucco",
+      "note": "essere sbalorditi da una notizia"
+    },
+    {
+      "fr": "Et comment !",
+      "it": "Eccome!",
+      "note": "risposta affermativa enfatica"
+    },
+    {
+      "fr": "Il paraît que",
+      "it": "Pare che",
+      "note": "riferire una voce non confermata"
+    },
+    {
+      "fr": "Il faut que je file.",
+      "it": "Devo scappare.",
+      "note": "filer è familiare"
+    },
+    {
+      "fr": "Pour l'amour du ciel !",
+      "it": "Per l'amor del cielo!",
+      "note": "esclamazione di esasperazione"
+    },
+    {
+      "fr": "Massacrer la langue de Molière",
+      "it": "Massacrare la lingua di Molière",
+      "note": "scherzoso: parlare male il francese"
+    },
+    {
+      "fr": "Pour en revenir à toi",
+      "it": "Per tornare a te",
+      "note": "per riprendere il filo del discorso"
+    },
+    {
+      "fr": "Espèce d'idiot !",
+      "it": "Razza di idiota!",
+      "note": "insulto familiare, spesso scherzoso"
+    },
+    {
+      "fr": "Mettre le nez partout",
+      "it": "Ficcare il naso dappertutto",
+      "note": "essere troppo curiosi"
+    }
+  ],
+  "notes_it": [
+    "Pronuncia: in oignon e grognon il gruppo gn si legge come il gn italiano di 'bagno' ([ɲ]); in oignon la o-i iniziale si legge semplicemente [ɔ], quindi la parola suona circa 'onhón'.",
+    "Falso amico nel contesto bancario: une agence è la filiale o lo sportello di una banca, non l'agenzia di viaggi; per l'agenzia di viaggi si dice une agence de voyages.",
+    "Attenzione a par-dessus (preposizione, 'sopra', con il trattino) e pardessus (il soprabito, senza trattino): la nota della lezione spiega che il secondo deriva dal primo.",
+    "Il lessico della curiosità è ricco: se mêler de, mettre le nez partout, être curieux. In francese curieux può essere neutro ('curioso di sapere') oppure negativo ('impiccione'): il tono si capisce dal contesto e dagli idiomi della lezione.",
+    "Massacrer in francese, applicato alla lingua, è un'immagine scherzosa per 'parlare male': il registro è più leggero dell'italiano 'massacrare', che suona più forte."
+  ],
+  "exercises": [
+    {
+      "id": "L085-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "interrogatives",
+      "prompt": "Quale domanda, in registro formale, significa « Quando è arrivato il treno? »",
+      "options": [
+        "Quand est le train arrivé ?",
+        "Quand le train est-il arrivé ?",
+        "Quand est-arrivé il le train ?",
+        "Quand arrive le train ?"
+      ],
+      "correct": 1,
+      "explain_it": "Con un soggetto nominale l'inversione si fa ripetendo il soggetto come pronome dopo il verbo: le train est-il arrivé. Quand arrive le train ? è un'altra domanda, al presente."
+    },
+    {
+      "id": "L085-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "exclamatives",
+      "prompt": "Il tuo amico chiede: « Ti è piaciuta la festa? ». Quale risposta vuol dire « Eccome! »?",
+      "options": [
+        "Et comment !",
+        "Comment ça ?",
+        "Pas du tout !",
+        "Comment allez-vous ?"
+      ],
+      "correct": 0,
+      "explain_it": "Et comment ! è una conferma enfatica; Comment ça ? chiede spiegazioni e non conferma nulla."
+    },
+    {
+      "id": "L085-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Che cosa significa « Ce ne sont pas tes oignons » ?",
+      "options": [
+        "Non sono affari tuoi.",
+        "Non sono le tue cipolle da cucinare.",
+        "Non ti preoccupare per la cena.",
+        "Non è colpa tua."
+      ],
+      "correct": 0,
+      "explain_it": "È un'espressione familiare: oignons è usato in senso figurato per 'cose, affari', e la traduzione letterale non ha senso in questo contesto."
+    },
+    {
+      "id": "L085-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "false-friends",
+      "prompt": "In ambito bancario, « une agence » significa:",
+      "options": [
+        "la filiale (lo sportello) di una banca",
+        "un'agenzia di viaggi",
+        "un'agenda da tavolo",
+        "un'azienda di trasporti"
+      ],
+      "correct": 0,
+      "explain_it": "Une agence bancaire è la filiale della banca; l'agenzia di viaggi è une agence de voyages, quindi il senso dipende dal contesto."
+    },
+    {
+      "id": "L085-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "participle-agreement",
+      "prompt": "Quale frase usa correttamente « découvert » come aggettivo (piscina all'aperto)?",
+      "options": [
+        "une piscine découverte",
+        "une piscine découvert",
+        "une piscine découvre",
+        "une piscine découvrie"
+      ],
+      "correct": 0,
+      "explain_it": "Come aggettivo il participio concorda con il nome: piscine è femminile, quindi découverte con la -e."
+    },
+    {
+      "id": "L085-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "interrogatives",
+      "prompt": "Dove vai in questo momento? (registro familiare)",
+      "answers": [
+        "Tu vas où maintenant ?",
+        "Où tu vas maintenant ?",
+        "Où vas-tu maintenant ?"
+      ],
+      "distractors": [
+        "est-ce",
+        "quand"
+      ],
+      "explain_it": "Nel registro familiare la parola interrogativa resta nella posizione della risposta, senza inversione: Tu vas où ?"
+    },
+    {
+      "id": "L085-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "interrogatives",
+      "prompt": "Quando è arrivato il direttore?",
+      "answers": [
+        "Quand le directeur est-il arrivé ?"
+      ],
+      "distractors": [
+        "ne",
+        "est-ce"
+      ],
+      "explain_it": "Con soggetto nominale, dopo il verbo si ripete il pronome: le directeur est-il arrivé."
+    },
+    {
+      "id": "L085-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "exclamatives",
+      "prompt": "« Ti è piaciuto il concerto? » « Eccome! »",
+      "answers": [
+        "Et comment !"
+      ],
+      "distractors": [
+        "ça",
+        "pas"
+      ],
+      "explain_it": "Et comment ! è l'interiezione enfatica che significa 'eccome!'."
+    },
+    {
+      "id": "L085-e09",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Non sono affari tuoi.",
+      "answers": [
+        "Ce ne sont pas tes oignons."
+      ],
+      "distractors": [
+        "mes",
+        "est"
+      ],
+      "explain_it": "Nell'espressione familiare il possessivo è tes, al plurale come oignons, e il soggetto è ce."
+    },
+    {
+      "id": "L085-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "text": "Hier, Paul ___ beaucoup d'argent au supermarché.",
+      "answers": [
+        "a dépensé"
+      ],
+      "hint": "(dépenser, passato prossimo)",
+      "prompt": "Ieri Paul ha speso molti soldi al supermercato.",
+      "explain_it": "Dépenser forma il passato prossimo con avoir: il a dépensé, senza concordanza con il soggetto."
+    },
+    {
+      "id": "L085-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "vocab",
+      "text": "Il fait un froid ___ dehors, mets ton pardessus !",
+      "answers": [
+        "glacial"
+      ],
+      "hint": "(gelido)",
+      "prompt": "Fa un freddo gelido fuori, mettiti il soprabito!",
+      "explain_it": "Un froid glacial è il freddo gelido; l'aggettivo glacial si usa con froid, maschile."
+    },
+    {
+      "id": "L085-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "adjective-agreement",
+      "text": "Ma voisine est très ___ : elle veut toujours savoir ce que font les autres.",
+      "answers": [
+        "curieuse"
+      ],
+      "hint": "(curieux, femminile)",
+      "prompt": "La mia vicina è molto curiosa: vuole sempre sapere cosa fanno gli altri.",
+      "explain_it": "Curieux al femminile prende -euse: curieuse, perché voisine è femminile."
+    },
+    {
+      "id": "L085-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "Il faut que je ___ maintenant, sinon je vais être en retard.",
+      "answers": [
+        "file"
+      ],
+      "hint": "(filer, congiuntivo presente)",
+      "prompt": "Devo scappare adesso, altrimenti farò tardi.",
+      "explain_it": "Dopo il faut que il verbo va al congiuntivo presente: que je file."
+    },
+    {
+      "id": "L085-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "Il faut que tu ___ à la banque avant midi.",
+      "answers": [
+        "ailles"
+      ],
+      "hint": "(aller, congiuntivo presente)",
+      "prompt": "Bisogna che tu vada in banca prima di mezzogiorno.",
+      "explain_it": "Aller al congiuntivo presente è irregolare: que tu ailles, da memorizzare."
+    },
+    {
+      "id": "L085-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "interrogatives",
+      "text": "C'est ___, ton problème ? Parle clairement !",
+      "answers": [
+        "quoi"
+      ],
+      "hint": "(che cosa)",
+      "prompt": "Qual è il tuo problema? Parla chiaramente!",
+      "explain_it": "C'est quoi ... ? è la domanda familiare per 'qual è/che cos'è'."
+    },
+    {
+      "id": "L085-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "exclamatives",
+      "text": "Tu as aimé le film ? – Oui, ___ !",
+      "answers": [
+        "et comment"
+      ],
+      "hint": "(eccome)",
+      "prompt": "Ti è piaciuto il film? – Eccome!",
+      "explain_it": "Et comment ! è la risposta enfatica affermativa, da usare con amici."
+    },
+    {
+      "id": "L085-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "interrogatives",
+      "prompt": "Chiedi a un amico (tu) dove va a quest'ora.",
+      "answers": [
+        "Tu vas où à cette heure[-ci|] ?",
+        "Où tu vas à cette heure[-ci|] ?",
+        "Où vas-tu à cette heure[-ci|] ?",
+        "Où est-ce que tu vas à cette heure[-ci|] ?"
+      ],
+      "explain_it": "Nel parlato si mette la parola interrogativa dopo il soggetto senza inversione, oppure si usa l'inversione con tu: Où vas-tu ?",
+      "ask": "Formula la domanda in francese"
+    },
+    {
+      "id": "L085-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "interrogatives",
+      "prompt": "Chiedi a un collega (con vous) quando è arrivato il responsabile.",
+      "answers": [
+        "Quand le responsable est-il arrivé ?",
+        "Quand est-il arrivé, le responsable ?",
+        "Quand est arrivé le responsable ?",
+        "Quand est-ce que le responsable est arrivé ?"
+      ],
+      "explain_it": "Con soggetto nominale si ripete il pronome dopo il verbo: le responsable est-il arrivé."
+    },
+    {
+      "id": "L085-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "exclamatives",
+      "prompt": "Rispondi « Eccome! » alla domanda: « Ti piace la musica? »",
+      "answers": [
+        "Et comment !",
+        "Et comment"
+      ],
+      "explain_it": "Et comment è la risposta enfatica affermativa, più forte di un semplice oui."
+    },
+    {
+      "id": "L085-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Rispondi in francese familiare a un amico curioso: « Non sono affari tuoi! »",
+      "answers": [
+        "Ce [ne |]sont pas tes oignons",
+        "C'est pas tes oignons"
+      ],
+      "explain_it": "Ce ne sont pas tes oignons è la forma idiomatica: ce come soggetto e tes al plurale perché oignons è plurale."
+    },
+    {
+      "id": "L085-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "register",
+      "prompt": "Dì a un amico (tu) di farsi gli affari suoi.",
+      "answers": [
+        "[Occupe|Mêle]-toi de tes [affaires|oignons]"
+      ],
+      "explain_it": "È l'imperativo pronominale alla seconda persona singolare: occupe-toi, senza la -s finale."
+    },
+    {
+      "id": "L085-e22",
+      "type": "dictation",
+      "level": 2,
+      "concept": "interrogatives",
+      "text": "Tu pars quand, Michel ?",
+      "explain_it": "La parola interrogativa quand resta in fondo alla frase, senza inversione, nel parlato familiare."
+    },
+    {
+      "id": "L085-e23",
+      "type": "dictation",
+      "level": 2,
+      "concept": "register",
+      "text": "Espèce d'idiot, tu n'as rien compris !",
+      "explain_it": "Espèce d' seguito da un nome è un insulto familiare, spesso scherzoso o di rimprovero."
+    },
+    {
+      "id": "L085-e24",
+      "type": "flash",
+      "level": 2,
+      "concept": "participle-agreement",
+      "front": "Il participio passato di « découvrir » concorda sempre?",
+      "back": "No. Con avoir (il a découvert) non concorda. Concorda solo quando è un aggettivo: une piscine découverte (piscina all'aperto).",
+      "note": "Il sostantivo le découvert (lo scoperto di conto) è maschile."
+    },
+    {
+      "id": "L085-e25",
+      "type": "flash",
+      "level": 2,
+      "concept": "interrogatives",
+      "front": "Come si fa una domanda familiare senza inversione?",
+      "back": "Frase con il soggetto pronome e la parola interrogativa: Tu vas où ? / Tu pars quand ? Nel registro formale resta l'inversione: Où allez-vous ?",
+      "note": "Con soggetto nominale l'inversione ripete il soggetto: Quand le train est-il arrivé ?"
+    },
+    {
+      "id": "L085-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Dì a un collega (con vous) che è necessario partire presto.",
+      "answers": [
+        "Il faut [que vous partiez|partir] tôt",
+        "Il est nécessaire [que vous partiez|de partir] tôt",
+        "Il faut [que vous partiez|partir] de bonne heure"
+      ],
+      "explain_it": "Il faut que richiede il congiuntivo: que vous partiez, da partir."
+    },
+    {
+      "id": "L085-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Traduci: « Bisogna che tu venga con me. »",
+      "answers": [
+        "Il faut que tu viennes avec moi"
+      ],
+      "explain_it": "Dopo il faut que il verbo va al congiuntivo: que tu viennes, da venir."
+    },
+    {
+      "id": "L085-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "interrogatives",
+      "prompt": "Chiedi a un amico (tu), in francese familiare, dove è andato ieri.",
+      "answers": [
+        "Tu es allé[e|] où hier",
+        "Où es-tu allé[e|] hier",
+        "Où est-ce que tu es allé[e|] hier"
+      ],
+      "ask": "Traduci in francese, registro familiare",
+      "explain_it": "Il passato prossimo di aller è con être: tu es allé. La domanda familiare sposta la parola interrogativa, senza ripetere il soggetto."
+    },
+    {
+      "id": "L085-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "exclamatives",
+      "prompt": "Un amico ha preso i tuoi soldi e dice che la colpa è tua. Rispondi con indignazione: « Come sarebbe, è colpa mia? »",
+      "answers": [
+        "Comment ça, c'est ma faute ?",
+        "Comment ça ? C'est ma faute ?"
+      ],
+      "explain_it": "Comment ça ? esprime indignazione e chiede spiegazioni; Et comment ! invece conferma con enfasi. Qui serve il primo."
+    },
+    {
+      "id": "L085-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "participle-agreement",
+      "prompt": "Di' che lui ha scoperto ieri una piscina all'aperto.",
+      "answers": [
+        "Il a découvert une piscine découverte hier",
+        "Il a découvert une piscine découverte, hier",
+        "Hier, il a découvert une piscine découverte"
+      ],
+      "explain_it": "Con avoir il participio découvert non concorda con l'oggetto che sta dopo; l'aggettivo découverte concorda invece con piscine."
+    },
+    {
+      "id": "L085-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Chiedi a un collega (con vous) se bisogna che lui parta subito.",
+      "answers": [
+        "Faut-il qu'il parte [tout de suite|immédiatement]",
+        "Est-ce qu'il faut qu'il parte [tout de suite|immédiatement]"
+      ],
+      "explain_it": "Anche con l'inversione o con est-ce que, il congiuntivo resta dopo qu'il: qu'il parte."
+    },
+    {
+      "id": "L085-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "interrogatives",
+      "prompt": "Chiedi a un collega (con vous) perché non ha risposto alla lettera.",
+      "answers": [
+        "Pourquoi n'avez-vous pas répondu à la lettre",
+        "Pourquoi vous n'avez pas répondu à la lettre",
+        "Pourquoi est-ce que vous n'avez pas répondu à la lettre"
+      ],
+      "explain_it": "Con pourquoi l'inversione con vous è più formale; la forma senza inversione è più colloquiale."
+    },
+    {
+      "id": "L085-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Dì a un amico che sei già in ritardo e devi scappare.",
+      "answers": [
+        "[Je suis déjà en retard|Je suis en retard], [il faut que je file|je dois filer|je dois partir]"
+      ],
+      "explain_it": "Il faut que je file e je dois filer significano 'devo scappare': filer è familiare."
+    },
+    {
+      "id": "L085-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "negation-other",
+      "prompt": "Rispondi (tu) a un amico: « Non ho mai prestato la mia carta di credito a nessuno. »",
+      "answers": [
+        "Je n'ai jamais prêté ma carte de crédit à personne",
+        "Je n'ai jamais prêté ma carte bancaire à personne"
+      ],
+      "explain_it": "Ne... jamais avvolge il verbo e personne va in fondo, dopo la preposizione à."
+    },
+    {
+      "id": "L085-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-order",
+      "prompt": "Il tuo amico ti chiede il pardessus: di' che glielo hai prestato ieri.",
+      "answers": [
+        "Je le lui ai prêté hier",
+        "Hier, je le lui ai prêté"
+      ],
+      "explain_it": "L'oggetto diretto le viene prima di lui (oggetto indiretto), entrambi prima del verbo. Il participio prêté non concorda.",
+      "ask": "Traduci usando due pronomi (le + lui)"
+    },
+    {
+      "id": "L085-e36",
+      "type": "dictation",
+      "level": 3,
+      "concept": "interrogatives",
+      "text": "Pourquoi tu te mêles de mes affaires alors que tu sais qu'il ne faut pas être trop curieux ?",
+      "explain_it": "Domanda familiare con pourquoi in apertura e tu senza inversione; attenzione all'elisione di qu'il e ne."
+    },
+    {
+      "id": "L085-e37",
+      "type": "dictation",
+      "level": 3,
+      "concept": "subjonctif",
+      "text": "Il faut que je file, mais je n'ai pas trouvé mon pardessus.",
+      "explain_it": "Il faut que vuole il congiuntivo presente (que je file); pardessus è un sostantivo maschile senza trattino."
+    }
+  ]
+}

@@ -1,0 +1,769 @@
+{
+  "n": 90,
+  "title_fr": "Quatre-vingt-dixième leçon - \"Le\" ou \"la\" ? - Les deux !",
+  "title_it": "Novantesima lezione - \"Le\" o \"la\"? - Tutti e due!",
+  "review": false,
+  "status": "verified",
+  "source": "3d1a4471 pdf 69-77 (libro p.545-553); la lezione inizia a meta pagina pdf 69 (p.545) con il titolo, dopo l'esercizio 2 della L89; dialogo pdf 69-75 (righe 1-24); note pdf 69-76 (note 1-11); esercizio 1 pdf 75 (p.551), risposte pdf 76 (p.552); esercizio 2 in alto a pdf 77 (p.553); la lezione 91 inizia a meta pagina pdf 77; risposte all'esercizio 2 su pdf 78, non incluse nel range letto",
+  "theme_it": "Un gruppo si prepara a un gioco sul genere dei nomi, perché alcune parole cambiano significato solo con l'articolo: la poêle / le poêle, la mode / le mode, la moule / le moule. Le frasi del dialogo raccontano piccoli episodi (un falso dipinto, un matrimonio, un'estate calda, un ladro che dorme in auto) per mostrare come il genere cambi il senso.",
+  "grammar": [
+    {
+      "id": "gender",
+      "title_it": "Il genere cambia il significato: la mode / le mode, la poêle / le poêle",
+      "explain_it": "In francese molti sostantivi hanno due forme con genere diverso e significati diversi. La pronuncia è identica, quindi l'unico indizio è l'articolo che precede: le o la. In italiano il fenomeno è raro (il fine / la fine è un caso simile, ma poco frequente), quindi in francese va imparato parola per parola. Coppie tipiche: la mode (moda) / le mode (metodo, modo); la poêle (padella) / le poêle (stufa); la vase (fango) / le vase (vaso).",
+      "examples": [
+        {
+          "fr": "Ce vêtement est à la mode.",
+          "it": "Questo capo è di moda."
+        },
+        {
+          "fr": "Lis le mode d'emploi avant de t'en servir.",
+          "it": "Leggi le istruzioni d'uso prima di usarlo."
+        }
+      ]
+    },
+    {
+      "id": "gender",
+      "title_it": "Tre nomi maschili al singolare e femminili al plurale: amour, délice, orgue",
+      "explain_it": "Un amour (amore), un délice (delizia) e un orgue (organo, lo strumento) sono maschili al singolare, ma al plurale diventano femminili: des amours, des délices, des orgues. Lo si nota dagli aggettivi concordati (de vraies délices, al femminile plurale). In italiano il plurale resta dello stesso genere della forma singolare, quindi questa particolarità va memorizzata. Nota anche che l'espressione quel délice al femminile plurale diventa quelles délices.",
+      "examples": [
+        {
+          "fr": "Cette musique d'orgue est un délice.",
+          "it": "Questa musica d'organo è una delizia."
+        },
+        {
+          "fr": "Ces tartes sont de vraies délices.",
+          "it": "Queste crostate sono vere delizie."
+        }
+      ]
+    },
+    {
+      "id": "connectors",
+      "title_it": "Et... et, du coup, pour autant, aussitôt: connettivi",
+      "explain_it": "Et... et coordina due elementi e corrisponde a 'sia... sia'. Du coup significa 'quindi, per questo' ed è familiare, come l'italiano 'quindi'. Pour autant indica che un fatto non cambia nonostante quanto appena detto: 'comunque, per questo'. Aussitôt seguito da un participio passato senza ausiliare crea una frase elittica, tipica dello scritto: Aussitôt le repas fini (appena finito il pasto).",
+      "examples": [
+        {
+          "fr": "Il parle et le français et l'anglais.",
+          "it": "Parla sia il francese sia l'inglese."
+        },
+        {
+          "fr": "Aussitôt le repas fini, nous sommes sortis.",
+          "it": "Appena finito il pasto, siamo usciti."
+        }
+      ]
+    },
+    {
+      "id": "indefinites",
+      "title_it": "Quelque chose de + aggettivo maschile; un petit quelque chose",
+      "explain_it": "Quelque chose (qualcosa) è un indefinito invariabile. Con un aggettivo si usa de + aggettivo maschile: quelque chose de nouveau, quelque chose d'intéressant, come l'italiano 'qualcosa di nuovo'. Un petit quelque chose è un'espressione fissa per 'un tocco in più, un non so che', con quelque chose sempre maschile, anche se il nome a cui si riferisce è femminile.",
+      "examples": [
+        {
+          "fr": "Il y a quelque chose de nouveau.",
+          "it": "C'è qualcosa di nuovo."
+        },
+        {
+          "fr": "Cette comédienne a un petit quelque chose en plus.",
+          "it": "Questa attrice ha un non so che in più."
+        }
+      ]
+    },
+    {
+      "id": "false-friends",
+      "title_it": "Ignorer: non sapere, non essere al corrente",
+      "explain_it": "Ignorer è un falso amico parziale. Davanti a un'informazione (un indirizzo, una notizia, una frase con si/que) significa 'non sapere, non essere al corrente di': j'ignore son adresse. Riferito a una persona o a un'osservazione può anche voler dire 'fingere di non vedere, non dare retta' (il m'ignore), ma il senso più frequente nel parlato formale è 'non sapere'. Il sostantivo l'ignorance è 'ignoranza' nel senso di mancanza di conoscenza.",
+      "examples": [
+        {
+          "fr": "J'ignore son adresse.",
+          "it": "Non so il suo indirizzo."
+        },
+        {
+          "fr": "Il ignore que nous arrivons.",
+          "it": "Non sa che arriviamo."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Faire défaut e à défaut de",
+      "explain_it": "Faire défaut a qualcuno significa 'venire meno, mancare': il complemento di persona è indiretto (me, te, lui, nous, vous, leur) e il soggetto è la cosa che manca. È il parallelo dell'italiano 'mancare a qualcuno'. A défaut de significa 'in mancanza di' ed è un registro più formale. Il sostantivo un défaut significa 'un difetto' o 'una mancanza'.",
+      "examples": [
+        {
+          "fr": "Le temps me fait défaut.",
+          "it": "Mi manca il tempo."
+        },
+        {
+          "fr": "À défaut de vin, on boira de l'eau.",
+          "it": "In mancanza di vino, berremo acqua."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "S'y prendre comme un manche: lavorare in modo maldestro",
+      "explain_it": "Un manche è un manico (manche à balai, manico di scopa), ma nell'espressione s'y prendre comme un manche significa 'fare qualcosa in modo maldestro, goffo'. L'espressione è familiare e si può usare anche con altri verbi, come conduire (guidare). Attenzione: la manche, femminile, è la manica di un indumento, quindi il genere cambia il senso.",
+      "examples": [
+        {
+          "fr": "Il s'y prend comme un manche.",
+          "it": "Si dà da fare in modo maldestro."
+        },
+        {
+          "fr": "Tu cuisines comme un manche !",
+          "it": "Cucini da schifo!"
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le mode",
+      "it": "il modo, il metodo",
+      "pos": "n",
+      "note": "le mode d'emploi = istruzioni d'uso"
+    },
+    {
+      "fr": "la mode",
+      "it": "la moda",
+      "pos": "n"
+    },
+    {
+      "fr": "le manche",
+      "it": "il manico",
+      "pos": "n",
+      "note": "manche à balai = manico di scopa"
+    },
+    {
+      "fr": "la manche",
+      "it": "la manica",
+      "pos": "n"
+    },
+    {
+      "fr": "le mémoire",
+      "it": "la tesi, il saggio",
+      "pos": "n"
+    },
+    {
+      "fr": "la mémoire",
+      "it": "la memoria",
+      "pos": "n"
+    },
+    {
+      "fr": "le poêle",
+      "it": "la stufa",
+      "pos": "n"
+    },
+    {
+      "fr": "la poêle",
+      "it": "la padella",
+      "pos": "n"
+    },
+    {
+      "fr": "le livre",
+      "it": "il libro",
+      "pos": "n"
+    },
+    {
+      "fr": "la livre",
+      "it": "la libbra (circa mezzo chilo)",
+      "pos": "n"
+    },
+    {
+      "fr": "le tour",
+      "it": "il giro, il tour",
+      "pos": "n"
+    },
+    {
+      "fr": "la tour",
+      "it": "la torre",
+      "pos": "n"
+    },
+    {
+      "fr": "le voile",
+      "it": "il velo",
+      "pos": "n"
+    },
+    {
+      "fr": "la voile",
+      "it": "la vela",
+      "pos": "n"
+    },
+    {
+      "fr": "le vase",
+      "it": "il vaso",
+      "pos": "n"
+    },
+    {
+      "fr": "la vase",
+      "it": "il fango, la melma",
+      "pos": "n"
+    },
+    {
+      "fr": "le poste",
+      "it": "il posto di lavoro, l'incarico",
+      "pos": "n"
+    },
+    {
+      "fr": "la poste",
+      "it": "la posta, l'ufficio postale",
+      "pos": "n"
+    },
+    {
+      "fr": "le faux",
+      "it": "il falso, la contraffazione",
+      "pos": "n"
+    },
+    {
+      "fr": "la faux",
+      "it": "la falce",
+      "pos": "n"
+    },
+    {
+      "fr": "un défaut",
+      "it": "un difetto",
+      "pos": "n"
+    },
+    {
+      "fr": "un physique",
+      "it": "l'aspetto fisico",
+      "pos": "n"
+    },
+    {
+      "fr": "un jeune premier",
+      "it": "il primo attore giovane, il divo",
+      "pos": "n"
+    },
+    {
+      "fr": "ignorer",
+      "it": "non sapere, non essere al corrente di",
+      "pos": "v",
+      "note": "j'ignore"
+    },
+    {
+      "fr": "la vague",
+      "it": "l'onda, l'ondata",
+      "pos": "n"
+    },
+    {
+      "fr": "un délice",
+      "it": "una delizia",
+      "pos": "n",
+      "note": "al plurale des délices, femminile"
+    },
+    {
+      "fr": "un amour",
+      "it": "un amore",
+      "pos": "n",
+      "note": "al plurale des amours, femminile"
+    },
+    {
+      "fr": "le ruisseau",
+      "it": "il ruscello",
+      "pos": "n"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "s'y prendre comme un manche",
+      "it": "fare un pasticcio, lavorare in modo maldestro",
+      "note": "registro familiare"
+    },
+    {
+      "fr": "avoir un physique de jeune premier",
+      "it": "avere un aspetto da divo",
+      "note": "si dice di un uomo molto bello"
+    },
+    {
+      "fr": "faire défaut",
+      "it": "venire meno, mancare",
+      "note": "si usa con il complemento di persona: faire défaut à quelqu'un"
+    },
+    {
+      "fr": "à défaut de",
+      "it": "in mancanza di",
+      "note": "registro formale"
+    },
+    {
+      "fr": "pour autant",
+      "it": "per questo, comunque",
+      "note": "spesso in frasi negative: non per questo"
+    },
+    {
+      "fr": "du coup",
+      "it": "quindi, per questo",
+      "note": "registro familiare"
+    },
+    {
+      "fr": "un petit quelque chose",
+      "it": "un non so che, un tocco in più"
+    },
+    {
+      "fr": "Ça me va.",
+      "it": "Va bene per me, mi sta bene",
+      "note": "accordo su una proposta"
+    },
+    {
+      "fr": "Quel délice !",
+      "it": "Che delizia!",
+      "note": "esclamazione scherzosa"
+    },
+    {
+      "fr": "Allons-y.",
+      "it": "Andiamo, forza.",
+      "note": "per iniziare un'azione"
+    }
+  ],
+  "notes_it": [
+    "Ignorer è un falso amico parziale: davanti a un'informazione significa 'non sapere' (j'ignore son adresse), mentre riferito a una persona può voler dire 'non dare retta' (il m'ignore).",
+    "Marié / mari: un marié è lo sposo e une mariée la sposa (il giorno delle nozze), un mari è il marito e une femme la moglie. Époux ed épouse sono le forme formali.",
+    "Pronuncia: il maschile e il femminile di questi nomi si pronunciano allo stesso modo. L'unico indizio è l'articolo che precede, quindi ascolta bene le parole con le/la.",
+    "La h di haricot è aspirata: non c'è elisione, quindi si dice le haricot e des haricots, non l'haricot."
+  ],
+  "exercises": [
+    {
+      "id": "L090-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "gender",
+      "prompt": "Quale forma significa 'la moda'?",
+      "options": [
+        "la mode",
+        "le mode",
+        "la modo",
+        "le moda"
+      ],
+      "correct": 0,
+      "explain_it": "Mode al femminile significa 'moda'; al maschile significa 'modo, metodo', come in le mode d'emploi."
+    },
+    {
+      "id": "L090-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "gender",
+      "prompt": "Quale forma significa 'la padella'?",
+      "options": [
+        "la poêle",
+        "le poêle",
+        "la poile",
+        "le poile"
+      ],
+      "correct": 0,
+      "explain_it": "Poêle al femminile è la padella; al maschile le poêle è la stufa. Solo l'articolo cambia il senso."
+    },
+    {
+      "id": "L090-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "false-friends",
+      "prompt": "Nella frase 'J'ignore son adresse', il verbo ignorer significa:",
+      "options": [
+        "non sapere",
+        "trascurare, non dare retta",
+        "dimenticare",
+        "ignorare di proposito"
+      ],
+      "correct": 0,
+      "explain_it": "Davanti a un'informazione (un indirizzo) ignorer vuol dire 'non sapere'; è un falso amico parziale, perché l'italiano 'ignorare' evoca di più il non dare retta."
+    },
+    {
+      "id": "L090-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "connectors",
+      "prompt": "Quale espressione significa 'quindi, per questo' nel parlato familiare?",
+      "options": [
+        "du coup",
+        "pour autant",
+        "à défaut de",
+        "aussitôt"
+      ],
+      "correct": 0,
+      "explain_it": "Du coup introduce una conseguenza; pour autant indica il contrario, cioè 'comunque, nonostante ciò'."
+    },
+    {
+      "id": "L090-e05",
+      "type": "order",
+      "level": 1,
+      "concept": "connectors",
+      "prompt": "Ho mangiato sia i piselli sia i fagiolini.",
+      "answers": [
+        "J'ai mangé et les petits pois et les haricots verts."
+      ],
+      "distractors": [
+        "ou",
+        "mais"
+      ],
+      "explain_it": "Et... et significa 'sia... sia' e collega due elementi con lo stesso peso."
+    },
+    {
+      "id": "L090-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "gender",
+      "prompt": "Ho comprato una padella nuova.",
+      "answers": [
+        "J'ai acheté une nouvelle poêle."
+      ],
+      "distractors": [
+        "le",
+        "nouveau"
+      ],
+      "explain_it": "Poêle è femminile, quindi si dice une poêle e l'aggettivo prende la forma nouvelle."
+    },
+    {
+      "id": "L090-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "indefinites",
+      "prompt": "Ti offro qualcosa di dolce.",
+      "answers": [
+        "Je t'offre quelque chose de sucré."
+      ],
+      "distractors": [
+        "quelqu'un",
+        "sucrée"
+      ],
+      "explain_it": "Dopo quelque chose de l'aggettivo resta al maschile, anche se si parla di una cosa femminile."
+    },
+    {
+      "id": "L090-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "La sua memoria gli è mancata.",
+      "answers": [
+        "Sa mémoire lui a fait défaut."
+      ],
+      "distractors": [
+        "faite"
+      ],
+      "explain_it": "Faire défaut a qualcuno significa 'venire meno'; il soggetto italiano è 'la memoria' e la persona diventa lui."
+    },
+    {
+      "id": "L090-e09",
+      "type": "cloze",
+      "level": 1,
+      "concept": "gender",
+      "text": "Pour faire l'omelette, je prends la ___.",
+      "answers": [
+        "poêle"
+      ],
+      "hint": "(padella)",
+      "prompt": "Per fare la frittata prendo la padella.",
+      "explain_it": "Poêle al femminile è la padella; l'articolo la lo indica."
+    },
+    {
+      "id": "L090-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "indefinites",
+      "text": "J'ai un petit ___ pour toi !",
+      "answers": [
+        "quelque chose"
+      ],
+      "hint": "(qualcosa, espressione fissa)",
+      "prompt": "Ho un piccolo regalo per te!",
+      "explain_it": "Un petit quelque chose è un'espressione fissa con quelque chose al maschile."
+    },
+    {
+      "id": "L090-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "connectors",
+      "text": "Il a fini son travail ; ___ il est rentré tôt.",
+      "answers": [
+        "du coup",
+        "donc"
+      ],
+      "hint": "(quindi)",
+      "prompt": "Ha finito il lavoro; quindi è tornato presto.",
+      "explain_it": "Du coup introduce la conseguenza di quanto detto prima."
+    },
+    {
+      "id": "L090-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "false-friends",
+      "text": "Je ___ où il habite, désolé.",
+      "answers": [
+        "ignore"
+      ],
+      "hint": "(ignorer, presente)",
+      "prompt": "Non so dove abita, scusa.",
+      "explain_it": "Ignorer significa non sapere: al presente la prima persona è j'ignore."
+    },
+    {
+      "id": "L090-e13",
+      "type": "write",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "Questa moda è molto diffusa.",
+      "answers": [
+        "Cette mode est très répandue.",
+        "Cette mode est largement répandue."
+      ],
+      "explain_it": "Mode è femminile in questo senso, quindi si dice cette mode."
+    },
+    {
+      "id": "L090-e14",
+      "type": "write",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "Ho bisogno di una padella grande.",
+      "answers": [
+        "J'ai besoin d'une grande poêle.",
+        "Il me faut une grande poêle."
+      ],
+      "explain_it": "Poêle è femminile: una grande poêle, con grande prima del nome."
+    },
+    {
+      "id": "L090-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "Ho letto la tua tesi.",
+      "answers": [
+        "J'ai lu ton mémoire."
+      ],
+      "explain_it": "Le mémoire al maschile è la tesi; la memoria, invece, è la mémoire."
+    },
+    {
+      "id": "L090-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "Ho una pessima memoria.",
+      "answers": [
+        "J'ai une très mauvaise mémoire.",
+        "J'ai une mauvaise mémoire."
+      ],
+      "explain_it": "La memoria è la mémoire, femminile, e l'aggettivo mauvaise concorda."
+    },
+    {
+      "id": "L090-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "connectors",
+      "prompt": "Ha perso la partita, ma non per questo è triste.",
+      "answers": [
+        "Il a perdu le match, mais il n'est pas triste pour autant."
+      ],
+      "explain_it": "Pour autant introduce il significato 'nonostante ciò, comunque', dopo la frase con mais."
+    },
+    {
+      "id": "L090-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "connectors",
+      "prompt": "Ho finito il lavoro, quindi sono uscito.",
+      "answers": [
+        "J'ai fini le travail, [du coup|donc] je suis [sorti|sortie]."
+      ],
+      "explain_it": "Du coup introduce la conseguenza, come l'italiano 'quindi'."
+    },
+    {
+      "id": "L090-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "indefinites",
+      "prompt": "Ho sentito qualcosa di nuovo.",
+      "answers": [
+        "J'ai entendu quelque chose de nouveau."
+      ],
+      "explain_it": "Con quelque chose si usa de più aggettivo maschile: quelque chose de nouveau."
+    },
+    {
+      "id": "L090-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "indefinites",
+      "prompt": "Ho visto qualcosa di interessante.",
+      "answers": [
+        "J'ai vu quelque chose d'intéressant."
+      ],
+      "explain_it": "Davanti a una vocale, de diventa d': quelque chose d'intéressant."
+    },
+    {
+      "id": "L090-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "Non so se viene domani.",
+      "answers": [
+        "J'ignore s'il vient demain.",
+        "Je ne sais pas s'il vient demain."
+      ],
+      "explain_it": "Ignorer qui significa 'non sapere', quindi si usa come sapere; la frase introdotta da si diventa s'il."
+    },
+    {
+      "id": "L090-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Il mio coraggio mi è mancato.",
+      "answers": [
+        "Mon courage m'a fait défaut."
+      ],
+      "explain_it": "Faire défaut con complemento di persona: m'a fait défaut significa 'mi è mancato'."
+    },
+    {
+      "id": "L090-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Ha fatto un pasticcio con il progetto.",
+      "answers": [
+        "Il s'y est pris comme un manche pour le projet.",
+        "Il s'y est pris comme un manche avec ce projet."
+      ],
+      "explain_it": "S'y prendre comme un manche è un'espressione familiare per lavorare in modo maldestro."
+    },
+    {
+      "id": "L090-e24",
+      "type": "write",
+      "level": 3,
+      "concept": "gender",
+      "prompt": "Leggi le istruzioni d'uso prima di accendere il forno.",
+      "answers": [
+        "[Lis|Lisez] le mode d'emploi avant d'allumer le four.",
+        "[Lis|Lisez] la notice avant d'allumer le four."
+      ],
+      "explain_it": "Le mode, maschile, significa 'modo' e in le mode d'emploi indica le istruzioni d'uso."
+    },
+    {
+      "id": "L090-e25",
+      "type": "write",
+      "level": 3,
+      "concept": "gender",
+      "prompt": "Il velo della sposa era enorme.",
+      "answers": [
+        "Le voile de la mariée était énorme.",
+        "Le voile de la mariée était immense."
+      ],
+      "explain_it": "Voile al maschile è il velo; la voile, femminile, è la vela."
+    },
+    {
+      "id": "L090-e26",
+      "type": "write",
+      "level": 3,
+      "concept": "gender",
+      "prompt": "Vedo una vela bianca in mezzo al mare.",
+      "answers": [
+        "Je vois une voile blanche au milieu de la mer.",
+        "Je vois une voile blanche en pleine mer."
+      ],
+      "explain_it": "La voile è femminile: una voile blanche, la vela."
+    },
+    {
+      "id": "L090-e27",
+      "type": "write",
+      "level": 3,
+      "concept": "gender",
+      "prompt": "Metti il vaso di fiori sul tavolo.",
+      "answers": [
+        "Mets le vase de fleurs sur la table.",
+        "Mettez le vase de fleurs sur la table."
+      ],
+      "explain_it": "Le vase, maschile, è il vaso (per i fiori); la vase, femminile, è il fango."
+    },
+    {
+      "id": "L090-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "gender",
+      "prompt": "Il contadino taglia l'erba con la falce.",
+      "answers": [
+        "Le [paysan|fermier|agriculteur] coupe l'herbe avec la faux."
+      ],
+      "explain_it": "La faux, femminile, è la falce; le faux, maschile, è il falso."
+    },
+    {
+      "id": "L090-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "gender",
+      "prompt": "L'ufficio postale è vicino a casa mia.",
+      "answers": [
+        "La poste est près de chez moi.",
+        "La poste se trouve près de chez moi."
+      ],
+      "explain_it": "La poste è l'ufficio postale; le poste, maschile, è il posto di lavoro."
+    },
+    {
+      "id": "L090-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "gender",
+      "prompt": "Ho ricevuto un'offerta per un nuovo incarico.",
+      "answers": [
+        "J'ai reçu une offre pour un nouveau poste.",
+        "J'ai reçu une proposition pour un nouveau poste."
+      ],
+      "explain_it": "Le poste, maschile, è il posto di lavoro o l'incarico."
+    },
+    {
+      "id": "L090-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "gender",
+      "prompt": "Questa musica d'organo è una delizia.",
+      "answers": [
+        "Cette musique d'orgue est un délice.",
+        "Cette musique d'orgue est un vrai délice."
+      ],
+      "explain_it": "Un délice è maschile al singolare; al plurale diventa des délices, femminile."
+    },
+    {
+      "id": "L090-e32",
+      "type": "dictation",
+      "level": 2,
+      "concept": "gender",
+      "text": "La poêle est sur le poêle.",
+      "explain_it": "La poêle è la padella, le poêle è la stufa: solo l'articolo distingue i due significati."
+    },
+    {
+      "id": "L090-e33",
+      "type": "dictation",
+      "level": 2,
+      "concept": "connectors",
+      "text": "Aussitôt le repas fini, nous sommes sortis.",
+      "answers": [
+        "Aussitôt le repas fini, nous sommes sortis."
+      ],
+      "explain_it": "Aussitôt con un participio passato senza ausiliare forma una frase elittica, tipica dello scritto ma utile anche nel parlato."
+    },
+    {
+      "id": "L090-e34",
+      "type": "dictation",
+      "level": 3,
+      "concept": "indefinites",
+      "text": "Cette comédienne a un petit quelque chose en plus.",
+      "explain_it": "Un petit quelque chose è un'espressione fissa; quelque chose resta maschile anche se il nome è femminile."
+    },
+    {
+      "id": "L090-e35",
+      "type": "flash",
+      "level": 2,
+      "concept": "gender",
+      "front": "Perché l'articolo cambia il senso di 'poêle'?",
+      "back": "La poêle (f.) è la padella, le poêle (m.) è la stufa. La pronuncia è identica: l'articolo è l'unico indizio.",
+      "explain_it": "Con i nomi che cambiano significato con il genere, l'articolo va imparato insieme alla parola."
+    },
+    {
+      "id": "L090-e36",
+      "type": "flash",
+      "level": 2,
+      "concept": "connectors",
+      "front": "Du coup e pour autant: qual è la differenza?",
+      "back": "Du coup = quindi, per questo (conseguenza). Pour autant = comunque, nonostante ciò; in frase negativa 'non per questo' (il n'est pas triste pour autant).",
+      "explain_it": "Du coup introduce una conseguenza; pour autant introduce un'eccezione."
+    },
+    {
+      "id": "L090-e37",
+      "type": "flash",
+      "level": 2,
+      "concept": "false-friends",
+      "front": "Che cosa significa il verbo 'ignorer'?",
+      "back": "Davanti a un'informazione: non sapere, non essere al corrente di (j'ignore son adresse). Riferito a una persona può anche voler dire 'non dare retta' (il m'ignore).",
+      "explain_it": "Ignorer è un falso amico parziale: il senso più comune con un'informazione è 'non sapere'."
+    }
+  ]
+}

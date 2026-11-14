@@ -1,0 +1,685 @@
+{
+  "n": 69,
+  "title_fr": "Les animaux ne mentent pas…",
+  "title_it": "Gli animali non mentono…",
+  "review": false,
+  "status": "verified",
+  "source": "a1be3e47 p14-21 (libro p.387-394)",
+  "theme_it": "Un uomo convalescente, reduce da un'influenza, racconta a un conoscente com'è andata la settimana: a letto, con la malinconia e la fame ritrovata, e la visita del vicino. Poi cambia argomento e parla di un collega che ha trovato un nuovo lavoro, mentre gli altri provano a indovinare il mestiere.",
+  "grammar": [
+    {
+      "id": "idioms",
+      "title_it": "Modi di dire con gli animali",
+      "explain_it": "Molte espressioni francesi usano un animale come immagine (un lapin, un chien, un poisson, un loup, un chat). Non vanno tradotte parola per parola: vanno imparate come blocchi fissi, perché l'animale non si può cambiare (si dice « avoir le cafard », non « avoir le chien »). Alcune hanno lo stesso paragone in italiano (être heureux comme un poisson dans l'eau, avoir une faim de loup); altre no (poser un lapin = dare buca; passer du coq à l'âne = saltare di palo in frasca). La struttura « comme un + animale » è un paragone rafforzativo, come l'italiano « come un cane ».",
+      "examples": [
+        {
+          "fr": "Il m'a posé un lapin.",
+          "it": "Mi ha dato buca."
+        },
+        {
+          "fr": "Il a d'autres chats à fouetter aujourd'hui.",
+          "it": "Oggi ha altro da fare."
+        },
+        {
+          "fr": "Je suis heureux comme un poisson dans l'eau.",
+          "it": "Sono felice come un pesce nell'acqua."
+        }
+      ]
+    },
+    {
+      "id": "plural",
+      "title_it": "Plurale irregolare: cheval → chevaux",
+      "explain_it": "Il sostantivo cheval (cavallo) fa il plurale in -aux, non in -s: des chevaux. Lo stesso vale per animal (animaux) e journal (journaux). I sostantivi in -eau prendono una -x (agneau → agneaux). L'errore tipico di chi parla italiano è scrivere « chevals » aggiungendo una -s come di consueto: queste forme vanno memorizzate una per una.",
+      "examples": [
+        {
+          "fr": "Il y a deux chevaux dans le pré.",
+          "it": "Ci sono due cavalli nel prato."
+        },
+        {
+          "fr": "Les agneaux dorment dans l'étable.",
+          "it": "Gli agnelli dormono nella stalla."
+        }
+      ]
+    },
+    {
+      "id": "adjectives-irregular",
+      "title_it": "Il femminile di malin: maligne",
+      "explain_it": "L'aggettivo malin (furbo, astuto) fa il femminile in -igne: maligne. Attenzione al falso amico: nel francese di tutti i giorni malin vuol dire « furbo, sveglio » e non « maligno » nel senso italiano del termine, che in francese si rende con malveillant o méchant. Al femminile l'accordo segue il sostantivo: une femme maligne, une fille maligne.",
+      "examples": [
+        {
+          "fr": "Elle est très maligne, cette petite.",
+          "it": "È molto furba, quella bambina."
+        },
+        {
+          "fr": "Il est malin comme un singe.",
+          "it": "È furbo come una scimmia."
+        }
+      ]
+    },
+    {
+      "id": "register",
+      "title_it": "Vachement: intensificatore colloquiale",
+      "explain_it": "Vachement (da vache, mucca) è un avverbio molto familiare che rafforza un aggettivo o un verbo, con il senso di « davvero, proprio, da matti ». Si usa con aggettivi (vachement bien) e con verbi (il pleut vachement). Nella conversazione tra amici è normalissimo, ma non è adatto allo scritto formale né a una situazione ufficiale.",
+      "examples": [
+        {
+          "fr": "Ce film est vachement bien.",
+          "it": "Questo film è davvero bello."
+        },
+        {
+          "fr": "Il fait vachement froid ce matin.",
+          "it": "Stamattina fa un freddo becco."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le lapin",
+      "it": "il coniglio",
+      "pos": "n"
+    },
+    {
+      "fr": "frire",
+      "it": "friggere",
+      "pos": "v",
+      "note": "je fris, il frit"
+    },
+    {
+      "fr": "la courbature",
+      "it": "il dolore muscolare, l'indolenzimento",
+      "pos": "n",
+      "note": "di solito al plurale: les courbatures"
+    },
+    {
+      "fr": "le cafard",
+      "it": "lo scarafaggio; la malinconia (in senso figurato)",
+      "pos": "n"
+    },
+    {
+      "fr": "clouer",
+      "it": "inchiodare; costringere (a letto)",
+      "pos": "v",
+      "note": "clouer quelqu'un au lit"
+    },
+    {
+      "fr": "gris",
+      "it": "grigio",
+      "pos": "adj",
+      "note": "f. grise"
+    },
+    {
+      "fr": "moche",
+      "it": "brutto, sgradevole",
+      "pos": "adj"
+    },
+    {
+      "fr": "le rat",
+      "it": "il topo",
+      "pos": "n"
+    },
+    {
+      "fr": "mort",
+      "it": "morto",
+      "pos": "adj",
+      "note": "f. morte"
+    },
+    {
+      "fr": "l'appétit (m.)",
+      "it": "l'appetito",
+      "pos": "n"
+    },
+    {
+      "fr": "l'oiseau (m.)",
+      "it": "l'uccello",
+      "pos": "n"
+    },
+    {
+      "fr": "bavard",
+      "it": "chiacchierone, loquace",
+      "pos": "adj",
+      "note": "f. bavarde"
+    },
+    {
+      "fr": "la pie",
+      "it": "la gazza",
+      "pos": "n"
+    },
+    {
+      "fr": "le loir",
+      "it": "il ghiro",
+      "pos": "n"
+    },
+    {
+      "fr": "le poil",
+      "it": "il pelo (di animale)",
+      "pos": "n"
+    },
+    {
+      "fr": "le coq",
+      "it": "il gallo",
+      "pos": "n"
+    },
+    {
+      "fr": "l'âne (m.)",
+      "it": "l'asino",
+      "pos": "n"
+    },
+    {
+      "fr": "malin",
+      "it": "furbo, astuto",
+      "pos": "adj",
+      "note": "f. maligne"
+    },
+    {
+      "fr": "le singe",
+      "it": "la scimmia",
+      "pos": "n"
+    },
+    {
+      "fr": "l'agneau (m.)",
+      "it": "l'agnello",
+      "pos": "n"
+    },
+    {
+      "fr": "ambitieux",
+      "it": "ambizioso",
+      "pos": "adj",
+      "note": "f. ambitieuse"
+    },
+    {
+      "fr": "deviner",
+      "it": "indovinare",
+      "pos": "v"
+    },
+    {
+      "fr": "le lièvre",
+      "it": "la lepre",
+      "pos": "n",
+      "note": "maschile in francese, femminile in italiano"
+    },
+    {
+      "fr": "le chirurgien",
+      "it": "il chirurgo",
+      "pos": "n"
+    },
+    {
+      "fr": "la langue",
+      "it": "la lingua",
+      "pos": "n"
+    },
+    {
+      "fr": "le chat",
+      "it": "il gatto",
+      "pos": "n"
+    },
+    {
+      "fr": "heureux",
+      "it": "felice, contento",
+      "pos": "adj",
+      "note": "f. heureuse"
+    },
+    {
+      "fr": "le vétérinaire",
+      "it": "il veterinario",
+      "pos": "n"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "poser un lapin à quelqu'un",
+      "it": "dare buca a qualcuno",
+      "note": "colloquiale: non presentarsi a un appuntamento"
+    },
+    {
+      "fr": "avoir d'autres chats à fouetter",
+      "it": "avere altro da fare",
+      "note": "letteralmente « avere altri gatti da frustare »; si dice di cose più urgenti"
+    },
+    {
+      "fr": "avoir le cafard",
+      "it": "essere giù di morale",
+      "note": "registro familiare"
+    },
+    {
+      "fr": "être malade comme un chien",
+      "it": "stare malissimo",
+      "note": "rafforzativo, molto colloquiale"
+    },
+    {
+      "fr": "avoir une fièvre de cheval",
+      "it": "avere una febbre da cavallo",
+      "note": "in italiano esiste la stessa immagine"
+    },
+    {
+      "fr": "un temps de chien",
+      "it": "un tempo da cani",
+      "note": "tempo brutto e freddo"
+    },
+    {
+      "fr": "s'ennuyer à mourir",
+      "it": "annoiarsi a morte",
+      "note": "forma intensiva, uso comune"
+    },
+    {
+      "fr": "avoir une faim de loup",
+      "it": "avere una fame da lupi",
+      "note": "in italiano esiste la stessa immagine"
+    },
+    {
+      "fr": "passer du coq à l'âne",
+      "it": "saltare di palo in frasca",
+      "note": "passare da un argomento all'altro senza logica"
+    },
+    {
+      "fr": "reprendre du poil de la bête",
+      "it": "riprendersi, tornare in forze",
+      "note": "dopo una malattia o una difficoltà"
+    },
+    {
+      "fr": "donner sa langue au chat",
+      "it": "darsi per vinto",
+      "note": "si dice quando non si riesce a indovinare"
+    },
+    {
+      "fr": "heureux comme un poisson dans l'eau",
+      "it": "felice come un pesce nell'acqua",
+      "note": "espressione uguale in italiano"
+    }
+  ],
+  "notes_it": [
+    "Pronuncia: lapin si legge circa [lapɛ̃]. La n non si pronuncia come consonante ma rende la vocale nasale, e la parola finisce senza suono.",
+    "Falso amico: malin significa « furbo, astuto » e non « maligno »; in italiano « maligno » corrisponde piuttosto a méchant o malveillant.",
+    "Genere: lièvre è maschile in francese, mentre lepre è femminile in italiano. Il genere non si trasporta dall'italiano.",
+    "Ortografia: fouetter (frustare) ha la doppia t, come nel sostantivo le fouet (la frusta). Anche qui conviene memorizzare la grafia.",
+    "Registro: vachement e cafard sono familiari; in un contesto formale o scritto si usano espressioni più neutre, come très o la déprime."
+  ],
+  "exercises": [
+    {
+      "id": "L069-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Quale frase significa « mi ha dato buca »?",
+      "options": [
+        "Il m'a posé un lapin.",
+        "Il m'a donné sa langue.",
+        "Il m'a mis un chat.",
+        "Il m'a fait un cafard."
+      ],
+      "correct": 0,
+      "explain_it": "Poser un lapin à quelqu'un vuol dire non presentarsi a un appuntamento; le altre frasi sono immagini che non hanno quel significato."
+    },
+    {
+      "id": "L069-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "plural",
+      "prompt": "Come si scrive il plurale di « cheval » (cavallo)?",
+      "options": [
+        "chevaux",
+        "chevals",
+        "chevaulx",
+        "chevales"
+      ],
+      "correct": 0,
+      "explain_it": "I sostantivi in -al fanno il plurale in -aux: chevals è l'errore più comune per chi ragiona come in italiano."
+    },
+    {
+      "id": "L069-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "adjectives-irregular",
+      "prompt": "Qual è il femminile corretto di « malin » (furbo) riferito a una donna?",
+      "options": [
+        "maline",
+        "maligne",
+        "malinne",
+        "malin"
+      ],
+      "correct": 1,
+      "explain_it": "Malin fa il femminile maligne: la -n finale diventa -gne."
+    },
+    {
+      "id": "L069-e04",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Sono felice come un pesce nell'acqua.",
+      "answers": [
+        "Je suis heureux comme un poisson dans l'eau."
+      ],
+      "distractors": [
+        "chat",
+        "lapin"
+      ],
+      "explain_it": "Heureux comme un poisson dans l'eau è un'espressione fissa, con la stessa immagine anche in italiano."
+    },
+    {
+      "id": "L069-e05",
+      "type": "order",
+      "level": 1,
+      "concept": "imparfait",
+      "prompt": "Ero malato come un cane.",
+      "answers": [
+        "J'étais malade comme un chien."
+      ],
+      "distractors": [
+        "avais",
+        "suis"
+      ],
+      "explain_it": "Per descrivere uno stato protratto nel passato si usa l'imperfetto: j'étais."
+    },
+    {
+      "id": "L069-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "register",
+      "prompt": "Fa davvero freddo stamattina.",
+      "answers": [
+        "Il fait vachement froid ce matin."
+      ],
+      "distractors": [
+        "vache",
+        "chevaux"
+      ],
+      "explain_it": "Vachement è un intensificatore familiare: si mette davanti ad aggettivi come froid con il senso di « davvero »."
+    },
+    {
+      "id": "L069-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "plural",
+      "prompt": "Ci sono due cavalli nel prato.",
+      "answers": [
+        "Il y a deux chevaux dans le pré."
+      ],
+      "distractors": [
+        "chevals"
+      ],
+      "explain_it": "Il plurale di cheval è chevaux, mentre il y a resta invariato."
+    },
+    {
+      "id": "L069-e08",
+      "type": "cloze",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "text": "Hier, nous ___ un bon déjeuner.",
+      "answers": [
+        "avons pris"
+      ],
+      "hint": "(prendre, passato prossimo)",
+      "prompt": "Ieri abbiamo pranzato bene.",
+      "explain_it": "Prendre un repas è transitivo e vuole avoir; il participio pris al passato prossimo resta come da regola."
+    },
+    {
+      "id": "L069-e09",
+      "type": "cloze",
+      "level": 1,
+      "concept": "idioms",
+      "text": "Ce matin, j'ai une fièvre de ___.",
+      "answers": [
+        "cheval"
+      ],
+      "hint": "(modo di dire)",
+      "prompt": "Stamattina ho una febbre da cavallo.",
+      "explain_it": "Avoir une fièvre de cheval indica una febbre altissima, con un'immagine simile a quella italiana."
+    },
+    {
+      "id": "L069-e10",
+      "type": "mcq",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "Come si dice « la lepre » in francese, con l'articolo giusto?",
+      "options": [
+        "le lièvre",
+        "la lièvre",
+        "le lapin",
+        "la lapine"
+      ],
+      "correct": 0,
+      "explain_it": "Lièvre è maschile in francese, mentre lepre è femminile in italiano: il genere non si trasporta."
+    },
+    {
+      "id": "L069-e11",
+      "type": "cloze",
+      "level": 2,
+      "concept": "plural",
+      "text": "Dans ce pré, il y a trois ___ noirs.",
+      "answers": [
+        "chevaux"
+      ],
+      "hint": "(cheval, plurale)",
+      "prompt": "In questo prato ci sono tre cavalli neri.",
+      "explain_it": "Il plurale di cheval è irregolare: chevaux, da ricordare con i nomi in -al."
+    },
+    {
+      "id": "L069-e12",
+      "type": "cloze",
+      "level": 2,
+      "concept": "imparfait",
+      "text": "Pendant mes vacances, il ___ toujours beau.",
+      "answers": [
+        "faisait"
+      ],
+      "hint": "(faire, imparfait)",
+      "prompt": "Durante le vacanze faceva sempre bel tempo.",
+      "explain_it": "Per una descrizione abituale nel passato si usa l'imperfetto: il faisait beau."
+    },
+    {
+      "id": "L069-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Il fait un temps de ___ depuis lundi.",
+      "answers": [
+        "chien"
+      ],
+      "hint": "(modo di dire)",
+      "prompt": "Fa un tempo da cani da lunedì.",
+      "explain_it": "Un temps de chien è un tempo brutto, come l'italiano « un tempo da cani »."
+    },
+    {
+      "id": "L069-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Depuis lundi, il a le ___.",
+      "answers": [
+        "cafard"
+      ],
+      "hint": "(avoir le...)",
+      "prompt": "Da lunedì è giù di morale.",
+      "explain_it": "Avoir le cafard significa essere giù di morale; il cafard qui non è l'insetto."
+    },
+    {
+      "id": "L069-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "conditionnel",
+      "text": "Si j'avais le temps, je ___ avec toi.",
+      "answers": [
+        "déjeunerais"
+      ],
+      "hint": "(déjeuner, conditionnel présent)",
+      "prompt": "Se avessi tempo, pranzerei con te.",
+      "explain_it": "Con la condizione al si + imperfetto, la frase principale va al condizionale presente."
+    },
+    {
+      "id": "L069-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Ieri mi ha dato buca.",
+      "answers": [
+        "Hier, il m'a posé un lapin.",
+        "Il m'a posé un lapin hier."
+      ],
+      "explain_it": "Poser un lapin è il modo idiomatico per dire « dare buca »; non tradurre con donner un rendez-vous."
+    },
+    {
+      "id": "L069-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "La lepre corre veloce.",
+      "answers": [
+        "Le lièvre court [vite|rapidement]."
+      ],
+      "explain_it": "Lièvre è maschile: si dice le lièvre, anche se in italiano lepre è femminile."
+    },
+    {
+      "id": "L069-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "imparfait",
+      "prompt": "Avevo la febbre alta.",
+      "answers": [
+        "J'avais [une forte|une haute] fièvre.",
+        "J'avais de la fièvre."
+      ],
+      "explain_it": "Lo stato di malattia nel passato si esprime con l'imperfetto di avoir."
+    },
+    {
+      "id": "L069-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "plural",
+      "prompt": "Ho visto due cavalli bianchi.",
+      "answers": [
+        "J'ai vu deux chevaux blancs."
+      ],
+      "explain_it": "Il plurale di cheval è chevaux e l'aggettivo blancs prende la -s del plurale."
+    },
+    {
+      "id": "L069-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "register",
+      "prompt": "Questo film è davvero molto bello.",
+      "answers": [
+        "Ce film est vachement [bien|beau]."
+      ],
+      "explain_it": "Vachement esprime « davvero » in modo familiare e si può usare con bien."
+    },
+    {
+      "id": "L069-e21",
+      "type": "dictation",
+      "level": 2,
+      "concept": "pronunciation",
+      "text": "Le lapin de mon fils est gris.",
+      "explain_it": "Lapin ha la vocale nasale e nessun suono finale della n: ascolta bene la parola."
+    },
+    {
+      "id": "L069-e22",
+      "type": "dictation",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "text": "Hier, nous avons déjeuné ensemble à midi.",
+      "explain_it": "Déjeuner è un verbo che si coniuga con avoir al passato prossimo: nous avons déjeuné."
+    },
+    {
+      "id": "L069-e23",
+      "type": "flash",
+      "level": 2,
+      "concept": "plural",
+      "front": "Plurale di « cheval » e dei nomi in -al",
+      "back": "Cheval fa chevaux: i sostantivi in -al fanno il plurale in -aux (animal → animaux, journal → journaux). Non scrivere mai « chevals ».",
+      "note": "Lo stesso vale per agneau (agneaux), con la -x dopo -eau."
+    },
+    {
+      "id": "L069-e24",
+      "type": "flash",
+      "level": 2,
+      "concept": "adjectives-irregular",
+      "front": "Il femminile di « malin » (furbo)",
+      "back": "maligne: la -n finale cambia in -gne (malin → maligne). Nel francese quotidiano malin significa « furbo, astuto », non « maligno ».",
+      "note": "Attenzione al falso amico: la forma è la stessa, ma il senso cambia."
+    },
+    {
+      "id": "L069-e25",
+      "type": "write",
+      "level": 3,
+      "concept": "conditionnel",
+      "prompt": "Se avessi più tempo, pranzerei volentieri con te.",
+      "answers": [
+        "Si j'avais plus de temps, je [déjeunerais|mangerais] [volontiers|] avec toi."
+      ],
+      "explain_it": "Si + imperfetto nella condizione, condizionale presente nella principale."
+    },
+    {
+      "id": "L069-e26",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ieri il mio vicino mi ha fatto visita.",
+      "answers": [
+        "Hier, mon voisin m'a rendu visite.",
+        "Hier, mon voisin est venu me voir."
+      ],
+      "explain_it": "Rendre visite è transitivo e vuole avoir; venir voir è un verbo di movimento e vuole être."
+    },
+    {
+      "id": "L069-e27",
+      "type": "write",
+      "level": 3,
+      "concept": "imparfait-vs-pc",
+      "prompt": "Mentre mangiavo, è arrivato il postino.",
+      "answers": [
+        "Pendant que je mangeais, le facteur est arrivé.",
+        "Je mangeais quand le facteur est arrivé."
+      ],
+      "explain_it": "L'imperfetto descrive l'azione in corso, il passato prossimo l'evento che interrompe."
+    },
+    {
+      "id": "L069-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Dopo la malattia ho ripreso le forze.",
+      "answers": [
+        "Après ma maladie, j'ai repris du poil de la bête."
+      ],
+      "explain_it": "Reprendre du poil de la bête significa riprendersi; poil è il pelo degli animali, non cheveu."
+    },
+    {
+      "id": "L069-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "adjectives-irregular",
+      "prompt": "Mia cugina è una persona molto furba.",
+      "answers": [
+        "Ma cousine est une personne très maligne.",
+        "Ma cousine est une femme très maligne."
+      ],
+      "explain_it": "Maligne è il femminile di malin; très resta invariato davanti all'aggettivo."
+    },
+    {
+      "id": "L069-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Oggi non ho mangiato niente: ho una fame da lupi!",
+      "answers": [
+        "[Je n'ai rien mangé aujourd'hui|Aujourd'hui je n'ai rien mangé], j'ai une faim de loup."
+      ],
+      "explain_it": "Avoir une faim de loup è l'equivalente di « avere una fame da lupi »."
+    },
+    {
+      "id": "L069-e31",
+      "type": "dictation",
+      "level": 3,
+      "concept": "idioms",
+      "text": "Ma voisine du dessus est bavarde comme une pie.",
+      "explain_it": "Bavard comme une pie significa chiacchierone come una gazza; al femminile si scrive bavarde."
+    },
+    {
+      "id": "L069-e32",
+      "type": "flash",
+      "level": 3,
+      "concept": "register",
+      "front": "Cosa significa « vachement » e dove si usa?",
+      "back": "Intensificatore molto familiare (« davvero, proprio »): si usa con aggettivi e verbi, vachement bien, il pleut vachement. Da evitare nello scritto formale.",
+      "note": "Esempio: Elle est vachement intelligente."
+    }
+  ]
+}

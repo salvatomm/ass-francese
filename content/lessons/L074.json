@@ -1,0 +1,872 @@
+{
+  "n": 74,
+  "title_fr": "Les soldes",
+  "title_it": "I saldi",
+  "review": false,
+  "status": "verified",
+  "source": "a1be3e47 pdf 52-59 (libro p.425-432; la lezione inizia a pdf 52, le risposte all'esercizio 2 sono in cima a pdf 59; la lezione 75 inizia a pdf 58 e non è inclusa)",
+  "theme_it": "Due amici vanno ai saldi di gennaio: uno cerca un cappello nuovo, l'altro detesta i centri commerciali e brontola per la folla. In un negozio di abbigliamento una commessa li aiuta a scegliere tra una parka e un impermeabile, e alla fine si parla di un berretto decorato di piume. Il tono è quotidiano e ironico.",
+  "grammar": [
+    {
+      "id": "quant-a",
+      "title_it": "Quant à: «quanto a...»",
+      "explain_it": "Quant à introduce una persona o un punto messo in contrasto con gli altri: si traduce con «quanto a». Può essere seguito da un pronome tonico (moi, toi, lui, elle, nous, vous, eux) o da un nome: quant au prix = quanto al prezzo. Davanti a un nome, à si contrae con l'articolo: quant au (à + le), quant aux (à + les). Dopo la virgola segue una normale frase con il verbo coniugato.",
+      "examples": [
+        {
+          "fr": "Quant à moi, je préfère celui-ci.",
+          "it": "Quanto a me, preferisco questo."
+        },
+        {
+          "fr": "Quant à lui, il n'est même pas venu.",
+          "it": "Quanto a lui, non è nemmeno venuto."
+        },
+        {
+          "fr": "Quant aux boutiques de mode, n'en parlons pas.",
+          "it": "Quanto ai negozi di moda, non parliamone."
+        }
+      ]
+    },
+    {
+      "id": "lequel",
+      "title_it": "Lequel e la sua concordanza",
+      "explain_it": "Il pronome interrogativo lequel si accorda con il nome a cui si riferisce: lequel (m. sing.), laquelle (f. sing.), lesquels (m. pl.), lesquelles (f. pl.). Si usa per scegliere tra più oggetti: Lequel des deux me va le mieux ? Dopo à si contrae al maschile e al plurale: auquel, auxquels, auxquelles (ma à laquelle resta separato).",
+      "examples": [
+        {
+          "fr": "Lequel des deux préfères-tu ?",
+          "it": "Quale dei due preferisci?"
+        },
+        {
+          "fr": "Laquelle de ces cravates te plaît ?",
+          "it": "Quale di queste cravatte ti piace?"
+        },
+        {
+          "fr": "Lesquelles sont en solde ?",
+          "it": "Quali sono in saldo?"
+        }
+      ]
+    },
+    {
+      "id": "accord-masculin",
+      "title_it": "Il maschile che prevale",
+      "explain_it": "Quando un soggetto è formato da nomi di genere diverso, l'aggettivo va al maschile plurale: il maschile prevale sul femminile, come in italiano (le chapeau et la parka sont beaux). Se si deve scegliere tra due oggetti di genere diverso, per la domanda si usa di solito il maschile lequel.",
+      "examples": [
+        {
+          "fr": "Le chapeau et la parka sont beaux.",
+          "it": "Il cappello e la parka sono belli."
+        },
+        {
+          "fr": "J'hésite entre cette parka et cet imperméable : lequel est le plus chaud ?",
+          "it": "Esito tra questa parka e questo impermeabile: quale è il più caldo?"
+        }
+      ]
+    },
+    {
+      "id": "aller-a-qqn",
+      "title_it": "Aller bien a qualcuno: il pronome indiretto",
+      "explain_it": "Il verbo aller, nel senso di «stare bene» (un abito, un colore), si usa con un pronome indiretto che indica la persona: Ce manteau te va bien. Il pronome sta davanti al verbo: me, te, lui, nous, vous, leur. La costruzione corrisponde all'italiano «ti sta bene», e il verbo concorda con la cosa che sta bene (ce manteau te va, ces manteaux te vont).",
+      "examples": [
+        {
+          "fr": "Ce manteau te va très bien.",
+          "it": "Questo cappotto ti sta molto bene."
+        },
+        {
+          "fr": "Cette couleur lui va à merveille.",
+          "it": "Questo colore le sta a meraviglia."
+        },
+        {
+          "fr": "Ça me va !",
+          "it": "Mi sta bene! / Va bene per me!"
+        }
+      ]
+    },
+    {
+      "id": "se-trouver",
+      "title_it": "Se trouver: trovarsi e 'capita che'",
+      "explain_it": "Il verbo pronominale se trouver significa 'essere situato' (il rayon se trouve au deuxième étage). Con il soggetto impersonale il si usa l'espressione fissa il se trouve que, che equivale a 'capita che' o 'succede che', per introdurre una coincidenza. Non va confuso con trouver (trovare, cercare un oggetto).",
+      "examples": [
+        {
+          "fr": "Le rayon bricolage se trouve au premier étage.",
+          "it": "Il reparto fai-da-te si trova al primo piano."
+        },
+        {
+          "fr": "Il se trouve que j'ai besoin d'un chapeau.",
+          "it": "Capita che abbia bisogno di un cappello."
+        }
+      ]
+    },
+    {
+      "id": "merci-refus",
+      "title_it": "Merci come rifiuto gentile",
+      "explain_it": "Attenzione alla differenza con l'inglese thank you. In francese, in risposta a un'offerta, merci da solo viene di solito inteso come un rifiuto cortese («no, grazie»). Per essere chiari si dice non merci (rifiuto) oppure oui, merci / s'il vous plaît (accettazione). Chi parla italiano rischia di usare merci per dire «sì, grazie» e di essere frainteso.",
+      "examples": [
+        {
+          "fr": "Un café ? – Non merci.",
+          "it": "Un caffè? – No, grazie."
+        },
+        {
+          "fr": "Un thé ? – Oui, merci.",
+          "it": "Un tè? – Sì, grazie."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "les soldes (f. pl.)",
+      "it": "i saldi",
+      "pos": "n"
+    },
+    {
+      "fr": "tomber bien",
+      "it": "capitare a proposito; andare a pennello",
+      "pos": "v"
+    },
+    {
+      "fr": "avoir besoin de",
+      "it": "avere bisogno di",
+      "pos": "v",
+      "note": "j'ai grand besoin de"
+    },
+    {
+      "fr": "un chapeau",
+      "it": "un cappello",
+      "pos": "n"
+    },
+    {
+      "fr": "courageux",
+      "it": "coraggioso",
+      "pos": "adj",
+      "note": "f. courageuse"
+    },
+    {
+      "fr": "un bon plan",
+      "it": "una buona occasione, un buon affare",
+      "pos": "n"
+    },
+    {
+      "fr": "saisir",
+      "it": "cogliere, afferrare",
+      "pos": "v",
+      "note": "saisir une occasion"
+    },
+    {
+      "fr": "accompagner",
+      "it": "accompagnare",
+      "pos": "v"
+    },
+    {
+      "fr": "faire plaisir",
+      "it": "fare piacere",
+      "pos": "v",
+      "note": "ça me ferait plaisir"
+    },
+    {
+      "fr": "un caleçon",
+      "it": "un paio di boxer o di mutande lunghe",
+      "pos": "n"
+    },
+    {
+      "fr": "haïr",
+      "it": "odiare",
+      "pos": "v",
+      "note": "je hais"
+    },
+    {
+      "fr": "un centre commercial",
+      "it": "un centro commerciale",
+      "pos": "n"
+    },
+    {
+      "fr": "un étage",
+      "it": "un piano (di un edificio)",
+      "pos": "n"
+    },
+    {
+      "fr": "la pagaille",
+      "it": "il caos, il disordine",
+      "pos": "n"
+    },
+    {
+      "fr": "un grand magasin",
+      "it": "un grande magazzino",
+      "pos": "n"
+    },
+    {
+      "fr": "la foule",
+      "it": "la folla",
+      "pos": "n"
+    },
+    {
+      "fr": "pire",
+      "it": "peggiore",
+      "pos": "adj"
+    },
+    {
+      "fr": "râler",
+      "it": "brontolare, lamentarsi",
+      "pos": "v"
+    },
+    {
+      "fr": "un manteau",
+      "it": "un cappotto",
+      "pos": "n"
+    },
+    {
+      "fr": "une parka",
+      "it": "una parka, un giaccone",
+      "pos": "n"
+    },
+    {
+      "fr": "un imperméable",
+      "it": "un impermeabile",
+      "pos": "n"
+    },
+    {
+      "fr": "lequel",
+      "it": "quale (dei due, dei molti)",
+      "pos": "pron"
+    },
+    {
+      "fr": "à merveille",
+      "it": "a meraviglia",
+      "pos": "adv"
+    },
+    {
+      "fr": "soldé",
+      "it": "in saldo, scontato",
+      "pos": "adj"
+    },
+    {
+      "fr": "une casquette",
+      "it": "un berretto",
+      "pos": "n"
+    },
+    {
+      "fr": "un rayon",
+      "it": "un reparto (di negozio)",
+      "pos": "n"
+    },
+    {
+      "fr": "le bricolage",
+      "it": "il fai-da-te",
+      "pos": "n"
+    },
+    {
+      "fr": "quant à",
+      "it": "quanto a",
+      "pos": "prep"
+    },
+    {
+      "fr": "il vous faut",
+      "it": "vi serve, vi occorre",
+      "pos": "expr"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Ça tombe bien !",
+      "it": "Capita proprio a proposito!",
+      "note": "registro colloquiale; il contrario è Ça tombe mal"
+    },
+    {
+      "fr": "Il n'en est pas question !",
+      "it": "Neanche per sogno!",
+      "note": "rifiuto deciso, neutro"
+    },
+    {
+      "fr": "Il se trouve que",
+      "it": "capita che, succede che",
+      "note": "per introdurre una coincidenza"
+    },
+    {
+      "fr": "Nous ne faisons que regarder.",
+      "it": "Stiamo solo guardando.",
+      "note": "risposta standard dei commessi"
+    },
+    {
+      "fr": "C'est la pagaille.",
+      "it": "È un caos.",
+      "note": "colloquiale, molto usato"
+    },
+    {
+      "fr": "Il vous va à merveille.",
+      "it": "Vi sta a meraviglia.",
+      "note": "complimento sull'abito"
+    },
+    {
+      "fr": "Ça me ferait plaisir.",
+      "it": "Mi farebbe piacere.",
+      "note": "condizionale di cortesia"
+    },
+    {
+      "fr": "Ce n'est pas une question de courage.",
+      "it": "Non è questione di coraggio.",
+      "note": "espressione fissa"
+    },
+    {
+      "fr": "Il fait un temps de chien.",
+      "it": "Fa un tempo da cani.",
+      "note": "colloquiale"
+    },
+    {
+      "fr": "Merci, mais pas pour l'instant.",
+      "it": "Grazie, ma non per ora.",
+      "note": "rifiuto gentile di una commessa"
+    }
+  ],
+  "notes_it": [
+    "Falsi amici: solde (singolare) significa 'saldo' o 'residuo', non 'soldo' (denaro); al plurale les soldes sono i saldi. Soldé è l'aggettivo che indica un articolo scontato. Soldat, invece, è 'soldato'.",
+    "Pronuncia del verbo haïr: la h è aspirata (niente elisione né legatura: je hais, le hait). Je hais e il hait si pronunciano [ɛ]; il trema (ï) separa la i dalla vocale precedente e compare in haïr, nous haïssons, vous haïssez, ils haïssent.",
+    "Un plan è una mappa o una piantina, ma un bon plan è una buona occasione: nelle conversazioni sui saldi significa 'un buon affare' o 'un consiglio utile'.",
+    "Nel linguaggio dei negozi, 'Vous cherchez quelque chose ?' è la formula standard di saluto. Rispondere Nous ne faisons que regarder è educato e non impegna."
+  ],
+  "exercises": [
+    {
+      "id": "L074-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Scegli il significato di « Ça tombe bien ! » detto quando un'occasione arriva al momento giusto.",
+      "options": [
+        "Capita proprio a proposito",
+        "Cade la pioggia",
+        "È caduto male",
+        "Va bene per il tempo"
+      ],
+      "correct": 0,
+      "explain_it": "Tomber bien, con ça come soggetto, significa 'capitare a proposito', non ha nulla a che fare con la pioggia."
+    },
+    {
+      "id": "L074-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "false-friends",
+      "prompt": "Quale parola francese significa 'i saldi'?",
+      "options": [
+        "les soldes",
+        "les soldats",
+        "les sondages",
+        "les solutions"
+      ],
+      "correct": 0,
+      "explain_it": "Soldat significa 'soldato' e sondage 'sondaggio': le forme simili all'italiano ingannano facilmente."
+    },
+    {
+      "id": "L074-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronoun-coi",
+      "prompt": "Completa la frase (a te): Ce manteau gris ___ va à merveille.",
+      "options": [
+        "te",
+        "tu",
+        "toi",
+        "t'"
+      ],
+      "correct": 0,
+      "explain_it": "Con aller a qualcuno si usa il pronome indiretto te, che precede il verbo; t' si usa solo davanti a vocale."
+    },
+    {
+      "id": "L074-e04",
+      "type": "mcq",
+      "level": 2,
+      "concept": "interrogatives",
+      "prompt": "J'hésite entre ces deux imperméables. ___ me va le mieux ?",
+      "options": [
+        "Lequel",
+        "Laquelle",
+        "Lesquels",
+        "Lesquelles"
+      ],
+      "correct": 0,
+      "explain_it": "Si parla di imperméables (maschile plurale) e si sceglie tra due: lequel, al maschile singolare."
+    },
+    {
+      "id": "L074-e05",
+      "type": "mcq",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "Come si scrive: « Il cappello e la parka sono belli. »",
+      "options": [
+        "Le chapeau et la parka sont beaux.",
+        "Le chapeau et la parka sont belles.",
+        "Le chapeau et la parka est beau.",
+        "La parka et le chapeau sont belle."
+      ],
+      "correct": 0,
+      "explain_it": "Quando i soggetti sono di genere diverso l'aggettivo va al maschile plurale: il maschile prevale."
+    },
+    {
+      "id": "L074-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "pronoun-coi",
+      "prompt": "Questa casquette ti sta molto bene.",
+      "answers": [
+        "Cette casquette te va très bien."
+      ],
+      "distractors": [
+        "lui",
+        "vous"
+      ],
+      "explain_it": "Il pronome indiretto te va prima del verbo va, e il complemento di modo viene dopo."
+    },
+    {
+      "id": "L074-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Neanche per sogno!",
+      "answers": [
+        "Il n'en est pas question !"
+      ],
+      "distractors": [
+        "plaisir",
+        "très"
+      ],
+      "explain_it": "È un'espressione fissa per un rifiuto deciso: il pronome en rimanda alla cosa proposta."
+    },
+    {
+      "id": "L074-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "il-y-a",
+      "prompt": "Ci sono buone occasioni dappertutto.",
+      "answers": [
+        "Il y a de bons plans partout."
+      ],
+      "distractors": [
+        "des",
+        "à"
+      ],
+      "explain_it": "Con il y a seguito da aggettivo prima del nome plurale, l'articolo indeterminato diventa de: de bons plans."
+    },
+    {
+      "id": "L074-e09",
+      "type": "cloze",
+      "level": 1,
+      "concept": "idioms",
+      "text": "Ça ___ bien !",
+      "answers": [
+        "tombe"
+      ],
+      "hint": "(tomber, presente)",
+      "prompt": "Capita proprio a proposito!",
+      "explain_it": "Il soggetto è ça, quindi il verbo è alla terza persona singolare del presente."
+    },
+    {
+      "id": "L074-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "present-irregular",
+      "text": "Je ___ les centres commerciaux.",
+      "answers": [
+        "hais"
+      ],
+      "hint": "(haïr, presente)",
+      "prompt": "Odio i centri commerciali.",
+      "explain_it": "Haïr è irregolare: je hais, tu hais, il hait; il trema compare solo nelle forme plurali."
+    },
+    {
+      "id": "L074-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "pronominal-verbs",
+      "text": "Il ___ que mon chapeau est soldé aujourd'hui.",
+      "answers": [
+        "se trouve"
+      ],
+      "hint": "(se trouver, presente)",
+      "prompt": "Capita che il mio cappello sia in saldo oggi.",
+      "explain_it": "Il se trouve que è una espressione fissa con il soggetto impersonale il."
+    },
+    {
+      "id": "L074-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "idioms",
+      "text": "Ce n'est pas une ___ de courage.",
+      "answers": [
+        "question"
+      ],
+      "hint": "(questione)",
+      "prompt": "Non è questione di coraggio.",
+      "explain_it": "Une question de + nome significa «questione di»."
+    },
+    {
+      "id": "L074-e13",
+      "type": "write",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Stiamo solo guardando.",
+      "answers": [
+        "[Nous ne faisons|On ne fait] que regarder.",
+        "Nous regardons seulement.",
+        "On regarde seulement.",
+        "On regarde juste."
+      ],
+      "explain_it": "Ne faire que più infinito significa 'limitarsi a', qui 'solo guardare'."
+    },
+    {
+      "id": "L074-e14",
+      "type": "order",
+      "level": 2,
+      "concept": "interrogatives",
+      "prompt": "Quale dei due preferisci?",
+      "answers": [
+        "Lequel des deux préfères-tu ?",
+        "Lequel des deux tu préfères ?"
+      ],
+      "distractors": [
+        "laquelle",
+        "lesquels"
+      ],
+      "explain_it": "Lequel è maschile singolare e des deux indica la scelta tra due; il soggetto va dopo il verbo (préfères-tu)."
+    },
+    {
+      "id": "L074-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "present-irregular",
+      "text": "Nous ___ cette taxe.",
+      "answers": [
+        "haïssons"
+      ],
+      "hint": "(haïr, presente, noi)",
+      "prompt": "Odiamo questa tassa.",
+      "explain_it": "Alla prima persona plurale la i porta il trema: haïssons, con la i distinta dalla a."
+    },
+    {
+      "id": "L074-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "comparatives",
+      "text": "Les grands magasins sont ___ pendant les soldes.",
+      "answers": [
+        "pires"
+      ],
+      "hint": "(mauvais, comparativo, plurale)",
+      "prompt": "I grandi magazzini sono peggiori durante i saldi.",
+      "explain_it": "Pire è il comparativo irregolare di mauvais e concorda con il nome al plurale: pires."
+    },
+    {
+      "id": "L074-e17",
+      "type": "cloze",
+      "level": 2,
+      "concept": "comparatives",
+      "text": "Lequel des deux te va ___ ?",
+      "answers": [
+        "le mieux"
+      ],
+      "hint": "(bien, superlativo irregolare)",
+      "prompt": "Quale dei due ti sta meglio?",
+      "explain_it": "Il superlativo di bien è irregolare: le mieux, con l'articolo determinativo."
+    },
+    {
+      "id": "L074-e18",
+      "type": "cloze",
+      "level": 2,
+      "concept": "emphasis",
+      "text": "Quant à moi, je ___ celui-ci.",
+      "answers": [
+        "préfère"
+      ],
+      "hint": "(préférer, presente)",
+      "prompt": "Quanto a me, preferisco questo.",
+      "explain_it": "Quant à introduce un contrasto con la persona; il verbo che segue resta regolare al presente."
+    },
+    {
+      "id": "L074-e19",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-coi",
+      "text": "Cette casquette te ___ très bien.",
+      "answers": [
+        "va"
+      ],
+      "hint": "(aller, presente)",
+      "prompt": "Questo berretto ti sta molto bene.",
+      "explain_it": "Con aller nel senso di 'stare bene' il verbo resta alla terza persona singolare, concordato con il soggetto cette casquette."
+    },
+    {
+      "id": "L074-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Non è questione di denaro.",
+      "answers": [
+        "Ce n'est pas une question d'argent."
+      ],
+      "explain_it": "Une question de più nome è l'espressione fissa 'questione di' e l'articolo indeterminato resta una."
+    },
+    {
+      "id": "L074-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-position",
+      "prompt": "Ho proprio bisogno di un cappello nuovo.",
+      "answers": [
+        "J'ai [vraiment|grand] besoin d'un [nouveau chapeau|chapeau neuf]."
+      ],
+      "explain_it": "Nouveau, come grand, precede il nome; in italiano l'aggettivo segue, ma in francese va davanti per gli aggettivi più comuni."
+    },
+    {
+      "id": "L074-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-coi",
+      "prompt": "Questa giacca ti sta a meraviglia.",
+      "answers": [
+        "Cette veste te va [à merveille|très bien|bien|parfaitement]."
+      ],
+      "explain_it": "Il pronome indiretto te precede il verbo aller nel senso di 'stare bene'."
+    },
+    {
+      "id": "L074-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-coi",
+      "prompt": "Questo colore sta bene a lei.",
+      "answers": [
+        "Cette couleur lui va bien.",
+        "Cette couleur lui va très bien.",
+        "Cette couleur lui va à merveille."
+      ],
+      "explain_it": "Con aller a qualcuno il pronome indiretto della terza persona è lui, anche per il femminile."
+    },
+    {
+      "id": "L074-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "interrogatives",
+      "ask": "Traduci in francese (tu)",
+      "prompt": "Quale dei due ti sta meglio?",
+      "answers": [
+        "Lequel des deux te va le mieux ?",
+        "Lequel des deux te va mieux ?",
+        "Lequel te va le mieux ?"
+      ],
+      "explain_it": "Lequel è maschile singolare; le mieux segue il verbo aller."
+    },
+    {
+      "id": "L074-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-cod",
+      "ask": "Sostituisci il complemento con un pronome",
+      "prompt": "Je prends ce manteau.",
+      "answers": [
+        "Je le prends."
+      ],
+      "explain_it": "Le sostituisce il complemento oggetto maschile singolare e va prima del verbo."
+    },
+    {
+      "id": "L074-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "conditionnel",
+      "prompt": "Mi farebbe piacere venire con te.",
+      "answers": [
+        "Ça me ferait plaisir de venir avec toi.",
+        "Ça me ferait plaisir de venir avec vous.",
+        "Ça me ferait plaisir de t'accompagner.",
+        "Ça me ferait plaisir de vous accompagner.",
+        "Cela me ferait plaisir de venir avec toi."
+      ],
+      "explain_it": "Il condizionale presente di faire (ferait) rende la cortesia dell'italiano 'mi farebbe piacere'."
+    },
+    {
+      "id": "L074-e27",
+      "type": "dictation",
+      "level": 2,
+      "concept": "pronoun-coi",
+      "text": "Ce manteau gris me va à merveille.",
+      "explain_it": "Il pronome me precede il verbo, come nel caso di te e lui."
+    },
+    {
+      "id": "L074-e28",
+      "type": "dictation",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Ce sont les soldes en janvier, et ça tombe bien.",
+      "explain_it": "Ça tombe bien è un'espressione idiomatica che chiude la frase con un commento di sollievo."
+    },
+    {
+      "id": "L074-e29",
+      "type": "flash",
+      "level": 2,
+      "concept": "interrogatives",
+      "front": "Lequel / laquelle / lesquels / lesquelles: quando si usano?",
+      "back": "Quale / quali, concordati con il nome: lequel (m. sing.), laquelle (f. sing.), lesquels (m. pl.), lesquelles (f. pl.).",
+      "note": "Con due nomi di genere diverso si usa la forma maschile."
+    },
+    {
+      "id": "L074-e30",
+      "type": "flash",
+      "level": 2,
+      "concept": "gender",
+      "front": "Due nomi di genere diverso: come si accorda l'aggettivo?",
+      "back": "Al maschile plurale: Le chapeau et la parka sont beaux.",
+      "note": "Il maschile prevale sul femminile."
+    },
+    {
+      "id": "L074-e31",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronoun-coi",
+      "front": "Aller bien a qualcuno (ti sta bene): quale pronome e dove?",
+      "back": "Un pronome indiretto prima del verbo: me, te, lui, nous, vous, leur. Es.: Ce manteau te va bien.",
+      "note": "Il pronome non cambia con il genere del capo d'abbigliamento."
+    },
+    {
+      "id": "L074-e32",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "front": "Il se trouve que...: che cosa significa e quando?",
+      "back": "Capita che, succede che: Il se trouve que la boutique est fermée.",
+      "note": "Non confondere con se trouver (essere situato): le rayon se trouve au deuxième étage."
+    },
+    {
+      "id": "L074-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "interrogatives",
+      "prompt": "Ho visto una parka e un impermeabile. Quale dei due ti piace di più? Io preferisco la parka.",
+      "answers": [
+        "J'ai vu une parka et un imperméable. [Lequel des deux|Lequel] te plaît le [plus|mieux] ? Moi, je préfère la parka."
+      ],
+      "explain_it": "Lequel va al maschile (un nome è maschile); plaire si rende con le plus o le mieux."
+    },
+    {
+      "id": "L074-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "comparatives",
+      "prompt": "A mio parere questo cappotto grigio è più bello di quella parka.",
+      "answers": [
+        "À mon avis, ce manteau gris est plus beau que cette parka.",
+        "Ce manteau gris est plus beau que cette parka, à mon avis."
+      ],
+      "explain_it": "Il comparativo di maggioranza si costruisce con plus + aggettivo + que, e l'aggettivo beau concorda con manteau."
+    },
+    {
+      "id": "L074-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "pronominal-verbs",
+      "prompt": "Capita che il mio cappello sia in saldo oggi.",
+      "answers": [
+        "Il se trouve que mon chapeau est soldé aujourd'hui.",
+        "Il se trouve que mon chapeau est en solde aujourd'hui."
+      ],
+      "explain_it": "Il se trouve que introduce la coincidenza e il verbo che segue è all'indicativo presente."
+    },
+    {
+      "id": "L074-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "relative-pronouns",
+      "prompt": "Ecco il reparto fai-da-te, dove trovi tutto ciò che ti serve.",
+      "answers": [
+        "[Voici|Voilà] le rayon bricolage, où tu trouves tout ce qu'il te faut."
+      ],
+      "explain_it": "Où è il pronome relativo di luogo e ce que / ce qu'il introduce ciò che serve, con il verbo falloir alla terza persona."
+    },
+    {
+      "id": "L074-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-etre",
+      "prompt": "Ieri sono andato ai saldi con un amico: abbiamo visto molti negozi e ho trovato una parka scontata del trenta per cento.",
+      "answers": [
+        "[Hier, |Hier |]je suis [allé|allée] aux soldes avec un ami : nous avons vu beaucoup de magasins et j'ai trouvé une parka [soldée à moins trente pour cent|avec trente pour cent de réduction]."
+      ],
+      "explain_it": "Aller forma il passato prossimo con être, quindi il participio concorda con il soggetto (allé o allée); trouvé con avoir non si accorda con parka."
+    },
+    {
+      "id": "L074-e38",
+      "type": "dictation",
+      "level": 3,
+      "concept": "pronoun-coi",
+      "text": "Prenez l'imperméable : il est bien à votre taille et il vous va à merveille.",
+      "explain_it": "Il pronome indiretto vous precede il verbo va, e la frase contiene l'elisione di l'imperméable."
+    },
+    {
+      "id": "L074-e39",
+      "type": "write",
+      "level": 3,
+      "concept": "plural",
+      "ask": "Metti la frase al plurale",
+      "prompt": "Ce manteau gris me va à merveille.",
+      "answers": [
+        "Ces manteaux gris me vont à merveille."
+      ],
+      "explain_it": "Al plurale cambiano l'articolo, il nome con la -s e il verbo aller, che diventa vont."
+    },
+    {
+      "id": "L074-e40",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "Quella parka grigia ti sta bene.",
+      "answers": [
+        "Cette parka grise te va bien.",
+        "Cette parka grise te va très bien."
+      ],
+      "explain_it": "Gris al femminile diventa grise, con la -e finale, e il pronome te precede va."
+    },
+    {
+      "id": "L074-e41",
+      "type": "write",
+      "level": 3,
+      "concept": "relative-pronouns",
+      "prompt": "Ecco il berretto che mi piace.",
+      "answers": [
+        "[Voici|Voilà] la casquette qui me plaît.",
+        "[Voici|Voilà] la casquette que j'aime."
+      ],
+      "explain_it": "Qui è il pronome relativo soggetto, e il verbo plaire con il pronome me indica chi apprezza."
+    },
+    {
+      "id": "L074-e42",
+      "type": "write",
+      "level": 2,
+      "concept": "emphasis",
+      "prompt": "Quanto a me, non ho bisogno di niente.",
+      "answers": [
+        "Quant à moi, je n'ai besoin de rien.",
+        "Moi, je n'ai besoin de rien."
+      ],
+      "explain_it": "Quant à seguito dal pronome tonico moi introduce il contrasto; la negazione ne ... rien avvolge il verbo."
+    },
+    {
+      "id": "L074-e43",
+      "type": "mcq",
+      "level": 2,
+      "concept": "register",
+      "prompt": "Ti offrono un caffè e vuoi rifiutare con gentilezza. Come dici?",
+      "options": [
+        "Oui, merci",
+        "Merci non",
+        "Non merci",
+        "Pas grâce"
+      ],
+      "correct": 2,
+      "explain_it": "Per rifiutare si dice non merci; merci da solo, in risposta a un'offerta, è di solito inteso come un rifiuto cortese e quindi è ambiguo."
+    },
+    {
+      "id": "L074-e44",
+      "type": "write",
+      "level": 2,
+      "concept": "register",
+      "prompt": "Ti offrono un tè e vuoi rifiutare gentilmente. Che cosa dici in francese?",
+      "answers": [
+        "Non merci.",
+        "Non, merci !",
+        "Merci, non."
+      ],
+      "explain_it": "Il rifiuto gentile è non merci; merci da solo è ambiguo."
+    }
+  ]
+}

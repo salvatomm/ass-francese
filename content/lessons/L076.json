@@ -1,0 +1,887 @@
+{
+  "n": 76,
+  "title_fr": "« Culture générale » : le jeu radiophonique",
+  "title_it": "Cultura generale: il quiz radiofonico",
+  "review": false,
+  "status": "verified",
+  "source": "a1be3e47 pdf 66-73 (libro p.439-446; la lezione inizia a pdf 66, le risposte all'esercizio 2 sono in cima a pdf 73; la lezione 77 inizia in basso a pdf 72)",
+  "theme_it": "In una trasmissione radiofonica di quiz di cultura generale, i concorrenti Marthe e Lucien rispondono a domande su pittura, geografia e letteratura. Il conduttore corregge un errore della puntata precedente e commenta con ironia l'impazienza dei concorrenti. Il tono è leggero e scherzoso.",
+  "grammar": [
+    {
+      "id": "vocab",
+      "title_it": "Précis, préciser, précision: tre forme da distinguere",
+      "explain_it": "Précis è l'aggettivo (preciso, esatto: une réponse précise). Préciser è il verbo 'precisare, specificare' (préciser sa pensée). Une précision è un dettaglio o un chiarimento, e al plurale con demander significa 'chiedere chiarimenti': demander des précisions. Précision vale anche 'precisione, accuratezza' (tirer avec précision). Attenzione: in italiano 'precisione' indica soprattutto l'accuratezza, mentre in francese il nome serve spesso per i chiarimenti.",
+      "examples": [
+        {
+          "fr": "Je voudrais préciser un point.",
+          "it": "Vorrei precisare un punto."
+        },
+        {
+          "fr": "Il faut demander des précisions au guichet.",
+          "it": "Bisogna chiedere chiarimenti allo sportello."
+        },
+        {
+          "fr": "Il a tiré avec précision.",
+          "it": "Ha sparato con precisione."
+        }
+      ]
+    },
+    {
+      "id": "adverbs",
+      "title_it": "Avverbi in -amment e -emment",
+      "explain_it": "Gli avverbi francesi si formano di solito dalla forma femminile dell'aggettivo più -ment (lent → lente → lentement). Con gli aggettivi in -ant e -ent la -nt finale diventa -mment: brillant → brillamment, patient → patiemment, évident → évidemment, fréquent → fréquemment. Con précis la forma femminile précise dà précisément. In italiano il suffisso è -mente (brillante → brillantemente): la struttura è simile, ma la trasformazione -nt → -mment è specifica del francese.",
+      "examples": [
+        {
+          "fr": "Il répond brillamment.",
+          "it": "Risponde brillantemente."
+        },
+        {
+          "fr": "Elle attend patiemment.",
+          "it": "Aspetta pazientemente."
+        },
+        {
+          "fr": "C'est évidemment vrai.",
+          "it": "È ovviamente vero."
+        }
+      ]
+    },
+    {
+      "id": "passive",
+      "title_it": "Evitare il passivo con il complemento di termine",
+      "explain_it": "In francese il passivo non può avere come soggetto un complemento introdotto da à (il complemento di termine): non si dice 'la mia domanda è stata risposta da...'. Si ricorre alla forma attiva con on (On a répondu à ma question), oppure a c'est... qui (C'est le public qui a répondu). Il passivo vero e proprio con être + participio passato esiste, ma solo con il complemento oggetto diretto (Cet auteur a été lu par tout le monde).",
+      "examples": [
+        {
+          "fr": "On a répondu à ma question.",
+          "it": "Hanno risposto alla mia domanda."
+        },
+        {
+          "fr": "Cet auteur a été lu par tout le monde.",
+          "it": "Questo autore è stato letto da tutti."
+        }
+      ]
+    },
+    {
+      "id": "prepositions",
+      "title_it": "Mesurer e le dimensioni con de",
+      "explain_it": "Per indicare le dimensioni si usa mesurer seguito dalla misura e poi da de con l'aggettivo (de large, de haut, de long) oppure con il nome (de largeur, de hauteur, de longueur). In italiano si dice 'misura X metri di altezza', quindi de corrisponde a 'di'. Gli aggettivi large, haut, long possono usarsi anche come nomi: dix mètres de haut.",
+      "examples": [
+        {
+          "fr": "Ce tableau mesure dix mètres de haut.",
+          "it": "Questo quadro misura dieci metri di altezza."
+        },
+        {
+          "fr": "La pièce mesure cinq mètres de large.",
+          "it": "La stanza misura cinque metri di larghezza."
+        }
+      ]
+    },
+    {
+      "id": "exclamatives",
+      "title_it": "Que esclamativo",
+      "explain_it": "Que davanti a un aggettivo introduce un'esclamazione e corrisponde a 'quanto' o 'com'è': Que c'est beau ! = Com'è bello! Que je suis fatigué ! = Quanto sono stanco! Non è una domanda: non c'è inversione e la frase finisce con il punto esclamativo. Si può anche dire Qu'il est beau, ce tableau ! (il pronome anticipa il nome).",
+      "examples": [
+        {
+          "fr": "Que c'est difficile !",
+          "it": "Com'è difficile!"
+        },
+        {
+          "fr": "Que je suis fatigué !",
+          "it": "Sono davvero stanco!"
+        }
+      ]
+    },
+    {
+      "id": "pronoun-y",
+      "title_it": "S'y connaître e y réfléchir",
+      "explain_it": "S'y connaître en significa 'intendersene di': y fa parte dell'espressione e l'argomento è introdotto da en senza articolo: Je ne m'y connais pas en art (non me ne intendo di arte). Anche y réfléchir ('rifletterci, pensarci') usa y per l'oggetto della riflessione, che normalmente sarebbe introdotto da à (réfléchir à un problème).",
+      "examples": [
+        {
+          "fr": "Elle s'y connaît en informatique.",
+          "it": "Lei se ne intende di informatica."
+        },
+        {
+          "fr": "Je vais y réfléchir.",
+          "it": "Ci penserò."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Faire place à: lasciare spazio a",
+      "explain_it": "Faire place à significa 'lasciare spazio a' e si usa sia in senso concreto (far posto) sia in senso figurato (dare spazio a qualcuno o qualcosa). Place au jeu! è l'invito a cominciare il gioco, equivalente a 'spazio al gioco!'. Place aux jeunes! significa 'largo ai giovani!'. È un'espressione neutra e molto frequente nei discorsi pubblici.",
+      "examples": [
+        {
+          "fr": "Place aux jeunes !",
+          "it": "Largo ai giovani!"
+        },
+        {
+          "fr": "Il faut faire place à la nouveauté.",
+          "it": "Bisogna fare spazio alla novità."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "un candidat",
+      "it": "un candidato, un concorrente",
+      "pos": "n",
+      "note": "f. une candidate"
+    },
+    {
+      "fr": "un village",
+      "it": "un villaggio",
+      "pos": "n"
+    },
+    {
+      "fr": "une précision",
+      "it": "un chiarimento, un dettaglio",
+      "pos": "n",
+      "note": "al plurale: des précisions"
+    },
+    {
+      "fr": "une erreur",
+      "it": "un errore",
+      "pos": "n"
+    },
+    {
+      "fr": "se glisser",
+      "it": "infilarsi, insinuarsi",
+      "pos": "v",
+      "note": "une erreur s'est glissée"
+    },
+    {
+      "fr": "préciser",
+      "it": "precisare, specificare",
+      "pos": "v"
+    },
+    {
+      "fr": "répondre à",
+      "it": "rispondere a",
+      "pos": "v",
+      "note": "répondu à"
+    },
+    {
+      "fr": "brillamment",
+      "it": "brillantemente",
+      "pos": "adv"
+    },
+    {
+      "fr": "une émission",
+      "it": "una trasmissione, un programma",
+      "pos": "n"
+    },
+    {
+      "fr": "le jeu",
+      "it": "il gioco, il quiz",
+      "pos": "n"
+    },
+    {
+      "fr": "un tableau",
+      "it": "un dipinto, un quadro",
+      "pos": "n"
+    },
+    {
+      "fr": "mesurer",
+      "it": "misurare",
+      "pos": "v",
+      "note": "mesure"
+    },
+    {
+      "fr": "une fresque",
+      "it": "un affresco",
+      "pos": "n"
+    },
+    {
+      "fr": "la hauteur",
+      "it": "l'altezza",
+      "pos": "n"
+    },
+    {
+      "fr": "la largeur",
+      "it": "la larghezza",
+      "pos": "n"
+    },
+    {
+      "fr": "la longueur",
+      "it": "la lunghezza",
+      "pos": "n"
+    },
+    {
+      "fr": "une tentative",
+      "it": "un tentativo",
+      "pos": "n"
+    },
+    {
+      "fr": "un fleuve",
+      "it": "un fiume (che sfocia in mare)",
+      "pos": "n"
+    },
+    {
+      "fr": "se dépêcher",
+      "it": "sbrigarsi",
+      "pos": "v"
+    },
+    {
+      "fr": "patient",
+      "it": "paziente",
+      "pos": "adj",
+      "note": "f. patiente"
+    },
+    {
+      "fr": "fréquent",
+      "it": "frequente",
+      "pos": "adj",
+      "note": "f. fréquente"
+    },
+    {
+      "fr": "réfléchir",
+      "it": "riflettere, pensare",
+      "pos": "v",
+      "note": "y réfléchir"
+    },
+    {
+      "fr": "évident",
+      "it": "evidente, ovvio",
+      "pos": "adj",
+      "note": "f. évidente"
+    },
+    {
+      "fr": "mémorable",
+      "it": "memorabile",
+      "pos": "adj"
+    },
+    {
+      "fr": "la littérature",
+      "it": "la letteratura",
+      "pos": "n"
+    },
+    {
+      "fr": "un siècle",
+      "it": "un secolo",
+      "pos": "n"
+    },
+    {
+      "fr": "cultivé",
+      "it": "colto",
+      "pos": "adj",
+      "note": "f. cultivée"
+    },
+    {
+      "fr": "récemment",
+      "it": "recentemente",
+      "pos": "adv"
+    },
+    {
+      "fr": "une dizaine",
+      "it": "una decina",
+      "pos": "n",
+      "note": "une dizaine de"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Place au jeu !",
+      "it": "Spazio al gioco!",
+      "note": "invito a cominciare, da faire place à"
+    },
+    {
+      "fr": "Allez, c'est parti !",
+      "it": "Dai, si comincia!",
+      "note": "registro colloquiale, usato per dare il via"
+    },
+    {
+      "fr": "Je vais tenter le coup.",
+      "it": "Ci provo.",
+      "note": "tentare senza grandi certezze"
+    },
+    {
+      "fr": "Je l'ai sur le bout de la langue.",
+      "it": "Ce l'ho sulla punta della lingua.",
+      "note": "quando la parola è vicina ma non si ricorda"
+    },
+    {
+      "fr": "Ça me dit quelque chose.",
+      "it": "Mi dice qualcosa.",
+      "note": "per un nome o un fatto che sembra familiare"
+    },
+    {
+      "fr": "Au contraire.",
+      "it": "Al contrario.",
+      "note": "per contraddire con cortesia"
+    },
+    {
+      "fr": "Dépêchez-vous !",
+      "it": "Sbrigatevi!",
+      "note": "imperativo di se dépêcher, con il vous"
+    },
+    {
+      "fr": "Quand on y réfléchit",
+      "it": "A pensarci bene",
+      "note": "introduce una conclusione ragionata"
+    },
+    {
+      "fr": "Une dizaine de",
+      "it": "Una decina di",
+      "note": "usato con nomi plurali"
+    },
+    {
+      "fr": "Prendre sa source",
+      "it": "Nascere, avere la sorgente",
+      "note": "detto di un fiume"
+    }
+  ],
+  "notes_it": [
+    "Falso amico: 'precisione' in italiano è l'accuratezza, mentre une précision è un chiarimento o un dettaglio. Demander des précisions significa 'chiedere chiarimenti'.",
+    "Fleuve e rivière: un fleuve sfocia direttamente in mare, come il Rodano (le Rhône); una rivière è invece un affluente di un altro corso d'acqua. Gli italiani tendono a usare 'fiume' per entrambi.",
+    "Émission in francese indica soprattutto un programma radiofonico o televisivo. Per un italiano 'emissione' fa pensare a gas o luce, quindi il senso va ricordato.",
+    "Pronuncia: negli avverbi in -amment e -emment le due m si leggono come una sola e la terminazione si pronuncia come la vocale nasale di 'brillant': brillamment e brillant hanno lo stesso suono finale [ɑ̃]. Per questo conviene ricordare l'ortografia (-amment/-emment) ascoltando la registrazione.",
+    "Marcel Proust, autore di À la recherche du temps perdu, è uno dei grandi prosatori francesi del primo Novecento: un classico tipico delle domande di cultura generale."
+  ],
+  "exercises": [
+    {
+      "id": "L076-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Che cosa significa « Place au jeu ! » detto per dare inizio al gioco?",
+      "options": [
+        "Spazio al gioco!",
+        "Il gioco è finito!",
+        "Il gioco non serve!",
+        "Giochiamo in piazza!"
+      ],
+      "correct": 0,
+      "explain_it": "Faire place à significa 'lasciare spazio a': place au jeu è l'invito a cominciare, non ha nulla a che fare con la fine del gioco."
+    },
+    {
+      "id": "L076-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "vocab",
+      "prompt": "Quale parola francese significa « il fiume » nel senso di corso d'acqua che sfocia in mare?",
+      "options": [
+        "un fleuve",
+        "une rivière",
+        "un ruisseau",
+        "une fresque"
+      ],
+      "correct": 0,
+      "explain_it": "Un fleuve sfocia in mare; una rivière è un affluente, e un ruisseau è un piccolo ruscello."
+    },
+    {
+      "id": "L076-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "vocab",
+      "prompt": "Quale espressione significa « chiedere chiarimenti »?",
+      "options": [
+        "demander des précisions",
+        "demander une prévision",
+        "demander la précision du tir",
+        "demander des précis"
+      ],
+      "correct": 0,
+      "explain_it": "Précision al plurale significa 'chiarimenti'; prévision è 'previsione' e précision del tiro è l'accuratezza, due falsi sensi da evitare."
+    },
+    {
+      "id": "L076-e04",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Dai, si comincia!",
+      "answers": [
+        "Allez, c'est parti !",
+        "Allez, on commence !"
+      ],
+      "explain_it": "Allez, c'est parti è la formula colloquiale per dare il via a qualcosa."
+    },
+    {
+      "id": "L076-e05",
+      "type": "order",
+      "level": 1,
+      "concept": "pronoun-y",
+      "prompt": "Non me ne intendo di cucina.",
+      "answers": [
+        "Je ne m'y connais pas en cuisine."
+      ],
+      "explain_it": "Con s'y connaître il pronome y riprende l'argomento, e l'argomento è introdotto da en senza articolo."
+    },
+    {
+      "id": "L076-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "adverbs",
+      "prompt": "Ha risposto brillantemente alla domanda.",
+      "answers": [
+        "Il a répondu brillamment à la question."
+      ],
+      "explain_it": "L'avverbio brillamment si forma da brillant sostituendo la -nt finale con -mment, e segue il participio passato."
+    },
+    {
+      "id": "L076-e07",
+      "type": "cloze",
+      "level": 1,
+      "concept": "adverbs",
+      "text": "Il a ___ répondu aux questions.",
+      "answers": [
+        "brillamment"
+      ],
+      "hint": "(avverbio, da brillant)",
+      "prompt": "Ha risposto alle domande in modo brillante.",
+      "explain_it": "Brillant è l'aggettivo; l'avverbio si ottiene con -amment, tra avoir e il participio passato."
+    },
+    {
+      "id": "L076-e08",
+      "type": "cloze",
+      "level": 1,
+      "concept": "pronoun-y",
+      "text": "Je ne m'___ connais pas en peinture.",
+      "answers": [
+        "y"
+      ],
+      "hint": "(pronome)",
+      "prompt": "Non me ne intendo di pittura.",
+      "explain_it": "S'y connaître richiede il pronome y, che si colloca davanti al verbo."
+    },
+    {
+      "id": "L076-e09",
+      "type": "mcq",
+      "level": 1,
+      "concept": "exclamatives",
+      "prompt": "Che cosa significa « Que c'est beau ! » ?",
+      "options": [
+        "Com'è bello!",
+        "Che cosa è bello?",
+        "Quanto costa questo?",
+        "Sei molto bello?"
+      ],
+      "correct": 0,
+      "explain_it": "Que c'est beau è un'esclamazione: que equivale a 'quanto' o 'come' nell'italiano esclamativo, non a una domanda."
+    },
+    {
+      "id": "L076-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "exclamatives",
+      "text": "___ c'est difficile !",
+      "answers": [
+        "Que"
+      ],
+      "hint": "(esclamazione)",
+      "prompt": "Quanto è difficile!",
+      "explain_it": "Que introduce un'esclamazione davanti a c'est più aggettivo."
+    },
+    {
+      "id": "L076-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "prepositions",
+      "text": "Ce tableau mesure dix mètres ___ haut.",
+      "answers": [
+        "de"
+      ],
+      "hint": "(preposizione)",
+      "prompt": "Questo quadro misura dieci metri di altezza.",
+      "explain_it": "Per le dimensioni con mesurer si usa de: mesure dix mètres de haut."
+    },
+    {
+      "id": "L076-e12",
+      "type": "mcq",
+      "level": 1,
+      "concept": "vocab",
+      "prompt": "Che cosa significa « une fresque » ?",
+      "options": [
+        "un affresco",
+        "un fiume",
+        "un tavolo",
+        "una trasmissione"
+      ],
+      "correct": 0,
+      "explain_it": "Une fresque è un dipinto murale, quindi un affresco."
+    },
+    {
+      "id": "L076-e13",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Che cosa vuol dire « Je l'ai sur le bout de la langue » ?",
+      "options": [
+        "Ce l'ho sulla punta della lingua",
+        "L'ho mangiato con la lingua",
+        "Lo dico a voce alta",
+        "L'ho perso di vista"
+      ],
+      "correct": 0,
+      "explain_it": "L'espressione indica che una parola è vicina ma non si riesce a ricordarla: l'equivalente italiano è 'sulla punta della lingua'."
+    },
+    {
+      "id": "L076-e14",
+      "type": "cloze",
+      "level": 1,
+      "concept": "idioms",
+      "text": "Je vais ___ le coup.",
+      "answers": [
+        "tenter"
+      ],
+      "hint": "(infinito, provare)",
+      "prompt": "Ci provo, anche se è difficile.",
+      "explain_it": "Tenter le coup significa 'provarci': il verbo è all'infinito dopo vais."
+    },
+    {
+      "id": "L076-e15",
+      "type": "order",
+      "level": 1,
+      "concept": "vocab",
+      "prompt": "Il fiume nasce sulle Alpi.",
+      "answers": [
+        "Le fleuve prend sa source dans les Alpes."
+      ],
+      "explain_it": "Prendre sa source è l'espressione per 'nascere' riferito a un fiume, con dans per i monti."
+    },
+    {
+      "id": "L076-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "adverbs",
+      "prompt": "Ha spiegato il problema con precisione.",
+      "answers": [
+        "Il a expliqué le problème précisément",
+        "Il a précisément expliqué le problème",
+        "Il a expliqué le problème avec précision"
+      ],
+      "explain_it": "L'avverbio précisément deriva dalla forma femminile précise, e può stare prima o dopo il verbo."
+    },
+    {
+      "id": "L076-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "adverbs",
+      "prompt": "Lui viene qui spesso.",
+      "answers": [
+        "Il vient ici fréquemment",
+        "Il vient fréquemment ici",
+        "Il vient souvent ici",
+        "Il vient ici souvent"
+      ],
+      "explain_it": "Fréquent diventa fréquemment: la -nt finale si trasforma in -mment. È accettato anche souvent, che è il sinonimo più comune."
+    },
+    {
+      "id": "L076-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "adverbs",
+      "prompt": "Lei aspetta pazientemente.",
+      "answers": [
+        "Elle attend patiemment"
+      ],
+      "explain_it": "Patient diventa patiemment: con gli aggettivi in -ent la -nt si sostituisce con -mment."
+    },
+    {
+      "id": "L076-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "adverbs",
+      "prompt": "évident",
+      "answers": [
+        "évidemment"
+      ],
+      "explain_it": "Évident diventa évidemment: la forma è la stessa radice con -mment.",
+      "ask": "Forma l'avverbio"
+    },
+    {
+      "id": "L076-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "exclamatives",
+      "prompt": "Com'è bello questo quadro!",
+      "answers": [
+        "Que ce tableau est beau !",
+        "Qu'il est beau, ce tableau !",
+        "Que c'est beau, ce tableau !",
+        "Comme ce tableau est beau !"
+      ],
+      "explain_it": "Que esclamativo davanti a un aggettivo: 'com'è bello' con soggetto ce tableau oppure il pronome il ripreso dopo que."
+    },
+    {
+      "id": "L076-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "exclamatives",
+      "prompt": "Quanto è lontana la stazione!",
+      "answers": [
+        "Que la gare est loin !",
+        "Qu'elle est loin, la gare !",
+        "Que c'est loin, la gare !",
+        "Comme la gare est loin !"
+      ],
+      "explain_it": "Que introduce l'esclamazione; gare è femminile, quindi il pronome è elle."
+    },
+    {
+      "id": "L076-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "Il tavolo misura due metri di lunghezza.",
+      "answers": [
+        "La table mesure deux mètres de long",
+        "La table mesure deux mètres de longueur",
+        "La table fait deux mètres de long",
+        "La table fait deux mètres de longueur"
+      ],
+      "explain_it": "Con mesurer le dimensioni si esprimono con de più l'aggettivo o il nome."
+    },
+    {
+      "id": "L076-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "La stanza misura cinque metri di larghezza.",
+      "answers": [
+        "La pièce mesure cinq mètres de large",
+        "La pièce fait cinq mètres de large",
+        "La pièce mesure cinq mètres de largeur",
+        "La pièce fait cinq mètres de largeur"
+      ],
+      "explain_it": "La larghezza si esprime con de large, o con de largeur; fare si usa con lo stesso senso."
+    },
+    {
+      "id": "L076-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-y",
+      "prompt": "Lui se ne intende molto di musica.",
+      "answers": [
+        "Il s'y connaît très bien en musique",
+        "Il s'y connaît bien en musique",
+        "Il s'y connaît en musique"
+      ],
+      "explain_it": "Con s'y connaître il pronome y si usa davanti al verbo, e il complemento è introdotto da en."
+    },
+    {
+      "id": "L076-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-y",
+      "prompt": "Quando ci penso, il risultato è ovvio.",
+      "answers": [
+        "Quand j'y réfléchis, le résultat est évident",
+        "Quand j'y pense, le résultat est évident"
+      ],
+      "explain_it": "Y réfléchir significa 'pensarci': y è il pronome che riprende ciò su cui si riflette."
+    },
+    {
+      "id": "L076-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Sbrigatevi, per favore!",
+      "answers": [
+        "Dépêchez-vous",
+        "Dépêchez-vous, s'il vous plaît"
+      ],
+      "explain_it": "Se dépêcher è pronominale: all'imperativo con il vous il pronome vous segue il verbo con un trattino."
+    },
+    {
+      "id": "L076-e27",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "text": "Il faut vous ___ , le jeu commence !",
+      "answers": [
+        "dépêcher"
+      ],
+      "hint": "(verbo pronominale, infinito)",
+      "prompt": "Dovete sbrigarvi, il gioco inizia!",
+      "explain_it": "Con il verbo pronominale all'infinito il pronome vous precede il verbo, e il verbo resta dépêcher."
+    },
+    {
+      "id": "L076-e28",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Mi dice qualcosa.",
+      "answers": [
+        "Ça me dit quelque chose",
+        "Cela me dit quelque chose"
+      ],
+      "explain_it": "Ça me dit quelque chose è l'espressione per 'mi dice qualcosa', con me come complemento indiretto."
+    },
+    {
+      "id": "L076-e29",
+      "type": "write",
+      "level": 2,
+      "concept": "passive",
+      "prompt": "Questo autore è stato letto da tutti.",
+      "answers": [
+        "Cet auteur a été lu par tout le monde",
+        "Cet auteur a été lu par tous"
+      ],
+      "explain_it": "Il passivo francese si forma con être più participio passato, con il complemento d'agente introdotto da par."
+    },
+    {
+      "id": "L076-e30",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Chiedi chiarimenti sulla data.",
+      "answers": [
+        "Demande des précisions sur la date",
+        "Demandez des précisions sur la date"
+      ],
+      "explain_it": "Demander des précisions significa 'chiedere chiarimenti', e l'imperativo tu o vous va scelto in base al contesto."
+    },
+    {
+      "id": "L076-e31",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Vuoi precisare il tuo nome?",
+      "answers": [
+        "Tu veux préciser ton nom",
+        "Veux-tu préciser ton nom",
+        "Est-ce que tu veux préciser ton nom"
+      ],
+      "explain_it": "Préciser è il verbo 'precisare': si usa con vouloir più l'infinito. Qui il tu e il 'tuo' indicano la seconda persona singolare."
+    },
+    {
+      "id": "L076-e32",
+      "type": "dictation",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Nous avons besoin de précisions sur ce point.",
+      "answers": [
+        "Nous avons besoin de précisions sur ce point."
+      ],
+      "explain_it": "Avoir besoin de è seguito da de, e il plurale précisions rende il senso di 'chiarimenti'."
+    },
+    {
+      "id": "L076-e33",
+      "type": "flash",
+      "level": 2,
+      "concept": "adverbs",
+      "front": "Come si forma l'avverbio da « brillant » o « patient »?",
+      "back": "Si sostituisce la -nt finale con -mment: brillant → brillamment, patient → patiemment, évident → évidemment.",
+      "note": "Con précis l'avverbio è précisément, formato dalla forma femminile précise."
+    },
+    {
+      "id": "L076-e34",
+      "type": "flash",
+      "level": 2,
+      "concept": "passive",
+      "front": "Perché non si può dire « la domanda è stata risposta dal pubblico » in francese?",
+      "back": "Il passivo non può avere come soggetto un complemento introdotto da à: si usa on a répondu à ma question, oppure c'est le public qui a répondu.",
+      "note": "Il passivo richiede un complemento oggetto diretto, non di termine."
+    },
+    {
+      "id": "L076-e35",
+      "type": "flash",
+      "level": 2,
+      "concept": "prepositions",
+      "front": "Come si esprimono le dimensioni con « mesurer »?",
+      "back": "mesurer + misura + de + larghezza, altezza o lunghezza: mesure dix mètres de haut, de large, de long.",
+      "note": "De + aggettivo (large, haut, long) è la forma più comune in francese parlato."
+    },
+    {
+      "id": "L076-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "passive",
+      "prompt": "Hanno risposto alla mia domanda.",
+      "ask": "Traduci in francese (usa on)",
+      "answers": [
+        "On a répondu à ma question"
+      ],
+      "explain_it": "Il complemento di termine à ma question non può diventare soggetto del passivo: per evitare il passivo si usa on (oppure c'est... qui)."
+    },
+    {
+      "id": "L076-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "adverbs",
+      "prompt": "Ieri ha risposto con precisione a tutte le domande.",
+      "answers": [
+        "Hier, il a répondu précisément à toutes les questions",
+        "Hier il a répondu précisément à toutes les questions",
+        "Hier, il a précisément répondu à toutes les questions",
+        "Hier, il a répondu avec précision à toutes les questions",
+        "Hier il a répondu avec précision à toutes les questions"
+      ],
+      "explain_it": "Nel passé composé l'avverbio précisément si colloca tra ausiliare e participio, oppure si usa avec précision dopo il participio."
+    },
+    {
+      "id": "L076-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-y",
+      "prompt": "Lei non si intende di politica, ma quando ci riflette la risposta è evidente.",
+      "answers": [
+        "Elle ne s'y connaît pas en politique, mais quand elle y réfléchit, la réponse est évidente"
+      ],
+      "explain_it": "Il pronome y in s'y connaître e in y réfléchir si riferisce all'argomento, e la negazione ne... pas circonda il verbo pronominale."
+    },
+    {
+      "id": "L076-e39",
+      "type": "write",
+      "level": 3,
+      "concept": "passive",
+      "prompt": "Il programma è stato seguito da milioni di persone.",
+      "answers": [
+        "L'émission a été suivie par des millions de personnes",
+        "Cette émission a été suivie par des millions de personnes",
+        "Le programme a été suivi par des millions de personnes"
+      ],
+      "explain_it": "Nel passivo con être il participio suivie si accorda con il soggetto femminile émission (suivi con programme, maschile)."
+    },
+    {
+      "id": "L076-e40",
+      "type": "write",
+      "level": 3,
+      "concept": "prepositions",
+      "prompt": "La torre misura trecento metri di altezza.",
+      "answers": [
+        "La tour mesure trois cents mètres de haut",
+        "La tour mesure trois cents mètres de hauteur",
+        "La tour fait trois cents mètres de haut"
+      ],
+      "explain_it": "Le dimensioni con mesurer richiedono de; cents si scrive al plurale quando non seguito da un altro numero."
+    },
+    {
+      "id": "L076-e41",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Ce l'ho sulla punta della lingua, ma non mi ricordo il nome.",
+      "answers": [
+        "Je l'ai sur le bout de la langue, mais je ne me souviens pas du nom",
+        "Je l'ai sur le bout de la langue mais je ne me rappelle pas le nom",
+        "Je l'ai sur le bout de la langue, mais je ne me rappelle pas le nom"
+      ],
+      "explain_it": "Avoir sur le bout de la langue è l'espressione per la parola sulla punta della lingua, e si combina con ne... pas per la negazione."
+    },
+    {
+      "id": "L076-e42",
+      "type": "write",
+      "level": 3,
+      "concept": "adverbs",
+      "prompt": "Lui ha ripetuto la risposta con precisione.",
+      "answers": [
+        "Il a répété la réponse précisément",
+        "Il a précisément répété la réponse",
+        "Il a répété la réponse avec précision"
+      ],
+      "explain_it": "Précisément è l'avverbio di precisione, costruito dalla forma femminile dell'aggettivo précis."
+    },
+    {
+      "id": "L076-e43",
+      "type": "dictation",
+      "level": 3,
+      "concept": "idioms",
+      "text": "Je ne m'y connais pas en football, mais je vais tenter le coup.",
+      "answers": [
+        "Je ne m'y connais pas en football, mais je vais tenter le coup."
+      ],
+      "explain_it": "Tenter le coup è la formula per 'ci provo', e s'y connaître richiede il pronome y davanti al verbo."
+    }
+  ]
+}

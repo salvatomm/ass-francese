@@ -1,0 +1,852 @@
+{
+  "n": 88,
+  "title_fr": "Quatre-vingt-huitième leçon - Le commissaire Périer mène l'enquête (suite)",
+  "title_it": "Ottantottesima lezione - Il commissario Périer conduce l'indagine (seguito)",
+  "review": false,
+  "status": "verified",
+  "source": "3d1a4471 pdf 55-62 (libro p.531-538); la lezione inizia a meta pagina pdf 55 (p.531) con il titolo, dopo l'esercizio 2 della L87; dialogo pdf 55-61; note pdf 55-60 e 62; esercizi 1-2 pdf 61 (p.537), risposte pdf 62 (p.538); la lezione 89 inizia a meta pagina pdf 63 (p.539)",
+  "theme_it": "Il commissario Périer prosegue l'indagine sull'omicidio di Antoine. Un informatore gli ha raccontato di un uomo dall'aspetto losco, forse un sicario, che potrebbe sapere molto. Il gruppo decide di andare fino in fondo, a qualunque costo, pur sapendo che la pista potrebbe essere una bugia.",
+  "grammar": [
+    {
+      "id": "subjonctif",
+      "title_it": "Avverbi indefiniti di concessione: qui que, où que, quoi que, quel que",
+      "explain_it": "Qui que (chiunque), où que (dovunque), quoi que (qualunque cosa) e quel que (qualunque, concorda con il nome) reggono sempre il congiuntivo, come 'chiunque', 'dovunque', 'qualunque cosa' in italiano. Con quel que si accorda con il soggetto della frase: quelle que soit la raison (femminile), quel que soit le prix (maschile). Attenzione: quoi que (due parole) significa 'qualunque cosa', mentre quoique (una parola) vuol dire 'benché'. Davanti a il/elle/on si elide: quoi qu'il fasse.",
+      "examples": [
+        {
+          "fr": "Où que tu ailles, je te suivrai.",
+          "it": "Dovunque tu vada, ti seguirò."
+        },
+        {
+          "fr": "Quoi qu'il fasse, il reste calme.",
+          "it": "Qualunque cosa faccia, resta calmo."
+        },
+        {
+          "fr": "Qui que tu sois, tu es le bienvenu.",
+          "it": "Chiunque tu sia, sei il benvenuto."
+        }
+      ]
+    },
+    {
+      "id": "register",
+      "title_it": "Gars e mec: sinonimi familiari di 'tipo'",
+      "explain_it": "Gars e mec significano 'tipo, ragazzo, tizio' e in registro familiare sostituiscono homme o type. Les gars si usa anche per rivolgersi a un gruppo di amici (Venez voir, les gars !). Attenzione: gars (la s finale non si pronuncia) è la forma familiare per 'ragazzo', diversa da garçon (anche 'cameriere'). Mec può anche indicare il fidanzato o il compagno, quindi il contesto conta.",
+      "examples": [
+        {
+          "fr": "Ce mec n'a jamais lu un bouquin de sa vie.",
+          "it": "Quel tipo non ha mai letto un libro in vita sua."
+        },
+        {
+          "fr": "Venez voir, les gars !",
+          "it": "Venite a vedere, ragazzi!"
+        }
+      ]
+    },
+    {
+      "id": "register",
+      "title_it": "Carrément: avverbio, intensivo e risposta di conferma",
+      "explain_it": "Carrément deriva da carré e significa 'francamente, senza giri di parole'. Nel parlato è molto usato come intensivo al posto di 'completamente' (ce gars est carrément dingue). Serve anche come risposta di accordo o approvazione: Tu aimes ce chanteur? - Carrément!",
+      "examples": [
+        {
+          "fr": "Je lui ai dit carrément ce que je pensais.",
+          "it": "Gli ho detto chiaro e tondo quello che pensavo."
+        },
+        {
+          "fr": "Il est carrément louche.",
+          "it": "È proprio losco."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Faire une fleur (à quelqu'un): fare un favore",
+      "explain_it": "Nell'espressione faire une fleur la parola fleur (fiore) significa 'favore, piacere': faire une fleur à quelqu'un = fare un favore a qualcuno, spesso una concessione fatta con gentilezza (es. uno sconto). Non va confusa con altre espressioni con fleur, come être dans la fleur de l'âge ('essere nel fiore degli anni').",
+      "examples": [
+        {
+          "fr": "Tu m'as fait une fleur.",
+          "it": "Mi hai fatto un favore."
+        },
+        {
+          "fr": "L'hôtel nous a fait une fleur.",
+          "it": "L'hotel ci ha fatto un favore."
+        }
+      ]
+    },
+    {
+      "id": "register",
+      "title_it": "Ficher, s'en ficher e fichu",
+      "explain_it": "Nel registro familiare ficher sostituisce i verbi comuni, soprattutto faire: qu'est-ce que tu fiches? significa 'che cosa combini?'. La forma pronominale s'en ficher significa 'infischiarsene' ed è frequente in Je m'en fiche (non me ne importa niente). Il participio fichu, usato con être, significa 'rovinato, finito': les joueurs sont fichus vuol dire 'sono spacciati'.",
+      "examples": [
+        {
+          "fr": "Qu'est-ce que tu fiches ce soir ?",
+          "it": "Che cosa combini stasera?"
+        },
+        {
+          "fr": "Nous sommes fichus !",
+          "it": "Siamo spacciati!"
+        }
+      ]
+    },
+    {
+      "id": "register",
+      "title_it": "Dingue: aggettivo positivo e negativo",
+      "explain_it": "Dingue significa 'pazzo' in senso familiare e può avere sia valore positivo (una serata pazzesca, fantastica) sia negativo (un prezzo folle, eccessivo). Il sostantivo un dingue indica una persona matta. Non ha nulla a che vedere con il 'dingo' australiano; la g finale si pronuncia.",
+      "examples": [
+        {
+          "fr": "C'est dingue !",
+          "it": "È pazzesco!"
+        },
+        {
+          "fr": "On a passé une soirée dingue.",
+          "it": "Abbiamo passato una serata pazzesca."
+        }
+      ]
+    },
+    {
+      "id": "subjonctif",
+      "title_it": "Congiuntivo nelle relative dopo superlativo o unicità",
+      "explain_it": "Quando la relativa segue un superlativo (le plus, le moins, le meilleur) o un'espressione di unicità (le seul, l'unique), il verbo va spesso al congiuntivo: il congiuntivo esprime il giudizio soggettivo di chi parla, non un fatto oggettivo. In italiano il congiuntivo compare nelle stesse situazioni, quindi la regola è familiare, ma in francese va usato con costanza. Attenzione alla forma: si usa il congiuntivo presente della frase relativa, dopo que o qui.",
+      "examples": [
+        {
+          "fr": "C'est le plus beau tableau que je connaisse.",
+          "it": "È il quadro più bello che io conosca."
+        },
+        {
+          "fr": "C'est le seul qui sache répondre.",
+          "it": "È l'unico che sappia rispondere."
+        }
+      ]
+    },
+    {
+      "id": "imperative",
+      "title_it": "Imperativo di être: sois, soyons, soyez",
+      "explain_it": "L'imperativo di être è identico al congiuntivo presente: sois (tu), soyons (nous), soyez (vous). Senza que è un comando diretto: Sois là à midi (sii lì a mezzogiorno); con il faut que il verbo è un congiuntivo: Il faut que tu sois là (bisogna che tu sia lì). La forma è la stessa, quindi conta il contesto.",
+      "examples": [
+        {
+          "fr": "Sois prudent !",
+          "it": "Sii prudente!"
+        },
+        {
+          "fr": "Soyons à l'heure demain.",
+          "it": "Siamo puntuali domani."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le flingueur",
+      "it": "il sicario, il killer",
+      "pos": "n"
+    },
+    {
+      "fr": "se cacher",
+      "it": "nascondersi",
+      "pos": "v",
+      "note": "je me cache"
+    },
+    {
+      "fr": "s'échapper",
+      "it": "scappare, sfuggire",
+      "pos": "v"
+    },
+    {
+      "fr": "retrouver",
+      "it": "ritrovare, rintracciare",
+      "pos": "v",
+      "note": "je retrouve"
+    },
+    {
+      "fr": "la gaffe",
+      "it": "la gaffe, la figuraccia",
+      "pos": "n"
+    },
+    {
+      "fr": "la balle",
+      "it": "il proiettile",
+      "pos": "n"
+    },
+    {
+      "fr": "le boulot",
+      "it": "il lavoro (familiare)",
+      "pos": "n"
+    },
+    {
+      "fr": "bosser",
+      "it": "lavorare (familiare)",
+      "pos": "v",
+      "note": "je bosse"
+    },
+    {
+      "fr": "le gars",
+      "it": "il tipo, il ragazzo (familiare)",
+      "pos": "n"
+    },
+    {
+      "fr": "le mec",
+      "it": "il tizio, il tipo (familiare)",
+      "pos": "n"
+    },
+    {
+      "fr": "le tuyau",
+      "it": "la soffiata, la dritta",
+      "pos": "n"
+    },
+    {
+      "fr": "l'assassinat (m.)",
+      "it": "l'omicidio",
+      "pos": "n"
+    },
+    {
+      "fr": "revendre",
+      "it": "rivendere",
+      "pos": "v",
+      "note": "je revends"
+    },
+    {
+      "fr": "la bagnole",
+      "it": "la macchina (familiare)",
+      "pos": "n"
+    },
+    {
+      "fr": "d'occasion",
+      "it": "di seconda mano, usato",
+      "pos": "adj"
+    },
+    {
+      "fr": "le fric",
+      "it": "i soldi (familiare)",
+      "pos": "n"
+    },
+    {
+      "fr": "le flingue",
+      "it": "la pistola (familiare)",
+      "pos": "n"
+    },
+    {
+      "fr": "fichu / fichue",
+      "it": "rovinato, finito",
+      "pos": "adj"
+    },
+    {
+      "fr": "fringué / fringuée",
+      "it": "vestito (familiare)",
+      "pos": "adj",
+      "note": "mal fringué = vestito male"
+    },
+    {
+      "fr": "la gueule",
+      "it": "la faccia (familiare)",
+      "pos": "n"
+    },
+    {
+      "fr": "louche",
+      "it": "losco, ambiguo",
+      "pos": "adj"
+    },
+    {
+      "fr": "dingue",
+      "it": "pazzo, matto (familiare)",
+      "pos": "adj"
+    },
+    {
+      "fr": "la piste",
+      "it": "la pista, la traccia",
+      "pos": "n"
+    },
+    {
+      "fr": "le mensonge",
+      "it": "la bugia, la menzogna",
+      "pos": "n"
+    },
+    {
+      "fr": "fiable",
+      "it": "affidabile",
+      "pos": "adj"
+    },
+    {
+      "fr": "la tâche",
+      "it": "il compito, l'incarico",
+      "pos": "n"
+    },
+    {
+      "fr": "l'indic (m.)",
+      "it": "l'informatore, la talpa (familiare)",
+      "pos": "n"
+    },
+    {
+      "fr": "le flic",
+      "it": "il poliziotto (familiare)",
+      "pos": "n"
+    },
+    {
+      "fr": "carrément",
+      "it": "assolutamente, proprio",
+      "pos": "adv"
+    },
+    {
+      "fr": "s'en ficher",
+      "it": "infischiarsene",
+      "pos": "v",
+      "note": "je m'en fiche"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Carrément !",
+      "it": "Assolutamente! Eccome!",
+      "note": "risposta di conferma, molto colloquiale"
+    },
+    {
+      "fr": "faire une fleur (à quelqu'un)",
+      "it": "fare un favore (a qualcuno)",
+      "note": "registro familiare"
+    },
+    {
+      "fr": "faire le sale boulot",
+      "it": "fare il lavoro sporco",
+      "note": "anche in senso figurato, per i compiti ingrati"
+    },
+    {
+      "fr": "ne pas être un enfant de chœur",
+      "it": "non essere uno stinco di santo",
+      "note": "di chi ha un passato poco pulito"
+    },
+    {
+      "fr": "raconter des salades",
+      "it": "raccontare frottole",
+      "note": "'salade' in senso figurato significa bugia; familiare"
+    },
+    {
+      "fr": "Je m'en fiche.",
+      "it": "Non me ne importa niente. / Me ne infischio.",
+      "note": "familiare"
+    },
+    {
+      "fr": "coûte que coûte",
+      "it": "a tutti i costi",
+      "note": "registro neutro"
+    },
+    {
+      "fr": "avoir une gueule de bandit",
+      "it": "avere una faccia da delinquente",
+      "note": "'gueule' è la faccia, in registro familiare"
+    },
+    {
+      "fr": "N'empêche",
+      "it": "Comunque, ciò nonostante",
+      "note": "connettivo colloquiale che introduce un'obiezione"
+    },
+    {
+      "fr": "C'est dingue !",
+      "it": "È pazzesco!",
+      "note": "esclamazione molto usata nel parlato"
+    }
+  ],
+  "notes_it": [
+    "Falso amico: 'dingue' non è il 'dingo' (il cane selvatico australiano). Significa pazzo, matto, e nel parlato anche 'pazzesco' in senso positivo.",
+    "Falso amico: 'un gars' non è il 'garzone' (in francese un garçon). Nel parlato è sinonimo di 'tipo' o 'ragazzo'.",
+    "Molte parole di questa lezione (flingue, flic, fric, bagnole, boulot, mec, bosser) sono gergali o familiari: vanno bene nel parlato informale, ma non nello scritto formale.",
+    "Pronuncia: 'tuyau' si legge circa 'tuiò' (il dittongo 'uy' suona come 'ui'); 'gueule' e 'cœur' hanno la vocale 'eu' arrotondata, più vicina a una 'ö' che a una 'e' italiana; in 'fringué' e 'dingue' la vocale è nasale e la 'g' finale si sente."
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "level": 1,
+      "concept": "subjonctif",
+      "prompt": "Completa la frase (ovunque tu vada): 'Où ___ tu ailles, je te suivrai.'",
+      "options": [
+        "que",
+        "qui",
+        "quoi",
+        "dont"
+      ],
+      "correct": 0,
+      "explain_it": "Dove + que (où que) è un avverbio di concessione: qui, quoi e dont non funzionano qui.",
+      "id": "L088-e01"
+    },
+    {
+      "type": "mcq",
+      "level": 1,
+      "concept": "subjonctif",
+      "prompt": "Quale frase significa 'Qualunque cosa tu faccia, non mollare'?",
+      "options": [
+        "Quoi que tu fasses, ne lâche pas.",
+        "Quoi que tu fais, ne lâche pas.",
+        "Quoi que tu feras, ne lâche pas.",
+        "Quoi que tu faire, ne lâche pas."
+      ],
+      "correct": 0,
+      "explain_it": "Quoi que vuole il congiuntivo: fasses è il congiuntivo presente di faire; fais è indicativo, feras è futuro.",
+      "id": "L088-e02"
+    },
+    {
+      "type": "mcq",
+      "level": 1,
+      "concept": "imperative",
+      "prompt": "Come si dice 'Sii prudente!' (a un amico)?",
+      "options": [
+        "Sois prudent !",
+        "Es prudent !",
+        "Sera prudent !",
+        "Être prudent !"
+      ],
+      "correct": 0,
+      "explain_it": "L'imperativo di être alla seconda persona singolare è sois; es è indicativo, sera è futuro, être è l'infinito.",
+      "id": "L088-e03"
+    },
+    {
+      "type": "mcq",
+      "level": 1,
+      "concept": "register",
+      "prompt": "Quale parola familiare significa 'tizio, tipo' (un uomo qualunque)?",
+      "options": [
+        "un mec",
+        "un maître",
+        "une mèche",
+        "un meuble"
+      ],
+      "correct": 0,
+      "explain_it": "Mec è il sinonimo familiare di tipo; maître vuol dire padrone, mèche ciocca, meuble mobile.",
+      "id": "L088-e04"
+    },
+    {
+      "type": "order",
+      "level": 1,
+      "concept": "subjonctif",
+      "prompt": "Qualunque cosa tu dica, io ti credo.",
+      "answers": [
+        "Quoi que tu dises, je te crois."
+      ],
+      "distractors": [
+        "dis",
+        "dites"
+      ],
+      "explain_it": "Quoi que richiede il congiuntivo: dises è il congiuntivo presente di dire alla seconda persona singolare.",
+      "id": "L088-e05"
+    },
+    {
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Non me ne importa niente di lui.",
+      "answers": [
+        "Je m'en fiche de lui."
+      ],
+      "distractors": [
+        "fais",
+        "pour"
+      ],
+      "explain_it": "S'en ficher significa infischiarsene: je m'en fiche è la forma pronominale con en.",
+      "id": "L088-e06"
+    },
+    {
+      "type": "order",
+      "level": 1,
+      "concept": "superlatives",
+      "prompt": "È il quadro più bello che io conosca.",
+      "answers": [
+        "C'est le plus beau tableau que je connaisse."
+      ],
+      "distractors": [
+        "connais",
+        "connu"
+      ],
+      "explain_it": "Dopo il superlativo la relativa vuole il congiuntivo: connaisse, non connais o connu.",
+      "id": "L088-e07"
+    },
+    {
+      "type": "order",
+      "level": 1,
+      "concept": "imperative",
+      "prompt": "Siate prudenti, amici.",
+      "answers": [
+        "Soyez prudents, les amis !"
+      ],
+      "distractors": [
+        "Soyons",
+        "Sont"
+      ],
+      "explain_it": "L'imperativo di être alla seconda persona plurale è soyez, identico al congiuntivo.",
+      "id": "L088-e08"
+    },
+    {
+      "type": "cloze",
+      "level": 1,
+      "concept": "subjonctif",
+      "text": "Quelle que ___ la raison, je ne changerai pas d'avis.",
+      "answers": [
+        "soit"
+      ],
+      "prompt": "Qualunque sia la ragione, non cambierò idea.",
+      "explain_it": "Quel que concorda con il nome: quelle que soit davanti a raison (femminile), con congiuntivo presente di être.",
+      "hint": "(être, congiuntivo presente)",
+      "id": "L088-e09"
+    },
+    {
+      "type": "cloze",
+      "level": 1,
+      "concept": "imperative",
+      "text": "___ à l'heure demain, s'il te plaît.",
+      "answers": [
+        "Sois"
+      ],
+      "prompt": "Sii puntuale domani, per favore.",
+      "explain_it": "Con tu l'imperativo di être è sois, identico alla forma del congiuntivo.",
+      "hint": "(être, imperativo, tu)",
+      "id": "L088-e10"
+    },
+    {
+      "type": "cloze",
+      "level": 1,
+      "concept": "register",
+      "text": "Ce ___ est carrément sympa.",
+      "answers": [
+        "mec",
+        "gars"
+      ],
+      "prompt": "Questo tipo è davvero simpatico.",
+      "explain_it": "Mec e gars sono entrambi sinonimi familiari di tipo, ragazzo.",
+      "id": "L088-e11"
+    },
+    {
+      "type": "cloze",
+      "level": 1,
+      "concept": "subjonctif",
+      "text": "Il faut que tu ___ prudent.",
+      "answers": [
+        "sois"
+      ],
+      "prompt": "Bisogna che tu sia prudente.",
+      "explain_it": "Il faut que vuole il congiuntivo; con tu la forma è sois.",
+      "hint": "(être, congiuntivo presente)",
+      "id": "L088-e12"
+    },
+    {
+      "type": "cloze",
+      "level": 1,
+      "concept": "idioms",
+      "text": "Il nous a ___ une fleur.",
+      "answers": [
+        "fait"
+      ],
+      "prompt": "Ci ha fatto un favore.",
+      "explain_it": "Faire une fleur è un'espressione fissa: il verbo va al passato prossimo con avoir, quindi fait.",
+      "hint": "(faire, passato prossimo)",
+      "id": "L088-e13"
+    },
+    {
+      "type": "cloze",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "C'est la seule personne qui ___ la vérité.",
+      "answers": [
+        "sache"
+      ],
+      "prompt": "È l'unica persona che conosca la verità.",
+      "explain_it": "Dopo seule (unicità) la relativa va al congiuntivo: qui sache.",
+      "hint": "(savoir, congiuntivo presente)",
+      "id": "L088-e14"
+    },
+    {
+      "type": "cloze",
+      "level": 2,
+      "concept": "superlatives",
+      "text": "Ce sont les meilleurs gars que je ___.",
+      "answers": [
+        "connaisse"
+      ],
+      "prompt": "Sono i migliori tipi che conosca.",
+      "explain_it": "Dopo il superlativo meilleurs la relativa vuole il congiuntivo: que je connaisse.",
+      "hint": "(connaître, congiuntivo presente)",
+      "id": "L088-e15"
+    },
+    {
+      "type": "cloze",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "Où que vous ___, je vous retrouverai.",
+      "answers": [
+        "alliez"
+      ],
+      "prompt": "Ovunque andiate, vi ritroverò.",
+      "explain_it": "Où que vuole il congiuntivo presente: vous alliez è la seconda persona plurale di aller.",
+      "hint": "(aller, congiuntivo presente)",
+      "id": "L088-e16"
+    },
+    {
+      "type": "cloze",
+      "level": 2,
+      "concept": "imperative",
+      "text": "Ne ___ pas trop optimiste, ce n'est pas le moment.",
+      "answers": [
+        "sois"
+      ],
+      "prompt": "Non essere troppo ottimista, non è il momento.",
+      "explain_it": "Nella forma negativa dell'imperativo tu si usa sois, uguale al congiuntivo presente.",
+      "hint": "(être, imperativo, tu)",
+      "id": "L088-e17"
+    },
+    {
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Il nous ___ des salades depuis une heure.",
+      "answers": [
+        "raconte"
+      ],
+      "prompt": "Ci racconta frottole da un'ora.",
+      "explain_it": "Raconter des salades è un'espressione familiare che significa raccontare bugie; con depuis si usa il presente.",
+      "hint": "(raconter, presente)",
+      "id": "L088-e18"
+    },
+    {
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Traduci: Qualunque cosa dica, non gli credo.",
+      "answers": [
+        "Quoi qu'il dise, je ne le crois pas."
+      ],
+      "explain_it": "Quoi que vuole il congiuntivo: dise (dire, 3a persona singolare); croire quelqu'un richiede le come pronome diretto.",
+      "id": "L088-e19"
+    },
+    {
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Traduci: Dovunque tu vada, ti troverò.",
+      "answers": [
+        "Où que tu ailles, je te [trouverai|retrouverai]."
+      ],
+      "explain_it": "Où que vuole il congiuntivo presente: ailles è il congiuntivo di aller.",
+      "id": "L088-e20"
+    },
+    {
+      "type": "write",
+      "level": 2,
+      "concept": "superlatives",
+      "prompt": "Traduci: È l'uomo più simpatico che conosca.",
+      "answers": [
+        "C'est l'homme le [plus sympathique|plus sympa] que je connaisse."
+      ],
+      "explain_it": "Dopo il superlativo la relativa usa il congiuntivo: que je connaisse.",
+      "id": "L088-e21"
+    },
+    {
+      "type": "write",
+      "level": 2,
+      "concept": "register",
+      "prompt": "Traduci in francese familiare: Questo tipo è davvero pazzo.",
+      "answers": [
+        "Ce [mec|gars|type] est carrément dingue."
+      ],
+      "explain_it": "In francese familiare si usa mec o gars per tipo e carrément come intensivo.",
+      "id": "L088-e22"
+    },
+    {
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Traduci: Mi hai fatto un favore.",
+      "answers": [
+        "Tu m'as fait une fleur."
+      ],
+      "explain_it": "Faire une fleur significa fare un favore; il passato prossimo ha avoir, quindi fait.",
+      "id": "L088-e23"
+    },
+    {
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Traduci: Bisogna che siate pronti.",
+      "answers": [
+        "Il faut que vous soyez [prêts|prêtes]."
+      ],
+      "explain_it": "Il faut que vuole il congiuntivo: vous soyez; l'aggettivo concorda con il soggetto.",
+      "id": "L088-e24"
+    },
+    {
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Traduci: Qualunque sia il costo, lo faremo.",
+      "answers": [
+        "Quel que soit le [prix|coût], nous le ferons."
+      ],
+      "explain_it": "Quel que concorda con il nome maschile (le prix o le coût) e vuole il congiuntivo soit.",
+      "id": "L088-e25"
+    },
+    {
+      "type": "write",
+      "level": 2,
+      "concept": "imperative",
+      "prompt": "Traduci (a due amici): Siate prudenti!",
+      "answers": [
+        "Soyez [prudents|prudentes] !"
+      ],
+      "explain_it": "L'imperativo di être alla seconda persona plurale è soyez.",
+      "id": "L088-e26"
+    },
+    {
+      "type": "dictation",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "Quoi qu'ils disent, nous restons ici.",
+      "explain_it": "Quoi que richiede il congiuntivo: disent è la terza persona plurale di dire.",
+      "id": "L088-e27"
+    },
+    {
+      "type": "dictation",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Soyez prudents, les gars, et ne racontez pas de salades.",
+      "explain_it": "Raconter des salades è l'espressione familiare per raccontare frottole; les gars è usato come 'ragazzi'.",
+      "id": "L088-e28"
+    },
+    {
+      "type": "flash",
+      "level": 2,
+      "concept": "subjonctif",
+      "front": "Quoi que, où que, qui que, quel que: quando si usano e quale modo reggono?",
+      "back": "Sono avverbi o aggettivi di concessione (qualunque cosa, dovunque, chiunque, qualunque sia). Reggono sempre il congiuntivo. Quel que concorda con il nome: quel que soit (m.), quelle que soit (f.).",
+      "explain_it": "Ripasso delle espressioni di concessione con il congiuntivo.",
+      "id": "L088-e29"
+    },
+    {
+      "type": "flash",
+      "level": 2,
+      "concept": "imperative",
+      "front": "Imperativo di être: quali forme?",
+      "back": "Sois (tu), soyons (nous), soyez (vous). Coincidono con il congiuntivo presente: senza que è un comando, con que è un congiuntivo dopo un'espressione come il faut que.",
+      "explain_it": "Le forme dell'imperativo di être sono le stesse del congiuntivo.",
+      "id": "L088-e30"
+    },
+    {
+      "type": "flash",
+      "level": 2,
+      "concept": "superlatives",
+      "front": "Relativa dopo superlativo o 'seul/unique': quale modo?",
+      "back": "Di solito il congiuntivo: C'est le plus beau tableau que je connaisse. Il congiuntivo esprime il giudizio soggettivo di chi parla.",
+      "explain_it": "Regola del congiuntivo nelle relative dopo superlativi e unicità.",
+      "id": "L088-e31"
+    },
+    {
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Traduci: Il libro di cui ti parlavo è l'unico che sia interessante.",
+      "answers": [
+        "Le livre dont je te parlais est le seul qui soit intéressant."
+      ],
+      "explain_it": "Il libro è unico (le seul): la relativa vuole il congiuntivo soit; dont regge il complemento di parler de.",
+      "id": "L088-e32"
+    },
+    {
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Traduci: Qualunque sia la tua decisione, ti appoggerò.",
+      "answers": [
+        "Quelle que soit ta décision, je [te soutiendrai|t'appuierai]."
+      ],
+      "explain_it": "Quel que concorda con décision (femminile) e vuole il congiuntivo soit.",
+      "id": "L088-e33"
+    },
+    {
+      "type": "write",
+      "level": 3,
+      "concept": "register",
+      "prompt": "Traduci in francese familiare: Quei tipi sono davvero loschi, ma non raccontano frottole.",
+      "answers": [
+        "[Ces|Les] [gars|mecs] sont carrément louches, mais ils ne racontent pas de salades."
+      ],
+      "explain_it": "Gars e mec per 'tipo', carrément per 'davvero', louches è plurale; dopo la negazione si usa de senza articolo.",
+      "id": "L088-e34"
+    },
+    {
+      "type": "write",
+      "level": 3,
+      "concept": "superlatives",
+      "prompt": "Traduci: È la più bella ragazza che conosca.",
+      "answers": [
+        "C'est la plus belle fille que je connaisse."
+      ],
+      "explain_it": "Il superlativo con plus vuole la relativa al congiuntivo connaisse; belle è femminile come fille.",
+      "id": "L088-e35"
+    },
+    {
+      "type": "write",
+      "level": 3,
+      "concept": "imperative",
+      "prompt": "Traduci (a un amico): Sii prudente con quel tipo, non credergli.",
+      "answers": [
+        "Sois prudent avec ce [type|mec|gars], ne le crois pas."
+      ],
+      "explain_it": "Sois è l'imperativo tu di être; non credergli si rende con ne le crois pas, perché croire quelqu'un richiede le.",
+      "id": "L088-e36"
+    },
+    {
+      "type": "dictation",
+      "level": 3,
+      "concept": "subjonctif",
+      "text": "Quoi qu'en pense le commissaire, il ne faut pas croire tout ce qu'on raconte.",
+      "explain_it": "Quoi que vuole il congiuntivo: pense è la forma del congiuntivo di penser; en è il pronome che riprende l'idea precedente.",
+      "id": "L088-e37"
+    },
+    {
+      "type": "cloze",
+      "level": 3,
+      "concept": "subjonctif",
+      "text": "C'est l'unique piste qui ___ mener au coupable.",
+      "answers": [
+        "puisse"
+      ],
+      "prompt": "È l'unica pista che possa portare al colpevole.",
+      "explain_it": "Dopo l'unicità (l'unique) la relativa vuole il congiuntivo: puisse è il congiuntivo di pouvoir.",
+      "hint": "(pouvoir, congiuntivo presente)",
+      "id": "L088-e38"
+    },
+    {
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Traduci: Dobbiamo finire il lavoro a ogni costo.",
+      "answers": [
+        "Il faut que nous [terminions|finissions] le travail coûte que coûte.",
+        "Nous devons [terminer|finir] le travail coûte que coûte."
+      ],
+      "explain_it": "Il faut que vuole il congiuntivo presente; coûte que coûte è l'espressione per 'a ogni costo'.",
+      "id": "L088-e39"
+    },
+    {
+      "type": "mcq",
+      "level": 3,
+      "concept": "register",
+      "prompt": "Quale espressione significa 'Non me ne importa niente di quello che pensano'?",
+      "options": [
+        "Je m'en fiche de ce qu'ils pensent.",
+        "Je me soucie de ce qu'ils pensent.",
+        "Je m'en occupe de ce qu'ils pensent.",
+        "Je m'en vais de ce qu'ils pensent."
+      ],
+      "correct": 0,
+      "explain_it": "S'en ficher è il verbo familiare per infischiarsene; soucier e occuper hanno significati diversi.",
+      "id": "L088-e40"
+    },
+    {
+      "type": "mcq",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Qual è la forma corretta? (Qualunque cosa tu scelga, sarò d'accordo.)",
+      "options": [
+        "Quoi que tu choisisses, je serai d'accord.",
+        "Quoi que tu choisis, je serai d'accord.",
+        "Quoi que tu choisiras, je serai d'accord.",
+        "Quoi que tu choisir, je serai d'accord."
+      ],
+      "correct": 0,
+      "explain_it": "Quoi que vuole il congiuntivo: choisisses; choisis è indicativo, choisiras futuro, choisir infinito.",
+      "id": "L088-e41"
+    }
+  ]
+}

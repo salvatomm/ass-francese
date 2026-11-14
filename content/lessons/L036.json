@@ -1,0 +1,859 @@
+{
+  "n": 36,
+  "title_fr": "Trente-sixième leçon - J'espère que je n'ai rien oublié…",
+  "title_it": "Trentaseiesima lezione - Spero di non aver dimenticato niente…",
+  "review": false,
+  "status": "verified",
+  "source": "c15d4fa8 p161-166 (pdf 79-84)",
+  "theme_it": "Due persone stanno per partire per l'aeroporto con il taxi. Prima di uscire controllano la casa: finestre, persiane, frigorifero, spazzatura e gioielli, e chiedono alla vicina di controllare la cassetta delle lettere. È la lezione del passato prossimo, il tempo che si usa per raccontare azioni già compiute.",
+  "grammar": [
+    {
+      "id": "passe-compose-avoir",
+      "title_it": "Il passato prossimo con avoir",
+      "explain_it": "Il passato prossimo si forma con il presente di avoir (j'ai, tu as, il/elle a, nous avons, vous avez, ils/elles ont) seguito dal participio passato. I verbi in -er hanno il participio in -é (fermer → fermé, vérifier → vérifié, vider → vidé). Corrisponde al passato prossimo italiano («ho ordinato»). Con avoir il participio non si accorda con il soggetto e resta invariato. Alcuni verbi irregolari hanno un participio particolare (faire → fait), e alcuni verbi di movimento usano essere: li vedremo più avanti.",
+      "examples": [
+        {
+          "fr": "J'ai commandé le taxi.",
+          "it": "Ho ordinato il taxi."
+        },
+        {
+          "fr": "Nous avons fermé la porte à clé.",
+          "it": "Abbiamo chiuso la porta a chiave."
+        },
+        {
+          "fr": "Il a arrosé les plantes.",
+          "it": "Ha annaffiato le piante."
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "title_it": "Domande al passato prossimo",
+      "explain_it": "Per fare una domanda al passato prossimo ci sono tre modi: l'intonazione (Tu as fermé ?), l'inversione dell'ausiliare con il pronome (As-tu fermé ?, Avez-vous fermé ?) e la formula est-ce que (Est-ce que tu as fermé ?). Con il/elle, nell'inversione si inserisce una -t- di collegamento (a-t-il). Nel parlato è frequente l'intonazione o est-ce que; l'inversione è più tipica dello scritto e della lingua formale.",
+      "examples": [
+        {
+          "fr": "Tu as fermé les fenêtres ?",
+          "it": "Hai chiuso le finestre?"
+        },
+        {
+          "fr": "As-tu fermé les fenêtres ?",
+          "it": "Hai chiuso le finestre?"
+        },
+        {
+          "fr": "A-t-il vidé la poubelle ?",
+          "it": "Ha svuotato il bidone?"
+        }
+      ]
+    },
+    {
+      "id": "tout",
+      "title_it": "La posizione di tout con il passato prossimo",
+      "explain_it": "In italiano «tutto» si mette di solito dopo il participio («ho chiuso tutto»); in francese, con il passato prossimo, il pronome tout va tra l'ausiliare e il participio: j'ai tout fermé. In questa funzione tout è invariabile. Non confonderlo con l'aggettivo tous / toutes (tutti / tutte), che accompagna un nome: tous les volets, toutes les fenêtres.",
+      "examples": [
+        {
+          "fr": "Il a tout fermé.",
+          "it": "Ha chiuso tutto."
+        },
+        {
+          "fr": "Nous avons tout vérifié.",
+          "it": "Abbiamo controllato tutto."
+        }
+      ]
+    },
+    {
+      "id": "relative-pronouns",
+      "title_it": "Il pronome relativo ce que",
+      "explain_it": "Ce que significa «ciò che» o «quello che». Introduce una frase relativa che non ha un antecedente preciso, ed è l'oggetto del verbo della frase relativa: Je mange ce que j'aime (mangio quello che mi piace). Non si può usare que da solo in questa funzione: serve la forma composta ce que.",
+      "examples": [
+        {
+          "fr": "Je mange ce que j'aime.",
+          "it": "Mangio quello che mi piace."
+        },
+        {
+          "fr": "J'ai vidé tout ce qu'il y a dans le frigo.",
+          "it": "Ho svuotato tutto ciò che c'è nel frigo."
+        }
+      ]
+    },
+    {
+      "id": "adverbs",
+      "title_it": "Tout à l'heure: poco fa o a dopo",
+      "explain_it": "Con il passato prossimo, «tout à l'heure» significa «poco fa»: un'azione appena conclusa. Riferito al futuro significa invece «tra poco» o «a più tardi»; il tempo del verbo e il contesto decidono il senso.",
+      "examples": [
+        {
+          "fr": "J'ai fermé la cave tout à l'heure.",
+          "it": "Ho chiuso la cantina poco fa."
+        },
+        {
+          "fr": "À tout à l'heure !",
+          "it": "A dopo!"
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le taxi",
+      "it": "il taxi",
+      "pos": "n"
+    },
+    {
+      "fr": "l'aéroport (m.)",
+      "it": "l'aeroporto",
+      "pos": "n"
+    },
+    {
+      "fr": "commander",
+      "it": "ordinare",
+      "pos": "v",
+      "note": "j'ai commandé"
+    },
+    {
+      "fr": "le volet",
+      "it": "la persiana",
+      "pos": "n"
+    },
+    {
+      "fr": "la fenêtre",
+      "it": "la finestra",
+      "pos": "n"
+    },
+    {
+      "fr": "fermer",
+      "it": "chiudere",
+      "pos": "v",
+      "note": "j'ai fermé"
+    },
+    {
+      "fr": "verrouiller",
+      "it": "chiudere con il chiavistello",
+      "pos": "v",
+      "note": "tout est verrouillé"
+    },
+    {
+      "fr": "le grenier",
+      "it": "la soffitta",
+      "pos": "n"
+    },
+    {
+      "fr": "le réfrigérateur",
+      "it": "il frigorifero",
+      "pos": "n"
+    },
+    {
+      "fr": "le congélateur",
+      "it": "il congelatore",
+      "pos": "n"
+    },
+    {
+      "fr": "la cave",
+      "it": "la cantina",
+      "pos": "n"
+    },
+    {
+      "fr": "la poubelle",
+      "it": "il bidone della spazzatura",
+      "pos": "n"
+    },
+    {
+      "fr": "la salle de bains",
+      "it": "il bagno (la stanza da bagno)",
+      "pos": "n"
+    },
+    {
+      "fr": "cacher",
+      "it": "nascondere",
+      "pos": "v",
+      "note": "j'ai caché"
+    },
+    {
+      "fr": "la bague",
+      "it": "l'anello",
+      "pos": "n"
+    },
+    {
+      "fr": "le passeport",
+      "it": "il passaporto",
+      "pos": "n"
+    },
+    {
+      "fr": "la voisine",
+      "it": "la vicina di casa",
+      "pos": "n"
+    },
+    {
+      "fr": "la boîte à lettres",
+      "it": "la cassetta delle lettere",
+      "pos": "n"
+    },
+    {
+      "fr": "le drap",
+      "it": "il lenzuolo",
+      "pos": "n"
+    },
+    {
+      "fr": "arroser",
+      "it": "annaffiare",
+      "pos": "v",
+      "note": "j'ai arrosé"
+    },
+    {
+      "fr": "la plante",
+      "it": "la pianta",
+      "pos": "n"
+    },
+    {
+      "fr": "le four",
+      "it": "il forno",
+      "pos": "n"
+    },
+    {
+      "fr": "oublier",
+      "it": "dimenticare",
+      "pos": "v",
+      "note": "j'ai oublié"
+    },
+    {
+      "fr": "le billet d'avion",
+      "it": "il biglietto aereo",
+      "pos": "n"
+    },
+    {
+      "fr": "le sac à main",
+      "it": "la borsa (da donna)",
+      "pos": "n"
+    },
+    {
+      "fr": "vider",
+      "it": "svuotare",
+      "pos": "v",
+      "note": "j'ai vidé"
+    },
+    {
+      "fr": "nettoyer",
+      "it": "pulire",
+      "pos": "v",
+      "note": "j'ai nettoyé"
+    },
+    {
+      "fr": "laver",
+      "it": "lavare",
+      "pos": "v",
+      "note": "j'ai lavé"
+    },
+    {
+      "fr": "débrancher",
+      "it": "staccare la spina a",
+      "pos": "v",
+      "note": "j'ai débranché"
+    },
+    {
+      "fr": "changer",
+      "it": "cambiare",
+      "pos": "v",
+      "note": "j'ai changé les draps"
+    },
+    {
+      "fr": "le coffre",
+      "it": "la cassaforte; il baule",
+      "pos": "n",
+      "note": "coffre en ligne = archivio online"
+    },
+    {
+      "fr": "le collier",
+      "it": "la collana",
+      "pos": "n"
+    },
+    {
+      "fr": "la copie",
+      "it": "la copia",
+      "pos": "n"
+    },
+    {
+      "fr": "la corbeille (à papier)",
+      "it": "il cestino (della carta)",
+      "pos": "n"
+    },
+    {
+      "fr": "la cuisine",
+      "it": "la cucina",
+      "pos": "n"
+    },
+    {
+      "fr": "déposer",
+      "it": "depositare",
+      "pos": "v"
+    },
+    {
+      "fr": "heureusement",
+      "it": "per fortuna, fortunatamente",
+      "pos": "adv"
+    },
+    {
+      "fr": "hier",
+      "it": "ieri",
+      "pos": "adv"
+    },
+    {
+      "fr": "s'inquiéter",
+      "it": "preoccuparsi",
+      "pos": "v",
+      "note": "Ne t'inquiète pas."
+    },
+    {
+      "fr": "la serrure",
+      "it": "la serratura",
+      "pos": "n"
+    },
+    {
+      "fr": "le salon",
+      "it": "il salotto, il soggiorno",
+      "pos": "n"
+    },
+    {
+      "fr": "la vaisselle",
+      "it": "le stoviglie",
+      "pos": "n",
+      "note": "singolare in francese: laver la vaisselle"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Ça y est !",
+      "it": "Ci siamo!",
+      "note": "colloquiale: annuncia qualcosa appena successo o in procinto di succedere"
+    },
+    {
+      "fr": "tout à l'heure",
+      "it": "poco fa",
+      "note": "con il passato prossimo; al futuro vuol dire «a dopo»"
+    },
+    {
+      "fr": "Ne t'inquiète pas.",
+      "it": "Non ti preoccupare.",
+      "note": "forma informale, con tu"
+    },
+    {
+      "fr": "Je vous assure.",
+      "it": "Ve lo assicuro.",
+      "note": "formula di rassicurazione con il vous"
+    },
+    {
+      "fr": "tout ce que",
+      "it": "tutto ciò che",
+      "note": "come «tutto quello che»"
+    },
+    {
+      "fr": "penser à tout",
+      "it": "pensare a tutto",
+      "note": "avere pensato a ogni cosa"
+    },
+    {
+      "fr": "fermer à clé",
+      "it": "chiudere a chiave"
+    },
+    {
+      "fr": "de temps en temps",
+      "it": "di tanto in tanto"
+    }
+  ],
+  "notes_it": [
+    "«Ça y est» si pronuncia tutto d'un fiato, quasi [sayay]: non tradurlo alla lettera («ci è lì»), ma con «ci siamo» o «è fatta».",
+    "Falsi amici: «vider» non significa «vedere» ma «svuotare»; «la cave» è la cantina, mentre la grotta si dice «la grotte». «Le coffre» è la cassaforte o il bagagliaio dell'auto, non il baule.",
+    "«Verrouiller» si pronuncia circa [verooyay]: il gruppo -ouill- suona come una semivocale, come in «oui». Verrou è il chiavistello o il catenaccio, da cui il verbo per chiudere con un chiavistello.",
+    "Per «chiudere a chiave» si usa «fermer à clé», mentre «verrouiller» indica un chiavistello o catenaccio: due sfumature diverse dell'italiano «chiudere»."
+  ],
+  "exercises": [
+    {
+      "id": "L036-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "prompt": "Quale forma è corretta per «Ho ordinato un taxi»?",
+      "options": [
+        "Je suis commandé un taxi.",
+        "J'ai commander un taxi.",
+        "Je commande un taxi hier.",
+        "J'ai commandé un taxi."
+      ],
+      "correct": 3,
+      "explain_it": "Con avoir il participio di commander è commandé, con -é finale; «je suis» indica invece l'ausiliare essere, che qui non serve."
+    },
+    {
+      "id": "L036-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "prompt": "Quale frase significa «Ho chiuso la porta a chiave»?",
+      "options": [
+        "J'ai fermé la porte à clé.",
+        "J'ai ferme la porte à clé.",
+        "Je fermé la porte à clé.",
+        "J'ai fermée la porte à clé."
+      ],
+      "correct": 0,
+      "explain_it": "Con avoir il participio non si accorda con il soggetto, e qui il complemento viene dopo il verbo: resta fermé."
+    },
+    {
+      "id": "L036-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "questions",
+      "prompt": "Quale domanda con inversione corrisponde a «Hai chiuso le finestre?»",
+      "options": [
+        "Tu as-fermé les fenêtres ?",
+        "As-tu fermé les fenêtres ?",
+        "Fermé-tu les fenêtres ?",
+        "As-tu fermées les fenêtres ?"
+      ],
+      "correct": 1,
+      "explain_it": "Con tu l'inversione dà as-tu, con il trattino che unisce ausiliare e pronome; il participio resta fermé."
+    },
+    {
+      "id": "L036-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "tout",
+      "prompt": "Dove si mette l'avverbio «tout» in «Ho chiuso tutto» al passato prossimo?",
+      "options": [
+        "Tra l'ausiliare e il participio",
+        "Dopo il participio, sempre",
+        "All'inizio della frase, sempre",
+        "Prima dell'ausiliare, sempre"
+      ],
+      "correct": 0,
+      "explain_it": "Tout va tra avoir e il participio (ai tout fermé) e resta sempre invariabile."
+    },
+    {
+      "id": "L036-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "relative-pronouns",
+      "prompt": "Completa: «J'ai fait tout ___ tu m'as demandé» (ho fatto tutto ciò che mi hai chiesto).",
+      "options": [
+        "ce qui",
+        "que",
+        "ce que",
+        "ce quoi"
+      ],
+      "correct": 2,
+      "explain_it": "Ce que significa «ciò che» e fa da complemento di demandé; «que» da solo non basta in questa funzione."
+    },
+    {
+      "id": "L036-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "prompt": "Abbiamo chiuso a chiave la porta.",
+      "answers": [
+        "Nous avons fermé la porte à clé."
+      ],
+      "distractors": [
+        "sommes",
+        "fermés"
+      ],
+      "explain_it": "Il passato prossimo è avons più il participio fermé; à clé segue il complemento."
+    },
+    {
+      "id": "L036-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ho pensato a tutto.",
+      "answers": [
+        "J'ai pensé à tout."
+      ],
+      "distractors": [
+        "suis",
+        "pense"
+      ],
+      "explain_it": "Con je l'ausiliare si elide in j'ai; il participio di penser è pensé e si usa la preposizione à."
+    },
+    {
+      "id": "L036-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "questions",
+      "prompt": "Hai svuotato il bidone?",
+      "answers": [
+        "As-tu vidé la poubelle ?",
+        "Est-ce que tu as vidé la poubelle ?"
+      ],
+      "distractors": [
+        "ai",
+        "vider"
+      ],
+      "explain_it": "Entrambe le forme sono corrette: l'inversione con as-tu oppure est-ce que seguito dal passato prossimo."
+    },
+    {
+      "id": "L036-e09",
+      "type": "order",
+      "level": 1,
+      "concept": "adverbs",
+      "prompt": "Ho svuotato il frigorifero poco fa.",
+      "answers": [
+        "J'ai vidé le réfrigérateur tout à l'heure.",
+        "J'ai vidé le frigo tout à l'heure."
+      ],
+      "distractors": [
+        "suis",
+        "vide"
+      ],
+      "explain_it": "Tout à l'heure, con il passato prossimo, indica un'azione appena conclusa e va in fondo alla frase."
+    },
+    {
+      "id": "L036-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "text": "Nous ___ un taxi pour l'aéroport.",
+      "answers": [
+        "avons commandé"
+      ],
+      "hint": "(commander, passato prossimo)",
+      "prompt": "Abbiamo ordinato un taxi per l'aeroporto.",
+      "explain_it": "L'ausiliare alla prima persona plurale è avons, e il participio è commandé."
+    },
+    {
+      "id": "L036-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "text": "J'___ la poubelle hier soir.",
+      "answers": [
+        "ai vidé"
+      ],
+      "hint": "(vider, passato prossimo)",
+      "prompt": "Ieri sera ho svuotato il bidone.",
+      "explain_it": "Con je l'ausiliare è ai (elisione in j') e il participio di vider è vidé."
+    },
+    {
+      "id": "L036-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "adverbs",
+      "text": "J'ai fermé la cave ___.",
+      "answers": [
+        "tout à l'heure"
+      ],
+      "hint": "(passato recente)",
+      "prompt": "Ho chiuso la cantina poco fa.",
+      "explain_it": "Tout à l'heure con il passato prossimo significa poco fa."
+    },
+    {
+      "id": "L036-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "text": "Il ___ les plantes ce matin.",
+      "answers": [
+        "a arrosé"
+      ],
+      "hint": "(arroser, passato prossimo)",
+      "prompt": "Stamattina lui ha annaffiato le piante.",
+      "explain_it": "Alla terza persona singolare l'ausiliare è a; il participio di arroser è arrosé."
+    },
+    {
+      "id": "L036-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "questions",
+      "text": "Est-ce que vous ___ fermé la porte à clé ?",
+      "answers": [
+        "avez"
+      ],
+      "hint": "(avoir, presente)",
+      "prompt": "Avete chiuso la porta a chiave?",
+      "explain_it": "Dopo est-ce que l'ausiliare resta nella forma normale: vous avez."
+    },
+    {
+      "id": "L036-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "negation",
+      "text": "Elle n'___ pas vidé la poubelle.",
+      "answers": [
+        "a"
+      ],
+      "hint": "(avoir, presente)",
+      "prompt": "Lei non ha svuotato il bidone.",
+      "explain_it": "La negazione ne…pas circonda l'ausiliare, non il participio: n'a pas vidé."
+    },
+    {
+      "id": "L036-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "tout",
+      "text": "Ils ont ___ fermé.",
+      "answers": [
+        "tout"
+      ],
+      "prompt": "Hanno chiuso tutto.",
+      "explain_it": "Tout (pronome, «tutto») si mette tra l'ausiliare e il participio: ils ont tout fermé."
+    },
+    {
+      "id": "L036-e17",
+      "type": "cloze",
+      "level": 2,
+      "concept": "questions",
+      "text": "Est-ce que tu ___ vérifié la boîte à lettres ?",
+      "answers": [
+        "as"
+      ],
+      "hint": "(avoir, presente)",
+      "prompt": "Hai controllato la cassetta delle lettere?",
+      "explain_it": "Con tu l'ausiliare è as, quindi tu as vérifié."
+    },
+    {
+      "id": "L036-e18",
+      "type": "cloze",
+      "level": 3,
+      "concept": "relative-pronouns",
+      "text": "Tu manges ___ tu aimes à midi ?",
+      "answers": [
+        "ce que"
+      ],
+      "hint": "(pronome relativo)",
+      "prompt": "Mangi ciò che ti piace a mezzogiorno?",
+      "explain_it": "Ce que significa ciò che e collega la frase relativa tu aimes al verbo principale."
+    },
+    {
+      "id": "L036-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ho pulito la cucina.",
+      "answers": [
+        "J'ai nettoyé la cuisine."
+      ],
+      "explain_it": "Il participio di nettoyer è nettoyé: j'ai nettoyé."
+    },
+    {
+      "id": "L036-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Abbiamo cambiato le lenzuola.",
+      "answers": [
+        "Nous avons changé les draps.",
+        "On a changé les draps."
+      ],
+      "explain_it": "Changer diventa changé; con on il passato prossimo è on a, più colloquiale."
+    },
+    {
+      "id": "L036-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ho annaffiato le piante.",
+      "answers": [
+        "J'ai arrosé les plantes."
+      ],
+      "explain_it": "Arroser fa al participio arrosé; le piante sono il complemento che segue il verbo."
+    },
+    {
+      "id": "L036-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "negation",
+      "prompt": "Io non ho pulito il forno.",
+      "answers": [
+        "Je n'ai pas nettoyé le four."
+      ],
+      "explain_it": "La negazione ne…pas circonda l'ausiliare (je n'ai pas), e il participio resta nettoyé."
+    },
+    {
+      "id": "L036-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Lei ha dimenticato le chiavi.",
+      "answers": [
+        "Elle a oublié [ses|les] [clés|clefs]."
+      ],
+      "explain_it": "Oublier fa oublié; ses concorda con il nome plurale clés, e clefs è la grafia alternativa."
+    },
+    {
+      "id": "L036-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "questions",
+      "prompt": "Avete chiuso la cantina?",
+      "answers": [
+        "Avez-vous fermé la cave ?",
+        "[Est-ce que|] vous avez fermé la cave ?"
+      ],
+      "explain_it": "Con vous si usa l'inversione avez-vous oppure est-ce que seguito dal passato prossimo."
+    },
+    {
+      "id": "L036-e25",
+      "type": "write",
+      "level": 3,
+      "concept": "questions",
+      "prompt": "Hai chiuso a chiave tutte le finestre?",
+      "answers": [
+        "As-tu fermé à clé toutes les fenêtres ?",
+        "Est-ce que tu as fermé à clé toutes les fenêtres ?",
+        "Tu as fermé à clé toutes les fenêtres ?",
+        "As-tu fermé toutes les fenêtres à clé ?",
+        "Tu as fermé toutes les fenêtres à clé ?",
+        "Est-ce que tu as fermé toutes les fenêtres à clé ?",
+        "[Avez-vous|Est-ce que vous] fermé à clé toutes les fenêtres ?",
+        "Avez-vous fermé toutes les fenêtres à clé ?"
+      ],
+      "explain_it": "Si può usare l'inversione o est-ce que; à clé può seguire il verbo oppure il complemento."
+    },
+    {
+      "id": "L036-e26",
+      "type": "write",
+      "level": 3,
+      "concept": "tout",
+      "prompt": "Abbiamo controllato tutto, anche la soffitta.",
+      "answers": [
+        "[Nous avons|On a] tout [vérifié|contrôlé], [même|y compris] le grenier."
+      ],
+      "explain_it": "Tout va tra avons e vérifié; même e y compris rendono l'italiano «anche»."
+    },
+    {
+      "id": "L036-e27",
+      "type": "write",
+      "level": 3,
+      "concept": "relative-pronouns",
+      "prompt": "Ho svuotato tutto ciò che c'è nel frigo.",
+      "answers": [
+        "J'ai vidé tout ce qu'il y a dans le frigo.",
+        "J'ai vidé tout ce qu'il y a dans le réfrigérateur."
+      ],
+      "explain_it": "Ce que è l'oggetto di il y a (c'è), e tout precede ce que con il valore di tutto."
+    },
+    {
+      "id": "L036-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "questions",
+      "prompt": "Non hai chiuso la finestra?",
+      "answers": [
+        "Tu n'as pas fermé la fenêtre ?",
+        "N'as-tu pas fermé la fenêtre ?",
+        "Est-ce que tu n'as pas fermé la fenêtre ?",
+        "Vous n'avez pas fermé la fenêtre ?",
+        "N'avez-vous pas fermé la fenêtre ?",
+        "Est-ce que vous n'avez pas fermé la fenêtre ?"
+      ],
+      "explain_it": "La negazione ne…pas circonda l'ausiliare anche nella domanda, sia con intonazione sia con inversione."
+    },
+    {
+      "id": "L036-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ho pensato a tutto, quindi non ho dimenticato le chiavi.",
+      "answers": [
+        "J'ai pensé à tout, donc je n'ai pas oublié les clés.",
+        "J'ai pensé à tout, alors je n'ai pas oublié les clés."
+      ],
+      "explain_it": "Penser à tout significa pensare a tutto; la negazione circonda l'ausiliare avoir."
+    },
+    {
+      "id": "L036-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "questions",
+      "prompt": "Hai svuotato il bidone e chiuso la cantina?",
+      "answers": [
+        "As-tu vidé la poubelle et fermé la cave ?",
+        "Est-ce que tu as vidé la poubelle et fermé la cave ?",
+        "Tu as vidé la poubelle et fermé la cave ?",
+        "Avez-vous vidé la poubelle et fermé la cave ?",
+        "Vous avez vidé la poubelle et fermé la cave ?"
+      ],
+      "explain_it": "Nei due participi coordinati il secondo non ripete l'ausiliare: et fermé."
+    },
+    {
+      "id": "L036-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "tout",
+      "prompt": "Non abbiamo dimenticato niente: abbiamo fatto tutto.",
+      "answers": [
+        "[Nous n'avons|On n'a] rien oublié[ :|,] [nous avons|on a] tout fait.",
+        "Nous n'avons rien oublié, nous avons tout fait."
+      ],
+      "explain_it": "Rien va dopo l'ausiliare nella negazione (n'avons rien oublié); tout va tra l'ausiliare e il participio fait."
+    },
+    {
+      "id": "L036-e32",
+      "type": "dictation",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Ça y est, j'ai fini.",
+      "explain_it": "Ça y est è un'espressione colloquiale pronunciata quasi d'un fiato."
+    },
+    {
+      "id": "L036-e33",
+      "type": "dictation",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "text": "Nous avons vérifié les volets.",
+      "explain_it": "Il participio vérifié porta l'accento acuto sulla e finale."
+    },
+    {
+      "id": "L036-e34",
+      "type": "dictation",
+      "level": 3,
+      "concept": "questions",
+      "text": "Est-ce que vous avez pensé aux passeports et aux billets d'avion ?",
+      "explain_it": "Dopo est-ce que il passato prossimo è avez pensé; aux è la contrazione di à + les."
+    },
+    {
+      "id": "L036-e35",
+      "type": "flash",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "front": "Come si forma il passato prossimo con avoir?",
+      "back": "Presente di avoir + participio passato. Verbi in -er: participio in -é (fermer → fermé, vérifier → vérifié). Esempio: j'ai fermé.",
+      "note": "Il participio non si accorda con il soggetto."
+    },
+    {
+      "id": "L036-e36",
+      "type": "flash",
+      "level": 2,
+      "concept": "questions",
+      "front": "Tre modi per fare una domanda al passato prossimo",
+      "back": "1) intonazione: Tu as fermé ? 2) inversione: As-tu fermé ? / A-t-il fermé ? 3) est-ce que: Est-ce que tu as fermé ?",
+      "note": "L'inversione con il/elle richiede la -t- di collegamento."
+    },
+    {
+      "id": "L036-e37",
+      "type": "flash",
+      "level": 3,
+      "concept": "tout",
+      "front": "Dove va «tout» con il passato prossimo?",
+      "back": "Tra l'ausiliare e il participio, invariabile: il a tout fermé, elles ont tout vidé.",
+      "note": "Non si accorda: non «toute» né «tous»."
+    },
+    {
+      "id": "L036-e38",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ieri ho cambiato le lenzuola.",
+      "answers": [
+        "[Hier, j'ai|J'ai] changé les draps[| hier]."
+      ],
+      "explain_it": "Hier = ieri; il passé composé di changer si forma con avoir."
+    },
+    {
+      "id": "L036-e39",
+      "type": "write",
+      "level": 2,
+      "concept": "adverbs",
+      "prompt": "Per fortuna ho lavato tutte le stoviglie.",
+      "answers": [
+        "Heureusement, j'ai lavé toute la vaisselle.",
+        "Heureusement, j'ai tout lavé."
+      ],
+      "explain_it": "Heureusement è un avverbio in -ment, di solito in apertura di frase."
+    }
+  ]
+}

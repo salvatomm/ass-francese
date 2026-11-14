@@ -1,0 +1,794 @@
+{
+  "n": 71,
+  "title_fr": "La Dame de fer",
+  "title_it": "La Dama di ferro",
+  "review": false,
+  "status": "verified",
+  "source": "a1be3e47 p30-37",
+  "theme_it": "Un visitatore ascolta la nuova audioguida sulla Torre Eiffel. La voce racconta la storia del monumento: costruito per l'Esposizione universale del 1889, criticato da artisti e scrittori, risparmiato dalla demolizione perché utile alla meteorologia e alle telecomunicazioni, perfino «venduto» come rottame da un truffatore. Oggi attira milioni di visitatori ogni anno.",
+  "grammar": [
+    {
+      "id": "passive",
+      "title_it": "Il passivo con être e l'alternativa con on",
+      "explain_it": "Il passivo francese si forma con essere (être) al tempo voluto più il participio passato, che concorda con il soggetto come un aggettivo: la tour est construite (femminile singolare), le monument est visité (maschile singolare). Il complemento d'agente si introduce con par, come in italiano. Spesso il francese evita il passivo e usa on con il verbo attivo: «On l'appelle la Dame de fer» vuol dire «È chiamata la Dama di ferro», con il pronome l' davanti al verbo. È una scelta molto comune nel parlato.",
+      "examples": [
+        {
+          "fr": "La tour est construite en deux ans.",
+          "it": "La torre è costruita in due anni."
+        },
+        {
+          "fr": "On l'appelle la Dame de fer.",
+          "it": "La chiamano la Dama di ferro."
+        }
+      ]
+    },
+    {
+      "id": "present-historique",
+      "title_it": "Il presente storico: raccontare il passato al presente",
+      "explain_it": "Il francese usa spesso il presente per raccontare fatti del passato, soprattutto nelle narrazioni storiche e nelle guide: si chiama présent historique. Rende il racconto più vivo. In italiano useresti il passato remoto o il passato prossimo, mentre in francese il presente è molto naturale quando si raccontano le tappe di una storia.",
+      "examples": [
+        {
+          "fr": "Eiffel construit son monument en deux ans.",
+          "it": "Eiffel costruì il suo monumento in due anni."
+        },
+        {
+          "fr": "En 1889, la tour devient le symbole de Paris.",
+          "it": "Nel 1889 la torre diventa il simbolo di Parigi."
+        }
+      ]
+    },
+    {
+      "id": "adverbs",
+      "title_it": "Gli avverbi in -ment e à peu près",
+      "explain_it": "Molti avverbi in -ment si formano dal femminile dell'aggettivo: vif (femminile vive) dà vivement, lent (lente) dà lentement. Vivement significa «vivamente, caldamente»: il est vivement recommandé = «è caldamente consigliato». Alcuni sono irregolari: vrai dà vraiment. Per le approssimazioni si usa à peu près, «circa, più o meno», anche con l'ora: il est à peu près huit heures. È un'alternativa a environ.",
+      "examples": [
+        {
+          "fr": "Il est vivement recommandé de réserver.",
+          "it": "È caldamente consigliato prenotare."
+        },
+        {
+          "fr": "Il y a à peu près cinquante personnes.",
+          "it": "Ci sono circa cinquanta persone."
+        }
+      ]
+    },
+    {
+      "id": "adjectives-irregular",
+      "title_it": "Aggettivi irregolari: fier/fière, vif/vive",
+      "explain_it": "Fier (fiero) fa al femminile fière, con l'accento grave; vif (vivace) fa vive. Fier e fière si pronunciano allo stesso modo [fjɛʁ], quindi la differenza si sente solo dal contesto (genere del soggetto), non dal suono. Attenzione al verbo se fier à (fidarsi di), che ha un'altra pronuncia [fje].",
+      "examples": [
+        {
+          "fr": "Elle est très fière de ses origines.",
+          "it": "È molto fiera delle sue origini."
+        },
+        {
+          "fr": "Son caractère est vif.",
+          "it": "Il suo carattere è vivace."
+        }
+      ]
+    },
+    {
+      "id": "gender",
+      "title_it": "Affaire: un affare, un caso, gli affari",
+      "explain_it": "Il sostantivo affaire è femminile e cambia senso con il numero. Al singolare può essere un affare vantaggioso (faire une bonne affaire) oppure un caso, una faccenda (l'affaire Dreyfus). Al plurale, les affaires indica il mondo degli affari e del commercio (ma anche «le cose, gli effetti personali»). Attenzione al genere: l'italiano «affare» è maschile, il francese une affaire è femminile.",
+      "examples": [
+        {
+          "fr": "Nous avons fait une bonne affaire.",
+          "it": "Abbiamo fatto un buon affare."
+        },
+        {
+          "fr": "Mon père est dans les affaires.",
+          "it": "Mio padre lavora nel commercio."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "l'audioguide (m.)",
+      "it": "l'audioguida",
+      "pos": "n"
+    },
+    {
+      "fr": "le commentaire",
+      "it": "il commento",
+      "pos": "n"
+    },
+    {
+      "fr": "le monument",
+      "it": "il monumento",
+      "pos": "n"
+    },
+    {
+      "fr": "emblématique",
+      "it": "emblematico",
+      "pos": "adj"
+    },
+    {
+      "fr": "construire",
+      "it": "costruire",
+      "pos": "v",
+      "note": "est construite"
+    },
+    {
+      "fr": "le siècle",
+      "it": "il secolo",
+      "pos": "n"
+    },
+    {
+      "fr": "visiter",
+      "it": "visitare",
+      "pos": "v",
+      "note": "est visitée"
+    },
+    {
+      "fr": "le visiteur",
+      "it": "il visitatore",
+      "pos": "n"
+    },
+    {
+      "fr": "affectueusement",
+      "it": "affettuosamente",
+      "pos": "adv"
+    },
+    {
+      "fr": "vrai",
+      "it": "vero",
+      "pos": "adj",
+      "note": "vraie (f.)"
+    },
+    {
+      "fr": "concevoir",
+      "it": "concepire, ideare",
+      "pos": "v",
+      "note": "conçue"
+    },
+    {
+      "fr": "l'ingénieur (m.)",
+      "it": "l'ingegnere",
+      "pos": "n"
+    },
+    {
+      "fr": "baptiser",
+      "it": "battezzare, chiamare",
+      "pos": "v",
+      "note": "baptisée"
+    },
+    {
+      "fr": "durer",
+      "it": "durare",
+      "pos": "v"
+    },
+    {
+      "fr": "décider",
+      "it": "decidere",
+      "pos": "v",
+      "note": "décide"
+    },
+    {
+      "fr": "la météorologie",
+      "it": "la meteorologia",
+      "pos": "n"
+    },
+    {
+      "fr": "démolir",
+      "it": "demolire",
+      "pos": "v"
+    },
+    {
+      "fr": "élevé",
+      "it": "alto, elevato",
+      "pos": "adj",
+      "note": "le plus élevé"
+    },
+    {
+      "fr": "apprécier",
+      "it": "apprezzare",
+      "pos": "v",
+      "note": "appréciée"
+    },
+    {
+      "fr": "laid",
+      "it": "brutto",
+      "pos": "adj",
+      "note": "laide (f.)"
+    },
+    {
+      "fr": "critiquer",
+      "it": "criticare",
+      "pos": "v",
+      "note": "critiquée"
+    },
+    {
+      "fr": "l'écrivain (m.)",
+      "it": "lo scrittore",
+      "pos": "n"
+    },
+    {
+      "fr": "vendre",
+      "it": "vendere",
+      "pos": "v",
+      "note": "vendue"
+    },
+    {
+      "fr": "l'escroc (m.)",
+      "it": "il truffatore",
+      "pos": "n"
+    },
+    {
+      "fr": "naïf",
+      "it": "ingenuo, credulone",
+      "pos": "adj",
+      "note": "naïve (f.)"
+    },
+    {
+      "fr": "la ferraille",
+      "it": "il ferro vecchio, il rottame",
+      "pos": "n"
+    },
+    {
+      "fr": "convoiter",
+      "it": "bramare, ambire a",
+      "pos": "v",
+      "note": "convoitée"
+    },
+    {
+      "fr": "fier",
+      "it": "fiero",
+      "pos": "adj",
+      "note": "fière (f.)"
+    },
+    {
+      "fr": "l'affaire (f.)",
+      "it": "l'affare, la faccenda",
+      "pos": "n"
+    },
+    {
+      "fr": "la tour",
+      "it": "la torre",
+      "pos": "n"
+    },
+    {
+      "fr": "le bâtiment",
+      "it": "l'edificio",
+      "pos": "n"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "bon an, mal an",
+      "it": "anno dopo anno, in media",
+      "note": "per indicare una media annuale; registro neutro"
+    },
+    {
+      "fr": "Rira bien qui rira le dernier",
+      "it": "Chi ride ultimo ride meglio",
+      "note": "proverbio; qui = «colui che», soggetto della frase"
+    },
+    {
+      "fr": "faire une bonne affaire",
+      "it": "fare un buon affare",
+      "note": "parlato e scritto comune"
+    },
+    {
+      "fr": "rendre hommage à",
+      "it": "rendere omaggio a",
+      "note": "tipico di discorsi e articoli"
+    },
+    {
+      "fr": "il est vivement recommandé de",
+      "it": "è caldamente consigliato di",
+      "note": "frase tipica di guide e avvisi"
+    },
+    {
+      "fr": "ce n'est pas donné d'avance",
+      "it": "non è scontato",
+      "note": "letteralmente «non è dato in anticipo»; si dice di un risultato incerto"
+    },
+    {
+      "fr": "il n'y a pas de quoi être fier",
+      "it": "non c'è da andarne fieri",
+      "note": "spesso con tono di modestia o ironia"
+    },
+    {
+      "fr": "à peu près",
+      "it": "circa, più o meno",
+      "note": "usatissimo per numeri e orari"
+    },
+    {
+      "fr": "plus récemment",
+      "it": "più di recente",
+      "note": "per collegare eventi nel tempo"
+    }
+  ],
+  "notes_it": [
+    "«Dame de fer» (Dama di ferro) è il soprannome affettuoso della Tour Eiffel: il monumento, all'inizio molto criticato da artisti e scrittori, è diventato il simbolo della Francia.",
+    "Attenzione: affaire non è sempre «affare»: può indicare un caso o una faccenda (l'affaire Dreyfus). Naïf in francese è anche un aggettivo di uso comune: significa ingenuo, credulone.",
+    "Pronuncia: fier e fière hanno la stessa pronuncia [fjɛʁ]; la differenza si vede solo nella scrittura. Il plurale maschile è fiers.",
+    "Gli anni si leggono per centinaia: 1889 si dice mil huit cent quatre-vingt-neuf. Per le date si usa tradizionalmente mil, ma oggi anche mille è accettato.",
+    "Il dialogo racconta la storia della torre in modo divulgativo: i dettagli (ideatori, aneddoti sulla vendita come rottame) sono narrati in stile da audioguida, da prendere come racconto e non come fonte storica."
+  ],
+  "exercises": [
+    {
+      "id": "L071-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "passive",
+      "prompt": "Quale frase significa «La Torre Eiffel è costruita nel 1889»?",
+      "options": [
+        "La tour Eiffel est construite en 1889.",
+        "La tour Eiffel construit en 1889.",
+        "La tour Eiffel est construit en 1889.",
+        "La tour Eiffel a construit en 1889."
+      ],
+      "correct": 0,
+      "explain_it": "Il passivo è essere + participio passato, che concorda con il soggetto femminile: construite."
+    },
+    {
+      "id": "L071-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "passive",
+      "prompt": "Quale frase significa «La chiamano la Dama di ferro»?",
+      "options": [
+        "On l'appelle la Dame de fer.",
+        "On la appelle la Dame de fer.",
+        "Elle est appelle la Dame de fer.",
+        "On lui appelle la Dame de fer."
+      ],
+      "correct": 0,
+      "explain_it": "Con on il pronome oggetto diretto l' precede il verbo ed è elisa davanti ad appelle."
+    },
+    {
+      "id": "L071-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "adverbs",
+      "prompt": "Quale avverbio significa «caldamente» in «è caldamente consigliato»?",
+      "options": [
+        "vivement",
+        "vivant",
+        "vive",
+        "vivacement"
+      ],
+      "correct": 0,
+      "explain_it": "Vivement deriva da vif (femminile vive) + -ment; vivant è un aggettivo e vivacement significa «con vivacità», non «caldamente»."
+    },
+    {
+      "id": "L071-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "adjectives-irregular",
+      "prompt": "Come si dice «lui è molto fiero di suo figlio»?",
+      "options": [
+        "Il est très fier de son fils.",
+        "Il est très fiere de son fils.",
+        "Il est très fiert de son fils.",
+        "Il est très fierté de son fils."
+      ],
+      "correct": 0,
+      "explain_it": "Fier è la forma maschile; la femminile è fière, con l'accento grave, e non si scrive fiere."
+    },
+    {
+      "id": "L071-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "gender",
+      "prompt": "Quale frase traduce «Hai fatto un buon affare!»?",
+      "options": [
+        "Tu as fait une bonne affaire !",
+        "Tu as fait un bon affaire !",
+        "Tu as fait une bon affaire !",
+        "Tu as eu un bonne affaire !"
+      ],
+      "correct": 0,
+      "explain_it": "Affaire è femminile: si dice une affaire, e l'aggettivo bonne concorda con il femminile."
+    },
+    {
+      "id": "L071-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "passive",
+      "prompt": "La torre è costruita in due anni.",
+      "answers": [
+        "La tour est construite en deux ans."
+      ],
+      "distractors": [
+        "construit",
+        "ont"
+      ],
+      "explain_it": "Il participio costruite prende la -e finale perché il soggetto tour è femminile."
+    },
+    {
+      "id": "L071-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "pronoun-cod",
+      "prompt": "Lo chiamano Toto.",
+      "answers": [
+        "On l'appelle Toto.",
+        "Tout le monde l'appelle Toto."
+      ],
+      "distractors": [
+        "la",
+        "appellent"
+      ],
+      "explain_it": "Con on il verbo è al singolare e il pronome l' sta davanti al verbo, con elisione."
+    },
+    {
+      "id": "L071-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "adverbs",
+      "prompt": "Ci sono circa cinquanta persone.",
+      "answers": [
+        "Il y a à peu près cinquante personnes."
+      ],
+      "distractors": [
+        "beaucoup",
+        "très"
+      ],
+      "explain_it": "À peu près significa circa e si mette prima del numero, senza preposizione aggiuntiva."
+    },
+    {
+      "id": "L071-e09",
+      "type": "order",
+      "level": 1,
+      "concept": "adverbs",
+      "prompt": "È caldamente consigliato prenotare.",
+      "answers": [
+        "Il est vivement [recommandé|conseillé] de réserver."
+      ],
+      "distractors": [
+        "vivant",
+        "réservé"
+      ],
+      "explain_it": "La frase impersonale è + avverbio + participio + de + infinito, come in italiano."
+    },
+    {
+      "id": "L071-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "passive",
+      "text": "Le monument ___ visité par des millions de touristes.",
+      "answers": [
+        "est"
+      ],
+      "hint": "(être, presente)",
+      "prompt": "Il monumento è visitato da milioni di turisti.",
+      "explain_it": "Il passivo al presente si forma con il presente di être seguito dal participio."
+    },
+    {
+      "id": "L071-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "adverbs",
+      "text": "Ce restaurant coûte ___ vingt euros.",
+      "answers": [
+        "à peu près",
+        "environ"
+      ],
+      "hint": "(locuzione: circa)",
+      "prompt": "Questo ristorante costa circa venti euro.",
+      "explain_it": "À peu près è una locuzione fissa che significa circa, più o meno."
+    },
+    {
+      "id": "L071-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "adjectives-irregular",
+      "text": "Elle est très ___ de sa fille.",
+      "answers": [
+        "fière"
+      ],
+      "hint": "(fier, femminile)",
+      "prompt": "Lei è molto fiera di sua figlia.",
+      "explain_it": "Il femminile di fier è fière, con accento grave sulla e."
+    },
+    {
+      "id": "L071-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "gender",
+      "text": "Il travaille dans les ___.",
+      "answers": [
+        "affaires"
+      ],
+      "hint": "(plurale: il mondo degli affari)",
+      "prompt": "Lavora nel mondo degli affari.",
+      "explain_it": "Al plurale affaires indica il commercio e il mondo degli affari, non un singolo affare."
+    },
+    {
+      "id": "L071-e14",
+      "type": "cloze",
+      "level": 1,
+      "concept": "passive",
+      "text": "Cette tour ___ appelée la Dame de fer.",
+      "answers": [
+        "est"
+      ],
+      "hint": "(être, presente)",
+      "prompt": "Questa torre è chiamata la Dama di ferro.",
+      "explain_it": "Con essere al presente e il participio appelée, concordato con tour, si forma il passivo."
+    },
+    {
+      "id": "L071-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "passive",
+      "prompt": "Gustave Eiffel construit la tour.",
+      "ask": "Volgi alla forma passiva",
+      "answers": [
+        "La tour est construite par Gustave Eiffel.",
+        "Elle est construite par Gustave Eiffel."
+      ],
+      "explain_it": "Il soggetto diventa il complemento d'agente introdotto da par, e l'oggetto diventa il soggetto del passivo."
+    },
+    {
+      "id": "L071-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "passive",
+      "prompt": "La tour est appelée la Dame de fer.",
+      "ask": "Riscrivi usando on",
+      "answers": [
+        "On appelle la tour la Dame de fer.",
+        "On l'appelle la Dame de fer."
+      ],
+      "explain_it": "Con on il passivo si evita: il verbo diventa attivo e il pronome l' sostituisce la tour."
+    },
+    {
+      "id": "L071-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "passive",
+      "prompt": "Dì in francese: «La torre è fatta di ferro.»",
+      "answers": [
+        "La tour est faite [en|de] fer.",
+        "La tour est construite en fer.",
+        "La tour est en fer."
+      ],
+      "explain_it": "Per il materiale si usa en o de con il ferro; il participio concorda con tour."
+    },
+    {
+      "id": "L071-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "adjectives-irregular",
+      "prompt": "Dì in francese: «Lei è fiera del suo lavoro.»",
+      "answers": [
+        "Elle est fière de son travail.",
+        "Elle est fière de son travail"
+      ],
+      "explain_it": "Il femminile di fier è fière; de son travail indica «del suo lavoro»."
+    },
+    {
+      "id": "L071-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "adverbs",
+      "prompt": "Dì in francese: «Sono circa le otto.»",
+      "answers": [
+        "Il est [à peu près|environ] huit heures.",
+        "Il est huit heures [environ|à peu près]."
+      ],
+      "explain_it": "Per l'ora si usa il est seguito da à peu près o environ; l'ora resta senza articolo."
+    },
+    {
+      "id": "L071-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "adverbs",
+      "prompt": "Dì in francese: «Ci sono circa sette milioni di visitatori all'anno.»",
+      "answers": [
+        "Il y a [à peu près|environ] sept millions de visiteurs [par an|chaque année].",
+        "Il y a à peu près sept millions de visiteurs, bon an, mal an."
+      ],
+      "explain_it": "Par an e bon an, mal an esprimono la media annuale; la scelta dipende dal registro."
+    },
+    {
+      "id": "L071-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "Dì in francese: «Abbiamo fatto un buon affare: abbiamo venduto la casa.»",
+      "answers": [
+        "Nous avons fait une bonne affaire : nous avons vendu [notre|la] maison.",
+        "Nous avons fait une bonne affaire en vendant [notre|la] maison."
+      ],
+      "explain_it": "Affaire è femminile e bonne concorda con esso; la casa diventa notre maison."
+    },
+    {
+      "id": "L071-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "Dì in francese: «Mia madre fa molti affari.»",
+      "answers": [
+        "Ma mère fait beaucoup d'affaires."
+      ],
+      "explain_it": "Al plurale affaires indica il commercio: fare molti affari si dice faire beaucoup d'affaires (o faire de bonnes affaires)."
+    },
+    {
+      "id": "L071-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-cod",
+      "prompt": "Dì in francese: «Tutti la chiamano la Dama di ferro.»",
+      "answers": [
+        "Tout le monde l'appelle la Dame de fer.",
+        "Tout le monde l'appelle la Dame de fer"
+      ],
+      "explain_it": "Con tout le monde (singolare) il verbo va al singolare, e il pronome l' sostituisce la torre."
+    },
+    {
+      "id": "L071-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "numbers",
+      "prompt": "1889",
+      "ask": "Scrivi l'anno in lettere, in francese",
+      "answers": [
+        "mil huit cent quatre-vingt-neuf",
+        "mille huit cent quatre-vingt-neuf",
+        "dix-huit cent quatre-vingt-neuf"
+      ],
+      "explain_it": "Gli anni si leggono a centinaia; per le date si usa tradizionalmente mil (anche mille è accettato)."
+    },
+    {
+      "id": "L071-e25",
+      "type": "write",
+      "level": 3,
+      "concept": "adjectives-irregular",
+      "prompt": "Dì in francese: «Il suo carattere è vivace e lei è molto fiera.»",
+      "answers": [
+        "Son caractère est vif et elle est très fière.",
+        "Son caractère est vif et elle est très fière"
+      ],
+      "explain_it": "Vif è la forma maschile (concorda con caractère); fière è la forma femminile e concorda con elle."
+    },
+    {
+      "id": "L071-e26",
+      "type": "write",
+      "level": 3,
+      "concept": "adverbs",
+      "prompt": "Dì in francese: «Il ristorante è caldamente consigliato, ma è sempre pieno.»",
+      "answers": [
+        "[Ce|Le] restaurant est vivement recommandé, mais il est toujours [plein|complet]."
+      ],
+      "explain_it": "Vivement modifica l'aggettivo recommandé; toujours indica «sempre»."
+    },
+    {
+      "id": "L071-e27",
+      "type": "write",
+      "level": 3,
+      "concept": "depuis-il-y-a",
+      "prompt": "Dì in francese: «Da quando è aperta, la torre ha ricevuto milioni di visitatori.»",
+      "answers": [
+        "Depuis qu'elle est ouverte, la tour a reçu des millions de visiteurs.",
+        "Depuis son ouverture, la tour a reçu des millions de visiteurs."
+      ],
+      "explain_it": "Depuis que seguito dal presente indica un'azione iniziata nel passato e ancora valida."
+    },
+    {
+      "id": "L071-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Dì in francese il proverbio: «Chi ride ultimo ride meglio.»",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Rira bien qui rira le dernier.",
+        "Rira bien qui rira le dernier"
+      ],
+      "explain_it": "Il proverbio inverte l'ordine della frase: qui è il soggetto implicito che apre la frase."
+    },
+    {
+      "id": "L071-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "passive",
+      "prompt": "Les touristes admirent la tour.",
+      "ask": "Volgi alla forma passiva",
+      "answers": [
+        "La tour est admirée par les touristes.",
+        "Elle est admirée par les touristes."
+      ],
+      "explain_it": "Il participio admirée concorda con il soggetto femminile tour, che dopo la trasformazione resta soggetto."
+    },
+    {
+      "id": "L071-e30",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-cod",
+      "prompt": "Beaucoup de gens trouvent la tour laide.",
+      "ask": "Sostituisci «la tour» con il pronome",
+      "answers": [
+        "Beaucoup de gens la trouvent laide.",
+        "Beaucoup de gens la trouvent laide"
+      ],
+      "explain_it": "Il pronome la sostituisce la tour e va davanti al verbo trouvent."
+    },
+    {
+      "id": "L071-e31",
+      "type": "dictation",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Cet audioguide est très utile pour visiter la tour.",
+      "explain_it": "Audioguide è maschile: si dice cet audioguide (ce davanti a vocale diventa cet)."
+    },
+    {
+      "id": "L071-e32",
+      "type": "dictation",
+      "level": 3,
+      "concept": "passive",
+      "text": "Le monument est visité par des millions de touristes, bon an, mal an.",
+      "explain_it": "Il passivo con par indica chi compie l'azione; bon an, mal an indica la media annuale."
+    },
+    {
+      "id": "L071-e33",
+      "type": "dictation",
+      "level": 2,
+      "concept": "pronoun-cod",
+      "text": "Beaucoup de gens la trouvent laide, et elle est vivement critiquée.",
+      "explain_it": "Il pronome la rinvia alla torre, e la sequenza elle est vivement critiquée è un passivo con avverbio."
+    },
+    {
+      "id": "L071-e34",
+      "type": "flash",
+      "level": 2,
+      "concept": "passive",
+      "front": "Come si costruisce il passivo in francese?",
+      "back": "être al tempo voluto + participio passato, che concorda con il soggetto: «la tour est construite». Il complemento d'agente va con par.",
+      "note": "Con on si evita il passivo: «On l'appelle la Dame de fer»."
+    },
+    {
+      "id": "L071-e35",
+      "type": "flash",
+      "level": 2,
+      "concept": "adverbs",
+      "front": "Come si forma un avverbio in -ment da un aggettivo?",
+      "back": "Dal femminile dell'aggettivo + -ment: vif → vive → vivement; lent → lente → lentement; heureux → heureuse → heureusement. Alcuni sono irregolari: vrai → vraiment.",
+      "note": "Il femminile è la base: vif ha vive, quindi vivement."
+    },
+    {
+      "id": "L071-e36",
+      "type": "flash",
+      "level": 2,
+      "concept": "adjectives-irregular",
+      "front": "Come cambia fier al femminile, e come si pronuncia?",
+      "back": "fier (m.) → fière (f.), con accento grave; la pronuncia è [fjɛʁ] in entrambi i casi.",
+      "note": "Non confondere con il verbo se fier à (fidarsi di), pronunciato [fje]."
+    },
+    {
+      "id": "L071-e37",
+      "type": "flash",
+      "level": 2,
+      "concept": "gender",
+      "front": "Che differenza c'è tra «une affaire» e «les affaires»?",
+      "back": "une affaire = un affare, una faccenda, un caso; les affaires = il mondo degli affari e del commercio.",
+      "note": "Il genere e il numero cambiano il significato; attenzione al falso amico con affare."
+    },
+    {
+      "id": "L071-e38",
+      "type": "dictation",
+      "level": 3,
+      "concept": "adverbs",
+      "text": "Il est vivement conseillé de réserver, car cet hôtel est souvent plein.",
+      "explain_it": "Vivement rafforza il consiglio, e souvent indica «spesso» prima dell'aggettivo plein."
+    },
+    {
+      "id": "L071-e39",
+      "type": "cloze",
+      "level": 3,
+      "concept": "passe-compose-avoir",
+      "text": "Cet escroc ___ la tour à un homme naïf.",
+      "answers": [
+        "a vendu"
+      ],
+      "hint": "(vendre, passato prossimo)",
+      "prompt": "Quel truffatore ha venduto la torre a un uomo ingenuo.",
+      "explain_it": "Con avoir il passato prossimo si forma con a + participio vendu (da vendre)."
+    }
+  ]
+}

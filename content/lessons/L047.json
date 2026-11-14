@@ -1,0 +1,895 @@
+{
+  "n": 47,
+  "title_fr": "Un déménagement",
+  "title_it": "Un trasloco",
+  "review": false,
+  "status": "verified",
+  "source": "1db59936 p50-57 (libro pp. 231-238; la lezione inizia a meta pagina 231, dopo la fine della lezione 46; l'ultima pagina con l'argot e le chiavi e p. 238; la lezione 48 inizia a p. 239, pdf 58)",
+  "theme_it": "Un ragazzo chiede a un amico di aiutarlo a traslocare nel fine settimana successivo, e l'amico promette di coinvolgere altri due amici. Il cognato di chi chiede ha un'impresa di traslochi e accetta di fare un prezzo molto più basso di quello normale. Si organizza il carico del camion: mobili pesanti e ingombranti nel furgone grande, il resto nella camionnette, e alla fine si augura buon coraggio a tutti, perché la giornata sarà lunga.",
+  "grammar": [
+    {
+      "id": "comparatives",
+      "title_it": "Plus ... plus: più ... più",
+      "explain_it": "La costruzione 'più ... più' si fa con plus seguito da un aggettivo, un avverbio o un verbo, poi una virgola e di nuovo plus con il soggetto e il verbo. Il soggetto spesso è il pronome impersonale on, che vale 'si' oppure 'noi' nel parlato. Quando on vale 'noi', l'aggettivo che lo segue va al plurale: plus on est nombreux significa 'più siamo'. In italiano la struttura è identica (più ... più), quindi è facile da riconoscere.",
+      "examples": [
+        {
+          "fr": "Plus on travaille, plus on gagne.",
+          "it": "Più si lavora, più si guadagna."
+        },
+        {
+          "fr": "Plus il fait chaud, plus on boit.",
+          "it": "Più fa caldo, più si beve."
+        }
+      ]
+    },
+    {
+      "id": "ce-cest-il-est",
+      "title_it": "C'est, ce sont, il est: quando usare cosa",
+      "explain_it": "C'est (al plurale ce sont) si usa per identificare qualcosa o per dare un giudizio generale su una situazione o un gesto: c'est très gentil de ta part, c'est un bon médecin. Il est (elle est, ils sont) si usa per descrivere una persona o una cosa già nominata, seguito da un aggettivo: il est très gentil, ton frère. In italiano si dice 'è' in entrambi i casi, quindi conviene chiedersi se si giudica una situazione (c'est) o si descrive qualcuno (il est).",
+      "examples": [
+        {
+          "fr": "C'est très gentil de ta part.",
+          "it": "È molto gentile da parte tua."
+        },
+        {
+          "fr": "Il est très gentil, ton frère.",
+          "it": "Tuo fratello è molto gentile."
+        }
+      ]
+    },
+    {
+      "id": "pronoun-cod",
+      "title_it": "Chercher e attendre: il complemento diretto",
+      "explain_it": "Chercher (cercare) e attendre (aspettare) sono verbi transitivi diretti, come in italiano: il complemento non vuole la preposizione à e si sostituisce con i pronomi le, la, les (l' davanti a vocale). Si dice quindi je le cherche, je l'attends, non je lui cherche.",
+      "examples": [
+        {
+          "fr": "J'attends Didier : je l'attends depuis une heure.",
+          "it": "Aspetto Didier: lo aspetto da un'ora."
+        },
+        {
+          "fr": "Je cherche la clé : je la cherche partout.",
+          "it": "Cerco la chiave: la cerco dappertutto."
+        }
+      ]
+    },
+    {
+      "id": "adjective-agreement",
+      "title_it": "Bien e demi: aggettivi invariabili",
+      "explain_it": "Bien, usato come aggettivo in espressioni come très bien, è invariabile: non si accorda con il nome a cui si riferisce, quindi si dice les fauteuils sont très bien. Demi, davanti a un nome, è invariabile e si unisce con un trattino: une demi-heure, une demi-journée. Dopo il nome, invece, si accorda: une heure et demie. Gros (femminile grosse) significa grosso, grande in senso di quantità, ma anche serio o forte: un gros problème è un problema serio.",
+      "examples": [
+        {
+          "fr": "Ces fauteuils sont très bien.",
+          "it": "Queste poltrone sono molto belle."
+        },
+        {
+          "fr": "Il est arrivé une demi-heure en retard.",
+          "it": "È arrivato con mezz'ora di ritardo."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Être au courant, tenir au courant, facturer",
+      "explain_it": "Au courant significa 'informato': être au courant de qqch è essere al corrente di qualcosa. Tenir qqn au courant significa tenere qualcuno aggiornato. Facturer significa fatturare, cioè far pagare un servizio (le plombier m'a facturé cent euros). Courant, da solo, è un aggettivo che indica ciò che è normale, comune.",
+      "examples": [
+        {
+          "fr": "Je tiens mes parents au courant.",
+          "it": "Tengo al corrente i miei genitori."
+        },
+        {
+          "fr": "Le plombier m'a facturé cent euros.",
+          "it": "L'idraulico mi ha fatturato cento euro."
+        }
+      ]
+    },
+    {
+      "id": "false-friends",
+      "title_it": "Éventuellement: attenzione all'inglese 'eventually'",
+      "explain_it": "Éventuellement significa 'eventualmente, se necessario' e per un italiano è un vero amico. Il falso amico riguarda l'inglese: eventually vuol dire 'alla fine', che in francese si dice finalement o enfin. Non usare éventuellement per dire 'alla fine'.",
+      "examples": [
+        {
+          "fr": "Je peux éventuellement t'aider lundi.",
+          "it": "Posso eventualmente aiutarti lunedì."
+        },
+        {
+          "fr": "Finalement, il a acheté la maison.",
+          "it": "Alla fine ha comprato la casa."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le service",
+      "it": "il favore, il servizio",
+      "pos": "n",
+      "note": "rendre service = fare un favore"
+    },
+    {
+      "fr": "déménager",
+      "it": "traslocare",
+      "pos": "v",
+      "note": "je déménage"
+    },
+    {
+      "fr": "le déménagement",
+      "it": "il trasloco",
+      "pos": "n"
+    },
+    {
+      "fr": "prochain",
+      "it": "prossimo",
+      "pos": "adj",
+      "note": "prochaine al femminile"
+    },
+    {
+      "fr": "nombreux",
+      "it": "numeroso",
+      "pos": "adj",
+      "note": "nombreuse al femminile"
+    },
+    {
+      "fr": "s'amuser",
+      "it": "divertirsi",
+      "pos": "v",
+      "note": "je m'amuse"
+    },
+    {
+      "fr": "paresseux",
+      "it": "pigro",
+      "pos": "adj",
+      "note": "paresseuse al femminile"
+    },
+    {
+      "fr": "gros",
+      "it": "grosso, grande",
+      "pos": "adj",
+      "note": "grosse al femminile"
+    },
+    {
+      "fr": "le beau-frère",
+      "it": "il cognato",
+      "pos": "n",
+      "note": "il cognato (marito della sorella, fratello del coniuge)"
+    },
+    {
+      "fr": "l'entreprise (f.)",
+      "it": "l'azienda, l'impresa",
+      "pos": "n"
+    },
+    {
+      "fr": "gratuitement",
+      "it": "gratis, gratuitamente",
+      "pos": "adv"
+    },
+    {
+      "fr": "douter",
+      "it": "dubitare",
+      "pos": "v",
+      "note": "j'en doute"
+    },
+    {
+      "fr": "les affaires",
+      "it": "gli affari",
+      "pos": "n",
+      "note": "sempre al plurale in questo senso"
+    },
+    {
+      "fr": "aimable",
+      "it": "gentile, cortese",
+      "pos": "adj"
+    },
+    {
+      "fr": "facturer",
+      "it": "fatturare",
+      "pos": "v"
+    },
+    {
+      "fr": "la location",
+      "it": "il noleggio, l'affitto",
+      "pos": "n"
+    },
+    {
+      "fr": "le camion",
+      "it": "il camion",
+      "pos": "n"
+    },
+    {
+      "fr": "la demi-journée",
+      "it": "la mezza giornata",
+      "pos": "n"
+    },
+    {
+      "fr": "remercier",
+      "it": "ringraziare",
+      "pos": "v"
+    },
+    {
+      "fr": "le canapé",
+      "it": "il divano",
+      "pos": "n"
+    },
+    {
+      "fr": "le fauteuil",
+      "it": "la poltrona",
+      "pos": "n"
+    },
+    {
+      "fr": "l'armoire (f.)",
+      "it": "l'armadio",
+      "pos": "n"
+    },
+    {
+      "fr": "la machine à laver",
+      "it": "la lavatrice",
+      "pos": "n"
+    },
+    {
+      "fr": "le lave-vaisselle",
+      "it": "la lavastoviglie",
+      "pos": "n"
+    },
+    {
+      "fr": "le boulot",
+      "it": "il lavoro",
+      "pos": "n",
+      "note": "registro familiare"
+    },
+    {
+      "fr": "chercher",
+      "it": "cercare; andare a prendere",
+      "pos": "v",
+      "note": "je cherche; aller chercher = andare a prendere"
+    },
+    {
+      "fr": "attendre",
+      "it": "aspettare",
+      "pos": "v",
+      "note": "j'attends"
+    },
+    {
+      "fr": "le courage",
+      "it": "il coraggio",
+      "pos": "n"
+    },
+    {
+      "fr": "éventuellement",
+      "it": "eventualmente, se mai",
+      "pos": "adv",
+      "note": "eventualmente (non 'alla fine': quello è finalement)"
+    },
+    {
+      "fr": "l'argot (m.)",
+      "it": "il gergo",
+      "pos": "n"
+    },
+    {
+      "fr": "la belle-sœur",
+      "it": "la cognata",
+      "pos": "n"
+    },
+    {
+      "fr": "le bouquin",
+      "it": "il libro",
+      "pos": "n",
+      "note": "familiare"
+    },
+    {
+      "fr": "la camionnette",
+      "it": "il furgone",
+      "pos": "n"
+    },
+    {
+      "fr": "le carton",
+      "it": "lo scatolone, il cartone",
+      "pos": "n"
+    },
+    {
+      "fr": "la collection",
+      "it": "la collezione",
+      "pos": "n"
+    },
+    {
+      "fr": "contre",
+      "it": "contro, addosso a",
+      "pos": "prep",
+      "note": "contre le mur"
+    },
+    {
+      "fr": "se coucher",
+      "it": "andare a letto, coricarsi",
+      "pos": "v"
+    },
+    {
+      "fr": "la cuisinière",
+      "it": "la cucina (a gas, elettrica); la cuoca",
+      "pos": "n",
+      "note": "elettrodomestico nel testo"
+    },
+    {
+      "fr": "dépenser",
+      "it": "spendere",
+      "pos": "v"
+    },
+    {
+      "fr": "l'erreur (f.)",
+      "it": "l'errore",
+      "pos": "n"
+    },
+    {
+      "fr": "l'escalier (m.)",
+      "it": "la scala",
+      "pos": "n"
+    },
+    {
+      "fr": "finalement",
+      "it": "alla fine, infine",
+      "pos": "adv"
+    },
+    {
+      "fr": "gentil / gentille",
+      "it": "gentile",
+      "pos": "adj"
+    },
+    {
+      "fr": "le linge",
+      "it": "la biancheria",
+      "pos": "n"
+    },
+    {
+      "fr": "le mur",
+      "it": "il muro",
+      "pos": "n"
+    },
+    {
+      "fr": "normal(e)",
+      "it": "normale",
+      "pos": "adj",
+      "note": "pl. m. normaux"
+    },
+    {
+      "fr": "la pile",
+      "it": "la pila, il mucchio",
+      "pos": "n"
+    },
+    {
+      "fr": "privé(e)",
+      "it": "privato",
+      "pos": "adj",
+      "note": "une leçon privée"
+    },
+    {
+      "fr": "le reste",
+      "it": "il resto",
+      "pos": "n"
+    },
+    {
+      "fr": "le rideau",
+      "it": "la tenda",
+      "pos": "n",
+      "note": "pl. les rideaux"
+    },
+    {
+      "fr": "le timbre",
+      "it": "il francobollo",
+      "pos": "n"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Bon courage !",
+      "it": "Coraggio! Buona fortuna!",
+      "note": "formula di incoraggiamento, usata prima di un compito faticoso"
+    },
+    {
+      "fr": "Au boulot !",
+      "it": "Al lavoro!",
+      "note": "registro colloquiale, per invitare a mettersi al lavoro"
+    },
+    {
+      "fr": "Tenir qqn au courant",
+      "it": "tenere qualcuno aggiornato",
+      "note": "formula d'uso comune"
+    },
+    {
+      "fr": "En gros",
+      "it": "a grandi linee, in sostanza",
+      "note": "per riassumere o stimare una cifra"
+    },
+    {
+      "fr": "Au lieu de",
+      "it": "invece di",
+      "note": "seguito da un nome o da un infinito"
+    },
+    {
+      "fr": "Tout de suite",
+      "it": "subito, all'istante",
+      "note": "più immediato di 'bientôt'"
+    },
+    {
+      "fr": "Être d'accord pour",
+      "it": "essere d'accordo a fare qualcosa",
+      "note": "seguito da un infinito o da un nome"
+    },
+    {
+      "fr": "Plus on est de fous, plus on rit",
+      "it": "più siamo, più ci divertiamo",
+      "note": "proverbio familiare, detto quando si invitano altri"
+    }
+  ],
+  "notes_it": [
+    "Éventuellement significa 'eventualmente, se necessario' come in italiano; attenzione solo a non usarlo per 'alla fine' (come l'inglese eventually): in francese è finalement o enfin.",
+    "Il registro familiare è molto presente: boulot (lavoro) e bouquin (libro) sono parole da usare solo con amici e in situazioni informali.",
+    "Facturer si usa per 'fatturare', cioè far pagare un servizio o un lavoro: le plombier m'a facturé cent euros.",
+    "Nella lingua di tutti i giorni i francesi usano spesso on al posto di nous (on part, on y va): attenzione, il verbo resta alla terza persona singolare."
+  ],
+  "exercises": [
+    {
+      "id": "L047-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "comparatives",
+      "prompt": "Completa: 'Plus on travaille, ___ on gagne.' (più si lavora, più si guadagna)",
+      "options": [
+        "plus",
+        "très",
+        "aussi"
+      ],
+      "correct": 0,
+      "explain_it": "La seconda parte della struttura 'più ... più' inizia di nuovo con plus, come in italiano."
+    },
+    {
+      "id": "L047-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "ce-cest-il-est",
+      "prompt": "Completa: '___ très gentil de ta part !' (è molto gentile da parte tua)",
+      "options": [
+        "C'est",
+        "Il est",
+        "Ils sont"
+      ],
+      "correct": 0,
+      "explain_it": "Davanti a un aggettivo che valuta una situazione o un gesto si usa c'est, non il est."
+    },
+    {
+      "id": "L047-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronoun-cod",
+      "prompt": "Completa: 'Je ___ cherche depuis une heure.' (la chiave: la cerco da un'ora)",
+      "options": [
+        "la",
+        "lui",
+        "leur"
+      ],
+      "correct": 0,
+      "explain_it": "Chercher è transitivo diretto: il pronome è la (la clé), non lui."
+    },
+    {
+      "id": "L047-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronoun-coi",
+      "prompt": "Completa: 'Je ___ ai dit que tu es mon meilleur ami.' (gli ho detto che sei il mio migliore amico)",
+      "options": [
+        "lui",
+        "le",
+        "la"
+      ],
+      "correct": 0,
+      "explain_it": "Dire a qualcuno vuole il complemento indiretto lui, non il pronome diretto."
+    },
+    {
+      "id": "L047-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "false-friends",
+      "prompt": "In francese 'éventuellement' significa:",
+      "options": [
+        "eventualmente, se necessario",
+        "alla fine, finalmente",
+        "in conclusione"
+      ],
+      "correct": 0,
+      "explain_it": "'Alla fine' si dice finalement o enfin; éventuellement vuol dire 'eventualmente'."
+    },
+    {
+      "id": "L047-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "comparatives",
+      "prompt": "Più si dorme, più si ha sonno.",
+      "answers": [
+        "Plus on dort, plus on a sommeil"
+      ],
+      "distractors": [
+        "très",
+        "moins"
+      ],
+      "explain_it": "Plus si ripete davanti a entrambe le parti della frase, come 'più ... più'."
+    },
+    {
+      "id": "L047-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "pronoun-cod",
+      "prompt": "La cerco da un'ora.",
+      "answers": [
+        "Je la cherche depuis une heure"
+      ],
+      "distractors": [
+        "lui",
+        "leur"
+      ],
+      "explain_it": "Chercher è transitivo diretto: il pronome è la, che riprende 'la chiave' o un altro nome femminile."
+    },
+    {
+      "id": "L047-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Tienimi al corrente, per favore. (tu)",
+      "answers": [
+        "Tiens-moi au courant, s'il te plaît"
+      ],
+      "distractors": [
+        "lui",
+        "le"
+      ],
+      "explain_it": "Tenir qqn au courant significa tenere qualcuno aggiornato; il pronome moi viene dopo il verbo all'imperativo."
+    },
+    {
+      "id": "L047-e09",
+      "type": "cloze",
+      "level": 1,
+      "concept": "idioms",
+      "text": "Je te ___ au courant.",
+      "answers": [
+        "tiens"
+      ],
+      "hint": "(tenir, presente)",
+      "prompt": "Ti tengo al corrente.",
+      "explain_it": "Tenir è irregolare: al presente la prima persona è tiens, tu tiens, il tient."
+    },
+    {
+      "id": "L047-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "futur-proche",
+      "text": "Ce soir, nous ___ manger au restaurant.",
+      "answers": [
+        "allons"
+      ],
+      "hint": "(aller, presente, noi)",
+      "prompt": "Stasera andiamo a mangiare al ristorante.",
+      "explain_it": "Il futuro prossimo si fa con il presente di aller più l'infinito: nous allons manger."
+    },
+    {
+      "id": "L047-e11",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-cod",
+      "text": "Les armoires ? Je ___ déplace demain.",
+      "answers": [
+        "les"
+      ],
+      "hint": "(pronome complemento diretto, plurale)",
+      "prompt": "Gli armadi? Li sposto domani.",
+      "explain_it": "Armoires è femminile plurale: il pronome diretto è les, prima del verbo."
+    },
+    {
+      "id": "L047-e12",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-coi",
+      "text": "Didier ? Je ___ ai déjà parlé.",
+      "answers": [
+        "lui"
+      ],
+      "hint": "(pronome complemento indiretto, maschile singolare)",
+      "prompt": "Didier? Gli ho già parlato.",
+      "explain_it": "Parler a qualcuno vuole il complemento indiretto lui."
+    },
+    {
+      "id": "L047-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "comparatives",
+      "text": "Plus on en a, ___ on en veut.",
+      "answers": [
+        "plus"
+      ],
+      "prompt": "Più ne abbiamo, più ne vogliamo.",
+      "explain_it": "La struttura 'più ... più' vuole plus anche nella seconda parte, prima di on en veut."
+    },
+    {
+      "id": "L047-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "text": "Ces fauteuils sont très ___.",
+      "answers": [
+        "bien"
+      ],
+      "hint": "(aggettivo invariabile)",
+      "prompt": "Queste poltrone vanno benissimo.",
+      "explain_it": "Bien in questa espressione è invariabile: non si accorda con il soggetto fauteuils."
+    },
+    {
+      "id": "L047-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "text": "J'ai travaillé une ___-journée.",
+      "answers": [
+        "demi"
+      ],
+      "hint": "(invariabile davanti al nome)",
+      "prompt": "Ho lavorato mezza giornata.",
+      "explain_it": "Demi davanti a un nome è invariabile: une demi-journée."
+    },
+    {
+      "id": "L047-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-coi",
+      "prompt": "Ti ho chiesto un favore.",
+      "answers": [
+        "Je t'ai demandé [un service|une faveur]."
+      ],
+      "explain_it": "Demander qqch à qqn: il complemento di persona è indiretto, quindi il pronome è te, elisa in t'."
+    },
+    {
+      "id": "L047-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-coi",
+      "prompt": "Gli ho detto di venire.",
+      "answers": [
+        "Je lui ai dit de venir."
+      ],
+      "explain_it": "Dire à qqn de + infinito: il complemento di persona è indiretto e si scrive lui."
+    },
+    {
+      "id": "L047-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ho cercato la chiave per un'ora.",
+      "answers": [
+        "J'ai cherché la clé pendant une heure."
+      ],
+      "explain_it": "Chercher è un verbo con avoir al passato prossimo, e pendant introduce la durata."
+    },
+    {
+      "id": "L047-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "paresseux",
+      "answers": [
+        "paresseuse"
+      ],
+      "explain_it": "Gli aggettivi in -eux fanno il femminile in -euse: paresseux, paresseuse.",
+      "ask": "Scrivi il femminile"
+    },
+    {
+      "id": "L047-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "Mia sorella è pigra.",
+      "answers": [
+        "Ma [sœur|soeur] est paresseuse."
+      ],
+      "explain_it": "Gli aggettivi in -eux fanno il femminile in -euse: paresseuse."
+    },
+    {
+      "id": "L047-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "ce-cest-il-est",
+      "prompt": "È molto gentile da parte tua.",
+      "answers": [
+        "C'est très [gentil|aimable] de ta part."
+      ],
+      "explain_it": "Con un aggettivo che valuta un gesto si usa c'est; ta perché 'tua' è tu."
+    },
+    {
+      "id": "L047-e22",
+      "type": "dictation",
+      "level": 2,
+      "concept": "comparatives",
+      "text": "Plus on est de fous, plus on rit."
+    },
+    {
+      "id": "L047-e23",
+      "type": "dictation",
+      "level": 2,
+      "concept": "pronoun-cod",
+      "text": "Ce canapé est lourd, mais je peux le porter."
+    },
+    {
+      "id": "L047-e24",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-coi",
+      "prompt": "Didier ha un camion: gli ho chiesto di venire sabato.",
+      "answers": [
+        "Didier a un camion : je lui ai demandé de venir samedi."
+      ],
+      "explain_it": "Demander à qqn de + infinito: il complemento di persona è indiretto, quindi lui."
+    },
+    {
+      "id": "L047-e25",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-cod",
+      "prompt": "Non ho ancora preso il camion, ma vado a prenderlo subito.",
+      "answers": [
+        "Je n'ai pas encore pris le camion, mais je vais [le prendre|le chercher] [tout de suite|immédiatement]."
+      ],
+      "explain_it": "Il pronome le riprende il camion davanti al verbo all'infinito del futuro prossimo."
+    },
+    {
+      "id": "L047-e26",
+      "type": "write",
+      "level": 3,
+      "concept": "comparatives",
+      "prompt": "Più mangiamo, più ci sentiamo stanchi.",
+      "answers": [
+        "Plus on mange, plus on [se sent|est] fatigué[s|]."
+      ],
+      "explain_it": "Con on = noi l'aggettivo può andare al plurale (fatigués) o restare al singolare nel parlato."
+    },
+    {
+      "id": "L047-e27",
+      "type": "write",
+      "level": 3,
+      "concept": "ce-cest-il-est",
+      "prompt": "Non è un'idea cattiva: è un'ottima idea.",
+      "answers": [
+        "Ce n'est pas une mauvaise idée, c'est une [très bonne|excellente] idée."
+      ],
+      "explain_it": "Ce n'est pas + nome introdotto da articolo, poi c'est per la valutazione positiva."
+    },
+    {
+      "id": "L047-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Tenete tutti al corrente, per favore.",
+      "answers": [
+        "Tenez tout le monde au courant, s'il vous plaît."
+      ],
+      "explain_it": "Tenir au courant si usa anche all'imperativo di cortesia: tenez tout le monde au courant."
+    },
+    {
+      "id": "L047-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "adjective-agreement",
+      "prompt": "È un grosso problema.",
+      "answers": [
+        "C'est un gros problème.",
+        "C'est un grand problème."
+      ],
+      "explain_it": "Gros, davanti a un nome maschile, significa grosso o serio; con il femminile diventa grosse."
+    },
+    {
+      "id": "L047-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-coi",
+      "prompt": "Ho chiesto a mia sorella di aiutarmi, e lei ha accettato.",
+      "answers": [
+        "J'ai demandé à ma [sœur|soeur] de m'aider, et elle a accepté."
+      ],
+      "explain_it": "Demander à qqn de + infinito: il complemento di persona è introdotto da à, mentre m' è il pronome diretto di aider."
+    },
+    {
+      "id": "L047-e31",
+      "type": "cloze",
+      "level": 3,
+      "concept": "pronoun-cod",
+      "text": "Stéphane ? Je ___ vu hier.",
+      "answers": [
+        "l'ai"
+      ],
+      "hint": "(pronome le + avoir, presente)",
+      "prompt": "Stéphane? L'ho visto ieri.",
+      "explain_it": "Davanti a vocale le diventa l' e si unisce a ai: je l'ai vu."
+    },
+    {
+      "id": "L047-e32",
+      "type": "cloze",
+      "level": 3,
+      "concept": "comparatives",
+      "text": "Mon fils est aussi grand ___ son père.",
+      "answers": [
+        "que"
+      ],
+      "hint": "(comparativo di uguaglianza)",
+      "prompt": "Mio figlio è alto quanto suo padre.",
+      "explain_it": "Il paragone di uguaglianza usa aussi ... que, come l'italiano tanto ... quanto."
+    },
+    {
+      "id": "L047-e33",
+      "type": "mcq",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "'Être au courant de qc' significa:",
+      "options": [
+        "essere informato di qualcosa",
+        "essere d'accordo con qualcosa",
+        "essere in ritardo su qualcosa"
+      ],
+      "correct": 0,
+      "explain_it": "Au courant indica di essere informato su qualcosa, non di essere d'accordo."
+    },
+    {
+      "id": "L047-e34",
+      "type": "dictation",
+      "level": 3,
+      "concept": "vocab",
+      "text": "Mon beau-frère a un camion, mais il ne peut pas venir samedi."
+    },
+    {
+      "id": "L047-e35",
+      "type": "order",
+      "level": 3,
+      "concept": "il-faut",
+      "prompt": "Ci vuole mezz'ora per arrivare.",
+      "answers": [
+        "Il faut une demi-heure pour arriver"
+      ],
+      "distractors": [
+        "heures",
+        "demie"
+      ],
+      "explain_it": "Il faut + nome è la forma impersonale per 'ci vuole'; demi-heure è invariabile davanti al nome."
+    },
+    {
+      "id": "L047-e36",
+      "type": "flash",
+      "level": 2,
+      "concept": "comparatives",
+      "front": "Come si costruisce 'più ... più' in francese?",
+      "back": "plus + aggettivo/avverbio/verbo, plus + soggetto + verbo. Es.: Plus il fait chaud, plus on boit.",
+      "note": "Il soggetto on, se significa 'noi', può far accordare l'aggettivo al plurale: plus on est nombreux."
+    },
+    {
+      "id": "L047-e37",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronoun-cod",
+      "front": "Chercher e attendre: complemento diretto o indiretto?",
+      "back": "Diretto: je le/la/les cherche, je l'attends. Non si usa lui. I verbi come dire o demander, invece, vogliono à e il pronome indiretto.",
+      "note": "Ricordati la differenza: attendre qqn, ma dire à qqn."
+    },
+    {
+      "id": "L047-e38",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Les livres sont posés ___ le mur.",
+      "answers": [
+        "contre"
+      ],
+      "prompt": "I libri sono appoggiati al muro.",
+      "explain_it": "Contre indica il contatto o l'appoggio contro qualcosa."
+    },
+    {
+      "id": "L047-e39",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Vado a letto presto.",
+      "answers": [
+        "Je vais me coucher tôt."
+      ],
+      "explain_it": "Se coucher è pronominale: je vais me coucher (futur proche)."
+    }
+  ]
+}

@@ -1,0 +1,756 @@
+{
+  "n": 93,
+  "title_fr": "Quatre-vingt-treizième leçon - Un cours d'histoire : « Le jour de gloire est arrivé ! »",
+  "title_it": "Novantatreesima lezione - Una lezione di storia: « Il giorno di gloria è arrivato! »",
+  "review": false,
+  "status": "verified",
+  "source": "4a88e539 pdf 6-13 (libro p.571-578); la lezione inizia a pdf 6 (p.571) con il titolo dopo il riquadro culturale su Maria Antonietta; dialogo pdf 6-10 (righe 1-22); note pdf 6-11 (note 1-9); esercizi pdf 12 (p.577), risposte pdf 13 (p.578); la lezione 94 inizia a pdf 14 (p.579), fuori dal range",
+  "theme_it": "Una lezione di storia sulla presa della Bastiglia del 14 luglio 1789: si spiega perché quella data segnò un punto di svolta, cosa accadde davvero nei giorni precedenti e quanto la 'giornata di gloria' sia più mito che realtà. Il racconto segue la rivolta parigina, dalle tensioni con il re fino all'assalto alla prigione.",
+  "grammar": [
+    {
+      "id": "passe-simple",
+      "title_it": "Il passato semplice dei verbi in -ir",
+      "explain_it": "Nei verbi regolari in -ir il passato semplice si forma togliendo -ir e aggiungendo -is, -is, -it, -îmes, -îtes, -irent. Attenzione: je finis, tu finis e il finit hanno la stessa forma del presente, quindi si distinguono solo dal contesto. Le forme che cambiano davvero sono nous (-îmes), vous (-îtes) e ils/elles (-irent). In italiano corrisponde al passato remoto; in francese è il tempo del racconto scritto e letterario, mentre nel parlato si usa il passé composé.",
+      "examples": [
+        {
+          "fr": "Nous finîmes le travail à minuit.",
+          "it": "Finimmo il lavoro a mezzanotte."
+        },
+        {
+          "fr": "Les enfants grandirent vite.",
+          "it": "I bambini crebbero in fretta."
+        }
+      ]
+    },
+    {
+      "id": "passe-simple",
+      "title_it": "Il passato semplice dei verbi in -re",
+      "explain_it": "I verbi regolari in -re (attendre, perdre, rendre, descendre, vendre, répondre) formano il passato semplice togliendo -re e aggiungendo le desinenze -is, -is, -it, -îmes, -îtes, -irent, le stesse dei verbi in -ir: attendre diventa j'attendis, il attendit, ils attendirent. Qui la terza singolare si distingue dal presente (il attend / il attendit). Attenzione: molti verbi in -re (prendre, mettre, faire, écrire...) sono irregolari e vanno studiati a parte.",
+      "examples": [
+        {
+          "fr": "Ils descendirent dans la rue.",
+          "it": "Scesero in strada."
+        },
+        {
+          "fr": "Elle attendit son frère pendant une heure.",
+          "it": "Aspettò suo fratello per un'ora."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Soit come avverbio: 'va bene, sia pure'",
+      "explain_it": "Soit è la forma del congiuntivo di être, ma qui funziona come avverbio invariabile: significa 'va bene', 'sia pure', e serve a concedere o accettare un'idea, spesso prima di un 'ma' che introduce un limite. È diverso dalla congiunzione soit... soit (o... o). In italiano non esiste un'espressione identica, il corrispettivo più vicino è 'sia, va bene'.",
+      "examples": [
+        {
+          "fr": "Soit, nous partirons demain.",
+          "it": "Va bene, partiremo domani."
+        },
+        {
+          "fr": "Il est cher, soit, mais il est excellent.",
+          "it": "È caro, sia pure, ma è ottimo."
+        }
+      ]
+    },
+    {
+      "id": "prepositions",
+      "title_it": "Il verbo déboucher con de e sur",
+      "explain_it": "Déboucher deriva da boucher (chiudere, tappare) con il prefisso dé-, che indica il contrario: significa 'stappare' o 'sbloccare' in senso transitivo. Nel senso intransitivo, cioè di 'sbucare' o 'sboccare', la preposizione cambia il significato: déboucher de vuol dire 'uscire da, sbucare da'; déboucher sur vuol dire 'sboccare su, dare su', riferito a una strada, a un passaggio o a un paesaggio. Per l'italiano 'sboccare' è il verbo più vicino in entrambi i casi.",
+      "examples": [
+        {
+          "fr": "La rue débouche sur une grande place.",
+          "it": "La strada sbocca su una grande piazza."
+        },
+        {
+          "fr": "Il déboucha de la gare à midi.",
+          "it": "Sbucò dalla stazione a mezzogiorno."
+        }
+      ]
+    },
+    {
+      "id": "connectors",
+      "title_it": "Tant con valore di causa, in registro letterario",
+      "explain_it": "Tant, all'inizio di una proposizione con soggetto e verbo (tant il avait peur), esprime la causa e significa 'tanto', 'a tal punto'. È una costruzione tipica dello stile scritto e letterario. Non confonderlo con tant de + nome (tanto/tanta), che indica quantità.",
+      "examples": [
+        {
+          "fr": "Il ne sortit pas, tant il avait peur.",
+          "it": "Non uscì, tanto aveva paura."
+        },
+        {
+          "fr": "La route était fermée, tant la neige était épaisse.",
+          "it": "La strada era chiusa, a tal punto la neve era alta."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Emporter: portare via, e l'emporter: prevalere",
+      "explain_it": "Emporter è formato da em- (via) e porter (portare): significa 'portare via'. Nella locuzione à emporter (da asporto) indica il cibo da portare fuori dal locale. Con il pronome l' (l'emporter) assume il significato di 'avere la meglio, prevalere', come nel caso della vittoria di un'idea o di un sentimento su un altro.",
+      "examples": [
+        {
+          "fr": "Une pizza à emporter, s'il vous plaît.",
+          "it": "Una pizza da asporto, per favore."
+        },
+        {
+          "fr": "La raison l'emporta sur la colère.",
+          "it": "La ragione prevalse sulla rabbia."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le tournant",
+      "it": "la svolta",
+      "pos": "n"
+    },
+    {
+      "fr": "majeur",
+      "it": "maggiore, grande",
+      "pos": "adj"
+    },
+    {
+      "fr": "la prise",
+      "it": "la presa, la conquista",
+      "pos": "n"
+    },
+    {
+      "fr": "la monarchie",
+      "it": "la monarchia",
+      "pos": "n"
+    },
+    {
+      "fr": "la république",
+      "it": "la repubblica",
+      "pos": "n"
+    },
+    {
+      "fr": "le début",
+      "it": "l'inizio",
+      "pos": "n"
+    },
+    {
+      "fr": "misérable",
+      "it": "miserabile, misero",
+      "pos": "adj"
+    },
+    {
+      "fr": "le prisonnier",
+      "it": "il prigioniero",
+      "pos": "n",
+      "note": "la prisonnière al femminile"
+    },
+    {
+      "fr": "la libération",
+      "it": "la liberazione",
+      "pos": "n"
+    },
+    {
+      "fr": "morne",
+      "it": "cupo, tetro",
+      "pos": "adj"
+    },
+    {
+      "fr": "le récit",
+      "it": "il racconto, la narrazione",
+      "pos": "n"
+    },
+    {
+      "fr": "le bilan",
+      "it": "il bilancio, il consuntivo",
+      "pos": "n"
+    },
+    {
+      "fr": "le mythe",
+      "it": "il mito",
+      "pos": "n"
+    },
+    {
+      "fr": "fatidique",
+      "it": "fatidico",
+      "pos": "adj"
+    },
+    {
+      "fr": "la troupe",
+      "it": "la truppa",
+      "pos": "n"
+    },
+    {
+      "fr": "l'agitation (f.)",
+      "it": "l'agitazione",
+      "pos": "n"
+    },
+    {
+      "fr": "l'émeute (f.)",
+      "it": "la sommossa, la rivolta",
+      "pos": "n"
+    },
+    {
+      "fr": "le combat",
+      "it": "il combattimento",
+      "pos": "n"
+    },
+    {
+      "fr": "la forteresse",
+      "it": "la fortezza",
+      "pos": "n"
+    },
+    {
+      "fr": "le traître",
+      "it": "il traditore",
+      "pos": "n",
+      "note": "la traîtresse al femminile"
+    },
+    {
+      "fr": "le donjon",
+      "it": "il mastio, la torre fortificata",
+      "pos": "n"
+    },
+    {
+      "fr": "funeste",
+      "it": "funesto, tragico",
+      "pos": "adj"
+    },
+    {
+      "fr": "commémorer",
+      "it": "commemorare",
+      "pos": "v"
+    },
+    {
+      "fr": "déboucher",
+      "it": "sboccare, sbucare; stappare",
+      "pos": "v"
+    },
+    {
+      "fr": "le citoyen",
+      "it": "il cittadino",
+      "pos": "n",
+      "note": "la citoyenne al femminile"
+    },
+    {
+      "fr": "le peuple",
+      "it": "il popolo",
+      "pos": "n"
+    },
+    {
+      "fr": "effroyable",
+      "it": "spaventoso, terribile",
+      "pos": "adj"
+    },
+    {
+      "fr": "déterminé",
+      "it": "determinato, deciso",
+      "pos": "adj"
+    },
+    {
+      "fr": "la fureur",
+      "it": "il furore, la furia",
+      "pos": "n"
+    },
+    {
+      "fr": "assoiffé",
+      "it": "assetato, bramoso",
+      "pos": "adj"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "marquer un tournant",
+      "it": "segnare una svolta",
+      "note": "registro neutro, anche nel parlato"
+    },
+    {
+      "fr": "en effet",
+      "it": "infatti",
+      "note": "connettivo che introduce una spiegazione"
+    },
+    {
+      "fr": "faire semblant de",
+      "it": "fare finta di",
+      "note": "molto usato nel parlato"
+    },
+    {
+      "fr": "être à la hauteur de",
+      "it": "essere all'altezza di",
+      "note": "nel senso di 'reggere il confronto'"
+    },
+    {
+      "fr": "de plus en plus",
+      "it": "sempre di più",
+      "note": "espressione di intensificazione"
+    },
+    {
+      "fr": "peu à peu",
+      "it": "poco a poco",
+      "note": "espressione di uso neutro"
+    },
+    {
+      "fr": "comme un seul homme",
+      "it": "come un sol uomo",
+      "note": "all'unisono, in massa"
+    },
+    {
+      "fr": "prendre les armes",
+      "it": "prendere le armi, insorgere",
+      "note": "registro narrativo"
+    },
+    {
+      "fr": "faire rage",
+      "it": "infuriare, imperversare",
+      "note": "riferito a battaglie, tempeste, dolori"
+    },
+    {
+      "fr": "marquer un temps d'arrêt",
+      "it": "fare una pausa, esitare",
+      "note": "pausa breve prima di agire"
+    },
+    {
+      "fr": "de fortune",
+      "it": "di fortuna, improvvisato",
+      "note": "un bureau de fortune: uno studio improvvisato"
+    },
+    {
+      "fr": "au fait",
+      "it": "a proposito",
+      "note": "per introdurre un cambio di argomento"
+    }
+  ],
+  "notes_it": [
+    "Il bilan è un termine contabile (bilancio, stato patrimoniale), ma nell'uso comune significa anche esito o valutazione: un bilan de santé è un check-up medico, mentre il bilan di un incidente è il conto delle vittime. Il significato resta vicino all'italiano 'bilancio', quindi il rischio è basso.",
+    "Hauteur significa 'altezza'. Nel senso figurato si usa être à la hauteur (de): essere all'altezza di una sfida o di un compito.",
+    "Pronuncia: nel parlato il passato semplice di terza persona si riconosce poco: il finit si pronuncia /fini/ con la -t muta, ils finirent /finiʁ/ con la -ent muta ma la r che si sente.",
+    "Il riquadro culturale su Maria Antonietta ricorda che la frase 'Qu'ils mangent de la brioche' (che mangino brioche) è attribuita alla regina, ma è probabilmente un'invenzione: Rousseau la cita attribuendola a una 'grande principessa'. È un buon esempio di mito storico, il tema che attraversa tutta la lezione."
+  ],
+  "exercises": [
+    {
+      "id": "L093-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "passe-simple",
+      "prompt": "Qual è la forma del passato semplice di 'finir' con 'nous'?",
+      "options": [
+        "nous finîmes",
+        "nous finissions",
+        "nous finirions",
+        "nous finissons"
+      ],
+      "correct": 0,
+      "explain_it": "Finîmes, con il circonflesso, è il passato semplice di finir con noi; finissions è l'imperfetto, finirions il condizionale e finissons il presente."
+    },
+    {
+      "id": "L093-e02",
+      "type": "mcq",
+      "level": 2,
+      "concept": "passe-simple",
+      "prompt": "Quale forma è il passato semplice di 'attendre' con 'elle' (lei)?",
+      "options": [
+        "elle attendit",
+        "elle attendait",
+        "elle attend",
+        "elle attendra"
+      ],
+      "correct": 0,
+      "explain_it": "Attendit è il passato semplice di attendre; attendait è l'imperfetto, attend il presente e attendra il futuro."
+    },
+    {
+      "id": "L093-e03",
+      "type": "mcq",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Nella frase « Soit, nous partirons demain », che cosa significa « soit »?",
+      "options": [
+        "va bene, sia pure: accettazione o concessione",
+        "sia: congiuntivo di être",
+        "oppure: alternativa",
+        "sarà: futuro di être"
+      ],
+      "correct": 0,
+      "explain_it": "Soit qui è un avverbio invariabile che accetta o concede qualcosa, come 'va bene'; non ha valore verbale in questa posizione."
+    },
+    {
+      "id": "L093-e04",
+      "type": "mcq",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "Quale locuzione significa 'sboccare su' riferito a una strada che porta a una piazza?",
+      "options": [
+        "déboucher sur",
+        "déboucher à",
+        "déboucher pour",
+        "déboucher avec"
+      ],
+      "correct": 0,
+      "explain_it": "Déboucher sur è la costruzione corretta per 'sboccare su'; con les altre preposizioni la frase non ha senso."
+    },
+    {
+      "id": "L093-e05",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Ho preso una pizza da asporto.",
+      "answers": [
+        "J'ai pris une pizza à emporter."
+      ],
+      "distractors": [
+        "sur",
+        "avec"
+      ],
+      "explain_it": "À emporter è la forma per il cibo da portare via; il verbo è prendre al passato composé con avoir."
+    },
+    {
+      "id": "L093-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "passe-simple",
+      "prompt": "Gli operai finirono il lavoro.",
+      "answers": [
+        "Les ouvriers finirent le travail."
+      ],
+      "distractors": [
+        "finissent",
+        "ont"
+      ],
+      "explain_it": "Finirent è il passato semplice di finir alla terza persona plurale; finissent è il presente."
+    },
+    {
+      "id": "L093-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "prepositions",
+      "prompt": "Il corridoio sbocca sul giardino.",
+      "answers": [
+        "Le couloir débouche sur le jardin."
+      ],
+      "distractors": [
+        "sous",
+        "dans"
+      ],
+      "explain_it": "Con déboucher si usa sur per indicare lo sbocco su un luogo, non dans o sous."
+    },
+    {
+      "id": "L093-e08",
+      "type": "order",
+      "level": 2,
+      "concept": "passe-simple",
+      "prompt": "Il re consegnò le armi.",
+      "answers": [
+        "Le roi rendit les armes."
+      ],
+      "distractors": [
+        "rend",
+        "rendra"
+      ],
+      "explain_it": "Rendit è il passato semplice di rendre alla terza singolare; rend è il presente e rendra il futuro."
+    },
+    {
+      "id": "L093-e09",
+      "type": "cloze",
+      "level": 1,
+      "concept": "passe-simple",
+      "text": "Après des mois de travail, nous ___ enfin le projet.",
+      "answers": [
+        "finîmes"
+      ],
+      "hint": "(finir, passato semplice, 1ª pl.)",
+      "prompt": "Dopo mesi di lavoro, finimmo finalmente il progetto.",
+      "explain_it": "Il passato semplice di finir con noi ha il circonflesso: finîmes."
+    },
+    {
+      "id": "L093-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "idioms",
+      "text": "Un sandwich ___, s'il vous plaît.",
+      "answers": [
+        "à emporter"
+      ],
+      "prompt": "Un panino da asporto, per favore.",
+      "explain_it": "Per il cibo da portare via si dice à emporter, non 'pour emporter'."
+    },
+    {
+      "id": "L093-e11",
+      "type": "cloze",
+      "level": 2,
+      "concept": "passe-simple",
+      "text": "Le commerçant ___ toute sa marchandise avant midi.",
+      "answers": [
+        "vendit"
+      ],
+      "hint": "(vendre, passato semplice, 3ª sg.)",
+      "prompt": "Il commerciante vendette tutta la merce prima di mezzogiorno.",
+      "explain_it": "Vendit è il passato semplice di vendre alla terza singolare; la forma dell'imperfetto sarebbe vendait."
+    },
+    {
+      "id": "L093-e12",
+      "type": "cloze",
+      "level": 2,
+      "concept": "connectors",
+      "text": "Il n'osa pas répondre, ___ il avait peur.",
+      "answers": [
+        "tant"
+      ],
+      "prompt": "Non osò rispondere, tanto aveva paura.",
+      "explain_it": "Tant introduce una causa in forma letteraria: tant il avait peur significa 'a tal punto aveva paura'."
+    },
+    {
+      "id": "L093-e13",
+      "type": "cloze",
+      "level": 3,
+      "concept": "prepositions",
+      "text": "Après une longue montée, le sentier ___ sur le lac.",
+      "answers": [
+        "déboucha"
+      ],
+      "hint": "(déboucher, passato semplice, 3ª sg.)",
+      "prompt": "Dopo una lunga salita, il sentiero sbucò sul lago.",
+      "explain_it": "Il passato semplice di déboucher alla terza singolare è déboucha, e la preposizione sur indica lo sbocco."
+    },
+    {
+      "id": "L093-e14",
+      "type": "cloze",
+      "level": 3,
+      "concept": "idioms",
+      "text": "Le maire ___ de ne rien savoir.",
+      "answers": [
+        "fit semblant"
+      ],
+      "hint": "(faire semblant, passato semplice, 3ª sg.)",
+      "prompt": "Il sindaco finse di non sapere nulla.",
+      "explain_it": "Faire semblant de + infinito significa 'fingere di'; al passato semplice la forma è fit semblant."
+    },
+    {
+      "id": "L093-e15",
+      "type": "write",
+      "level": 1,
+      "concept": "passe-simple",
+      "prompt": "Noi scegliemmo il ristorante.",
+      "ask": "Traduci in francese usando il passé simple",
+      "answers": [
+        "Nous choisîmes le restaurant."
+      ],
+      "explain_it": "Choisir è un verbo in -ir, quindi il passato semplice con noi è choisîmes con circonflesso."
+    },
+    {
+      "id": "L093-e16",
+      "type": "write",
+      "level": 1,
+      "concept": "passe-simple",
+      "prompt": "Lui perse la chiave.",
+      "ask": "Traduci in francese usando il passé simple",
+      "answers": [
+        "Il perdit la [clé|clef]."
+      ],
+      "explain_it": "Perdit è il passato semplice di perdre alla terza singolare, diverso dal presente il perd."
+    },
+    {
+      "id": "L093-e17",
+      "type": "write",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Hanno costruito un rifugio improvvisato.",
+      "answers": [
+        "Ils ont construit un [abri|refuge] de fortune."
+      ],
+      "explain_it": "De fortune significa 'di fortuna' o 'improvvisato', e si riferisce a un oggetto o a un luogo di emergenza."
+    },
+    {
+      "id": "L093-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-simple",
+      "prompt": "Loro scelsero la strada più corta.",
+      "ask": "Traduci in francese usando il passé simple",
+      "answers": [
+        "Ils choisirent le chemin le plus court.",
+        "Ils choisirent la route la plus courte."
+      ],
+      "explain_it": "Choisirent è il passato semplice di choisir alla terza plurale, con la -ir- che resta invariata."
+    },
+    {
+      "id": "L093-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-simple",
+      "prompt": "Lei rispose con un sorriso.",
+      "ask": "Traduci in francese usando il passé simple",
+      "answers": [
+        "Elle répondit avec un sourire.",
+        "Elle répondit par un sourire."
+      ],
+      "explain_it": "Répondit è il passato semplice di répondre alla terza singolare, che non va confuso con il presente il répond."
+    },
+    {
+      "id": "L093-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-simple",
+      "prompt": "Essi vendettero tutte le loro armi.",
+      "ask": "Traduci in francese usando il passé simple",
+      "answers": [
+        "Ils vendirent [toutes leurs armes|toutes les armes]."
+      ],
+      "explain_it": "Vendre al passato semplice: tema vend- + -irent, quindi vendirent."
+    },
+    {
+      "id": "L093-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Il bene finisce per prevalere sul male.",
+      "answers": [
+        "Le bien finit par l'emporter sur le mal."
+      ],
+      "explain_it": "L'emporter con il pronome l' significa 'prevalere'; si usa spesso con par e sur."
+    },
+    {
+      "id": "L093-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "connectors",
+      "prompt": "Infatti, la fortezza non era difesa.",
+      "answers": [
+        "En effet, la forteresse n'était pas [défendue|gardée]."
+      ],
+      "explain_it": "En effet introduce una spiegazione o una conferma, come 'infatti' in italiano."
+    },
+    {
+      "id": "L093-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "connectors",
+      "prompt": "A proposito, dove sei stato ieri?",
+      "answers": [
+        "Au fait, où étais-tu hier ?",
+        "Au fait, tu étais où hier ?",
+        "Au fait, où as-tu été hier ?"
+      ],
+      "explain_it": "Au fait introduce un cambio di argomento; 'dove sei stato' si rende con où étais-tu (o où as-tu été)."
+    },
+    {
+      "id": "L093-e24",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-simple",
+      "prompt": "Quando i rivoluzionari arrivarono alla prigione, i soldati si arresero senza combattere.",
+      "ask": "Traduci in francese usando il passé simple",
+      "answers": [
+        "[Quand|Lorsque] les [révolutionnaires|insurgés] arrivèrent à la prison, les soldats se rendirent sans [combattre|se battre]."
+      ],
+      "explain_it": "Arrivèrent è passato semplice regolare in -er, mentre se rendirent deriva da se rendre (arrendersi) e usa la -ir- di rendre."
+    },
+    {
+      "id": "L093-e25",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-simple",
+      "prompt": "Gli studenti riflettero a lungo prima di decidere.",
+      "ask": "Traduci in francese usando il passé simple",
+      "answers": [
+        "Les [étudiants|élèves] réfléchirent [longtemps|longuement] avant de décider."
+      ],
+      "explain_it": "Réfléchirent è il passato semplice di réfléchir alla terza plurale; l'infinito dopo avant de resta invariato."
+    },
+    {
+      "id": "L093-e26",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Il re ha fatto finta di non sapere nulla, ma tutta la città lo sapeva.",
+      "answers": [
+        "Le roi a fait semblant de ne rien savoir, mais [toute la ville|tout le monde] le savait."
+      ],
+      "explain_it": "Faire semblant de è un'espressione fissa; la parte con l'imperfetto descrive una situazione già in corso."
+    },
+    {
+      "id": "L093-e27",
+      "type": "write",
+      "level": 3,
+      "concept": "connectors",
+      "prompt": "Non osò parlare, tanto la folla era rumorosa.",
+      "answers": [
+        "Il n'osa pas parler, tant la foule était bruyante."
+      ],
+      "explain_it": "Tant introduce una causa in stile letterario; osa è il passato semplice di oser, regolare in -er."
+    },
+    {
+      "id": "L093-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "prepositions",
+      "prompt": "Il vicolo sbocca sulla piazza del mercato, dove tutti si ritrovano.",
+      "answers": [
+        "La ruelle débouche sur la place du marché, où [tout le monde se retrouve|tous se retrouvent]."
+      ],
+      "explain_it": "Déboucher sur indica lo sbocco; l'espressione tout le monde regge il verbo alla terza singolare."
+    },
+    {
+      "id": "L093-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-simple",
+      "prompt": "Dopo la rivoluzione, la Francia cambiò per sempre.",
+      "ask": "Traduci in francese usando il passé simple",
+      "answers": [
+        "Après la révolution, la France changea pour [toujours|à jamais]."
+      ],
+      "explain_it": "Changea è il passato semplice regolare di changer alla terza singolare; la forma in -ea è tipica dei verbi in -ger."
+    },
+    {
+      "id": "L093-e30",
+      "type": "dictation",
+      "level": 2,
+      "concept": "passe-simple",
+      "text": "Les soldats descendirent dans la cour du château."
+    },
+    {
+      "id": "L093-e31",
+      "type": "dictation",
+      "level": 3,
+      "concept": "passe-simple",
+      "text": "Les citoyens grandirent en liberté et choisirent leur avenir."
+    },
+    {
+      "id": "L093-e32",
+      "type": "dictation",
+      "level": 3,
+      "concept": "idioms",
+      "text": "Le plus souvent, le bon sens finit par l'emporter sur la colère."
+    },
+    {
+      "id": "L093-e33",
+      "type": "flash",
+      "level": 1,
+      "concept": "passe-simple",
+      "front": "Passato semplice dei verbi in -ir: quali desinenze?",
+      "back": "-is, -is, -it, -îmes, -îtes, -irent (es. finir: je finis, il finit, nous finîmes, ils finirent). Attenzione: io, tu e lui hanno la stessa forma del presente.",
+      "explain_it": "Le forme di noi, voi e loro sono quelle che cambiano davvero, quindi conviene memorizzarle prima."
+    },
+    {
+      "id": "L093-e34",
+      "type": "flash",
+      "level": 2,
+      "concept": "passe-simple",
+      "front": "Passato semplice dei verbi in -re: quali desinenze?",
+      "back": "-is, -is, -it, -îmes, -îtes, -irent (es. attendre: j'attendis, il attendit, ils attendirent); il tema è quello dell'infinito senza -re.",
+      "explain_it": "È lo stesso schema dei verbi in -ir: cambia solo il tema da cui si parte."
+    },
+    {
+      "id": "L093-e35",
+      "type": "flash",
+      "level": 2,
+      "concept": "idioms",
+      "front": "Soit come avverbio: che cosa significa e quando si usa?",
+      "back": "'Va bene, sia pure': accetta o concede un'idea, spesso prima di un 'ma' (Soit, je viendrai, mais tôt). È invariabile e non è il congiuntivo di être.",
+      "explain_it": "Riconoscerlo evita di tradurlo con 'sia' o 'sia lui'."
+    },
+    {
+      "id": "L093-e36",
+      "type": "flash",
+      "level": 3,
+      "concept": "prepositions",
+      "front": "Déboucher: che differenza c'è tra 'déboucher de' e 'déboucher sur'?",
+      "back": "Déboucher de = uscire da, sbucare da (Il déboucha de la gare). Déboucher sur = sboccare su, dare su (La rue débouche sur la place).",
+      "explain_it": "La preposizione cambia il significato: de indica il punto di partenza, sur il punto di arrivo."
+    }
+  ]
+}

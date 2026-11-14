@@ -1,0 +1,751 @@
+{
+  "n": 79,
+  "title_fr": "Il faut que je trouve une bonne excuse ...",
+  "title_it": "Devo trovare una buona scusa ...",
+  "review": false,
+  "status": "verified",
+  "source": "a1be3e47 pdf 90-97 (libro p.463-470; la lezione inizia a pdf 90, l'esercizio 2 e le sue risposte sono in fondo a pdf 96-97)",
+  "theme_it": "Martin telefona all'amico Thomas, pittore di professione, perché il socio del padre, Alexis, pretende che lo aiuti a dipingere casa e vorrebbe che lui fosse sempre disponibile. Martin non sa come rifiutare senza offenderlo, e Thomas gli suggerisce un modo franco ma gentile per dire di no.",
+  "grammar": [
+    {
+      "id": "subjonctif",
+      "title_it": "Il congiuntivo presente dopo sentimenti, timori e desideri",
+      "explain_it": "Dopo verbi ed espressioni che indicano sentimento (être content/heureux/triste que), timore (avoir peur que), desiderio o preferenza (vouloir que, préférer que) e dubbio, la frase introdotta da que ha il verbo al congiuntivo presente. In italiano succede qualcosa di simile con 'che + congiuntivo', quindi l'intuizione è spesso già pronta. Le forme più frequenti: être → que je sois, tu sois, il soit, nous soyons, vous soyez, ils soient; pouvoir → que je puisse, tu puisses, il puisse, nous puissions, vous puissiez, ils puissent. Per i verbi in -er le forme di je, tu, il e ils coincidono con il presente, mentre nous e vous aggiungono una -i- (que nous parlions, que vous parliez).",
+      "examples": [
+        {
+          "fr": "Je doute qu'il vienne demain.",
+          "it": "Dubito che venga domani."
+        },
+        {
+          "fr": "Il est important que nous parlions ensemble.",
+          "it": "È importante che parliamo insieme."
+        },
+        {
+          "fr": "J'ai peur qu'elle soit fatiguée.",
+          "it": "Ho paura che sia stanca."
+        }
+      ]
+    },
+    {
+      "id": "il-faut",
+      "title_it": "« Il faut que » con il congiuntivo",
+      "explain_it": "Il faut que corrisponde a 'bisogna che' e vuole sempre il congiuntivo: il faut que tu viennes. Il è impersonale, come in italiano 'bisogna'. Quando la necessità è generale o la persona è sottintesa, si usa il faut + infinito (il faut partir = bisogna partire); quando si vuole indicare chi deve fare l'azione si usa il faut que + congiuntivo (il faut que je parte = bisogna che io parta).",
+      "examples": [
+        {
+          "fr": "Il faut que tu sois à l'heure.",
+          "it": "Bisogna che tu sia puntuale."
+        },
+        {
+          "fr": "Il faut que nous attendions ici.",
+          "it": "Bisogna che aspettiamo qui."
+        }
+      ]
+    },
+    {
+      "id": "comparatives",
+      "title_it": "Il confronto di uguaglianza: aussi ... que",
+      "explain_it": "Per dire che due cose hanno la stessa qualità si usa aussi + aggettivo + que, equivalente all'italiano 'tanto ... quanto' o 'come'. Attenzione a non confondere con plus ... que (più di) e con autant, che non si usa davanti all'aggettivo.",
+      "examples": [
+        {
+          "fr": "Il est aussi gentil que son frère.",
+          "it": "È gentile quanto suo fratello."
+        },
+        {
+          "fr": "Elle est aussi intelligente que belle.",
+          "it": "È tanto intelligente quanto bella."
+        }
+      ]
+    },
+    {
+      "id": "vocab",
+      "title_it": "Apporter, emporter, amener, emmener: quattro verbi da distinguere",
+      "explain_it": "Tutti significano più o meno 'portare', ma cambia il punto di riferimento. Apporter e emporter si usano per le cose: apporter porta qualcosa nel luogo dove si va; emporter porta via con sé una cosa dal luogo in cui si è. Amener e emmener valgono per persone e animali: amener le porta con sé verso la destinazione, emmener le porta via dal luogo di partenza. Rispetto all'italiano la differenza non è sempre ovvia, quindi conviene guardare il punto di arrivo o di partenza.",
+      "examples": [
+        {
+          "fr": "J'apporte mes outils au chantier.",
+          "it": "Porto i miei attrezzi al cantiere."
+        },
+        {
+          "fr": "J'emporte les déchets avec moi.",
+          "it": "Porto via i rifiuti con me."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Espressioni utili: en vouloir à, n'empêche, il suffit de",
+      "explain_it": "En vouloir à qqn significa 'avercela con qualcuno' o 'prendersela con lui', e si usa spesso in forma negativa per chiedere scusa: Vous ne m'en voulez pas ? (non se la prende con me, vero?). N'empêche è un'espressione colloquiale che significa 'comunque, lo stesso', e si usa per concedere un punto ma mantenere la propria opinione. Il suffit de + infinito significa 'basta fare qualcosa'. Empêcher (impedire) si usa con qualcosa che trattiene: Qu'est-ce qui t'empêche ? (che cosa ti trattiene?).",
+      "examples": [
+        {
+          "fr": "Mon père m'en veut un peu.",
+          "it": "Mio padre se la prende un po' con me."
+        },
+        {
+          "fr": "Il suffit de demander.",
+          "it": "Basta chiedere."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "l'associé (m.)",
+      "it": "il socio",
+      "pos": "n"
+    },
+    {
+      "fr": "le salon",
+      "it": "il soggiorno",
+      "pos": "n"
+    },
+    {
+      "fr": "la salle à manger",
+      "it": "la sala da pranzo",
+      "pos": "n"
+    },
+    {
+      "fr": "le peintre",
+      "it": "il pittore (o l'imbianchino)",
+      "pos": "n"
+    },
+    {
+      "fr": "peindre",
+      "it": "dipingere",
+      "pos": "v",
+      "note": "je peins"
+    },
+    {
+      "fr": "le matériel",
+      "it": "l'attrezzatura",
+      "pos": "n"
+    },
+    {
+      "fr": "le pinceau",
+      "it": "il pennello",
+      "pos": "n"
+    },
+    {
+      "fr": "le rouleau",
+      "it": "il rullo",
+      "pos": "n"
+    },
+    {
+      "fr": "le plafond",
+      "it": "il soffitto",
+      "pos": "n"
+    },
+    {
+      "fr": "l'employé (m.)",
+      "it": "il dipendente",
+      "pos": "n"
+    },
+    {
+      "fr": "le déchet",
+      "it": "il rifiuto",
+      "pos": "n"
+    },
+    {
+      "fr": "la déchetterie",
+      "it": "il centro di raccolta rifiuti",
+      "pos": "n"
+    },
+    {
+      "fr": "l'aube (f.)",
+      "it": "l'alba",
+      "pos": "n"
+    },
+    {
+      "fr": "le chantier",
+      "it": "il cantiere",
+      "pos": "n"
+    },
+    {
+      "fr": "l'apprenti (m.)",
+      "it": "l'apprendista",
+      "pos": "n"
+    },
+    {
+      "fr": "la rougeole",
+      "it": "il morbillo",
+      "pos": "n"
+    },
+    {
+      "fr": "l'épidémie (f.)",
+      "it": "l'epidemia",
+      "pos": "n"
+    },
+    {
+      "fr": "l'excuse (f.)",
+      "it": "la scusa",
+      "pos": "n"
+    },
+    {
+      "fr": "franc",
+      "it": "franco, sincero",
+      "pos": "adj",
+      "note": "f. franche"
+    },
+    {
+      "fr": "exigeant",
+      "it": "esigente",
+      "pos": "adj",
+      "note": "f. exigeante"
+    },
+    {
+      "fr": "vexé",
+      "it": "offeso, risentito",
+      "pos": "adj",
+      "note": "f. vexée"
+    },
+    {
+      "fr": "disponible",
+      "it": "disponibile",
+      "pos": "adj"
+    },
+    {
+      "fr": "fâché",
+      "it": "arrabbiato",
+      "pos": "adj",
+      "note": "fâché contre qqn"
+    },
+    {
+      "fr": "emporter",
+      "it": "portare via (con sé)",
+      "pos": "v",
+      "note": "j'emporte"
+    },
+    {
+      "fr": "empêcher",
+      "it": "impedire, trattenere",
+      "pos": "v",
+      "note": "Qu'est-ce qui t'empêche ?"
+    },
+    {
+      "fr": "un empêchement",
+      "it": "un imprevisto, un intoppo",
+      "pos": "n"
+    },
+    {
+      "fr": "suffire",
+      "it": "bastare",
+      "pos": "v",
+      "note": "il suffit de"
+    },
+    {
+      "fr": "permettre",
+      "it": "permettere",
+      "pos": "v",
+      "note": "tu permets que"
+    },
+    {
+      "fr": "valoir",
+      "it": "valere",
+      "pos": "v",
+      "note": "il vaudrait mieux que"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "N'empêche.",
+      "it": "Comunque, lo stesso.",
+      "note": "colloquiale; concede un punto ma non cambia l'opinione"
+    },
+    {
+      "fr": "Vous ne m'en voulez pas ?",
+      "it": "Non se la prende con me, vero?",
+      "note": "formula cortese per chiedere scusa"
+    },
+    {
+      "fr": "Qu'est-ce qui t'empêche ?",
+      "it": "Che cosa ti trattiene?",
+      "note": "informale"
+    },
+    {
+      "fr": "Il suffit de le dire.",
+      "it": "Basta dirlo.",
+      "note": "il suffit de + infinito"
+    },
+    {
+      "fr": "Tu permets que je ... ?",
+      "it": "Mi permetti di ...?",
+      "note": "chiedere il permesso in modo informale; che + congiuntivo"
+    },
+    {
+      "fr": "un empêchement de dernière minute",
+      "it": "un imprevisto dell'ultimo minuto",
+      "note": "per un impegno improvviso"
+    },
+    {
+      "fr": "À défaut,",
+      "it": "In mancanza di meglio,",
+      "note": "registro formale o semiformale"
+    }
+  ],
+  "notes_it": [
+    "Pronuncia: sois, soit e soient si pronunciano allo stesso modo (swa). Nel congiuntivo di être le differenze sono solo ortografiche, quindi bisogna ricordare la persona per scriverle bene.",
+    "Falso amico: 'le salon' non è il 'salone' italiano, cioè la grande sala di rappresentanza, ma il soggiorno della casa, mentre la sala da pranzo è la salle à manger.",
+    "'Le sujet' significa 'l'argomento' nel senso di 'tema di discussione' (C'est à quel sujet ? = a che proposito?), non il 'soggetto' generico, anche se in grammatica il termine è lo stesso.",
+    "'Un peintre' può essere sia un artista sia l'imbianchino o decoratore edile (peintre en bâtiment). Il contesto della conversazione, qui una casa da ritinteggiare, indica il secondo significato.",
+    "Le formule di cortesia come Ça ne vous dérange pas ? e Tu permets que... ? sono molto usate nel parlato: letteralmente 'ti permetti che', in italiano suonano come 'ti dispiace se...?' o 'mi permetti di...?'."
+  ],
+  "exercises": [
+    {
+      "id": "L079-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "subjonctif",
+      "prompt": "Completa la frase con la forma giusta: « Je suis contente qu'il ___ là. »",
+      "options": [
+        "soit",
+        "est",
+        "sera",
+        "être"
+      ],
+      "correct": 0,
+      "explain_it": "Dopo 'être content/contente que' il verbo va al congiuntivo: 'soit' è la forma di être per il/elle; est è l'indicativo."
+    },
+    {
+      "id": "L079-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "il-faut",
+      "prompt": "Completa (verbo parler): « Il faut que nous ___ ce soir. »",
+      "options": [
+        "parlons",
+        "parlions",
+        "parler",
+        "parlez"
+      ],
+      "correct": 1,
+      "explain_it": "Con 'il faut que' serve il congiuntivo: per nous i verbi in -er aggiungono una -i- (parlions). Parlons è l'indicativo e parler è l'infinito."
+    },
+    {
+      "id": "L079-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "vocab",
+      "prompt": "Quale verbo usi per dire « portare via i rifiuti » con sé, lasciando il luogo?",
+      "options": [
+        "emporter",
+        "apporter",
+        "amener",
+        "emmener"
+      ],
+      "correct": 0,
+      "explain_it": "Emporter si usa per le cose che porti con te quando te ne vai; apporter indica il portare qualcosa nel luogo di destinazione, amener ed emmener riguardano persone o animali."
+    },
+    {
+      "id": "L079-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "comparatives",
+      "prompt": "Come si dice « lei è tanto gentile quanto divertente »?",
+      "options": [
+        "Elle est aussi gentille que drôle.",
+        "Elle est plus gentille que drôle.",
+        "Elle est aussi gentille de drôle.",
+        "Elle est autant gentille à drôle."
+      ],
+      "correct": 0,
+      "explain_it": "Il confronto di uguaglianza è aussi + aggettivo + que; plus significa 'più' e autant non si usa davanti agli aggettivi."
+    },
+    {
+      "id": "L079-e05",
+      "type": "order",
+      "level": 1,
+      "concept": "il-faut",
+      "prompt": "Bisogna che tu venga domani.",
+      "answers": [
+        "Il faut que tu viennes demain."
+      ],
+      "distractors": [
+        "viens",
+        "vas"
+      ],
+      "explain_it": "Dopo 'il faut que' il verbo va al congiuntivo: venir alla seconda persona singolare diventa viennes."
+    },
+    {
+      "id": "L079-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "subjonctif",
+      "prompt": "Sono triste che tu non possa venire.",
+      "answers": [
+        "Je suis triste que tu ne puisses pas venir."
+      ],
+      "distractors": [
+        "peux",
+        "pouvoir"
+      ],
+      "explain_it": "Pouvoir al congiuntivo diventa puisses alla tu: il verbo dopo que non è mai all'indicativo dopo 'être triste que'."
+    },
+    {
+      "id": "L079-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "subjonctif",
+      "prompt": "Sono felice che i nostri amici siano qui.",
+      "answers": [
+        "Je suis [heureux|heureuse] que nos amis soient [là|ici]."
+      ],
+      "distractors": [
+        "sont",
+        "seront"
+      ],
+      "explain_it": "Être al congiuntivo per ils/elles è soient: sont è l'indicativo e seront il futuro, entrambi sbagliati dopo 'heureux que'."
+    },
+    {
+      "id": "L079-e08",
+      "type": "cloze",
+      "level": 1,
+      "concept": "il-faut",
+      "text": "Il faut que je ___ mes clés avant midi.",
+      "answers": [
+        "trouve"
+      ],
+      "hint": "(trouver, congiuntivo presente, io)",
+      "prompt": "Bisogna che io trovi le chiavi prima di mezzogiorno.",
+      "explain_it": "Con je, il congiuntivo di un verbo in -er coincide con il presente: trouve."
+    },
+    {
+      "id": "L079-e09",
+      "type": "cloze",
+      "level": 1,
+      "concept": "subjonctif",
+      "text": "Je préfère que vous ___ à l'heure.",
+      "answers": [
+        "soyez"
+      ],
+      "hint": "(être, congiuntivo, voi)",
+      "prompt": "Preferisco che siate puntuali.",
+      "explain_it": "Être al congiuntivo per vous è soyez, forma irregolare da ricordare a memoria."
+    },
+    {
+      "id": "L079-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "subjonctif",
+      "text": "J'ai peur qu'elle ___ fatiguée.",
+      "answers": [
+        "soit"
+      ],
+      "hint": "(être, congiuntivo, lei)",
+      "prompt": "Ho paura che sia stanca.",
+      "explain_it": "Dopo 'avoir peur que' va il congiuntivo: per elle è soit."
+    },
+    {
+      "id": "L079-e11",
+      "type": "cloze",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "Il faut que vous ___ venir demain.",
+      "answers": [
+        "puissiez"
+      ],
+      "hint": "(pouvoir, congiuntivo, voi)",
+      "prompt": "Bisogna che possiate venire domani.",
+      "explain_it": "Pouvoir ha una radice irregolare al congiuntivo (pui-), e per vous la forma è puissiez."
+    },
+    {
+      "id": "L079-e12",
+      "type": "cloze",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "Il vaudrait mieux que nous ___ prudents.",
+      "answers": [
+        "soyons"
+      ],
+      "hint": "(être, congiuntivo, noi)",
+      "prompt": "Sarebbe meglio che fossimo prudenti.",
+      "explain_it": "Con nous il congiuntivo di être è soyons, e Il vaudrait mieux que richiede proprio questo modo."
+    },
+    {
+      "id": "L079-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "comparatives",
+      "text": "Cet appartement est ___ grand que le mien.",
+      "answers": [
+        "aussi"
+      ],
+      "hint": "(tanto ... quanto)",
+      "prompt": "Questo appartamento è grande quanto il mio.",
+      "explain_it": "Per il confronto di uguaglianza si usa aussi davanti all'aggettivo, seguito da que."
+    },
+    {
+      "id": "L079-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Ma sœur ne m'en ___ pas.",
+      "answers": [
+        "veut"
+      ],
+      "hint": "(en vouloir à, presente, lei)",
+      "prompt": "Mia sorella non se la prende con me.",
+      "explain_it": "En vouloir à qqn significa 'prendersela con qualcuno': si coniuga come vouloir, e il pronome en (qui m') indica il motivo per cui qualcuno se la prende."
+    },
+    {
+      "id": "L079-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "il-faut",
+      "prompt": "Bisogna che io parli con il direttore.",
+      "answers": [
+        "Il faut que je parle au directeur.",
+        "Il faut que je parle avec le directeur."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Dopo 'il faut que' il verbo va al congiuntivo, e parler per je resta parle."
+    },
+    {
+      "id": "L079-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Sono felice che tu venga alla festa.",
+      "answers": [
+        "Je suis [heureux|heureuse|content|contente] que tu viennes à la fête."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Dopo 'être heureux que' il verbo è al congiuntivo: venir alla tu diventa viennes."
+    },
+    {
+      "id": "L079-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Ho paura che lei sia delusa.",
+      "answers": [
+        "J'ai peur qu'elle soit déçue."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Dopo 'avoir peur que' il congiuntivo è obbligatorio; l'aggettivo déçue concorda con il soggetto femminile."
+    },
+    {
+      "id": "L079-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "il-faut",
+      "prompt": "Bisogna che finiamo oggi.",
+      "answers": [
+        "Il faut que nous finissions aujourd'hui."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Finir al congiuntivo usa il tema in -iss-: que nous finissions (come per i verbi in -ir del secondo gruppo)."
+    },
+    {
+      "id": "L079-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Che cosa ti trattiene?",
+      "answers": [
+        "Qu'est-ce qui t'empêche ?",
+        "Qu'est-ce qui te retient ?"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Empêcher è il verbo di 'impedire' o 'trattenere', e in questa domanda il soggetto è qui, che ha il verbo alla terza persona singolare."
+    },
+    {
+      "id": "L079-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Non se la prende con me, vero?",
+      "answers": [
+        "Vous ne m'en voulez pas ?",
+        "Vous ne m'en voulez pas, n'est-ce pas ?"
+      ],
+      "ask": "Traduci in francese, usa la forma di cortesia",
+      "explain_it": "En vouloir à qqn si usa in forma negativa per chiedere scusa; con vous (forma di cortesia) il verbo è voulez."
+    },
+    {
+      "id": "L079-e21",
+      "type": "dictation",
+      "level": 2,
+      "concept": "il-faut",
+      "text": "Il faut que nous parlions de ce projet.",
+      "explain_it": "Parler di qualcosa: parler de; con nous il congiuntivo è parlions."
+    },
+    {
+      "id": "L079-e22",
+      "type": "dictation",
+      "level": 2,
+      "concept": "comparatives",
+      "text": "Ton ami est aussi drôle que sympathique.",
+      "explain_it": "Aussi + aggettivo + que: ton ami è tanto divertente quanto simpatico."
+    },
+    {
+      "id": "L079-e23",
+      "type": "flash",
+      "level": 2,
+      "concept": "subjonctif",
+      "front": "Dopo « je suis content que », « il faut que », « j'ai peur que »: quale modo verbale segue la frase con que?",
+      "back": "Il congiuntivo presente: il verbo della frase introdotta da que va al congiuntivo quando esprime sentimento, timore o necessità.",
+      "note": "Il congiuntivo è il modo dell'opinione soggettiva, della volontà e del timore."
+    },
+    {
+      "id": "L079-e24",
+      "type": "flash",
+      "level": 2,
+      "concept": "subjonctif",
+      "front": "Congiuntivo presente di « être » con tutte le persone.",
+      "back": "que je sois, que tu sois, qu'il/elle soit, que nous soyons, que vous soyez, qu'ils/elles soient",
+      "note": "Sois, soit e soient si pronunciano allo stesso modo."
+    },
+    {
+      "id": "L079-e25",
+      "type": "flash",
+      "level": 2,
+      "concept": "subjonctif",
+      "front": "Congiuntivo presente dei verbi in -er: come si forma la prima e la seconda persona plurale?",
+      "back": "Nous e vous aggiungono una -i- prima della desinenza: que nous parlions, que vous parliez. Per je, tu, il e ils la forma coincide con il presente.",
+      "note": "La -i- distingue il congiuntivo dal presente indicativo nelle persone plurali."
+    },
+    {
+      "id": "L079-e26",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Bisogna che tu venga domani e che porti il materiale.",
+      "answers": [
+        "Il faut que tu viennes demain et que tu apportes le matériel.",
+        "Il faut que tu viennes demain et que tu portes le matériel."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Con due verbi nella stessa subordinata si ripete que e si usa il congiuntivo per ciascuno; apporter alla tu è apportes."
+    },
+    {
+      "id": "L079-e27",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Sono triste che Marc sia così esigente e che tu non possa aiutarlo.",
+      "answers": [
+        "Je suis triste que Marc soit si exigeant et que tu ne puisses pas l'aider."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Dopo 'être triste que' entrambi i verbi della subordinata sono al congiuntivo: soit e puisses, con ne...pas attorno a puisses."
+    },
+    {
+      "id": "L079-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "il-faut",
+      "prompt": "Bisogna che noi lo aiutiamo a dipingere il salotto.",
+      "answers": [
+        "Il faut que nous l'aidions à peindre le salon.",
+        "Il faut qu'on l'aide à peindre le salon."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Il pronome complemento l' precede il verbo aider, e la forma di nous al congiuntivo è aidions."
+    },
+    {
+      "id": "L079-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "vocab",
+      "prompt": "Porta i pennelli e porta via i rifiuti.",
+      "answers": [
+        "Apporte les pinceaux et emporte les déchets."
+      ],
+      "ask": "Traduci in francese, usa la forma con tu",
+      "explain_it": "Apporter porta le cose nel luogo di destinazione, emporter le porta via con sé: due verbi diversi per due movimenti diversi."
+    },
+    {
+      "id": "L079-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Basta guardarlo dritto negli occhi e dirgli di no.",
+      "answers": [
+        "Il suffit de le regarder droit dans les yeux et de lui dire non.",
+        "Il suffit de le regarder dans les yeux et de lui dire non."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Il suffit de + infinito significa 'basta fare'. Dire non a qualcuno: il pronome indiretto lui precede l'infinito (de lui dire non)."
+    },
+    {
+      "id": "L079-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Comunque, non sono d'accordo con te.",
+      "answers": [
+        "N'empêche, je ne suis pas d'accord avec toi.",
+        "Quand même, je ne suis pas d'accord avec toi."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "N'empêche è un'espressione colloquiale per 'comunque, ciò non toglie che', in apertura di frase."
+    },
+    {
+      "id": "L079-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Sono contento. Tu vieni domani.",
+      "answers": [
+        "Je suis [content|contente|heureux|heureuse] que tu viennes demain."
+      ],
+      "ask": "Unisci le due frasi con « que » e il congiuntivo",
+      "explain_it": "La seconda frase diventa una subordinata introdotta da que, e il verbo va al congiuntivo dopo être content."
+    },
+    {
+      "id": "L079-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "il-faut",
+      "prompt": "Non serve che tu venga.",
+      "answers": [
+        "Il n'est pas nécessaire que tu viennes.",
+        "Ce n'est pas la peine que tu viennes.",
+        "Tu n'as pas besoin de venir."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Dopo espressioni di necessità, anche negative, va il congiuntivo (il n'est pas nécessaire que). Attenzione: Il ne faut pas que tu viennes significa 'non devi venire'."
+    },
+    {
+      "id": "L079-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Vorrei che tu fossi più disponibile domani.",
+      "answers": [
+        "Je voudrais que tu sois plus disponible demain."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Il desiderio con vouloir o je voudrais que richiede il congiuntivo, e être alla tu è sois."
+    },
+    {
+      "id": "L079-e35",
+      "type": "mcq",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Quale forma completa la frase? « Il est triste qu'ils ___ malades. »",
+      "options": [
+        "soient",
+        "sont",
+        "seront",
+        "étant"
+      ],
+      "correct": 0,
+      "explain_it": "Dopo 'être triste que' il verbo va al congiuntivo: per ils è soient, mentre sont è l'indicativo."
+    },
+    {
+      "id": "L079-e36",
+      "type": "order",
+      "level": 2,
+      "concept": "comparatives",
+      "prompt": "È tanto simpatico quanto intelligente.",
+      "answers": [
+        "Il est aussi sympathique qu'intelligent."
+      ],
+      "distractors": [
+        "plus",
+        "de"
+      ],
+      "explain_it": "Il confronto di uguaglianza è aussi + aggettivo + que, e l'elisione que + intelligent diventa qu'intelligent."
+    }
+  ]
+}

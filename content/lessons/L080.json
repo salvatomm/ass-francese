@@ -1,0 +1,825 @@
+{
+  "n": 80,
+  "title_fr": "Notre action ne dépend que de vous",
+  "title_it": "La nostra azione dipende solo da voi",
+  "review": false,
+  "status": "verified",
+  "source": "a1be3e47 pdf 96-98 + 4a88e539 pdf 1-5 (libro p.469-476; la lezione inizia in basso a pdf 96 (p.469) sotto l'esercizio 2 della L79; dialogo a pdf 96-98 e 1-3; note 1-10; esercizi a pdf 4 (p.475), risposte in alto a pdf 5 (p.476); la lezione 81 inizia in basso a p.476)",
+  "theme_it": "Un sindacato dei servizi pubblici annuncia uno sciopero per fine gennaio e chiede aumenti di stipendio e condizioni migliori per i congedi per malattia. Un leader sindacale parla ai militanti e li esorta: l'azione dipende da loro. Nel dialogo si discute del fatto che i datori di lavoro usano due pesi e due misure quando un dipendente si assenta per malattia.",
+  "grammar": [
+    {
+      "id": "subjonctif",
+      "title_it": "Il congiuntivo dopo espressioni di richiesta, necessità, dispiacere e attesa",
+      "explain_it": "Dopo il faut que, il est dommage que, exiger que, attendre que e supposer que il verbo va al congiuntivo, perché esprime qualcosa di voluto, necessario, incerto o non ancora avvenuto. Con insister il francese vuole la preposizione pour davanti a que: insister pour que. In italiano il congiuntivo compare nelle stesse situazioni (bisogna che, è un peccato che, esigo che), ma il francese lo usa più spesso. Se invece la frase esprime una certezza, come il est évident que, si usa l'indicativo.",
+      "examples": [
+        {
+          "fr": "Il faut que tu viennes.",
+          "it": "Bisogna che tu venga."
+        },
+        {
+          "fr": "J'insiste pour que vous réfléchissiez.",
+          "it": "Insisto perché riflettiate."
+        },
+        {
+          "fr": "Il est évident que tu as raison.",
+          "it": "È evidente che hai ragione. (indicativo)"
+        }
+      ]
+    },
+    {
+      "id": "subjonctif",
+      "title_it": "Congiuntivo presente dei verbi in -ir (élargir)",
+      "explain_it": "I verbi in -ir del secondo gruppo al congiuntivo usano la radice del plurale (élargiss-): que j'élargisse, que tu élargisses, qu'il élargisse, que nous élargissions, que vous élargissiez, qu'ils élargissent. Le desinenze sono quelle del congiuntivo (-e, -es, -e, -ions, -iez, -ent) aggiunte a questa radice. Il congiuntivo è quasi sempre preceduto da que.",
+      "examples": [
+        {
+          "fr": "Il faut que nous élargissions le mouvement.",
+          "it": "Bisogna che allarghiamo il movimento."
+        },
+        {
+          "fr": "J'exige que tu réfléchisses.",
+          "it": "Esigo che tu rifletta."
+        }
+      ]
+    },
+    {
+      "id": "subjonctif",
+      "title_it": "Il congiuntivo di avoir",
+      "explain_it": "Avoir è irregolare anche al congiuntivo: que j'aie, que tu aies, qu'il ait, que nous ayons, que vous ayez, qu'ils aient. Va memorizzato: in 'Il faut que j'aie le temps' la forma è aie, non ai.",
+      "examples": [
+        {
+          "fr": "Il est dommage que tu n'aies pas le temps.",
+          "it": "Peccato che tu non abbia tempo."
+        },
+        {
+          "fr": "Supposons que vous ayez la grippe.",
+          "it": "Supponiamo che abbiate l'influenza."
+        }
+      ]
+    },
+    {
+      "id": "negation-other",
+      "title_it": "Ne ... que: il senso di 'solo'",
+      "explain_it": "La costruzione ne ... que esprime restrizione e significa 'solo, soltanto'. Il ne va davanti al verbo, que davanti alla parola limitata: Il ne mange que des légumes. Non è una vera negazione: la frase è affermativa nel senso, ma limita. Attenzione a ne ... pas que, che significa 'non solo' (Il ne mange pas que des légumes). Nel francese scritto il ne è obbligatorio.",
+      "examples": [
+        {
+          "fr": "Ça ne dépend que de moi.",
+          "it": "Dipende solo da me."
+        },
+        {
+          "fr": "Elle ne parle que d'argent.",
+          "it": "Parla solo di soldi."
+        },
+        {
+          "fr": "Il n'y a que deux candidats.",
+          "it": "Ci sono solo due candidati."
+        }
+      ]
+    },
+    {
+      "id": "false-friends",
+      "title_it": "Réclamer e réclamation: falsi amici",
+      "explain_it": "Réclamer non è il falso 'reclamare' (lamentarsi, protestare): significa 'chiedere con forza, rivendicare, esigere ciò che è dovuto': réclamer des résultats = pretendere dei risultati. Il sostantivo une réclamation è invece il reclamo, la lamentela formale presentata a un ufficio o a un servizio.",
+      "examples": [
+        {
+          "fr": "Le syndicat réclame des augmentations.",
+          "it": "Il sindacato chiede (con forza) degli aumenti."
+        },
+        {
+          "fr": "J'ai fait une réclamation au service client.",
+          "it": "Ho presentato un reclamo al servizio clienti."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le syndicat",
+      "it": "il sindacato",
+      "pos": "n"
+    },
+    {
+      "fr": "le syndicaliste",
+      "it": "il/la sindacalista",
+      "pos": "n"
+    },
+    {
+      "fr": "la grève",
+      "it": "lo sciopero",
+      "pos": "n"
+    },
+    {
+      "fr": "le préavis",
+      "it": "il preavviso",
+      "pos": "n"
+    },
+    {
+      "fr": "réclamer",
+      "it": "richiedere, esigere",
+      "pos": "v",
+      "note": "je réclame"
+    },
+    {
+      "fr": "la réclamation",
+      "it": "il reclamo",
+      "pos": "n"
+    },
+    {
+      "fr": "l'exigence (f.)",
+      "it": "l'esigenza, la richiesta",
+      "pos": "n"
+    },
+    {
+      "fr": "exiger",
+      "it": "esigere",
+      "pos": "v",
+      "note": "j'exige"
+    },
+    {
+      "fr": "l'augmentation (f.)",
+      "it": "l'aumento",
+      "pos": "n"
+    },
+    {
+      "fr": "le salaire",
+      "it": "lo stipendio",
+      "pos": "n"
+    },
+    {
+      "fr": "le congé",
+      "it": "il congedo, il permesso",
+      "pos": "n",
+      "note": "congé maladie = congedo per malattia"
+    },
+    {
+      "fr": "le patronat",
+      "it": "il padronato, i datori di lavoro",
+      "pos": "n"
+    },
+    {
+      "fr": "le patron",
+      "it": "il capo, il datore di lavoro",
+      "pos": "n"
+    },
+    {
+      "fr": "la grogne",
+      "it": "il malcontento, il mugugno",
+      "pos": "n"
+    },
+    {
+      "fr": "l'entreprise (f.)",
+      "it": "l'azienda, l'impresa",
+      "pos": "n"
+    },
+    {
+      "fr": "le secteur",
+      "it": "il settore",
+      "pos": "n"
+    },
+    {
+      "fr": "la sidérurgie",
+      "it": "la siderurgia",
+      "pos": "n"
+    },
+    {
+      "fr": "le discours",
+      "it": "il discorso",
+      "pos": "n"
+    },
+    {
+      "fr": "l'ouvrier (m.)",
+      "it": "l'operaio",
+      "pos": "n"
+    },
+    {
+      "fr": "paresseux",
+      "it": "pigro",
+      "pos": "adj",
+      "note": "f. paresseuse"
+    },
+    {
+      "fr": "la honte",
+      "it": "la vergogna",
+      "pos": "n"
+    },
+    {
+      "fr": "le poids",
+      "it": "il peso",
+      "pos": "n"
+    },
+    {
+      "fr": "la mesure",
+      "it": "la misura",
+      "pos": "n"
+    },
+    {
+      "fr": "le délai",
+      "it": "il termine, la scadenza",
+      "pos": "n"
+    },
+    {
+      "fr": "l'avenir (m.)",
+      "it": "il futuro",
+      "pos": "n"
+    },
+    {
+      "fr": "dépendre de",
+      "it": "dipendere da",
+      "pos": "v",
+      "note": "je dépends de"
+    },
+    {
+      "fr": "durcir",
+      "it": "inasprire, irrigidire",
+      "pos": "v"
+    },
+    {
+      "fr": "élargir",
+      "it": "allargare",
+      "pos": "v",
+      "note": "j'élargis"
+    },
+    {
+      "fr": "insister",
+      "it": "insistere",
+      "pos": "v",
+      "note": "insister pour que"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "ne dépend que de vous",
+      "it": "dipende solo da voi",
+      "note": "ne ... que = solo"
+    },
+    {
+      "fr": "C'est une honte !",
+      "it": "È una vergogna!",
+      "note": "esclamazione di indignazione"
+    },
+    {
+      "fr": "Quel dommage !",
+      "it": "Che peccato!",
+      "note": "espressione comune, anche nella forma Quel dommage que"
+    },
+    {
+      "fr": "deux poids, deux mesures",
+      "it": "due pesi, due misure",
+      "note": "trattamento diseguale di casi simili"
+    },
+    {
+      "fr": "dans les plus brefs délais",
+      "it": "nel più breve tempo possibile",
+      "note": "registro formale o amministrativo"
+    },
+    {
+      "fr": "en matière de",
+      "it": "in materia di",
+      "note": "registro formale"
+    },
+    {
+      "fr": "pour l'instant",
+      "it": "per il momento",
+      "note": "uso neutro"
+    },
+    {
+      "fr": "dans le cadre de",
+      "it": "nell'ambito di",
+      "note": "uso neutro e formale"
+    },
+    {
+      "fr": "aller au-delà de",
+      "it": "andare oltre",
+      "note": "anche in senso figurato"
+    },
+    {
+      "fr": "y compris",
+      "it": "compreso, incluso",
+      "note": "invariabile, si usa prima dell'elenco"
+    }
+  ],
+  "notes_it": [
+    "Falso amico: 'réclamer' non è 'reclamare' (lamentarsi) ma 'richiedere, esigere'. Il reclamo si dice une réclamation e l'ufficio reclami è le bureau des réclamations.",
+    "'Camarade' significa 'compagno, amico', anche in senso sindacale o politico. Non va confuso con 'camerata', parola che in italiano ha oggi un forte connotato fascista.",
+    "'Le congé' non significa solo 'vacanza' (le vacances): può essere un congedo o un permesso. Congé maladie indica l'assenza dal lavoro per malattia, con lo stesso valore del congedo per malattia italiano.",
+    "'Leader' è usato in francese soprattutto in politica e nel management. Nel linguaggio di lavoro si preferiscono dirigeant o responsable.",
+    "Pronuncia: 'grogne' ha il suono 'gn' come nell'italiano 'bagno'. In 'exiger' ed 'exigence' la 'x' si legge come gz, come in inglese 'exam'."
+  ],
+  "exercises": [
+    {
+      "id": "L080-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "subjonctif",
+      "prompt": "Quale forma completa la frase? « Il faut que nous ___ demain. » (partir)",
+      "options": [
+        "partons",
+        "partions",
+        "partez",
+        "partiez"
+      ],
+      "correct": 1,
+      "explain_it": "Dopo il faut que il verbo va al congiuntivo: per nous la forma è partions, non partons (indicativo)."
+    },
+    {
+      "id": "L080-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "negation-other",
+      "prompt": "Quale frase significa 'Dipende solo da te'?",
+      "options": [
+        "Ça dépend que de toi.",
+        "Ça ne dépend que de toi.",
+        "Ça ne dépend pas de toi."
+      ],
+      "correct": 1,
+      "explain_it": "Ne ... que significa 'solo': il ne va prima del verbo e que prima della parola limitata. Ne ... pas, invece, nega."
+    },
+    {
+      "id": "L080-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "false-friends",
+      "prompt": "In francese, 'réclamer' significa:",
+      "options": [
+        "richiedere, esigere",
+        "reclamare, lamentarsi",
+        "rimproverare",
+        "rimborsare"
+      ],
+      "correct": 0,
+      "explain_it": "Falso amico: in italiano 'reclamare' è lamentarsi, mentre réclamer è chiedere con forza ciò che spetta."
+    },
+    {
+      "id": "L080-e04",
+      "type": "mcq",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Quale frase è corretta? Significa: 'Peccato che tu non venga.'",
+      "options": [
+        "Il est dommage que tu ne viens pas.",
+        "Il est dommage que tu ne viennes pas.",
+        "Il est dommage que tu ne venir pas."
+      ],
+      "correct": 1,
+      "explain_it": "Dopo il est dommage que si usa il congiuntivo: que tu viennes, da venir."
+    },
+    {
+      "id": "L080-e05",
+      "type": "mcq",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Che cosa significa « un congé maladie »?",
+      "options": [
+        "un congedo per malattia",
+        "una vacanza di malattia",
+        "un licenziamento per salute",
+        "una visita medica"
+      ],
+      "correct": 0,
+      "explain_it": "Congé vuol dire congedo o permesso di assenza dal lavoro; con maladie indica l'assenza per malattia, non una vacanza."
+    },
+    {
+      "id": "L080-e06",
+      "type": "mcq",
+      "level": 1,
+      "concept": "subjonctif",
+      "prompt": "Quale forma completa la frase? « J'insiste pour que tu ___ attention. » (faire)",
+      "options": [
+        "fais",
+        "fasses",
+        "faisais"
+      ],
+      "correct": 1,
+      "explain_it": "Insister pour que vuole il congiuntivo: que tu fasses, non fais."
+    },
+    {
+      "id": "L080-e07",
+      "type": "mcq",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Quale forma completa la frase? « J'attends que vous ___ votre travail. » (finir)",
+      "options": [
+        "finissez",
+        "finissiez",
+        "finissions"
+      ],
+      "correct": 1,
+      "explain_it": "Attendre que vuole il congiuntivo; per vous, nei verbi in -ir, la forma è finissiez."
+    },
+    {
+      "id": "L080-e08",
+      "type": "mcq",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Quale forma completa la frase? « Il est dommage qu'ils ___ pas venir ce soir. » (pouvoir)",
+      "options": [
+        "ne peuvent",
+        "ne puissent",
+        "ne pouvaient",
+        "ne pourront"
+      ],
+      "correct": 1,
+      "explain_it": "Dopo il est dommage que va il congiuntivo: ils puissent (ne puissent pas venir); le altre forme sono indicativo, imperfetto o futuro."
+    },
+    {
+      "id": "L080-e09",
+      "type": "mcq",
+      "level": 3,
+      "concept": "negation-other",
+      "prompt": "Quale traduzione corrisponde a 'Dipende solo dalla sua volontà'?",
+      "options": [
+        "Ça ne dépend que de sa volonté.",
+        "Ça ne dépend pas que de sa volonté.",
+        "Ça dépend que de sa volonté."
+      ],
+      "correct": 0,
+      "explain_it": "Ne ... que significa 'solo'; ne ... pas que significa 'non solo', cioè il contrario."
+    },
+    {
+      "id": "L080-e10",
+      "type": "order",
+      "level": 1,
+      "concept": "subjonctif",
+      "prompt": "È un peccato che tu non sia qui.",
+      "answers": [
+        "[Il est|C'est] dommage que tu ne sois pas [là|ici]."
+      ],
+      "distractors": [
+        "soit"
+      ],
+      "explain_it": "Dopo il est dommage que si usa il congiuntivo di être: tu sois."
+    },
+    {
+      "id": "L080-e11",
+      "type": "order",
+      "level": 1,
+      "concept": "negation-other",
+      "prompt": "Dipende solo da lui.",
+      "answers": [
+        "Ça ne dépend que de lui.",
+        "Cela ne dépend que de lui."
+      ],
+      "distractors": [
+        "pas"
+      ],
+      "explain_it": "Ne ... que va costruito intorno al verbo: ne dépend que de lui."
+    },
+    {
+      "id": "L080-e12",
+      "type": "order",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Insisto perché tu finisca il lavoro.",
+      "answers": [
+        "J'insiste pour que tu finisses le travail."
+      ],
+      "distractors": [
+        "finis"
+      ],
+      "explain_it": "Insister vuole pour que davanti alla congiunzione, e il verbo va al congiuntivo: tu finisses."
+    },
+    {
+      "id": "L080-e13",
+      "type": "order",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "Il sindacato chiede un aumento di stipendio.",
+      "answers": [
+        "Le syndicat [réclame|demande] [une augmentation|une hausse] de salaire."
+      ],
+      "explain_it": "Qui réclamer significa 'richiedere': non si usa il falso amico 'reclamare'."
+    },
+    {
+      "id": "L080-e14",
+      "type": "order",
+      "level": 2,
+      "concept": "negation-other",
+      "prompt": "Lei parla solo di soldi.",
+      "answers": [
+        "Elle ne parle que d'argent."
+      ],
+      "distractors": [
+        "pas"
+      ],
+      "explain_it": "Ne ... que è una struttura unica: ne parle que d'argent."
+    },
+    {
+      "id": "L080-e15",
+      "type": "order",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Bisogna che il sindacato allarghi e inasprisca lo sciopero.",
+      "answers": [
+        "Il faut que le syndicat élargisse et durcisse la grève."
+      ],
+      "explain_it": "Dopo il faut que entrambi i verbi in -ir vanno al congiuntivo: élargisse e durcisse, con la radice in -iss- per il singolare."
+    },
+    {
+      "id": "L080-e16",
+      "type": "cloze",
+      "level": 1,
+      "concept": "subjonctif",
+      "text": "Il faut que nous ___ à l'heure.",
+      "answers": [
+        "venions"
+      ],
+      "hint": "(venir, congiuntivo)",
+      "prompt": "Bisogna che veniamo in orario.",
+      "explain_it": "Con il faut que e nous il verbo prende la desinenza -ions: que nous venions."
+    },
+    {
+      "id": "L080-e17",
+      "type": "cloze",
+      "level": 1,
+      "concept": "subjonctif",
+      "text": "Il est dommage que vous ___ malades.",
+      "answers": [
+        "soyez"
+      ],
+      "hint": "(être, congiuntivo)",
+      "prompt": "Peccato che siate malati.",
+      "explain_it": "Être al congiuntivo per vous è soyez."
+    },
+    {
+      "id": "L080-e18",
+      "type": "cloze",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "J'exige que tu ___ avant de décider.",
+      "answers": [
+        "réfléchisses"
+      ],
+      "hint": "(réfléchir, congiuntivo)",
+      "prompt": "Esigo che tu rifletta prima di decidere.",
+      "explain_it": "Réfléchir è un verbo in -ir: per tu la forma è réfléchisses, con -isses."
+    },
+    {
+      "id": "L080-e19",
+      "type": "cloze",
+      "level": 1,
+      "concept": "negation-other",
+      "text": "Il ne mange ___ des légumes.",
+      "answers": [
+        "que"
+      ],
+      "prompt": "Lui mangia solo verdure.",
+      "explain_it": "La struttura ne ... que resta unita intorno al verbo, con que prima di des légumes."
+    },
+    {
+      "id": "L080-e20",
+      "type": "cloze",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "Supposons que tu ___ malade.",
+      "answers": [
+        "sois"
+      ],
+      "hint": "(être, congiuntivo)",
+      "prompt": "Supponiamo che tu sia malato.",
+      "explain_it": "Anche supposer que vuole il congiuntivo: tu sois."
+    },
+    {
+      "id": "L080-e21",
+      "type": "cloze",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "Il faut que j'___ le temps de finir.",
+      "answers": [
+        "aie"
+      ],
+      "hint": "(avoir, congiuntivo)",
+      "prompt": "Bisogna che io abbia il tempo di finire.",
+      "explain_it": "Avoir al congiuntivo è irregolare: que j'aie."
+    },
+    {
+      "id": "L080-e22",
+      "type": "cloze",
+      "level": 3,
+      "concept": "subjonctif",
+      "text": "Il ne faut pas que tu ___ sans dire au revoir.",
+      "answers": [
+        "partes"
+      ],
+      "hint": "(partir, congiuntivo)",
+      "prompt": "Non bisogna che tu parta senza salutare.",
+      "explain_it": "Con il ne faut pas que il congiuntivo resta: tu partes, dopo la negazione che precede il verbo."
+    },
+    {
+      "id": "L080-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Bisogna che tu venga con noi.",
+      "answers": [
+        "Il faut que tu viennes avec nous."
+      ],
+      "explain_it": "Dopo il faut que il verbo venir va al congiuntivo: tu viennes."
+    },
+    {
+      "id": "L080-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "È un peccato che lei non sia qui.",
+      "answers": [
+        "[Il est|C'est] dommage qu'elle ne soit pas [là|ici]."
+      ],
+      "explain_it": "Con il est dommage que si usa il congiuntivo di être: qu'elle soit (C'est o Il est sono entrambi corretti)."
+    },
+    {
+      "id": "L080-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Esigo che voi finiate il rapporto.",
+      "answers": [
+        "J'exige que vous finissiez le rapport.",
+        "J'exige que vous finissiez votre rapport."
+      ],
+      "explain_it": "Exiger que richiede il congiuntivo, qui vous finissiez (-iez nelle forme di vous)."
+    },
+    {
+      "id": "L080-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "negation-other",
+      "prompt": "Dipende solo da me.",
+      "answers": [
+        "Ça ne dépend que de moi.",
+        "Cela ne dépend que de moi."
+      ],
+      "explain_it": "Ne ... que si usa per dire 'solo' e Ça o Cela sono sinonimi in questo contesto."
+    },
+    {
+      "id": "L080-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "negation-other",
+      "prompt": "Lui mangia solo frutta.",
+      "answers": [
+        "Il ne mange que des fruits."
+      ],
+      "explain_it": "Ne ... que con des davanti al plurale: il ne mange que des fruits."
+    },
+    {
+      "id": "L080-e28",
+      "type": "write",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "Il sindacato rivendica un aumento di stipendio.",
+      "answers": [
+        "Le syndicat [réclame|revendique|demande|exige] [une augmentation|une hausse] de salaire."
+      ],
+      "explain_it": "Réclamer significa chiedere con forza, rivendicare; hausse de salaire è un sinonimo accettabile di augmentation de salaire."
+    },
+    {
+      "id": "L080-e29",
+      "type": "write",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "Ho presentato un reclamo al servizio clienti.",
+      "answers": [
+        "J'ai [fait|déposé] une réclamation [auprès du|au] service [client|clients|clientèle]."
+      ],
+      "explain_it": "Il reclamo come lamentela formale si dice une réclamation; si può dire faire o déposer."
+    },
+    {
+      "id": "L080-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Peccato che non abbiamo più tempo per allargare il progetto.",
+      "answers": [
+        "[Il est|C'est] dommage que nous n'ayons plus de temps pour élargir le projet.",
+        "C'est dommage qu'on n'ait plus de temps pour élargir le projet."
+      ],
+      "explain_it": "Dopo dommage que va il congiuntivo di avoir: nous ayons (qu'on ait). Non ... più = ne ... plus, non pas plus."
+    },
+    {
+      "id": "L080-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Il sindacato insiste perché il padronato ascolti queste richieste.",
+      "answers": [
+        "Le syndicat insiste pour que le patronat [écoute|entende] [ces demandes|ces exigences|ces revendications]."
+      ],
+      "explain_it": "Insister vuole pour que e il congiuntivo (écoute/entende); richieste = demandes, exigences, revendications."
+    },
+    {
+      "id": "L080-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "negation-other",
+      "prompt": "Peccato che siate solo in due.",
+      "answers": [
+        "[Il est|C'est] dommage que vous ne soyez que deux."
+      ],
+      "explain_it": "Ne ... que con il congiuntivo di être: vous ne soyez que deux, cioè 'siete solo in due'."
+    },
+    {
+      "id": "L080-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Supponiamo che abbiate l'influenza e che restiate a casa.",
+      "answers": [
+        "Supposons que vous ayez la grippe et que vous restiez [à la maison|chez vous]."
+      ],
+      "explain_it": "Supposer que vuole il congiuntivo in entrambe le subordinate: ayez e restiez."
+    },
+    {
+      "id": "L080-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Esige che tu rifletta due volte prima di partire.",
+      "answers": [
+        "[Il|Elle] exige que tu réfléchisses deux fois avant de partir."
+      ],
+      "explain_it": "Exiger que richiede il congiuntivo: tu réfléchisses, con la desinenza -isses dei verbi in -ir."
+    },
+    {
+      "id": "L080-e35",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "È una vergogna!",
+      "answers": [
+        "C'est une honte !",
+        "Quelle honte !",
+        "C'est honteux !"
+      ],
+      "explain_it": "La honte è la vergogna; in esclamazioni si usa Quelle honte ! o C'est une honte !."
+    },
+    {
+      "id": "L080-e36",
+      "type": "dictation",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "Il est dommage que tu n'aies pas le temps.",
+      "explain_it": "Dopo il est dommage que va il congiuntivo di avoir: tu aies."
+    },
+    {
+      "id": "L080-e37",
+      "type": "dictation",
+      "level": 2,
+      "concept": "negation-other",
+      "text": "Ils ne réclament que des augmentations de salaire.",
+      "explain_it": "Ne ... que = solo: ils ne réclament que des augmentations."
+    },
+    {
+      "id": "L080-e38",
+      "type": "dictation",
+      "level": 3,
+      "concept": "subjonctif",
+      "text": "Nous insistons pour que vous finissiez votre travail avant mardi.",
+      "explain_it": "Insister pour que + congiuntivo: vous finissiez."
+    },
+    {
+      "id": "L080-e39",
+      "type": "flash",
+      "level": 2,
+      "concept": "subjonctif",
+      "front": "Quando si usa il congiuntivo dopo un verbo o un'espressione?",
+      "back": "Con espressioni di necessità, dispiacere, richiesta o attesa: il faut que, il est dommage que, exiger que, insister pour que, attendre que, supposer que. Il congiuntivo esprime qualcosa di voluto, necessario o incerto.",
+      "note": "Se la frase esprime certezza (il est évident que), si usa l'indicativo."
+    },
+    {
+      "id": "L080-e40",
+      "type": "flash",
+      "level": 1,
+      "concept": "subjonctif",
+      "front": "Congiuntivo presente di avoir",
+      "back": "que j'aie, que tu aies, qu'il ait, que nous ayons, que vous ayez, qu'ils aient",
+      "note": "Forme irregolari da memorizzare: aie, aies, ait, ayons, ayez, aient."
+    },
+    {
+      "id": "L080-e41",
+      "type": "flash",
+      "level": 2,
+      "concept": "subjonctif",
+      "front": "Congiuntivo presente dei verbi in -ir (finir, élargir)",
+      "back": "que je finisse, que tu finisses, qu'il finisse, que nous finissions, que vous finissiez, qu'ils finissent",
+      "note": "Élargir segue lo stesso schema: que j'élargisse, que nous élargissions."
+    },
+    {
+      "id": "L080-e42",
+      "type": "flash",
+      "level": 2,
+      "concept": "negation-other",
+      "front": "Ne ... que: che senso ha?",
+      "back": "Significa 'solo' (restrizione). Il ne va davanti al verbo, que davanti alla parola limitata: Il ne mange que des fruits.",
+      "note": "Non confonderlo con ne ... pas (non) né con ne ... pas que (non solo)."
+    },
+    {
+      "id": "L080-e43",
+      "type": "flash",
+      "level": 2,
+      "concept": "false-friends",
+      "front": "Réclamer significa 'reclamare' come in italiano?",
+      "back": "No: réclamer significa richiedere, esigere con forza. Il reclamo come lamentela è une réclamation.",
+      "note": "Falso amico: in italiano reclamare vuol dire lamentarsi."
+    }
+  ]
+}

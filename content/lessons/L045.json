@@ -1,0 +1,1111 @@
+{
+  "n": 45,
+  "title_fr": "Il n'y a pas de métiers inutiles",
+  "title_it": "Non esistono mestieri inutili",
+  "review": false,
+  "status": "verified",
+  "source": "1db59936 p38-45 (libro pp. 219-226; la lezione inizia a meta pagina 219 e la chiave dell'esercizio 2 e a inizio p. 226)",
+  "theme_it": "Una professionista viene invitata a parlare dei social network professionali. Racconta come il lavoro sia cambiato rispetto al padre, che ha lavorato tutta la vita nella stessa fabbrica, mentre il fratello ha già cambiato più aziende. Elenca molti mestieri, spiega il proprio ruolo di consulente multimediale e dice che il lavoro la porta sempre in viaggio. Infine, a una domanda sulla sua situazione attuale, risponde di essere tra un lavoro e l'altro, cioè disoccupata.",
+  "grammar": [
+    {
+      "id": "plural",
+      "title_it": "Aggettivi in -al: il plurale maschile in -aux",
+      "explain_it": "Gli aggettivi maschili che finiscono in -al (social, royal, normal) fanno il plurale maschile in -aux: social diventa sociaux, royal diventa royaux. Il femminile resta regolare: sociale diventa sociales. Il plurale in -aux vale solo per il maschile; in italiano il plurale di -ale e -ali non ha questa irregolarità, quindi questa forma va memorizzata come eccezione alla regola della -s.",
+      "examples": [
+        {
+          "fr": "Les réseaux sociaux sont très utiles.",
+          "it": "I social network sono molto utili."
+        },
+        {
+          "fr": "Ce sont deux jardins royaux.",
+          "it": "Sono due giardini reali."
+        }
+      ]
+    },
+    {
+      "id": "relative-pronouns",
+      "title_it": "Qui e que: i pronomi relativi",
+      "explain_it": "Qui è il soggetto del verbo della subordinata e può riferirsi a persone o a cose: l'homme qui parle, le train qui part. Que è il complemento oggetto della subordinata e corrisponde all'italiano 'che': le livre que je lis. In italiano si usa 'che' in entrambi i casi, quindi in francese conviene chiedersi quale funzione ha il relativo nella subordinata. Davanti a vocale que diventa qu'.",
+      "examples": [
+        {
+          "fr": "Le train qui part à dix heures est en retard.",
+          "it": "Il treno che parte alle dieci è in ritardo."
+        },
+        {
+          "fr": "Le livre que je lis est passionnant.",
+          "it": "Il libro che leggo è appassionante."
+        }
+      ]
+    },
+    {
+      "id": "relative-pronouns",
+      "title_it": "Ce qui e ce que: ciò che, quello che",
+      "explain_it": "Ce qui e ce que sono pronomi relativi indefiniti: si usano quando l'antecedente non è espresso e corrispondono all'italiano ciò che o quello che. Ce qui introduce una subordinata in cui il relativo è soggetto; ce que introduce una subordinata in cui il relativo è oggetto diretto. Si distinguono come qui e que, ma senza un antecedente nominale.",
+      "examples": [
+        {
+          "fr": "Ce qui m'intéresse, c'est la musique.",
+          "it": "Ciò che mi interessa è la musica."
+        },
+        {
+          "fr": "Ce que je préfère, c'est la mer.",
+          "it": "Quello che preferisco è il mare."
+        }
+      ]
+    },
+    {
+      "id": "gender",
+      "title_it": "Il femminile dei nomi di mestiere in -eur",
+      "explain_it": "I nomi maschili in -eur derivati da un verbo fanno il femminile in -euse: programmeur (da programmer) diventa programmeuse. Quelli in -teur senza un verbo corrispondente fanno il femminile in -trice: concepteur diventa conceptrice. I nomi in -ier fanno -ière (cuisinier, cuisinière). Altri mestieri aggiungono semplicemente -e: consultant diventa consultante, avocat diventa avocate. Journaliste, comptable e simili non cambiano.",
+      "examples": [
+        {
+          "fr": "Ma sœur est programmeuse.",
+          "it": "Mia sorella è programmatrice."
+        },
+        {
+          "fr": "Elle est consultante depuis deux ans.",
+          "it": "È consulente da due anni."
+        }
+      ]
+    },
+    {
+      "id": "indefinites",
+      "title_it": "Pas mal de: parecchio, un bel po' di",
+      "explain_it": "Pas mal de è un'espressione invariabile che indica una quantità abbastanza grande, più informale di beaucoup de. È seguita da un nome senza articolo, con de (o d' davanti a vocale). Nonostante contenga mal (male), non ha valore negativo e il suo uso è corrente in conversazione.",
+      "examples": [
+        {
+          "fr": "Il y a pas mal de neige en janvier.",
+          "it": "A gennaio c'è parecchia neve."
+        },
+        {
+          "fr": "Elle a pas mal d'amis.",
+          "it": "Ha parecchi amici."
+        }
+      ]
+    },
+    {
+      "id": "comparatives",
+      "title_it": "Aussi ... que: il paragone di uguaglianza",
+      "explain_it": "Il paragone di uguaglianza si costruisce con aussi, più un aggettivo o un avverbio, più que, come l'italiano tanto ... quanto. Il secondo termine può essere un pronome tonico (moi, toi, lui), ma mai un pronome soggetto: si dice aussi surprise que moi, come in italiano si dice 'quanto me'.",
+      "examples": [
+        {
+          "fr": "Elle est aussi curieuse que sa mère.",
+          "it": "È tanto curiosa quanto sua madre."
+        },
+        {
+          "fr": "Il court aussi vite que toi.",
+          "it": "Corre tanto veloce quanto te."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Être en train de: l'azione in corso",
+      "explain_it": "Il francese non ha una forma progressiva come l'inglese. Per indicare un'azione in corso in questo momento si usa être en train de più l'infinito, che corrisponde all'italiano stare facendo. L'espressione mette l'accento sulla durata. Non confonderla con en train senza de, che significa in treno.",
+      "examples": [
+        {
+          "fr": "Nous sommes en train de manger.",
+          "it": "Stiamo mangiando."
+        },
+        {
+          "fr": "Je suis en train de lire.",
+          "it": "Sto leggendo."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Vouloir dire e signifier: intendere e significare",
+      "explain_it": "Vouloir dire significa intendere, voler dire, ed è un verbo composto in cui si coniuga solo vouloir: Qu'est-ce que tu veux dire ? Per indicare il significato di una parola o di un'espressione si usa invece il verbo signifier, che è l'origine dell'italiano significare. Non confonderli.",
+      "examples": [
+        {
+          "fr": "Qu'est-ce que vous voulez dire ?",
+          "it": "Che cosa intendete dire?"
+        },
+        {
+          "fr": "Ce mot signifie ami.",
+          "it": "Questa parola significa amico."
+        }
+      ]
+    },
+    {
+      "id": "conditionnel",
+      "title_it": "Je voudrais: il condizionale di vouloir",
+      "explain_it": "Je voudrais è la prima persona singolare del condizionale di vouloir, cioè vorrei. Si usa per richieste gentili e desideri, al posto di je veux (voglio), che suona più diretto. Per ora impara questa forma come una formula; il condizionale si studia più avanti nel corso.",
+      "examples": [
+        {
+          "fr": "Je voudrais un café, s'il vous plaît.",
+          "it": "Vorrei un caffè, per favore."
+        },
+        {
+          "fr": "Tu voudrais venir avec nous ?",
+          "it": "Vorresti venire con noi?"
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "l'emploi (m.)",
+      "it": "il posto di lavoro, l'impiego",
+      "pos": "n"
+    },
+    {
+      "fr": "le métier",
+      "it": "il mestiere",
+      "pos": "n"
+    },
+    {
+      "fr": "la profession",
+      "it": "la professione",
+      "pos": "n"
+    },
+    {
+      "fr": "l'entreprise (f.)",
+      "it": "l'azienda",
+      "pos": "n"
+    },
+    {
+      "fr": "l'usine (f.)",
+      "it": "la fabbrica",
+      "pos": "n"
+    },
+    {
+      "fr": "le monde du travail",
+      "it": "il mondo del lavoro",
+      "pos": "n"
+    },
+    {
+      "fr": "le réseau social",
+      "it": "il social network",
+      "pos": "n"
+    },
+    {
+      "fr": "le chômage",
+      "it": "la disoccupazione",
+      "pos": "n"
+    },
+    {
+      "fr": "le congé",
+      "it": "le ferie, il permesso (giorno libero)",
+      "pos": "n"
+    },
+    {
+      "fr": "l'avocat (m.)",
+      "it": "l'avvocato",
+      "pos": "n"
+    },
+    {
+      "fr": "l'ingénieur (m.)",
+      "it": "l'ingegnere",
+      "pos": "n"
+    },
+    {
+      "fr": "le journaliste",
+      "it": "il giornalista",
+      "pos": "n"
+    },
+    {
+      "fr": "le comptable",
+      "it": "il contabile",
+      "pos": "n"
+    },
+    {
+      "fr": "le programmeur",
+      "it": "il programmatore",
+      "pos": "n"
+    },
+    {
+      "fr": "le boucher",
+      "it": "il macellaio",
+      "pos": "n"
+    },
+    {
+      "fr": "le coiffeur",
+      "it": "il parrucchiere",
+      "pos": "n"
+    },
+    {
+      "fr": "le cuisinier",
+      "it": "il cuoco",
+      "pos": "n"
+    },
+    {
+      "fr": "le plombier",
+      "it": "l'idraulico",
+      "pos": "n"
+    },
+    {
+      "fr": "la possibilité",
+      "it": "la possibilità",
+      "pos": "n"
+    },
+    {
+      "fr": "la formation",
+      "it": "la formazione",
+      "pos": "n"
+    },
+    {
+      "fr": "la connaissance",
+      "it": "la conoscenza",
+      "pos": "n"
+    },
+    {
+      "fr": "admirer",
+      "it": "ammirare",
+      "pos": "v"
+    },
+    {
+      "fr": "apprécier",
+      "it": "apprezzare",
+      "pos": "v"
+    },
+    {
+      "fr": "rencontrer",
+      "it": "incontrare",
+      "pos": "v"
+    },
+    {
+      "fr": "bouger",
+      "it": "muoversi, spostarsi",
+      "pos": "v"
+    },
+    {
+      "fr": "passionné",
+      "it": "appassionato",
+      "pos": "adj",
+      "note": "femminile passionnée"
+    },
+    {
+      "fr": "inutile",
+      "it": "inutile",
+      "pos": "adj"
+    },
+    {
+      "fr": "considérablement",
+      "it": "considerevolmente",
+      "pos": "adv"
+    },
+    {
+      "fr": "plutôt que",
+      "it": "piuttosto che",
+      "pos": "conj"
+    },
+    {
+      "fr": "alors que",
+      "it": "mentre, laddove",
+      "pos": "conj"
+    },
+    {
+      "fr": "aussi ... que",
+      "it": "tanto ... quanto, così ... come",
+      "pos": "expr",
+      "note": "comparativo di uguaglianza"
+    },
+    {
+      "fr": "le bateau",
+      "it": "la barca, la nave",
+      "pos": "n",
+      "note": "pl. les bateaux"
+    },
+    {
+      "fr": "le concepteur / la conceptrice",
+      "it": "il progettista / la progettista",
+      "pos": "n",
+      "note": "-eur senza verbo di base: -trice"
+    },
+    {
+      "fr": "le consultant / la consultante",
+      "it": "il consulente / la consulente",
+      "pos": "n"
+    },
+    {
+      "fr": "dommage",
+      "it": "peccato",
+      "pos": "adv",
+      "note": "ce qui est dommage = il che è un peccato"
+    },
+    {
+      "fr": "inviter",
+      "it": "invitare",
+      "pos": "v"
+    },
+    {
+      "fr": "de nos jours",
+      "it": "ai giorni nostri, oggi",
+      "pos": "expr"
+    },
+    {
+      "fr": "professionnel / professionnelle",
+      "it": "professionale",
+      "pos": "adj"
+    },
+    {
+      "fr": "signifier",
+      "it": "significare",
+      "pos": "v",
+      "note": "per « voler dire » si usa vouloir dire"
+    },
+    {
+      "fr": "technique",
+      "it": "tecnico",
+      "pos": "adj",
+      "note": "invariabile al maschile e al femminile"
+    },
+    {
+      "fr": "tellement",
+      "it": "così, talmente",
+      "pos": "adv",
+      "note": "tellement vite"
+    },
+    {
+      "fr": "en train de",
+      "it": "in procinto di, mentre (azione in corso)",
+      "pos": "expr",
+      "note": "être en train de + infinito; non confondere con en train"
+    },
+    {
+      "fr": "la vie",
+      "it": "la vita",
+      "pos": "n"
+    },
+    {
+      "fr": "voyager",
+      "it": "viaggiare",
+      "pos": "v",
+      "note": "nous voyageons"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Bien entendu",
+      "it": "Certo, naturalmente",
+      "note": "può stare all'inizio, in mezzo o alla fine della frase; registro neutro"
+    },
+    {
+      "fr": "Ce qui veut dire que",
+      "it": "il che significa che",
+      "note": "per spiegare o precisare una conseguenza, in tono colloquiale"
+    },
+    {
+      "fr": "Il n'y a pas de métiers inutiles",
+      "it": "non esistono mestieri inutili",
+      "note": "frase slogan sul valore di tutti i lavori"
+    },
+    {
+      "fr": "pas mal de",
+      "it": "parecchio, un bel po' di",
+      "note": "colloquiale; non ha valore negativo"
+    },
+    {
+      "fr": "être entre deux emplois",
+      "it": "essere tra un lavoro e l'altro",
+      "note": "espressione neutra, usata per chi cambia lavoro"
+    },
+    {
+      "fr": "être au chômage",
+      "it": "essere disoccupato",
+      "note": "il disoccupato è un chômeur"
+    },
+    {
+      "fr": "prendre des congés",
+      "it": "prendere le ferie",
+      "note": "congé è sia il giorno di ferie sia il permesso"
+    },
+    {
+      "fr": "C'est comme ça",
+      "it": "è così, è la vita",
+      "note": "registro colloquiale per accettare una situazione"
+    }
+  ],
+  "notes_it": [
+    "Falsi amici e parole in trappola: usine è la fabbrica, non l'officina (che in francese è atelier o garage); dommage significa peccato, non danno (che si dice dégât).",
+    "Il lavoro in francese: emploi indica il posto o l'impiego, métier il mestiere (anche artigianale), profession la professione. Job è un anglicismo familiare: nel registro neutro si preferiscono emploi, travail o métier.",
+    "Pronuncia: in chômage la o con l'accento circonflesso è chiusa, [ʃomaʒ]; in dommage la o è aperta, [dɔmaʒ].",
+    "Cultura: le espressioni être au chômage e être entre deux emplois sono d'uso comune nelle conversazioni sul lavoro. Il padre che resta tutta la vita nella stessa azienda e il fratello che ne cambia spesso sono un esempio del cambiamento del mondo del lavoro descritto nel testo."
+  ],
+  "exercises": [
+    {
+      "id": "L045-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "plural",
+      "prompt": "Completa: 'Les réseaux ___ sont à la mode.' (i social network sono di moda)",
+      "options": [
+        "sociaux",
+        "socials",
+        "sociales"
+      ],
+      "correct": 0,
+      "explain_it": "Réseaux è maschile plurale, quindi l'aggettivo in -al prende la forma -aux: sociaux."
+    },
+    {
+      "id": "L045-e02",
+      "type": "cloze",
+      "level": 2,
+      "concept": "plural",
+      "text": "Voilà deux jardins ___ à Bruxelles.",
+      "answers": [
+        "royaux"
+      ],
+      "hint": "(aggettivo, maschile plurale di royal)",
+      "explain_it": "Gli aggettivi maschili in -al fanno il plurale in -aux, quindi jardins royaux."
+    },
+    {
+      "id": "L045-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "relative-pronouns",
+      "prompt": "Completa: 'Le train ___ part à dix heures est en retard.' (il treno che parte alle dieci è in ritardo)",
+      "options": [
+        "qui",
+        "que",
+        "quoi"
+      ],
+      "correct": 0,
+      "explain_it": "Il relativo è soggetto del verbo partir, quindi si usa qui. Que sarebbe un oggetto diretto."
+    },
+    {
+      "id": "L045-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "relative-pronouns",
+      "prompt": "Completa: 'La femme ___ j'admire est médecin.' (la donna che ammiro è medico)",
+      "options": [
+        "que",
+        "qui",
+        "quoi"
+      ],
+      "correct": 0,
+      "explain_it": "Nella subordinata j'admire il relativo è oggetto diretto di ammirare, quindi que."
+    },
+    {
+      "id": "L045-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "gender",
+      "prompt": "Qual è il femminile di 'programmeur' riferito a una donna?",
+      "options": [
+        "programmeuse",
+        "programmeure",
+        "programmeusse"
+      ],
+      "correct": 0,
+      "explain_it": "Programmeur deriva dal verbo programmer, quindi il femminile è in -euse."
+    },
+    {
+      "id": "L045-e06",
+      "type": "mcq",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "Come si dice al femminile 'consultant' riferito a una donna?",
+      "options": [
+        "consultante",
+        "consultrice",
+        "consulteuse"
+      ],
+      "correct": 0,
+      "explain_it": "Consultant non è un nome in -eur: al femminile prende semplicemente la -e, come in italiano."
+    },
+    {
+      "id": "L045-e07",
+      "type": "mcq",
+      "level": 1,
+      "concept": "comparatives",
+      "prompt": "Completa: 'Il est ___ grand que son père.' (è alto quanto suo padre)",
+      "options": [
+        "aussi",
+        "plus",
+        "autant"
+      ],
+      "correct": 0,
+      "explain_it": "Il paragone di uguaglianza richiede aussi davanti all'aggettivo e que dopo il secondo termine."
+    },
+    {
+      "id": "L045-e08",
+      "type": "mcq",
+      "level": 1,
+      "concept": "indefinites",
+      "prompt": "Completa: 'Il y a ___ neige ici en janvier.' (qui a gennaio c'è parecchia neve)",
+      "options": [
+        "pas mal de",
+        "pas mal des",
+        "pas mal du"
+      ],
+      "correct": 0,
+      "explain_it": "Pas mal de è invariabile e si usa con de senza articolo, come beaucoup de."
+    },
+    {
+      "id": "L045-e09",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Quale frase significa 'sto mangiando'?",
+      "options": [
+        "Je suis en train de manger.",
+        "Je suis train de manger.",
+        "Je suis en train manger."
+      ],
+      "correct": 0,
+      "explain_it": "L'azione in corso si esprime con être en train de più l'infinito, con de obbligatorio."
+    },
+    {
+      "id": "L045-e10",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Quale frase significa 'che cosa intendi?'",
+      "options": [
+        "Qu'est-ce que tu veux dire ?",
+        "Qu'est-ce que tu veux signifier ?",
+        "Qu'est-ce que tu dis vouloir ?"
+      ],
+      "correct": 0,
+      "explain_it": "Per intendere si usa vouloir dire; signifier serve per il significato di una parola, non per l'intenzione."
+    },
+    {
+      "id": "L045-e11",
+      "type": "mcq",
+      "level": 1,
+      "concept": "conditionnel",
+      "prompt": "Quale frase significa 'vorrei un caffè'?",
+      "options": [
+        "Je voudrais un café.",
+        "Je veux un café.",
+        "Je voulais un café."
+      ],
+      "correct": 0,
+      "explain_it": "Je voudrais è il condizionale di vouloir e rende la richiesta gentile; je veux è voglio e je voulais è volevo."
+    },
+    {
+      "id": "L045-e12",
+      "type": "cloze",
+      "level": 2,
+      "concept": "relative-pronouns",
+      "text": "Voici la femme ___ habite à côté de chez nous.",
+      "answers": [
+        "qui"
+      ],
+      "hint": "(pronome relativo soggetto, persona)",
+      "explain_it": "Il relativo è soggetto del verbo habiter, quindi qui."
+    },
+    {
+      "id": "L045-e13",
+      "type": "order",
+      "level": 1,
+      "concept": "relative-pronouns",
+      "prompt": "Il treno che parte alle otto è in ritardo.",
+      "answers": [
+        "Le train qui part à huit heures est en retard."
+      ],
+      "distractors": [
+        "que",
+        "ce"
+      ],
+      "explain_it": "Il soggetto della subordinata è il relativo qui, che si riferisce al treno."
+    },
+    {
+      "id": "L045-e14",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Sto leggendo il giornale.",
+      "answers": [
+        "Je suis en train de lire le journal."
+      ],
+      "distractors": [
+        "à",
+        "depuis"
+      ],
+      "explain_it": "Stare facendo si rende con être en train de più l'infinito."
+    },
+    {
+      "id": "L045-e15",
+      "type": "order",
+      "level": 1,
+      "concept": "indefinites",
+      "prompt": "In questa città ci sono parecchi mestieri interessanti.",
+      "answers": [
+        "Il y a pas mal de métiers intéressants dans cette ville.",
+        "Dans cette ville, il y a pas mal de métiers intéressants."
+      ],
+      "distractors": [
+        "des",
+        "très"
+      ],
+      "explain_it": "Pas mal de è seguito direttamente dal nome al plurale, senza articolo."
+    },
+    {
+      "id": "L045-e16",
+      "type": "order",
+      "level": 1,
+      "concept": "conditionnel",
+      "prompt": "Vorrei un altro bicchiere d'acqua.",
+      "answers": [
+        "Je voudrais un autre verre d'eau."
+      ],
+      "distractors": [
+        "veux",
+        "suis"
+      ],
+      "explain_it": "La richiesta gentile vorrei si rende con je voudrais, il condizionale di vouloir."
+    },
+    {
+      "id": "L045-e17",
+      "type": "order",
+      "level": 1,
+      "concept": "comparatives",
+      "prompt": "Lei è intelligente quanto sua madre.",
+      "answers": [
+        "Elle est aussi intelligente que sa mère."
+      ],
+      "distractors": [
+        "plus",
+        "autant"
+      ],
+      "explain_it": "Il paragone di uguaglianza usa aussi davanti all'aggettivo e que prima del secondo termine."
+    },
+    {
+      "id": "L045-e18",
+      "type": "cloze",
+      "level": 1,
+      "concept": "plural",
+      "text": "Les réseaux ___ sont très utiles pour trouver du travail.",
+      "answers": [
+        "sociaux"
+      ],
+      "hint": "(aggettivo, maschile plurale)",
+      "explain_it": "Con réseaux maschile plurale, social diventa sociaux."
+    },
+    {
+      "id": "L045-e19",
+      "type": "cloze",
+      "level": 2,
+      "concept": "relative-pronouns",
+      "text": "C'est le journal ___ j'ai acheté ce matin.",
+      "answers": [
+        "que"
+      ],
+      "hint": "(pronome relativo oggetto diretto)",
+      "explain_it": "Nella subordinata j'ai acheté il relativo è oggetto diretto: que."
+    },
+    {
+      "id": "L045-e20",
+      "type": "cloze",
+      "level": 2,
+      "concept": "relative-pronouns",
+      "text": "___ m'intéresse, c'est la musique.",
+      "answers": [
+        "Ce qui"
+      ],
+      "hint": "(ciò che, soggetto)",
+      "explain_it": "Ce qui si usa quando il relativo indefinito è il soggetto del verbo intéresser."
+    },
+    {
+      "id": "L045-e21",
+      "type": "cloze",
+      "level": 2,
+      "concept": "relative-pronouns",
+      "text": "___ je préfère, c'est la mer.",
+      "answers": [
+        "Ce que"
+      ],
+      "hint": "(ciò che, oggetto)",
+      "explain_it": "Qui je préfère ha il relativo come oggetto diretto, quindi ce que."
+    },
+    {
+      "id": "L045-e22",
+      "type": "cloze",
+      "level": 2,
+      "concept": "gender",
+      "text": "Ma cousine est ___ depuis deux ans.",
+      "answers": [
+        "programmeuse"
+      ],
+      "hint": "(femminile di programmeur)",
+      "explain_it": "Il femminile di un nome di mestiere derivato da un verbo in -eur è in -euse."
+    },
+    {
+      "id": "L045-e23",
+      "type": "cloze",
+      "level": 1,
+      "concept": "gender",
+      "text": "Marie est ___ de sites web.",
+      "answers": [
+        "conceptrice"
+      ],
+      "hint": "(femminile di concepteur)",
+      "explain_it": "Concepteur non deriva da un verbo nel senso della regola in -euse, quindi il femminile è in -trice."
+    },
+    {
+      "id": "L045-e24",
+      "type": "cloze",
+      "level": 2,
+      "concept": "comparatives",
+      "text": "Il est ___ intelligent que son frère.",
+      "answers": [
+        "aussi"
+      ],
+      "hint": "(tanto ... quanto)",
+      "explain_it": "Il paragone di uguaglianza richiede aussi davanti all'aggettivo, con que dopo."
+    },
+    {
+      "id": "L045-e25",
+      "type": "cloze",
+      "level": 2,
+      "concept": "indefinites",
+      "text": "J'ai ___ de travail aujourd'hui.",
+      "answers": [
+        "pas mal"
+      ],
+      "hint": "(parecchio)",
+      "explain_it": "Pas mal de si scrive con de dopo, e il nome che segue non prende l'articolo."
+    },
+    {
+      "id": "L045-e26",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Nous sommes ___ préparer le dîner.",
+      "answers": [
+        "en train de"
+      ],
+      "hint": "(stare facendo)",
+      "explain_it": "L'azione in corso si esprime con en train de più l'infinito."
+    },
+    {
+      "id": "L045-e27",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Qu'est-ce que vous ___ par là ?",
+      "answers": [
+        "voulez dire"
+      ],
+      "hint": "(vouloir dire, presente, vous)",
+      "explain_it": "Vouloir dire si coniuga nel verbo vouloir, mentre dire resta all'infinito."
+    },
+    {
+      "id": "L045-e28",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Que ___ cette expression ?",
+      "answers": [
+        "signifie",
+        "veut"
+      ],
+      "hint": "(signifier, presente)",
+      "explain_it": "Per il significato di un'espressione si usa signifier (que signifie...) o vouloir dire (que veut dire...)."
+    },
+    {
+      "id": "L045-e29",
+      "type": "cloze",
+      "level": 2,
+      "concept": "conditionnel",
+      "text": "Je ___ un billet pour Lyon, s'il vous plaît.",
+      "answers": [
+        "voudrais"
+      ],
+      "hint": "(vouloir, condizionale)",
+      "explain_it": "La richiesta cortese usa il condizionale di vouloir: je voudrais."
+    },
+    {
+      "id": "L045-e30",
+      "type": "cloze",
+      "level": 3,
+      "concept": "relative-pronouns",
+      "text": "Ce qui me plaît, c'est le temps que ___ passe avec mes amis.",
+      "answers": [
+        "je"
+      ],
+      "hint": "(pronome soggetto, prima persona singolare)",
+      "explain_it": "Nella subordinata que passe il relativo è l'oggetto di passer, ma il soggetto del verbo è je: que je passe."
+    },
+    {
+      "id": "L045-e31",
+      "type": "write",
+      "level": 2,
+      "concept": "relative-pronouns",
+      "prompt": "Il ragazzo che parla è mio fratello.",
+      "answers": [
+        "Le garçon qui parle [est|c'est] mon frère."
+      ],
+      "explain_it": "Il relativo qui è soggetto del verbo parler, quindi non serve que."
+    },
+    {
+      "id": "L045-e32",
+      "type": "write",
+      "level": 2,
+      "concept": "relative-pronouns",
+      "prompt": "Il libro che ho letto è interessante.",
+      "answers": [
+        "Le livre que j'ai lu [est|c'est] intéressant."
+      ],
+      "explain_it": "Nella subordinata j'ai lu il relativo è oggetto diretto, quindi que con elisione davanti a j'."
+    },
+    {
+      "id": "L045-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "relative-pronouns",
+      "prompt": "Quello che mi piace è la musica e non il calcio.",
+      "answers": [
+        "Ce qui me plaît, c'est la musique et pas le [football|foot].",
+        "Ce que j'aime, c'est la musique et pas le [football|foot]."
+      ],
+      "explain_it": "Quello che mi piace si rende con ce qui me plaît (soggetto) oppure ce que j'aime (oggetto); il calcio si può dire anche foot."
+    },
+    {
+      "id": "L045-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "relative-pronouns",
+      "prompt": "Quello che dici non è vero.",
+      "answers": [
+        "Ce que [tu dis|vous dites] n'est pas vrai."
+      ],
+      "explain_it": "Quello che è oggetto di dire, quindi ce que; tu o vous dipendono dal tono."
+    },
+    {
+      "id": "L045-e35",
+      "type": "write",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "Mia madre è cuoca.",
+      "answers": [
+        "Ma mère est cuisinière."
+      ],
+      "explain_it": "Cuisinier fa il femminile in -ière, non in -euse."
+    },
+    {
+      "id": "L045-e36",
+      "type": "write",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "Mia sorella è avvocata.",
+      "answers": [
+        "Ma sœur est avocate.",
+        "Ma soeur est avocate."
+      ],
+      "explain_it": "Avocat fa il femminile in -e: avocate."
+    },
+    {
+      "id": "L045-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "gender",
+      "prompt": "Lei è giornalista e lui è ingegnere.",
+      "answers": [
+        "Elle est journaliste et il est ingénieur."
+      ],
+      "explain_it": "Journaliste ha la stessa forma al maschile e al femminile; ingénieur resta invariato per l'uomo."
+    },
+    {
+      "id": "L045-e38",
+      "type": "write",
+      "level": 2,
+      "concept": "indefinites",
+      "prompt": "Ci sono parecchie persone nel parco.",
+      "answers": [
+        "Il y a pas mal de [gens|monde|personnes] dans le parc."
+      ],
+      "explain_it": "Pas mal de è seguito da de senza articolo; monde ha lo stesso valore qui."
+    },
+    {
+      "id": "L045-e39",
+      "type": "write",
+      "level": 3,
+      "concept": "indefinites",
+      "prompt": "Ho parecchio lavoro da finire stasera.",
+      "answers": [
+        "J'ai pas mal de travail à [finir|terminer] ce soir."
+      ],
+      "explain_it": "Pas mal de con travail (nome non numerabile) e poi à finir, con à davanti all'infinito che esprime il dovere."
+    },
+    {
+      "id": "L045-e40",
+      "type": "write",
+      "level": 2,
+      "concept": "comparatives",
+      "prompt": "Mio fratello è tanto alto quanto mio padre.",
+      "answers": [
+        "Mon frère est aussi grand que mon père."
+      ],
+      "explain_it": "Il paragone di uguaglianza è aussi grand que, come tanto ... quanto."
+    },
+    {
+      "id": "L045-e41",
+      "type": "write",
+      "level": 3,
+      "concept": "comparatives",
+      "prompt": "Lei è tanto curiosa quanto sua madre.",
+      "answers": [
+        "Elle est aussi curieuse que sa mère."
+      ],
+      "explain_it": "Aussi resta invariabile; l'aggettivo concorda con il soggetto: curieuse al femminile."
+    },
+    {
+      "id": "L045-e42",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Sto cucinando la cena.",
+      "answers": [
+        "Je suis en train de [préparer le dîner|préparer le repas|cuisiner|faire la cuisine]."
+      ],
+      "explain_it": "L'azione in corso richiede être en train de più l'infinito; per cucinare la cena si può usare préparer le dîner o cuisiner."
+    },
+    {
+      "id": "L045-e43",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Che cosa intendi con questa parola?",
+      "answers": [
+        "Qu'est-ce que [tu veux|vous voulez] dire par ce mot ?",
+        "Que [veux-tu|voulez-vous] dire par ce mot ?"
+      ],
+      "explain_it": "Intendere si rende con vouloir dire; con par si precisa la parola o l'espressione di cui si parla."
+    },
+    {
+      "id": "L045-e44",
+      "type": "write",
+      "level": 2,
+      "concept": "conditionnel",
+      "prompt": "Vorrei prenotare una camera per due persone.",
+      "answers": [
+        "Je voudrais [réserver|retenir] une chambre pour deux personnes."
+      ],
+      "explain_it": "Vorrei come richiesta cortese è je voudrais, seguito dall'infinito."
+    },
+    {
+      "id": "L045-e45",
+      "type": "write",
+      "level": 3,
+      "concept": "conditionnel",
+      "prompt": "Vorrei sapere a che ora parte il treno.",
+      "answers": [
+        "Je voudrais savoir à quelle heure part le train.",
+        "Je voudrais savoir à quelle heure le train part."
+      ],
+      "explain_it": "Je voudrais introduce la richiesta cortese, savoir è l'infinito che regge la domanda indiretta."
+    },
+    {
+      "id": "L045-e46",
+      "type": "write",
+      "level": 2,
+      "concept": "plural",
+      "prompt": "Ci sono molti social network.",
+      "answers": [
+        "Il y a beaucoup de réseaux sociaux."
+      ],
+      "explain_it": "Réseaux sociaux è il plurale di réseau social; con beaucoup de il nome non prende articolo."
+    },
+    {
+      "id": "L045-e47",
+      "type": "write",
+      "level": 3,
+      "concept": "relative-pronouns",
+      "prompt": "Ciò che mi preoccupa è il tempo che passiamo in viaggio.",
+      "answers": [
+        "Ce qui [m'inquiète|me préoccupe], c'est le temps [qu'on passe|que nous passons] [en voyage|à voyager]."
+      ],
+      "explain_it": "Ce qui è soggetto di inquiéter, mentre il tempo che passiamo è oggetto di passer, quindi que o qu'."
+    },
+    {
+      "id": "L045-e48",
+      "type": "dictation",
+      "level": 2,
+      "concept": "negation",
+      "text": "Il n'y a pas de restaurant ouvert le lundi dans ce quartier.",
+      "explain_it": "Dopo la negazione pas de il nome non prende l'articolo indeterminativo."
+    },
+    {
+      "id": "L045-e49",
+      "type": "dictation",
+      "level": 3,
+      "concept": "relative-pronouns",
+      "text": "Ce qui me surprend le plus, c'est que les magasins ferment très tôt le dimanche.",
+      "explain_it": "Ce qui è il soggetto di surprendre; attenzione al relativo indefinito e all'accento circonflesso di tôt."
+    },
+    {
+      "id": "L045-e50",
+      "type": "flash",
+      "level": 1,
+      "concept": "plural",
+      "front": "Plurale degli aggettivi in -al",
+      "back": "Maschile: -al diventa -aux (social, sociaux; royal, royaux). Femminile: -ale diventa -ales (sociale, sociales).",
+      "note": "Eccezione alla regola generale della -s."
+    },
+    {
+      "id": "L045-e51",
+      "type": "flash",
+      "level": 2,
+      "concept": "relative-pronouns",
+      "front": "Qui oppure que?",
+      "back": "Qui è il soggetto della subordinata (chi, che). Que è l'oggetto diretto della subordinata (che, cui). Davanti a vocale que diventa qu'.",
+      "note": "Verifica sempre quale funzione ha il relativo nella subordinata."
+    },
+    {
+      "id": "L045-e52",
+      "type": "flash",
+      "level": 2,
+      "concept": "relative-pronouns",
+      "front": "Ce qui oppure ce que?",
+      "back": "Ce qui è soggetto (ciò che). Ce que è oggetto diretto (ciò che, quello che). Non c'è un antecedente nominale.",
+      "note": "Ce qui e ce que sono indefiniti: si usano senza un nome a cui riferirsi."
+    },
+    {
+      "id": "L045-e53",
+      "type": "flash",
+      "level": 2,
+      "concept": "comparatives",
+      "front": "Aussi ... que",
+      "back": "Uguaglianza: aussi + aggettivo o avverbio + que (tanto ... quanto). Dopo que si usa un pronome tonico (moi, toi), mai un pronome soggetto.",
+      "note": "Es. aussi surprise que moi, come quanto me."
+    },
+    {
+      "id": "L045-e54",
+      "type": "flash",
+      "level": 1,
+      "concept": "idioms",
+      "front": "Être en train de + infinito",
+      "back": "Azione in corso in questo momento: stare facendo (sto mangiando = je suis en train de manger).",
+      "note": "Non confondere con en train senza de, che significa in treno."
+    },
+    {
+      "id": "L045-e55",
+      "type": "flash",
+      "level": 2,
+      "concept": "indefinites",
+      "front": "Pas mal de",
+      "back": "Parecchio, un bel po' di. Invariabile, seguito da de senza articolo. Non ha valore negativo nonostante mal.",
+      "note": "Più colloquiale di beaucoup de."
+    },
+    {
+      "id": "L045-e56",
+      "type": "write",
+      "level": 2,
+      "prompt": "Sto invitando i miei cugini.",
+      "ask": "Traduci in francese.",
+      "answers": [
+        "Je suis en train d'inviter mes cousins.",
+        "Je suis en train d'inviter mes cousines."
+      ],
+      "concept": "idioms",
+      "explain_it": "être en train de + infinito sottolinea l'azione in corso."
+    },
+    {
+      "id": "L045-e57",
+      "type": "write",
+      "level": 2,
+      "prompt": "Mio fratello è alto quanto me.",
+      "ask": "Traduci in francese.",
+      "answers": [
+        "Mon frère est aussi grand que moi."
+      ],
+      "concept": "comparatives",
+      "explain_it": "Comparativo di uguaglianza: aussi + aggettivo + que + pronome tonico."
+    }
+  ]
+}

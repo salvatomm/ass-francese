@@ -1,0 +1,816 @@
+{
+  "n": 65,
+  "title_fr": "Cent pour cent des gagnants ont tenté leur chance !",
+  "title_it": "Il cento per cento dei vincitori ha tentato la fortuna!",
+  "review": false,
+  "status": "verified",
+  "source": "fa2f8a2c p79-86 (libro p.359-366)",
+  "theme_it": "In biblioteca si vince un concorso a premi: il primo premio è una vacanza gratuita sulla neve. Due amici immaginano cosa servirebbe per andare a sciare, tra attrezzatura, vestiti e località più o meno esclusive, e discutono su dove andrebbero se potessero scegliere.",
+  "grammar": [
+    {
+      "id": "conditionnel",
+      "title_it": "Il condizionale presente (conditionnel présent)",
+      "explain_it": "Il condizionale esprime un'azione possibile ma non certa, un desiderio, un'ipotesi o una richiesta gentile (già vista con je voudrais). Si forma sulla radice del futuro (irai, serai, aurai, pourrai…) più le desinenze dell'imperfetto: -ais, -ais, -ait, -ions, -iez, -aient. Attenzione a non confondere j'aurais (condizionale) con j'aurai (futuro): cambia solo la desinenza finale. Nei verbi in -re si toglie la -e dell'infinito: dire → je dirais, prendre → je prendrais; faire è irregolare: je ferais. Radici irregolari da ricordare: être (je serais), avoir (j'aurais), aller (j'irais), pouvoir (je pourrais), vouloir (je voudrais), savoir (je saurais), voir (je verrais), falloir (il faudrait). Come in italiano, il condizionale si usa anche per le notizie non confermate.",
+      "examples": [
+        {
+          "fr": "J'irais volontiers à la montagne.",
+          "it": "Andrei volentieri in montagna."
+        },
+        {
+          "fr": "Elle serait contente de venir.",
+          "it": "Lei sarebbe contenta di venire."
+        },
+        {
+          "fr": "Je dirais oui sans hésiter.",
+          "it": "Direi di sì senza esitare."
+        }
+      ]
+    },
+    {
+      "id": "si-clauses",
+      "title_it": "Le frasi ipotetiche con si",
+      "explain_it": "Per un'ipotesi che non si realizza (o è poco probabile) si usa si + imperfetto nella condizione e il condizionale nella conseguenza, come in italiano « se avessi tempo, andrei ». Il condizionale non compare mai dopo si. Davanti a il e ils, si diventa s': s'il faisait beau. L'ordine delle due parti può essere invertito: Je viendrais si j'avais le temps.",
+      "examples": [
+        {
+          "fr": "Si j'étais toi, je ne le ferais pas.",
+          "it": "Se fossi in te, non lo farei."
+        },
+        {
+          "fr": "S'il faisait beau, nous irions à la plage.",
+          "it": "Se facesse bel tempo, andremmo in spiaggia."
+        }
+      ]
+    },
+    {
+      "id": "il-faut",
+      "title_it": "Falloir al condizionale: il faudrait, il me faudrait",
+      "explain_it": "Falloir è impersonale e al condizionale resta alla terza persona singolare: il faudrait significa « ci vorrebbe, bisognerebbe ». Con un pronome indiretto (me, te, lui…) diventa « mi servirebbe, ti servirebbe »: il me faudrait une veste. È seguito da un nome o da un infinito.",
+      "examples": [
+        {
+          "fr": "Il me faudrait du temps.",
+          "it": "Mi servirebbe tempo."
+        },
+        {
+          "fr": "Il faudrait partir plus tôt.",
+          "it": "Bisognerebbe partire prima."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Pareil e même: uguale e stesso",
+      "explain_it": "Pareil (uguale, simile) è un aggettivo che concorda con il nome: pareil, pareille, pareils, pareilles. Si usa senza articolo: Ces deux films sont pareils. Même, come aggettivo, significa « stesso » e di norma è preceduto dall'articolo: le même, la même, les mêmes. L'espressione C'est du pareil au même significa « è esattamente la stessa cosa »: è familiare e va imparata come blocco.",
+      "examples": [
+        {
+          "fr": "Ces deux films sont pareils.",
+          "it": "Questi due film sono uguali."
+        },
+        {
+          "fr": "C'est la même chose.",
+          "it": "È la stessa cosa."
+        },
+        {
+          "fr": "Ces deux hôtels, c'est du pareil au même.",
+          "it": "Questi due hotel sono la stessa cosa."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "une occasion",
+      "it": "un'occasione",
+      "pos": "n"
+    },
+    {
+      "fr": "gratuitement",
+      "it": "gratuitamente",
+      "pos": "adv"
+    },
+    {
+      "fr": "la bibliothèque",
+      "it": "la biblioteca",
+      "pos": "n"
+    },
+    {
+      "fr": "le jeu-concours",
+      "it": "il concorso a premi",
+      "pos": "n"
+    },
+    {
+      "fr": "le tirage au sort",
+      "it": "il sorteggio, l'estrazione",
+      "pos": "n"
+    },
+    {
+      "fr": "le billet",
+      "it": "il biglietto",
+      "pos": "n",
+      "note": "anche « banconota »"
+    },
+    {
+      "fr": "gagnant",
+      "it": "vincitore",
+      "pos": "n",
+      "note": "f. gagnante"
+    },
+    {
+      "fr": "le premier prix",
+      "it": "il primo premio",
+      "pos": "n"
+    },
+    {
+      "fr": "les sports d'hiver",
+      "it": "gli sport invernali",
+      "pos": "n"
+    },
+    {
+      "fr": "la montagne",
+      "it": "la montagna",
+      "pos": "n"
+    },
+    {
+      "fr": "attirer",
+      "it": "attirare",
+      "pos": "v",
+      "note": "ça m'attire"
+    },
+    {
+      "fr": "l'équipement (m.)",
+      "it": "l'attrezzatura",
+      "pos": "n"
+    },
+    {
+      "fr": "coûter",
+      "it": "costare",
+      "pos": "v",
+      "note": "ça coûte"
+    },
+    {
+      "fr": "une fortune",
+      "it": "una fortuna (grande somma di denaro)",
+      "pos": "n"
+    },
+    {
+      "fr": "louer",
+      "it": "noleggiare, affittare",
+      "pos": "v",
+      "note": "je loue"
+    },
+    {
+      "fr": "la location",
+      "it": "il noleggio, l'affitto",
+      "pos": "n"
+    },
+    {
+      "fr": "prêter",
+      "it": "prestare",
+      "pos": "v"
+    },
+    {
+      "fr": "la combinaison",
+      "it": "la tuta intera (da sci)",
+      "pos": "n"
+    },
+    {
+      "fr": "le gant",
+      "it": "il guanto",
+      "pos": "n"
+    },
+    {
+      "fr": "la station",
+      "it": "la località (sciistica o balneare)",
+      "pos": "n"
+    },
+    {
+      "fr": "le tailleur",
+      "it": "il tailleur (completo da donna)",
+      "pos": "n"
+    },
+    {
+      "fr": "décontracté",
+      "it": "casual, informale",
+      "pos": "adj",
+      "note": "f. décontractée"
+    },
+    {
+      "fr": "se renseigner",
+      "it": "informarsi",
+      "pos": "v",
+      "note": "je devrais me renseigner"
+    },
+    {
+      "fr": "huppé",
+      "it": "esclusivo, di lusso, elegante",
+      "pos": "adj",
+      "note": "f. huppée"
+    },
+    {
+      "fr": "le millionnaire",
+      "it": "il milionario",
+      "pos": "n"
+    },
+    {
+      "fr": "ailleurs",
+      "it": "altrove, da un'altra parte",
+      "pos": "adv"
+    },
+    {
+      "fr": "pareil",
+      "it": "uguale, simile",
+      "pos": "adj",
+      "note": "f. pareille"
+    },
+    {
+      "fr": "même",
+      "it": "stesso",
+      "pos": "adj"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "tirer au sort",
+      "it": "estrarre a sorte",
+      "note": "registro neutro; anche « faire un tirage au sort »"
+    },
+    {
+      "fr": "C'est du pareil au même",
+      "it": "È esattamente la stessa cosa",
+      "note": "familiare"
+    },
+    {
+      "fr": "Je n'en sais rien",
+      "it": "Non ne ho la minima idea",
+      "note": "familiare, dal tono un po' sbrigativo"
+    },
+    {
+      "fr": "Pas nécessairement",
+      "it": "Non necessariamente",
+      "note": "risposta breve, neutra"
+    },
+    {
+      "fr": "Ça ne m'attire pas vraiment",
+      "it": "Non mi attira granché",
+      "note": "colloquiale"
+    },
+    {
+      "fr": "coûter une fortune",
+      "it": "costare una fortuna",
+      "note": "espressione corrente"
+    },
+    {
+      "fr": "une station à la mode",
+      "it": "una località alla moda",
+      "note": "riferito a località di villeggiatura"
+    },
+    {
+      "fr": "n'importe où",
+      "it": "dovunque, in qualsiasi posto",
+      "note": "neutro"
+    }
+  ],
+  "notes_it": [
+    "Station non significa stazione ferroviaria (quella è gare): una station de ski è una località di sport invernali. Falso amico da ricordare.",
+    "Combinaison non è la combinazione italiana: nello sport indica la tuta intera da sci, un unico pezzo.",
+    "Pareil e pareille si pronunciano nello stesso modo: la -e finale non si sente, sia al singolare sia al plurale.",
+    "Location significa noleggio o affitto, non « posizione » (che si dice emplacement): attenzione al falso amico con l'italiano « locazione ».",
+    "Il tirage au sort è un sorteggio: au sort si usa con l'articolo contratto (au), come in tirer au sort."
+  ],
+  "exercises": [
+    {
+      "id": "L065-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "conditionnel",
+      "prompt": "Come si dice « Andrei volentieri in montagna »?",
+      "options": [
+        "J'irais volontiers à la montagne.",
+        "J'irai volontiers à la montagne.",
+        "J'allais volontiers à la montagne.",
+        "Je vais volontiers à la montagne."
+      ],
+      "correct": 0,
+      "explain_it": "« Andrei » è il condizionale di aller (j'irais): il futuro (j'irai) e l'imperfetto (j'allais) sono forme vicine ma diverse."
+    },
+    {
+      "id": "L065-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "si-clauses",
+      "prompt": "Completa: « Si j'___ le temps, je viendrais. »",
+      "options": [
+        "avais",
+        "aurais",
+        "avait",
+        "aurai"
+      ],
+      "correct": 0,
+      "explain_it": "Dopo si l'ipotesi va all'imperfetto (j'avais); il condizionale (aurais) non compare mai dopo si."
+    },
+    {
+      "id": "L065-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "conditionnel",
+      "prompt": "Il condizionale di avoir alla terza persona singolare è:",
+      "options": [
+        "il aurait",
+        "il aura",
+        "il avait",
+        "il aurai"
+      ],
+      "correct": 0,
+      "explain_it": "Il condizionale si costruisce sulla radice del futuro (aur-) più -ait: il aurait."
+    },
+    {
+      "id": "L065-e04",
+      "type": "order",
+      "level": 1,
+      "concept": "conditionnel",
+      "prompt": "Mi piacerebbe andare in Svizzera.",
+      "answers": [
+        "J'aimerais aller en Suisse."
+      ],
+      "distractors": [
+        "aimerai",
+        "aimais"
+      ],
+      "explain_it": "Il condizionale di aimer (j'aimerais) esprime un desiderio gentile, come l'italiano « mi piacerebbe »."
+    },
+    {
+      "id": "L065-e05",
+      "type": "cloze",
+      "level": 1,
+      "concept": "si-clauses",
+      "text": "Si nous ___ riches, nous achèterions une maison.",
+      "answers": [
+        "étions"
+      ],
+      "hint": "(être, imperfetto)",
+      "prompt": "Se fossimo ricchi, compreremmo una casa.",
+      "explain_it": "Dopo si va l'imperfetto (nous étions); la conseguenza è al condizionale (nous achèterions)."
+    },
+    {
+      "id": "L065-e06",
+      "type": "cloze",
+      "level": 1,
+      "concept": "il-faut",
+      "text": "Il me ___ une combinaison de ski.",
+      "answers": [
+        "faudrait"
+      ],
+      "hint": "(falloir, condizionale)",
+      "prompt": "Mi servirebbe una tuta da sci.",
+      "explain_it": "Falloir è impersonale: al condizionale resta alla terza persona singolare, con il pronome me."
+    },
+    {
+      "id": "L065-e07",
+      "type": "cloze",
+      "level": 1,
+      "concept": "conditionnel",
+      "text": "Elle ___ contente de venir avec nous.",
+      "answers": [
+        "serait"
+      ],
+      "hint": "(être, condizionale)",
+      "prompt": "Lei sarebbe contenta di venire con noi.",
+      "explain_it": "Il condizionale di être è irregolare: je serais, tu serais, il/elle serait."
+    },
+    {
+      "id": "L065-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "si-clauses",
+      "prompt": "Se fossi in te, non lo farei.",
+      "answers": [
+        "Si j'étais toi, je ne le ferais pas."
+      ],
+      "distractors": [
+        "ferai",
+        "fais"
+      ],
+      "explain_it": "Frase ipotetica: si + imperfetto (j'étais) nella condizione e condizionale (je ferais) nella conseguenza; ne … pas circonda il verbo."
+    },
+    {
+      "id": "L065-e09",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "« C'est du pareil au même » significa:",
+      "options": [
+        "È esattamente la stessa cosa",
+        "È molto più caro",
+        "È una cosa strana",
+        "È un'occasione unica"
+      ],
+      "correct": 0,
+      "explain_it": "È un'espressione familiare per due cose praticamente identiche: « è la stessa cosa »."
+    },
+    {
+      "id": "L065-e10",
+      "type": "mcq",
+      "level": 1,
+      "concept": "false-friends",
+      "prompt": "In un contesto di sci, « une combinaison » significa:",
+      "options": [
+        "una tuta intera da sci",
+        "una combinazione",
+        "un'occasione",
+        "un completo da uomo"
+      ],
+      "correct": 0,
+      "explain_it": "Falso amico: combinaison, in ambito sportivo, indica la tuta intera da sci, non la combinazione italiana."
+    },
+    {
+      "id": "L065-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "vocab",
+      "text": "Pour le ski, on peut ___ l'équipement au lieu de l'acheter.",
+      "answers": [
+        "louer"
+      ],
+      "hint": "(louer, infinito)",
+      "prompt": "Per lo sci si può noleggiare l'attrezzatura invece di comprarla.",
+      "explain_it": "Louer significa sia « affittare » sia « noleggiare »: nello sport si usa per il noleggio dell'attrezzatura."
+    },
+    {
+      "id": "L065-e12",
+      "type": "order",
+      "level": 1,
+      "concept": "il-faut",
+      "prompt": "Mi servirebbe una nuova giacca.",
+      "answers": [
+        "Il me faudrait une nouvelle veste."
+      ],
+      "distractors": [
+        "faut",
+        "fallait"
+      ],
+      "explain_it": "Il me faudrait esprime « mi servirebbe »: falloir al condizionale con il pronome indiretto me."
+    },
+    {
+      "id": "L065-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "conditionnel",
+      "text": "Vous ___ venir demain ?",
+      "answers": [
+        "pourriez"
+      ],
+      "hint": "(pouvoir, condizionale)",
+      "prompt": "Potreste venire domani?",
+      "explain_it": "Pouvoir ha la radice irregolare pourr-; con vous la richiesta cortese è pourriez."
+    },
+    {
+      "id": "L065-e14",
+      "type": "write",
+      "level": 2,
+      "concept": "conditionnel",
+      "prompt": "Io avrei bisogno di un nuovo cappotto.",
+      "answers": [
+        "J'aurais besoin d'un nouveau manteau.",
+        "Il me faudrait un nouveau manteau."
+      ],
+      "explain_it": "Avrei bisogno si rende con j'aurais besoin (condizionale di avoir); la costruzione con falloir è altrettanto corretta."
+    },
+    {
+      "id": "L065-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "conditionnel",
+      "prompt": "Io vedrei volentieri quel film.",
+      "answers": [
+        "Je verrais volontiers ce film."
+      ],
+      "explain_it": "Voir al condizionale ha la radice verr-: je verrais. Con « quel » film in francese si dice ce film."
+    },
+    {
+      "id": "L065-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "si-clauses",
+      "prompt": "Se avessi del tempo libero, andrei in piscina.",
+      "answers": [
+        "Si j'avais [du temps libre|du temps], j'irais à la piscine."
+      ],
+      "explain_it": "Si + imperfetto (j'avais) nella condizione, condizionale (j'irais) nella conseguenza, come in italiano."
+    },
+    {
+      "id": "L065-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "si-clauses",
+      "prompt": "Se facesse bel tempo, andremmo al mare.",
+      "answers": [
+        "S'il faisait beau, nous irions à la plage.",
+        "S'il faisait beau, nous irions à la mer."
+      ],
+      "explain_it": "Davanti a il, si diventa s': s'il faisait beau; poi nous irions al condizionale."
+    },
+    {
+      "id": "L065-e18",
+      "type": "cloze",
+      "level": 2,
+      "concept": "il-faut",
+      "text": "Il ___ un peu plus de courage pour réussir.",
+      "answers": [
+        "faudrait"
+      ],
+      "hint": "(falloir, condizionale)",
+      "prompt": "Ci vorrebbe un po' più di coraggio per riuscire.",
+      "explain_it": "Falloir al condizionale alla terza persona singolare: il faudrait seguito da un nome."
+    },
+    {
+      "id": "L065-e19",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "C'est du ___ au même.",
+      "answers": [
+        "pareil"
+      ],
+      "prompt": "È la stessa cosa.",
+      "explain_it": "« C'est du pareil au même » è un'espressione fissa: la parola mancante è pareil."
+    },
+    {
+      "id": "L065-e20",
+      "type": "cloze",
+      "level": 2,
+      "concept": "conditionnel",
+      "text": "Je ___ oui si tu me le demandais.",
+      "answers": [
+        "dirais"
+      ],
+      "hint": "(dire, condizionale)",
+      "prompt": "Direi di sì se me lo chiedessi.",
+      "explain_it": "Nei verbi in -re si toglie la -e della radice prima delle desinenze: dire → je dirais."
+    },
+    {
+      "id": "L065-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "conditionnel",
+      "prompt": "Sarebbe una buona occasione per imparare.",
+      "answers": [
+        "[Ce|Ça|Cela] serait une bonne occasion [d'|pour ]apprendre."
+      ],
+      "explain_it": "Sarebbe si rende con ce serait, condizionale di être; per introdurre l'infinito si può usare d'apprendre o pour apprendre."
+    },
+    {
+      "id": "L065-e22",
+      "type": "dictation",
+      "level": 2,
+      "concept": "conditionnel",
+      "text": "Je pourrais prendre le train demain.",
+      "explain_it": "Le desinenze -ais e -ait si pronunciano [ɛ]: la -s e la -t finali del condizionale sono mute."
+    },
+    {
+      "id": "L065-e23",
+      "type": "dictation",
+      "level": 2,
+      "concept": "il-faut",
+      "text": "Il me faudrait une combinaison, des gants et des chaussures.",
+      "explain_it": "Il me faudrait è il condizionale di falloir con il pronome me; seguono tre nomi legati da et."
+    },
+    {
+      "id": "L065-e24",
+      "type": "flash",
+      "level": 2,
+      "concept": "conditionnel",
+      "front": "Come si forma il condizionale presente?",
+      "back": "Radice del futuro + -ais, -ais, -ait, -ions, -iez, -aient: je serais, j'aurais, j'irais, je pourrais. Nei verbi in -re si toglie la -e dell'infinito: je dirais, je prendrais; faire è irregolare: je ferais.",
+      "note": "Le desinenze sono quelle dell'imperfetto.",
+      "explain_it": "Il condizionale unisce la radice del futuro alle desinenze dell'imperfetto: una regola che ricorda entrambi i tempi."
+    },
+    {
+      "id": "L065-e25",
+      "type": "flash",
+      "level": 2,
+      "concept": "si-clauses",
+      "front": "Quali tempi si usano nella frase ipotetica con si (se)?",
+      "back": "Nella condizione si + imperfetto; nella conseguenza il condizionale. Esempio: Si j'avais le temps, je viendrais. Mai il condizionale dopo si.",
+      "note": "In italiano: se avessi tempo, verrei.",
+      "explain_it": "Lo schema è identico all'italiano, ma in francese il condizionale non può comparire nella frase introdotta da si."
+    },
+    {
+      "id": "L065-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Le due case sono uguali.",
+      "answers": [
+        "Les deux maisons sont [pareilles|identiques|semblables]."
+      ],
+      "explain_it": "Pareil è un aggettivo che concorda con il nome: maisons è femminile plurale, quindi pareilles."
+    },
+    {
+      "id": "L065-e27",
+      "type": "write",
+      "level": 3,
+      "concept": "conditionnel",
+      "prompt": "Se avessi i soldi, comprerei una casa in montagna.",
+      "answers": [
+        "Si j'avais [de l'argent|les moyens], j'achèterais une maison [à la montagne|en montagne|dans les montagnes]."
+      ],
+      "explain_it": "Si + imperfetto (j'avais) nella condizione e condizionale (j'achèterais) nella conseguenza."
+    },
+    {
+      "id": "L065-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "conditionnel",
+      "prompt": "Io non saprei cosa rispondere.",
+      "answers": [
+        "Je ne saurais pas quoi répondre.",
+        "Je ne saurais quoi répondre."
+      ],
+      "explain_it": "Savoir al condizionale ha la radice saur-: je saurais, quindi je ne saurais quoi répondre."
+    },
+    {
+      "id": "L065-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "si-clauses",
+      "prompt": "Se potessi, vedrei il mare ogni giorno.",
+      "answers": [
+        "Si je pouvais, je verrais la mer tous les jours.",
+        "Si je pouvais, je verrais la mer chaque jour."
+      ],
+      "explain_it": "Dopo si va pouvoir all'imperfetto (je pouvais); voir al condizionale ha la radice verr-: je verrais."
+    },
+    {
+      "id": "L065-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "si-clauses",
+      "prompt": "Se avessi più tempo, studierei il francese ogni giorno.",
+      "answers": [
+        "Si j'avais plus de temps, j'étudierais le français chaque jour.",
+        "Si j'avais plus de temps, j'étudierais le français tous les jours."
+      ],
+      "explain_it": "Frase ipotetica con si + imperfetto e condizionale; plus de temps significa « più tempo »."
+    },
+    {
+      "id": "L065-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "il-faut",
+      "prompt": "Mi servirebbero dei guanti, ma non ne ho.",
+      "answers": [
+        "Il me faudrait des gants, mais je n'en ai pas.",
+        "J'aurais besoin de gants, mais je n'en ai pas."
+      ],
+      "explain_it": "Il me faudrait è il condizionale di falloir con il pronome me; nella seconda parte n'en sostituisce des gants."
+    },
+    {
+      "id": "L065-e32",
+      "type": "cloze",
+      "level": 2,
+      "concept": "si-clauses",
+      "text": "Si nous ___ le temps, nous irions au bord de la mer.",
+      "answers": [
+        "avions"
+      ],
+      "hint": "(avoir, imperfetto)",
+      "prompt": "Se avessimo il tempo, andremmo al mare.",
+      "explain_it": "Dopo si va l'imperfetto (nous avions), poi il condizionale nella conseguenza (nous irions)."
+    },
+    {
+      "id": "L065-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "conditionnel",
+      "prompt": "Je vais en montagne.",
+      "ask": "Volgi al condizionale presente",
+      "answers": [
+        "J'irais [en|à la] montagne."
+      ],
+      "explain_it": "Il condizionale di aller si forma sulla radice ir-: j'irais."
+    },
+    {
+      "id": "L065-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "conditionnel",
+      "prompt": "Je peux venir avec toi.",
+      "ask": "Volgi al condizionale presente",
+      "answers": [
+        "Je pourrais venir avec toi."
+      ],
+      "explain_it": "Pouvoir al condizionale: radice pourr- più -ais, quindi je pourrais."
+    },
+    {
+      "id": "L065-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "si-clauses",
+      "prompt": "Io andrei a Parigi se avessi i soldi.",
+      "answers": [
+        "J'irais à Paris si j'avais de l'argent.",
+        "Si j'avais de l'argent, j'irais à Paris."
+      ],
+      "explain_it": "Con si + imperfetto e condizionale l'ordine delle due parti può essere invertito; la forma si mantiene uguale."
+    },
+    {
+      "id": "L065-e36",
+      "type": "dictation",
+      "level": 3,
+      "concept": "si-clauses",
+      "text": "Si je pouvais, j'irais dans les Pyrénées.",
+      "explain_it": "Nel condizionale j'irais la desinenza -ais si pronuncia [ɛ], come nell'imperfetto je pouvais."
+    },
+    {
+      "id": "L065-e37",
+      "type": "dictation",
+      "level": 3,
+      "concept": "conditionnel",
+      "text": "Je serais prête à aller n'importe où.",
+      "explain_it": "Serais è il condizionale di être; prête è il femminile di prêt, con l'accento circonflesso."
+    },
+    {
+      "id": "L065-e38",
+      "type": "mcq",
+      "level": 2,
+      "concept": "conditionnel",
+      "prompt": "Completa: « Tu ___ bien le faire, si tu voulais. »",
+      "options": [
+        "pourrais",
+        "pourras",
+        "peux",
+        "pouvoir"
+      ],
+      "correct": 0,
+      "explain_it": "Pourrais è il condizionale di pouvoir: esprime una possibilità legata a una condizione (si tu voulais)."
+    },
+    {
+      "id": "L065-e39",
+      "type": "mcq",
+      "level": 3,
+      "concept": "il-faut",
+      "prompt": "« Mi servirebbe un nuovo tailleur » si traduce:",
+      "options": [
+        "Il me faudrait un nouveau tailleur.",
+        "Il me faut un nouveau tailleur.",
+        "Il me faudra un nouveau tailleur.",
+        "Il me fallait un nouveau tailleur."
+      ],
+      "correct": 0,
+      "explain_it": "Mi servirebbe è il condizionale: il me faudrait. Faut è il presente, faudra il futuro, fallait l'imperfetto."
+    },
+    {
+      "id": "L065-e40",
+      "type": "mcq",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "In un contesto di sport invernali, « une station » significa:",
+      "options": [
+        "una località sciistica",
+        "una stazione ferroviaria",
+        "una fermata dell'autobus",
+        "una stazione spaziale"
+      ],
+      "correct": 0,
+      "explain_it": "Falso amico: station indica una località di villeggiatura o di sci; la stazione ferroviaria è gare."
+    },
+    {
+      "id": "L065-e41",
+      "type": "order",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Per questi due hotel è la stessa cosa.",
+      "answers": [
+        "C'est du pareil au même pour ces deux hôtels."
+      ],
+      "distractors": [
+        "pareille",
+        "même"
+      ],
+      "explain_it": "L'espressione fissa è c'est du pareil au même: pareil resta nella forma maschile singolare."
+    },
+    {
+      "id": "L065-e42",
+      "type": "order",
+      "level": 3,
+      "concept": "si-clauses",
+      "prompt": "Se fossi in te, non ci andrei.",
+      "answers": [
+        "Si j'étais toi, je n'y irais pas."
+      ],
+      "distractors": [
+        "n'irai",
+        "allais"
+      ],
+      "explain_it": "Ci corrisponde al pronome y, che va prima del verbo: je n'y irais pas."
+    },
+    {
+      "id": "L065-e43",
+      "type": "flash",
+      "level": 2,
+      "concept": "idioms",
+      "front": "Pareil e même: qual è la differenza?",
+      "back": "Pareil (uguale, simile) è un aggettivo che concorda: pareil, pareille, pareils, pareilles, e si usa senza articolo (ces films sont pareils). Même (stesso) richiede l'articolo: le même, la même, les mêmes. C'est du pareil au même = è esattamente la stessa cosa.",
+      "explain_it": "Pareil descrive somiglianza, même indica identità: per questo si usa con l'articolo."
+    }
+  ]
+}

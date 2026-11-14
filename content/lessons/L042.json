@@ -1,0 +1,758 @@
+{
+  "n": 42,
+  "title_fr": "Révision",
+  "title_it": "Ripasso",
+  "review": true,
+  "status": "verified",
+  "source": "1db59936 p18-25 (libro pp. 199-206)",
+  "theme_it": "In ufficio qualcuno cerca un libretto degli assegni dimenticato e riceve un messaggio: un'attrice ha chiamato più volte per parlare con il collega. Il dialogo di ripasso riprende participi, passato prossimo, comparativi e formule telefoniche.",
+  "grammar": [
+    {
+      "id": "participle-agreement",
+      "title_it": "I participi: presente e passato",
+      "explain_it": "Il participio presente si forma dalla forma noi del presente togliendo -ons e aggiungendo -ant: penser → pensant, finir → finissant. Con i verbi in -cer si scrive ç (commençant), con quelli in -ger si aggiunge una e (mangeant). Il participio presente serve soprattutto per un'azione in corso, spesso con en: en attendant. Il participio passato regolare: -er → -é (parlé), -ir → -i (fini), -re → -u (vendu). Molti sono irregolari (pris, fait, mis, été, eu, pu) e vanno imparati. Quando il participio passato è usato come aggettivo accanto a un nome, o con être per descrivere uno stato, concorda con il nome: la porte est fermée, les tables sont prises.",
+      "examples": [
+        {
+          "fr": "En attendant le train, j'ai lu un journal.",
+          "it": "Nell'attesa del treno ho letto un giornale."
+        },
+        {
+          "fr": "Les fenêtres sont fermées.",
+          "it": "Le finestre sono chiuse."
+        }
+      ]
+    },
+    {
+      "id": "passe-compose-avoir",
+      "title_it": "Il passato prossimo con avoir (passé composé)",
+      "explain_it": "Il passato prossimo francese unisce il presente di avoir e il participio passato: j'ai mangé, tu as fini, nous avons vu. Traduce sia il passato prossimo sia il passato remoto italiano e spesso l'inglese I saw / I have seen. La negazione avvolge l'ausiliare: je n'ai pas mangé. Nella domanda si può invertire (As-tu vu ?) o usare est-ce que. Avverbi come jamais e toujours vanno tra avoir e il participio: je n'ai jamais voulu. Con depuis e il presente si indica un'azione ancora in corso: elle travaille ici depuis deux mois. Nei racconti il presente storico rende più viva la narrazione. Alcuni verbi usano essere (être): lo vedremo nella lezione 43.",
+      "examples": [
+        {
+          "fr": "Hier, j'ai fini mon travail.",
+          "it": "Ieri ho finito il mio lavoro."
+        },
+        {
+          "fr": "Je n'ai jamais voulu apprendre le latin.",
+          "it": "Non ho mai voluto imparare il latino."
+        }
+      ]
+    },
+    {
+      "id": "comparatives",
+      "title_it": "Comparativi e superlativi",
+      "explain_it": "Il comparativo di maggioranza si forma con plus + aggettivo + que; quello di minoranza con moins + aggettivo + que. A differenza dell'inglese, l'aggettivo non cambia in base alla lunghezza: plus cher, plus intéressant. Il superlativo si forma con l'articolo determinativo (le, la, les) davanti a plus o moins, e l'articolo concorda con il nome: le plus rapide, la moins chère. Sono irregolari bon → meilleur, bien → mieux, mauvais → pire. Bien è avverbio e invariabile: le mieux. Con gli avverbi il superlativo è le plus + avverbio.",
+      "examples": [
+        {
+          "fr": "Ce café est plus fort que le thé.",
+          "it": "Questo caffè è più forte del tè."
+        },
+        {
+          "fr": "C'est la moins chère des deux.",
+          "it": "È la meno cara delle due."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Al telefono: formule di base",
+      "explain_it": "Al telefono il francese usa formule fisse da imparare a memoria. Per rispondere si dice Allô ? oppure, più brusco, Oui ?. Per verificare il numero: Je suis bien chez... ?. Per sapere chi chiama: C'est de la part de qui ? Se la linea è occupata: La ligne est occupée oppure Ça sonne occupé. Per passare la chiamata: Ne quittez pas, je vous le passe. Per lasciare un messaggio o chiedere di richiamare: Est-ce que je peux laisser un message ? e Pouvez-vous me rappeler ?",
+      "examples": [
+        {
+          "fr": "Allô ? Je suis bien chez Durand ?",
+          "it": "Pronto? Sono da Durand?"
+        },
+        {
+          "fr": "Ne quittez pas, je vous le passe.",
+          "it": "Non riattacchi, glielo passo."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la corbeille à papier",
+      "it": "il cestino della carta",
+      "pos": "n",
+      "note": "il cestino per la carta in ufficio"
+    },
+    {
+      "fr": "le chéquier",
+      "it": "il libretto degli assegni",
+      "pos": "n"
+    },
+    {
+      "fr": "étonné / étonnée",
+      "it": "sorpreso",
+      "pos": "adj",
+      "note": "non 'stonato': in francese si dice faux"
+    },
+    {
+      "fr": "mardi (m.)",
+      "it": "martedì",
+      "pos": "n",
+      "note": "mardi dernier = martedì scorso"
+    },
+    {
+      "fr": "la couleur",
+      "it": "il colore",
+      "pos": "n"
+    },
+    {
+      "fr": "rapide",
+      "it": "rapido",
+      "pos": "adj",
+      "note": "invariabile al maschile e al femminile"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Je suis bien chez... ?",
+      "it": "Sono da... ?",
+      "note": "per verificare di aver composto il numero giusto"
+    },
+    {
+      "fr": "C'est de la part de qui ?",
+      "it": "Chi la cerca?",
+      "note": "formula cortese per chiedere chi chiama"
+    },
+    {
+      "fr": "Qui est à l'appareil ?",
+      "it": "Chi parla?",
+      "note": "più formale di 'chi è?'"
+    },
+    {
+      "fr": "Ne quittez pas.",
+      "it": "Non riattacchi.",
+      "note": "chiedere di restare in linea"
+    },
+    {
+      "fr": "Ça sonne occupé.",
+      "it": "È occupato.",
+      "note": "la linea è occupata; colloquiale"
+    },
+    {
+      "fr": "Je ne vous entends pas bien.",
+      "it": "Non La sento bene.",
+      "note": "per chiedere di parlare più forte"
+    },
+    {
+      "fr": "Pouvez-vous répéter lentement ?",
+      "it": "Può ripetere più lentamente?",
+      "note": "formula di cortesia"
+    },
+    {
+      "fr": "Je rappellerai plus tard.",
+      "it": "Richiamerò più tardi.",
+      "note": "per rimandare la chiamata"
+    }
+  ],
+  "notes_it": [
+    "Falso amico: étonné significa sorpreso, non stonato (in francese stonato si dice faux).",
+    "Falso amico: bête vuol dire stupido, non bestia; je suis bête si usa come autocritica, come 'sono uno stupido'.",
+    "Al telefono i numeri si dicono a coppie di cifre (trente-deux, soixante-douze, quatre-vingt-onze): attenzione a soixante-douze (72) e quatre-vingt-onze (91).",
+    "Nel parlato il passato prossimo è il tempo normale per il passato; il passato remoto francese (passé simple) è riservato alla scrittura letteraria.",
+    "Il participio presente in -ant non va confuso con il gerundio italiano: serve per azioni in corso e spesso compare con en."
+  ],
+  "exercises": [
+    {
+      "id": "L042-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "participle-agreement",
+      "explain_it": "Dalla forma nous si toglie -ons e si aggiunge -ant; con i verbi in -ger si inserisce la e: mangeant.",
+      "prompt": "Qual è il participio presente di 'manger' (forma nous: mangeons)?",
+      "options": [
+        "mangeant",
+        "mangant",
+        "mangé"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L042-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "participle-agreement",
+      "explain_it": "I verbi del secondo gruppo (-ir) fanno il participio passato in -i: fini.",
+      "prompt": "Qual è il participio passato di 'finir'?",
+      "options": [
+        "fini",
+        "finé",
+        "finit"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L042-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "explain_it": "Parler vuole avoir come ausiliare: nous avons parlé.",
+      "prompt": "Completa: 'Nous ___ parlé au directeur hier.' (ieri abbiamo parlato con il direttore)",
+      "options": [
+        "avons",
+        "sommes",
+        "avions"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L042-e04",
+      "type": "mcq",
+      "level": 2,
+      "concept": "depuis-il-y-a",
+      "explain_it": "Depuis con il presente indica un'azione che continua; il y a con il passato indica un'azione conclusa da tempo.",
+      "prompt": "Quale frase indica un'azione iniziata nel passato e ancora in corso?",
+      "options": [
+        "Elle habite ici depuis dix ans.",
+        "Elle a habité ici il y a dix ans.",
+        "Elle habite ici il y a dix ans."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L042-e05",
+      "type": "mcq",
+      "level": 2,
+      "concept": "comparatives",
+      "explain_it": "Il comparativo di maggioranza vuole plus + aggettivo + que, e l'aggettivo concorda con il nome femminile: grande.",
+      "prompt": "Quale frase è corretta? (La città è più grande del paese.)",
+      "options": [
+        "La ville est plus grande que le village.",
+        "La ville est plus grande de le village.",
+        "La ville est plus grand que le village."
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L042-e06",
+      "type": "mcq",
+      "level": 2,
+      "concept": "idioms",
+      "explain_it": "Qui est à l'appareil ? è la formula standard per chiedere chi c'è all'altro capo del telefono.",
+      "prompt": "Come si chiede al telefono 'Chi parla?'",
+      "options": [
+        "Qui est à l'appareil ?",
+        "Qui est à la maison ?",
+        "Qui est dans le téléphone ?"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L042-e07",
+      "type": "mcq",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "explain_it": "Il participio passato di lire è lu, e con avoir si scrive j'ai lu.",
+      "prompt": "Scegli la forma corretta: 'Hier, ___ le journal.' (ieri ho letto il giornale)",
+      "options": [
+        "j'ai lu",
+        "j'ai lis",
+        "j'ai lire"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L042-e08",
+      "type": "cloze",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "explain_it": "Con avoir il passato prossimo è l'ausiliare coniugato più il participio passato: a lu.",
+      "text": "Ce matin, elle ___ la lettre.",
+      "answers": [
+        "a lu"
+      ],
+      "hint": "(lire, passato prossimo)",
+      "prompt": "Stamattina lei ha letto la lettera."
+    },
+    {
+      "id": "L042-e09",
+      "type": "cloze",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "explain_it": "Il passato prossimo si costruisce con avoir al presente e il participio di préparer in -é.",
+      "text": "Hier, nous ___ le dîner à huit heures.",
+      "answers": [
+        "avons préparé"
+      ],
+      "hint": "(préparer, passato prossimo)",
+      "prompt": "Ieri abbiamo preparato la cena alle otto."
+    },
+    {
+      "id": "L042-e10",
+      "type": "cloze",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "explain_it": "La negazione avvolge solo l'ausiliare: je n'ai pas encore fini.",
+      "text": "Je n'___ pas encore fini mon travail.",
+      "answers": [
+        "ai"
+      ],
+      "hint": "(avoir, presente)",
+      "prompt": "Non ho ancora finito il mio lavoro."
+    },
+    {
+      "id": "L042-e11",
+      "type": "cloze",
+      "level": 2,
+      "concept": "depuis-il-y-a",
+      "explain_it": "Depuis con il presente indica una durata che arriva fino al momento presente.",
+      "text": "Elle travaille ici ___ deux mois.",
+      "answers": [
+        "depuis"
+      ],
+      "prompt": "Lei lavora qui da due mesi."
+    },
+    {
+      "id": "L042-e12",
+      "type": "cloze",
+      "level": 2,
+      "concept": "comparatives",
+      "explain_it": "Il comparativo di maggioranza usa plus davanti all'aggettivo, seguito da que.",
+      "text": "Mon frère est ___ grand que moi.",
+      "answers": [
+        "plus"
+      ],
+      "hint": "(più)",
+      "prompt": "Mio fratello è più alto di me."
+    },
+    {
+      "id": "L042-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "comparatives",
+      "explain_it": "Bon ha il comparativo irregolare meilleur, da usare con que.",
+      "text": "Ce gâteau est ___ que celui d'hier.",
+      "answers": [
+        "meilleur"
+      ],
+      "hint": "(bon, comparativo)",
+      "prompt": "Questa torta è più buona di quella di ieri."
+    },
+    {
+      "id": "L042-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "comparatives",
+      "explain_it": "Il superlativo si forma con l'articolo determinativo (la) più plus davanti all'aggettivo: la plus belle.",
+      "text": "C'est ___ belle ville du pays.",
+      "answers": [
+        "la plus"
+      ],
+      "hint": "(superlativo di beau)",
+      "prompt": "È la città più bella del paese."
+    },
+    {
+      "id": "L042-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "explain_it": "Ne quittez pas è l'imperativo di quitter alla forma di cortesia vous: significa 'non riattacchi'.",
+      "text": "Allô, c'est Marc. Ne ___ pas, je vous le passe.",
+      "answers": [
+        "quittez"
+      ],
+      "hint": "(quitter, imperativo, vous)",
+      "prompt": "Pronto, sono Marco. Non riattacchi, glielo passo."
+    },
+    {
+      "id": "L042-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "futur-simple",
+      "explain_it": "Il futuro di parler si forma con l'infinito e la desinenza -ons per nous.",
+      "text": "Demain, nous ___ au directeur.",
+      "answers": [
+        "parlerons"
+      ],
+      "hint": "(parler, futuro semplice)",
+      "prompt": "Domani parleremo con il direttore."
+    },
+    {
+      "id": "L042-e17",
+      "type": "cloze",
+      "level": 2,
+      "concept": "participle-agreement",
+      "explain_it": "Il participio passato usato come aggettivo concorda con il nome: tables è femminile plurale.",
+      "text": "Le restaurant est complet : toutes les tables sont ___.",
+      "answers": [
+        "prises",
+        "occupées"
+      ],
+      "hint": "(prendre, participio passato)",
+      "prompt": "Il ristorante è al completo: tutti i tavoli sono occupati."
+    },
+    {
+      "id": "L042-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "explain_it": "Il passato prossimo con avoir: sujet + avoir + participio passato (vu).",
+      "prompt": "Ieri ho visto mio fratello.",
+      "answers": [
+        "Hier, j'ai vu mon frère.",
+        "J'ai vu mon frère hier."
+      ]
+    },
+    {
+      "id": "L042-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "explain_it": "Perdre fa il participio perdu; on è accettato nel parlato al posto di nous.",
+      "prompt": "Abbiamo perso le chiavi.",
+      "answers": [
+        "Nous avons perdu les [clés|clefs].",
+        "On a perdu les [clés|clefs]."
+      ]
+    },
+    {
+      "id": "L042-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "explain_it": "Con pas encore la negazione avvolge l'ausiliare avoir: n'ai pas encore mangé.",
+      "prompt": "Non ho ancora mangiato.",
+      "answers": [
+        "Je n'ai pas encore mangé."
+      ]
+    },
+    {
+      "id": "L042-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "explain_it": "Nella trasformazione il presente lit diventa il passato prossimo a lu.",
+      "prompt": "Il lit le journal.",
+      "ask": "Volgi al passato prossimo",
+      "answers": [
+        "Il a lu le journal."
+      ]
+    },
+    {
+      "id": "L042-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "comparatives",
+      "explain_it": "Il comparativo di maggioranza con un aggettivo femminile o maschile resta plus + aggettivo + que.",
+      "prompt": "Questo film è più lungo del libro.",
+      "answers": [
+        "Ce film est plus long que le livre.",
+        "Ce film est plus long que le roman."
+      ]
+    },
+    {
+      "id": "L042-e23",
+      "type": "write",
+      "level": 3,
+      "concept": "comparatives",
+      "explain_it": "Il superlativo di economico può essere le plus économique o le moins cher: entrambe le forme sono corrette.",
+      "prompt": "È il ristorante più economico della città.",
+      "answers": [
+        "C'est le restaurant le moins cher de la ville.",
+        "C'est le restaurant le plus économique de la ville."
+      ]
+    },
+    {
+      "id": "L042-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "explain_it": "La linea occupata si dice La ligne est occupée oppure, nel parlato, Ça sonne occupé.",
+      "prompt": "Dì che la linea è occupata.",
+      "answers": [
+        "La ligne est occupée.",
+        "Ça sonne occupé.",
+        "C'est occupé."
+      ]
+    },
+    {
+      "id": "L042-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "explain_it": "Je ne vous entends pas bien: très è facoltativo; pouvez-vous è la forma di cortesia.",
+      "prompt": "Non La sento bene, può ripetere più lentamente?",
+      "answers": [
+        "Je ne vous entends pas [très |]bien, [pouvez|pourriez]-vous répéter [plus |]lentement ?"
+      ]
+    },
+    {
+      "id": "L042-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "participle-agreement",
+      "explain_it": "Il participio prises è femminile plurale perché concorda con tables; occupées è un sinonimo accettato.",
+      "prompt": "I tavoli sono occupati.",
+      "answers": [
+        "Les tables sont prises.",
+        "Les tables sont occupées."
+      ]
+    },
+    {
+      "id": "L042-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "depuis-il-y-a",
+      "explain_it": "Depuis con il presente per una durata ancora in corso: habite.",
+      "prompt": "Abita a Roma da tre anni.",
+      "answers": [
+        "[Il|Elle] habite à Rome depuis trois ans.",
+        "[Il|Elle] vit à Rome depuis trois ans."
+      ]
+    },
+    {
+      "id": "L042-e28",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "explain_it": "Oublier vuole avoir al passato prossimo: j'ai oublié.",
+      "prompt": "Ho dimenticato la mia borsa a casa.",
+      "answers": [
+        "J'ai oublié mon sac[ à main|] [à la maison|chez moi]."
+      ]
+    },
+    {
+      "id": "L042-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-avoir",
+      "explain_it": "Avoir ha il participio irregolare eu; toujours e jamais si mettono tra ausiliare e participio.",
+      "prompt": "Ho sempre voluto imparare il francese, ma non ho mai avuto tempo.",
+      "answers": [
+        "J'ai toujours voulu apprendre le français, mais je n'ai jamais eu le temps."
+      ]
+    },
+    {
+      "id": "L042-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-avoir",
+      "explain_it": "La negazione personne va attorno al verbo: je n'ai vu personne.",
+      "prompt": "Ieri non ho visto nessuno al mercato, ma ho comprato del pane.",
+      "answers": [
+        "Hier, je n'ai vu personne au marché, mais j'ai acheté du pain.",
+        "Je n'ai vu personne au marché hier, mais j'ai acheté du pain."
+      ]
+    },
+    {
+      "id": "L042-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "comparatives",
+      "explain_it": "Il comparativo di minoranza moins + aggettivo + que descrive il contrario di plus.",
+      "prompt": "Il treno è più veloce dell'autobus, ma è meno comodo.",
+      "answers": [
+        "Le train est plus rapide que l'[autobus|bus], mais [il est |]moins confortable.",
+        "Le train est plus rapide que le bus, mais [il est |]moins confortable."
+      ]
+    },
+    {
+      "id": "L042-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "explain_it": "Per chiedere chi chiama si usa de la part de qui (formula di cortesia) oppure qui est à l'appareil.",
+      "prompt": "Al telefono vuoi sapere chi sta chiamando: scrivi la formula di cortesia.",
+      "answers": [
+        "C'est de la part de qui ?",
+        "De la part de qui ?",
+        "Qui est à l'appareil ?"
+      ],
+      "ask": "Scrivi la formula in francese"
+    },
+    {
+      "id": "L042-e33",
+      "type": "write",
+      "level": 2,
+      "concept": "comparatives",
+      "explain_it": "Il comparativo di minoranza usa moins cher davanti a que.",
+      "prompt": "Il tè è meno caro del caffè.",
+      "answers": [
+        "Le thé est moins cher que le café."
+      ]
+    },
+    {
+      "id": "L042-e34",
+      "type": "write",
+      "level": 2,
+      "concept": "comparatives",
+      "explain_it": "Il superlativo di beau è le plus beau davanti al nome maschile village.",
+      "prompt": "È il paese più bello della regione.",
+      "answers": [
+        "C'est le plus beau village de la région.",
+        "C'est le plus joli village de la région."
+      ]
+    },
+    {
+      "id": "L042-e35",
+      "type": "order",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "explain_it": "Il participio di voir è vu; con avoir si scrive j'ai vu.",
+      "prompt": "Ho già visto questo film.",
+      "answers": [
+        "J'ai déjà vu ce film."
+      ],
+      "distractors": [
+        "vue",
+        "suis"
+      ]
+    },
+    {
+      "id": "L042-e36",
+      "type": "order",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "explain_it": "Jamais si mette tra avoir e il participio: nous n'avons jamais mangé.",
+      "prompt": "Non abbiamo mai mangiato qui.",
+      "answers": [
+        "Nous n'avons jamais mangé ici."
+      ],
+      "distractors": [
+        "mangée",
+        "toujours"
+      ]
+    },
+    {
+      "id": "L042-e37",
+      "type": "order",
+      "level": 2,
+      "concept": "participle-agreement",
+      "explain_it": "Il participio usato come aggettivo accanto a porte prende la forma femminile ouverte.",
+      "prompt": "Ho trovato la porta aperta.",
+      "answers": [
+        "J'ai trouvé la porte ouverte."
+      ],
+      "distractors": [
+        "ouvert",
+        "fermée"
+      ]
+    },
+    {
+      "id": "L042-e38",
+      "type": "order",
+      "level": 3,
+      "concept": "passe-compose-avoir",
+      "explain_it": "Vouloir ha il participio voulu; jamais va tra l'ausiliare e il participio; si dice apprendre à + infinito.",
+      "prompt": "Mio padre non ha mai voluto imparare a cucinare.",
+      "answers": [
+        "Mon père n'a jamais voulu apprendre à cuisiner."
+      ],
+      "distractors": [
+        "appris",
+        "toujours"
+      ]
+    },
+    {
+      "id": "L042-e39",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "explain_it": "Ne quittez pas è la formula per chiedere di restare in linea; je vous le passe è la chiusura.",
+      "prompt": "Non riattacchi, glielo passo.",
+      "answers": [
+        "Ne quittez pas, je vous le passe."
+      ],
+      "distractors": [
+        "quittons",
+        "passe"
+      ]
+    },
+    {
+      "id": "L042-e40",
+      "type": "dictation",
+      "level": 2,
+      "concept": "idioms",
+      "explain_it": "Je rappellerai plus tard è la forma per dire che si richiamerà più tardi.",
+      "text": "Je rappellerai plus tard."
+    },
+    {
+      "id": "L042-e41",
+      "type": "dictation",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "explain_it": "Con il pronome invertito, déjà si mette tra il pronome e il participio: Avez-vous déjà visité...",
+      "text": "Avez-vous déjà visité la cathédrale ?"
+    },
+    {
+      "id": "L042-e42",
+      "type": "dictation",
+      "level": 3,
+      "concept": "comparatives",
+      "explain_it": "Il superlativo le plus agréable concorda con il nome: le plus agréable de la ville.",
+      "text": "Je pense que ce restaurant est le plus agréable de la ville, mais il est plus cher."
+    },
+    {
+      "id": "L042-e43",
+      "type": "flash",
+      "level": 2,
+      "concept": "participle-agreement",
+      "explain_it": "Il participio passato concorda quando funziona da aggettivo; con avoir, di solito non concorda.",
+      "front": "Quando il participio passato concorda con il nome o con il soggetto?",
+      "back": "Concorda quando è usato come aggettivo (la porte est fermée) o quando è coniugato con être. Con avoir, di solito non concorda: j'ai vu la porte."
+    },
+    {
+      "id": "L042-e44",
+      "type": "flash",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "explain_it": "Il passato prossimo con avoir è avoir presente più participio passato.",
+      "front": "Come si forma il passato prossimo con avoir?",
+      "back": "Presente di avoir + participio passato: j'ai mangé, tu as fini, nous avons vu. La negazione va attorno all'ausiliare: je n'ai pas mangé."
+    },
+    {
+      "id": "L042-e45",
+      "type": "flash",
+      "level": 2,
+      "concept": "comparatives",
+      "explain_it": "Bon, bien e mauvais sono irregolari sia nel comparativo sia nel superlativo.",
+      "front": "Comparativo e superlativo di bon, bien, mauvais",
+      "back": "bon → meilleur / le meilleur; bien → mieux / le mieux; mauvais → pire / le pire (anche plus mauvais)."
+    },
+    {
+      "id": "L042-e46",
+      "type": "flash",
+      "level": 2,
+      "concept": "depuis-il-y-a",
+      "explain_it": "Depuis richiama il presente per un'azione che continua; il y a richiama il passato.",
+      "front": "Depuis o il y a: quale usare con il presente?",
+      "back": "Depuis con il presente per un'azione ancora in corso (da). Il y a per un'azione conclusa nel passato (fa): il est parti il y a deux ans."
+    },
+    {
+      "id": "L042-e47",
+      "type": "flash",
+      "level": 2,
+      "concept": "idioms",
+      "explain_it": "Allô e Oui sono le risposte standard al telefono; C'est de la part de qui chiede chi chiama.",
+      "front": "Come si risponde al telefono in francese, e come si chiede chi chiama?",
+      "back": "Allô ? oppure Oui ? (più brusco). Per chiedere chi chiama: C'est de la part de qui ?"
+    },
+    {
+      "id": "L042-e48",
+      "type": "write",
+      "level": 2,
+      "prompt": "Qual è il tuo colore preferito?",
+      "ask": "Traduci in francese.",
+      "answers": [
+        "Quelle est ta couleur préférée ?",
+        "Quelle est votre couleur préférée ?"
+      ],
+      "concept": "vocab",
+      "explain_it": "« couleur » è femminile: la couleur préférée, con l'aggettivo al femminile."
+    },
+    {
+      "id": "L042-e49",
+      "type": "write",
+      "level": 2,
+      "prompt": "Il treno è più rapido dell'autobus.",
+      "ask": "Traduci in francese.",
+      "answers": [
+        "Le train est plus rapide que le [bus|car|autobus].",
+        "Le train est plus rapide que l'autobus."
+      ],
+      "concept": "comparatives",
+      "explain_it": "Comparativo di maggioranza: plus + aggettivo + que."
+    }
+  ]
+}

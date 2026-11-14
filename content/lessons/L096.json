@@ -1,0 +1,862 @@
+{
+  "n": 96,
+  "title_fr": "Quatre-vingt-seizième leçon - Une émission-débat : Réinventons le rire",
+  "title_it": "Novantaseiesima lezione - Una trasmissione-dibattito: reinventiamo il riso",
+  "review": false,
+  "status": "verified",
+  "source": "4a88e539 pdf 28-36 (libro p.593-601); la lezione inizia a pdf 28 (p.593, in basso) con il titolo; dialogo pdf 28-34 (righe 1-22); note pdf 28-34 (note 1-10); esercizio 1 a pdf 34 (p.599), risposte a pdf 35 (p.600); esercizio 2 a pdf 36 (p.601, in alto), risposte a pdf 37 (p.602, fuori dal range indicato, lette per verifica); la lezione 97 inizia a pdf 36 (p.601, a metà pagina)",
+  "theme_it": "Due ospiti, uno psichiatra e un giovane comico, discutono in diretta se si possa ridere di tutto. Tra battute, osservazioni sulla differenza fra spettacolo e arte e qualche frecciata contro i luoghi comuni, il dibattito si chiude con una constatazione ironica: si può ridere di tutto, ma non con tutti.",
+  "grammar": [
+    {
+      "id": "register",
+      "title_it": "Rigoler, rigolo, la rigolade: il registro familiare",
+      "explain_it": "Rigoler è un verbo regolare in -er e il sinonimo familiare di rire (ridere): je rigole, nous rigolons. Dalla stessa radice vengono rigolo/rigolote (buffo, divertente, e anche un sostantivo per una persona spiritosa) e la rigolade (lo spasso, lo scherzo). Nel parlato si usano spesso questi sinonimi familiari; rire resta il verbo neutro, quello da usare in uno scritto formale.",
+      "examples": [
+        {
+          "fr": "Ce type est vraiment rigolo.",
+          "it": "Questo tipo è davvero buffo."
+        },
+        {
+          "fr": "Nous avons bien rigolé hier soir.",
+          "it": "Ieri sera ci siamo fatti una bella risata."
+        }
+      ]
+    },
+    {
+      "id": "vocab",
+      "title_it": "I prefissi: en-/em-, mé-, a-, re-",
+      "explain_it": "Molti verbi francesi si formano aggiungendo un prefisso a una base. En- / em- indica l'azione di mettere dentro o di incamerare: fermer diventa enfermer (chiudere dentro), poche (tasca) diventa empocher (intascare); davanti a p e b la n diventa m. Mé- ha valore negativo, come il dis- italiano: se fier (fidarsi) diventa se méfier (diffidare). A- indica il passaggio a uno stato: folle (matto) diventa s'affoler (andare nel panico), douce diventa adoucir (addolcire). Re- indica la ripetizione: renouveler (rinnovare). Davanti a h la e di re- cade: rhabiller (rivestire), non *rehabiller.",
+      "examples": [
+        {
+          "fr": "Il a enfermé le chien dans la cuisine.",
+          "it": "Ha rinchiuso il cane in cucina."
+        },
+        {
+          "fr": "Il faut se méfier des arnaques.",
+          "it": "Bisogna diffidare delle truffe."
+        },
+        {
+          "fr": "Il faut renouveler son passeport.",
+          "it": "Bisogna rinnovare il passaporto."
+        }
+      ]
+    },
+    {
+      "id": "false-friends",
+      "title_it": "Falsi amici: prime e périmé",
+      "explain_it": "Una prime è un premio o un'indennità in denaro (prime de fin d'année, la gratifica di fine anno). Non significa 'primo', che in francese è premier. Périmé significa scaduto, detto di un documento, di un biglietto o di un prodotto alimentare; non ha niente a che fare con il verbo italiano 'perimere'.",
+      "examples": [
+        {
+          "fr": "J'ai reçu une prime de fin d'année.",
+          "it": "Ho ricevuto una gratifica di fine anno."
+        },
+        {
+          "fr": "Mon billet est périmé.",
+          "it": "Il mio biglietto è scaduto."
+        }
+      ]
+    },
+    {
+      "id": "gender",
+      "title_it": "Il suffisso -esse e il femminile degli aggettivi di provenienza",
+      "explain_it": "Il suffisso -esse forma sostantivi astratti femminili da aggettivi: riche diventa la richesse, tendre diventa la tendresse, gentil diventa la gentillesse; con vieux la radice cambia in vieillesse. Attenzione: la grossesse non è la 'grossezza' ma la gravidanza. Anche gli aggettivi di provenienza cambiano al femminile: -ain diventa -aine (américaine), -ais diventa -aise (française), -ien diventa -ienne (parisienne), -ois diventa -oise (strasbourgeoise), -on diventa -onne (bretonne).",
+      "examples": [
+        {
+          "fr": "La gentillesse de ma sœur me touche.",
+          "it": "La gentilezza di mia sorella mi tocca."
+        },
+        {
+          "fr": "Elle est parisienne, mais son mari est breton.",
+          "it": "Lei è parigina, ma suo marito è bretone."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Espressioni con peste e double tour",
+      "explain_it": "La parola peste è usata in senso figurato in alcune espressioni. Éviter quelqu'un comme la peste significa evitare qualcuno come la peste, con decisione. Une vraie peste indica un bambino o una persona molto dispettosa, spesso con affetto. Fermer à double tour significa chiudere a doppia mandata (girando due volte la chiave).",
+      "examples": [
+        {
+          "fr": "J'évite ce type comme la peste.",
+          "it": "Evito quel tipo come la peste."
+        },
+        {
+          "fr": "Mon petit frère est une vraie peste.",
+          "it": "Mio fratellino è una vera peste."
+        },
+        {
+          "fr": "Il a fermé la porte à double tour.",
+          "it": "Ha chiuso la porta a doppia mandata."
+        }
+      ]
+    },
+    {
+      "id": "plural",
+      "title_it": "Les mœurs: un sostantivo sempre plurale",
+      "explain_it": "Mœurs è un sostantivo femminile che si usa solo al plurale: les mœurs. Significa costumi, abitudini di una società, e a volte morale. Ricorre in espressioni come la police des mœurs (il buoncostume). Non si dice mai al singolare, quindi l'aggettivo e il pronome che lo riprendono devono essere al femminile plurale.",
+      "examples": [
+        {
+          "fr": "Ces mœurs sont très anciennes.",
+          "it": "Questi costumi sono antichissimi."
+        },
+        {
+          "fr": "Les mœurs changent avec le temps.",
+          "it": "I costumi cambiano con il tempo."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "rigoler",
+      "it": "ridere (familiare)",
+      "pos": "v",
+      "note": "je rigole"
+    },
+    {
+      "fr": "la rigolade",
+      "it": "la risata, lo spasso",
+      "pos": "n"
+    },
+    {
+      "fr": "rigolo / rigolote",
+      "it": "buffo, divertente (familiare); anche come sostantivo",
+      "pos": "adj"
+    },
+    {
+      "fr": "l'humoriste (m./f.)",
+      "it": "l'umorista, il comico",
+      "pos": "n"
+    },
+    {
+      "fr": "la plaisanterie",
+      "it": "lo scherzo, la battuta",
+      "pos": "n"
+    },
+    {
+      "fr": "la boutade",
+      "it": "la battuta di spirito, il motto arguto",
+      "pos": "n"
+    },
+    {
+      "fr": "la blague",
+      "it": "la barzelletta, la battuta",
+      "pos": "n",
+      "note": "il termine più neutro per 'barzelletta'"
+    },
+    {
+      "fr": "drôle",
+      "it": "buffo, divertente, strano",
+      "pos": "adj"
+    },
+    {
+      "fr": "périmé / périmée",
+      "it": "scaduto",
+      "pos": "adj",
+      "note": "f. périmée"
+    },
+    {
+      "fr": "renouveler",
+      "it": "rinnovare",
+      "pos": "v",
+      "note": "je renouvelle"
+    },
+    {
+      "fr": "enfermer",
+      "it": "rinchiudere, chiudere dentro",
+      "pos": "v",
+      "note": "s'enfermer = chiudersi dentro"
+    },
+    {
+      "fr": "tutoyer",
+      "it": "dare del tu a qualcuno",
+      "pos": "v"
+    },
+    {
+      "fr": "vouvoyer",
+      "it": "dare del lei a qualcuno",
+      "pos": "v"
+    },
+    {
+      "fr": "gâcher",
+      "it": "rovinare, sciupare",
+      "pos": "v",
+      "note": "gâcher la journée = rovinare la giornata"
+    },
+    {
+      "fr": "empocher",
+      "it": "intascare, mettere in tasca",
+      "pos": "v"
+    },
+    {
+      "fr": "la prime",
+      "it": "il premio, il bonus, la gratifica",
+      "pos": "n",
+      "note": "falso amico: non 'primo'"
+    },
+    {
+      "fr": "le gag",
+      "it": "la gag, la trovata comica",
+      "pos": "n"
+    },
+    {
+      "fr": "la grossesse",
+      "it": "la gravidanza",
+      "pos": "n"
+    },
+    {
+      "fr": "la vieillesse",
+      "it": "la vecchiaia",
+      "pos": "n"
+    },
+    {
+      "fr": "la gentillesse",
+      "it": "la gentilezza",
+      "pos": "n"
+    },
+    {
+      "fr": "la tendresse",
+      "it": "la tenerezza",
+      "pos": "n"
+    },
+    {
+      "fr": "s'affoler",
+      "it": "perdere la testa, andare nel panico",
+      "pos": "v"
+    },
+    {
+      "fr": "taquiner",
+      "it": "stuzzicare, prendere in giro (bonariamente)",
+      "pos": "v"
+    },
+    {
+      "fr": "rhabiller",
+      "it": "rivestire, rimettersi i vestiti",
+      "pos": "v",
+      "note": "rhabille-toi = rivestiti"
+    },
+    {
+      "fr": "se fier à",
+      "it": "fidarsi di",
+      "pos": "v"
+    },
+    {
+      "fr": "se méfier de",
+      "it": "diffidare di, guardarsi da",
+      "pos": "v"
+    },
+    {
+      "fr": "la peste",
+      "it": "la peste; in senso figurato, peste, birbante",
+      "pos": "n"
+    },
+    {
+      "fr": "les mœurs",
+      "it": "i costumi, la morale",
+      "pos": "n"
+    },
+    {
+      "fr": "le préjugé",
+      "it": "il pregiudizio",
+      "pos": "n"
+    },
+    {
+      "fr": "le débat",
+      "it": "il dibattito",
+      "pos": "n"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Mon petit doigt me dit que",
+      "it": "mi sa che, ho come un presentimento che",
+      "note": "familiare; per una sensazione o un'indiscrezione"
+    },
+    {
+      "fr": "un vrai rigolo",
+      "it": "un vero buffone, un tipo spassoso",
+      "note": "detto di una persona che fa ridere; familiare"
+    },
+    {
+      "fr": "une vraie petite peste",
+      "it": "una vera peste (di bambino dispettoso)",
+      "note": "di solito affettuoso"
+    },
+    {
+      "fr": "éviter quelqu'un comme la peste",
+      "it": "evitare qualcuno come la peste",
+      "note": "espressione molto comune"
+    },
+    {
+      "fr": "ne pas perdre de vue",
+      "it": "non perdere di vista",
+      "note": "sia in senso concreto sia figurato"
+    },
+    {
+      "fr": "fermer à double tour",
+      "it": "chiudere a doppia mandata",
+      "note": "si dice di una porta o di una serratura"
+    },
+    {
+      "fr": "c'est de la rigolade",
+      "it": "è solo per ridere, è uno scherzo",
+      "note": "familiare"
+    },
+    {
+      "fr": "rire de tout",
+      "it": "ridere di tutto",
+      "note": "dal detto: si può ridere di tutto, ma non con tutti"
+    }
+  ],
+  "notes_it": [
+    "Falsi amici: une prime è un bonus o una gratifica in denaro, non il 'primo'. Périmé significa scaduto, non 'perimere'.",
+    "Sinonimi della battuta: plaisanterie, boutade e blague si usano spesso al posto l'una dell'altra. La blague è la parola più neutra per 'barzelletta', mentre la boutade è una battuta breve e spiritosa.",
+    "Pronuncia: in psychiatre la p iniziale si pronuncia (in inglese invece no). Nel plurale mœurs la s finale può essere muta o pronunciata.",
+    "Il dialogo gioca sul tu e sul vous: passare dal tu al vous (o viceversa) è una scelta di distanza o di rispetto, soprattutto con persone più grandi o sconosciute. Il verbo tutoyer indica dare del tu, vouvoyer dare del lei.",
+    "Il francese forma molti nomi astratti con -esse, e molti aggettivi di provenienza cambiano al femminile con -ais/-aise, -ois/-oise, -ien/-ienne: vale la pena impararli come coppie."
+  ],
+  "exercises": [
+    {
+      "id": "L096-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "register",
+      "prompt": "Quale verbo familiare significa 'ridere' (fare due risate)?",
+      "options": [
+        "rigoler",
+        "réfléchir",
+        "tousser",
+        "repasser"
+      ],
+      "correct": 0,
+      "explain_it": "Rigoler è il sinonimo familiare di rire; è regolare in -er: je rigole, nous rigolons."
+    },
+    {
+      "id": "L096-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "false-friends",
+      "prompt": "Che cosa significa 'une prime' in francese?",
+      "options": [
+        "un bonus, un premio in denaro",
+        "il primo ministro",
+        "la prima volta",
+        "un primato sportivo"
+      ],
+      "correct": 0,
+      "explain_it": "Prime è un falso amico: non significa 'primo'. Il verbo primer, invece, vuol dire premiare."
+    },
+    {
+      "id": "L096-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "gender",
+      "prompt": "Quale sostantivo femminile deriva dall'aggettivo 'tendre' (tenero)?",
+      "options": [
+        "la tendresse",
+        "la tendance",
+        "la tendrice",
+        "la tendrité"
+      ],
+      "correct": 0,
+      "explain_it": "Il suffisso -esse forma sostantivi astratti femminili da aggettivi: tendre diventa la tendresse, come riche diventa la richesse."
+    },
+    {
+      "id": "L096-e04",
+      "type": "mcq",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Che cosa significa 'éviter quelqu'un comme la peste'?",
+      "options": [
+        "evitare qualcuno come la peste",
+        "cercare qualcuno ovunque",
+        "invitare qualcuno a cena",
+        "parlare sempre con qualcuno"
+      ],
+      "correct": 0,
+      "explain_it": "È un'espressione idiomatica: la peste è usata in senso figurato per dire che si evita una persona con decisione."
+    },
+    {
+      "id": "L096-e05",
+      "type": "mcq",
+      "level": 2,
+      "concept": "plural",
+      "prompt": "Quale affermazione sul sostantivo 'les mœurs' (costumi, morale) è corretta?",
+      "options": [
+        "è sempre plurale e femminile",
+        "è singolare e maschile",
+        "è singolare e femminile",
+        "è plurale e maschile"
+      ],
+      "correct": 0,
+      "explain_it": "Mœurs è femminile e si usa solo al plurale: i costumi, la morale. Non esiste il singolare."
+    },
+    {
+      "id": "L096-e06",
+      "type": "mcq",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Quale verbo significa 'intascare' (mettere in tasca soldi, spesso una commissione)?",
+      "options": [
+        "empocher",
+        "emporter",
+        "pocher",
+        "empoter"
+      ],
+      "correct": 0,
+      "explain_it": "Empocher viene da poche (tasca) con il prefisso em- davanti alla p. Emporter significa portare via, pocher è 'cuocere in acqua'."
+    },
+    {
+      "id": "L096-e07",
+      "type": "mcq",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "Quale aggettivo significa 'scaduto' riferito a un documento?",
+      "options": [
+        "périmé",
+        "périssable",
+        "perméable",
+        "pérenne"
+      ],
+      "correct": 0,
+      "explain_it": "Périmé significa scaduto. Périssable vuol dire deperibile, perméable permeabile, pérenne perenne: tutti falsi amici potenziali."
+    },
+    {
+      "id": "L096-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "register",
+      "prompt": "Le sue battute mi hanno fatto proprio ridere.",
+      "answers": [
+        "Ses [blagues|plaisanteries] m'ont [bien|vraiment] fait rigoler."
+      ],
+      "distractors": [
+        "rire",
+        "rigolo"
+      ],
+      "explain_it": "Fare ridere in senso familiare si dice faire rigoler; l'avverbio bien (o vraiment) si mette tra l'ausiliare e il verbo."
+    },
+    {
+      "id": "L096-e09",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Evito Marc come la peste.",
+      "answers": [
+        "J'évite Marc comme la peste."
+      ],
+      "distractors": [
+        "pas",
+        "évites"
+      ],
+      "explain_it": "Éviter quelqu'un comme la peste è l'espressione idiomatica: si usa comme per il paragone."
+    },
+    {
+      "id": "L096-e10",
+      "type": "order",
+      "level": 2,
+      "concept": "plural",
+      "prompt": "Questi costumi non sono i miei.",
+      "answers": [
+        "Ces mœurs ne sont pas les miennes."
+      ],
+      "distractors": [
+        "mon",
+        "mes"
+      ],
+      "explain_it": "Mœurs è femminile plurale, quindi il pronome 'les miennes' (le mie) prende il femminile plurale; la negazione ne... pas circonda il verbo."
+    },
+    {
+      "id": "L096-e11",
+      "type": "order",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Non preoccuparti: io mi fido di te.",
+      "answers": [
+        "Ne t'inquiète pas, je me fie à toi."
+      ],
+      "distractors": [
+        "fais",
+        "méfie"
+      ],
+      "explain_it": "Se fier à significa fidarsi di; il pronome riflessivo me precede il verbo, e la preposizione è à."
+    },
+    {
+      "id": "L096-e12",
+      "type": "order",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "La vecchiaia ha i suoi lati positivi.",
+      "answers": [
+        "La vieillesse a ses bons côtés."
+      ],
+      "distractors": [
+        "vieux",
+        "vieil"
+      ],
+      "explain_it": "Vieillesse è il femminile astratto di vieux con il suffisso -esse; la radice cambia in vieill-."
+    },
+    {
+      "id": "L096-e13",
+      "type": "cloze",
+      "level": 1,
+      "concept": "vocab",
+      "text": "Il pleut sans arrêt, ça ___ notre journée.",
+      "answers": [
+        "gâche"
+      ],
+      "hint": "(gâcher, presente, 3a persona singolare)",
+      "prompt": "Piove senza sosta, rovina la nostra giornata.",
+      "explain_it": "Gâcher significa rovinare o sciupare; alla terza persona singolare del presente è gâche, con la â accentata."
+    },
+    {
+      "id": "L096-e14",
+      "type": "cloze",
+      "level": 1,
+      "concept": "gender",
+      "text": "Ma sœur est strasbourgeo___.",
+      "answers": [
+        "ise"
+      ],
+      "hint": "(suffisso femminile di -ois)",
+      "prompt": "Mia sorella è di Strasburgo.",
+      "explain_it": "Gli aggettivi di provenienza in -ois fanno il femminile in -oise: strasbourgeois, strasbourgeoise."
+    },
+    {
+      "id": "L096-e15",
+      "type": "cloze",
+      "level": 1,
+      "concept": "gender",
+      "text": "La ___ n'est pas une maladie.",
+      "answers": [
+        "vieillesse"
+      ],
+      "hint": "(sostantivo femminile, da 'vieux')",
+      "prompt": "La vecchiaia non è una malattia.",
+      "explain_it": "Il suffisso -esse forma il sostantivo femminile astratto da vieux; la radice cambia in vieill-."
+    },
+    {
+      "id": "L096-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "register",
+      "text": "On va bien ___ au cabaret ce soir.",
+      "answers": [
+        "rigoler"
+      ],
+      "hint": "(verbo familiare per 'ridere', infinito)",
+      "prompt": "Stasera al cabaret ci faremo una bella risata.",
+      "explain_it": "Dopo aller si usa l'infinito: rigoler è il verbo familiare, più colloquiale di rire."
+    },
+    {
+      "id": "L096-e17",
+      "type": "cloze",
+      "level": 2,
+      "concept": "false-friends",
+      "text": "Il a reçu une grosse ___ de fin d'année.",
+      "answers": [
+        "prime"
+      ],
+      "hint": "(bonus, gratifica; attenzione: non 'primo')",
+      "prompt": "Ha ricevuto un grosso bonus di fine anno.",
+      "explain_it": "Une prime è un premio o un'indennità in denaro; non ha nulla a che fare con primo."
+    },
+    {
+      "id": "L096-e18",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Ferme la porte à ___ tour !",
+      "answers": [
+        "double"
+      ],
+      "hint": "(espressione: a doppia mandata)",
+      "prompt": "Chiudi la porta a doppia mandata!",
+      "explain_it": "À double tour è un'espressione fissa per 'a doppia mandata': il secondo giro di chiave."
+    },
+    {
+      "id": "L096-e19",
+      "type": "cloze",
+      "level": 2,
+      "concept": "plural",
+      "text": "Ces ___ sont très différentes de celles de l'Italie.",
+      "answers": [
+        "mœurs",
+        "moeurs"
+      ],
+      "hint": "(sostantivo femminile plurale)",
+      "prompt": "Questi costumi sono molto diversi da quelli italiani.",
+      "explain_it": "Mœurs esiste solo al plurale ed è femminile, da cui ces e celles."
+    },
+    {
+      "id": "L096-e20",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Mon petit frère s'___ pour un rien.",
+      "answers": [
+        "affole"
+      ],
+      "hint": "(s'affoler, presente, 3a persona singolare)",
+      "prompt": "Mio fratello minore va in panico per un nonnulla.",
+      "explain_it": "S'affoler viene da folle (matto) con il prefisso a-: indica il passaggio a uno stato di agitazione."
+    },
+    {
+      "id": "L096-e21",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "text": "Tu peux te ___ à moi, je ne mens jamais.",
+      "answers": [
+        "fier"
+      ],
+      "hint": "(se fier à, infinito)",
+      "prompt": "Puoi fidarti di me, non mento mai.",
+      "explain_it": "Se fier à significa fidarsi di. Con il verbo modale pouvoir il pronome te resta davanti all'infinito."
+    },
+    {
+      "id": "L096-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Mi sa che pioverà presto.",
+      "answers": [
+        "Mon petit doigt me dit qu'il va bientôt pleuvoir.",
+        "Mon petit doigt me dit qu'il va pleuvoir bientôt.",
+        "Mon petit doigt me dit qu'il pleuvra bientôt."
+      ],
+      "explain_it": "Mon petit doigt me dit que è l'espressione familiare per 'mi sa che', e si completa con una frase al futur proche o al futuro."
+    },
+    {
+      "id": "L096-e23",
+      "type": "write",
+      "level": 3,
+      "concept": "vocab",
+      "prompt": "Mio zio si è chiuso nella sua camera a chiave.",
+      "answers": [
+        "Mon oncle s'est enfermé dans sa chambre à [clé|clef].",
+        "Mon oncle s'est enfermé à [clé|clef] dans sa chambre."
+      ],
+      "explain_it": "Enfermer è fermer con il prefisso en-; il riflessivo s'enfermer si coniuga con être al passato prossimo e il participio concorda con il soggetto maschile."
+    },
+    {
+      "id": "L096-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-cod",
+      "prompt": "Non ti ho autorizzato a usare la mia macchina.",
+      "answers": [
+        "Je ne t'ai pas autorisé à [utiliser|conduire|prendre] ma voiture."
+      ],
+      "explain_it": "Autoriser qqn à faire qqch: il pronome te è complemento diretto e va davanti all'ausiliare; con un destinatario femminile il participio prenderebbe la -e."
+    },
+    {
+      "id": "L096-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "La gentilezza di mia nonna mi commuove.",
+      "answers": [
+        "La gentillesse de ma grand-mère m'émeut.",
+        "La gentillesse de ma grand-mère me touche."
+      ],
+      "explain_it": "Gentillesse è il femminile astratto di gentil con il suffisso -esse, ed è sempre femminile."
+    },
+    {
+      "id": "L096-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "register",
+      "prompt": "Ci siamo fatti una bella risata con quel comico.",
+      "answers": [
+        "[On a|Nous avons] bien rigolé avec [cet humoriste|ce comique|ce comédien]."
+      ],
+      "explain_it": "Rigoler è familiare e si coniuga al passato prossimo con avoir; humoriste e comique indicano il comico."
+    },
+    {
+      "id": "L096-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "Il mio abbonamento è scaduto.",
+      "answers": [
+        "Mon abonnement est [périmé|expiré].",
+        "Mon abonnement a expiré."
+      ],
+      "explain_it": "Périmé significa scaduto e non 'perimere'; l'alternativa è il verbo expirer."
+    },
+    {
+      "id": "L096-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "plural",
+      "prompt": "Negli ultimi anni i costumi sono cambiati molto.",
+      "answers": [
+        "Ces dernières années, les mœurs ont beaucoup [changé|évolué].",
+        "Les mœurs ont beaucoup [changé|évolué] ces dernières années.",
+        "Ces dernières années, les moeurs ont beaucoup [changé|évolué]."
+      ],
+      "explain_it": "Mœurs è sempre plurale; con avoir e l'avverbio beaucoup il participio resta invariato."
+    },
+    {
+      "id": "L096-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "vocab",
+      "prompt": "Ti ho detto di rivestirti subito!",
+      "answers": [
+        "Je t'ai dit de te rhabiller [tout de suite|immédiatement]."
+      ],
+      "explain_it": "Rhabiller è re- più habiller: davanti alla h la e di re- cade. Il pronome riflessivo te precede l'infinito."
+    },
+    {
+      "id": "L096-e30",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Mio cognato è una vera peste con i bambini.",
+      "answers": [
+        "Mon beau-frère est une vraie peste avec les enfants."
+      ],
+      "explain_it": "Une vraie peste è un'espressione figurata per una persona dispettosa; con i bambini si usa avec o pour."
+    },
+    {
+      "id": "L096-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "register",
+      "prompt": "Questo ragazzo è un vero buffone, ma il suo umorismo non piace a tutti.",
+      "answers": [
+        "[Ce garçon|Ce gars|Ce type|Ce jeune homme] est un vrai rigolo, mais son humour ne plaît pas à [tout le monde|tous]."
+      ],
+      "explain_it": "Rigolo è familiare: buffo o divertente, anche come sostantivo per una persona che fa ridere."
+    },
+    {
+      "id": "L096-e32",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Ha intascato una commissione molto alta.",
+      "answers": [
+        "Il a empoché une commission très [élevée|importante|grosse]."
+      ],
+      "explain_it": "Empocher significa intascare; al passato prossimo si coniuga con avoir."
+    },
+    {
+      "id": "L096-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "gender",
+      "prompt": "Con l'età mia nonna non ha perso la tenerezza.",
+      "answers": [
+        "Avec l'âge, ma grand-mère n'a pas perdu sa tendresse.",
+        "Avec l'âge, ma grand-mère n'a rien perdu de sa tendresse."
+      ],
+      "explain_it": "Tendresse è il femminile astratto di tendre con il suffisso -esse; âge va scritto con l'accento circonflesso."
+    },
+    {
+      "id": "L096-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "vocab",
+      "prompt": "Diffido sempre degli sconosciuti.",
+      "answers": [
+        "Je me méfie toujours des inconnus."
+      ],
+      "explain_it": "Se méfier de significa diffidare di; il prefisso mé- ha valore negativo rispetto a se fier à."
+    },
+    {
+      "id": "L096-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Non perdiamo di vista l'obiettivo finale.",
+      "answers": [
+        "Ne perdons pas de vue l'objectif final.",
+        "Ne perdons pas de vue le but final.",
+        "Ne perdons pas de vue notre objectif final.",
+        "Ne perdons pas notre objectif final de vue."
+      ],
+      "explain_it": "Ne pas perdre de vue è la forma idiomatica per 'non perdere di vista'; la negazione ne... pas circonda il verbo."
+    },
+    {
+      "id": "L096-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "pronominal-verbs",
+      "prompt": "Devi fidarti del tuo istinto.",
+      "answers": [
+        "Tu dois te fier à ton [instinct|intuition]."
+      ],
+      "explain_it": "Se fier à significa fidarsi di; con devoir o falloir il pronome te precede l'infinito."
+    },
+    {
+      "id": "L096-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "gender",
+      "prompt": "Questa signora è di Lilla.",
+      "answers": [
+        "Cette [dame|femme] est [lilloise|de Lille]."
+      ],
+      "explain_it": "Lillois, al femminile Lilloise: come per strasbourgeois, il femminile degli aggettivi di provenienza in -ois prende -oise."
+    },
+    {
+      "id": "L096-e38",
+      "type": "dictation",
+      "level": 2,
+      "concept": "register",
+      "text": "Ce type est vraiment rigolo, je vais bien rigoler ce soir."
+    },
+    {
+      "id": "L096-e39",
+      "type": "dictation",
+      "level": 3,
+      "concept": "plural",
+      "text": "Les mœurs de cette région changent lentement, mais sûrement."
+    },
+    {
+      "id": "L096-e40",
+      "type": "dictation",
+      "level": 2,
+      "concept": "gender",
+      "text": "Ma voisine est parisienne, et son mari est strasbourgeois."
+    },
+    {
+      "id": "L096-e41",
+      "type": "flash",
+      "level": 2,
+      "concept": "register",
+      "front": "Rire, rigoler, rigolo, la rigolade: come si usano?",
+      "back": "Rire è il verbo neutro per ridere; rigoler è il sinonimo familiare (je rigole). Rigolo/rigolote significa buffo o divertente, ed è anche un sostantivo per una persona spiritosa (un vrai rigolo). La rigolade è la risata o lo spasso, e c'est de la rigolade vuol dire che è solo uno scherzo.",
+      "note": "Il registro familiare è adatto al parlato, non agli scritti formali."
+    },
+    {
+      "id": "L096-e42",
+      "type": "flash",
+      "level": 1,
+      "concept": "gender",
+      "front": "Il suffisso -esse: come si forma il sostantivo?",
+      "back": "Da molti aggettivi si ottengono sostantivi femminili astratti in -esse: riche diventa la richesse, tendre diventa la tendresse, gentil diventa la gentillesse. Con vieux la radice cambia in vieillesse. Attenzione: la grossesse è la gravidanza, non la 'grossezza'.",
+      "note": "Quasi tutti i nomi in -esse sono femminili."
+    },
+    {
+      "id": "L096-e43",
+      "type": "flash",
+      "level": 2,
+      "concept": "vocab",
+      "front": "I prefissi en-/em-, mé-, a-, re-: che cosa aggiungono al verbo?",
+      "back": "En- / em- indica l'azione di mettere dentro (enfermer, empocher). Mé- ha valore negativo (se méfier, diffidare). A- indica il passaggio a uno stato (s'affoler, adoucir). Re- indica la ripetizione (renouveler, rhabiller).",
+      "note": "Davanti a h la e di re- cade: rhabiller, non *rehabiller."
+    },
+    {
+      "id": "L096-e44",
+      "type": "flash",
+      "level": 1,
+      "concept": "false-friends",
+      "front": "Una 'prime' in francese: che cosa significa?",
+      "back": "Un bonus, un premio o un'indennità in denaro (prime de fin d'année, la gratifica di fine anno). Non significa 'primo', che si dice premier. Il verbo primer significa premiare.",
+      "note": "Périmé invece significa scaduto."
+    }
+  ]
+}

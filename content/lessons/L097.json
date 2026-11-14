@@ -1,0 +1,895 @@
+{
+  "n": 97,
+  "title_fr": "Quatre-vingt-dix-septième leçon - En plein dans le mille !",
+  "title_it": "Novantasettesima lezione - Proprio nel segno!",
+  "review": false,
+  "status": "verified",
+  "source": "4a88e539 pdf 36-45 (libro p.601-610); titolo a pdf 36 (p.601, in basso); dialogo riga 1 a pdf 36, righe 2-7 a pdf 38, righe 8-18 a pdf 40, righe 19-23 a pdf 42; note 1 a pdf 36, note 2 a pdf 38, note 3-6 a pdf 39, note 7 a pdf 40, note 8 a pdf 41, note 9 a pdf 42, note 10 a pdf 43; esercizio 1 a pdf 42 (p.607), risposte a pdf 43 (p.608); esercizio 2 a pdf 44 (p.609, in alto), risposte a pdf 45 (p.610); la lezione 98 inizia a pdf 44 (p.609, a metà pagina)",
+  "theme_it": "Un reportage televisivo racconta la storia di Aurélien Fauré, giovane imprenditore normanno a capo di una start-up che ha messo a punto un sistema per sostituire i pneumatici tradizionali con un cuscino d'aria. Dopo una partenza difficile, il fondo regionale rifiuta il finanziamento, ma il progetto viene ripresentato al Ministero dell'innovazione e ottiene un nuovo slancio. Il linguaggio è vivace e pieno di metafore prese dallo sport e dal pugilato.",
+  "grammar": [
+    {
+      "id": "connectors",
+      "title_it": "Si bien que: così che, tanto che (conseguenza)",
+      "explain_it": "Si bien que introduce una conseguenza concreta, come l'italiano 'così che' o 'tanto che'. Davanti a vocale si scrive si bien qu' (si bien qu'il, si bien qu'elle). Dopo si bien que il verbo sta all'indicativo, perché il fatto è reale: non si usa il condizionale. Non va confuso con la costruzione si... que (si grand que, tanto grande che), che è un'altra cosa.",
+      "examples": [
+        {
+          "fr": "Il pleut depuis ce matin, si bien que nous restons à la maison.",
+          "it": "Piove da stamattina, così che restiamo a casa."
+        },
+        {
+          "fr": "Il a beaucoup travaillé, si bien qu'il a gagné le prix.",
+          "it": "Ha lavorato molto, tanto che ha vinto il premio."
+        }
+      ]
+    },
+    {
+      "id": "passe-compose-avoir",
+      "title_it": "Faillir: quasi, per poco non",
+      "explain_it": "Faillir significa 'stare per, per poco non'. Si usa al passato prossimo con avoir, e l'infinito che segue indica l'azione sfiorata: j'ai failli tomber, 'sono quasi caduto'. Il participio failli non concorda con il soggetto e l'ausiliare resta avoir anche con un soggetto femminile (elle a failli tomber). Non va confuso con falloir (bisognare). In italiano il meccanismo è simile a 'ho rischiato di' o 'ho quasi'.",
+      "examples": [
+        {
+          "fr": "J'ai failli oublier mes clés.",
+          "it": "Ho quasi dimenticato le chiavi."
+        },
+        {
+          "fr": "Elle a failli rater son train.",
+          "it": "Per poco non ha perso il treno."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Espressioni idiomatiche: mettre au point, tirer un coup de chapeau",
+      "explain_it": "Mettre au point significa mettere a punto, perfezionare un progetto o un oggetto. Il participio è mis (mis au point), mentre il sostantivo femminile è la mise au point. In fotografia significa mettere a fuoco. Tirer un coup de chapeau à qualcuno significa complimentarsi con lui; nella forma breve Chapeau! è un complimento colloquiale. Sono espressioni da imparare come blocchi, senza tradurre parola per parola.",
+      "examples": [
+        {
+          "fr": "Le photographe a mis l'appareil au point.",
+          "it": "Il fotografo ha messo a fuoco l'apparecchio."
+        },
+        {
+          "fr": "Chapeau, tu as bien joué !",
+          "it": "Complimenti, hai giocato benissimo!"
+        }
+      ]
+    },
+    {
+      "id": "exclamatives",
+      "title_it": "Ça alors! e Rebelote!: esclamazioni del parlato",
+      "explain_it": "Ça alors! esprime sorpresa, a volte disappunto; il senso dipende dal tono, come l'italiano 'ma guarda!' o 'ma dai!'. Non va confuso con Alors ça, c'est..., che introduce un giudizio (allora, questo è...). Rebelote! viene dal gioco della belote e annuncia che qualcosa si ripete: come l'italiano 'ci risiamo!'. Sono forme colloquiali, da usare con amici e colleghi, non in un discorso formale.",
+      "examples": [
+        {
+          "fr": "Ça alors ! Tu as déjà fini ?",
+          "it": "Ma guarda! Hai già finito?"
+        },
+        {
+          "fr": "Rebelote ! Il pleut encore.",
+          "it": "Ci risiamo! Piove ancora."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "une jeune pousse",
+      "it": "una start-up",
+      "pos": "n",
+      "note": "letteralmente 'giovane germoglio': neologismo francese per start-up"
+    },
+    {
+      "fr": "l'équipement (m.)",
+      "it": "l'attrezzatura, l'equipaggiamento",
+      "pos": "n"
+    },
+    {
+      "fr": "automobile",
+      "it": "automobilistico",
+      "pos": "adj",
+      "note": "invariabile: équipement automobile"
+    },
+    {
+      "fr": "un dispositif",
+      "it": "un dispositivo, un meccanismo",
+      "pos": "n"
+    },
+    {
+      "fr": "un coussin",
+      "it": "un cuscino",
+      "pos": "n",
+      "note": "un coussin d'air = un cuscino d'aria"
+    },
+    {
+      "fr": "un pneu",
+      "it": "un pneumatico",
+      "pos": "n",
+      "note": "pneu è maschile: un pneu"
+    },
+    {
+      "fr": "un reportage",
+      "it": "un servizio giornalistico, un reportage",
+      "pos": "n"
+    },
+    {
+      "fr": "innovant / innovante",
+      "it": "innovativo",
+      "pos": "adj"
+    },
+    {
+      "fr": "partiel / partielle",
+      "it": "parziale",
+      "pos": "adj"
+    },
+    {
+      "fr": "le filet",
+      "it": "la rete (di sicurezza)",
+      "pos": "n",
+      "note": "sans filet = senza rete"
+    },
+    {
+      "fr": "une faute",
+      "it": "un errore, una colpa",
+      "pos": "n",
+      "note": "sans faute = senza errori"
+    },
+    {
+      "fr": "un concurrent / une concurrente",
+      "it": "un concorrente, una concorrente",
+      "pos": "n"
+    },
+    {
+      "fr": "le guidon",
+      "it": "il manubrio",
+      "pos": "n",
+      "note": "avoir le nez dans le guidon = avere la testa bassa sul lavoro"
+    },
+    {
+      "fr": "coûteux / coûteuse",
+      "it": "costoso",
+      "pos": "adj"
+    },
+    {
+      "fr": "un prototype",
+      "it": "un prototipo",
+      "pos": "n"
+    },
+    {
+      "fr": "le fonds",
+      "it": "il fondo (di investimento)",
+      "pos": "n",
+      "note": "al plurale les fonds = i fondi, il denaro"
+    },
+    {
+      "fr": "le ministère",
+      "it": "il ministero",
+      "pos": "n"
+    },
+    {
+      "fr": "l'innovation (f.)",
+      "it": "l'innovazione",
+      "pos": "n"
+    },
+    {
+      "fr": "le banc",
+      "it": "la panchina",
+      "pos": "n",
+      "note": "rester sur le banc = stare in panchina, non agire"
+    },
+    {
+      "fr": "initial / initiale",
+      "it": "iniziale",
+      "pos": "adj",
+      "note": "al plurale: initiaux"
+    },
+    {
+      "fr": "convaincant / convaincante",
+      "it": "convincente",
+      "pos": "adj"
+    },
+    {
+      "fr": "la balle",
+      "it": "la palla",
+      "pos": "n"
+    },
+    {
+      "fr": "le camp",
+      "it": "il campo, la parte",
+      "pos": "n"
+    },
+    {
+      "fr": "viser",
+      "it": "mirare, puntare a",
+      "pos": "v",
+      "note": "je vise"
+    },
+    {
+      "fr": "encaisser",
+      "it": "incassare, subire",
+      "pos": "v",
+      "note": "encaisser les coups = incassare i colpi"
+    },
+    {
+      "fr": "modifier",
+      "it": "modificare",
+      "pos": "v",
+      "note": "je modifie"
+    },
+    {
+      "fr": "légèrement",
+      "it": "leggermente",
+      "pos": "adv"
+    },
+    {
+      "fr": "reculer",
+      "it": "indietreggiare",
+      "pos": "v",
+      "note": "je recule"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "en plein dans le mille",
+      "it": "proprio nel segno, in pieno",
+      "note": "dal tiro al bersaglio: colpire il centro"
+    },
+    {
+      "fr": "tirer son épingle du jeu",
+      "it": "cavarsela, trarre vantaggio da una situazione difficile",
+      "note": "letteralmente 'tirare la propria spilla dal gioco'"
+    },
+    {
+      "fr": "avoir le vent en poupe",
+      "it": "essere in ascesa, andare a gonfie vele",
+      "note": "letteralmente 'avere il vento in poppa'"
+    },
+    {
+      "fr": "brûler les étapes",
+      "it": "bruciare le tappe",
+      "note": "come in italiano: saltare i passaggi intermedi"
+    },
+    {
+      "fr": "botter en touche",
+      "it": "svicolare, eludere una domanda",
+      "note": "termine del rugby: calciare il pallone fuori campo"
+    },
+    {
+      "fr": "jeter l'éponge",
+      "it": "gettare la spugna",
+      "note": "come in italiano: rinunciare"
+    },
+    {
+      "fr": "déclarer forfait",
+      "it": "dare forfait, ritirarsi",
+      "note": "come in italiano 'dare forfait': rinunciare a gareggiare"
+    },
+    {
+      "fr": "sans filet",
+      "it": "senza rete di sicurezza",
+      "note": "travailler sans filet: lavorare senza paracadute"
+    },
+    {
+      "fr": "renvoyer dans les cordes",
+      "it": "mettere alle corde",
+      "note": "termine del pugilato"
+    },
+    {
+      "fr": "la balle est dans leur camp",
+      "it": "la palla passa a loro",
+      "note": "tocca a loro decidere"
+    },
+    {
+      "fr": "Chapeau !",
+      "it": "Complimenti!",
+      "note": "forma breve di tirer un coup de chapeau"
+    },
+    {
+      "fr": "coiffer au poteau",
+      "it": "battere sul filo di lana",
+      "note": "letteralmente 'pettinare sul palo': vincere all'ultimo"
+    }
+  ],
+  "notes_it": [
+    "Une jeune pousse, letteralmente 'giovane germoglio', è un neologismo francese per start-up: il francese preferisce un termine proprio, anche se nel linguaggio economico si sente molto start-up.",
+    "Pronuncia: in pneu, pneumatique e pneumonie la p iniziale si pronuncia ([pnø]), a differenza dell'inglese 'pneumatic'; non esiste vocale di appoggio, si dice 'pn-' di seguito.",
+    "KO si legge 'ka-o' e viene dal pugilato inglese: è un prestito diretto, non tradotto. Fuori dal ring, essere KO significa essere esausto, a pezzi.",
+    "Dispositif corrisponde all'italiano 'dispositivo': un apparecchio o un meccanismo con una funzione precisa. Non va confuso con disposition, che significa disposizione (anche d'animo) o possibilità d'uso."
+  ],
+  "exercises": [
+    {
+      "id": "L097-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "connectors",
+      "prompt": "Quale frase significa 'Ho dormito male, così che sono arrivato in ritardo'?",
+      "options": [
+        "J'ai mal dormi, si bien que je suis arrivé en retard.",
+        "J'ai mal dormi, si bien que je serais arrivé en retard.",
+        "J'ai mal dormi, si bien être arrivé en retard.",
+        "J'ai mal dormi, parce que je suis arrivé en retard."
+      ],
+      "correct": 0,
+      "explain_it": "Si bien que introduce una conseguenza reale, quindi vuole l'indicativo passato prossimo; il condizionale e parce que cambiano il senso."
+    },
+    {
+      "id": "L097-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "prompt": "Quale frase significa 'Ho quasi perso il treno'?",
+      "options": [
+        "J'ai failli rater le train.",
+        "Je suis failli rater le train.",
+        "J'ai failli raté le train.",
+        "J'ai faillir rater le train."
+      ],
+      "correct": 0,
+      "explain_it": "Faillir si coniuga con avoir, il participio failli resta invariato e dopo di lui va l'infinito (rater), non il participio."
+    },
+    {
+      "id": "L097-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "vocab",
+      "prompt": "Nel dialogo, 'un dispositif' significa:",
+      "options": [
+        "un dispositivo, un meccanismo",
+        "una disposizione d'animo",
+        "una decisione del giudice",
+        "un dispaccio ufficiale"
+      ],
+      "correct": 0,
+      "explain_it": "Dispositif indica un apparecchio o un meccanismo organizzato, come l'italiano dispositivo; disposition (disposizione) è un'altra parola."
+    },
+    {
+      "id": "L097-e04",
+      "type": "mcq",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Come si dice 'un pneumatico' in francese?",
+      "options": [
+        "un pneu",
+        "une pneu",
+        "un pneumologue",
+        "une pneumonie"
+      ],
+      "correct": 0,
+      "explain_it": "Pneu è maschile: un pneu. Une pneumonie è la polmonite, un altro termine con lo stesso inizio."
+    },
+    {
+      "id": "L097-e05",
+      "type": "mcq",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Nel progetto, 'mettre au point' significa:",
+      "options": [
+        "mettere a punto, perfezionare",
+        "mettere in ordine",
+        "mettere in pausa",
+        "rimettere al posto"
+      ],
+      "correct": 0,
+      "explain_it": "Mettre au point indica lo sviluppo e il perfezionamento di un progetto; non ha il senso letterale di 'mettere' in un luogo."
+    },
+    {
+      "id": "L097-e06",
+      "type": "mcq",
+      "level": 2,
+      "concept": "exclamatives",
+      "prompt": "Un collega ti dice un risultato inatteso: 'Ça alors !' esprime:",
+      "options": [
+        "sorpresa: ma guarda un po'!",
+        "rassegnazione: pazienza",
+        "invito: andiamo!",
+        "scuse: mi dispiace"
+      ],
+      "correct": 0,
+      "explain_it": "Ça alors! è un'esclamazione di sorpresa, positiva o negativa a seconda del tono, e non esprime scuse né rassegnazione."
+    },
+    {
+      "id": "L097-e07",
+      "type": "mcq",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Un amico ti dice 'Chapeau !' dopo che hai vinto il premio. Significa:",
+      "options": [
+        "Complimenti!",
+        "Mettiti il cappello!",
+        "Ci vediamo domani!",
+        "Buon appetito!"
+      ],
+      "correct": 0,
+      "explain_it": "Chapeau! è un complimento, forma breve di tirer un coup de chapeau: non ha senso letterale legato al cappello."
+    },
+    {
+      "id": "L097-e08",
+      "type": "mcq",
+      "level": 1,
+      "concept": "gender",
+      "prompt": "Quale forma è corretta per 'il nuovo prototipo'?",
+      "options": [
+        "un nouveau prototype",
+        "une nouvelle prototype",
+        "un nouvelle prototype",
+        "une nouveau prototype"
+      ],
+      "correct": 0,
+      "explain_it": "Prototype è maschile, quindi un prototype, e l'aggettivo prende la forma maschile nouveau davanti a consonante."
+    },
+    {
+      "id": "L097-e09",
+      "type": "mcq",
+      "level": 3,
+      "concept": "connectors",
+      "prompt": "Quale frase significa 'Il progetto è costoso, così che abbiamo rinunciato'?",
+      "options": [
+        "Le projet est coûteux, si bien que nous avons renoncé.",
+        "Le projet est coûteux, si bien que nous aurions renoncé.",
+        "Le projet est coûteux, si bien que nous renoncer.",
+        "Le projet est coûteux, parce que nous avons renoncé."
+      ],
+      "correct": 0,
+      "explain_it": "Si bien que introduce una conseguenza reale con l'indicativo passato prossimo; aurions renoncé cambia il senso in 'avremmo rinunciato' e parce que inverte il rapporto causale."
+    },
+    {
+      "id": "L097-e10",
+      "type": "mcq",
+      "level": 3,
+      "concept": "passe-compose-avoir",
+      "prompt": "Quale frase significa 'Abbiamo quasi perso l'aereo'?",
+      "options": [
+        "Nous avons failli manquer l'avion.",
+        "Nous sommes failli manquer l'avion.",
+        "Nous avons failli manqué l'avion.",
+        "Nous avons failli manquer à l'avion."
+      ],
+      "correct": 0,
+      "explain_it": "Con faillir l'ausiliare è avoir, il participio non cambia e l'infinito che segue è manquer senza preposizione."
+    },
+    {
+      "id": "L097-e11",
+      "type": "order",
+      "level": 1,
+      "concept": "connectors",
+      "prompt": "Ha studiato a lungo, così che ha superato l'esame.",
+      "answers": [
+        "Il a [longtemps étudié|étudié longtemps], si bien qu'il a réussi l'examen."
+      ],
+      "distractors": [
+        "parce",
+        "aurait"
+      ],
+      "explain_it": "Si bien qu'il vuole l'indicativo passato prossimo: il fatto è reale e ha avuto una conseguenza."
+    },
+    {
+      "id": "L097-e12",
+      "type": "order",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ho quasi perso l'autobus.",
+      "answers": [
+        "J'ai failli [manquer|rater] le bus."
+      ],
+      "distractors": [
+        "suis",
+        "faille"
+      ],
+      "explain_it": "Faillir prende avoir e vuole l'infinito dopo di sé: j'ai failli manquer, non j'ai failli manqué."
+    },
+    {
+      "id": "L097-e13",
+      "type": "order",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Alla fine il ministro ha dato forfait.",
+      "answers": [
+        "Finalement, le ministre a déclaré forfait.",
+        "Le ministre a finalement déclaré forfait."
+      ],
+      "distractors": [
+        "fait",
+        "dit"
+      ],
+      "explain_it": "Déclarer forfait significa ritirarsi o rinunciare; qui il verbo è déclarer al passato prossimo con avoir."
+    },
+    {
+      "id": "L097-e14",
+      "type": "order",
+      "level": 2,
+      "concept": "exclamatives",
+      "prompt": "Ci risiamo: il treno è di nuovo in ritardo.",
+      "answers": [
+        "Rebelote ! Le train est [encore|de nouveau] en retard."
+      ],
+      "distractors": [
+        "Chapeau",
+        "avance"
+      ],
+      "explain_it": "Rebelote! annuncia che la situazione si ripete, e encore o de nouveau esprimono la ripetizione."
+    },
+    {
+      "id": "L097-e15",
+      "type": "order",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Gli ingegneri hanno messo a punto il prototipo.",
+      "answers": [
+        "Les ingénieurs ont mis au point le prototype."
+      ],
+      "distractors": [
+        "mise",
+        "fait"
+      ],
+      "explain_it": "Il verbo è mettre al passato prossimo con il participio mis; mise è il sostantivo femminile, non il participio."
+    },
+    {
+      "id": "L097-e16",
+      "type": "order",
+      "level": 3,
+      "concept": "connectors",
+      "prompt": "Ero stanco, così che sono andato a letto presto.",
+      "answers": [
+        "J'étais fatigué, si bien que je suis allé me coucher [tôt|de bonne heure]."
+      ],
+      "distractors": [
+        "parce",
+        "avais"
+      ],
+      "explain_it": "Si bien que introduce la conseguenza; la parte principale è all'imperfetto (j'étais) e la conseguenza al passato prossimo con être e accordo sul soggetto maschile."
+    },
+    {
+      "id": "L097-e17",
+      "type": "cloze",
+      "level": 1,
+      "concept": "idioms",
+      "text": "Il a préféré ___ en touche plutôt que de répondre.",
+      "answers": [
+        "botter"
+      ],
+      "hint": "(botter, infinito)",
+      "prompt": "Ha preferito svicolare piuttosto che rispondere.",
+      "explain_it": "Botter en touche significa svicolare; dopo préférer si usa l'infinito."
+    },
+    {
+      "id": "L097-e18",
+      "type": "cloze",
+      "level": 1,
+      "concept": "idioms",
+      "text": "Maintenant que nos résultats sont prêts, la ___ est dans leur camp.",
+      "answers": [
+        "balle"
+      ],
+      "hint": "(sostantivo femminile)",
+      "prompt": "Ora che i risultati sono pronti, la palla passa a loro.",
+      "explain_it": "La balle est dans leur camp significa che tocca a loro decidere: balle è femminile."
+    },
+    {
+      "id": "L097-e19",
+      "type": "cloze",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "text": "Il a ___ tomber dans l'escalier.",
+      "answers": [
+        "failli"
+      ],
+      "hint": "(faillir, passato prossimo)",
+      "prompt": "Per poco non è caduto dalle scale.",
+      "explain_it": "Con faillir al passato prossimo si usa il participio failli, invariato, seguito dall'infinito tomber."
+    },
+    {
+      "id": "L097-e20",
+      "type": "cloze",
+      "level": 2,
+      "concept": "connectors",
+      "text": "Nous avons raté le train, ___ nous sommes arrivés en retard.",
+      "answers": [
+        "si bien que"
+      ],
+      "hint": "(connettivo di conseguenza)",
+      "prompt": "Abbiamo perso il treno, così che siamo arrivati in ritardo.",
+      "explain_it": "Si bien que è il connettivo che introduce la conseguenza; con l'indicativo, perché il fatto è avvenuto."
+    },
+    {
+      "id": "L097-e21",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Ce ___ permet de mesurer la pression.",
+      "answers": [
+        "dispositif"
+      ],
+      "hint": "(sostantivo maschile)",
+      "prompt": "Questo dispositivo serve a misurare la pressione.",
+      "explain_it": "Dispositif è un sostantivo maschile che indica un meccanismo o un apparecchio, non una disposizione."
+    },
+    {
+      "id": "L097-e22",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Nous avons ___ au point un nouveau modèle.",
+      "answers": [
+        "mis"
+      ],
+      "hint": "(mettre, passato prossimo)",
+      "prompt": "Abbiamo messo a punto un nuovo modello.",
+      "explain_it": "Il participio di mettre è mis: mis au point è il passato prossimo, mentre mise è il sostantivo."
+    },
+    {
+      "id": "L097-e23",
+      "type": "cloze",
+      "level": 2,
+      "concept": "exclamatives",
+      "text": "___ alors ! Tu as gagné le concours ?",
+      "answers": [
+        "Ça"
+      ],
+      "prompt": "Ma guarda! Hai vinto il concorso?",
+      "explain_it": "Ça alors! è un'esclamazione di sorpresa che si apre con ça e si legge con tono sorpreso."
+    },
+    {
+      "id": "L097-e24",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-cod",
+      "text": "Le dossier ? Je ___ai envoyé hier.",
+      "answers": [
+        "l'"
+      ],
+      "hint": "(pronome complemento oggetto, maschile)",
+      "prompt": "Il fascicolo? L'ho inviato ieri.",
+      "explain_it": "Il pronome l' sostituisce le dossier e precede l'ausiliare avoir; il participio envoyé non cambia."
+    },
+    {
+      "id": "L097-e25",
+      "type": "cloze",
+      "level": 3,
+      "concept": "connectors",
+      "text": "Il a plu toute la journée, ___ la fête a été annulée.",
+      "answers": [
+        "si bien que"
+      ],
+      "hint": "(connettivo di conseguenza)",
+      "prompt": "Ha piovuto tutto il giorno, così che la festa è stata annullata.",
+      "explain_it": "Si bien que segue la conseguenza di un fatto reale: la festa è stata annullata perché ha piovuto."
+    },
+    {
+      "id": "L097-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ho quasi dimenticato il passaporto.",
+      "answers": [
+        "J'ai failli oublier mon passeport.",
+        "J'ai failli oublier le passeport."
+      ],
+      "explain_it": "Faillir al passato prossimo con avoir, più l'infinito oublier."
+    },
+    {
+      "id": "L097-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "connectors",
+      "prompt": "Ha piovuto tutta la notte, così che la strada è allagata.",
+      "answers": [
+        "Il a plu [pendant |]toute la nuit, si bien que la route est [inondée|submergée]."
+      ],
+      "explain_it": "Si bien que introduce la conseguenza; la strada è allagata si traduce con la route est inondée."
+    },
+    {
+      "id": "L097-e28",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Gli ingegneri hanno messo a punto un nuovo motore.",
+      "answers": [
+        "Les ingénieurs ont mis au point un nouveau moteur."
+      ],
+      "explain_it": "Mettre au point al passato prossimo: il participio è mis, senza accordo con il soggetto."
+    },
+    {
+      "id": "L097-e29",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Complimenti, hai vinto il premio!",
+      "answers": [
+        "[Chapeau|Bravo|Félicitations] ! [Tu as|Vous avez] [gagné|remporté] le prix !"
+      ],
+      "explain_it": "Chapeau! è un complimento colloquiale; con tu si usa tu as, con vous vous avez; gagner o remporter le prix."
+    },
+    {
+      "id": "L097-e30",
+      "type": "write",
+      "level": 2,
+      "concept": "exclamatives",
+      "prompt": "Ma guarda! Non sapevo che fossi qui.",
+      "answers": [
+        "Ça alors ! Je ne savais pas que [tu étais|vous étiez] [là|ici]."
+      ],
+      "explain_it": "Ça alors! apre la frase di sorpresa; con il tu si usa tu étais, con il vous vous étiez."
+    },
+    {
+      "id": "L097-e31",
+      "type": "write",
+      "level": 2,
+      "concept": "exclamatives",
+      "prompt": "Ci risiamo: il computer si è bloccato di nuovo.",
+      "answers": [
+        "Rebelote ! L'ordinateur [s'est encore bloqué|s'est de nouveau bloqué|est encore bloqué|est de nouveau bloqué]."
+      ],
+      "explain_it": "Rebelote! indica che la cosa si ripete; encore o de nouveau esprimono 'di nuovo'."
+    },
+    {
+      "id": "L097-e32",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Il nostro concorrente ha presentato un prototipo più avanzato.",
+      "answers": [
+        "Notre concurrent a présenté un prototype plus [avancé|perfectionné]."
+      ],
+      "explain_it": "Concurrent e prototype sono maschili; plus avancé è il comparativo dell'aggettivo avancé."
+    },
+    {
+      "id": "L097-e33",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Il progetto è diventato sempre più costoso.",
+      "answers": [
+        "Le projet est devenu de plus en plus [coûteux|cher]."
+      ],
+      "explain_it": "De plus en plus più l'aggettivo; coûteux è l'aggettivo corretto che accorda con projet maschile."
+    },
+    {
+      "id": "L097-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "vocab",
+      "prompt": "Abbiamo fatto un falso inizio, ma ora siamo sulla buona strada.",
+      "answers": [
+        "Nous avons fait un faux départ, mais nous sommes [maintenant|désormais|à présent] sur la bonne [voie|route].",
+        "Nous avons fait un faux départ, mais [maintenant|désormais|à présent] nous sommes sur la bonne [voie|route]."
+      ],
+      "explain_it": "Faux départ significa falso inizio; sur la bonne voie è l'espressione per essere sulla buona strada."
+    },
+    {
+      "id": "L097-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Sono sicuro che Marc se la caverà senza problemi.",
+      "answers": [
+        "Je suis [sûr|sûre|certain|certaine] que Marc va tirer son épingle du jeu[ sans problème|].",
+        "Je suis [sûr|sûre|certain|certaine] que Marc tirera son épingle du jeu[ sans problème|]."
+      ],
+      "explain_it": "Tirer son épingle du jeu significa cavarsela: l'espressione resta identica e si può completare con sans problème."
+    },
+    {
+      "id": "L097-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ieri ho quasi perso il treno, ma sono arrivato in tempo.",
+      "answers": [
+        "Hier, j'ai failli [rater|manquer] le train, mais je suis arrivé[|e] à [temps|l'heure]."
+      ],
+      "explain_it": "Faillir con avoir, poi arriver con être al passato prossimo; à temps significa in tempo."
+    },
+    {
+      "id": "L097-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-cod",
+      "prompt": "Il progetto? Lo abbiamo presentato al ministero la settimana scorsa.",
+      "answers": [
+        "Le projet ? [Nous l'avons|On l'a] présenté au ministère [la semaine dernière|la semaine passée]."
+      ],
+      "explain_it": "Il pronome l' sostituisce le projet e si mette prima dell'ausiliare; il participio presentato resta invariato."
+    },
+    {
+      "id": "L097-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Non diamo forfait: stiamo ancora lavorando.",
+      "answers": [
+        "[On ne déclare|Nous ne déclarons] pas forfait : [nous travaillons|on travaille] encore."
+      ],
+      "explain_it": "Déclarer forfait significa dare forfait, ritirarsi: alla forma negativa si usa ne ... pas intorno al verbo."
+    },
+    {
+      "id": "L097-e39",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Il progetto non va male: siamo in ascesa.",
+      "answers": [
+        "Le projet ne va pas mal : [nous avons|on a] le vent en poupe."
+      ],
+      "explain_it": "Avoir le vent en poupe significa essere in ascesa, andare a gonfie vele."
+    },
+    {
+      "id": "L097-e40",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Ho bisogno di quattro pneumatici nuovi.",
+      "answers": [
+        "J'ai besoin de quatre pneus neufs.",
+        "J'ai besoin de quatre nouveaux pneus."
+      ],
+      "explain_it": "Pneu è maschile e il plurale è pneus; neufs accorda con il sostantivo maschile plurale."
+    },
+    {
+      "id": "L097-e41",
+      "type": "dictation",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Nous avons mis au point un petit dispositif simple et robuste.",
+      "explain_it": "Mettre au point al passato prossimo: il participio è mis, con la s finale che non si pronuncia."
+    },
+    {
+      "id": "L097-e42",
+      "type": "dictation",
+      "level": 2,
+      "concept": "exclamatives",
+      "text": "Ça alors ! Le ministre n'est pas venu à la fête.",
+      "explain_it": "Ça alors! esprime sorpresa: la frase che segue è una notizia inattesa, e venu è il participio di venir, che al passato prossimo prende être."
+    },
+    {
+      "id": "L097-e43",
+      "type": "dictation",
+      "level": 3,
+      "concept": "connectors",
+      "text": "Il a failli tomber, si bien que nous avons dû le soutenir.",
+      "explain_it": "Failli con avoir per il quasi-evento, poi si bien que per la conseguenza: due strutture nella stessa frase."
+    },
+    {
+      "id": "L097-e44",
+      "type": "dictation",
+      "level": 3,
+      "concept": "idioms",
+      "text": "Le ministre a botté en touche, sous prétexte qu'il était occupé.",
+      "explain_it": "Botter en touche significa svicolare; sous prétexte que introduce la scusa addotta, con l'indicativo."
+    },
+    {
+      "id": "L097-e45",
+      "type": "flash",
+      "level": 2,
+      "concept": "connectors",
+      "front": "Si bien que",
+      "back": "così che, tanto che: introduce una conseguenza reale, con l'indicativo",
+      "note": "Davanti a vocale: si bien qu'. Non va confuso con la costruzione si... que di intensità.",
+      "explain_it": "Si bien que introduce una conseguenza concreta: il verbo sta all'indicativo, non al condizionale."
+    },
+    {
+      "id": "L097-e46",
+      "type": "flash",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "front": "Faillir + infinito",
+      "back": "stare per, per poco non: j'ai failli tomber = sono quasi caduto",
+      "note": "Si coniuga con avoir, il participio failli non concorda e l'infinito indica l'azione sfiorata.",
+      "explain_it": "Faillir al passato prossimo prende avoir, il participio failli resta invariato e l'infinito indica l'azione sfiorata."
+    },
+    {
+      "id": "L097-e47",
+      "type": "flash",
+      "level": 1,
+      "concept": "exclamatives",
+      "front": "Rebelote !",
+      "back": "Ci risiamo! (la cosa si ripete)",
+      "note": "Viene dal gioco della belote; si usa in modo colloquiale per una cosa che torna.",
+      "explain_it": "Rebelote! è un'esclamazione colloquiale usata quando qualcosa si ripete."
+    },
+    {
+      "id": "L097-e48",
+      "type": "flash",
+      "level": 2,
+      "concept": "idioms",
+      "front": "Mettre au point",
+      "back": "mettere a punto, perfezionare; in fotografia: mettere a fuoco",
+      "note": "Participio: mis (mis au point). Il sostantivo corrispondente è la mise au point.",
+      "explain_it": "Mettre au point è un'espressione da memorizzare: il participio mis non va confuso con il sostantivo mise."
+    }
+  ]
+}

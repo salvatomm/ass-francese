@@ -1,0 +1,955 @@
+{
+  "n": 52,
+  "title_fr": "Nous nous sommes bien amusés !",
+  "title_it": "Ci siamo divertiti un sacco!",
+  "review": false,
+  "status": "verified",
+  "source": "1db59936 p86-93",
+  "theme_it": "Un sondaggio sulle aspettative dei francesi nel campo dell'audiovisivo. Tra colleghi si parla di serie TV e programmi preferiti, di un vecchio programma di cucina che ha fatto ridere tutti e di una presentatrice famosa, mentre qualcuno si accorge di aver perso la penna e chiede di prestargliene un'altra.",
+  "grammar": [
+    {
+      "id": "superlatives",
+      "title_it": "Il superlativo con le plus / le moins",
+      "explain_it": "Il superlativo relativo si forma con le plus (il più) e le moins (il meno) davanti ad aggettivo o avverbio. Se l'aggettivo segue il nome, l'articolo si ripete: la série la plus drôle, l'émission la moins ennuyeuse. L'articolo concorda con il nome, come in italiano (la più divertente). Con un verbo, le plus/le moins stanno dopo il verbo (ce qui me fait rire le plus) oppure, ai tempi composti, tra ausiliare e participio (ce qui m'a le plus fait rire). L'irregolare di bon è le meilleur / la meilleure (mai le plus bon).",
+      "examples": [
+        {
+          "fr": "C'est la série la plus drôle.",
+          "it": "È la serie più divertente."
+        },
+        {
+          "fr": "C'est le moins cher du magasin.",
+          "it": "È il meno caro del negozio."
+        }
+      ]
+    },
+    {
+      "id": "possessives",
+      "title_it": "I pronomi possessivi",
+      "explain_it": "Il pronome possessivo sostituisce 'possessivo + nome' ed è formato da articolo determinativo + mien / tien / sien / nôtre / vôtre / leur. Come in italiano (il mio, la tua) richiede l'articolo, e concorda con la cosa posseduta e non con il possessore: le mien (m.), la mienne (f.), les miens (m. pl.), les miennes (f. pl.). Nôtre e vôtre portano l'accento circonflesso per distinguerli dagli aggettivi notre e votre; leur fa le leur, la leur, les leurs.",
+      "examples": [
+        {
+          "fr": "Ma maison est petite, mais la tienne est grande.",
+          "it": "La mia casa è piccola, ma la tua è grande."
+        },
+        {
+          "fr": "Cette clé est à toi ? Non, ce n'est pas la mienne.",
+          "it": "Questa chiave è tua? No, non è la mia."
+        }
+      ]
+    },
+    {
+      "id": "negation-other",
+      "title_it": "Ni... ni (né... né)",
+      "explain_it": "Ni... ni nega due elementi insieme, come l'italiano né... né. Il verbo prende ne (n') e pas non si aggiunge mai. Dopo ni l'articolo indeterminativo e il partitivo di solito cadono: je ne mange ni viande ni poisson. Con due soggetti il verbo va in genere al plurale.",
+      "examples": [
+        {
+          "fr": "Je n'aime ni le café ni le thé.",
+          "it": "Non amo né il caffè né il tè."
+        },
+        {
+          "fr": "Ni Paul ni Léa ne viennent ce soir.",
+          "it": "Né Paul né Léa vengono stasera."
+        }
+      ]
+    },
+    {
+      "id": "pronominal-verbs",
+      "title_it": "Se souvenir (de) e se rappeler: ricordare",
+      "explain_it": "Se souvenir de (ricordarsi di) è sempre pronominale e vuole de davanti al complemento: je me souviens de ce film. Il sinonimo se rappeler (ricordarsi) si usa senza de, con complemento diretto: je me rappelle ce film. Il verbo non pronominale rappeler significa invece 'ricordare qualcosa a qualcuno' o 'richiamare': Rappelle-moi ton nom. Confronta con l'italiano: 'mi ricordo di' contro 'ricordami'.",
+      "examples": [
+        {
+          "fr": "Tu te souviens de cette chanson ?",
+          "it": "Ti ricordi di quella canzone?"
+        },
+        {
+          "fr": "Rappelle-moi ton nom, s'il te plaît.",
+          "it": "Ricordami il tuo nome, per favore."
+        }
+      ]
+    },
+    {
+      "id": "participle-agreement",
+      "title_it": "Accordo del participio nei verbi pronominali",
+      "explain_it": "Nei verbi pronominali al passato prossimo il participio concorda con il soggetto solo se il pronome riflessivo è complemento oggetto diretto, come in s'amuser o se voir (ci siamo visti). Se dopo il verbo c'è già un complemento oggetto diretto, come in se couper le doigt, il pronome è indiretto e il participio non si accorda. In italiano l'accordo segue sempre il soggetto (si è tagliata il dito), in francese dipende dal ruolo del pronome. Con i verbi in -er coupé e coupée si pronunciano allo stesso modo: l'errore riguarda solo la scrittura.",
+      "examples": [
+        {
+          "fr": "Elle s'est coupé le doigt.",
+          "it": "Si è tagliata il dito."
+        },
+        {
+          "fr": "Elles se sont amusées.",
+          "it": "Si sono divertite."
+        }
+      ]
+    },
+    {
+      "id": "passe-compose-etre",
+      "title_it": "Passato prossimo dei verbi pronominali",
+      "explain_it": "I verbi pronominali formano il passato prossimo con l'ausiliare 'être', come in italiano con 'essere'. Il pronome riflessivo va davanti all'ausiliare e la negazione 'ne... pas' circonda l'ausiliare: 'je ne me suis pas levé'. Per l'accordo del participio vedi la regola precedente.",
+      "examples": [
+        {
+          "fr": "Je me suis levé tôt.",
+          "it": "Mi sono alzato presto."
+        },
+        {
+          "fr": "Nous nous sommes couchés tard.",
+          "it": "Ci siamo coricati tardi."
+        }
+      ]
+    },
+    {
+      "id": "il-y-a",
+      "title_it": "Il y a + periodo di tempo (= fa)",
+      "explain_it": "'Il y a' seguito da un periodo di tempo significa 'fa' ('dieci anni fa'): 'il y a dix ans'. In italiano il periodo viene prima del 'fa', in francese 'il y a' viene prima del periodo. Si usa con il passato prossimo per un'azione conclusa nel passato. Non confonderlo con 'depuis' (da, con azione ancora in corso).",
+      "examples": [
+        {
+          "fr": "J'ai vu ce film il y a dix ans.",
+          "it": "Ho visto questo film dieci anni fa."
+        },
+        {
+          "fr": "Je suis arrivé il y a une heure.",
+          "it": "Sono arrivato un'ora fa."
+        }
+      ]
+    },
+    {
+      "id": "pronoun-coi",
+      "title_it": "Manquer: mancare a qualcuno",
+      "explain_it": "'Manquer à' significa 'mancare a qualcuno' ed è costruito al contrario rispetto all'italiano: la persona che sente la mancanza diventa il complemento indiretto (me, te, nous...), mentre la cosa o la persona che manca è il soggetto. Quindi 'mi manchi' si dice 'tu me manques' e 'mi manca il caffè' si dice 'le café me manque'.",
+      "examples": [
+        {
+          "fr": "Tu me manques énormément.",
+          "it": "Mi manchi moltissimo."
+        },
+        {
+          "fr": "Ce voyage me manque.",
+          "it": "Questo viaggio mi manca."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Avoir un faible pour, être fan de, la cuisine",
+      "explain_it": "Avoir un faible pour significa avere un debole, una predilezione per qualcuno o qualcosa (j'ai un faible pour les desserts). L'aggettivo faible vale anche 'debole' in senso generale: de faibles chances. Être fan de corrisponde a 'essere fan di'; fan è una parola inglese, uguale al maschile e al femminile, e si legge [fan]. La cuisine indica anche l'arte culinaria: faire la cuisine significa cucinare.",
+      "examples": [
+        {
+          "fr": "Je suis fan de ce chanteur.",
+          "it": "Sono un fan di questo cantante."
+        },
+        {
+          "fr": "Il a peu de chances de gagner.",
+          "it": "Ha poche possibilità di vincere."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "un sondage",
+      "it": "sondaggio",
+      "pos": "n"
+    },
+    {
+      "fr": "une attente",
+      "it": "attesa, aspettativa",
+      "pos": "n",
+      "note": "les attentes = le aspettative"
+    },
+    {
+      "fr": "le domaine",
+      "it": "campo, ambito",
+      "pos": "n"
+    },
+    {
+      "fr": "l'audiovisuel (m.)",
+      "it": "audiovisivo",
+      "pos": "n"
+    },
+    {
+      "fr": "un point de vue",
+      "it": "punto di vista",
+      "pos": "n"
+    },
+    {
+      "fr": "une série",
+      "it": "serie (TV)",
+      "pos": "n"
+    },
+    {
+      "fr": "une émission",
+      "it": "programma, trasmissione (TV)",
+      "pos": "n"
+    },
+    {
+      "fr": "l'humour (m.)",
+      "it": "umorismo",
+      "pos": "n"
+    },
+    {
+      "fr": "un divertissement",
+      "it": "intrattenimento, svago",
+      "pos": "n"
+    },
+    {
+      "fr": "un débat",
+      "it": "dibattito",
+      "pos": "n"
+    },
+    {
+      "fr": "distraire",
+      "it": "distrarre",
+      "pos": "v",
+      "note": "pour nous distraire"
+    },
+    {
+      "fr": "instruire",
+      "it": "istruire",
+      "pos": "v"
+    },
+    {
+      "fr": "pleurer",
+      "it": "piangere",
+      "pos": "v"
+    },
+    {
+      "fr": "faire rire",
+      "it": "far ridere",
+      "pos": "v",
+      "note": "il fait rire"
+    },
+    {
+      "fr": "faible",
+      "it": "debole",
+      "pos": "adj",
+      "note": "f. faible"
+    },
+    {
+      "fr": "maladroit",
+      "it": "maldestro, goffo",
+      "pos": "adj",
+      "note": "f. maladroite"
+    },
+    {
+      "fr": "se couper",
+      "it": "tagliarsi",
+      "pos": "v",
+      "note": "je me coupe"
+    },
+    {
+      "fr": "se souvenir (de)",
+      "it": "ricordarsi (di)",
+      "pos": "v",
+      "note": "je me souviens de"
+    },
+    {
+      "fr": "s'arrêter",
+      "it": "fermarsi, cessare",
+      "pos": "v",
+      "note": "je m'arrête"
+    },
+    {
+      "fr": "manquer (à)",
+      "it": "mancare (a qualcuno)",
+      "pos": "v",
+      "note": "tu me manques"
+    },
+    {
+      "fr": "la cuisine",
+      "it": "cucina, arte culinaria",
+      "pos": "n"
+    },
+    {
+      "fr": "un stylo",
+      "it": "penna (a sfera)",
+      "pos": "n"
+    },
+    {
+      "fr": "prêter",
+      "it": "prestare",
+      "pos": "v",
+      "note": "prête-moi"
+    },
+    {
+      "fr": "une présentatrice",
+      "it": "presentatrice",
+      "pos": "n"
+    },
+    {
+      "fr": "un accent",
+      "it": "accento",
+      "pos": "n"
+    },
+    {
+      "fr": "meilleur",
+      "it": "migliore",
+      "pos": "adj",
+      "note": "f. meilleure"
+    },
+    {
+      "fr": "un concours",
+      "it": "concorso, gara",
+      "pos": "n"
+    },
+    {
+      "fr": "un fan",
+      "it": "fan, ammiratore",
+      "pos": "n"
+    },
+    {
+      "fr": "une saison",
+      "it": "stagione",
+      "pos": "n"
+    },
+    {
+      "fr": "accepter",
+      "it": "accettare",
+      "pos": "v",
+      "note": "j'ai accepté"
+    },
+    {
+      "fr": "amusant / amusante",
+      "it": "divertente",
+      "pos": "adj"
+    },
+    {
+      "fr": "célèbre",
+      "it": "famoso, celebre",
+      "pos": "adj",
+      "note": "invariabile al femminile"
+    },
+    {
+      "fr": "le documentaire",
+      "it": "il documentario",
+      "pos": "n"
+    },
+    {
+      "fr": "la faiblesse",
+      "it": "la debolezza",
+      "pos": "n"
+    },
+    {
+      "fr": "participer (à)",
+      "it": "partecipare (a)",
+      "pos": "v"
+    },
+    {
+      "fr": "politique",
+      "it": "politico",
+      "pos": "adj",
+      "note": "politique è uguale al maschile e al femminile"
+    },
+    {
+      "fr": "la puissance",
+      "it": "la potenza",
+      "pos": "n"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Ni l'un ni l'autre.",
+      "it": "Né l'uno né l'altro.",
+      "note": "risposta a una domanda con due possibilità"
+    },
+    {
+      "fr": "Au moins",
+      "it": "almeno",
+      "note": "usato per attenuare o per aggiungere una precisazione"
+    },
+    {
+      "fr": "avoir un faible pour",
+      "it": "avere un debole per",
+      "note": "registro comune"
+    },
+    {
+      "fr": "il y a dix ans",
+      "it": "dieci anni fa"
+    },
+    {
+      "fr": "Tu me manques !",
+      "it": "Mi manchi!",
+      "note": "forma informale"
+    },
+    {
+      "fr": "Bon appétit !",
+      "it": "Buon appetito!"
+    },
+    {
+      "fr": "Pas vraiment.",
+      "it": "Non proprio.",
+      "note": "risposta cortese ma poco convinta"
+    },
+    {
+      "fr": "C'est un début !",
+      "it": "È un inizio!",
+      "note": "ironico o incoraggiante"
+    },
+    {
+      "fr": "être fan de",
+      "it": "essere fan di"
+    },
+    {
+      "fr": "Continuons !",
+      "it": "Continuiamo!"
+    }
+  ],
+  "notes_it": [
+    "Falso amico: 'attente' non significa 'attenzione' (che in francese è 'attention'), ma 'attesa' o 'aspettativa'.",
+    "Falso amico: 'la cuisine' indica sia la stanza (la cucina) sia l'arte culinaria. 'Faire la cuisine' vuol dire cucinare.",
+    "Pronuncia: nôtre e vôtre hanno la o chiusa [o], mentre notre e votre (aggettivi) hanno la o aperta [ɔ].",
+    "Stile: nello scritto formale si tende a evitare i verbi molto comuni come avoir ed être, preferendo sinonimi più ricercati (per esempio posséder, se trouver). Nel parlato quotidiano restano i verbi semplici.",
+    "Fan: parola inglese, in francese si pronuncia [fan] e resta uguale al maschile e al femminile (un fan, une fan)."
+  ],
+  "exercises": [
+    {
+      "id": "L052-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "superlatives",
+      "prompt": "Come si dice 'È la serie più divertente'?",
+      "options": [
+        "C'est la série la plus drôle",
+        "C'est la plus série drôle",
+        "C'est la série plus drôle",
+        "C'est la série le plus drôle"
+      ],
+      "correct": 0,
+      "explain_it": "L'aggettivo segue il nome, quindi l'articolo si ripete e concorda con série (femminile): la plus drôle. Le plus davanti a un nome femminile è un errore."
+    },
+    {
+      "id": "L052-e02",
+      "type": "write",
+      "level": 3,
+      "concept": "superlatives",
+      "prompt": "Qual è la serie che ti ha fatto piangere di più?",
+      "answers": [
+        "Quelle est la série qui [t'a|vous a] le plus fait pleurer",
+        "Quelle est la série qui [t'a|vous a] fait pleurer le plus"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Con il passato prossimo, 'le plus' si mette prima del participio 'fait', nella posizione più letteraria."
+    },
+    {
+      "id": "L052-e03",
+      "type": "cloze",
+      "level": 1,
+      "concept": "superlatives",
+      "text": "Ce sont les émissions ___ intéressantes du mois.",
+      "answers": [
+        "les plus"
+      ],
+      "hint": "(superlativo di maggioranza, plurale)",
+      "explain_it": "Il superlativo di maggioranza plurale è 'les plus' seguito dall'aggettivo, che concorda con 'émissions'."
+    },
+    {
+      "id": "L052-e04",
+      "type": "order",
+      "level": 1,
+      "concept": "superlatives",
+      "prompt": "È il miglior film di tutti i tempi.",
+      "answers": [
+        "C'est le meilleur film de tous les temps"
+      ],
+      "distractors": [
+        "plus",
+        "moins"
+      ],
+      "explain_it": "'Bon' ha il superlativo irregolare 'le meilleur', quindi non si usa 'le plus bon'."
+    },
+    {
+      "id": "L052-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "possessives",
+      "prompt": "Come si dice 'È la vostra' riferito a 'clé' (chiave)?",
+      "options": [
+        "C'est la vôtre",
+        "C'est la votre",
+        "C'est le vôtre",
+        "C'est la vos"
+      ],
+      "correct": 0,
+      "explain_it": "'Clé' è femminile, quindi serve 'la vôtre' con l'accento circonflesso per distinguerlo da 'votre'."
+    },
+    {
+      "id": "L052-e06",
+      "type": "cloze",
+      "level": 2,
+      "concept": "possessives",
+      "text": "Ma maison est petite, mais ___ est très grande.",
+      "answers": [
+        "la tienne"
+      ],
+      "hint": "(pronome possessivo, riferito a 'maison')",
+      "prompt": "La mia casa è piccola, ma la tua è molto grande.",
+      "explain_it": "Il pronome possessivo concorda con la cosa posseduta ('maison', femminile), non con il possessore."
+    },
+    {
+      "id": "L052-e07",
+      "type": "write",
+      "level": 2,
+      "concept": "possessives",
+      "prompt": "Il mio ombrello è rotto: prestami il tuo.",
+      "answers": [
+        "Mon parapluie est [cassé|abîmé], prête-moi le tien"
+      ],
+      "explain_it": "'Parapluie' è maschile, quindi il pronome è 'le tien'."
+    },
+    {
+      "id": "L052-e08",
+      "type": "write",
+      "level": 2,
+      "concept": "possessives",
+      "prompt": "La nostra macchina è vecchia, la vostra è nuova.",
+      "answers": [
+        "La nôtre est vieille, la vôtre est [neuve|nouvelle]",
+        "Notre voiture est vieille, la vôtre est [neuve|nouvelle]"
+      ],
+      "explain_it": "'Voiture' è femminile: 'la nôtre' e 'la vôtre' prendono entrambe la forma femminile e l'accento circonflesso."
+    },
+    {
+      "id": "L052-e09",
+      "type": "mcq",
+      "level": 1,
+      "concept": "negation-other",
+      "prompt": "Come si dice 'Non amo né il caffè né il tè'?",
+      "options": [
+        "Je n'aime ni le café ni le thé",
+        "Je n'aime pas le café ni le thé",
+        "Je n'aime ni le café et ni le thé",
+        "Je ne aime ni le café ni le thé"
+      ],
+      "correct": 0,
+      "explain_it": "Con 'ni... ni' non si usa 'pas': la negazione è già espressa da 'ne' e da 'ni'."
+    },
+    {
+      "id": "L052-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "negation-other",
+      "text": "Il ne mange ni viande ___ poisson.",
+      "answers": [
+        "ni"
+      ],
+      "hint": "(congiunzione, 'né')",
+      "explain_it": "Il secondo elemento della negazione doppia è introdotto di nuovo da 'ni', come l'italiano 'né... né'."
+    },
+    {
+      "id": "L052-e11",
+      "type": "write",
+      "level": 2,
+      "concept": "negation-other",
+      "prompt": "Né lui né lei parlano francese.",
+      "answers": [
+        "Ni lui ni elle ne [parlent|parle] français"
+      ],
+      "explain_it": "Con soggetto plurale il verbo va al plurale e la negazione 'ne' precede il verbo."
+    },
+    {
+      "id": "L052-e12",
+      "type": "write",
+      "level": 3,
+      "concept": "negation-other",
+      "prompt": "Non amo né la televisione né la radio, preferisco leggere.",
+      "answers": [
+        "Je n'aime ni la [télévision|télé] ni la radio, je préfère lire"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Con 'ni... ni' la negazione 'ne' resta davanti al verbo e 'pas' non compare."
+    },
+    {
+      "id": "L052-e13",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Come si dice 'Ho un debole per la cucina'?",
+      "options": [
+        "J'ai un faible pour la cuisine",
+        "J'ai une faible pour la cuisine",
+        "Je suis faible pour la cuisine",
+        "J'ai un faible à la cuisine"
+      ],
+      "correct": 0,
+      "explain_it": "'Un faible' è un sostantivo maschile in questa espressione, e la preposizione è 'pour'."
+    },
+    {
+      "id": "L052-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Je suis ___ de ce chanteur.",
+      "answers": [
+        "fan",
+        "un fan"
+      ],
+      "hint": "(essere fan di; parola inglese, invariabile)",
+      "explain_it": "'Fan' non cambia forma e si usa con 'être fan de', come l'italiano 'essere fan di'."
+    },
+    {
+      "id": "L052-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Ho un debole per i dolci.",
+      "answers": [
+        "J'ai un faible pour les [desserts|sucreries|gâteaux]"
+      ],
+      "explain_it": "'Avoir un faible pour' esprime la predilezione: si usa 'pour', non 'à'."
+    },
+    {
+      "id": "L052-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Questa squadra ha poche possibilità di vincere.",
+      "answers": [
+        "Cette équipe a peu de chances de gagner",
+        "Cette équipe a de faibles chances de gagner"
+      ],
+      "explain_it": "Peu de chances o de faibles chances (plurale): in francese si parla di chances al plurale."
+    },
+    {
+      "id": "L052-e17",
+      "type": "mcq",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Come si dice 'Ti ricordi di quel film?'",
+      "options": [
+        "Tu te souviens de ce film ?",
+        "Tu te souviens ce film ?",
+        "Tu souviens de ce film ?",
+        "Tu me souviens de ce film ?"
+      ],
+      "correct": 0,
+      "explain_it": "'Se souvenir' è pronominale e richiede 'de' davanti al complemento, come l'italiano 'ricordarsi di'."
+    },
+    {
+      "id": "L052-e18",
+      "type": "cloze",
+      "level": 1,
+      "concept": "pronominal-verbs",
+      "text": "Je ne ___ pas de son nom.",
+      "answers": [
+        "me souviens"
+      ],
+      "hint": "(se souvenir, presente, io)",
+      "prompt": "Non mi ricordo il suo nome.",
+      "explain_it": "Il pronome riflessivo 'me' va davanti al verbo coniugato, mentre 'ne... pas' lo circonda."
+    },
+    {
+      "id": "L052-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Mi ricordo del suo nome.",
+      "answers": [
+        "Je me souviens de son nom",
+        "Je me rappelle son nom"
+      ],
+      "explain_it": "Con 'se rappeler' il complemento è diretto e non si usa 'de'; con 'se souvenir' serve 'de'."
+    },
+    {
+      "id": "L052-e20",
+      "type": "write",
+      "level": 3,
+      "concept": "pronominal-verbs",
+      "prompt": "Ricordami il tuo nome, per favore.",
+      "answers": [
+        "Rappelle-moi ton nom, s'il te plaît",
+        "Rappelez-moi votre nom, s'il vous plaît"
+      ],
+      "explain_it": "Il verbo 'rappeler' non pronominale significa 'ricordare a qualcuno' ed è usato con il pronome indiretto 'moi'."
+    },
+    {
+      "id": "L052-e21",
+      "type": "mcq",
+      "level": 2,
+      "concept": "participle-agreement",
+      "prompt": "Quale frase è corretta? (Mio fratello si è tagliato il piede)",
+      "options": [
+        "Mon frère s'est coupé le pied",
+        "Mon frère s'est coupée le pied",
+        "Mon frère s'est coupés le pied",
+        "Mon frère s'est coupé la pied"
+      ],
+      "correct": 0,
+      "explain_it": "Il pronome 'se' è complemento indiretto perché il verbo ha un proprio oggetto diretto ('le pied'), quindi il participio non si accorda."
+    },
+    {
+      "id": "L052-e22",
+      "type": "cloze",
+      "level": 2,
+      "concept": "participle-agreement",
+      "text": "Ma sœur s'est ___ les mains.",
+      "answers": [
+        "lavé"
+      ],
+      "hint": "(laver, passato prossimo)",
+      "prompt": "Mia sorella si è lavata le mani.",
+      "explain_it": "Con 'les mains' come complemento diretto, il pronome 'se' è indiretto e il participio resta al maschile singolare."
+    },
+    {
+      "id": "L052-e23",
+      "type": "write",
+      "level": 3,
+      "concept": "participle-agreement",
+      "prompt": "Lei si è tagliata il dito.",
+      "answers": [
+        "Elle s'est coupé le doigt"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "In italiano il participio concorda con il soggetto, in francese no: 'le doigt' è il complemento diretto."
+    },
+    {
+      "id": "L052-e24",
+      "type": "write",
+      "level": 3,
+      "concept": "participle-agreement",
+      "prompt": "Le mie amiche si sono divertite molto.",
+      "answers": [
+        "Mes amies se sont beaucoup amusées",
+        "Mes amies se sont bien amusées"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "'S'amuser' è un verbo pronominale in cui 'se' è complemento diretto, quindi il participio concorda con il soggetto femminile plurale."
+    },
+    {
+      "id": "L052-e25",
+      "type": "mcq",
+      "level": 1,
+      "concept": "passe-compose-etre",
+      "prompt": "Come si dice 'Ci siamo divertiti'?",
+      "options": [
+        "Nous nous sommes amusés",
+        "Nous nous avons amusé",
+        "Nous nous sommes amusé",
+        "Nous nous amusons"
+      ],
+      "correct": 0,
+      "explain_it": "Il passato prossimo dei verbi pronominali usa 'être' e il participio concorda con il soggetto maschile plurale."
+    },
+    {
+      "id": "L052-e26",
+      "type": "cloze",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "text": "Hier, je me suis ___ tôt.",
+      "answers": [
+        "levé"
+      ],
+      "hint": "(se lever, passato prossimo, uomo)",
+      "explain_it": "Il passato prossimo dei verbi pronominali si forma con 'être' e il participio concorda con il soggetto."
+    },
+    {
+      "id": "L052-e27",
+      "type": "mcq",
+      "level": 1,
+      "concept": "il-y-a",
+      "prompt": "Come si dice 'Ho visto questo film dieci anni fa'?",
+      "options": [
+        "J'ai vu ce film il y a dix ans",
+        "J'ai vu ce film depuis dix ans",
+        "Je vois ce film il y a dix ans",
+        "J'ai vu ce film dix ans depuis"
+      ],
+      "correct": 0,
+      "explain_it": "'Il y a' indica un'azione conclusa nel passato, mentre 'depuis' indica un'azione che continua."
+    },
+    {
+      "id": "L052-e28",
+      "type": "cloze",
+      "level": 2,
+      "concept": "il-y-a",
+      "text": "Il est parti ___ deux heures.",
+      "answers": [
+        "il y a"
+      ],
+      "hint": "(fa, presente di avoir)",
+      "prompt": "È partito due ore fa.",
+      "explain_it": "'Il y a' più il periodo di tempo equivale a 'fa' in italiano, e 'il y a' va prima del periodo."
+    },
+    {
+      "id": "L052-e29",
+      "type": "write",
+      "level": 2,
+      "concept": "il-y-a",
+      "prompt": "Ci siamo visti tre giorni fa.",
+      "answers": [
+        "Nous nous sommes vus il y a trois jours",
+        "On s'est vus il y a trois jours"
+      ],
+      "explain_it": "Con il passato prossimo di 'se voir', il participio 'vus' concorda con il soggetto."
+    },
+    {
+      "id": "L052-e30",
+      "type": "mcq",
+      "level": 2,
+      "concept": "pronoun-coi",
+      "prompt": "Come si dice 'Mi manchi'?",
+      "options": [
+        "Tu me manques",
+        "Je te manque",
+        "Tu me manque",
+        "Tu manques moi"
+      ],
+      "correct": 0,
+      "explain_it": "Con 'manquer à' la persona che sente la mancanza è il complemento indiretto 'me', e la persona che manca è il soggetto 'tu'."
+    },
+    {
+      "id": "L052-e31",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-coi",
+      "text": "Ta sœur ___ beaucoup.",
+      "answers": [
+        "me manque"
+      ],
+      "hint": "(manquer, presente)",
+      "prompt": "Mi manca molto tua sorella.",
+      "explain_it": "Con 'manquer' il pronome 'me' indica la persona che sente la mancanza, mentre 'ta sœur' è il soggetto."
+    },
+    {
+      "id": "L052-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-coi",
+      "prompt": "Mi mancano i miei amici di Roma.",
+      "answers": [
+        "Mes amis de Rome me manquent"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Il soggetto francese è la cosa che manca ('mes amis'), e il pronome 'me' indica chi la sente."
+    },
+    {
+      "id": "L052-e33",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-coi",
+      "prompt": "Mi manchi moltissimo!",
+      "answers": [
+        "Tu me manques [énormément|beaucoup|tellement|vraiment]"
+      ],
+      "explain_it": "Con 'manquer' la persona che manca diventa il soggetto ('tu') e il pronome 'me' resta indiretto."
+    },
+    {
+      "id": "L052-e34",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "front": "Differenza tra 'se souvenir de', 'se rappeler' e 'rappeler'",
+      "back": "Se souvenir de e se rappeler = ricordarsi: je me souviens de ce film / je me rappelle ce film (senza de). Rappeler, senza pronome = ricordare a qualcuno o richiamare: Rappelle-moi ton nom."
+    },
+    {
+      "id": "L052-e35",
+      "type": "flash",
+      "level": 2,
+      "concept": "superlatives",
+      "front": "Dove si colloca 'le plus' rispetto al verbo al passato prossimo?",
+      "back": "Può stare dopo il participio ('a fait rire le plus') oppure prima del participio ('a le plus fait rire'). La seconda posizione è più letteraria ma comune."
+    },
+    {
+      "id": "L052-e36",
+      "type": "flash",
+      "level": 2,
+      "concept": "possessives",
+      "front": "Come si forma il pronome possessivo francese?",
+      "back": "Articolo determinativo più mien / tien / sien / nôtre / vôtre / leur, concordando con la cosa posseduta: le mien, la tienne, les siens, les nôtres."
+    },
+    {
+      "id": "L052-e37",
+      "type": "dictation",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "text": "Hier soir, nous nous sommes couchés très tard."
+    },
+    {
+      "id": "L052-e38",
+      "type": "dictation",
+      "level": 3,
+      "concept": "participle-agreement",
+      "text": "Elles se sont beaucoup disputées il y a dix ans."
+    },
+    {
+      "id": "L052-e39",
+      "type": "order",
+      "level": 2,
+      "concept": "superlatives",
+      "prompt": "È lo spettacolo più divertente della settimana.",
+      "answers": [
+        "C'est le spectacle le plus amusant de la semaine",
+        "C'est le spectacle le plus drôle de la semaine"
+      ],
+      "distractors": [
+        "moins",
+        "la"
+      ],
+      "explain_it": "'Le plus' precede l'aggettivo 'amusant', e l'articolo 'le' concorda con 'spectacle', maschile."
+    },
+    {
+      "id": "L052-e40",
+      "type": "order",
+      "level": 2,
+      "concept": "negation-other",
+      "prompt": "Né io né tu siamo andati al cinema.",
+      "answers": [
+        "Ni [moi ni toi|toi ni moi] ne sommes allés au cinéma"
+      ],
+      "distractors": [
+        "pas",
+        "et"
+      ],
+      "explain_it": "Con 'ni... ni' si usa 'ne' davanti al verbo e non si aggiunge 'pas'."
+    },
+    {
+      "id": "L052-e41",
+      "type": "order",
+      "level": 1,
+      "concept": "il-y-a",
+      "prompt": "Sono arrivato un'ora fa.",
+      "answers": [
+        "Je suis arrivé il y a une heure"
+      ],
+      "distractors": [
+        "depuis",
+        "dans"
+      ],
+      "explain_it": "'Il y a' più il periodo di tempo significa 'fa'; 'depuis' indicherebbe un'azione ancora in corso."
+    },
+    {
+      "id": "L052-e42",
+      "type": "write",
+      "level": 3,
+      "concept": "superlatives",
+      "prompt": "Questo è il programma meno noioso della televisione.",
+      "answers": [
+        "C'est l'émission la moins ennuyeuse de la télévision",
+        "C'est le programme le moins ennuyeux de la télévision"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "'Le moins' indica il superlativo di minoranza, e l'aggettivo 'ennuyeuse' concorda con il sostantivo."
+    },
+    {
+      "id": "L052-e43",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "J'ai ___ de répondre à ce sondage.",
+      "answers": [
+        "accepté"
+      ],
+      "hint": "(accepter, passé composé)",
+      "prompt": "Ho accettato di rispondere a questo sondaggio.",
+      "explain_it": "Accepter de + infinito: il participio passato è accepté."
+    },
+    {
+      "id": "L052-e44",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Non partecipo a questo dibattito politico.",
+      "answers": [
+        "Je ne participe pas à ce débat politique."
+      ],
+      "explain_it": "Participer si costruisce con à; politique ha la stessa forma al maschile e al femminile."
+    }
+  ]
+}

@@ -1,0 +1,751 @@
+{
+  "n": 86,
+  "title_fr": "Quatre-vingt-sixième leçon - Un entretien avec un chasseur de têtes",
+  "title_it": "Ottantaseiesima lezione - Un colloquio con un cacciatore di teste",
+  "review": false,
+  "status": "verified",
+  "source": "3d1a4471 pdf 39-47 (libro p.515-523; la lezione inizia in basso a pdf 39 (p.515) con il titolo, dopo l'esercizio 2 della L85; dialogo a pdf 39-45; note a pdf 41-46; esercizio 1 a pdf 45 (p.521), risposte in alto a pdf 46 (p.522); esercizio 2 in alto a pdf 47 (p.523), risposte in alto a pdf 48 (p.524), fuori dall'intervallo e non usate; la lezione 87 inizia in basso a pdf 47)",
+  "theme_it": "Un'azienda cerca un responsabile del commercio internazionale per i paesi vicini alla Francia e si rivolge a una società di selezione del personale (cabinet de recrutement). Il dialogo tra il selezionatore e il cliente descrive il candidato ideale: esperienza, lingue, rigore e capacità di fidelizzare i clienti. Alla fine si scopre che la candidata perfetta è proprio la persona seduta di fronte.",
+  "grammar": [
+    {
+      "id": "relative-pronouns",
+      "title_it": "I pronomi relativi qui, que, à qui e dont",
+      "explain_it": "Il pronome relativo unisce due frasi e sostituisce un elemento già nominato. QUI sostituisce il soggetto della frase relativa (il ragazzo che parla = le garçon qui parle). QUE sostituisce il complemento oggetto diretto (il libro che leggi = le livre que tu lis). Qui e que valgono sia per persone sia per cose, mentre in italiano si usa spesso 'che' per tutti i casi: in francese conta la funzione nella frase. Quando il verbo della relativa regge una preposizione, con una persona si usa à qui (la persona a cui parlo = la personne à qui je parle). DONT sostituisce un complemento introdotto da DE (parler de, avoir besoin de, être fier de) ed equivale a 'di cui': la persona di cui parlo = la personne dont je parle. Dont indica anche il possesso (la donna la cui azienda è famosa = la femme dont l'entreprise est connue). Dont non si combina mai con à: si dice à qui, non 'à dont'.",
+      "examples": [
+        {
+          "fr": "Le garçon qui parle est mon frère.",
+          "it": "Il ragazzo che parla è mio fratello."
+        },
+        {
+          "fr": "Le livre que tu lis est intéressant.",
+          "it": "Il libro che stai leggendo è interessante."
+        },
+        {
+          "fr": "La personne dont je te parle travaille à Paris.",
+          "it": "La persona di cui ti parlo lavora a Parigi."
+        }
+      ]
+    },
+    {
+      "id": "subjonctif",
+      "title_it": "Il congiuntivo dopo 'il se peut que'",
+      "explain_it": "L'espressione 'il se peut que' (può darsi che) esprime una possibilità e vuole il congiuntivo: il se peut que je sois en retard = può darsi che io sia in ritardo. Come in italiano, il congiuntivo segnala un'ipotesi e non un fatto certo. Conviene memorizzare le forme irregolari di être (sois, soyons), avoir (aie, ayons) e aller (aille, allions).",
+      "examples": [
+        {
+          "fr": "Il se peut qu'il pleuve demain.",
+          "it": "Può darsi che domani piova."
+        },
+        {
+          "fr": "Il se peut que nous partions plus tôt.",
+          "it": "Può darsi che partiamo prima."
+        }
+      ]
+    },
+    {
+      "id": "adjective-agreement",
+      "title_it": "Aggettivi di nazionalità con due paesi: singolare o plurale",
+      "explain_it": "Quando un nome plurale è seguito da due aggettivi di nazionalità collegati da 'et', la scelta del singolare o del plurale cambia il significato. 'Les marchés suisse et belge' (singolare) indica due mercati presi singolarmente: quello svizzero e quello belga. 'Les marchés suisses et belges' (plurale) indica più mercati nei due paesi. La pronuncia è identica al singolare e al plurale, ma la differenza si vede nella scrittura. Ricordati che l'aggettivo concorda con il nome a cui si riferisce, come in italiano, quindi attenzione al femminile in 'entreprises suisses et belges'.",
+      "examples": [
+        {
+          "fr": "Les marchés suisse et belge sont différents.",
+          "it": "Il mercato svizzero e quello belga sono diversi."
+        },
+        {
+          "fr": "Les marchés suisses et belges sont importants.",
+          "it": "I mercati svizzeri e belgi sono importanti."
+        }
+      ]
+    },
+    {
+      "id": "modals",
+      "title_it": "Penser e croire seguiti direttamente dall'infinito",
+      "explain_it": "Penser e croire possono essere seguiti direttamente da un infinito, senza preposizione e senza que: je pense acheter = penso di comprare, je crois savoir = credo di sapere. Quando il soggetto cambia o si vuole esprimere un'opinione si usa que + indicativo: je pense que tu as raison. Penser à + infinito è una costruzione diversa: 'pensare all'idea di fare' (je pense à partir).",
+      "examples": [
+        {
+          "fr": "Je pense partir demain.",
+          "it": "Penso di partire domani."
+        },
+        {
+          "fr": "Je crois savoir où il habite.",
+          "it": "Credo di sapere dove abita."
+        }
+      ]
+    },
+    {
+      "id": "il-faut",
+      "title_it": "Falloir alla forma personale: il me faut",
+      "explain_it": "Falloir, nel senso di 'bisognare / servire', ha una forma personale: il me faut (mi serve, mi servono), il te faut, il lui faut, il nous faut, il vous faut, il leur faut. Il soggetto resta il (impersonale) e il verbo sta sempre alla terza persona singolare: la persona che ha bisogno è indicata dal pronome indiretto davanti (me, te, lui, nous, vous, leur), e la cosa necessaria non cambia la forma del verbo, anche se è plurale. Con due pronomi l'ordine è indiretto prima e diretto dopo: il me le faut, il me la faut, il nous les faut. Attenzione alla traduzione italiana, che non ha questa costruzione.",
+      "examples": [
+        {
+          "fr": "Il me faut deux jours pour finir.",
+          "it": "Mi servono due giorni per finire."
+        },
+        {
+          "fr": "Il nous faut plus de temps.",
+          "it": "Ci serve più tempo."
+        },
+        {
+          "fr": "Il me les faut pour demain.",
+          "it": "Mi servono per domani."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le responsable",
+      "it": "il responsabile",
+      "pos": "n"
+    },
+    {
+      "fr": "le commerce international",
+      "it": "il commercio internazionale",
+      "pos": "n"
+    },
+    {
+      "fr": "voisin / voisine",
+      "it": "vicino, confinante",
+      "pos": "adj"
+    },
+    {
+      "fr": "le pays",
+      "it": "il paese",
+      "pos": "n"
+    },
+    {
+      "fr": "le marché",
+      "it": "il mercato",
+      "pos": "n"
+    },
+    {
+      "fr": "pénétrer",
+      "it": "penetrare, entrare in",
+      "pos": "v"
+    },
+    {
+      "fr": "confier",
+      "it": "affidare",
+      "pos": "v",
+      "note": "nous confierons"
+    },
+    {
+      "fr": "la compétence",
+      "it": "la competenza",
+      "pos": "n"
+    },
+    {
+      "fr": "sûr / sûre",
+      "it": "sicuro",
+      "pos": "adj"
+    },
+    {
+      "fr": "finaliser",
+      "it": "finalizzare, portare a termine",
+      "pos": "v",
+      "note": "nous n'avons pas encore finalisé"
+    },
+    {
+      "fr": "le périmètre",
+      "it": "l'ambito di competenza",
+      "pos": "n"
+    },
+    {
+      "fr": "le cabinet",
+      "it": "lo studio di consulenza",
+      "pos": "n"
+    },
+    {
+      "fr": "la piste",
+      "it": "la pista, la traccia da seguire",
+      "pos": "n"
+    },
+    {
+      "fr": "privilégier",
+      "it": "privilegiare, dare la preferenza a",
+      "pos": "v"
+    },
+    {
+      "fr": "la rigueur",
+      "it": "il rigore, la precisione",
+      "pos": "n"
+    },
+    {
+      "fr": "cartésien / cartésienne",
+      "it": "razionale, metodico",
+      "pos": "adj"
+    },
+    {
+      "fr": "le recrutement",
+      "it": "la selezione del personale",
+      "pos": "n"
+    },
+    {
+      "fr": "digne",
+      "it": "degno",
+      "pos": "adj",
+      "note": "digne de + nome"
+    },
+    {
+      "fr": "dénicher",
+      "it": "scovare, trovare con fatica",
+      "pos": "v"
+    },
+    {
+      "fr": "l'exigence (f.)",
+      "it": "l'esigenza",
+      "pos": "n"
+    },
+    {
+      "fr": "l'expérience (f.)",
+      "it": "l'esperienza",
+      "pos": "n"
+    },
+    {
+      "fr": "l'export (m.)",
+      "it": "il commercio estero",
+      "pos": "n"
+    },
+    {
+      "fr": "fidéliser",
+      "it": "fidelizzare",
+      "pos": "v",
+      "note": "da fidèle, fedele"
+    },
+    {
+      "fr": "accroître",
+      "it": "accrescere, aumentare",
+      "pos": "v",
+      "note": "nous accroissons"
+    },
+    {
+      "fr": "l'atout (m.)",
+      "it": "il punto di forza, il vantaggio",
+      "pos": "n"
+    },
+    {
+      "fr": "trilingue",
+      "it": "trilingue",
+      "pos": "adj"
+    },
+    {
+      "fr": "la croissance",
+      "it": "la crescita",
+      "pos": "n"
+    },
+    {
+      "fr": "assis / assise",
+      "it": "seduto",
+      "pos": "adj",
+      "note": "être assis"
+    },
+    {
+      "fr": "falloir",
+      "it": "bisognare, servire",
+      "pos": "v",
+      "note": "il me faut"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "En fait",
+      "it": "In realtà",
+      "note": "introduce una precisazione o una correzione"
+    },
+    {
+      "fr": "Il se peut que",
+      "it": "Può darsi che",
+      "note": "regge il congiuntivo"
+    },
+    {
+      "fr": "En tout état de cause",
+      "it": "In ogni caso",
+      "note": "registro formale, sinonimo di quoi qu'il en soit"
+    },
+    {
+      "fr": "Rien de plus facile",
+      "it": "Niente di più facile",
+      "note": "risposta colloquiale"
+    },
+    {
+      "fr": "En pleine croissance",
+      "it": "In piena crescita",
+      "note": "detto di aziende e mercati"
+    },
+    {
+      "fr": "Une perle rare",
+      "it": "Una rarità, una persona eccezionale",
+      "note": "detto di chi è difficile da trovare"
+    },
+    {
+      "fr": "Dire le plus grand bien de",
+      "it": "Parlare molto bene di",
+      "note": "lessico da colloquio o referenza"
+    },
+    {
+      "fr": "Il s'agit de",
+      "it": "Si tratta di",
+      "note": "introduce l'oggetto del discorso"
+    },
+    {
+      "fr": "Être à la recherche de",
+      "it": "Essere alla ricerca di",
+      "note": "per cercare persone o cose"
+    }
+  ],
+  "notes_it": [
+    "Falso amico: 'cabinet' in francese è lo studio professionale o la società di consulenza (cabinet de recrutement); il gabinetto italiano si dice 'toilettes' o 'cabinet de toilette' per un bagno piccolo, quindi non tradurre mai 'gabinet'.",
+    "'Piste' ha molti significati: pista di atterraggio, pista da ballo, pista da sci. Qui significa traccia da seguire o candidatura possibile, come nella frase 'plusieurs pistes à explorer'.",
+    "La parola 'fidéliser' è un verbo derivato dall'aggettivo fidèle, come succede spesso in francese: 'fidéliser' significa rendere fedele e si usa per la clientela.",
+    "Pronuncia: 'dont' si legge come una nasale [dɔ̃], senza la t finale; nella scrittura è facile confonderlo con 'donc', che invece significa 'quindi'."
+  ],
+  "exercises": [
+    {
+      "id": "L086-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "relative-pronouns",
+      "prompt": "Quale pronome relativo sostituisce il soggetto? 'La collega ___ lavora con me è brava.'",
+      "options": [
+        "qui",
+        "que",
+        "dont",
+        "à qui"
+      ],
+      "correct": 0,
+      "explain_it": "Qui sostituisce il soggetto: la collega è chi lavora. Que sarebbe un oggetto diretto e dont vuole de."
+    },
+    {
+      "id": "L086-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "relative-pronouns",
+      "prompt": "Quale frase significa 'la persona a cui parliamo'?",
+      "options": [
+        "La personne à qui nous parlons.",
+        "La personne à que nous parlons.",
+        "La personne dont nous parlons à.",
+        "La personne qui nous parlons à."
+      ],
+      "correct": 0,
+      "explain_it": "Con una persona dopo la preposizione à si usa à qui. Dont non si combina con à e qui non può essere oggetto."
+    },
+    {
+      "id": "L086-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "subjonctif",
+      "prompt": "Completa: 'Il se peut que tu ___ en retard.' (être, congiuntivo presente)",
+      "options": [
+        "es",
+        "sois",
+        "seras",
+        "être"
+      ],
+      "correct": 1,
+      "explain_it": "Dopo il se peut que si usa il congiuntivo: que tu sois. Es è indicativo, seras è futuro, être è l'infinito."
+    },
+    {
+      "id": "L086-e04",
+      "type": "order",
+      "level": 1,
+      "concept": "il-faut",
+      "prompt": "Ci servono due sedie.",
+      "answers": [
+        "Il nous faut deux chaises."
+      ],
+      "distractors": [
+        "vous",
+        "fait"
+      ],
+      "explain_it": "Falloir alla forma personale: il nous faut, con il pronome indiretto davanti e il verbo alla terza persona singolare."
+    },
+    {
+      "id": "L086-e05",
+      "type": "order",
+      "level": 1,
+      "concept": "relative-pronouns",
+      "prompt": "Il ragazzo che parla è mio fratello.",
+      "answers": [
+        "Le garçon qui parle est mon frère."
+      ],
+      "distractors": [
+        "que",
+        "dont"
+      ],
+      "explain_it": "Il ragazzo che parla è il soggetto della relativa, quindi si usa qui."
+    },
+    {
+      "id": "L086-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "adjective-agreement",
+      "prompt": "I mercati svizzeri e belgi sono grandi.",
+      "answers": [
+        "Les marchés suisses et belges sont grands."
+      ],
+      "distractors": [
+        "suisse",
+        "belge"
+      ],
+      "explain_it": "Con un nome plurale e due aggettivi di nazionalità si usa il plurale: suisses et belges."
+    },
+    {
+      "id": "L086-e07",
+      "type": "cloze",
+      "level": 1,
+      "concept": "il-faut",
+      "text": "Il ___ trouver une solution rapidement.",
+      "answers": [
+        "faut"
+      ],
+      "hint": "(falloir, presente)",
+      "prompt": "Bisogna trovare una soluzione rapidamente.",
+      "explain_it": "Con il significato di 'bisognare' il verbo falloir si usa solo alla terza persona singolare: il faut."
+    },
+    {
+      "id": "L086-e08",
+      "type": "cloze",
+      "level": 1,
+      "concept": "il-faut",
+      "text": "Il me ___ deux jours pour finir.",
+      "answers": [
+        "faut"
+      ],
+      "hint": "(falloir, presente)",
+      "prompt": "Mi servono due giorni per finire.",
+      "explain_it": "Il me faut: la persona è indicata da me, il verbo resta faut anche se il bisogno è due giorni."
+    },
+    {
+      "id": "L086-e09",
+      "type": "cloze",
+      "level": 1,
+      "concept": "modals",
+      "text": "Je ___ acheter une voiture neuve.",
+      "answers": [
+        "pense"
+      ],
+      "hint": "(penser, presente)",
+      "prompt": "Penso di comprare un'auto nuova.",
+      "explain_it": "Penser seguito direttamente dall'infinito, senza que e senza preposizione, significa pensare di fare qualcosa."
+    },
+    {
+      "id": "L086-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "subjonctif",
+      "text": "Il se peut que nous ___ en retard.",
+      "answers": [
+        "soyons"
+      ],
+      "hint": "(être, congiuntivo presente)",
+      "prompt": "Può darsi che siamo in ritardo.",
+      "explain_it": "Con il se peut que il congiuntivo di être alla prima persona plurale è soyons."
+    },
+    {
+      "id": "L086-e11",
+      "type": "write",
+      "level": 2,
+      "concept": "relative-pronouns",
+      "prompt": "Traduci: la persona di cui ti parlo.",
+      "answers": [
+        "la personne dont je te parle",
+        "la personne dont je vous parle"
+      ],
+      "explain_it": "Parler de regge dont: la persona di cui si parla si traduce con dont, non con de qui."
+    },
+    {
+      "id": "L086-e12",
+      "type": "write",
+      "level": 2,
+      "concept": "relative-pronouns",
+      "prompt": "Traduci: il mercato che stiamo cercando di penetrare.",
+      "answers": [
+        "le marché que nous essayons de pénétrer",
+        "le marché que nous cherchons à pénétrer",
+        "le marché qu'on essaie de pénétrer",
+        "le marché qu'on cherche à pénétrer"
+      ],
+      "explain_it": "Il mercato è l'oggetto diretto di penetrare, quindi si usa que, anche se in italiano c'è 'che'."
+    },
+    {
+      "id": "L086-e13",
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Traduci: Può darsi che lui sia in ritardo.",
+      "answers": [
+        "Il se peut qu'il soit en retard."
+      ],
+      "explain_it": "Il se peut que vuole il congiuntivo: qu'il soit, con il congiuntivo di être alla terza persona singolare."
+    },
+    {
+      "id": "L086-e14",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "Traduci: le aziende svizzere e belghe sono grandi.",
+      "answers": [
+        "Les entreprises suisses et belges sont grandes.",
+        "Les sociétés suisses et belges sont grandes."
+      ],
+      "explain_it": "L'aggettivo concorda con il nome femminile plurale: suisses, belges e grandes, tutti al femminile plurale."
+    },
+    {
+      "id": "L086-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "text": "Les marchés ___ et belges sont importants.",
+      "answers": [
+        "suisses"
+      ],
+      "hint": "(suisse, plurale)",
+      "prompt": "I mercati svizzeri e belgi sono importanti.",
+      "explain_it": "Con il plurale marchés, l'aggettivo suisse prende la -s: suisses et belges."
+    },
+    {
+      "id": "L086-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "il-faut",
+      "prompt": "Traduci: Ci serve più tempo.",
+      "answers": [
+        "Il nous faut plus de temps.",
+        "Il nous faut davantage de temps."
+      ],
+      "explain_it": "Con il nous faut il verbo resta alla terza persona singolare; 'plus de' o 'davantage de' rendono 'più'."
+    },
+    {
+      "id": "L086-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "il-faut",
+      "prompt": "Traduci: Mi servono tre persone per questo lavoro.",
+      "answers": [
+        "Il me faut trois personnes pour ce travail.",
+        "Il me faut trois personnes pour ce poste."
+      ],
+      "explain_it": "Il me faut resta singolare anche se ciò che serve sono tre persone: il verbo non si accorda con l'oggetto."
+    },
+    {
+      "id": "L086-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "modals",
+      "prompt": "Traduci: Penso di comprare una casa.",
+      "answers": [
+        "Je pense acheter une maison.",
+        "Je pense à acheter une maison."
+      ],
+      "explain_it": "Penser + infinito, senza preposizione, = 'pensare di fare'. Con 'à' (penser à acheter) si ha 'pensare all'idea di comprare': è accettato come variante."
+    },
+    {
+      "id": "L086-e19",
+      "type": "cloze",
+      "level": 2,
+      "concept": "modals",
+      "text": "Il ___ pouvoir finir avant midi.",
+      "answers": [
+        "croit"
+      ],
+      "hint": "(croire, presente)",
+      "prompt": "Crede di poter finire prima di mezzogiorno.",
+      "explain_it": "Croire seguito dall'infinito esprime l'opinione: il croit réussir = crede di riuscire."
+    },
+    {
+      "id": "L086-e20",
+      "type": "cloze",
+      "level": 2,
+      "concept": "relative-pronouns",
+      "text": "Voici le candidat ___ je te parle.",
+      "answers": [
+        "dont"
+      ],
+      "hint": "(parler de)",
+      "prompt": "Ecco il candidato di cui ti parlo.",
+      "explain_it": "Parler de regge il pronome relativo dont, che significa 'di cui'."
+    },
+    {
+      "id": "L086-e21",
+      "type": "cloze",
+      "level": 2,
+      "concept": "relative-pronouns",
+      "text": "La femme ___ je connais est trilingue.",
+      "answers": [
+        "que"
+      ],
+      "hint": "(complemento oggetto diretto)",
+      "prompt": "La donna che conosco è trilingue.",
+      "explain_it": "Connaître vuole un oggetto diretto (conosco la donna), quindi il pronome relativo è que; il soggetto je resta dopo il verbo della relativa."
+    },
+    {
+      "id": "L086-e22",
+      "type": "cloze",
+      "level": 2,
+      "concept": "false-friends",
+      "text": "Le ___ de recrutement est au centre-ville.",
+      "answers": [
+        "cabinet"
+      ],
+      "prompt": "Lo studio di selezione del personale è in centro.",
+      "explain_it": "Cabinet in francese è lo studio o la società di consulenza; non significa gabinetto come in italiano."
+    },
+    {
+      "id": "L086-e23",
+      "type": "flash",
+      "level": 2,
+      "concept": "relative-pronouns",
+      "front": "Quando si usa 'dont' nella frase relativa?",
+      "back": "Dont sostituisce un complemento introdotto da de (parler de, avoir besoin de, être fier de) e indica anche il possesso. Esempio: la persona di cui parlo = la personne dont je parle. Non si combina mai con à.",
+      "note": "Confronta con à qui: la persona a cui parlo = la personne à qui je parle."
+    },
+    {
+      "id": "L086-e24",
+      "type": "flash",
+      "level": 2,
+      "concept": "il-faut",
+      "front": "Come si costruisce la forma personale di falloir?",
+      "back": "Il me faut, il te faut, il lui faut, il nous faut, il vous faut, il leur faut. Il verbo resta sempre alla terza persona singolare, anche se la cosa necessaria è plurale.",
+      "note": "Con due pronomi: indiretto prima, diretto dopo (il me le faut)."
+    },
+    {
+      "id": "L086-e25",
+      "type": "dictation",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Nous cherchons un responsable pour les pays voisins."
+    },
+    {
+      "id": "L086-e26",
+      "type": "dictation",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "Il se peut que la réunion commence plus tard."
+    },
+    {
+      "id": "L086-e27",
+      "type": "write",
+      "level": 3,
+      "concept": "relative-pronouns",
+      "prompt": "Traduci: Abbiamo trovato la persona di cui avevamo bisogno, quella che conosce il mercato svizzero.",
+      "answers": [
+        "Nous avons trouvé la personne dont nous avions besoin, celle qui connaît le marché suisse.",
+        "On a trouvé la personne dont on avait besoin, celle qui connaît le marché suisse."
+      ],
+      "explain_it": "Dont regge avoir besoin de; celle qui è il pronome dimostrativo con relativo che sostituisce la persona e ha qui come soggetto."
+    },
+    {
+      "id": "L086-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Traduci: Non penso che sia possibile finire oggi, ma può darsi che ci riusciamo domani.",
+      "answers": [
+        "Je ne pense pas qu'il soit possible de finir aujourd'hui, mais il se peut que nous y [arrivions|réussissions] demain.",
+        "Je ne pense pas que ce soit possible de finir aujourd'hui, mais il se peut que nous y [arrivions|réussissions] demain."
+      ],
+      "explain_it": "Dopo ne pas penser que e dopo il se peut que si usa il congiuntivo; y arriver significa riuscirci."
+    },
+    {
+      "id": "L086-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "il-faut",
+      "prompt": "Traduci: Ci servono due candidati e un nuovo responsabile per l'export.",
+      "answers": [
+        "Il nous faut deux candidats et un nouveau responsable [de|pour] l'export."
+      ],
+      "explain_it": "Il nous faut è la forma personale di falloir; 'responsable de l'export' (anche 'pour') indica il settore di competenza."
+    },
+    {
+      "id": "L086-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "il-faut",
+      "prompt": "Traduci: Mi serve questo rapporto entro domani.",
+      "answers": [
+        "Il me le faut pour demain.",
+        "Il me le faut d'ici demain."
+      ],
+      "explain_it": "Rapport è maschile, quindi il pronome diretto è le; il verbo resta falloir alla terza persona singolare con il pronome me davanti."
+    },
+    {
+      "id": "L086-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "il-faut",
+      "prompt": "Traduci: Mi servono questi dossier per domani.",
+      "answers": [
+        "Il me les faut pour demain.",
+        "Il me les faut d'ici demain."
+      ],
+      "explain_it": "Dossiers è maschile plurale: il pronome diretto è les, e l'ordine è me prima e les dopo."
+    },
+    {
+      "id": "L086-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "modals",
+      "prompt": "Traduci: Penso di non riuscire a finire il progetto prima di venerdì.",
+      "answers": [
+        "Je pense ne pas pouvoir finir le projet avant vendredi.",
+        "Je ne pense pas pouvoir finir le projet avant vendredi.",
+        "Je pense ne pas réussir à finir le projet avant vendredi."
+      ],
+      "explain_it": "Penser + infinito negato: ne pas va davanti all'infinito (je pense ne pas pouvoir) oppure si nega penser (je ne pense pas pouvoir): senso quasi identico."
+    },
+    {
+      "id": "L086-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "adjective-agreement",
+      "prompt": "Traduci: Le aziende belghe e svizzere hanno un ufficio a Parigi.",
+      "answers": [
+        "Les entreprises belges et suisses ont un bureau à Paris.",
+        "Les sociétés belges et suisses ont un bureau à Paris."
+      ],
+      "explain_it": "Con un nome femminile plurale gli aggettivi belges e suisses prendono la -s del plurale."
+    },
+    {
+      "id": "L086-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "relative-pronouns",
+      "prompt": "Traduci: La collega che ti ha parlato della candidata è quella a cui devo affidare il posto.",
+      "answers": [
+        "La collègue qui t'a parlé de la candidate est celle à qui je dois confier le poste.",
+        "La collègue qui vous a parlé de la candidate est celle à qui je dois confier le poste."
+      ],
+      "explain_it": "Qui è soggetto della relativa; celle à qui indica la persona con la preposizione à, come in à qui nous confierons le poste."
+    },
+    {
+      "id": "L086-e35",
+      "type": "dictation",
+      "level": 3,
+      "concept": "relative-pronouns",
+      "text": "Le candidat dont nous vous avons parlé est disponible à partir de lundi."
+    },
+    {
+      "id": "L086-e36",
+      "type": "dictation",
+      "level": 3,
+      "concept": "subjonctif",
+      "text": "Il se peut que la piste que nous privilégions ne soit pas la bonne."
+    },
+    {
+      "id": "L086-e37",
+      "type": "mcq",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "In francese, 'lo studio di selezione del personale' si dice:",
+      "options": [
+        "un cabinet de recrutement",
+        "un gabinet de recrutement",
+        "une cabine de recrutement",
+        "un cabinet de toilette"
+      ],
+      "correct": 0,
+      "explain_it": "Cabinet indica lo studio professionale; gabinet è un calco dall'italiano, e cabinet de toilette è il bagno piccolo."
+    }
+  ]
+}

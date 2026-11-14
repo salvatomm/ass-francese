@@ -1,0 +1,821 @@
+{
+  "n": 77,
+  "title_fr": "Révision",
+  "title_it": "Ripasso",
+  "review": true,
+  "status": "verified",
+  "source": "a1be3e47 pdf 72-82 (la lezione inizia in basso a pdf 72, con il titolo 'Révision'; il dialogo è a pdf 81, la sua traduzione in cima a pdf 82; la lezione 78 inizia in basso a pdf 82)",
+  "theme_it": "Lezione di ripasso che riprende le lezioni 71–76: il passivo, gli avverbi di tempo, i verbi pronominali con significato particolare, gli aggettivi di dimensione e alcuni proverbi. Il dialogo di revisione racconta un'autostrada chiusa, un viaggio a piedi per tornare a casa e le lamentele per lo sciopero dei trasporti pubblici.",
+  "grammar": [
+    {
+      "id": "passive",
+      "title_it": "Il passivo",
+      "explain_it": "Il passivo si forma con essere coniugato + participio passato, e il participio concorda con il soggetto: la fenêtre est fermée. Al passato composto l'ausiliare è avoir e il participio è été: la fenêtre a été fermée. L'agente si introduce con par; con i verbi di sentimento o di stato (aimer, respecter, admirer, entourer) si usa spesso de. Il francese usa il passivo molto meno dell'italiano: preferisce la forma attiva con on, la forma pronominale (ça se mange) o la costruzione c'est... qui. Un complemento indiretto introdotto da à non può diventare soggetto del passivo: si dice On m'a proposé un poste, non un passivo.",
+      "examples": [
+        {
+          "fr": "La porte a été fermée par le gardien.",
+          "it": "La porta è stata chiusa dal custode."
+        },
+        {
+          "fr": "Le professeur est respecté de tous.",
+          "it": "Il professore è rispettato da tutti."
+        },
+        {
+          "fr": "On m'a proposé un poste.",
+          "it": "Mi hanno proposto un posto."
+        }
+      ]
+    },
+    {
+      "id": "adverbs",
+      "title_it": "Avverbi di tempo",
+      "explain_it": "Molti avverbi di tempo derivano dal femminile di un aggettivo più -ment: dernière diventa dernièrement. Di solito seguono il verbo semplice e nei tempi composti si collocano tra ausiliare e participio: j'ai déjà mangé, je n'ai jamais vu ce film. Attenzione ai falsi amici: actuellement significa 'attualmente, ora', mentre 'in realtà' si dice en fait o en réalité. Altri da ripassare: auparavant e avant (prima), aussitôt (subito), autrefois (un tempo), bientôt (presto), dorénavant (d'ora in poi), dernièrement (di recente), enfin (finalmente, infine), lors de (durante).",
+      "examples": [
+        {
+          "fr": "Elle travaille actuellement à Brest.",
+          "it": "Lavora attualmente a Brest."
+        },
+        {
+          "fr": "Il est arrivé aussitôt.",
+          "it": "È arrivato subito."
+        },
+        {
+          "fr": "Dorénavant, c'est moi qui décide.",
+          "it": "D'ora in poi, sono io che decido."
+        }
+      ]
+    },
+    {
+      "id": "pronominal-verbs",
+      "title_it": "Verbi di base e verbi pronominali con significato diverso",
+      "explain_it": "La forma pronominale spesso ha un significato proprio che non si ricava dal verbo base. Faire diventa se faire (prepararsi: je me fais un sandwich; andare al cinema: se faire un film). S'en faire significa 'preoccuparsi', di solito in negativo. Se mettre à con un'attività significa 'cominciare' (elle s'est mise au piano). Attendre (aspettare qualcuno) e s'attendre à (aspettarsi qualcosa), entendre e s'entendre (andare d'accordo), plaindre e se plaindre (lamentarsi), douter e se douter (sospettare). Ça se fait significa 'si fa, è educato'. Il participio di se mettre concorda con il soggetto quando il pronome riflessivo è complemento diretto.",
+      "examples": [
+        {
+          "fr": "Ne t'en fais pas, je m'occupe de tout.",
+          "it": "Non preoccuparti, mi occupo di tutto."
+        },
+        {
+          "fr": "Je me doutais de quelque chose.",
+          "it": "Sospettavo qualcosa."
+        },
+        {
+          "fr": "Elle s'est mise au piano.",
+          "it": "Ha cominciato a suonare il pianoforte."
+        }
+      ]
+    },
+    {
+      "id": "adjective-agreement",
+      "title_it": "Le dimensioni: haut, long, large, profond",
+      "explain_it": "Le dimensioni si esprimono in due modi. Con l'aggettivo dopo être, seguito da de e dalla misura: la tour est haute de trois cents mètres (l'aggettivo concorda con il soggetto). Oppure con faire/mesurer + misura + de + aggettivo invariabile (de haut, de long, de large) o nome (de hauteur, de longueur, de largeur, de profondeur): la pièce fait six mètres de long, ou six mètres de longueur. Per la profondeur il nome è la scelta più sicura: trois mètres de profondeur (de profond esiste nel parlato). Dopo la misura haut, long e large sono invariabili: un mètre de haut.",
+      "examples": [
+        {
+          "fr": "La tour est haute de trois cents mètres.",
+          "it": "La torre è alta trecento metri."
+        },
+        {
+          "fr": "La pièce fait six mètres de long.",
+          "it": "La stanza è lunga sei metri."
+        },
+        {
+          "fr": "Le fleuve a trois mètres de profondeur.",
+          "it": "Il fiume è profondo tre metri."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Proverbi e modi di dire",
+      "explain_it": "Molti proverbi francesi hanno un equivalente italiano quasi identico: Tout ce qui brille n'est pas or corrisponde a 'non è tutto oro quello che luccica', Mieux vaut tard que jamais a 'meglio tardi che mai'. Altri hanno parole diverse: C'est l'hôpital qui se moque de la charité, cioè chi rimprovera un difetto che ha lui stesso, si dice in italiano 'il bue che dà del cornuto all'asino'. Je n'en peux plus esprime la stanchezza o l'esasperazione e si usa nel parlato.",
+      "examples": [
+        {
+          "fr": "Mieux vaut tard que jamais.",
+          "it": "Meglio tardi che mai."
+        },
+        {
+          "fr": "Je n'en peux plus de cette chaleur.",
+          "it": "Non ne posso più di questo caldo."
+        }
+      ]
+    }
+  ],
+  "vocab": [],
+  "expressions": [
+    {
+      "fr": "Je n'en peux plus.",
+      "it": "Non ne posso più.",
+      "note": "stanchezza o esasperazione, registro colloquiale"
+    },
+    {
+      "fr": "Quelle galère !",
+      "it": "Che seccatura!",
+      "note": "esclamazione familiare"
+    },
+    {
+      "fr": "Tu me casses les pieds !",
+      "it": "Mi rompi le scatole!",
+      "note": "familiare, in senso di irritare"
+    },
+    {
+      "fr": "Ça ne va pas fort.",
+      "it": "Non va un granché.",
+      "note": "parlato, per dire che qualcosa va male"
+    },
+    {
+      "fr": "C'est la pagaille.",
+      "it": "È un caos.",
+      "note": "parlato, per il disordine"
+    },
+    {
+      "fr": "Ça tombe mal.",
+      "it": "Capita proprio male.",
+      "note": "quando un problema arriva nel momento sbagliato"
+    },
+    {
+      "fr": "être d'une humeur de chien",
+      "it": "essere di pessimo umore",
+      "note": "familiare, letteralmente 'di umore da cane'"
+    },
+    {
+      "fr": "Je m'en doutais.",
+      "it": "Lo sospettavo.",
+      "note": "da se douter de, intuire"
+    },
+    {
+      "fr": "Il paraît que",
+      "it": "Pare che, si dice che",
+      "note": "per riferire una voce non verificata"
+    }
+  ],
+  "notes_it": [
+    "Questa lezione riprende le lezioni 71–76: il dialogo di revisione usa vocaboli già visti e serve a rileggere le strutture in contesto.",
+    "Falso amico: actuellement significa 'attualmente' (in questo momento), non 'in realtà', che si dice en fait o en réalité.",
+    "Falso amico: douter significa 'dubitare', mentre se douter (de) significa 'sospettare, immaginare': je m'en doutais.",
+    "Pronuncia: paraît si legge [paʁɛ], con e aperta come in 'bello'; la -t finale non si pronuncia."
+  ],
+  "exercises": [
+    {
+      "id": "L077-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "passive",
+      "prompt": "Quale forma completa il passato composto del passivo? « La fenêtre ___ fermée par le vent. »",
+      "options": [
+        "a été",
+        "est",
+        "sont",
+        "avait été"
+      ],
+      "correct": 0,
+      "explain_it": "Il passato composto del passivo è avoir + été + participio; 'est' è il presente, 'avait été' il trapassato."
+    },
+    {
+      "id": "L077-e02",
+      "type": "mcq",
+      "level": 2,
+      "concept": "passive",
+      "prompt": "Quale frase è corretta?",
+      "options": [
+        "La lettre a été écrite par Marc.",
+        "La lettre a été écrit par Marc.",
+        "La lettre est été écrite par Marc.",
+        "La lettre a été écrites par Marc."
+      ],
+      "correct": 0,
+      "explain_it": "Il participio concorda con il soggetto femminile singolare 'lettre', quindi écrite."
+    },
+    {
+      "id": "L077-e03",
+      "type": "mcq",
+      "level": 2,
+      "concept": "passive",
+      "prompt": "Quale preposizione introduce l'agente nella frase « La porte a été fermée ___ le gardien. » ?",
+      "options": [
+        "par",
+        "de",
+        "à",
+        "pour"
+      ],
+      "correct": 0,
+      "explain_it": "L'agente del passivo si introduce di norma con par. Con alcuni verbi di sentimento (respecter, aimer) si trova anche de: le professeur est respecté de tous."
+    },
+    {
+      "id": "L077-e04",
+      "type": "order",
+      "level": 1,
+      "concept": "passive",
+      "prompt": "Il ponte è stato chiuso dal sindaco.",
+      "answers": [
+        "Le pont a été fermé par le maire."
+      ],
+      "distractors": [
+        "fermée",
+        "de"
+      ],
+      "explain_it": "Il soggetto 'le pont' è maschile, quindi il participio resta fermé; l'agente è introdotto da par."
+    },
+    {
+      "id": "L077-e05",
+      "type": "order",
+      "level": 1,
+      "concept": "passive",
+      "prompt": "Qui si parla italiano.",
+      "answers": [
+        "Ici on parle italien.",
+        "Ici, on parle italien."
+      ],
+      "distractors": [
+        "sont",
+        "parlé"
+      ],
+      "explain_it": "Con on la frase è attiva e si evita il passivo, come fa spesso il francese."
+    },
+    {
+      "id": "L077-e06",
+      "type": "write",
+      "level": 2,
+      "concept": "passive",
+      "prompt": "La porta è stata chiusa dal custode.",
+      "answers": [
+        "La porte a été fermée par le gardien.",
+        "La porte a été fermée par le concierge."
+      ],
+      "explain_it": "Il passato composto del passivo richiede a été e il participio concordato con 'porte', femminile."
+    },
+    {
+      "id": "L077-e07",
+      "type": "write",
+      "level": 3,
+      "concept": "passive",
+      "prompt": "Mia zia ha scritto questa lettera.",
+      "ask": "Volgi al passivo",
+      "answers": [
+        "Cette lettre a été écrite par ma tante."
+      ],
+      "explain_it": "Il complemento oggetto diventa soggetto, il verbo passa a être + participio concordato, e il soggetto attivo diventa agente con par."
+    },
+    {
+      "id": "L077-e08",
+      "type": "write",
+      "level": 2,
+      "concept": "passive",
+      "prompt": "Il professore è rispettato da tutti.",
+      "answers": [
+        "Le professeur est respecté de tout le monde.",
+        "Le professeur est respecté de tous.",
+        "Le professeur est respecté par tout le monde.",
+        "Le professeur est respecté par tous."
+      ],
+      "explain_it": "Con respecter, l'agente si introduce con de, e il participio concorda con il soggetto maschile."
+    },
+    {
+      "id": "L077-e09",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "text": "Ce plat ___ chaud ou froid.",
+      "answers": [
+        "se mange"
+      ],
+      "hint": "(manger, presente, forma pronominale)",
+      "prompt": "Questo piatto si mangia caldo o freddo.",
+      "explain_it": "Con la forma pronominale in terza persona si evita il passivo: ce plat se mange, senza ausiliare."
+    },
+    {
+      "id": "L077-e10",
+      "type": "flash",
+      "level": 2,
+      "concept": "passive",
+      "front": "Come si forma il passivo in francese?",
+      "back": "Essere coniugato + participio passato, che concorda con il soggetto (la lettre est écrite). Al passato composto: a été + participio concordato. L'agente si introduce con par, oppure con de per i verbi di sentimento.",
+      "note": "Il passivo francese è meno frequente di quello italiano: spesso si usa on o la forma pronominale."
+    },
+    {
+      "id": "L077-e11",
+      "type": "write",
+      "level": 3,
+      "concept": "passive",
+      "prompt": "Il pane è stato comprato da mia madre stamattina.",
+      "answers": [
+        "Le pain a été acheté par ma mère ce matin.",
+        "Le pain a été acheté ce matin par ma mère."
+      ],
+      "explain_it": "Passivo al passato composto: a été acheté, con l'agente par ma mère e il complemento di tempo ce matin."
+    },
+    {
+      "id": "L077-e12",
+      "type": "mcq",
+      "level": 1,
+      "concept": "adverbs",
+      "prompt": "Quale avverbio significa 'subito, all'istante'?",
+      "options": [
+        "autrefois",
+        "aussitôt",
+        "auparavant",
+        "dernièrement"
+      ],
+      "correct": 1,
+      "explain_it": "Aussitôt significa subito; autrefois è 'un tempo', auparavant 'prima', dernièrement 'di recente'."
+    },
+    {
+      "id": "L077-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adverbs",
+      "text": "Je n'ai pas eu de nouvelles de lui ___.",
+      "answers": [
+        "dernièrement",
+        "récemment"
+      ],
+      "hint": "(avverbio: di recente)",
+      "prompt": "Non ho avuto sue notizie di recente.",
+      "explain_it": "Dernièrement è l'avverbio di tempo che significa 'di recente', derivato dall'aggettivo dernière."
+    },
+    {
+      "id": "L077-e14",
+      "type": "write",
+      "level": 2,
+      "concept": "adverbs",
+      "prompt": "Ho chiamato mia madre subito dopo il mio arrivo.",
+      "answers": [
+        "J'ai appelé ma mère [aussitôt|immédiatement|juste|tout de suite] après mon arrivée."
+      ],
+      "explain_it": "Aussitôt e immédiatement sono sinonimi qui; il senso è 'subito dopo'."
+    },
+    {
+      "id": "L077-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "adverbs",
+      "prompt": "Da ora in poi non fumo più.",
+      "answers": [
+        "Dorénavant, je ne fume plus.",
+        "Désormais, je ne fume plus.",
+        "À partir de maintenant, je ne fume plus."
+      ],
+      "explain_it": "Dorénavant e désormais significano entrambi 'd'ora in poi'; la negazione ne... plus resta intorno al verbo."
+    },
+    {
+      "id": "L077-e16",
+      "type": "write",
+      "level": 3,
+      "concept": "adverbs",
+      "prompt": "Ha aspettato a lungo il treno, poi è partita.",
+      "answers": [
+        "Elle a attendu longtemps le train, puis elle est partie.",
+        "Elle a longtemps attendu le train, puis elle est partie.",
+        "Elle a attendu le train longtemps, puis elle est partie."
+      ],
+      "explain_it": "Longtemps è un avverbio invariabile; può seguire il participio o precederlo, e 'est partie' richiede l'ausiliare être e l'accordo femminile."
+    },
+    {
+      "id": "L077-e17",
+      "type": "flash",
+      "level": 2,
+      "concept": "adverbs",
+      "front": "Dove si collocano 'déjà' e 'jamais' in un passato composto?",
+      "back": "Tra ausiliare e participio: j'ai déjà mangé, je n'ai jamais vu ce film.",
+      "note": "Attenzione al falso amico: actuellement significa 'attualmente', non 'in realtà' (en fait)."
+    },
+    {
+      "id": "L077-e18",
+      "type": "mcq",
+      "level": 2,
+      "concept": "adverbs",
+      "prompt": "Quale avverbio significa 'già' nella frase: « Elle a ___ fini son travail. »",
+      "options": [
+        "déjà",
+        "jamais",
+        "bientôt",
+        "longtemps"
+      ],
+      "correct": 0,
+      "explain_it": "Déjà significa già; si colloca tra ausiliare e participio, come jamais, ma ha senso opposto."
+    },
+    {
+      "id": "L077-e19",
+      "type": "order",
+      "level": 2,
+      "concept": "adverbs",
+      "prompt": "Lei non ha mai letto quel libro.",
+      "answers": [
+        "Elle n'a jamais lu ce livre."
+      ],
+      "distractors": [
+        "pas",
+        "lue"
+      ],
+      "explain_it": "Jamais si colloca tra ausiliare e participio; il participio resta lu perché avoir non concorda con un complemento che segue il verbo (ce livre)."
+    },
+    {
+      "id": "L077-e20",
+      "type": "mcq",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Che cosa significa 'Ne t'en fais pas' ?",
+      "options": [
+        "Non preoccuparti",
+        "Non farlo",
+        "Non farti male",
+        "Non ti arrabbiare"
+      ],
+      "correct": 0,
+      "explain_it": "S'en faire significa preoccuparsi, ed è usato quasi sempre in negativo."
+    },
+    {
+      "id": "L077-e21",
+      "type": "mcq",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Quale verbo significa 'sospettare, intuire'?",
+      "options": [
+        "douter",
+        "se douter",
+        "craindre",
+        "plaindre"
+      ],
+      "correct": 1,
+      "explain_it": "Se douter (de) significa sospettare; douter, la forma base, significa dubitare."
+    },
+    {
+      "id": "L077-e22",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "text": "Je ___ un sandwich au jambon pour le déjeuner.",
+      "answers": [
+        "me fais"
+      ],
+      "hint": "(faire, presente, forma pronominale)",
+      "prompt": "Per pranzo mi preparo un panino al prosciutto.",
+      "explain_it": "Se faire un sandwich significa prepararsi un panino: la forma pronominale ha un senso proprio rispetto a faire."
+    },
+    {
+      "id": "L077-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Mia sorella ha cominciato a fare yoga.",
+      "answers": [
+        "Ma sœur s'est mise au yoga.",
+        "Ma soeur s'est mise au yoga.",
+        "Ma sœur s'est mise à faire du yoga.",
+        "Ma sœur a commencé le yoga.",
+        "Ma sœur a commencé à faire du yoga."
+      ],
+      "explain_it": "Se mettre à con un'attività significa cominciarla; il participio 'mise' concorda con il soggetto femminile."
+    },
+    {
+      "id": "L077-e24",
+      "type": "write",
+      "level": 3,
+      "concept": "pronominal-verbs",
+      "prompt": "Non preoccuparti per il ritardo, arriviamo.",
+      "answers": [
+        "Ne t'en fais pas pour le retard, on arrive.",
+        "Ne t'en fais pas pour le retard, nous arrivons."
+      ],
+      "explain_it": "S'en faire usa il pronome en per il motivo della preoccupazione, in forma negativa e con tu."
+    },
+    {
+      "id": "L077-e25",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "text": "Mes voisins et moi, ___ très bien.",
+      "answers": [
+        "nous nous entendons",
+        "on s'entend"
+      ],
+      "hint": "(s'entendre, presente)",
+      "prompt": "Io e i miei vicini andiamo d'accordo.",
+      "explain_it": "S'entendre bien significa andare d'accordo: il pronome si ripete (nous nous entendons). Nous entendons da solo significa 'sentiamo'."
+    },
+    {
+      "id": "L077-e26",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "front": "Attendre e s'attendre à: qual è la differenza?",
+      "back": "Attendre significa aspettare qualcuno o qualcosa; s'attendre à significa aspettarsi, prevedere, cioè avere un'aspettativa (je m'attendais à ça).",
+      "note": "Entrambi hanno la stessa radice ma significati diversi: non confondere le due forme."
+    },
+    {
+      "id": "L077-e27",
+      "type": "mcq",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Quale frase significa 'mi lamento sempre'?",
+      "options": [
+        "Je me plains toujours.",
+        "Je plains toujours.",
+        "Je me plaindre toujours.",
+        "Je plains de toujours."
+      ],
+      "correct": 0,
+      "explain_it": "Se plaindre significa lamentarsi; senza pronome, plaindre significa compatire, e il verbo va coniugato al presente."
+    },
+    {
+      "id": "L077-e28",
+      "type": "mcq",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "Come si dice 'il quadro misura dieci metri in altezza'?",
+      "options": [
+        "Ce tableau mesure dix mètres haut.",
+        "Ce tableau mesure dix mètres de haute.",
+        "Ce tableau mesure dix mètres de haut.",
+        "Ce tableau mesure dix mètres de profond."
+      ],
+      "correct": 2,
+      "explain_it": "Con la misura in altezza si usa de + haut; qui haut è invariabile in questa costruzione, quindi non si usa haute, e profond non indica l'altezza."
+    },
+    {
+      "id": "L077-e29",
+      "type": "mcq",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "Quale frase è corretta? (la torre è alta trecento metri)",
+      "options": [
+        "La tour est haute de trois cents mètres.",
+        "La tour est haut de trois cents mètres.",
+        "La tour est de trois cents mètres haut."
+      ],
+      "correct": 0,
+      "explain_it": "Con la torre, soggetto femminile, l'aggettivo concorda: haute de trois cents mètres; la costruzione è 'être haut de' + misura."
+    },
+    {
+      "id": "L077-e30",
+      "type": "cloze",
+      "level": 2,
+      "concept": "prepositions",
+      "text": "La salle fait cinq mètres de ___.",
+      "answers": [
+        "largeur",
+        "large"
+      ],
+      "hint": "(il nome: larghezza)",
+      "prompt": "La sala è larga cinque metri.",
+      "explain_it": "Con il nome, la dimensione si esprime con de + largeur, longueur, hauteur, profondeur."
+    },
+    {
+      "id": "L077-e31",
+      "type": "cloze",
+      "level": 2,
+      "concept": "prepositions",
+      "text": "Le fleuve a trois mètres de ___.",
+      "answers": [
+        "profondeur",
+        "profond"
+      ],
+      "hint": "(il nome: profondità)",
+      "prompt": "Il fiume è profondo tre metri.",
+      "explain_it": "Per la profondità si usa di norma il nome profondeur (de profond esiste nel parlato)."
+    },
+    {
+      "id": "L077-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "adjective-agreement",
+      "prompt": "Il grattacielo è alto cento metri.",
+      "answers": [
+        "Le gratte-ciel est haut de cent mètres.",
+        "Le gratte-ciel fait cent mètres de haut.",
+        "Le gratte-ciel fait cent mètres de hauteur.",
+        "Le gratte-ciel mesure cent mètres de haut.",
+        "Le gratte-ciel mesure cent mètres de hauteur."
+      ],
+      "explain_it": "Si può usare l'aggettivo prima di de, oppure il verbo faire con la misura e il nome hauteur; entrambe le forme sono corrette."
+    },
+    {
+      "id": "L077-e33",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "La stanza è lunga sei metri.",
+      "answers": [
+        "La pièce est longue de six mètres.",
+        "La pièce fait six mètres de long.",
+        "La pièce mesure six mètres de long.",
+        "La pièce fait six mètres de longueur.",
+        "La pièce mesure six mètres de longueur."
+      ],
+      "explain_it": "Longue concorda con 'pièce', femminile; de long è la forma con il verbo faire o mesurer."
+    },
+    {
+      "id": "L077-e34",
+      "type": "dictation",
+      "level": 2,
+      "concept": "prepositions",
+      "text": "La piscine fait vingt mètres de long et dix mètres de large.",
+      "explain_it": "Con faire la misura è seguita da de + aggettivo invariabile: vingt mètres de long, dix mètres de large."
+    },
+    {
+      "id": "L077-e35",
+      "type": "flash",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "front": "Come si esprimono le dimensioni con haut, long, large, profond?",
+      "back": "Con être + aggettivo concordato + de + misura: la tour est haute de trois cents mètres. Con faire/mesurer + misura + de + haut/long/large (invariabili) oppure il nome: six mètres de long = six mètres de longueur; de hauteur, de largeur, de profondeur.",
+      "note": "Long, haut e large dopo la misura sono invariabili, perché si comportano da nomi."
+    },
+    {
+      "id": "L077-e36",
+      "type": "mcq",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Quale proverbio italiano corrisponde a 'Tout ce qui brille n'est pas or'?",
+      "options": [
+        "Non è tutto oro quello che luccica",
+        "Chi va piano va sano e va lontano",
+        "L'erba del vicino è sempre più verde",
+        "Chi dorme non piglia pesci"
+      ],
+      "correct": 0,
+      "explain_it": "Il proverbio francese ha lo stesso senso di quello italiano: non è tutto oro quello che luccica."
+    },
+    {
+      "id": "L077-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Dillo in francese: 'Non è tutto oro quello che luccica.'",
+      "answers": [
+        "Tout ce qui brille n'est pas or.",
+        "Tout ce qui brille n'est pas de l'or.",
+        "Tout ce qui reluit n'est pas or."
+      ],
+      "explain_it": "Il proverbio ha un equivalente quasi letterale; la forma pas or è più idiomatica in questo contesto."
+    },
+    {
+      "id": "L077-e38",
+      "type": "mcq",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Quale espressione significa 'non ne posso più'?",
+      "options": [
+        "Je n'en peux plus.",
+        "Je n'en sais rien.",
+        "Je n'en veux plus.",
+        "Je n'en ai plus."
+      ],
+      "correct": 0,
+      "explain_it": "Je n'en peux plus esprime la stanchezza; je n'en sais rien significa 'non ne so niente' e le altre due parlano di volere o avere."
+    },
+    {
+      "id": "L077-e39",
+      "type": "flash",
+      "level": 2,
+      "concept": "idioms",
+      "front": "Qual è l'equivalente italiano di 'C'est l'hôpital qui se moque de la charité'?",
+      "back": "Il bue che dà del cornuto all'asino: si critica chi rimprovera un difetto che ha lui stesso (in inglese, the pot calling the kettle black).",
+      "note": "Il francese usa l'immagine dell'ospedale che prende in giro la carità; l'idea è la stessa."
+    },
+    {
+      "id": "L077-e40",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-y",
+      "prompt": "Ci penserò domani.",
+      "answers": [
+        "Je vais y réfléchir demain.",
+        "J'y réfléchirai demain.",
+        "Je vais y penser demain.",
+        "J'y penserai demain."
+      ],
+      "explain_it": "Y sostituisce il complemento introdotto da à o da un luogo; réfléchir à qualcosa diventa y réfléchir."
+    },
+    {
+      "id": "L077-e41",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-y",
+      "text": "Elle ne ___ connaît pas en informatique.",
+      "answers": [
+        "s'y"
+      ],
+      "hint": "(pronome riflessivo + y)",
+      "prompt": "Lei non se ne intende di informatica.",
+      "explain_it": "Con se connaître en si usa il pronome riflessivo s' e y davanti al verbo: elle ne s'y connaît pas."
+    },
+    {
+      "id": "L077-e42",
+      "type": "mcq",
+      "level": 2,
+      "concept": "exclamatives",
+      "prompt": "Quale esclamazione significa 'com'è bello!'?",
+      "options": [
+        "Que c'est beau !",
+        "Quel est beau !",
+        "Qui c'est beau !",
+        "Qu'est-ce qui est beau ?"
+      ],
+      "correct": 0,
+      "explain_it": "Que introduce l'esclamazione con il senso di 'com'è'; l'ultima frase è una domanda con un altro significato."
+    },
+    {
+      "id": "L077-e43",
+      "type": "write",
+      "level": 2,
+      "concept": "exclamatives",
+      "prompt": "Com'è bello questo paesaggio!",
+      "answers": [
+        "Que ce paysage est beau !",
+        "Quel beau paysage !",
+        "Qu'il est beau, ce paysage !",
+        "Que c'est beau, ce paysage !",
+        "Comme ce paysage est beau !"
+      ],
+      "explain_it": "Que introduce un'esclamazione con soggetto e verbo; quel + nome è la variante più sintetica (Che bel paesaggio!)."
+    },
+    {
+      "id": "L077-e44",
+      "type": "mcq",
+      "level": 1,
+      "concept": "interrogatives",
+      "prompt": "Quale pronome interrogativo completa: « ___ a écrit ce roman ? »",
+      "options": [
+        "Qui",
+        "Quoi",
+        "Que",
+        "Quel"
+      ],
+      "correct": 0,
+      "explain_it": "Qui è il pronome interrogativo per le persone come soggetto; quoi e que non si usano per le persone."
+    },
+    {
+      "id": "L077-e45",
+      "type": "mcq",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Quale verbo completa: « Je voudrais ___ ma pensée. » (precisare)",
+      "options": [
+        "préciser",
+        "précis",
+        "précision",
+        "précisément"
+      ],
+      "correct": 0,
+      "explain_it": "Préciser è il verbo 'precisare'; précis è l'aggettivo e précision il nome."
+    },
+    {
+      "id": "L077-e46",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Ho bisogno di chiarimenti sul prezzo.",
+      "answers": [
+        "J'ai besoin de précisions sur le prix.",
+        "J'ai besoin de précisions au sujet du prix."
+      ],
+      "explain_it": "Précisions al plurale, con avoir besoin de, significa 'chiarimenti'."
+    },
+    {
+      "id": "L077-e47",
+      "type": "dictation",
+      "level": 2,
+      "concept": "passive",
+      "text": "Il est vivement recommandé de prendre le vélo.",
+      "explain_it": "Il est vivement recommandé de + infinito è una costruzione impersonale: recommandé resta al maschile singolare perché il soggetto è il neutro il."
+    },
+    {
+      "id": "L077-e48",
+      "type": "dictation",
+      "level": 3,
+      "concept": "passive",
+      "text": "Il paraît que la route a été réparée par une entreprise étrangère.",
+      "explain_it": "Il passato composto del passivo è a été réparée, con il participio concordato con 'la route' e l'agente con par."
+    },
+    {
+      "id": "L077-e49",
+      "type": "order",
+      "level": 1,
+      "concept": "pronominal-verbs",
+      "prompt": "Mi sono messo a fare sport.",
+      "answers": [
+        "Je me suis mis au sport.",
+        "Je me suis mis à faire du sport."
+      ],
+      "distractors": [
+        "à",
+        "mise"
+      ],
+      "explain_it": "Se mettre à con un'attività richiede au, cioè à + le, e il participio resta maschile perché il soggetto è maschile."
+    },
+    {
+      "id": "L077-e50",
+      "type": "mcq",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Quale frase è corretta? (lei ha cominciato a suonare il pianoforte l'anno scorso)",
+      "options": [
+        "Elle s'est mise au piano l'année dernière.",
+        "Elle s'est mis au piano l'année dernière.",
+        "Elle se est mise au piano l'année dernière.",
+        "Elle s'a mise au piano l'année dernière."
+      ],
+      "correct": 0,
+      "explain_it": "Il verbo pronominale si coniuga con être e il participio concorda con il soggetto femminile: s'est mise."
+    }
+  ]
+}

@@ -1,0 +1,866 @@
+{
+  "n": 83,
+  "title_fr": "Quatre-vingt-troisième leçon - Du beurre dans les épinards…",
+  "title_it": "Ottantatreesima lezione - Burro sugli spinaci…",
+  "review": false,
+  "status": "verified",
+  "source": "3d1a4471 pdf 15-22 (libro p.491-498; la lezione inizia a pdf 15 a metà pagina, con il titolo sul lato francese; la lezione 84 inizia a pdf 23)",
+  "theme_it": "Trasmissione radiofonica del mattino, condotta da Guy (al centralino) e dalla coéquipière Mireille. Il gioco è 'Complétez l'expression': la cagnotte è salita a mille euro perché nessuno ha vinto la settimana precedente. Il tema della settimana è il cibo, e i conduttori usano molte espressioni con parole di cucina mentre il primo candidato, Olivier di Montpellier, cerca di indovinarne il senso.",
+  "grammar": [
+    {
+      "id": "subjonctif",
+      "title_it": "Congiuntivo di savoir (forme irregolari)",
+      "explain_it": "Il congiuntivo presente di savoir è irregolare: que je sache, que tu saches, qu'il/elle sache, que nous sachions, que vous sachiez, qu'ils/elles sachent. La radice è sach- in tutte le persone; le desinenze sono -e, -es, -e, -ions, -iez, -ent. Si usa, per esempio, dopo il faut que, al posto dell'indicativo je sais.",
+      "examples": [
+        {
+          "fr": "Il faut que je sache où tu habites.",
+          "it": "Devo sapere dove abiti."
+        },
+        {
+          "fr": "Il faut que vous sachiez la vérité.",
+          "it": "Dovete sapere la verità."
+        }
+      ]
+    },
+    {
+      "id": "subjonctif",
+      "title_it": "Congiuntivo di aller (forme irregolari)",
+      "explain_it": "Il congiuntivo presente di aller è: que j'aille, que tu ailles, qu'il/elle aille, que nous allions, que vous alliez, qu'ils/elles aillent. Le forme di noi e voi coincidono con l'imperfetto indicativo, quindi conta il contesto: dopo il faut que è sempre il congiuntivo. In italiano il congiuntivo di andare è vada/andiamo, ma la regola d'uso è la stessa.",
+      "examples": [
+        {
+          "fr": "Il faut que j'aille chez le médecin.",
+          "it": "Devo andare dal medico."
+        },
+        {
+          "fr": "Il faut qu'ils aillent à Lille.",
+          "it": "Bisogna che vadano a Lille."
+        }
+      ]
+    },
+    {
+      "id": "gender",
+      "title_it": "« Les épinards » è maschile plurale",
+      "explain_it": "Épinards è un nome maschile che si usa quasi sempre al plurale, come l'italiano 'spinaci': les épinards, des épinards (per un piatto). Il singolare épinard esiste ma è raro.",
+      "examples": [
+        {
+          "fr": "Les épinards sont verts et frais.",
+          "it": "Gli spinaci sono verdi e freschi."
+        },
+        {
+          "fr": "J'aime beaucoup les épinards cuits à la vapeur.",
+          "it": "Mi piacciono molto gli spinaci cotti al vapore."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "« Avoir du pain sur la planche »",
+      "explain_it": "Locuzione familiare che significa avere molto lavoro da fare, 'avere un sacco di cose da sbrigare'. L'immagine è quella del lavoro da fare posato sull'asse (planche) davanti a sé. Si usa con avoir, al presente o al futuro.",
+      "examples": [
+        {
+          "fr": "J'ai du pain sur la planche toute la semaine.",
+          "it": "Ho un sacco di lavoro per tutta la settimana."
+        },
+        {
+          "fr": "Tu as du pain sur la planche ?",
+          "it": "Hai molto lavoro da fare?"
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "« Avoir la pêche »",
+      "explain_it": "Significa essere pieni di energia e di buonumore. Pêche qui non ha nulla a che fare con la pesca né con il frutto: è un'immagine di vitalità, vicina all'italiano 'essere in gran forma'. Registro familiare.",
+      "examples": [
+        {
+          "fr": "Ce matin, j'ai la pêche !",
+          "it": "Stamattina sono in gran forma!"
+        },
+        {
+          "fr": "Tu as la pêche aujourd'hui ?",
+          "it": "Oggi sei in forma?"
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "« En faire tout un fromage »",
+      "explain_it": "Locuzione familiare che significa fare di una cosa piccola un grosso problema, come l'italiano 'farne un caso' o 'farne una montagna'. Si usa spesso all'imperativo negativo per minimizzare: N'en fais pas tout un fromage ! Il pronome en riprende la cosa di cui si fa un caso.",
+      "examples": [
+        {
+          "fr": "Elle a fait tout un fromage de la pluie.",
+          "it": "Ha fatto un caso della pioggia."
+        },
+        {
+          "fr": "Ne fais pas tout un fromage, c'est une petite erreur.",
+          "it": "Non farne un caso, è un piccolo errore."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "« Faire l'andouille »",
+      "explain_it": "Locuzione familiare per comportarsi da sciocchi o fare lo scemo. Andouille è propriamente un insaccato di maiale; come interiezione, Andouille ! significa 'stupido!'. Registro colloquiale: da evitare in contesti formali.",
+      "examples": [
+        {
+          "fr": "Arrête de faire l'andouille !",
+          "it": "Smettila di fare lo scemo!"
+        },
+        {
+          "fr": "Il fait toujours l'andouille en classe.",
+          "it": "In classe fa sempre il buffone."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "« Couper la poire en deux »",
+      "explain_it": "Significa trovare un compromesso, dividere a metà: in italiano 'dividere la differenza'. La forma fissa è couper la poire en deux, con l'articolo determinativo e en deux, mai 'en trois'.",
+      "examples": [
+        {
+          "fr": "Pour finir, ils ont coupé la poire en deux.",
+          "it": "Alla fine hanno trovato un compromesso."
+        },
+        {
+          "fr": "Coupons la poire en deux, d'accord ?",
+          "it": "Troviamo un compromesso, va bene?"
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "« Tomber dans les pommes »",
+      "explain_it": "Significa svenire: è un sinonimo familiare di s'évanouir. Tomber si coniuga con être al passé composé, quindi con il soggetto femminile si accorda il participio: elle est tombée.",
+      "examples": [
+        {
+          "fr": "Hier, elle est tombée dans les pommes.",
+          "it": "Ieri è svenuta."
+        },
+        {
+          "fr": "Il fait trop chaud, je vais tomber dans les pommes !",
+          "it": "Fa troppo caldo, sto per svenire!"
+        }
+      ]
+    },
+    {
+      "id": "false-friends",
+      "title_it": "« L'auberge » non è l'albergo",
+      "explain_it": "Auberge significa locanda o ostello (auberge de jeunesse), mentre l'albergo è l'hôtel. L'espressione ne pas être sorti de l'auberge significa 'non essere ancora fuori dai guai' e si usa quasi solo in forma negativa.",
+      "examples": [
+        {
+          "fr": "Nous avons réservé une chambre dans une auberge de jeunesse.",
+          "it": "Abbiamo prenotato una stanza in un ostello."
+        },
+        {
+          "fr": "Il n'est pas sorti de l'auberge : il reste trois examens.",
+          "it": "Non è ancora fuori dai guai: restano tre esami."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la fidélité",
+      "it": "la fedeltà",
+      "pos": "n"
+    },
+    {
+      "fr": "l'auditeur (m.)",
+      "it": "l'ascoltatore",
+      "pos": "n"
+    },
+    {
+      "fr": "l'auditrice (f.)",
+      "it": "l'ascoltatrice",
+      "pos": "n"
+    },
+    {
+      "fr": "l'antenne (f.)",
+      "it": "l'antenna",
+      "pos": "n",
+      "note": "sur les antennes = in onda"
+    },
+    {
+      "fr": "la coéquipière",
+      "it": "la compagna di squadra",
+      "pos": "n"
+    },
+    {
+      "fr": "la cagnotte",
+      "it": "il montepremi",
+      "pos": "n"
+    },
+    {
+      "fr": "s'élever à",
+      "it": "ammontare a",
+      "pos": "v",
+      "note": "la cagnotte s'élève à mille euros"
+    },
+    {
+      "fr": "les épinards (m. pl.)",
+      "it": "gli spinaci",
+      "pos": "n"
+    },
+    {
+      "fr": "la nourriture",
+      "it": "il cibo, l'alimentazione",
+      "pos": "n"
+    },
+    {
+      "fr": "l'aliment (m.)",
+      "it": "l'alimento",
+      "pos": "n"
+    },
+    {
+      "fr": "la planche",
+      "it": "l'asse, la tavola",
+      "pos": "n"
+    },
+    {
+      "fr": "l'andouille (f.)",
+      "it": "l'andouille (insaccato di maiale); sciocco",
+      "pos": "n"
+    },
+    {
+      "fr": "l'auberge (f.)",
+      "it": "la locanda, l'ostello",
+      "pos": "n"
+    },
+    {
+      "fr": "la poire",
+      "it": "la pera",
+      "pos": "n"
+    },
+    {
+      "fr": "le chou",
+      "it": "il cavolo",
+      "pos": "n",
+      "note": "pl. les choux"
+    },
+    {
+      "fr": "le radis",
+      "it": "il ravanello",
+      "pos": "n"
+    },
+    {
+      "fr": "s'évanouir",
+      "it": "svenire",
+      "pos": "v"
+    },
+    {
+      "fr": "perdre connaissance",
+      "it": "perdere i sensi",
+      "pos": "expr"
+    },
+    {
+      "fr": "le hasard",
+      "it": "il caso",
+      "pos": "n",
+      "note": "au hasard = a caso"
+    },
+    {
+      "fr": "tout à coup",
+      "it": "all'improvviso",
+      "pos": "expr"
+    },
+    {
+      "fr": "insister",
+      "it": "insistere",
+      "pos": "v"
+    },
+    {
+      "fr": "sérieux / sérieuse",
+      "it": "serio, seria",
+      "pos": "adj"
+    },
+    {
+      "fr": "l'intention (f.)",
+      "it": "l'intenzione",
+      "pos": "n",
+      "note": "l'intention de vote = intenzione di voto"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Bon réveil à toutes et à tous",
+      "it": "Buongiorno a tutti (saluto d'apertura radiofonico)",
+      "note": "formula tipica dei programmi del mattino"
+    },
+    {
+      "fr": "Avoir du pain sur la planche",
+      "it": "avere un sacco di lavoro da fare",
+      "note": "familiare"
+    },
+    {
+      "fr": "Avoir la pêche",
+      "it": "essere in gran forma",
+      "note": "familiare; non ha a che vedere con la pesca"
+    },
+    {
+      "fr": "En faire tout un fromage",
+      "it": "farne un caso, farne una montagna",
+      "note": "familiare; spesso in forma negativa"
+    },
+    {
+      "fr": "Faire l'andouille",
+      "it": "fare lo scemo, il buffone",
+      "note": "colloquiale"
+    },
+    {
+      "fr": "Couper la poire en deux",
+      "it": "dividere a metà, trovare un compromesso",
+      "note": "uso comune in politica e in famiglia"
+    },
+    {
+      "fr": "Tomber dans les pommes",
+      "it": "svenire",
+      "note": "familiare"
+    },
+    {
+      "fr": "Être dans les choux",
+      "it": "essere nei guai",
+      "note": "familiare"
+    },
+    {
+      "fr": "Mettre du beurre dans les épinards",
+      "it": "arrotondare le entrate",
+      "note": "familiare; locuzione fissa"
+    },
+    {
+      "fr": "Ne pas être sorti de l'auberge",
+      "it": "non essere ancora fuori dai guai",
+      "note": "si usa solo in forma negativa"
+    },
+    {
+      "fr": "Ne pas avoir un radis",
+      "it": "non avere un soldo",
+      "note": "familiare"
+    },
+    {
+      "fr": "Ça m'est sorti de la tête",
+      "it": "mi è uscito di mente",
+      "note": "familiare"
+    }
+  ],
+  "notes_it": [
+    "Il congiuntivo di savoir (je sache, vous sachiez) e di aller (j'aille, vous alliez) compare in questa lezione: sono forme irregolari da memorizzare, e dopo il faut que il congiuntivo è obbligatorio.",
+    "Falso amico: 'auberge' non è 'albergo' (in francese hôtel). L'auberge è una locanda o un ostello, come l'auberge de jeunesse, ed è molto usata nelle insegne e nei nomi.",
+    "Nei discorsi pubblici e nei media si usano forme doppie, femminile e maschile insieme (Bon réveil à toutes et à tous; chers auditeurs, chères auditrices): il pubblico è considerato misto e nessun genere viene escluso.",
+    "Pronuncia e lessico: pêche (pesca, il frutto) si pronuncia con la e aperta [pɛʃ]; nell'espressione avoir la pêche non c'entra né il frutto né l'attività di pescare: indica energia e buonumore."
+  ],
+  "exercises": [
+    {
+      "id": "L083-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "subjonctif",
+      "prompt": "Completa: « Il faut que tu ___ la réponse. » (devi sapere la risposta)",
+      "options": [
+        "saches",
+        "sais",
+        "sauras",
+        "sachais"
+      ],
+      "correct": 0,
+      "explain_it": "Dopo il faut que vuole il congiuntivo: saches, non sais (indicativo) né sauras (futuro)."
+    },
+    {
+      "id": "L083-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "subjonctif",
+      "prompt": "Quale forma completa? « Il faut que j'___ à la banque demain. » (devo andare in banca domani)",
+      "options": [
+        "aille",
+        "vais",
+        "irai",
+        "allerais"
+      ],
+      "correct": 0,
+      "explain_it": "Il congiuntivo di aller alla prima persona è aille; vais è indicativo presente."
+    },
+    {
+      "id": "L083-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "gender",
+      "prompt": "Quale forma è corretta? « J'aime beaucoup ___ cuits à la vapeur. » (gli spinaci)",
+      "options": [
+        "les épinards",
+        "les épinard",
+        "l'épinard",
+        "des épinardes"
+      ],
+      "correct": 0,
+      "explain_it": "Épinards è maschile plurale: si usa les épinards, mentre il singolare épinard è raro."
+    },
+    {
+      "id": "L083-e04",
+      "type": "mcq",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Cosa significa « en faire tout un fromage »?",
+      "options": [
+        "farne un caso enorme",
+        "mangiare molto formaggio",
+        "cucinare una torta",
+        "cambiare idea all'ultimo"
+      ],
+      "correct": 0,
+      "explain_it": "È una locuzione familiare: fare di una cosa piccola un grosso problema."
+    },
+    {
+      "id": "L083-e05",
+      "type": "mcq",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "Quale traduzione è giusta per « une auberge »?",
+      "options": [
+        "albergo",
+        "locanda, ostello",
+        "pensione per anziani",
+        "ristorante stellato"
+      ],
+      "correct": 1,
+      "explain_it": "Il falso amico: albergo si dice hôtel, mentre auberge indica una locanda o un ostello."
+    },
+    {
+      "id": "L083-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Oggi ho molto lavoro da fare.",
+      "answers": [
+        "J'ai du pain sur la planche aujourd'hui.",
+        "Aujourd'hui, j'ai du pain sur la planche."
+      ],
+      "distractors": [
+        "poire",
+        "radis"
+      ],
+      "explain_it": "Avoir du pain sur la planche significa avere molto lavoro: il pane non c'entra con il significato."
+    },
+    {
+      "id": "L083-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Stamattina sono in gran forma.",
+      "answers": [
+        "Ce matin, j'ai la pêche.",
+        "J'ai la pêche ce matin."
+      ],
+      "distractors": [
+        "fromage",
+        "choux"
+      ],
+      "explain_it": "Avoir la pêche indica energia e buonumore, non la pesca."
+    },
+    {
+      "id": "L083-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "subjonctif",
+      "prompt": "Bisogna che tu sappia dove si trova la stazione.",
+      "answers": [
+        "Il faut que tu saches où se trouve la gare.",
+        "Il faut que tu saches où est la gare."
+      ],
+      "distractors": [
+        "sais",
+        "sauras"
+      ],
+      "explain_it": "Dopo il faut que serve il congiuntivo di savoir alla seconda persona: saches."
+    },
+    {
+      "id": "L083-e09",
+      "type": "order",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Non fare lo sciocco, sii serio!",
+      "answers": [
+        "Ne fais pas l'andouille, sois sérieux !"
+      ],
+      "distractors": [
+        "poire"
+      ],
+      "explain_it": "Faire l'andouille significa fare lo sciocco; sois è l'imperativo di être alla seconda persona."
+    },
+    {
+      "id": "L083-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "subjonctif",
+      "text": "Il faut que nous ___ la vérité.",
+      "answers": [
+        "sachions"
+      ],
+      "hint": "(savoir, congiuntivo presente)",
+      "prompt": "Bisogna che sappiamo la verità.",
+      "explain_it": "Per noi il congiuntivo di savoir è sachions: radice sach- più la desinenza -ions."
+    },
+    {
+      "id": "L083-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "subjonctif",
+      "text": "Il faut qu'ils ___ à l'école avant huit heures.",
+      "answers": [
+        "aillent"
+      ],
+      "hint": "(aller, congiuntivo presente)",
+      "prompt": "Bisogna che vadano a scuola prima delle otto.",
+      "explain_it": "Per loro il congiuntivo di aller è aillent."
+    },
+    {
+      "id": "L083-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "gender",
+      "text": "Ce matin, les ___ sont très frais au marché.",
+      "answers": [
+        "épinards"
+      ],
+      "prompt": "Stamattina gli spinaci sono molto freschi al mercato.",
+      "explain_it": "Épinards è un nome maschile usato al plurale."
+    },
+    {
+      "id": "L083-e13",
+      "type": "cloze",
+      "level": 1,
+      "concept": "idioms",
+      "text": "Avec ce travail, j'ai du ___ sur la planche.",
+      "answers": [
+        "pain"
+      ],
+      "prompt": "Con questo lavoro ho un sacco di cose da fare.",
+      "explain_it": "La locuzione è avoir du pain sur la planche: il lavoro da fare è il pane sulla tavola."
+    },
+    {
+      "id": "L083-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Ne fais pas tout un ___, c'est une petite erreur.",
+      "answers": [
+        "fromage"
+      ],
+      "prompt": "Non farne un caso, è un piccolo errore.",
+      "explain_it": "La locuzione è en faire tout un fromage, che significa farne un grosso problema."
+    },
+    {
+      "id": "L083-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Pour finir, ils ont coupé la ___ en deux.",
+      "answers": [
+        "poire"
+      ],
+      "prompt": "Alla fine hanno trovato un compromesso.",
+      "explain_it": "Couper la poire en deux significa trovare un compromesso."
+    },
+    {
+      "id": "L083-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Il fait trop chaud, je vais ___ dans les pommes !",
+      "answers": [
+        "tomber"
+      ],
+      "hint": "(tomber, infinito)",
+      "prompt": "Fa troppo caldo, sto per svenire!",
+      "explain_it": "Con il futuro prossimo si usa l'infinito: je vais tomber."
+    },
+    {
+      "id": "L083-e17",
+      "type": "cloze",
+      "level": 2,
+      "concept": "false-friends",
+      "text": "Il n'est pas sorti de l'___ : il reste encore trois examens.",
+      "answers": [
+        "auberge"
+      ],
+      "prompt": "Non è ancora fuori dai guai: restano ancora tre esami.",
+      "explain_it": "L'auberge è la locanda o l'ostello, e l'espressione ne pas être sorti de l'auberge significa non essere ancora fuori dai guai."
+    },
+    {
+      "id": "L083-e18",
+      "type": "cloze",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "Il faut que vous ___ les règles du jeu.",
+      "answers": [
+        "sachiez"
+      ],
+      "hint": "(savoir, congiuntivo presente)",
+      "prompt": "Bisogna che sappiate le regole del gioco.",
+      "explain_it": "Per voi il congiuntivo di savoir è sachiez: radice sach- più la desinenza -iez."
+    },
+    {
+      "id": "L083-e19",
+      "type": "cloze",
+      "level": 3,
+      "concept": "idioms",
+      "text": "Quand il a vu le serpent, il a ___ connaissance.",
+      "answers": [
+        "perdu"
+      ],
+      "hint": "(perdre, participio passato)",
+      "prompt": "Quando ha visto il serpente, ha perso i sensi.",
+      "explain_it": "Perdre connaissance si coniuga con avoir al passato prossimo: il a perdu."
+    },
+    {
+      "id": "L083-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Ho molto lavoro da fare questa settimana.",
+      "answers": [
+        "J'ai du pain sur la planche cette semaine.",
+        "Cette semaine, j'ai du pain sur la planche."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "La locuzione avoir du pain sur la planche traduce l'italiano 'avere un sacco di lavoro'."
+    },
+    {
+      "id": "L083-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Non farne un caso, è solo un piccolo errore.",
+      "answers": [
+        "[Ne fais|N'en fais] pas tout un fromage, ce n'est qu'une petite erreur.",
+        "[Ne fais|N'en fais] pas tout un fromage, c'est juste une petite erreur.",
+        "[Ne fais|N'en fais] pas tout un fromage, c'est seulement une petite erreur."
+      ],
+      "ask": "Traduci in francese (tu)",
+      "explain_it": "Con l'imperativo negativo di faire e la locuzione en faire tout un fromage, si minimizza il problema."
+    },
+    {
+      "id": "L083-e22",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Dopo la corsa sono svenuto.",
+      "answers": [
+        "Après la course, je suis tombé[e|] dans les pommes.",
+        "Après la course, je me suis évanoui[e|].",
+        "Après la course, j'ai perdu connaissance."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Tomber dans les pommes è la locuzione per svenire; con être il participio si accorda al soggetto."
+    },
+    {
+      "id": "L083-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Guadagno poco, quindi devo arrotondare le entrate.",
+      "answers": [
+        "Je gagne peu, [donc|alors] je dois [mettre du beurre dans les épinards|arrondir mes fins de mois]."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Mettre du beurre dans les épinards è la locuzione per arrotondare le entrate."
+    },
+    {
+      "id": "L083-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Bisogna che tu sappia la risposta.",
+      "answers": [
+        "Il faut que tu saches [la|cette] réponse."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Dopo il faut que si usa il congiuntivo di savoir: saches."
+    },
+    {
+      "id": "L083-e25",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Bisogna che andiamo al mercato prima di mezzogiorno.",
+      "answers": [
+        "Il faut que nous allions au marché avant midi.",
+        "Il faut qu'on aille au marché avant midi."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Dopo il faut que il congiuntivo di aller è allions per noi e aille per on: entrambe le forme sono corrette."
+    },
+    {
+      "id": "L083-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Bisogna che io vada a Montpellier domani.",
+      "answers": [
+        "Il faut que j'aille à Montpellier demain."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Il congiuntivo di aller alla prima persona è aille, con l'elisione j'."
+    },
+    {
+      "id": "L083-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Ho dimenticato la data dell'esame: sono nei guai.",
+      "answers": [
+        "J'ai oublié la date de l'examen, je suis dans les choux.",
+        "Je suis dans les choux : j'ai oublié la date de l'examen."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Être dans les choux significa essere nei guai, in una brutta situazione."
+    },
+    {
+      "id": "L083-e28",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Oggi sono in gran forma!",
+      "answers": [
+        "Aujourd'hui, j'ai la pêche !",
+        "J'ai la pêche aujourd'hui !"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Avoir la pêche significa essere pieni di energia."
+    },
+    {
+      "id": "L083-e29",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Troviamo un compromesso: dividiamo tutto a metà.",
+      "answers": [
+        "Trouvons un compromis : coupons la poire en deux.",
+        "Coupons la poire en deux : trouvons un compromis."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Couper la poire en deux significa trovare un compromesso dividendo a metà."
+    },
+    {
+      "id": "L083-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Con questi problemi non siamo ancora fuori dai guai: il progetto è lontano dalla fine.",
+      "answers": [
+        "Avec ces problèmes, on n'est pas encore sorti de l'auberge : le projet est loin d'être [fini|terminé].",
+        "Avec ces problèmes, nous ne sommes pas encore sortis de l'auberge : le projet est loin d'être [fini|terminé]."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Ne pas être sorti de l'auberge significa non essere ancora fuori dai guai; il soggetto on richiede il singolare."
+    },
+    {
+      "id": "L083-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Non credo che lui sappia la verità.",
+      "answers": [
+        "Je ne pense pas qu'il sache la vérité.",
+        "Je ne crois pas qu'il sache la vérité."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Con je ne pense pas que / je ne crois pas que il verbo della subordinata va al congiuntivo."
+    },
+    {
+      "id": "L083-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Quando ha saputo la notizia, è svenuta.",
+      "answers": [
+        "Quand elle a [appris|su] la nouvelle, elle [s'est évanouie|est tombée dans les pommes|a perdu connaissance]."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Si può usare sia il verbo s'évanouir sia la locuzione tomber dans les pommes, entrambi con il passato prossimo."
+    },
+    {
+      "id": "L083-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Bisogna che tu sappia che il montepremio ammonta a mille euro.",
+      "answers": [
+        "Il faut que tu saches que la cagnotte [s'élève|se monte] à mille euros."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Dopo il faut que si usa il congiuntivo di savoir; s'élever à indica l'ammontare di una somma."
+    },
+    {
+      "id": "L083-e34",
+      "type": "dictation",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "Il faut que nous allions à la gare avant sept heures.",
+      "explain_it": "Dopo il faut que il verbo aller va al congiuntivo: allions."
+    },
+    {
+      "id": "L083-e35",
+      "type": "dictation",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Tu n'as pas besoin de faire tout un fromage, c'est une petite erreur.",
+      "explain_it": "Faire tout un fromage significa esagerare un problema piccolo."
+    },
+    {
+      "id": "L083-e36",
+      "type": "dictation",
+      "level": 3,
+      "concept": "idioms",
+      "text": "Hier, elle est tombée dans les pommes à cause de la chaleur.",
+      "explain_it": "Tomber dans les pommes significa svenire; con être il participio si accorda con il soggetto femminile."
+    },
+    {
+      "id": "L083-e37",
+      "type": "dictation",
+      "level": 3,
+      "concept": "idioms",
+      "text": "Grâce à ce petit boulot, il met du beurre dans les épinards.",
+      "explain_it": "Mettre du beurre dans les épinards significa arrotondare le entrate."
+    },
+    {
+      "id": "L083-e38",
+      "type": "flash",
+      "level": 2,
+      "concept": "subjonctif",
+      "front": "Congiuntivo presente di savoir: quali sono le forme?",
+      "back": "que je sache, que tu saches, qu'il/elle sache, que nous sachions, que vous sachiez, qu'ils/elles sachent.",
+      "note": "Radice sach- in tutte le persone; desinenze -e, -es, -e, -ions, -iez, -ent.",
+      "explain_it": "Savoir ha un congiuntivo irregolare che va memorizzato, perché dopo il faut que è obbligatorio."
+    },
+    {
+      "id": "L083-e39",
+      "type": "flash",
+      "level": 2,
+      "concept": "subjonctif",
+      "front": "Congiuntivo presente di aller: quali sono le forme?",
+      "back": "que j'aille, que tu ailles, qu'il/elle aille, que nous allions, que vous alliez, qu'ils/elles aillent.",
+      "note": "Noi e voi coincidono con l'imperfetto: decide il contesto.",
+      "explain_it": "Aller è irregolare al congiuntivo: aill- per je, tu, il, ils (aille, ailles, aillent) e all- per nous e vous (allions, alliez)."
+    },
+    {
+      "id": "L083-e40",
+      "type": "flash",
+      "level": 2,
+      "concept": "gender",
+      "front": "« Les épinards » è maschile singolare o plurale?",
+      "back": "Maschile plurale: les épinards. Il singolare épinard è raro.",
+      "note": "Anche in italiano 'spinaci' è di norma plurale.",
+      "explain_it": "Il nome épinards si usa quasi sempre al plurale: attenzione a non dire un épinard."
+    },
+    {
+      "id": "L083-e41",
+      "type": "flash",
+      "level": 2,
+      "concept": "false-friends",
+      "front": "« Une auberge » significa 'albergo'?",
+      "back": "No: significa locanda o ostello. L'albergo è un hôtel.",
+      "note": "L'auberge de jeunesse è l'ostello per giovani.",
+      "explain_it": "È un falso amico: l'italiano albergo non corrisponde a auberge."
+    }
+  ]
+}

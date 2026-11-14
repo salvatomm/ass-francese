@@ -1,0 +1,873 @@
+{
+  "n": 46,
+  "title_fr": "Depuis, je n'ai aucune nouvelle",
+  "title_it": "Da allora non ho nessuna notizia",
+  "review": false,
+  "status": "verified",
+  "source": "1db59936 p44-50 (libro pp. 225-231)",
+  "theme_it": "Una donna si rivolge a un agente di polizia perché il marito è scomparso: si sono separati durante le commissioni del giorno prima e da allora non ha più sue notizie. L'agente le chiede una descrizione dettagliata dell'uomo (età, altezza, capelli, abbigliamento), mentre lei è preoccupata perché aveva con sé una valigia e un biglietto aereo.",
+  "grammar": [
+    {
+      "id": "register",
+      "title_it": "Il registro formale: monsieur, madame, époux/épouse",
+      "explain_it": "In contesti ufficiali (polizia, municipio, documenti) si usano 'monsieur' e 'madame' come formule di cortesia, spesso seguite dalla carica: monsieur le député, madame la directrice. 'Mademoiselle' è ormai sconsigliato nei contesti ufficiali. Per dire marito e moglie nel registro formale si preferiscono époux ed épouse a mari e femme, un po' come in italiano 'il coniuge' al posto di 'marito'.",
+      "examples": [
+        {
+          "fr": "Bonjour, monsieur le député.",
+          "it": "Buongiorno, signor deputato."
+        },
+        {
+          "fr": "Mon époux travaille à la mairie.",
+          "it": "Mio marito lavora in municipio."
+        }
+      ]
+    },
+    {
+      "id": "participle-agreement",
+      "title_it": "Participio passato con être: accordo con il soggetto",
+      "explain_it": "Con i verbi che formano il passato prossimo con être (aller, partir, sortir, arriver...) il participio passato si accorda in genere e numero con il soggetto, non con l'oggetto: elle est allée, ils sont partis. In questo è simile all'italiano ('sono andate'). Se il soggetto è misto, maschile e femminile insieme, si usa il maschile plurale: Marie et Paul sont arrivés.",
+      "examples": [
+        {
+          "fr": "Elle est partie tôt.",
+          "it": "È partita presto."
+        },
+        {
+          "fr": "Marie et Paul sont arrivés hier.",
+          "it": "Marie e Paul sono arrivati ieri."
+        }
+      ]
+    },
+    {
+      "id": "stressed-pronouns",
+      "title_it": "I pronomi tonici: moi, toi, lui, elle, nous, vous, eux, elles",
+      "explain_it": "I pronomi tonici si usano per enfasi o per opporre due persone (moi, je préfère... mais lui...), dopo le preposizioni (avec moi, pour toi) e da soli in risposta. Spesso in italiano non vanno tradotti o si rendono con un accento forte. Quando il pronome tonico apre la frase è di solito seguito dal pronome soggetto: lui, il préfère. Eux vale per 'loro' maschile o misto.",
+      "examples": [
+        {
+          "fr": "Moi, je reste ici, et toi ?",
+          "it": "Io resto qui, e tu?"
+        },
+        {
+          "fr": "Il vient avec eux.",
+          "it": "Viene con loro."
+        }
+      ]
+    },
+    {
+      "id": "negation-other",
+      "title_it": "Ne... aucun(e): nessuno",
+      "explain_it": "Aucun (f. aucune) significa 'nessuno' e si usa con ne, senza pas: Je n'ai aucune idée. Come determinante concorda con un nome singolare (aucun problème, aucune nouvelle). Nel parlato si usa spesso da solo come risposta breve: Aucune idée.",
+      "examples": [
+        {
+          "fr": "Je n'ai aucune envie de sortir.",
+          "it": "Non ho nessuna voglia di uscire."
+        },
+        {
+          "fr": "Il n'y a aucun problème.",
+          "it": "Non c'è nessun problema."
+        }
+      ]
+    },
+    {
+      "id": "plural",
+      "title_it": "Plurali e singolari diversi dall'italiano: cheveux, lunettes, toilettes, pantalon",
+      "explain_it": "Alcuni nomi sono sempre plurali in francese: les cheveux (i capelli), les lunettes (gli occhiali), ma anche les toilettes (il bagno), les vacances (la vacanza), les courses (la spesa), dove l'italiano usa spesso il singolare. Al contrario un pantalon e un jean sono singolari in francese, mentre in italiano si dice i pantaloni, i jeans: per due paia si dice deux pantalons. Il singolare cheveu indica un singolo capello.",
+      "examples": [
+        {
+          "fr": "Elle a les cheveux longs.",
+          "it": "Ha i capelli lunghi."
+        },
+        {
+          "fr": "Il porte un jean bleu.",
+          "it": "Porta dei jeans blu."
+        }
+      ]
+    },
+    {
+      "id": "comparatives",
+      "title_it": "Meilleur (aggettivo) e mieux (avverbio)",
+      "explain_it": "Meilleur(e) è il comparativo di bon(ne) e fa da aggettivo, quindi concorda con il nome: une meilleure idée, les meilleurs gâteaux. Mieux è il comparativo avverbiale di bien e resta invariabile: chanter mieux, aller mieux. Non confonderli: 'Il va mieux' significa 'sta meglio', mentre 'une meilleure idée' è 'un'idea migliore'.",
+      "examples": [
+        {
+          "fr": "C'est la meilleure solution.",
+          "it": "È la soluzione migliore."
+        },
+        {
+          "fr": "Il va mieux aujourd'hui.",
+          "it": "Oggi sta meglio."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le mari",
+      "it": "il marito",
+      "pos": "n"
+    },
+    {
+      "fr": "l'agent (m.)",
+      "it": "l'agente (di polizia)",
+      "pos": "n"
+    },
+    {
+      "fr": "disparaître",
+      "it": "scomparire",
+      "pos": "v",
+      "note": "il a disparu"
+    },
+    {
+      "fr": "la dernière fois",
+      "it": "l'ultima volta",
+      "pos": "n"
+    },
+    {
+      "fr": "les courses (f. pl.)",
+      "it": "la spesa",
+      "pos": "n"
+    },
+    {
+      "fr": "l'hypermarché (m.)",
+      "it": "l'ipermercato",
+      "pos": "n"
+    },
+    {
+      "fr": "la boulangerie",
+      "it": "la panetteria",
+      "pos": "n"
+    },
+    {
+      "fr": "la nouvelle",
+      "it": "la notizia",
+      "pos": "n",
+      "note": "al plurale: les nouvelles"
+    },
+    {
+      "fr": "le coup de téléphone",
+      "it": "la telefonata",
+      "pos": "n"
+    },
+    {
+      "fr": "décrire",
+      "it": "descrivere",
+      "pos": "v",
+      "note": "vous décrivez"
+    },
+    {
+      "fr": "l'époux (m.)",
+      "it": "il marito (formale)",
+      "pos": "n",
+      "note": "f. l'épouse"
+    },
+    {
+      "fr": "mince",
+      "it": "magro, snello",
+      "pos": "adj"
+    },
+    {
+      "fr": "le visage",
+      "it": "il viso",
+      "pos": "n"
+    },
+    {
+      "fr": "les cheveux (m. pl.)",
+      "it": "i capelli",
+      "pos": "n"
+    },
+    {
+      "fr": "raide",
+      "it": "liscio, dritto (di capelli)",
+      "pos": "adj"
+    },
+    {
+      "fr": "les lunettes (f. pl.)",
+      "it": "gli occhiali",
+      "pos": "n"
+    },
+    {
+      "fr": "habillé(e)",
+      "it": "vestito",
+      "pos": "adj"
+    },
+    {
+      "fr": "le pantalon",
+      "it": "i pantaloni",
+      "pos": "n"
+    },
+    {
+      "fr": "la manche",
+      "it": "la manica",
+      "pos": "n",
+      "note": "à manches courtes: a maniche corte"
+    },
+    {
+      "fr": "l'écharpe (f.)",
+      "it": "la sciarpa",
+      "pos": "n"
+    },
+    {
+      "fr": "la veste",
+      "it": "la giacca",
+      "pos": "n"
+    },
+    {
+      "fr": "le cuir",
+      "it": "la pelle",
+      "pos": "n"
+    },
+    {
+      "fr": "la chaussure",
+      "it": "la scarpa",
+      "pos": "n"
+    },
+    {
+      "fr": "la chaussette",
+      "it": "il calzino",
+      "pos": "n"
+    },
+    {
+      "fr": "assorti(e)",
+      "it": "abbinato",
+      "pos": "adj"
+    },
+    {
+      "fr": "meilleur(e)",
+      "it": "migliore",
+      "pos": "adj"
+    },
+    {
+      "fr": "mieux",
+      "it": "meglio",
+      "pos": "adv"
+    },
+    {
+      "fr": "inquiet / inquiète",
+      "it": "preoccupato",
+      "pos": "adj"
+    },
+    {
+      "fr": "retrouver",
+      "it": "ritrovare",
+      "pos": "v"
+    },
+    {
+      "fr": "aucun(e)",
+      "it": "nessuno, nessuna",
+      "pos": "adj"
+    },
+    {
+      "fr": "le député / la députée",
+      "it": "il deputato / la deputata",
+      "pos": "n",
+      "note": "titolo di cortesia: monsieur le député"
+    },
+    {
+      "fr": "brun / brune",
+      "it": "bruno, castano",
+      "pos": "adj",
+      "note": "cheveux bruns"
+    },
+    {
+      "fr": "carré(e)",
+      "it": "quadrato",
+      "pos": "adj",
+      "note": "un visage carré"
+    },
+    {
+      "fr": "la chemise",
+      "it": "la camicia",
+      "pos": "n"
+    },
+    {
+      "fr": "le costume",
+      "it": "l'abito (da uomo), il completo",
+      "pos": "n",
+      "note": "falso amico: non è il costume da bagno"
+    },
+    {
+      "fr": "court(e)",
+      "it": "corto",
+      "pos": "adj",
+      "note": "manches courtes"
+    },
+    {
+      "fr": "la crêpe",
+      "it": "la crêpe",
+      "pos": "n"
+    },
+    {
+      "fr": "la description",
+      "it": "la descrizione",
+      "pos": "n"
+    },
+    {
+      "fr": "détaillé(e)",
+      "it": "dettagliato",
+      "pos": "adj"
+    },
+    {
+      "fr": "gris(e)",
+      "it": "grigio",
+      "pos": "adj"
+    },
+    {
+      "fr": "le jean",
+      "it": "i jeans",
+      "pos": "n",
+      "note": "si usa anche al singolare: un jean, des jeans"
+    },
+    {
+      "fr": "marron",
+      "it": "marrone",
+      "pos": "adj",
+      "note": "invariabile: une veste marron"
+    },
+    {
+      "fr": "périphérique",
+      "it": "periferico, di circonvallazione",
+      "pos": "adj",
+      "note": "le Boulevard périphérique: la tangenziale di Parigi"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Ce n'est pas la peine.",
+      "it": "Non c'è bisogno.",
+      "note": "seguito da 'de' + infinito: ce n'est pas la peine de venir"
+    },
+    {
+      "fr": "Aucun souci.",
+      "it": "Nessun problema.",
+      "note": "molto usata, colloquiale"
+    },
+    {
+      "fr": "Pas de souci.",
+      "it": "Nessun problema, figurati.",
+      "note": "versione più familiare"
+    },
+    {
+      "fr": "Faire les courses.",
+      "it": "Fare la spesa."
+    },
+    {
+      "fr": "Avoir des nouvelles de quelqu'un.",
+      "it": "Avere notizie di qualcuno."
+    },
+    {
+      "fr": "Avoir l'habitude de faire qqch.",
+      "it": "Essere abituati a fare qualcosa."
+    },
+    {
+      "fr": "Une fois sur deux.",
+      "it": "Una volta su due."
+    },
+    {
+      "fr": "Faire de son mieux.",
+      "it": "Fare del proprio meglio."
+    },
+    {
+      "fr": "Avoir un cheveu sur la langue.",
+      "it": "Avere la lisca (parlare con la s blesa).",
+      "note": "espressione figurata: si dice di chi zozota"
+    }
+  ],
+  "notes_it": [
+    "Falso amico: 'les toilettes' al plurale indica il bagno pubblico, mentre 'la toilette' al singolare indica la cura personale o l'abbigliamento. Per chiedere dove sia il bagno in Francia si usa il plurale.",
+    "'La peine' non significa 'pena' nel senso di dolore, ma 'fatica' o 'disturbo'. Nell'espressione 'ce n'est pas la peine' il senso è 'non c'è bisogno'.",
+    "Pronuncia: la 'ch' di 'cheveux' e 'chaussettes' si pronuncia come la 'sc' dell'italiano 'scena', cioè [ʃ]. Le vocali nasali di 'un' e 'mon' non vanno pronunciate con la 'n' finale.",
+    "Lessico: 'l'agent' vale per agente di polizia, ma anche per agente immobiliare o di viaggio: il contesto chiarisce il senso. In una situazione ufficiale, invece di 'marito' si dice 'époux'."
+  ],
+  "exercises": [
+    {
+      "id": "L046-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "register",
+      "explain_it": "In un contesto ufficiale 'époux' è la parola di registro formale, mentre 'copain' significa fidanzato o amico.",
+      "prompt": "In un contesto ufficiale (polizia, municipio), come si dice 'marito' in francese?",
+      "options": [
+        "un époux",
+        "un copain",
+        "un homme"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L046-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "plural",
+      "explain_it": "'Cheveux' è sempre plurale in francese, mentre 'chevaux' significa cavalli e 'cheveu' è un singolo capello.",
+      "prompt": "Come si dice 'i capelli' in francese?",
+      "options": [
+        "les cheveux",
+        "le cheveu",
+        "les chevaux"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L046-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "stressed-pronouns",
+      "explain_it": "Dopo una preposizione come 'avec' si usa il pronome tonico: avec moi, non avec je.",
+      "prompt": "Completa in francese: «Venez avec ___ ?» (venite con me?)",
+      "options": [
+        "moi",
+        "je",
+        "me"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L046-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "comparatives",
+      "explain_it": "Con il verbo 'chanter' serve l'avverbio 'mieux', invariabile: meglio di me.",
+      "prompt": "Completa: «Elle chante ___ que moi.» (canta meglio di me)",
+      "options": [
+        "mieux",
+        "meilleure",
+        "bien"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L046-e05",
+      "type": "order",
+      "level": 1,
+      "concept": "participle-agreement",
+      "explain_it": "'Sortir' si coniuga con être, quindi il participio 'sortis' si accorda con il soggetto plurale maschile 'nous'.",
+      "prompt": "Ieri sera siamo usciti insieme.",
+      "answers": [
+        "Hier soir nous sommes sortis ensemble",
+        "Nous sommes sortis ensemble hier soir"
+      ],
+      "distractors": [
+        "avons",
+        "sortons"
+      ]
+    },
+    {
+      "id": "L046-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "comparatives",
+      "explain_it": "Con il verbo 'cuisiner' si usa l'avverbio invariabile 'mieux', non l'aggettivo 'meilleure'.",
+      "prompt": "Lei cucina meglio di me.",
+      "answers": [
+        "Elle cuisine mieux que moi"
+      ],
+      "distractors": [
+        "meilleure",
+        "bien"
+      ]
+    },
+    {
+      "id": "L046-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "explain_it": "'Ce n'est pas la peine' è seguito da 'de' + infinito: 'd'appeler'.",
+      "prompt": "Non c'è bisogno di chiamare Marianne.",
+      "answers": [
+        "Ce n'est pas la peine d'appeler Marianne"
+      ],
+      "distractors": [
+        "le",
+        "souci"
+      ]
+    },
+    {
+      "id": "L046-e08",
+      "type": "cloze",
+      "level": 1,
+      "concept": "plural",
+      "text": "Il porte des ___ noires.",
+      "answers": [
+        "lunettes"
+      ],
+      "hint": "(occhiali, plurale femminile)",
+      "prompt": "Porta degli occhiali neri.",
+      "explain_it": "'Lunettes' è femminile plurale in francese, come 'gli occhiali' in italiano."
+    },
+    {
+      "id": "L046-e09",
+      "type": "cloze",
+      "level": 1,
+      "concept": "passe-compose-etre",
+      "text": "Hier, nous ___ allés au marché.",
+      "answers": [
+        "sommes"
+      ],
+      "hint": "(être, presente)",
+      "prompt": "Ieri siamo andati al mercato.",
+      "explain_it": "Il passato prossimo di 'aller' si forma con l'ausiliare être, quindi serve 'sommes' con il soggetto nous."
+    },
+    {
+      "id": "L046-e10",
+      "type": "cloze",
+      "level": 2,
+      "concept": "participle-agreement",
+      "text": "Elle est ___ à la boulangerie.",
+      "answers": [
+        "allée"
+      ],
+      "hint": "(aller, participio femminile)",
+      "prompt": "Lei è andata in panetteria.",
+      "explain_it": "Con être il participio si accorda al femminile singolare con il soggetto 'elle'."
+    },
+    {
+      "id": "L046-e11",
+      "type": "cloze",
+      "level": 2,
+      "concept": "participle-agreement",
+      "text": "Mes parents sont ___ hier soir.",
+      "answers": [
+        "partis"
+      ],
+      "hint": "(partir, participio maschile plurale)",
+      "prompt": "I miei genitori sono partiti ieri sera.",
+      "explain_it": "Con il soggetto maschile plurale 'parents' il participio prende la forma 'partis'."
+    },
+    {
+      "id": "L046-e12",
+      "type": "cloze",
+      "level": 2,
+      "concept": "stressed-pronouns",
+      "text": "Moi, je préfère le thé, mais ___, il préfère le café.",
+      "answers": [
+        "lui"
+      ],
+      "hint": "(pronome tonico, 3ª persona maschile)",
+      "prompt": "Io preferisco il tè, ma lui preferisce il caffè.",
+      "explain_it": "Per opporre due persone si usa il pronome tonico: lui per la persona maschile."
+    },
+    {
+      "id": "L046-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "negation-other",
+      "text": "Il n'y a ___ problème.",
+      "answers": [
+        "aucun"
+      ],
+      "hint": "(aggettivo, maschile singolare)",
+      "prompt": "Non c'è nessun problema.",
+      "explain_it": "'Aucun' è singolare e concorda con 'problème' maschile, senza 'pas' nella frase negativa."
+    },
+    {
+      "id": "L046-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "plural",
+      "text": "J'ai les ___ longs.",
+      "answers": [
+        "cheveux"
+      ],
+      "hint": "(plurale)",
+      "prompt": "Ho i capelli lunghi.",
+      "explain_it": "In francese 'i capelli' è sempre plurale: les cheveux."
+    },
+    {
+      "id": "L046-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "comparatives",
+      "text": "C'est une ___ idée !",
+      "answers": [
+        "meilleure"
+      ],
+      "hint": "(aggettivo, femminile)",
+      "prompt": "È un'idea migliore!",
+      "explain_it": "'Meilleure' è aggettivo e concorda con il nome femminile 'idée'."
+    },
+    {
+      "id": "L046-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Vous voulez de l'aide ? - Non, ___ pas la peine, merci.",
+      "answers": [
+        "ce n'est"
+      ],
+      "hint": "(c'est, forma negata)",
+      "prompt": "Vuole aiuto? - No, non c'è bisogno, grazie.",
+      "explain_it": "L'espressione 'ce n'est pas la peine' significa 'non c'è bisogno' e si usa per rifiutare gentilmente."
+    },
+    {
+      "id": "L046-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "register",
+      "prompt": "Chiedi con cortesia a un signore: «Scusi, lei è il signor Martin?»",
+      "answers": [
+        "[Excusez-moi|Pardon], [vous êtes|êtes-vous|est-ce que vous êtes] monsieur Martin ?"
+      ],
+      "explain_it": "Con un estraneo si usa il vous e la forma di cortesia 'monsieur'."
+    },
+    {
+      "id": "L046-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "stressed-pronouns",
+      "prompt": "Io vado al mercato, e tu?",
+      "answers": [
+        "[Moi, |]je vais au marché, et toi ?"
+      ],
+      "explain_it": "Nella domanda di ritorno si usa il pronome tonico 'toi' dopo 'et'."
+    },
+    {
+      "id": "L046-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "negation-other",
+      "prompt": "Non ho nessuna notizia di lui.",
+      "answers": [
+        "Je n'ai [aucune nouvelle|pas de nouvelles] de lui"
+      ],
+      "explain_it": "'Aucune' si usa con 'ne' senza 'pas' e concorda con 'nouvelle' femminile singolare."
+    },
+    {
+      "id": "L046-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "prompt": "Lei è arrivata in ritardo ieri sera.",
+      "answers": [
+        "Elle est arrivée en retard hier soir",
+        "Hier soir, elle est arrivée en retard"
+      ],
+      "explain_it": "'Arriver' vuole l'ausiliare être e il participio si accorda al femminile con 'elle'."
+    },
+    {
+      "id": "L046-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "plural",
+      "prompt": "Ho i capelli corti e gli occhi neri.",
+      "answers": [
+        "J'ai les cheveux courts et les yeux noirs"
+      ],
+      "explain_it": "Sia 'cheveux' sia 'yeux' sono plurali in francese, quindi servono 'les' e il plurale."
+    },
+    {
+      "id": "L046-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "comparatives",
+      "prompt": "Questa torta è migliore di ieri.",
+      "answers": [
+        "Ce gâteau est meilleur qu'hier",
+        "Cette tarte est meilleure qu'hier",
+        "Ce gâteau est meilleur que celui d'hier",
+        "Cette tarte est meilleure que celle d'hier"
+      ],
+      "explain_it": "'Meilleur' è aggettivo e si accorda con il nome: meilleur per gâteau (m.), meilleure per tarte (f.)."
+    },
+    {
+      "id": "L046-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Nessun problema!",
+      "answers": [
+        "Aucun souci",
+        "Pas de souci",
+        "Pas de soucis"
+      ],
+      "explain_it": "'Aucun souci' e 'pas de souci' sono risposte rassicuranti molto comuni nel parlato."
+    },
+    {
+      "id": "L046-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Lui fa la spesa il sabato.",
+      "answers": [
+        "Il fait [les|ses] courses [le |]samedi"
+      ],
+      "explain_it": "'Faire les courses' significa fare la spesa, con l'articolo plurale 'les'."
+    },
+    {
+      "id": "L046-e25",
+      "type": "write",
+      "level": 3,
+      "concept": "negation-other",
+      "prompt": "Nessuna delle mie amiche è mai stata a Parigi.",
+      "answers": [
+        "Aucune de mes amies n'est jamais allée à Paris",
+        "Aucune de mes amies n'est allée à Paris",
+        "Aucune de mes amies n'a jamais été à Paris"
+      ],
+      "explain_it": "'Aucune' concorda con 'amies' femminile plurale, e il participio 'allée' con l'ausiliare être segue il soggetto femminile."
+    },
+    {
+      "id": "L046-e26",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-etre",
+      "ask": "Volgi al passé composé",
+      "prompt": "Il va au marché et elle va à la pharmacie.",
+      "answers": [
+        "Il est allé au marché et elle est allée à la pharmacie"
+      ],
+      "explain_it": "Entrambi i verbi usano être: il participio si accorda con il soggetto, maschile per 'il' e femminile per 'elle'."
+    },
+    {
+      "id": "L046-e27",
+      "type": "write",
+      "level": 3,
+      "concept": "stressed-pronouns",
+      "prompt": "Io sono in ritardo, ma loro sono sempre puntuali.",
+      "answers": [
+        "Moi, je suis en retard, mais eux sont toujours à l'heure",
+        "Moi, je suis en retard, mais eux, ils sont toujours à l'heure",
+        "Moi, je suis en retard, mais eux sont toujours ponctuels",
+        "Moi, je suis en retard, mais eux, ils sont toujours ponctuels"
+      ],
+      "explain_it": "Per opporre 'io' e 'loro' si usano i pronomi tonici moi ed eux, e la forma con il pronome soggetto ripetuto aggiunge enfasi."
+    },
+    {
+      "id": "L046-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "comparatives",
+      "prompt": "Mia sorella canta meglio di me e cucina meglio di tutti.",
+      "answers": [
+        "Ma [sœur|soeur] chante mieux que moi et cuisine mieux que tout le monde"
+      ],
+      "explain_it": "Entrambi i verbi usano l'avverbio invariabile 'mieux', che non si accorda con il soggetto."
+    },
+    {
+      "id": "L046-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Ho l'abitudine di perdere le chiavi: succede una volta su due.",
+      "answers": [
+        "J'ai l'habitude de perdre [mes|les] clés : ça [arrive|se produit] une fois sur deux"
+      ],
+      "explain_it": "'Avoir l'habitude de' seguito dall'infinito indica un'abitudine, e 'une fois sur deux' significa 'una volta su due'."
+    },
+    {
+      "id": "L046-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-etre",
+      "prompt": "Ieri mattina Marianne e suo marito sono partiti insieme.",
+      "answers": [
+        "Hier matin Marianne et son mari sont partis ensemble"
+      ],
+      "explain_it": "'Partir' usa être e il soggetto misto si accorda al maschile plurale: sont partis."
+    },
+    {
+      "id": "L046-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Faremo del nostro meglio per ritrovarlo.",
+      "answers": [
+        "Nous allons faire de notre mieux pour le retrouver",
+        "Nous ferons de notre mieux pour le retrouver"
+      ],
+      "explain_it": "'Faire de son mieux' significa fare del proprio meglio, e il futuro prossimo si forma con aller più l'infinito."
+    },
+    {
+      "id": "L046-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Non c'è bisogno di aiutarmi, grazie.",
+      "answers": [
+        "Ce n'est pas la peine de m'aider, merci",
+        "Pas la peine de m'aider, merci"
+      ],
+      "explain_it": "Con 'ce n'est pas la peine' il verbo successivo si introduce con 'de' e l'infinito, con il pronome 'm'' davanti."
+    },
+    {
+      "id": "L046-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "plural",
+      "prompt": "Lui porta un paio di jeans blu, una camicia grigia e delle scarpe nere.",
+      "answers": [
+        "Il porte [un jean bleu|des jeans bleus], une chemise grise et des chaussures noires"
+      ],
+      "explain_it": "'Un jean' è singolare in francese, mentre 'chaussures' è plurale e gli aggettivi concordano con i nomi."
+    },
+    {
+      "id": "L046-e34",
+      "type": "dictation",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Il a une cinquantaine d'années et il mesure environ un mètre quatre-vingts.",
+      "explain_it": "'Une cinquantaine' indica un'età intorno ai cinquanta anni, come 'une quarantaine' per i quaranta."
+    },
+    {
+      "id": "L046-e35",
+      "type": "dictation",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Elle porte une écharpe rouge et une veste en cuir noir.",
+      "explain_it": "'En cuir' indica il materiale: una giacca di pelle. Cuir resta singolare dopo en."
+    },
+    {
+      "id": "L046-e36",
+      "type": "flash",
+      "level": 2,
+      "concept": "participle-agreement",
+      "front": "Con quale ausiliare il participio passato si accorda con il soggetto?",
+      "back": "Con être: elle est partie, ils sont partis. Il participio prende genere e numero del soggetto. Con avoir, di solito, non c'è accordo con il soggetto."
+    },
+    {
+      "id": "L046-e37",
+      "type": "flash",
+      "level": 2,
+      "concept": "plural",
+      "front": "Quali parole francesi sono al singolare ma in italiano sono plurali (e viceversa)?",
+      "back": "Un pantalon e un jean sono singolari (i pantaloni, i jeans). Al contrario les toilettes (il bagno), les vacances (la vacanza) e les courses (la spesa) sono plurali in francese; anche les cheveux e les lunettes.",
+      "note": "Attenzione: l'uso di singolare/plurale va imparato parola per parola."
+    },
+    {
+      "id": "L046-e38",
+      "type": "mcq",
+      "level": 2,
+      "concept": "false-friends",
+      "explain_it": "'Les toilettes' al plurale indica il bagno pubblico; 'la toilette' al singolare è la cura personale.",
+      "prompt": "In un locale pubblico, come si chiede il bagno in francese?",
+      "options": [
+        "les toilettes",
+        "la toilette",
+        "le bain"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "L046-e39",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Porta una camicia grigia e un jean.",
+      "answers": [
+        "Il porte une chemise grise et un jean.",
+        "Elle porte une chemise grise et un jean."
+      ],
+      "explain_it": "Gris al femminile diventa grise, per accordarsi con chemise."
+    },
+    {
+      "id": "L046-e40",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Cette description est très ___ : on voit tout.",
+      "answers": [
+        "détaillée"
+      ],
+      "prompt": "Questa descrizione è molto dettagliata: si vede tutto.",
+      "explain_it": "Détaillé si accorda con description, femminile: détaillée.",
+      "hint": "(détaillé)"
+    }
+  ]
+}

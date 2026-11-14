@@ -1,0 +1,921 @@
+{
+  "n": 54,
+  "title_fr": "Votez pour moi : vous ne le regretterez pas...",
+  "title_it": "Votate per me: non ve ne pentirete...",
+  "review": false,
+  "status": "verified",
+  "source": "fa2f8a2c p1-6",
+  "theme_it": "In vista delle elezioni legislative, un candidato unico di centro-sinistra terrà un comizio a Grenoble, e un cittadino scettico commenta in anticipo il discorso, sicuro che non dirà nulla di nuovo. Il dialogo mostra anche il tono ironico con cui si parla di politica, tra promesse, dubbi e doveri civici.",
+  "grammar": [
+    {
+      "id": "futur-simple",
+      "title_it": "Il futuro semplice e la subordinata temporale",
+      "explain_it": "Il futuro semplice si forma con la radice più le desinenze -ai, -as, -a, -ons, -ez, -ont. Per i verbi in -er e -ir la radice è l'infinito intero (présenter -> je présenterai); per i verbi in -re si toglie solo la -e finale (dire -> je dirai). Alcuni verbi hanno radici irregolari molto usate: être -> ser-, avoir -> aur-, faire -> fer-, aller -> ir-, venir -> viendr-, pouvoir -> pourr-, devoir -> devr-. Dopo quand (quando), dès que (appena) e simili, se la frase principale è al futuro anche la subordinata va al futuro, come in italiano (quando avrò tempo).",
+      "examples": [
+        {
+          "fr": "Je t'appellerai quand j'aurai du temps.",
+          "it": "Ti chiamerò quando avrò tempo."
+        },
+        {
+          "fr": "Nous serons tous là quand il arrivera.",
+          "it": "Saremo tutti lì quando arriverà."
+        }
+      ]
+    },
+    {
+      "id": "demonstratives",
+      "title_it": "Il dimostrativo con -ci per il tempo presente",
+      "explain_it": "Con le parole di tempo si può aggiungere -ci dopo il nome preceduto dal dimostrativo, per indicare il periodo in cui si parla: ce mois-ci (questo mese), cette semaine-ci (questa settimana), ces jours-ci (in questi giorni). Per un tempo lontano o passato si usa -là: ces jours-là (in quei giorni). Il suffisso è invariabile e si lega al nome con un trattino. In italiano basta 'questo' o 'in questi giorni'; in francese -ci è frequente soprattutto quando si vuole contrastare con un altro periodo.",
+      "examples": [
+        {
+          "fr": "Je travaille beaucoup ce mois-ci.",
+          "it": "Lavoro molto questo mese."
+        },
+        {
+          "fr": "Ces jours-ci, il fait très froid.",
+          "it": "In questi giorni fa molto freddo."
+        }
+      ]
+    },
+    {
+      "id": "adjective-agreement",
+      "title_it": "Accordo dell'aggettivo con la persona",
+      "explain_it": "L'aggettivo concorda con il nome o con la persona a cui si riferisce. Gli aggettivi che finiscono in -e, come 'triste', restano uguali al maschile e al femminile singolare, ma al plurale prendono la -s: triste / tristes. Il plurale maschile e femminile è uguale, come in italiano ('tristi'). Aggettivi come 'sûr' e 'long' cambiano invece con il femminile: sûr / sûre, long / longue. Ricordati di concordare anche quando l'aggettivo si riferisce a una persona, come in 'Je suis sûr' oppure 'Je suis sûre'.",
+      "examples": [
+        {
+          "fr": "Ces choses sont tristes.",
+          "it": "Queste cose sono tristi."
+        },
+        {
+          "fr": "Elle est sûre de sa réponse.",
+          "it": "Lei è sicura della sua risposta."
+        }
+      ]
+    },
+    {
+      "id": "modals",
+      "title_it": "Il verbo devoir e il sostantivo le devoir",
+      "explain_it": "Il verbo devoir esprime dovere, obbligo o necessità: je dois, tu dois, il doit, nous devons, vous devez, ils doivent. Al futuro la radice è devr-: je devrai, vous devrez. Come nome maschile, le devoir è il dovere (morale); al plurale les devoirs sono anche i compiti a casa (faire ses devoirs). In italiano si usano due parole diverse (doveri e compiti), in francese una sola.",
+      "examples": [
+        {
+          "fr": "Tu dois partir maintenant.",
+          "it": "Devi partire adesso."
+        },
+        {
+          "fr": "Les enfants font leurs devoirs.",
+          "it": "I bambini fanno i compiti."
+        }
+      ]
+    },
+    {
+      "id": "prepositions",
+      "title_it": "Il verbo douter e la preposizione de",
+      "explain_it": "Il verbo 'douter' si costruisce con la preposizione 'de' davanti al complemento: douter de quelqu'un, douter de quelque chose, cioè dubitare di qualcuno o di qualcosa. L'italiano usa la stessa struttura (dubitare di), quindi è un caso in cui l'associazione è diretta. Attenzione a non usare 'à' o 'sur'. Il nome 'le doute' (dubbio) è spesso usato in 'sans doute', che significa probabilmente.",
+      "examples": [
+        {
+          "fr": "Je doute de cette information.",
+          "it": "Dubito di questa informazione."
+        },
+        {
+          "fr": "Il doute de tout.",
+          "it": "Dubita di tutto."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "les élections législatives (f. pl.)",
+      "it": "le elezioni legislative",
+      "pos": "n"
+    },
+    {
+      "fr": "avoir lieu",
+      "it": "svolgersi, avere luogo",
+      "pos": "v"
+    },
+    {
+      "fr": "sans doute",
+      "it": "probabilmente",
+      "pos": "adv"
+    },
+    {
+      "fr": "le gouvernement",
+      "it": "il governo",
+      "pos": "n"
+    },
+    {
+      "fr": "le parti",
+      "it": "il partito",
+      "pos": "n"
+    },
+    {
+      "fr": "le centre-gauche",
+      "it": "il centro-sinistra",
+      "pos": "n"
+    },
+    {
+      "fr": "la droite",
+      "it": "la destra (politica)",
+      "pos": "n"
+    },
+    {
+      "fr": "la gauche",
+      "it": "la sinistra (politica)",
+      "pos": "n"
+    },
+    {
+      "fr": "présenter",
+      "it": "presentare",
+      "pos": "v",
+      "note": "présenter un candidat"
+    },
+    {
+      "fr": "le candidat",
+      "it": "il candidato",
+      "pos": "n",
+      "note": "f. la candidate"
+    },
+    {
+      "fr": "le politicien",
+      "it": "il politico",
+      "pos": "n",
+      "note": "f. la politicienne"
+    },
+    {
+      "fr": "le meeting",
+      "it": "il comizio",
+      "pos": "n"
+    },
+    {
+      "fr": "tenir",
+      "it": "tenere, organizzare",
+      "pos": "v",
+      "note": "tenir un meeting"
+    },
+    {
+      "fr": "en tout cas",
+      "it": "in ogni caso",
+      "pos": "adv"
+    },
+    {
+      "fr": "fameux",
+      "it": "famoso, rinomato (spesso ironico)",
+      "pos": "adj",
+      "note": "f. fameuse"
+    },
+    {
+      "fr": "original",
+      "it": "originale",
+      "pos": "adj",
+      "note": "f. originale"
+    },
+    {
+      "fr": "la chanson",
+      "it": "la canzone",
+      "pos": "n"
+    },
+    {
+      "fr": "surprendre",
+      "it": "sorprendere",
+      "pos": "v"
+    },
+    {
+      "fr": "long",
+      "it": "lungo",
+      "pos": "adj",
+      "note": "f. longue"
+    },
+    {
+      "fr": "la vérité",
+      "it": "la verità",
+      "pos": "n"
+    },
+    {
+      "fr": "l'adversaire (m./f.)",
+      "it": "l'avversario",
+      "pos": "n"
+    },
+    {
+      "fr": "la corruption",
+      "it": "la corruzione",
+      "pos": "n"
+    },
+    {
+      "fr": "la philosophie",
+      "it": "la filosofia",
+      "pos": "n"
+    },
+    {
+      "fr": "le devoir",
+      "it": "il dovere; al plurale i compiti",
+      "pos": "n"
+    },
+    {
+      "fr": "douter (de)",
+      "it": "dubitare (di)",
+      "pos": "v"
+    },
+    {
+      "fr": "sûr",
+      "it": "sicuro",
+      "pos": "adj",
+      "note": "f. sûre"
+    },
+    {
+      "fr": "triste",
+      "it": "triste",
+      "pos": "adj",
+      "note": "invariabile al femminile singolare"
+    },
+    {
+      "fr": "fermé",
+      "it": "chiuso",
+      "pos": "adj",
+      "note": "f. fermée"
+    },
+    {
+      "fr": "rassurer",
+      "it": "rassicurare",
+      "pos": "v"
+    },
+    {
+      "fr": "s'abstenir",
+      "it": "astenersi",
+      "pos": "v",
+      "note": "pronominale; come tenir"
+    },
+    {
+      "fr": "l'exploitation (f.)",
+      "it": "lo sfruttamento",
+      "pos": "n"
+    },
+    {
+      "fr": "l'intégrité (f.)",
+      "it": "l'integrità",
+      "pos": "n"
+    },
+    {
+      "fr": "jurer",
+      "it": "giurare",
+      "pos": "v"
+    },
+    {
+      "fr": "se libérer",
+      "it": "liberarsi, essere libero",
+      "pos": "v",
+      "note": "je ne pourrai pas me libérer = non potrò liberarmi"
+    },
+    {
+      "fr": "résoudre",
+      "it": "risolvere",
+      "pos": "v",
+      "note": "irregolare: je résous, nous résolvons"
+    },
+    {
+      "fr": "la situation",
+      "it": "la situazione",
+      "pos": "n"
+    },
+    {
+      "fr": "la solution",
+      "it": "la soluzione",
+      "pos": "n"
+    },
+    {
+      "fr": "urgent / urgente",
+      "it": "urgente",
+      "pos": "adj"
+    },
+    {
+      "fr": "voter",
+      "it": "votare",
+      "pos": "v"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Je ne serai pas long.",
+      "it": "Sarò breve.",
+      "note": "formula per aprire un intervento o un discorso"
+    },
+    {
+      "fr": "Qui sait ?",
+      "it": "Chissà?",
+      "note": "colloquiale, esprime un dubbio"
+    },
+    {
+      "fr": "C'est toujours la même chanson.",
+      "it": "È sempre la solita storia.",
+      "note": "detto di cose che si ripetono sempre"
+    },
+    {
+      "fr": "Ça ne me concerne pas.",
+      "it": "Non mi riguarda.",
+      "note": "tono neutro o un po' distaccato"
+    },
+    {
+      "fr": "Rassurez-vous.",
+      "it": "State tranquilli.",
+      "note": "con vous; con tu si dice 'rassure-toi'"
+    },
+    {
+      "fr": "Je vous le jure.",
+      "it": "Ve lo giuro.",
+      "note": "forma solenne, usata anche in tono ironico"
+    },
+    {
+      "fr": "faire cause commune",
+      "it": "fare causa comune",
+      "note": "allearsi con qualcuno contro un avversario"
+    },
+    {
+      "fr": "En tout cas",
+      "it": "In ogni caso",
+      "note": "per chiudere un discorso o tornare al punto"
+    },
+    {
+      "fr": "C'est ça, ton fameux plan ?",
+      "it": "Sarebbe questo il tuo famoso piano?",
+      "note": "tono ironico, critica bonaria"
+    }
+  ],
+  "notes_it": [
+    "Attenzione al genere: 'un politicien' (il politico) è maschile, mentre 'la politique' (la politica in generale) e 'une politique' (una linea politica o una politica di governo) sono femminili. L'italiano 'politica' copre tutti questi sensi con un solo termine.",
+    "Falso amico: 'un meeting' in francese è un comizio politico o un raduno (anche sportivo, per esempio l'atletica), non una riunione di lavoro. Per la riunione si usa 'une réunion'.",
+    "'Fameux' spesso ha valore ironico o colloquiale: 'ton fameux plan' significa 'il tuo famoso piano' con un tono di critica. Per il senso neutro di famoso si usa più spesso 'célèbre'.",
+    "Il dialogo contiene 'sans doute', molto usato per 'probabilmente'. Non confonderlo con 'sans aucun doute' che significa 'senza alcun dubbio'."
+  ],
+  "exercises": [
+    {
+      "id": "L054-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "futur-simple",
+      "prompt": "Come si dice 'Saremo lì domani'?",
+      "options": [
+        "Nous serons là demain.",
+        "Nous sommes là demain.",
+        "Nous serions là demain.",
+        "Nous serai là demain."
+      ],
+      "correct": 0,
+      "explain_it": "Il futuro di 'être' alla prima persona plurale è 'nous serons'; 'sommes' è il presente e 'serions' il condizionale."
+    },
+    {
+      "id": "L054-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "demonstratives",
+      "prompt": "Come si dice 'in questi giorni'?",
+      "options": [
+        "ces jours-ci",
+        "ces jours-là",
+        "cette jours-ci",
+        "ce jour-ci"
+      ],
+      "correct": 0,
+      "explain_it": "Per indicare un periodo vicino a chi parla si usa -ci dopo il nome; -là indica un tempo lontano."
+    },
+    {
+      "id": "L054-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "adjective-agreement",
+      "prompt": "Completa: 'Elle est très ___.' (triste)",
+      "options": [
+        "triste",
+        "tristes",
+        "tristesse",
+        "tristement"
+      ],
+      "correct": 0,
+      "explain_it": "Gli aggettivi in -e come 'triste' non cambiano al femminile singolare; cambiano solo al plurale."
+    },
+    {
+      "id": "L054-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "modals",
+      "prompt": "Nel contesto scolastico, 'les devoirs' significa:",
+      "options": [
+        "i compiti",
+        "i doveri morali",
+        "i debiti",
+        "gli esami"
+      ],
+      "correct": 0,
+      "explain_it": "Al plurale 'le devoir' indica i compiti per casa; al singolare indica il dovere morale."
+    },
+    {
+      "id": "L054-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "prepositions",
+      "prompt": "Quale preposizione completa la frase? 'Je doute ___ sa réponse.'",
+      "options": [
+        "de",
+        "à",
+        "sur",
+        "pour"
+      ],
+      "correct": 0,
+      "explain_it": "Il verbo 'douter' si costruisce con 'de', come 'dubitare di' in italiano."
+    },
+    {
+      "id": "L054-e06",
+      "type": "mcq",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Che cosa significa 'sans doute'?",
+      "options": [
+        "probabilmente",
+        "mai",
+        "dubbioso",
+        "senza domande"
+      ],
+      "correct": 0,
+      "explain_it": "'Sans doute' esprime una probabilità alta, come 'probabilmente' in italiano."
+    },
+    {
+      "id": "L054-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "futur-simple",
+      "prompt": "Il candidato sarà a Grenoble venerdì.",
+      "answers": [
+        "Le candidat sera à Grenoble vendredi"
+      ],
+      "distractors": [
+        "serait"
+      ],
+      "explain_it": "'Sera' è il futuro di 'être' alla terza persona singolare; 'serait' è il condizionale."
+    },
+    {
+      "id": "L054-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "demonstratives",
+      "prompt": "In questi giorni la città è molto tranquilla.",
+      "answers": [
+        "La ville est très calme ces jours-ci"
+      ],
+      "distractors": [
+        "jours-là"
+      ],
+      "explain_it": "Il dimostrativo con -ci va dopo il nome per indicare un periodo vicino."
+    },
+    {
+      "id": "L054-e09",
+      "type": "order",
+      "level": 1,
+      "concept": "adjective-agreement",
+      "prompt": "Le risposte di Marie sono tristi.",
+      "answers": [
+        "Les réponses de Marie sont tristes"
+      ],
+      "distractors": [
+        "triste"
+      ],
+      "explain_it": "L'aggettivo concorda con il plurale 'réponses', quindi prende la -s."
+    },
+    {
+      "id": "L054-e10",
+      "type": "order",
+      "level": 1,
+      "concept": "futur-simple",
+      "prompt": "Ti chiamerò quando avrò tempo.",
+      "answers": [
+        "Je t'appellerai quand j'aurai du temps"
+      ],
+      "distractors": [
+        "j'ai"
+      ],
+      "explain_it": "Anche in francese la subordinata con 'quand' va al futuro se la principale è al futuro."
+    },
+    {
+      "id": "L054-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "futur-simple",
+      "text": "Demain, nous ___ à Lyon.",
+      "answers": [
+        "serons"
+      ],
+      "hint": "(être, futuro)",
+      "prompt": "Domani saremo a Lione.",
+      "explain_it": "Il futuro di 'être' alla prima persona plurale è 'serons'."
+    },
+    {
+      "id": "L054-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "futur-simple",
+      "text": "Vous ___ le bon choix, j'en suis sûr.",
+      "answers": [
+        "ferez"
+      ],
+      "hint": "(faire, futuro)",
+      "prompt": "Farete la scelta giusta, ne sono sicuro.",
+      "explain_it": "'Faire' ha radice irregolare 'fer-' al futuro, con la desinenza -ez per 'vous'."
+    },
+    {
+      "id": "L054-e13",
+      "type": "cloze",
+      "level": 1,
+      "concept": "modals",
+      "text": "Tu ___ partir maintenant, il est tard.",
+      "answers": [
+        "dois"
+      ],
+      "hint": "(devoir, presente)",
+      "prompt": "Devi partire adesso, è tardi.",
+      "explain_it": "Con 'tu' il presente di 'devoir' è 'dois', come 'devi' in italiano."
+    },
+    {
+      "id": "L054-e14",
+      "type": "cloze",
+      "level": 1,
+      "concept": "prepositions",
+      "text": "Je doute ___ cette information.",
+      "answers": [
+        "de"
+      ],
+      "prompt": "Dubito di questa informazione.",
+      "explain_it": "La preposizione richiesta dal verbo 'douter' è 'de'."
+    },
+    {
+      "id": "L054-e15",
+      "type": "cloze",
+      "level": 1,
+      "concept": "adjective-agreement",
+      "text": "Elles sont ___ parce qu'il pleut.",
+      "answers": [
+        "tristes"
+      ],
+      "hint": "(triste, plurale)",
+      "prompt": "Sono tristi perché piove.",
+      "explain_it": "Con il soggetto 'elles' l'aggettivo 'triste' va al plurale con la -s."
+    },
+    {
+      "id": "L054-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "futur-simple",
+      "prompt": "Ti scriverò domani.",
+      "answers": [
+        "Je t'écrirai demain."
+      ],
+      "explain_it": "Il futuro di 'écrire' ha la radice 'écrir-' seguita dalla desinenza -ai."
+    },
+    {
+      "id": "L054-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "futur-simple",
+      "prompt": "Non sapremo il risultato prima di lunedì.",
+      "answers": [
+        "Nous ne saurons pas le résultat avant lundi"
+      ],
+      "explain_it": "Savoir al futuro ha la radice saur-: nous saurons; la negazione ne...pas circonda il verbo."
+    },
+    {
+      "id": "L054-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "demonstratives",
+      "prompt": "Questa settimana sono molto stanco.",
+      "answers": [
+        "Je suis très fatigué [cette semaine|cette semaine-ci]",
+        "[Cette semaine|Cette semaine-ci], je suis très fatigué"
+      ],
+      "explain_it": "Per 'questa settimana' si usa 'cette semaine-ci', con il dimostrativo e il suffisso -ci."
+    },
+    {
+      "id": "L054-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "demonstratives",
+      "prompt": "Questo mese lavoro molto.",
+      "answers": [
+        "Je travaille beaucoup [ce mois|ce mois-ci]",
+        "[Ce mois|Ce mois-ci], je travaille beaucoup"
+      ],
+      "explain_it": "Con 'mois' si usa 'ce mois-ci', con -ci a indicare il periodo vicino."
+    },
+    {
+      "id": "L054-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "Le notizie sono molto tristi.",
+      "answers": [
+        "Les nouvelles sont très tristes.",
+        "Les informations sont très tristes."
+      ],
+      "explain_it": "'Nouvelles' è femminile plurale, quindi l'aggettivo 'triste' prende la -s."
+    },
+    {
+      "id": "L054-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "Sei sicura della tua risposta?",
+      "answers": [
+        "Es-tu sûre de ta réponse ?",
+        "Tu es sûre de ta réponse ?",
+        "Est-ce que tu es sûre de ta réponse ?"
+      ],
+      "explain_it": "'Sûr' al femminile diventa 'sûre' perché si riferisce a una donna."
+    },
+    {
+      "id": "L054-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "modals",
+      "prompt": "Devo fare i compiti.",
+      "answers": [
+        "Je dois faire mes devoirs.",
+        "Je dois faire les devoirs."
+      ],
+      "explain_it": "Con 'devoir' seguito da un infinito il senso è 'dovere'; 'devoirs' al plurale significa compiti."
+    },
+    {
+      "id": "L054-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "Non dubito della sua onestà.",
+      "answers": [
+        "Je ne doute pas de son honnêteté"
+      ],
+      "explain_it": "Con la negazione, 'douter' mantiene la preposizione 'de' davanti al complemento."
+    },
+    {
+      "id": "L054-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Probabilmente arriverà in ritardo.",
+      "answers": [
+        "Il arrivera sans doute en retard",
+        "Il arrivera probablement en retard",
+        "Sans doute arrivera-t-il en retard"
+      ],
+      "explain_it": "Sans doute equivale a 'probabilmente' e si mette dopo il verbo."
+    },
+    {
+      "id": "L054-e25",
+      "type": "cloze",
+      "level": 2,
+      "concept": "futur-simple",
+      "text": "Quand je ___ à Paris, je te téléphonerai.",
+      "answers": [
+        "serai"
+      ],
+      "hint": "(être, futuro)",
+      "prompt": "Quando sarò a Parigi, ti telefonerò.",
+      "explain_it": "La subordinata con 'quand' va al futuro perché la principale è al futuro."
+    },
+    {
+      "id": "L054-e26",
+      "type": "cloze",
+      "level": 2,
+      "concept": "futur-simple",
+      "text": "Dès qu'il ___ le résultat, il nous préviendra.",
+      "answers": [
+        "aura"
+      ],
+      "hint": "(avoir, futuro)",
+      "prompt": "Appena avrà il risultato, ci avviserà.",
+      "explain_it": "Anche 'dès que' richiede il futuro nella subordinata quando la principale è al futuro."
+    },
+    {
+      "id": "L054-e27",
+      "type": "cloze",
+      "level": 2,
+      "concept": "futur-simple",
+      "text": "Vous ___ la vérité à la fin.",
+      "answers": [
+        "direz"
+      ],
+      "hint": "(dire, futuro)",
+      "prompt": "Alla fine direte la verità.",
+      "explain_it": "'Dire' al futuro perde la -e finale: dir-, poi la desinenza -ez."
+    },
+    {
+      "id": "L054-e28",
+      "type": "cloze",
+      "level": 2,
+      "concept": "demonstratives",
+      "text": "Nous restons à la maison ces jours-___.",
+      "answers": [
+        "ci"
+      ],
+      "prompt": "In questi giorni restiamo a casa.",
+      "explain_it": "Il suffisso -ci si aggiunge dopo 'jours' per indicare un periodo vicino."
+    },
+    {
+      "id": "L054-e29",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "text": "Ces histoires sont très ___.",
+      "answers": [
+        "tristes"
+      ],
+      "hint": "(triste, plurale)",
+      "prompt": "Queste storie sono molto tristi.",
+      "explain_it": "'Histoires' è femminile plurale, quindi l'aggettivo prende la -s."
+    },
+    {
+      "id": "L054-e30",
+      "type": "dictation",
+      "level": 2,
+      "concept": "futur-simple",
+      "text": "Je vous jure que je serai là.",
+      "explain_it": "La forma 'serai' è il futuro di 'être' alla prima persona singolare."
+    },
+    {
+      "id": "L054-e31",
+      "type": "dictation",
+      "level": 2,
+      "concept": "futur-simple",
+      "text": "Nous serons à Lille la semaine prochaine.",
+      "explain_it": "Il futuro 'serons' è il futuro di 'être' alla prima persona plurale."
+    },
+    {
+      "id": "L054-e32",
+      "type": "flash",
+      "level": 2,
+      "concept": "futur-simple",
+      "front": "Futuro di être e avoir",
+      "back": "être: je serai, tu seras, il/elle sera, nous serons, vous serez, ils/elles seront. avoir: j'aurai, tu auras, il/elle aura, nous aurons, vous aurez, ils/elles auront.",
+      "note": "Le desinenze sono regolari; cambia solo la radice."
+    },
+    {
+      "id": "L054-e33",
+      "type": "flash",
+      "level": 2,
+      "concept": "prepositions",
+      "front": "Douter: con quale preposizione si costruisce?",
+      "back": "douter de + nome o pronome tonico: 'Je doute de lui' (dubito di lui).",
+      "note": "Da ricordare come l'italiano 'dubitare di'."
+    },
+    {
+      "id": "L054-e34",
+      "type": "flash",
+      "level": 2,
+      "concept": "demonstratives",
+      "front": "Il suffisso -ci con i dimostrativi nel tempo: quando si usa?",
+      "back": "Per un periodo vicino a chi parla: ce mois-ci (questo mese), cette semaine-ci (questa settimana), ces jours-ci (in questi giorni). Per un tempo lontano si usa -là: ces jours-là.",
+      "note": "-ci = vicino nel tempo; -là = lontano nel tempo."
+    },
+    {
+      "id": "L054-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "futur-simple",
+      "prompt": "Quando il candidato parlerà stasera, noi saremo a casa.",
+      "answers": [
+        "Quand le candidat parlera ce soir, [nous serons|on sera] [à la maison|chez nous]"
+      ],
+      "explain_it": "Nella subordinata con 'quand' e nella principale il francese usa il futuro, come in italiano."
+    },
+    {
+      "id": "L054-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "futur-simple",
+      "ask": "Volgi al futuro semplice",
+      "prompt": "Il partito presenta un candidato.",
+      "answers": [
+        "Le parti présentera un candidat."
+      ],
+      "explain_it": "Il futuro di 'présenter' si forma con la radice dell'infinito più -era per la terza persona."
+    },
+    {
+      "id": "L054-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "futur-simple",
+      "ask": "Volgi al futuro semplice",
+      "prompt": "Il sindaco non risponde mai alle domande.",
+      "answers": [
+        "Le maire ne répondra jamais aux questions."
+      ],
+      "explain_it": "'Répondre' al futuro perde la -e finale: répondr- più -a per la terza persona."
+    },
+    {
+      "id": "L054-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "modals",
+      "prompt": "Dobbiamo dire la verità ai cittadini.",
+      "answers": [
+        "[Nous devons|On doit] dire la vérité aux citoyens"
+      ],
+      "explain_it": "Con 'devoir' seguito da un infinito si esprime l'obbligo; 'aux' è la contrazione di 'à' e 'les'."
+    },
+    {
+      "id": "L054-e39",
+      "type": "write",
+      "level": 3,
+      "concept": "modals",
+      "ask": "Traduci in francese, con devoir al futuro semplice",
+      "prompt": "Dovete scegliere il candidato giusto.",
+      "answers": [
+        "Vous devrez choisir le bon candidat."
+      ],
+      "explain_it": "Il futuro di 'devoir' ha la radice 'devr-' e la desinenza -ez per 'vous'."
+    },
+    {
+      "id": "L054-e40",
+      "type": "write",
+      "level": 3,
+      "concept": "prepositions",
+      "prompt": "Dubitano di tutto, anche di me.",
+      "answers": [
+        "[Ils|Elles] doutent de tout, [même|y compris] de moi"
+      ],
+      "explain_it": "'Douter' regge 'de' sia con 'tout' sia con il pronome tonico 'moi'."
+    },
+    {
+      "id": "L054-e41",
+      "type": "write",
+      "level": 3,
+      "concept": "demonstratives",
+      "prompt": "In questi giorni la politica è molto noiosa e il governo non fa nulla.",
+      "answers": [
+        "Ces jours-ci, la politique est très ennuyeuse et le gouvernement ne fait rien."
+      ],
+      "explain_it": "Il dimostrativo con -ci va sul nome del periodo di tempo, e 'ennuyeuse' concorda con 'politique'."
+    },
+    {
+      "id": "L054-e42",
+      "type": "write",
+      "level": 3,
+      "concept": "adjective-agreement",
+      "prompt": "Le tue amiche sono molto tristi, e tu?",
+      "answers": [
+        "Tes amies sont très tristes, et toi ?",
+        "Tes copines sont très tristes, et toi ?"
+      ],
+      "explain_it": "'Amies' è femminile plurale, quindi l'aggettivo 'triste' prende la -s."
+    },
+    {
+      "id": "L054-e43",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Ti giuro che sarò breve.",
+      "answers": [
+        "Je [te|vous] jure que je ne serai pas long",
+        "Je [te|vous] jure que je serai bref",
+        "Je te jure que je serai brève"
+      ],
+      "explain_it": "'Je ne serai pas long' è la formula da usare all'inizio di un discorso; 'bref' e 'brève' concordano con chi parla."
+    },
+    {
+      "id": "L054-e44",
+      "type": "dictation",
+      "level": 3,
+      "concept": "futur-simple",
+      "text": "Ce mois-ci, le candidat promettra beaucoup de choses, mais il ne dira pas la vérité sur ses projets.",
+      "explain_it": "Il futuro 'promettra' e 'dira' indicano azioni che avverranno più avanti nel tempo."
+    },
+    {
+      "id": "L054-e45",
+      "type": "flash",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "front": "Aggettivi in -e (triste) e in -eux (fameux): come cambiano al femminile?",
+      "back": "Gli aggettivi in -e (triste) sono uguali al maschile e al femminile singolare e aggiungono -s al plurale. Quelli in -eux cambiano al femminile: fameux / fameuse.",
+      "note": "Per 'fameux' il femminile è 'fameuse', non 'fameuxe'."
+    },
+    {
+      "id": "L054-e46",
+      "type": "cloze",
+      "level": 2,
+      "concept": "futur-simple",
+      "text": "Nous ___ pour ce candidat dimanche.",
+      "answers": [
+        "voterons"
+      ],
+      "hint": "(voter, futur)",
+      "prompt": "Voteremo per questo candidato domenica.",
+      "explain_it": "Voter è regolare: radice dell'infinito + -erons."
+    },
+    {
+      "id": "L054-e47",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Giuro di dire la verità.",
+      "answers": [
+        "Je jure de dire la vérité."
+      ],
+      "explain_it": "Jurer de + infinito = giurare di."
+    }
+  ]
+}

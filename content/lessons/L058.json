@@ -1,0 +1,1022 @@
+{
+  "n": 58,
+  "title_fr": "Cinquante-huitième leçon",
+  "title_it": "Cinquantottesima lezione",
+  "review": false,
+  "status": "verified",
+  "source": "fa2f8a2c p27-34",
+  "theme_it": "Due amici programmano un weekend lungo ad Auxerre: uno è entusiasta e ha già pronto il programma delle visite, l'altro è pigro, teme la folla e le spese e alla fine si lamenta del tempo e del traffico. La lezione ruota attorno al futuro (progetti e previsioni) e a un'ampia serie di espressioni colloquiali.",
+  "grammar": [
+    {
+      "id": "futur-simple",
+      "title_it": "Il futuro semplice e i suoi verbi irregolari",
+      "explain_it": "Il futuro semplice si forma aggiungendo all'infinito (per -er e -ir) o alla forma senza -e finale (per -re) le desinenze -ai, -as, -a, -ons, -ez, -ont. Esempi: je finirai, tu vendras. Alcuni verbi hanno una radice irregolare da memorizzare: être → ser-, avoir → aur-, faire → fer-, aller → ir-, pouvoir → pourr-, falloir → faudr-, pleuvoir → pleuvr-. Come in italiano, il futuro semplice serve per progetti e previsioni, ed è molto frequente nelle previsioni del tempo; per un futuro imminente il francese ha anche il futuro prossimo con aller (je vais partir). Nelle subordinate introdotte da quand o lorsque, il verbo va al futuro anche se in italiano useremmo il presente.",
+      "examples": [
+        {
+          "fr": "Demain, il fera beau.",
+          "it": "Domani farà bel tempo."
+        },
+        {
+          "fr": "Nous pourrons venir samedi.",
+          "it": "Potremo venire sabato."
+        },
+        {
+          "fr": "Quand tu seras prêt, on partira.",
+          "it": "Quando sarai pronto, partiremo."
+        }
+      ]
+    },
+    {
+      "id": "il-y-a",
+      "title_it": "Il y a / il y aura (c'è, ci sarà)",
+      "explain_it": "Il y a significa 'c'è' o 'ci sono' e resta sempre alla forma invariata, anche con un plurale. Per il futuro si usa il y aura (ci sarà, ci saranno): la forma al futuro segue la stessa logica di avoir, con la radice aur-. Quando dopo un nome c'è un verbo all'infinito, si usa à + infinito con il valore di 'da fare' o 'da vedere': il y a beaucoup de choses à voir. Per il passato si usa il y avait.",
+      "examples": [
+        {
+          "fr": "Il y aura un orage demain.",
+          "it": "Domani ci sarà un temporale."
+        },
+        {
+          "fr": "Il y a plein de choses à faire ici.",
+          "it": "Ci sono un sacco di cose da fare qui."
+        }
+      ]
+    },
+    {
+      "id": "connectors",
+      "title_it": "Puisque, pourtant e gli altri connettori",
+      "explain_it": "Puisque introduce una causa già nota all'interlocutore ('visto che', 'dal momento che') e davanti a il/elle/on diventa puisqu'il, puisqu'elle. Pourtant esprime un contrasto ('eppure', 'tuttavia') e può stare all'inizio della frase, dopo il soggetto o dopo il verbo: rispetto all'italiano la posizione è più libera. D'abord significa 'prima di tutto' e serve a ordinare un discorso.",
+      "examples": [
+        {
+          "fr": "Puisqu'il est tard, je rentre.",
+          "it": "Visto che è tardi, torno a casa."
+        },
+        {
+          "fr": "Il pleut ; pourtant, il fait chaud.",
+          "it": "Piove; eppure fa caldo."
+        }
+      ]
+    },
+    {
+      "id": "pronoun-cod",
+      "title_it": "I pronomi complemento diretto (le, la, les, l')",
+      "explain_it": "Il pronome complemento diretto sostituisce una cosa o una persona già nominata e si mette davanti al verbo (anche davanti all'ausiliare al passato prossimo e davanti all'infinito): le, la, les, o l' davanti a vocale. Con la negazione ne ... pas il pronome resta tra ne e il verbo: je ne l'oublierai pas. Attenzione: la forma le si usa anche per un oggetto neutro di cui si parla in generale, come l'italiano lo.",
+      "examples": [
+        {
+          "fr": "Je les achète au marché.",
+          "it": "Li compro al mercato."
+        },
+        {
+          "fr": "Je ne l'oublierai jamais.",
+          "it": "Non la dimenticherò mai."
+        }
+      ]
+    },
+    {
+      "id": "prepositions",
+      "title_it": "À e de davanti all'infinito",
+      "explain_it": "Dopo un nome o un aggettivo, l'infinito è introdotto da à quando indica 'da fare' o 'da vedere' (une chose à voir). Dopo espressioni come avoir la flemme, avoir les moyens e verbi come essayer, l'infinito è introdotto da de. Con mettre si usa à per indicare il tempo impiegato: j'ai mis deux heures à arriver (ci ho messo due ore ad arrivare). Ricordati la preposizione giusta: in italiano non c'è sempre la stessa corrispondenza.",
+      "examples": [
+        {
+          "fr": "Il y a une ville à visiter.",
+          "it": "C'è una città da visitare."
+        },
+        {
+          "fr": "Je n'ai pas les moyens de partir.",
+          "it": "Non posso permettermi di partire."
+        }
+      ]
+    },
+    {
+      "id": "adjective-position",
+      "title_it": "La posizione degli aggettivi (prima o dopo il nome)",
+      "explain_it": "In francese molti aggettivi comuni si collocano prima del nome: beau, bon, grand, petit, long, vieux, jeune, joli, nouveau, premier. Altri, soprattutto i colori, le nazionalità, le forme e i participi usati come aggettivi, stanno dopo il nome: une chemise bleue, une maison ancienne. Il cambio di posizione può anche cambiare il senso: un grand homme (un uomo importante) è diverso da un homme grand (un uomo alto).",
+      "examples": [
+        {
+          "fr": "C'est une longue histoire.",
+          "it": "È una lunga storia."
+        },
+        {
+          "fr": "Il porte un pull rouge.",
+          "it": "Indossa un maglione rosso."
+        }
+      ]
+    },
+    {
+      "id": "passe-compose-etre",
+      "title_it": "Il passato prossimo con essere",
+      "explain_it": "Alcuni verbi di movimento o di stato (aller, partir, arriver, rester, venir, entrer, sortir) e tutti i verbi pronominali formano il passato prossimo con l'ausiliare essere. Il participio concorda con il soggetto in genere e numero: je suis allé se parla un uomo, je suis allée se parla una donna. Con on si può avere un plurale colloquiale: on est allés. L'italiano fa lo stesso con essere, ma la concordanza in francese è obbligatoria anche nella scrittura.",
+      "examples": [
+        {
+          "fr": "Elle est partie tôt.",
+          "it": "È partita presto."
+        },
+        {
+          "fr": "Nous sommes allés au marché.",
+          "it": "Siamo andati al mercato."
+        }
+      ]
+    },
+    {
+      "id": "negation",
+      "title_it": "La negazione: ne ... pas e pas un",
+      "explain_it": "La negazione ne ... pas circonda l'ausiliare nel passato prossimo (je n'ai pas mangé) e tutti i pronomi che precedono il verbo stanno tra ne e il verbo. Per rafforzare la negazione con un nome singolare si usa pas un / pas une con il senso di 'nemmeno uno': pas un seul retard significa 'nemmeno un ritardo' e in questo caso si traduce con 'nessun'.",
+      "examples": [
+        {
+          "fr": "Il n'y a pas un seul nuage.",
+          "it": "Non c'è nemmeno una nuvola."
+        },
+        {
+          "fr": "Je n'ai pas eu un moment de libre.",
+          "it": "Non ho avuto un attimo libero."
+        }
+      ]
+    },
+    {
+      "id": "interrogatives",
+      "title_it": "Le domande con qu'est-ce que e qu'est-ce qu'il y a",
+      "explain_it": "Qu'est-ce que introduce una domanda aperta sull'oggetto ('che cosa'). Nella lingua parlata si usa spesso la forma fissa qu'est-ce qu'il y a?, che equivale all'italiano 'che c'è?' o 'che succede?' e si usa quando si nota che qualcuno è preoccupato o di cattivo umore. Non è da confondere con qu'est-ce qui, che fa da soggetto.",
+      "examples": [
+        {
+          "fr": "Qu'est-ce que tu fais ce soir ?",
+          "it": "Che fai stasera?"
+        },
+        {
+          "fr": "Qu'est-ce qu'il y a ? Tu as l'air fatigué.",
+          "it": "Che succede? Sembri stanco."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le jour férié",
+      "it": "il giorno festivo",
+      "pos": "n"
+    },
+    {
+      "fr": "entier / entière",
+      "it": "intero, intera",
+      "pos": "adj",
+      "note": "quatre jours entiers"
+    },
+    {
+      "fr": "le ciel",
+      "it": "il cielo",
+      "pos": "n"
+    },
+    {
+      "fr": "chouette",
+      "it": "bello, carino, simpatico (colloquiale)",
+      "pos": "adj"
+    },
+    {
+      "fr": "le guide de voyage",
+      "it": "la guida turistica",
+      "pos": "n"
+    },
+    {
+      "fr": "la vieille ville",
+      "it": "il centro storico",
+      "pos": "n"
+    },
+    {
+      "fr": "l'abbaye (f.)",
+      "it": "l'abbazia",
+      "pos": "n"
+    },
+    {
+      "fr": "l'hôtel particulier (m.)",
+      "it": "il palazzo signorile, la dimora privata",
+      "pos": "n"
+    },
+    {
+      "fr": "incontournable",
+      "it": "imperdibile, da non perdere",
+      "pos": "adj"
+    },
+    {
+      "fr": "la flemme",
+      "it": "la pigrizia, la voglia di non fare nulla",
+      "pos": "n",
+      "note": "avoir la flemme de"
+    },
+    {
+      "fr": "le petit matin",
+      "it": "le prime ore del mattino",
+      "pos": "n"
+    },
+    {
+      "fr": "la plupart",
+      "it": "la maggior parte",
+      "pos": "n"
+    },
+    {
+      "fr": "la Bourgogne",
+      "it": "la Borgogna",
+      "pos": "n"
+    },
+    {
+      "fr": "l'embouteillage (m.)",
+      "it": "l'ingorgo stradale",
+      "pos": "n"
+    },
+    {
+      "fr": "la météo",
+      "it": "le previsioni del tempo",
+      "pos": "n"
+    },
+    {
+      "fr": "ensoleillé / ensoleillée",
+      "it": "soleggiato",
+      "pos": "adj"
+    },
+    {
+      "fr": "complet / complète",
+      "it": "al completo, pieno",
+      "pos": "adj"
+    },
+    {
+      "fr": "ruineux / ruineuse",
+      "it": "costoso, dispendioso",
+      "pos": "adj"
+    },
+    {
+      "fr": "les moyens",
+      "it": "i mezzi (economici)",
+      "pos": "n",
+      "note": "avoir les moyens de"
+    },
+    {
+      "fr": "têtu / têtue",
+      "it": "testardo, ostinato",
+      "pos": "adj"
+    },
+    {
+      "fr": "abandonner",
+      "it": "arrendersi, mollare, cedere",
+      "pos": "v"
+    },
+    {
+      "fr": "puisque",
+      "it": "dal momento che, visto che",
+      "pos": "conj"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Qu'est-ce qu'il y a ?",
+      "it": "Che c'è? Che succede?",
+      "note": "tono colloquiale, si usa quando qualcuno sembra preoccupato"
+    },
+    {
+      "fr": "Ça vaut la peine.",
+      "it": "Vale la pena.",
+      "note": "anche: ça vaut le détour, vale la deviazione"
+    },
+    {
+      "fr": "Il y a un monde fou.",
+      "it": "C'è una folla pazzesca.",
+      "note": "uso colloquiale per dire che c'è molta gente"
+    },
+    {
+      "fr": "faire le pont",
+      "it": "fare il ponte (prendere un giorno libero per un weekend lungo)",
+      "note": "tipico dei giorni festivi di mezza settimana"
+    },
+    {
+      "fr": "Il pleut des cordes.",
+      "it": "Piove a catinelle.",
+      "note": "lett. piove corde"
+    },
+    {
+      "fr": "Il fait un froid de canard.",
+      "it": "Fa un freddo cane.",
+      "note": "espressione colloquiale"
+    },
+    {
+      "fr": "changer les idées",
+      "it": "cambiare aria, distrarsi"
+    },
+    {
+      "fr": "avoir la flemme de",
+      "it": "non avere voglia di, essere pigri a",
+      "note": "molto colloquiale"
+    },
+    {
+      "fr": "têtu comme une mule",
+      "it": "testardo come un mulo",
+      "note": "usato anche con mulet al maschile"
+    },
+    {
+      "fr": "jeter l'argent par les fenêtres",
+      "it": "buttare via i soldi",
+      "note": "lett. gettare il denaro dalla finestra"
+    },
+    {
+      "fr": "J'abandonne !",
+      "it": "Mi arrendo!",
+      "note": "esclamazione familiare"
+    },
+    {
+      "fr": "À vrai dire",
+      "it": "A dire il vero",
+      "note": "per introdurre un'opinione sincera"
+    }
+  ],
+  "notes_it": [
+    "Faire le pont: quando un festivo cade di martedì o giovedì, molti francesi prendono il giorno lavorativo fra il festivo e il fine settimana per fare un ponte di quattro giorni. In Italia si dice 'fare il ponte' con lo stesso significato.",
+    "Falsi amici: la flemme (francese) significa pigrizia, non flemma (che in italiano indica calma e sangue freddo); ruineux significa costoso, non rovinoso; particulier nel senso di 'privato' (un particulier, un hôtel particulier) non è 'particolare'.",
+    "Chouette è in origine il gufo, ma nel parlato è un aggettivo di approvazione (bello, carino, bravo) e può anche essere un'esclamazione, come nell'uso di 'figo' o 'bello' in italiano. È un registro colloquiale, da non usare in contesti formali.",
+    "Il condizionale usa la stessa radice del futuro (ser-, fer-, pourr-, aur-) con le desinenze dell'imperfetto (-ais, -ait); per distinguerli basta guardare la desinenza -ai/-as/-a del futuro."
+  ],
+  "exercises": [
+    {
+      "id": "L058-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "futur-simple",
+      "prompt": "Completa la frase: « Demain il ___ beau. » (faire, futuro semplice)",
+      "options": [
+        "fait",
+        "fera",
+        "faira",
+        "fasse"
+      ],
+      "correct": 1,
+      "explain_it": "Il futuro di faire ha la radice irregolare fer-, quindi la forma per il è fera."
+    },
+    {
+      "id": "L058-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "futur-simple",
+      "prompt": "Come si dice in francese 'Potremo venire sabato'?",
+      "options": [
+        "Nous pouvons venir samedi.",
+        "Nous pourrions venir samedi.",
+        "Nous pourrons venir samedi.",
+        "Nous pouvions venir samedi."
+      ],
+      "correct": 2,
+      "explain_it": "Pouvoir al futuro ha la radice pourr-: nous pourrons. Il condizionale pourrions esprime un'ipotesi, non un futuro certo."
+    },
+    {
+      "id": "L058-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "il-y-a",
+      "prompt": "Completa la frase: « Samedi, ___ un concert en ville. »",
+      "options": [
+        "il y a",
+        "il y avait",
+        "il y aura",
+        "il y eut"
+      ],
+      "correct": 2,
+      "explain_it": "Per un evento futuro si usa il futuro di il y a, cioè il y aura, che resta invariato anche con un plurale."
+    },
+    {
+      "id": "L058-e04",
+      "type": "order",
+      "level": 1,
+      "concept": "futur-simple",
+      "prompt": "Domani farà bel tempo.",
+      "answers": [
+        "Demain il fera beau."
+      ],
+      "distractors": [
+        "fait",
+        "pleut"
+      ],
+      "explain_it": "Faire al futuro ha radice irregolare fer-; il tempo atmosferico è impersonale: il fera beau."
+    },
+    {
+      "id": "L058-e05",
+      "type": "order",
+      "level": 1,
+      "concept": "il-y-a",
+      "prompt": "Domani ci sarà molta gente.",
+      "answers": [
+        "Demain il y aura beaucoup de monde."
+      ],
+      "distractors": [
+        "avait",
+        "ont"
+      ],
+      "explain_it": "Con il futuro si scrive il y aura, non il y a: la forma del presente vale solo per il momento attuale."
+    },
+    {
+      "id": "L058-e06",
+      "type": "mcq",
+      "level": 1,
+      "concept": "register",
+      "prompt": "Nel parlato, l'aggettivo « chouette » significa:",
+      "options": [
+        "bello, carino, simpatico",
+        "gufo",
+        "piccolo, minuscolo",
+        "fortunato"
+      ],
+      "correct": 0,
+      "explain_it": "Chouette vuol dire gufo, ma nel parlato è un aggettivo colloquiale di approvazione."
+    },
+    {
+      "id": "L058-e07",
+      "type": "mcq",
+      "level": 1,
+      "concept": "false-friends",
+      "prompt": "Un « hôtel particulier » è:",
+      "options": [
+        "una dimora signorile",
+        "un albergo particolare",
+        "un albergo economico",
+        "un ostello per giovani"
+      ],
+      "correct": 0,
+      "explain_it": "Particulier qui significa privato, quindi un hôtel particulier è un palazzo di città, non un albergo speciale."
+    },
+    {
+      "id": "L058-e08",
+      "type": "mcq",
+      "level": 1,
+      "concept": "interrogatives",
+      "prompt": "Come si chiede in francese 'Che c'è? Che succede?'",
+      "options": [
+        "Qu'est-ce qu'il y a ?",
+        "Quoi qu'il y a ?",
+        "Il y a quoi, est-ce ?",
+        "Qu'il y a est-ce ?"
+      ],
+      "correct": 0,
+      "explain_it": "Qu'est-ce qu'il y a ? è la forma colloquiale fissa per chiedere che cosa non va."
+    },
+    {
+      "id": "L058-e09",
+      "type": "cloze",
+      "level": 1,
+      "concept": "pronoun-cod",
+      "text": "Ces chaussures sont jolies, je ___ achète.",
+      "answers": [
+        "les"
+      ],
+      "hint": "(pronome complemento diretto, plurale)",
+      "prompt": "Queste scarpe sono belle, le compro.",
+      "explain_it": "Il pronome les sostituisce un complemento diretto plurale e va prima del verbo: je les achète."
+    },
+    {
+      "id": "L058-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "prepositions",
+      "text": "Il y a beaucoup de choses ___ faire ici.",
+      "answers": [
+        "à"
+      ],
+      "hint": "(preposizione)",
+      "prompt": "Ci sono molte cose da fare qui.",
+      "explain_it": "Dopo un nome, il senso di 'da fare' si esprime con à più l'infinito."
+    },
+    {
+      "id": "L058-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "connectors",
+      "text": "Il faisait froid ; ___, la météo annonçait du soleil.",
+      "answers": [
+        "pourtant",
+        "Pourtant"
+      ],
+      "hint": "(avverbio: eppure)",
+      "prompt": "Faceva freddo; eppure le previsioni annunciavano il sole.",
+      "explain_it": "Pourtant introduce un contrasto con la frase precedente, come l'italiano eppure."
+    },
+    {
+      "id": "L058-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "passe-compose-etre",
+      "text": "Je ___ allé à Lyon l'an dernier.",
+      "answers": [
+        "suis"
+      ],
+      "hint": "(être, presente)",
+      "prompt": "Sono andato a Lione l'anno scorso.",
+      "explain_it": "Aller forma il passato prossimo con essere, quindi je suis allé (o allée per una donna)."
+    },
+    {
+      "id": "L058-e13",
+      "type": "cloze",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "text": "Il ___ mis deux heures pour venir.",
+      "answers": [
+        "a"
+      ],
+      "hint": "(avoir, presente)",
+      "prompt": "Ci ha messo due ore per venire.",
+      "explain_it": "Mettre è un verbo transitivo e forma il passato prossimo con avoir: il a mis."
+    },
+    {
+      "id": "L058-e14",
+      "type": "order",
+      "level": 1,
+      "concept": "negation",
+      "prompt": "Oggi non è un giorno festivo.",
+      "answers": [
+        "Aujourd'hui, ce n'est pas un jour férié.",
+        "Ce n'est pas un jour férié aujourd'hui."
+      ],
+      "distractors": [
+        "n'était",
+        "une"
+      ],
+      "explain_it": "La negazione ne ... pas circonda il verbo essere: ce n'est pas un jour férié."
+    },
+    {
+      "id": "L058-e15",
+      "type": "order",
+      "level": 1,
+      "concept": "adjective-position",
+      "prompt": "Hanno fatto una lunga passeggiata.",
+      "answers": [
+        "Ils ont fait une longue promenade."
+      ],
+      "distractors": [
+        "grande",
+        "courte"
+      ],
+      "explain_it": "Long è un aggettivo che si mette prima del nome: une longue promenade."
+    },
+    {
+      "id": "L058-e16",
+      "type": "mcq",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "Nel contesto dei prezzi, l'aggettivo « ruineux » significa:",
+      "options": [
+        "costoso, dispendioso",
+        "rovinoso, che fa danni",
+        "in rovina, diroccato",
+        "affollato"
+      ],
+      "correct": 0,
+      "explain_it": "Ruineux vuol dire costoso; l'italiano rovinoso è un falso amico."
+    },
+    {
+      "id": "L058-e17",
+      "type": "cloze",
+      "level": 2,
+      "concept": "false-friends",
+      "text": "Les hôtels sont très ___ en été.",
+      "answers": [
+        "ruineux",
+        "chers",
+        "coûteux"
+      ],
+      "hint": "(aggettivo: costoso)",
+      "prompt": "Gli alberghi sono molto cari d'estate.",
+      "explain_it": "Ruineux è un sinonimo di cher nel senso di costoso, non di rovinoso."
+    },
+    {
+      "id": "L058-e18",
+      "type": "cloze",
+      "level": 2,
+      "concept": "futur-simple",
+      "text": "Demain, nous ___ le train pour Lyon.",
+      "answers": [
+        "prendrons"
+      ],
+      "hint": "(prendre, futuro semplice)",
+      "prompt": "Domani prenderemo il treno per Lione.",
+      "explain_it": "Prendre al futuro ha la radice prendr- e la desinenza -ons per nous."
+    },
+    {
+      "id": "L058-e19",
+      "type": "cloze",
+      "level": 2,
+      "concept": "futur-simple",
+      "text": "Quand tu ___ prêt, appelle-moi.",
+      "answers": [
+        "seras"
+      ],
+      "hint": "(être, futuro semplice)",
+      "prompt": "Quando sarai pronto, chiamami.",
+      "explain_it": "Être al futuro ha la radice irregolare ser-; con quand il futuro va anche nella subordinata."
+    },
+    {
+      "id": "L058-e20",
+      "type": "cloze",
+      "level": 2,
+      "concept": "connectors",
+      "text": "Nous rentrons, ___ est tard.",
+      "answers": [
+        "puisqu'il"
+      ],
+      "hint": "(congiunzione causale: visto che)",
+      "prompt": "Torniamo a casa, visto che è tardi.",
+      "explain_it": "Puisque davanti a il diventa puisqu'il e introduce una causa già nota."
+    },
+    {
+      "id": "L058-e21",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-cod",
+      "text": "J'adore ce film, je ___ regarde souvent.",
+      "answers": [
+        "le"
+      ],
+      "hint": "(pronome complemento diretto, maschile singolare)",
+      "prompt": "Adoro questo film, lo guardo spesso.",
+      "explain_it": "Le sostituisce ce film e va davanti al verbo regarde."
+    },
+    {
+      "id": "L058-e22",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adjective-position",
+      "text": "C'est la ___ ville de Rome.",
+      "answers": [
+        "vieille"
+      ],
+      "hint": "(vieux, femminile, prima del nome)",
+      "prompt": "Questa è la città vecchia di Roma.",
+      "explain_it": "Vieux si mette prima del nome e al femminile diventa vieille."
+    },
+    {
+      "id": "L058-e23",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adjective-position",
+      "text": "Elle porte une chemise ___.",
+      "answers": [
+        "bleue"
+      ],
+      "hint": "(bleu, femminile, dopo il nome)",
+      "prompt": "Lei indossa una camicia azzurra.",
+      "explain_it": "I colori si mettono di solito dopo il nome, e bleu concorda al femminile con chemise."
+    },
+    {
+      "id": "L058-e24",
+      "type": "cloze",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "text": "Hier, elle ___ allée à Paris.",
+      "answers": [
+        "est"
+      ],
+      "hint": "(aller, passato prossimo)",
+      "prompt": "Ieri lei è andata a Parigi.",
+      "explain_it": "Aller usa essere come ausiliare, e il participio allée concorda con elle."
+    },
+    {
+      "id": "L058-e25",
+      "type": "cloze",
+      "level": 2,
+      "concept": "il-y-a",
+      "text": "L'an prochain, il ___ des travaux ici.",
+      "answers": [
+        "y aura"
+      ],
+      "hint": "(futuro di il y a)",
+      "prompt": "L'anno prossimo ci saranno dei lavori qui.",
+      "explain_it": "Il futuro di il y a è il y aura, invariato anche con un complemento plurale."
+    },
+    {
+      "id": "L058-e26",
+      "type": "cloze",
+      "level": 2,
+      "concept": "prepositions",
+      "text": "J'ai la flemme ___ sortir ce soir.",
+      "answers": [
+        "de"
+      ],
+      "hint": "(preposizione prima dell'infinito)",
+      "prompt": "Non ho voglia di uscire stasera.",
+      "explain_it": "Avoir la flemme è seguito da de più l'infinito, come avere voglia di."
+    },
+    {
+      "id": "L058-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "futur-simple",
+      "prompt": "Domani nevicherà.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Demain il neigera.",
+        "Il neigera demain."
+      ],
+      "explain_it": "Neiger al futuro semplice: il neigera (infinito + -a)."
+    },
+    {
+      "id": "L058-e28",
+      "type": "write",
+      "level": 2,
+      "concept": "futur-simple",
+      "prompt": "Noi saremo a casa domani.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Nous serons à la maison demain.",
+        "On sera à la maison demain."
+      ],
+      "explain_it": "Être al futuro: je serai, nous serons; con on si usa la forme sera."
+    },
+    {
+      "id": "L058-e29",
+      "type": "write",
+      "level": 2,
+      "concept": "futur-simple",
+      "prompt": "Ti chiamerò sabato.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Je [t'appellerai|vous appellerai|te téléphonerai|vous téléphonerai] samedi.",
+        "Samedi, je [t'appellerai|vous appellerai|te téléphonerai|vous téléphonerai]."
+      ],
+      "explain_it": "Appeler al futuro raddoppia la l (appellerai); téléphoner a qualcuno si costruisce con il complemento indiretto."
+    },
+    {
+      "id": "L058-e30",
+      "type": "write",
+      "level": 2,
+      "concept": "il-y-a",
+      "prompt": "Ci sarà un temporale domani.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Il y aura un orage demain.",
+        "Demain, il y aura un orage."
+      ],
+      "explain_it": "Per dire 'ci sarà' si usa il y aura, con la struttura invariata."
+    },
+    {
+      "id": "L058-e31",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-cod",
+      "prompt": "Non la dimenticherò mai.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Je ne l'oublierai jamais."
+      ],
+      "explain_it": "Il pronome l' sostituisce un complemento femminile e va tra ne e il verbo."
+    },
+    {
+      "id": "L058-e32",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "prompt": "Ieri siamo andati al mercato.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Hier, [nous sommes|on est] all[és|ées] au marché.",
+        "[Nous sommes|On est] all[és|ées] au marché hier."
+      ],
+      "explain_it": "Aller usa essere, e il participio allés va al plurale con soggetto nous; con on è accettato il plurale colloquiale."
+    },
+    {
+      "id": "L058-e33",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "prompt": "Lei è partita presto.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Elle est partie [tôt|de bonne heure]."
+      ],
+      "explain_it": "Partir usa essere, e il participio prende la desinenza -e perché il soggetto è femminile."
+    },
+    {
+      "id": "L058-e34",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ci ho messo due ore per arrivare.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "J'ai mis deux heures pour arriver.",
+        "J'ai mis deux heures à arriver."
+      ],
+      "explain_it": "Mettre forma il passato prossimo con avoir (j'ai mis), e per il tempo impiegato si può usare pour o à."
+    },
+    {
+      "id": "L058-e35",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "Ci sono molte cose da vedere in città.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Il y a beaucoup de choses à voir [en|dans la] ville.",
+        "Il y a plein de choses à voir [en|dans la] ville."
+      ],
+      "explain_it": "Dopo choses il verbo all'infinito si collega con à: des choses à voir."
+    },
+    {
+      "id": "L058-e36",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "Non ho i mezzi per comprare una casa.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Je n'ai pas les moyens d'acheter une maison."
+      ],
+      "explain_it": "Avoir les moyens è seguito da de più l'infinito, qui elisa in d'acheter."
+    },
+    {
+      "id": "L058-e37",
+      "type": "write",
+      "level": 2,
+      "concept": "negation",
+      "prompt": "Non c'è stato un solo ritardo.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Il n'y a pas eu un seul retard."
+      ],
+      "explain_it": "Pas un seul significa 'nemmeno uno'; nel passato prossimo ne ... pas circonda l'ausiliare avoir."
+    },
+    {
+      "id": "L058-e38",
+      "type": "write",
+      "level": 2,
+      "concept": "interrogatives",
+      "prompt": "Che succede?",
+      "ask": "Traduci in francese (usa il y a)",
+      "answers": [
+        "Qu'est-ce qu'il y a ?"
+      ],
+      "explain_it": "Qu'est-ce qu'il y a ? è la formula fissa per chiedere che cosa c'è o che succede."
+    },
+    {
+      "id": "L058-e39",
+      "type": "dictation",
+      "level": 2,
+      "concept": "futur-simple",
+      "text": "Il y aura du soleil pendant toute la semaine.",
+      "explain_it": "Il futuro di il y a è il y aura, seguito dal partitivo du soleil."
+    },
+    {
+      "id": "L058-e40",
+      "type": "flash",
+      "level": 2,
+      "concept": "futur-simple",
+      "front": "Come si coniugano « être » e « faire » al futuro semplice con je?",
+      "back": "je serai (essere) e je ferai (fare): le radici sono ser- e fer-, con la desinenza -ai.",
+      "explain_it": "Sono due irregolari da memorizzare perché la radice cambia completamente."
+    },
+    {
+      "id": "L058-e41",
+      "type": "flash",
+      "level": 2,
+      "concept": "il-y-a",
+      "front": "Qual è la differenza tra « il y a » e « il y aura »?",
+      "back": "Il y a = c'è / ci sono (presente); il y aura = ci sarà / ci saranno (futuro). La forma resta invariata con i plurali.",
+      "explain_it": "Il verbo avoir qui è usato in forma impersonale e non cambia con il numero."
+    },
+    {
+      "id": "L058-e42",
+      "type": "flash",
+      "level": 2,
+      "concept": "prepositions",
+      "front": "Quale preposizione introduce l'infinito dopo « avoir les moyens » e « avoir la flemme »?",
+      "back": "De: avoir les moyens de + infinito, avoir la flemme de + infinito.",
+      "explain_it": "Questi due verbi usano de; invece dopo un nome come une chose si usa à."
+    },
+    {
+      "id": "L058-e43",
+      "type": "flash",
+      "level": 2,
+      "concept": "connectors",
+      "front": "Che cosa esprimono « puisque » e « pourtant »?",
+      "back": "Puisque: causa già nota (visto che, dal momento che). Pourtant: contrasto (eppure, tuttavia).",
+      "explain_it": "Puisque spiega perché si fa qualcosa, pourtant segnala un'eccezione a ciò che ci si aspetta."
+    },
+    {
+      "id": "L058-e44",
+      "type": "write",
+      "level": 3,
+      "concept": "futur-simple",
+      "prompt": "Mangio al ristorante con i miei amici.",
+      "ask": "Traduci in francese al futuro semplice",
+      "answers": [
+        "Je mangerai au [restaurant|resto] avec [mes amis|mes copains].",
+        "Avec [mes amis|mes copains], je mangerai au [restaurant|resto]."
+      ],
+      "explain_it": "Manger al futuro: infinito + -ai, quindi mangerai (la e dell'infinito resta)."
+    },
+    {
+      "id": "L058-e45",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-etre",
+      "prompt": "Sabato si è alzato tardi.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Samedi, il s'est levé tard.",
+        "Il s'est levé tard samedi."
+      ],
+      "explain_it": "I verbi pronominali usano essere al passato prossimo e il participio concorda con il soggetto maschile singolare."
+    },
+    {
+      "id": "L058-e46",
+      "type": "write",
+      "level": 3,
+      "concept": "negation-other",
+      "prompt": "Ieri non ho incontrato nessuno.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Hier, je n'ai [rencontré|vu] personne.",
+        "Je n'ai [rencontré|vu] personne hier."
+      ],
+      "explain_it": "Ne ... personne avvolge il verbo e nel passato prossimo personne si mette dopo l'ausiliare."
+    },
+    {
+      "id": "L058-e47",
+      "type": "write",
+      "level": 3,
+      "concept": "futur-simple",
+      "prompt": "Non andremo al mare, perché pioverà.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "[Nous n'irons|On n'ira] pas [à la mer|à la plage|au bord de la mer], [parce qu'|car ]il pleuvra."
+      ],
+      "explain_it": "Aller al futuro ha la radice ir-; per la causa si può usare parce que oppure il più letterario car."
+    },
+    {
+      "id": "L058-e48",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-cod",
+      "prompt": "Ti prometto che non lo dimenticherò.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Je [te|vous] promets que je ne l'oublierai pas.",
+        "Je [te|vous] promets de ne pas l'oublier."
+      ],
+      "explain_it": "Il pronome l' sostituisce il complemento diretto e va tra ne e il verbo al futuro."
+    },
+    {
+      "id": "L058-e49",
+      "type": "write",
+      "level": 3,
+      "concept": "futur-simple",
+      "prompt": "Secondo le previsioni, il tempo sarà bello per tutta la settimana.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "[Selon|D'après] [les prévisions|la météo], il fera beau [pendant |]toute la semaine."
+      ],
+      "explain_it": "Il futuro di faire serve per le previsioni del tempo; toute la semaine (senza pendant) indica la durata."
+    },
+    {
+      "id": "L058-e50",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Sei testardo come un mulo.",
+      "ask": "Traduci in francese con un'espressione idiomatica",
+      "answers": [
+        "[Tu es|Vous êtes] têtu comme [une mule|un mulet].",
+        "[Tu es|Vous êtes] têtue comme [une mule|un mulet]."
+      ],
+      "explain_it": "Têtu comme une mule è un'espressione fissa: il paragone con il mulo resta al femminile, come in italiano si dice testardo come un mulo."
+    },
+    {
+      "id": "L058-e51",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Sono stanco e non voglio uscire, perché fa un freddo cane.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "Je suis fatigué et je ne veux pas sortir, [parce qu'|car ]il fait un froid de canard."
+      ],
+      "explain_it": "Il fait un froid de canard è l'espressione fissa per il freddo intenso, non va tradotta alla lettera."
+    },
+    {
+      "id": "L058-e52",
+      "type": "write",
+      "level": 3,
+      "concept": "connectors",
+      "prompt": "Piove a catinelle, eppure le previsioni erano buone.",
+      "ask": "Traduci in francese",
+      "answers": [
+        "[Il pleut des cordes|Il pleut à verse], pourtant [la météo était bonne|les prévisions étaient bonnes]."
+      ],
+      "explain_it": "Pourtant introduce il contrasto e la previsione buona (la météo) è al femminile: bonne."
+    },
+    {
+      "id": "L058-e53",
+      "type": "dictation",
+      "level": 3,
+      "concept": "futur-simple",
+      "text": "Demain, il pleuvra toute la journée, mais samedi il fera beau et le ciel sera bleu.",
+      "explain_it": "Pleuvoir al futuro ha radice pleuvr-, faire ha fer-, être ha ser-: tre futuri in una frase."
+    },
+    {
+      "id": "L058-e54",
+      "type": "dictation",
+      "level": 3,
+      "concept": "pronoun-order",
+      "text": "Ce musée vaut vraiment le détour, je te le garantis.",
+      "explain_it": "Con due pronomi, quello di persona (te) viene prima di quello di cosa (le), come in je te le garantis."
+    }
+  ]
+}

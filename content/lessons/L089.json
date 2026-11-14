@@ -1,0 +1,837 @@
+{
+  "n": 89,
+  "title_fr": "Quatre-vingt-neuvième leçon - Il faut le faire !",
+  "title_it": "Ottantanovesima lezione - Bisogna farlo!",
+  "review": false,
+  "status": "verified",
+  "source": "3d1a4471 pdf 63-70 (libro p.539-546): la lezione inizia a pdf 63 (p.539, titolo al centro pagina; il riquadro sul presente storico in alto e' l'introduzione); dialogo e note a pdf 63-68; esercizio 1 in basso a pdf 67 (p.543), risposte a pdf 68 (p.544); esercizio 2 in alto a pdf 69 (p.545), risposte e item 5 in alto a pdf 70 (p.546); la L90 inizia nella meta' bassa di pdf 69",
+  "theme_it": "Un'amica racconta perché fa il broncio: doveva partire con un gruppo di amici per una vacanza sulla neve, ma è stata richiamata in ufficio. Nel dialogo compaiono anche i due colleghi Gaspard, campione dello sport e molto competitivo, e Noé, un disastro ambulante.",
+  "grammar": [
+    {
+      "id": "faire",
+      "title_it": "Il causativo: faire + infinito e se faire + infinito",
+      "explain_it": "Faire seguito da un infinito significa 'far fare' qualcosa a qualcuno, come l'italiano 'far fare': le professeur nous fait réviser. Con il pronome riflessivo, se faire + infinito indica che il soggetto subisce l'azione o se la fa fare da altri: 'si è fatto aiutare', 'mi sono fatto tagliare i capelli'. Nel causativo il participio fait resta invariato anche con il soggetto femminile: elle s'est fait couper les cheveux.",
+      "examples": [
+        {
+          "fr": "Je me suis fait réparer la montre.",
+          "it": "Mi sono fatto riparare l'orologio."
+        },
+        {
+          "fr": "Le professeur nous fait réviser la leçon.",
+          "it": "L'insegnante ci fa ripassare la lezione."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Le espressioni con faire (e il pronome dessus)",
+      "explain_it": "Alcune espressioni con faire non hanno niente a che vedere con il significato letterale: faire la tête (tenere il broncio), faire le point (fare il punto della situazione, aggiornare qualcuno), faire une croix sur (rinunciare a), faire gaffe (stare attenti, familiare), faire cadeau de (al negativo, ne pas faire de cadeau = non risparmiare nessuno), n'en faire qu'à sa tête (fare di testa propria). Quando il nome è già stato nominato si può usare il pronome dessus al posto del nome: faire une croix dessus, rinunciarci.",
+      "examples": [
+        {
+          "fr": "Nous allons faire le point sur le projet.",
+          "it": "Facciamo il punto sul progetto."
+        },
+        {
+          "fr": "Ce chat n'en fait qu'à sa tête.",
+          "it": "Questo gatto fa sempre di testa sua."
+        }
+      ]
+    },
+    {
+      "id": "pronoun-cod",
+      "title_it": "Il pronome le in 'Il faut le faire !'",
+      "explain_it": "In 'Il faut le faire' il pronome le (lo) è un complemento oggetto che riprende l'azione appena descritta, e non ha un vero antecedente nominale. L'espressione, usata come esclamazione, significa 'non è da tutti!', 'ci vuole coraggio' e può essere ammirativa o ironica. Nel parlato il pronome è spesso omesso: Faut le faire !",
+      "examples": [
+        {
+          "fr": "Il a gagné la course sans s'entraîner ? Il faut le faire !",
+          "it": "Ha vinto la gara senza allenarsi? Non è da tutti!"
+        }
+      ]
+    },
+    {
+      "id": "subjonctif",
+      "title_it": "Comment se fait-il que + congiuntivo",
+      "explain_it": "La forma invertita Comment se fait-il que... ? (più elegante di Comment ça se fait que... ?) si costruisce di preferenza con il congiuntivo, perché esprime stupore o dubbio sul fatto: Comment se fait-il qu'il soit en retard ? In italiano corrisponde a 'come mai...?'. Nel parlato si sente anche l'indicativo (Comment se fait-il qu'il est là ?), ma il congiuntivo è la forma più corretta e più sicura.",
+      "examples": [
+        {
+          "fr": "Comment se fait-il que la porte soit ouverte ?",
+          "it": "Come mai la porta è aperta?"
+        },
+        {
+          "fr": "Comment se fait-il qu'il sache tout ?",
+          "it": "Come mai sa tutto?"
+        }
+      ]
+    },
+    {
+      "id": "imperative",
+      "title_it": "Faire gaffe all'imperativo",
+      "explain_it": "Nell'imperativo l'espressione faire gaffe si usa in forma familiare e senza articolo, al posto di faire attention: Fais gaffe (tu) e Faites gaffe (voi). Con l'articolo, faire une gaffe significa invece 'fare una gaffe, una figuraccia', come in italiano.",
+      "examples": [
+        {
+          "fr": "Fais gaffe, le sol est glissant !",
+          "it": "Stai attento, il pavimento è scivoloso!"
+        },
+        {
+          "fr": "Faites gaffe à la marche !",
+          "it": "Fate attenzione al gradino!"
+        }
+      ]
+    },
+    {
+      "id": "register",
+      "title_it": "Il presente storico (présent historique)",
+      "explain_it": "Il francese, come l'inglese, può usare il presente per raccontare fatti passati e renderli più vivi: è il presente storico. Non è riservato al parlato: si trova anche nei racconti scritti e nei titoli dei giornali. Il passé simple è invece il passato letterario, usato quasi solo nella narrativa scritta: lo si riconosce ma non serve nel parlato.",
+      "examples": [
+        {
+          "fr": "Il arrive, il regarde autour de lui et il repart.",
+          "it": "Arriva, si guarda intorno e riparte."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "les sports d'hiver (m. pl.)",
+      "it": "gli sport invernali",
+      "pos": "n"
+    },
+    {
+      "fr": "la bande",
+      "it": "il gruppo, la compagnia",
+      "pos": "n",
+      "note": "une bande de copains"
+    },
+    {
+      "fr": "le chalet",
+      "it": "lo chalet, la casa di montagna",
+      "pos": "n"
+    },
+    {
+      "fr": "la piste",
+      "it": "la pista da sci",
+      "pos": "n",
+      "note": "au pied des pistes"
+    },
+    {
+      "fr": "la valise",
+      "it": "la valigia",
+      "pos": "n"
+    },
+    {
+      "fr": "les affaires (f. pl.)",
+      "it": "le cose personali, l'attrezzatura",
+      "pos": "n",
+      "note": "mes affaires de ski"
+    },
+    {
+      "fr": "commander",
+      "it": "ordinare, prenotare",
+      "pos": "v",
+      "note": "j'ai commandé"
+    },
+    {
+      "fr": "quitter",
+      "it": "lasciare, uscire da",
+      "pos": "v",
+      "note": "je quittais"
+    },
+    {
+      "fr": "la présence",
+      "it": "la presenza",
+      "pos": "n"
+    },
+    {
+      "fr": "l'aurore (f.)",
+      "it": "l'alba",
+      "pos": "n",
+      "note": "aux aurores"
+    },
+    {
+      "fr": "la croix",
+      "it": "la croce",
+      "pos": "n"
+    },
+    {
+      "fr": "soulager",
+      "it": "sollevare, alleggerire",
+      "pos": "v"
+    },
+    {
+      "fr": "la compétition",
+      "it": "la competizione, la gara",
+      "pos": "n"
+    },
+    {
+      "fr": "agressif / agressive",
+      "it": "aggressivo",
+      "pos": "adj"
+    },
+    {
+      "fr": "le sponsor",
+      "it": "lo sponsor",
+      "pos": "n"
+    },
+    {
+      "fr": "l'entraîneur (m.)",
+      "it": "l'allenatore",
+      "pos": "n"
+    },
+    {
+      "fr": "le désastre",
+      "it": "il disastro",
+      "pos": "n"
+    },
+    {
+      "fr": "la peine",
+      "it": "il dispiacere, la pena",
+      "pos": "n",
+      "note": "faire de la peine à qqn"
+    },
+    {
+      "fr": "la gaffe",
+      "it": "la gaffe, lo sbaglio",
+      "pos": "n"
+    },
+    {
+      "fr": "secourir",
+      "it": "soccorrere",
+      "pos": "v"
+    },
+    {
+      "fr": "l'hélicoptère (m.)",
+      "it": "l'elicottero",
+      "pos": "n"
+    },
+    {
+      "fr": "la cheville",
+      "it": "la caviglia",
+      "pos": "n"
+    },
+    {
+      "fr": "la station de ski",
+      "it": "la stazione sciistica",
+      "pos": "n"
+    },
+    {
+      "fr": "fracturer",
+      "it": "fratturare",
+      "pos": "v",
+      "note": "se fracturer les bras"
+    },
+    {
+      "fr": "visiblement",
+      "it": "evidentemente, a quanto pare",
+      "pos": "adv"
+    },
+    {
+      "fr": "le portefeuille",
+      "it": "il portafoglio",
+      "pos": "n"
+    },
+    {
+      "fr": "vachement",
+      "it": "molto, davvero (colloquiale)",
+      "pos": "adv"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "faire la tête",
+      "it": "tenere il broncio",
+      "note": "anche con pronome indiretto: il me fait la tête"
+    },
+    {
+      "fr": "faire la grasse matinée",
+      "it": "dormire fino a tardi",
+      "note": "molto usata nel parlato"
+    },
+    {
+      "fr": "Il faut le faire !",
+      "it": "Non è da tutti!",
+      "note": "esclamazione, ammirativa o ironica"
+    },
+    {
+      "fr": "faire le point",
+      "it": "fare il punto (della situazione)",
+      "note": "aggiornare qualcuno"
+    },
+    {
+      "fr": "faire une croix sur",
+      "it": "rinunciare a, dire addio a",
+      "note": "pronome dessus al posto del nome"
+    },
+    {
+      "fr": "faire gaffe",
+      "it": "stare attento",
+      "note": "familiare, senza articolo, al posto di faire attention"
+    },
+    {
+      "fr": "n'en faire qu'à sa tête",
+      "it": "fare di testa propria",
+      "note": "non ha nulla a che vedere con il broncio"
+    },
+    {
+      "fr": "ne pas faire de cadeau",
+      "it": "non risparmiare nessuno",
+      "note": "senso figurato, nelle gare"
+    },
+    {
+      "fr": "faire la bise",
+      "it": "salutarsi con due baci sulle guance",
+      "note": "tra amici e conoscenti"
+    },
+    {
+      "fr": "aux aurores",
+      "it": "all'alba, prestissimo",
+      "note": "molto colloquiale"
+    }
+  ],
+  "notes_it": [
+    "Falso amico: les affaires (f. pl.) non sono gli 'affari' d'impresa, ma le cose personali o l'attrezzatura: mes affaires de ski sono la mia attrezzatura da sci.",
+    "Falso amico: visiblement significa 'evidentemente, a quanto pare', non 'in modo visibile' come l'italiano visibilmente.",
+    "Pronuncia: croix si legge [krwa], con la x muta; bise si legge [biz], con la s sonora. In più, il bacio di saluto della bise è molto diffuso nel francese quotidiano.",
+    "Registro: gaffe senza articolo, vachement e Fais gaffe sono colloquiali. Nei contesti formali si dice faire attention, e faire la tête o la grasse matinée sono espressioni familiari."
+  ],
+  "exercises": [
+    {
+      "id": "L089-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Che cosa significa l'espressione 'faire la tête'?",
+      "options": [
+        "tenere il broncio",
+        "avere mal di testa",
+        "cambiare pettinatura",
+        "fare una domanda"
+      ],
+      "correct": 0,
+      "explain_it": "Faire la tête indica malumore e si usa in senso familiare: non ha a che fare con la testa in senso fisico."
+    },
+    {
+      "id": "L089-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Che cosa vuol dire 'faire la grasse matinée'?",
+      "options": [
+        "dormire fino a tardi",
+        "mangiare molto a colazione",
+        "lavorare di notte",
+        "fare una lunga passeggiata"
+      ],
+      "correct": 0,
+      "explain_it": "La grasse matinée è il dormire a lungo la mattina; non si riferisce al cibo."
+    },
+    {
+      "id": "L089-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "faire",
+      "prompt": "Quale frase significa 'Si è fatto aiutare da un amico'?",
+      "options": [
+        "Il s'est fait aider par un ami.",
+        "Il s'est aidé par un ami.",
+        "Il a fait aider un ami.",
+        "Il s'est fait un ami."
+      ],
+      "correct": 0,
+      "explain_it": "Con se faire + infinito il soggetto subisce l'azione. Il riflessivo semplice s'est aidé non ha questo valore causativo."
+    },
+    {
+      "id": "L089-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronoun-cod",
+      "prompt": "Per dire 'Non è da tutti!' si completa: Il faut ___ !",
+      "options": [
+        "le faire",
+        "la faire",
+        "lui faire",
+        "faire la"
+      ],
+      "correct": 0,
+      "explain_it": "Le riprende l'azione appena descritta, quindi è il pronome neutro del complemento oggetto; la (femminile) non va bene."
+    },
+    {
+      "id": "L089-e05",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Ho rinunciato alle vacanze.",
+      "answers": [
+        "J'ai fait une croix sur [les|mes] vacances"
+      ],
+      "distractors": [
+        "fais",
+        "dessous"
+      ],
+      "explain_it": "Faire une croix sur significa rinunciare a qualcosa: la croce è il segno di addio."
+    },
+    {
+      "id": "L089-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "pronoun-cod",
+      "prompt": "Non è da tutti!",
+      "answers": [
+        "Il faut le faire !"
+      ],
+      "distractors": [
+        "la",
+        "faites"
+      ],
+      "explain_it": "Il pronome le riprende l'azione difficile di cui si sta parlando."
+    },
+    {
+      "id": "L089-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "imperative",
+      "prompt": "Stai attento, la strada è scivolosa! (a un amico)",
+      "answers": [
+        "Fais gaffe, la route est glissante !"
+      ],
+      "distractors": [
+        "attention",
+        "faites"
+      ],
+      "explain_it": "Faire gaffe è la forma familiare e senza articolo dell'imperativo di tu: fais gaffe."
+    },
+    {
+      "id": "L089-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "faire",
+      "prompt": "Mi hanno fatto venire all'alba.",
+      "answers": [
+        "Ils m'ont fait venir aux aurores"
+      ],
+      "distractors": [
+        "vient",
+        "à"
+      ],
+      "explain_it": "Faire venir + infinito significa far venire; aux aurores vuol dire all'alba, molto presto."
+    },
+    {
+      "id": "L089-e09",
+      "type": "cloze",
+      "level": 1,
+      "concept": "idioms",
+      "text": "Pourquoi tu ___ la tête ce matin ? Tu as encore raté le bus ?",
+      "answers": [
+        "fais"
+      ],
+      "hint": "(faire, presente)",
+      "prompt": "Perché fai il broncio stamattina? Hai di nuovo perso l'autobus?",
+      "explain_it": "Faire la tête al presente con tu: fais, non fait."
+    },
+    {
+      "id": "L089-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "idioms",
+      "text": "Samedi, je vais ___ la grasse matinée : pas de réveil !",
+      "answers": [
+        "faire"
+      ],
+      "hint": "(faire, infinito)",
+      "prompt": "Sabato dormirò fino a tardi: niente sveglia!",
+      "explain_it": "Dopo aller il verbo resta all'infinito: aller faire la grasse matinée."
+    },
+    {
+      "id": "L089-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "faire",
+      "text": "Il s'est ___ aider par son frère pour déménager.",
+      "answers": [
+        "fait"
+      ],
+      "hint": "(se faire, passato prossimo)",
+      "prompt": "Si è fatto aiutare dal fratello per traslocare.",
+      "explain_it": "Nel passato prossimo con se faire il participio resta fait, senza accordo."
+    },
+    {
+      "id": "L089-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "pronoun-cod",
+      "text": "Tu as couru un marathon en moins de trois heures ? Il faut ___ !",
+      "answers": [
+        "le faire"
+      ],
+      "hint": "(pronome + infinito)",
+      "prompt": "Hai corso una maratona in meno di tre ore? Non è da tutti!",
+      "explain_it": "L'espressione Il faut le faire richiede il pronome le prima dell'infinito."
+    },
+    {
+      "id": "L089-e13",
+      "type": "mcq",
+      "level": 2,
+      "concept": "imperative",
+      "prompt": "Un amico sta per urtare un vaso. Come lo avverti in modo familiare?",
+      "options": [
+        "Fais gaffe !",
+        "Fait gaffe !",
+        "Fais la gaffe !",
+        "Faites gaffes !"
+      ],
+      "correct": 0,
+      "explain_it": "All'imperativo di tu il verbo è fais, e gaffe si usa senza articolo in questo senso."
+    },
+    {
+      "id": "L089-e14",
+      "type": "mcq",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Quale espressione serve per dire 'fare il punto della situazione'?",
+      "options": [
+        "faire le point",
+        "mettre au point",
+        "faire la pointe",
+        "prendre le point"
+      ],
+      "correct": 0,
+      "explain_it": "Faire le point significa fare il punto della situazione; mettre au point vuol dire mettere a punto qualcosa."
+    },
+    {
+      "id": "L089-e15",
+      "type": "mcq",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Completa: 'Comment se fait-il qu'il ___ si bon cuisinier ?' (Come mai è un cuoco così bravo?)",
+      "options": [
+        "soit",
+        "être",
+        "sois",
+        "soyons"
+      ],
+      "correct": 0,
+      "explain_it": "Dopo comment se fait-il que si usa il congiuntivo: soit, non est."
+    },
+    {
+      "id": "L089-e16",
+      "type": "cloze",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "Comment se fait-il que la réunion ___ annulée ?",
+      "answers": [
+        "soit",
+        "est"
+      ],
+      "hint": "(être, congiuntivo presente)",
+      "prompt": "Come mai la riunione è stata annullata?",
+      "explain_it": "Il congiuntivo presente di être per il soggetto la réunion è soit."
+    },
+    {
+      "id": "L089-e17",
+      "type": "cloze",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "Comment se fait-il que tu ___ déjà au courant ?",
+      "answers": [
+        "sois",
+        "es"
+      ],
+      "hint": "(être, congiuntivo presente)",
+      "prompt": "Come mai sei già al corrente?",
+      "explain_it": "Con tu il congiuntivo presente di être è sois."
+    },
+    {
+      "id": "L089-e18",
+      "type": "cloze",
+      "level": 2,
+      "concept": "faire",
+      "text": "Le professeur nous ___ réviser la leçon avant l'examen.",
+      "answers": [
+        "fait"
+      ],
+      "hint": "(faire, presente)",
+      "prompt": "L'insegnante ci fa ripassare la lezione prima dell'esame.",
+      "explain_it": "Faire + infinito senza riflessivo significa far fare qualcosa a qualcuno: nous fait réviser."
+    },
+    {
+      "id": "L089-e19",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Le capitaine ne fait pas de ___ aux joueurs paresseux.",
+      "answers": [
+        "cadeau"
+      ],
+      "hint": "(sostantivo, senso figurato)",
+      "prompt": "Il capitano non risparmia i giocatori pigri.",
+      "explain_it": "Ne pas faire de cadeau significa non risparmiare nessuno; cadeau resta invariato."
+    },
+    {
+      "id": "L089-e20",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Pour cet été, nous devons faire une ___ sur la montagne.",
+      "answers": [
+        "croix"
+      ],
+      "hint": "(sostantivo)",
+      "prompt": "Quest'estate dobbiamo rinunciare alla montagna.",
+      "explain_it": "Faire une croix sur significa rinunciare a qualcosa: il sostantivo è croix."
+    },
+    {
+      "id": "L089-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "faire",
+      "prompt": "Ho fatto riparare la macchina dal meccanico.",
+      "answers": [
+        "J'ai fait réparer [ma|la] voiture par le [mécanicien|garagiste]"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Far riparare si esprime con faire + infinito: j'ai fait réparer ma voiture; l'agente è introdotto da par."
+    },
+    {
+      "id": "L089-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Ho dovuto rinunciare alle vacanze.",
+      "answers": [
+        "J'ai dû faire une croix sur [mes|les] vacances"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Faire une croix sur significa rinunciare a; con il verbo dovere il passato prossimo è j'ai dû."
+    },
+    {
+      "id": "L089-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Facciamo il punto della situazione?",
+      "answers": [
+        "[Faisons|Est-ce qu'on fait|On fait] le point [sur la situation|]"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Faire le point è sempre con l'articolo le, perché il sostantivo point è maschile."
+    },
+    {
+      "id": "L089-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "imperative",
+      "prompt": "Attenzione, il pavimento è bagnato! (a più persone, forma voi)",
+      "answers": [
+        "Faites [gaffe|attention], le sol est mouillé"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Con voi l'imperativo è faites; faire gaffe (familiare) o faire attention, senza articolo."
+    },
+    {
+      "id": "L089-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Domani dormi fino a tardi? (a un amico)",
+      "answers": [
+        "[Tu fais|Vous faites|Est-ce que tu fais|Est-ce que vous faites] la grasse matinée demain ?"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Faire la grasse matinée = dormire fino a tardi; la forma del verbo cambia con tu o vous."
+    },
+    {
+      "id": "L089-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Mi fa pena quel ragazzo.",
+      "answers": [
+        "Ce garçon me fait de la peine",
+        "Ce garçon-là me fait de la peine",
+        "Ce garçon me fait pitié"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Faire de la peine à qqn significa fare pena, dispiacere a qualcuno; la pena diventa de la peine."
+    },
+    {
+      "id": "L089-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Come mai è così stanco?",
+      "answers": [
+        "Comment se fait-il qu'il [soit|est] si fatigué ?"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Dopo comment se fait-il que si usa il congiuntivo: qu'il soit."
+    },
+    {
+      "id": "L089-e28",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Quando gioca, non risparmia nessuno.",
+      "answers": [
+        "Quand il joue, il ne fait pas de cadeau",
+        "Quand il joue, il ne fait de cadeau à personne"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Ne pas faire de cadeau significa non risparmiare nessuno, in senso figurato nelle gare."
+    },
+    {
+      "id": "L089-e29",
+      "type": "dictation",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Il fait la tête depuis ce matin, je ne sais pas pourquoi.",
+      "explain_it": "Faire la tête, al presente con il soggetto il: il fait."
+    },
+    {
+      "id": "L089-e30",
+      "type": "dictation",
+      "level": 2,
+      "concept": "faire",
+      "text": "Je me suis fait aider par mon frère pour déménager.",
+      "explain_it": "Con se faire + infinito il soggetto subisce l'azione; il participio fait non si accorda."
+    },
+    {
+      "id": "L089-e31",
+      "type": "flash",
+      "level": 2,
+      "concept": "faire",
+      "front": "Il causativo con faire: come si costruisce 'faccio riparare la macchina'?",
+      "back": "Soggetto + faire coniugato + infinito + complemento: je fais réparer la voiture. Con se faire il soggetto subisce l'azione: je me suis fait réparer la voiture (il participio resta fait).",
+      "note": "Il causativo con faire vuol dire far fare, e il pronome riflessivo indica che il soggetto ne è coinvolto."
+    },
+    {
+      "id": "L089-e32",
+      "type": "flash",
+      "level": 2,
+      "concept": "subjonctif",
+      "front": "Comment se fait-il que: quale modo e quale tempo si usano?",
+      "back": "Congiuntivo presente: que je sois, qu'il soit, qu'il sache. È la forma invertita di comment ça se fait, usata con dubbio o stupore. In italiano corrisponde a 'come mai' con il congiuntivo."
+    },
+    {
+      "id": "L089-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "faire",
+      "prompt": "Avevo prenotato lo chalet, ma ho dovuto rinunciare alle vacanze.",
+      "answers": [
+        "J'avais [réservé|loué] le chalet, mais j'ai dû faire une croix sur [les|mes] vacances"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Il plus-que-parfait indica l'azione avvenuta prima; poi il passato prossimo di devoir e faire une croix sur."
+    },
+    {
+      "id": "L089-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "faire",
+      "prompt": "Il mese scorso si è fatto operare alla caviglia.",
+      "answers": [
+        "Le mois dernier, il s'est fait opérer [de|à] la cheville"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Con se faire + infinito il soggetto subisce l'intervento; con cheville si usa de o à."
+    },
+    {
+      "id": "L089-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Pensavo di partire con i miei amici, ma ho dovuto rinunciarci.",
+      "answers": [
+        "Je pensais partir avec [mes amis|mes copains], mais j'ai dû [faire une croix dessus|y renoncer]"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Dessus sostituisce il nome già citato, il viaggio; l'imperfetto pensais indica l'intenzione passata."
+    },
+    {
+      "id": "L089-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "imperative",
+      "prompt": "Fate attenzione, altrimenti cadete!",
+      "answers": [
+        "Faites [gaffe|attention], [sinon|ou] vous [allez tomber|tombez]"
+      ],
+      "ask": "Traduci in francese (forma voi)",
+      "explain_it": "Faire gaffe/attention all'imperativo voi: faites; sinon introduce l'avvertimento."
+    },
+    {
+      "id": "L089-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-cod",
+      "prompt": "Ha dimenticato il passaporto a casa e ha perso il biglietto: non è da tutti!",
+      "answers": [
+        "Il a oublié son passeport [à la maison|chez lui] et [il a|a] perdu son billet : [il faut|faut] le faire"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Il pronome le riprende l'intero episodio: il faut le faire significa 'non è da tutti'."
+    },
+    {
+      "id": "L089-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "faire",
+      "prompt": "Je me fais couper les cheveux par le coiffeur.",
+      "answers": [
+        "Je me suis fait couper les cheveux par le coiffeur"
+      ],
+      "ask": "Volgi al passé composé",
+      "explain_it": "Al passato prossimo il participio di se faire (fait) resta invariato davanti all'infinito."
+    },
+    {
+      "id": "L089-e39",
+      "type": "dictation",
+      "level": 3,
+      "concept": "idioms",
+      "text": "Ce n'est pas la peine de faire la tête : nous allons faire le point demain matin.",
+      "explain_it": "Il dettato unisce due espressioni con faire: faire la tête e faire le point."
+    },
+    {
+      "id": "L089-e40",
+      "type": "flash",
+      "level": 3,
+      "concept": "pronoun-cod",
+      "front": "Nella frase 'Il faut le faire', a cosa si riferisce 'le'?",
+      "back": "Le è il pronome neutro del complemento oggetto: riprende l'azione o l'episodio appena descritto. Nel parlato si può omettere: Faut le faire ! Significa 'non è da tutti'."
+    },
+    {
+      "id": "L089-e41",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Come mai ha così tanti amici?",
+      "answers": [
+        "Comment se fait-il qu'il [ait|a] tant d'amis"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Dopo comment se fait-il que si usa di preferenza il congiuntivo di avoir: qu'il ait."
+    },
+    {
+      "id": "L089-e42",
+      "type": "mcq",
+      "level": 2,
+      "concept": "register",
+      "prompt": "Nel racconto al presente storico, il francese usa il presente per:",
+      "options": [
+        "rendere più vivi fatti passati",
+        "esprimere un ordine gentile",
+        "indicare un'azione futura certa",
+        "sostituire il congiuntivo"
+      ],
+      "correct": 0,
+      "explain_it": "Il presente storico racconta il passato come se accadesse ora, rendendo la scena più vivida; non ha valore di ordine o di futuro."
+    },
+    {
+      "id": "L089-e43",
+      "type": "flash",
+      "level": 2,
+      "concept": "register",
+      "front": "Présent historique: cos'è e quando si usa?",
+      "back": "È l'uso del presente per raccontare fatti passati e renderli più vivi. Si trova nel parlato, nella narrativa e nei titoli dei giornali. Il passé simple è invece il passato letterario, usato quasi solo nella narrativa scritta."
+    }
+  ]
+}

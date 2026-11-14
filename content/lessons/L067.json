@@ -1,0 +1,399 @@
+{
+  "n": 67,
+  "title_fr": "L'encre la plus pâle…",
+  "title_it": "L'inchiostro più sbiadito…",
+  "review": false,
+  "status": "verified",
+  "source": "fa2f8a2c p93 + a1be3e47 p1-7 (libro p.373-380)",
+  "theme_it": "Madame Marchand torna a casa dopo un mese in ospedale e trova l'ascensore del palazzo guasto da settimane. Un vicino si occupa di lei: le porta la spesa e la posta, le riporta le piante e fa qualche faccenda. Alla fine, con l'aiuto di una vicina, ritrovano le password del computer, nascoste sotto il tappetino del mouse.",
+  "grammar": [
+    {
+      "id": "passe-compose-etre",
+      "title_it": "Verbi di movimento al passato prossimo con essere",
+      "explain_it": "Alcuni verbi di movimento (rentrer, sortir, monter, descendre, passer, entrer, retourner) si coniugano con être al passato prossimo quando sono intransitivi, cioè non hanno un complemento oggetto diretto: je suis rentré, elle est sortie, ils sont montés. In questo caso il participio concorda con il soggetto (sortie al femminile, sortis al plurale maschile). Lo stesso succede in italiano con salire e scendere (sono salito), ma in francese il cambio di ausiliare accompagna spesso un cambio di significato, come vedremo nella voce successiva.",
+      "examples": [
+        { "fr": "Je suis rentré tard hier soir.", "it": "Sono rientrato tardi ieri sera." },
+        { "fr": "Elle est sortie de chez elle il y a trois jours.", "it": "È uscita di casa tre giorni fa." },
+        { "fr": "Ils sont montés au deuxième étage.", "it": "Sono saliti al secondo piano." }
+      ]
+    },
+    {
+      "id": "passe-compose-avoir",
+      "title_it": "Gli stessi verbi con avere (uso transitivo)",
+      "explain_it": "Quando gli stessi verbi hanno un complemento oggetto diretto, diventano transitivi e prendono avere. Il significato cambia: rentrer diventa « portare dentro », sortir « tirare fuori », monter « portare su », descendre « portare giù », passer « passare qualcosa », entrer « inserire », retourner « girare ». Con avere il participio non concorda con il soggetto; concorda solo se il complemento oggetto è messo prima del verbo, come un pronome o un relativo: les clés qu'il a sorties. Se l'oggetto viene dopo, il participio resta invariato: j'ai monté les courses.",
+      "examples": [
+        { "fr": "Il a sorti ses clés de sa poche.", "it": "Ha tirato fuori le chiavi dalla tasca." },
+        { "fr": "J'ai descendu sa poubelle.", "it": "Ho portato giù la sua pattumiera." },
+        { "fr": "Les valises, je les ai montées.", "it": "Le valigie, le ho portate su." }
+      ]
+    }
+  ],
+  "vocab": [
+    { "fr": "l'ascenseur (m.)", "it": "l'ascensore", "pos": "n" },
+    { "fr": "la panne", "it": "il guasto", "pos": "n" },
+    { "fr": "pénible", "it": "fastidioso, seccante, faticoso", "pos": "adj" },
+    { "fr": "le balcon", "it": "il balcone", "pos": "n" },
+    { "fr": "la poubelle", "it": "la pattumiera", "pos": "n" },
+    { "fr": "les courses (f. pl.)", "it": "la spesa, le compere", "pos": "n" },
+    { "fr": "le courrier", "it": "la posta, la corrispondenza", "pos": "n" },
+    { "fr": "l'aspirateur (m.)", "it": "l'aspirapolvere", "pos": "n" },
+    { "fr": "le ménage", "it": "le faccende domestiche, le pulizie", "pos": "n" },
+    { "fr": "le désordre", "it": "il disordine", "pos": "n" },
+    { "fr": "bavarder", "it": "chiacchierare, anche nel senso di pettegolare", "pos": "v" },
+    { "fr": "sinon", "it": "altrimenti, se no", "pos": "conj" },
+    { "fr": "l'imprimante (f.)", "it": "la stampante", "pos": "n" },
+    { "fr": "l'identifiant (m.)", "it": "il codice di accesso (nome utente)", "pos": "n" },
+    { "fr": "l'étagère (f.)", "it": "lo scaffale", "pos": "n" },
+    { "fr": "le classeur", "it": "il raccoglitore", "pos": "n" },
+    { "fr": "le tapis de souris", "it": "il tappetino del mouse", "pos": "n" },
+    { "fr": "le mot de passe", "it": "la password", "pos": "n" },
+    { "fr": "coller", "it": "incollare, attaccare", "pos": "v" },
+    { "fr": "l'encre (f.)", "it": "l'inchiostro", "pos": "n" },
+    { "fr": "pâle", "it": "pallido, sbiadito", "pos": "adj" },
+    { "fr": "la mémoire", "it": "la memoria", "pos": "n" },
+    { "fr": "le voisin", "it": "il vicino", "pos": "n", "note": "f. la voisine" },
+    { "fr": "rentrer", "it": "tornare a casa; portare dentro", "pos": "v", "note": "je suis rentré (intr.), j'ai rentré (tr.)" },
+    { "fr": "sortir", "it": "uscire; tirare fuori", "pos": "v", "note": "je suis sorti (intr.), j'ai sorti (tr.)" },
+    { "fr": "monter", "it": "salire; portare su", "pos": "v", "note": "je suis monté (intr.), j'ai monté (tr.)" },
+    { "fr": "descendre", "it": "scendere; portare giù", "pos": "v", "note": "je suis descendu (intr.), j'ai descendu (tr.)" },
+    { "fr": "passer", "it": "passare; fare un salto da qualcuno; passare qualcosa", "pos": "v", "note": "je suis passé (passer voir), j'ai passé (passer l'aspirateur)" },
+    { "fr": "entrer", "it": "entrare; inserire", "pos": "v", "note": "je suis entré (intr.), j'ai entré (tr.)" },
+    { "fr": "retourner", "it": "tornare indietro; girare, rivoltare", "pos": "v", "note": "je suis retourné (intr.), j'ai retourné (tr.)" }
+  ],
+  "expressions": [
+    { "fr": "Comment ça ?", "it": "Come sarebbe? Cioè?", "note": "registro colloquiale: si chiede una spiegazione" },
+    { "fr": "Où ça ?", "it": "Dove?", "note": "risposta colloquiale quando qualcuno dice « guarda »" },
+    { "fr": "tomber en panne", "it": "guastarsi, rompersi", "note": "detto di ascensori, auto e macchine" },
+    { "fr": "en dernier ressort", "it": "come ultima risorsa", "note": "registro neutro" },
+    { "fr": "Qu'est-ce qu'il est pénible !", "it": "Che seccatura!", "note": "esclamazione familiare" },
+    { "fr": "Comme on dit", "it": "come si dice", "note": "introduce un proverbio o una citazione" },
+    { "fr": "faire le ménage", "it": "fare le pulizie di casa", "note": "espressione neutra" },
+    { "fr": "passer l'aspirateur", "it": "passare l'aspirapolvere", "note": "da non confondere con « aspirer »" },
+    { "fr": "Bingo !", "it": "Centro! Trovato!", "note": "esclamazione familiare, anche in italiano" },
+    { "fr": "un bon quart d'heure", "it": "un bel po' di tempo, una buona mezz'ora", "note": "neutro; anche « une bonne heure »" }
+  ],
+  "notes_it": [
+    "Il verbo rentrer ha due significati: intransitivo (« tornare a casa », con essere) e transitivo (« portare dentro », con avere). Lo stesso schema vale per sortir, monter, descendre, passer, entrer e retourner: in italiano lo ritrovi solo con salire e scendere.",
+    "Falso amico parziale: passer voir qqn non significa « passare a vedere » nel senso di guardare. Vuol dire fare un salto a trovare qualcuno, come in « Sono passato a trovarti ». Il verbo se passer (accadere) è invece un'altra cosa: Qu'est-ce qui se passe ? Cosa succede?",
+    "Il termine poubelle deriva dal nome del prefetto Eugène Poubelle, che nel 1884 impose a Parigi l'uso di contenitori per i rifiuti. Per la rentrée, la ripresa dopo le vacanze estive, vedi la nota culturale della lezione 54.",
+    "Pronuncia: encre [ɑ̃kʁ] ha una vocale nasale e la -e finale è muta, mentre pâle si pronuncia con la a aperta e lunga [pɑl]. Ascolta la registrazione per distinguere bene la nasale.",
+    "Falso amico: pénible significa « fastidioso, seccante » oppure « faticoso », non « penoso » nel senso di triste. Nel parlato corrente si usa spesso per lamentarsi di una situazione o di una persona."
+  ],
+  "exercises": [
+    {
+      "id": "L067-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "passe-compose-etre",
+      "prompt": "Quale frase significa « è uscita alle otto »?",
+      "options": ["Elle est sortie à huit heures.", "Elle a sorti à huit heures.", "Elle est sorti à huit heures.", "Elle a sortie à huit heures."],
+      "correct": 0,
+      "explain_it": "Sortir senza complemento oggetto vuole être, e il participio concorda con il soggetto femminile: sortie."
+    },
+    {
+      "id": "L067-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "prompt": "Quale frase significa « ha tirato fuori le chiavi »?",
+      "options": ["Il a sorti ses clés.", "Il est sorti ses clés.", "Il a sortie ses clés.", "Il est sortie ses clés."],
+      "correct": 0,
+      "explain_it": "Con un oggetto diretto (ses clés) sortir è transitivo e prende avere; il participio non concorda perché l'oggetto viene dopo."
+    },
+    {
+      "id": "L067-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "passe-compose-etre",
+      "prompt": "Come si dice « sono salito al quarto piano »?",
+      "options": ["Je suis monté au quatrième étage.", "J'ai monté au quatrième étage.", "Je suis monte au quatrième étage.", "Je suis monter au quatrième étage."],
+      "correct": 0,
+      "explain_it": "Monter senza oggetto diretto vuole être. Attenzione all'accento sul participio: monté, non monte."
+    },
+    {
+      "id": "L067-e04",
+      "type": "mcq",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "Completa con la forma giusta dell'aggettivo « bavard » (molto chiacchierona): « Elle est très ___. »",
+      "options": ["bavarde", "bavard", "bavardée", "bavardé"],
+      "correct": 0,
+      "explain_it": "Bavard è un aggettivo: al femminile prende la -e finale, quindi bavarde, come l'italiano « chiacchierona »."
+    },
+    {
+      "id": "L067-e05",
+      "type": "mcq",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Completa con il significato di « inserire »: « J'ai ___ mon code PIN. »",
+      "options": ["entré", "suis entré", "est entré", "entrée"],
+      "correct": 0,
+      "explain_it": "Entrer con un oggetto diretto (mon code) significa « inserire » e prende avere: j'ai entré, participio invariato."
+    },
+    {
+      "id": "L067-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "passe-compose-etre",
+      "prompt": "Sono tornato a casa tardi ieri sera.",
+      "answers": ["Je suis rentré tard hier soir."],
+      "distractors": ["ai", "rentrée"],
+      "explain_it": "Rentrer nel senso di tornare a casa è intransitivo e vuole être; il soggetto è maschile, quindi rentré."
+    },
+    {
+      "id": "L067-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ho portato giù la sua pattumiera.",
+      "answers": ["J'ai descendu sa poubelle."],
+      "distractors": ["suis", "descendue"],
+      "explain_it": "Descendre con un oggetto diretto (sa poubelle) significa « portare giù » e prende avere."
+    },
+    {
+      "id": "L067-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "passe-compose-etre",
+      "prompt": "Lei non è uscita da tre giorni.",
+      "answers": ["Elle n'est pas sortie depuis trois jours."],
+      "distractors": ["a", "sorti"],
+      "explain_it": "Con depuis si usa il presente per l'azione in corso, ma con il passato prossimo negativo si ottiene « non è uscita da tre giorni »; sortir vuole être e il participio concorda con elle."
+    },
+    {
+      "id": "L067-e09",
+      "type": "order",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Oggi faccio le pulizie di casa.",
+      "answers": ["Aujourd'hui je fais le ménage."],
+      "distractors": ["passe", "l'aspirateur"],
+      "explain_it": "Faire le ménage è l'espressione per « fare le pulizie di casa »: non serve un verbo diverso da faire."
+    },
+    {
+      "id": "L067-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "passe-compose-etre",
+      "text": "Hier, mes parents ___ rentrés tard.",
+      "answers": ["sont"],
+      "hint": "(être, passato prossimo)",
+      "prompt": "Ieri i miei genitori sono rientrati tardi.",
+      "explain_it": "Rentrer intransitivo (tornare a casa) vuole l'ausiliare être: ils/elles sont rentrés."
+    },
+    {
+      "id": "L067-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "text": "Nous ___ monté les valises au deuxième étage.",
+      "answers": ["avons"],
+      "hint": "(monter, passato prossimo)",
+      "prompt": "Abbiamo portato su le valigie al secondo piano.",
+      "explain_it": "Monter con un oggetto diretto (les valises) significa « portare su » e vuole avoir."
+    },
+    {
+      "id": "L067-e12",
+      "type": "cloze",
+      "level": 2,
+      "concept": "participle-agreement",
+      "text": "Les clés, il les a ___ de sa poche.",
+      "answers": ["sorties"],
+      "hint": "(sortir, participio)",
+      "prompt": "Le chiavi, le ha tirate fuori dalla tasca.",
+      "explain_it": "Con avere il participio concorda con il complemento oggetto che lo precede: les clés, femminile plurale, quindi sorties."
+    },
+    {
+      "id": "L067-e13",
+      "type": "cloze",
+      "level": 1,
+      "concept": "passe-compose-etre",
+      "text": "Les voisins sont ___ dans le jardin.",
+      "answers": ["descendus"],
+      "hint": "(descendre, participio)",
+      "prompt": "I vicini sono scesi in giardino.",
+      "explain_it": "Descendre senza oggetto diretto vuole être; il participio concorda con il soggetto maschile plurale."
+    },
+    {
+      "id": "L067-e14",
+      "type": "cloze",
+      "level": 1,
+      "concept": "connectors",
+      "text": "Dépêche-toi, ___ nous allons rater le train.",
+      "answers": ["sinon"],
+      "prompt": "Sbrigati, altrimenti perderemo il treno.",
+      "explain_it": "Sinon introduce la conseguenza negativa, come l'italiano « altrimenti »."
+    },
+    {
+      "id": "L067-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Mon ordinateur est ___ depuis hier.",
+      "answers": ["en panne"],
+      "prompt": "Il mio computer è guasto da ieri.",
+      "explain_it": "Tomber en panne (guastarsi) e l'aggettivo idiomatico « être en panne » si usano per macchine, auto e ascensori."
+    },
+    {
+      "id": "L067-e16",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-etre",
+      "prompt": "Elle sort tôt ce matin.",
+      "ask": "Volgi al passé composé",
+      "answers": ["Elle est sortie [tôt|de bonne heure] ce matin."],
+      "explain_it": "Sortir senza oggetto vuole être, e il participio concorda con il soggetto femminile: sortie."
+    },
+    {
+      "id": "L067-e17",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-avoir",
+      "prompt": "Je descends la poubelle.",
+      "ask": "Volgi al passé composé",
+      "answers": ["J'ai descendu la poubelle."],
+      "explain_it": "Descendre con oggetto diretto (la poubelle) è transitivo e prende avere: j'ai descendu."
+    },
+    {
+      "id": "L067-e18",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-etre",
+      "prompt": "Elle rentre à la maison tard.",
+      "ask": "Volgi al passé composé",
+      "answers": ["Elle est rentrée à la maison tard.", "Elle est rentrée tard."],
+      "explain_it": "Rentrer nel senso di tornare a casa è intransitivo: elle est rentrée, con l'accordo al femminile."
+    },
+    {
+      "id": "L067-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ho passato l'aspirapolvere due volte.",
+      "answers": ["J'ai passé l'aspirateur deux fois."],
+      "explain_it": "Passer l'aspirateur ha un oggetto diretto e prende avere."
+    },
+    {
+      "id": "L067-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "prompt": "Siamo passati a trovare la nonna.",
+      "answers": ["Nous sommes passés voir [notre|la] grand-mère."],
+      "explain_it": "Passer voir qqn è intransitivo e vuole être; il soggetto è maschile plurale, quindi passés."
+    },
+    {
+      "id": "L067-e21",
+      "type": "write",
+      "level": 3,
+      "concept": "participle-agreement",
+      "prompt": "Le valigie, le ho portate su io stesso.",
+      "answers": ["Les valises, je les ai montées [moi-même|]."],
+      "explain_it": "Con avere il participio concorda con il complemento oggetto diretto che lo precede (les, cioè les valises): montées."
+    },
+    {
+      "id": "L067-e22",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-avoir",
+      "prompt": "Sono salita al terzo piano, poi ho portato su la spesa.",
+      "answers": ["Je suis montée au troisième étage, [puis|et] j'ai monté les courses."],
+      "explain_it": "Lo stesso verbo monter prende être quando indica il salire (Je suis montée) e avere quando ha un oggetto diretto (j'ai monté les courses); qui l'oggetto viene dopo, quindi nessun accordo."
+    },
+    {
+      "id": "L067-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "Mio fratello è molto chiacchierone.",
+      "answers": ["Mon frère est très bavard.", "Mon frère est vraiment bavard."],
+      "explain_it": "Bavard è un aggettivo maschile singolare in questa frase; per la forma femminile vedi l'esercizio sull'accordo."
+    },
+    {
+      "id": "L067-e24",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Come ultima risorsa, ho chiamato il tecnico.",
+      "answers": ["En dernier ressort, j'ai appelé le [technicien|dépanneur]."],
+      "explain_it": "« En dernier ressort » vuol dire « come ultima risorsa »; appeler vuole avoir e il tecnico è un oggetto diretto che viene dopo il verbo."
+    },
+    {
+      "id": "L067-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Non riesco a ritrovare la password.",
+      "answers": ["Je n'arrive pas à retrouver le mot de passe.", "Je n'arrive pas à retrouver mon mot de passe."],
+      "explain_it": "Mot de passe è maschile; con il possessivo si usa mon, ma l'articolo le è altrettanto corretto."
+    },
+    {
+      "id": "L067-e26",
+      "type": "write",
+      "level": 3,
+      "concept": "negation",
+      "prompt": "Non ho ancora pulito la cucina.",
+      "answers": ["Je n'ai pas encore nettoyé la cuisine."],
+      "explain_it": "Nella negazione del passato prossimo, ne e pas circondano l'ausiliare avoir: encore va prima del participio."
+    },
+    {
+      "id": "L067-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "connectors",
+      "prompt": "Porta giù la spazzatura, altrimenti puzza.",
+      "answers": ["Descends la poubelle, sinon ça [sent mauvais|pue]."],
+      "explain_it": "Sinon collega l'ordine alla sua conseguenza, come in italiano; il verbo descendre resta transitivo con la poubelle."
+    },
+    {
+      "id": "L067-e28",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Abbiamo chiacchierato per più di un'ora.",
+      "answers": ["Nous avons bavardé pendant [plus d'une heure|une bonne heure]."],
+      "explain_it": "Bavarder è un verbo intransitivo che prende avere: nous avons bavardé, con participio invariato."
+    },
+    {
+      "id": "L067-e29",
+      "type": "dictation",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "text": "Je suis rentré tôt hier, mais j'ai oublié les courses."
+    },
+    {
+      "id": "L067-e30",
+      "type": "dictation",
+      "level": 3,
+      "concept": "idioms",
+      "text": "Pendant que tu bavardes, je passe l'aspirateur."
+    },
+    {
+      "id": "L067-e31",
+      "type": "flash",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "front": "Rentrer, sortir, monter, descendre, passer, entrer, retourner: quale ausiliare?",
+      "back": "Essere quando il verbo è intransitivo (senza oggetto diretto): je suis sorti, elle est rentrée. Avere quando è transitivo (con oggetto diretto): j'ai sorti mes clés.",
+      "note": "Come in italiano con salire e scendere: sono salito / ho salito le scale."
+    },
+    {
+      "id": "L067-e32",
+      "type": "flash",
+      "level": 2,
+      "concept": "participle-agreement",
+      "front": "Con avere, quando il participio concorda?",
+      "back": "Solo se il complemento oggetto diretto viene prima del verbo: les clés qu'il a sorties; les valises, je les ai montées. Se l'oggetto viene dopo, il participio resta invariato: j'ai monté les courses.",
+      "note": "Con essere concorda sempre con il soggetto."
+    },
+    {
+      "id": "L067-e33",
+      "type": "flash",
+      "level": 2,
+      "concept": "false-friends",
+      "front": "Che cosa significa « Je suis passé te voir » ?",
+      "back": "« Sono passato a trovarti »: passer voir vuol dire fare un salto a trovare qualcuno, non « passare a vedere ».",
+      "note": "Non confondere passer (passare, far visita) con se passer (accadere)."
+    }
+  ]
+}

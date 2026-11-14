@@ -1,0 +1,966 @@
+{
+  "n": 82,
+  "title_fr": "Qu'ils sont idiots !",
+  "title_it": "Che idioti!",
+  "review": false,
+  "status": "verified",
+  "source": "3d1a4471 pdf 9-16 (libro p.485-492; la lezione inizia in alto a pdf 9 (p.485); dialogo e note pdf 9-13; esercizio 1 in basso a pdf 13 (p.489), risposte in basso a pdf 14 (p.490); esercizio 2 in alto a pdf 15 (p.491), risposte in alto a pdf 16 (p.492), oltre l'intervallo indicato; la lezione 83 inizia in basso a pdf 15)",
+  "theme_it": "Per strada un sondaggista ferma un passante per un breve questionario sulle istituzioni politiche. Il passante, infastidito, accetta solo di rispondere a qualche domanda su primo ministro, presidente, maggioranza e opposizione, ma dichiara di non avere opinioni nette e di non conoscere nemmeno i deputati. Il sondaggista se ne va scoraggiato, e il passante borbotta che i sondaggisti sono idioti.",
+  "grammar": [
+    {
+      "id": "subjonctif",
+      "title_it": "Il congiuntivo nelle frasi concessive con que ... ou non",
+      "explain_it": "Per dire 'che lo si voglia o no' il francese usa qu'on le veuille ou non: que introduce una concessiva e il verbo va al congiuntivo. Lo stesso schema vale con la negazione pas (que tu l'aimes ou pas). È una struttura fissa, da imparare come blocco.",
+      "examples": [
+        {
+          "fr": "Qu'on le veuille ou non, il faut voter.",
+          "it": "Che lo si voglia o no, bisogna votare."
+        },
+        {
+          "fr": "Que tu l'aimes ou pas, il tient à toi.",
+          "it": "Che tu lo ami o no, tiene a te."
+        }
+      ]
+    },
+    {
+      "id": "subjonctif",
+      "title_it": "Il congiuntivo presente di vouloir",
+      "explain_it": "Vouloir è irregolare al congiuntivo: que je veuille, que tu veuilles, qu'il/elle veuille, que nous voulions, que vous vouliez, qu'ils/elles veuillent. Le forme nous voulions e vous vouliez si scrivono come l'imperfetto: il que davanti e il contesto indicano che si tratta del congiuntivo.",
+      "examples": [
+        {
+          "fr": "Je veux que tu viennes.",
+          "it": "Voglio che tu venga."
+        },
+        {
+          "fr": "Il faut que vous vouliez bien.",
+          "it": "Bisogna che lo vogliate davvero."
+        }
+      ]
+    },
+    {
+      "id": "indefinites",
+      "title_it": "Certains e d'autres: alcuni ... altri ...",
+      "explain_it": "Certains (alcuni) è un pronome indefinito plurale che si usa per contrapporre un gruppo a un altro introdotto da d'autres (altri). In frasi come queste d'autres può essere seguito da un verbo o da una parola sola come pas o non, esattamente come in italiano 'altri no'.",
+      "examples": [
+        {
+          "fr": "Certains sont d'accord, d'autres pas.",
+          "it": "Alcuni sono d'accordo, altri no."
+        },
+        {
+          "fr": "Certains partent, d'autres restent.",
+          "it": "Alcuni partono, altri restano."
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Il ne s'agit pas de ... mais de ...",
+      "explain_it": "Il s'agit de è un'espressione impersonale che significa 'si tratta di', 'è questione di'. Va sempre alla terza persona singolare, con il soggetto il. La struttura Il ne s'agit pas de A, mais de B contrappone due cose, come in italiano 'non si tratta di A, ma di B'.",
+      "examples": [
+        {
+          "fr": "Il s'agit de votre salaire.",
+          "it": "Si tratta del vostro stipendio."
+        },
+        {
+          "fr": "Il ne s'agit pas de gagner, mais de participer.",
+          "it": "Non si tratta di vincere, ma di partecipare."
+        }
+      ]
+    },
+    {
+      "id": "negation-other",
+      "title_it": "Ne ... que: solo, soltanto",
+      "explain_it": "Ne ... que significa 'solo, soltanto' e non è una vera negazione: ne sta prima del verbo, que davanti alla parola che viene limitata. Non va confuso con ne ... pas, che nega. In molti casi equivale a seulement (je n'ai que deux frères = j'ai seulement deux frères).",
+      "examples": [
+        {
+          "fr": "Je n'ai que deux frères.",
+          "it": "Ho solo due fratelli."
+        },
+        {
+          "fr": "Ils ne posent que des questions simples.",
+          "it": "Fanno solo domande semplici."
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "title_it": "Inversione con a-t-il: la t eufonica",
+      "explain_it": "Nelle domande con inversione, quando il verbo della terza persona singolare finisce per vocale (a, e) e il pronome è il, elle o on, si inserisce una -t- eufonica tra i due trattini: a-t-il, va-t-elle, arrive-t-il. Serve a separare le due vocali. L'inversione è più formale della domanda con est-ce que.",
+      "examples": [
+        {
+          "fr": "A-t-il encore du temps ?",
+          "it": "Ha ancora tempo?"
+        },
+        {
+          "fr": "Arrivera-t-il à imposer son autorité ?",
+          "it": "Riuscirà a imporre la sua autorità?"
+        }
+      ]
+    },
+    {
+      "id": "pronoun-y",
+      "title_it": "Tenir à e il pronome y",
+      "explain_it": "Tenir à significa 'tenerci, essere affezionati a' e si usa con una cosa o un'idea. Quando la cosa è già nominata si sostituisce con il pronome y, che sta prima del verbo: j'y tiens, si vous y tenez (se ci tiene). L'italiano ha la stessa costruzione con 'tenere a' e 'tenerci', quindi il ragionamento è identico.",
+      "examples": [
+        {
+          "fr": "Ce projet est important : j'y tiens beaucoup.",
+          "it": "Questo progetto è importante: ci tengo molto."
+        },
+        {
+          "fr": "Si vous y tenez, venez avec nous.",
+          "it": "Se ci tiene, venga con noi."
+        }
+      ]
+    },
+    {
+      "id": "exclamatives",
+      "title_it": "Esclamazioni con que: Qu'il est ennuyeux !",
+      "explain_it": "L'esclamazione si forma con que + pronome soggetto + être + aggettivo: Qu'il est ennuyeux ! Se si vuole nominare la cosa di cui si parla, il nome viene aggiunto alla fine: Qu'ils sont idiots, ces sondeurs ! Nel francese familiare si può anche dire Qu'est-ce qu'il est ennuyeux ! con lo stesso senso.",
+      "examples": [
+        {
+          "fr": "Qu'il est ennuyeux, ce débat !",
+          "it": "Quanto è noioso questo dibattito!"
+        },
+        {
+          "fr": "Qu'ils sont sympathiques, ces gens !",
+          "it": "Come sono simpatiche queste persone!"
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Tout court: semplicemente, punto e basta",
+      "explain_it": "Tout court si aggiunge a una frase per dire 'senza aggiungere altro, semplicemente, punto e basta': Je n'ai aucune opinion, tout court. De tout et de rien è un'altra espressione fissa e significa 'del più e del meno': si usa con parler.",
+      "examples": [
+        {
+          "fr": "Je n'ai aucune opinion, tout court.",
+          "it": "Non ho nessuna opinione, punto e basta."
+        },
+        {
+          "fr": "Il ne s'agit pas de parler de tout et de rien.",
+          "it": "Non si tratta di chiacchierare del più e del meno."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le sondage",
+      "it": "il sondaggio",
+      "pos": "n"
+    },
+    {
+      "fr": "pré-électoral",
+      "it": "pre-elettorale",
+      "pos": "adj"
+    },
+    {
+      "fr": "la période",
+      "it": "il periodo",
+      "pos": "n"
+    },
+    {
+      "fr": "s'entretenir",
+      "it": "conversare, intrattenersi",
+      "pos": "v",
+      "note": "s'entretenir avec qqn"
+    },
+    {
+      "fr": "l'inconnu (m.)",
+      "it": "lo sconosciuto",
+      "pos": "n"
+    },
+    {
+      "fr": "le trottoir",
+      "it": "il marciapiede",
+      "pos": "n"
+    },
+    {
+      "fr": "encombré",
+      "it": "ingombro, affollato",
+      "pos": "adj",
+      "note": "trottoir encombré"
+    },
+    {
+      "fr": "l'intérêt (m.)",
+      "it": "l'interesse",
+      "pos": "n"
+    },
+    {
+      "fr": "le questionnaire",
+      "it": "il questionario",
+      "pos": "n"
+    },
+    {
+      "fr": "le premier ministre",
+      "it": "il primo ministro",
+      "pos": "n"
+    },
+    {
+      "fr": "le locataire",
+      "it": "l'inquilino, il titolare (di una carica)",
+      "pos": "n",
+      "note": "le locataire de l'Élysée = il presidente in carica"
+    },
+    {
+      "fr": "l'Élysée (m.)",
+      "it": "l'Eliseo",
+      "pos": "n"
+    },
+    {
+      "fr": "la qualité",
+      "it": "la qualità",
+      "pos": "n"
+    },
+    {
+      "fr": "trancher",
+      "it": "decidere, prendere una posizione netta",
+      "pos": "v",
+      "note": "opinion tranchée = opinione netta"
+    },
+    {
+      "fr": "le mandat",
+      "it": "il mandato",
+      "pos": "n"
+    },
+    {
+      "fr": "indifférent / indifférente",
+      "it": "indifferente",
+      "pos": "adj",
+      "note": "ça m'est indifférent"
+    },
+    {
+      "fr": "la majorité",
+      "it": "la maggioranza",
+      "pos": "n"
+    },
+    {
+      "fr": "l'opposition (f.)",
+      "it": "l'opposizione",
+      "pos": "n"
+    },
+    {
+      "fr": "l'Assemblée (f.)",
+      "it": "l'Assemblea nazionale",
+      "pos": "n"
+    },
+    {
+      "fr": "efficace",
+      "it": "efficace",
+      "pos": "adj"
+    },
+    {
+      "fr": "imposer",
+      "it": "imporre",
+      "pos": "v",
+      "note": "imposer son autorité"
+    },
+    {
+      "fr": "le député",
+      "it": "il deputato",
+      "pos": "n"
+    },
+    {
+      "fr": "marmonner",
+      "it": "borbottare",
+      "pos": "v"
+    },
+    {
+      "fr": "découragé / découragée",
+      "it": "scoraggiato",
+      "pos": "adj"
+    },
+    {
+      "fr": "idiot / idiote",
+      "it": "idiota",
+      "pos": "adj"
+    },
+    {
+      "fr": "ennuyeux / ennuyeuse",
+      "it": "noioso",
+      "pos": "adj"
+    },
+    {
+      "fr": "passionner",
+      "it": "appassionare",
+      "pos": "v",
+      "note": "personne ne me passionne = nessuno mi appassiona"
+    },
+    {
+      "fr": "le débat",
+      "it": "il dibattito",
+      "pos": "n"
+    },
+    {
+      "fr": "puisque",
+      "it": "visto che, poiché",
+      "pos": "conj"
+    },
+    {
+      "fr": "s'agir de",
+      "it": "trattarsi di",
+      "pos": "v",
+      "note": "verbo impersonale, solo alla terza persona"
+    },
+    {
+      "fr": "accorder",
+      "it": "concedere, accordare",
+      "pos": "v",
+      "note": "accorder du temps à qqn"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Qu'on le veuille ou non",
+      "it": "che lo si voglia o no",
+      "note": "concessiva con il congiuntivo"
+    },
+    {
+      "fr": "Puisque vous insistez",
+      "it": "visto che insiste",
+      "note": "formula di resa, accettare controvoglia"
+    },
+    {
+      "fr": "Ça m'est indifférent",
+      "it": "per me è lo stesso",
+      "note": "registro neutro-colloquiale"
+    },
+    {
+      "fr": "Je n'ai aucune opinion, tout court.",
+      "it": "Non ho nessuna opinione, punto e basta.",
+      "note": "tout court = semplicemente"
+    },
+    {
+      "fr": "Il ne s'agit pas de",
+      "it": "non si tratta di",
+      "note": "di solito seguito da mais de"
+    },
+    {
+      "fr": "de tout et de rien",
+      "it": "del più e del meno",
+      "note": "parlare di tutto e di niente"
+    },
+    {
+      "fr": "Si vous y tenez",
+      "it": "se ci tiene",
+      "note": "cortese, quasi 'se insiste'"
+    },
+    {
+      "fr": "C'est noté.",
+      "it": "Preso nota.",
+      "note": "risposta formale in una riunione o intervista"
+    },
+    {
+      "fr": "Faites vite.",
+      "it": "Sbrigatevi.",
+      "note": "imperativo con vite = in fretta"
+    },
+    {
+      "fr": "Ça durera le temps que ça durera.",
+      "it": "Durerà quel che durerà.",
+      "note": "tono indifferente"
+    },
+    {
+      "fr": "Qu'en pensez-vous ?",
+      "it": "Che ne pensa?",
+      "note": "forma di cortesia con vous"
+    },
+    {
+      "fr": "Je vous assure.",
+      "it": "Glielo assicuro.",
+      "note": "rafforza un'affermazione"
+    }
+  ],
+  "notes_it": [
+    "Falso amico: 'actuel' non significa 'effettivo' ma 'attuale, del momento' (il président actuel è l'attuale presidente).",
+    "Metonimia: 'le locataire de l'Élysée' (l'inquilino dell'Eliseo) indica il presidente in carica, perché l'Eliseo è la sua residenza ufficiale, come il Quirinale in Italia per il presidente della Repubblica.",
+    "Pronuncia: in veuille la sequenza -eill- si legge [vœj], con la vocale di œil; in veuillez la vocale diventa chiusa ([vøje]). Nel parlato corrente il ne della negazione spesso cade (j'ai pas le temps), ma nello scritto va mantenuto.",
+    "Cultura: in Francia i sondaggi d'opinione diventano molto frequenti nel periodo pré-électoral, cioè nei mesi prima delle elezioni, e spesso si fanno per strada o per telefono."
+  ],
+  "exercises": [
+    {
+      "id": "L082-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "subjonctif",
+      "prompt": "Quale forma completa la frase? « Qu'on le ___ ou non, il faut voter. » (vouloir)",
+      "options": [
+        "veut",
+        "veuille",
+        "voulait",
+        "voudra"
+      ],
+      "correct": 1,
+      "explain_it": "Nella concessiva qu'on le veuille ou non il verbo va al congiuntivo presente: veuille, non veut."
+    },
+    {
+      "id": "L082-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "subjonctif",
+      "prompt": "Quale forma completa la frase? « Il faut que tu ___ la vérité. » (dire)",
+      "options": [
+        "dis",
+        "dises",
+        "dit",
+        "dirais"
+      ],
+      "correct": 1,
+      "explain_it": "Dopo il faut que il verbo va al congiuntivo: que tu dises, non dis (indicativo) o dirais (condizionale)."
+    },
+    {
+      "id": "L082-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "negation-other",
+      "prompt": "Quale frase significa 'Ho solo tre minuti'?",
+      "options": [
+        "Je n'ai pas trois minutes.",
+        "Je n'ai que trois minutes.",
+        "Je n'ai plus trois minutes.",
+        "Je n'ai jamais trois minutes."
+      ],
+      "correct": 1,
+      "explain_it": "Ne ... que significa 'solo' e regge avoir: Je n'ai que trois minutes. Pas nega e cambia senso."
+    },
+    {
+      "id": "L082-e04",
+      "type": "cloze",
+      "level": 1,
+      "concept": "negation-other",
+      "text": "Il ne parle ___ de politique.",
+      "answers": [
+        "que"
+      ],
+      "hint": "(ne ... que = solo)",
+      "prompt": "Lui parla solo di politica.",
+      "explain_it": "Ne ... que incornicia il verbo: que va davanti a ciò che viene limitato, qui de politique."
+    },
+    {
+      "id": "L082-e05",
+      "type": "order",
+      "level": 1,
+      "concept": "subjonctif",
+      "prompt": "Bisogna che tu venga.",
+      "answers": [
+        "Il faut que tu viennes."
+      ],
+      "distractors": [
+        "viens",
+        "vient"
+      ],
+      "explain_it": "Dopo il faut que il verbo sta al congiuntivo: que tu viennes, non viens né vient."
+    },
+    {
+      "id": "L082-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "exclamatives",
+      "prompt": "Quanto sono simpatici questi ragazzi!",
+      "answers": [
+        "Qu'ils sont sympathiques, ces garçons"
+      ],
+      "distractors": [
+        "est",
+        "ont"
+      ],
+      "explain_it": "Nelle esclamazioni si usa que + pronome + verbo + aggettivo (qu'ils sont sympathiques) e il nome viene ripreso in fondo con ces garçons."
+    },
+    {
+      "id": "L082-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "pronoun-y",
+      "prompt": "Se ci tiene, venga con noi.",
+      "answers": [
+        "Si vous y tenez, venez avec nous."
+      ],
+      "distractors": [
+        "partez",
+        "tenons"
+      ],
+      "explain_it": "Tenir à con una cosa si rende con y: si vous y tenez, cioè 'se ci tiene'."
+    },
+    {
+      "id": "L082-e08",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Nella frase « Je n'ai aucune opinion, tout court », che cosa significa 'tout court'?",
+      "options": [
+        "semplicemente, punto e basta",
+        "tutto corto, di breve lunghezza",
+        "molto in fretta",
+        "al momento"
+      ],
+      "correct": 0,
+      "explain_it": "Tout court significa 'semplicemente, senza aggiunte': non ho nessuna opinione, punto e basta."
+    },
+    {
+      "id": "L082-e09",
+      "type": "cloze",
+      "level": 1,
+      "concept": "indefinites",
+      "text": "Certains sont d'accord, ___ non.",
+      "answers": [
+        "d'autres"
+      ],
+      "hint": "(altri)",
+      "prompt": "Alcuni sono d'accordo, altri no.",
+      "explain_it": "Certains introduce un gruppo e d'autres l'altro gruppo: de diventa d' davanti alla vocale di autres (elisione obbligatoria)."
+    },
+    {
+      "id": "L082-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "pronoun-y",
+      "text": "Ce projet est important : j'___ tiens beaucoup.",
+      "answers": [
+        "y"
+      ],
+      "hint": "(tenir à)",
+      "prompt": "Questo progetto è importante: ci tengo molto.",
+      "explain_it": "Con tenir à e una cosa il pronome sostitutivo è y, che sta davanti al verbo: j'y tiens."
+    },
+    {
+      "id": "L082-e11",
+      "type": "mcq",
+      "level": 1,
+      "concept": "questions",
+      "prompt": "Quale domanda significa 'È efficace?' con inversione del soggetto?",
+      "options": [
+        "Il est-il efficace ?",
+        "Est-t-il efficace ?",
+        "Est-il efficace ?",
+        "Il est efficace-t-il ?"
+      ],
+      "correct": 2,
+      "explain_it": "Con l'inversione il verbo e il pronome sono uniti da un trattino: Est-il efficace ?"
+    },
+    {
+      "id": "L082-e12",
+      "type": "cloze",
+      "level": 1,
+      "concept": "negation-other",
+      "text": "Ils ne sont ___ trois au bureau.",
+      "answers": [
+        "que"
+      ],
+      "hint": "(ne ... que)",
+      "prompt": "Sono solo in tre in ufficio.",
+      "explain_it": "Ne ... que regge il verbo essere: Ils ne sont que trois, che significa 'sono solo in tre'."
+    },
+    {
+      "id": "L082-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "Il est dommage que vous n'___ pas le temps.",
+      "answers": [
+        "ayez"
+      ],
+      "hint": "(avoir, congiuntivo presente)",
+      "prompt": "Peccato che non abbiate tempo.",
+      "explain_it": "Dopo il est dommage que il verbo va al congiuntivo e avoir fa ayez per vous."
+    },
+    {
+      "id": "L082-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "J'exige que vous ___ la vérité.",
+      "answers": [
+        "disiez"
+      ],
+      "hint": "(dire, congiuntivo presente)",
+      "prompt": "Esigo che diciate la verità.",
+      "explain_it": "Dire al congiuntivo fa que vous disiez, con la radice di nous disons e la desinenza -iez."
+    },
+    {
+      "id": "L082-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Esigo che tu rifletta.",
+      "answers": [
+        "J'exige que tu réfléchisses."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Exiger que richiede il congiuntivo: que tu réfléchisses, con -isses per la forma tu dei verbi in -ir."
+    },
+    {
+      "id": "L082-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "subjonctif",
+      "prompt": "Voglio che tu venga.",
+      "answers": [
+        "Je veux que tu viennes."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Vouloir que vuole il congiuntivo: que tu viennes, con la radice vienn- del congiuntivo di venir."
+    },
+    {
+      "id": "L082-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "negation-other",
+      "prompt": "Ho solo un'ora.",
+      "answers": [
+        "Je n'ai qu'une heure",
+        "Je n'ai qu'une seule heure"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Ne ... que con avoir: ne sta prima di ai, que davanti al complemento. Davanti a une, que si elide: qu'une."
+    },
+    {
+      "id": "L082-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "exclamatives",
+      "prompt": "Quanto è noioso questo dibattito!",
+      "answers": [
+        "Qu'il est ennuyeux, ce débat !",
+        "Qu'est-ce qu'il est ennuyeux, ce débat !"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "L'esclamazione si costruisce con qu'il est + aggettivo; nel registro familiare si può usare qu'est-ce qu'il est."
+    },
+    {
+      "id": "L082-e19",
+      "type": "cloze",
+      "level": 2,
+      "concept": "questions",
+      "text": "Le président a-___-il déjà voté ?",
+      "answers": [
+        "t"
+      ],
+      "hint": "(t eufonica)",
+      "prompt": "Il presidente ha già votato?",
+      "explain_it": "Nell'inversione a-il si inserisce una -t- eufonica per evitare due vocali di seguito: a-t-il."
+    },
+    {
+      "id": "L082-e20",
+      "type": "dictation",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "Il faut que nous finissions ce travail aujourd'hui.",
+      "explain_it": "Dopo il faut que il verbo finir al congiuntivo fa nous finissions, con -ions e la radice finiss-."
+    },
+    {
+      "id": "L082-e21",
+      "type": "dictation",
+      "level": 2,
+      "concept": "negation-other",
+      "text": "Il ne mange que des légumes le soir.",
+      "explain_it": "Ne ... que va prima del verbo e que prima del complemento des légumes, con il significato di 'solo'."
+    },
+    {
+      "id": "L082-e22",
+      "type": "flash",
+      "level": 2,
+      "concept": "subjonctif",
+      "front": "Dopo « il faut que », quale modo verbale si usa e perché?",
+      "back": "Il congiuntivo, perché esprime una necessità e non un fatto certo: il faut que je parte, il faut que nous finissions.",
+      "note": "Vale anche per vouloir que, il est dommage que e exiger que.",
+      "explain_it": "Dopo il faut que serve il congiuntivo perché si esprime una necessità, non un fatto certo."
+    },
+    {
+      "id": "L082-e23",
+      "type": "flash",
+      "level": 2,
+      "concept": "negation-other",
+      "front": "Come si costruisce « solo » con ne ... que?",
+      "back": "Ne va prima del verbo, que va davanti alla parola limitata: Je n'ai que deux frères (ho solo due fratelli).",
+      "note": "Non è una negazione: que non ha il senso di 'non'."
+    },
+    {
+      "id": "L082-e24",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Je n'ai aucune opinion, ___ court.",
+      "answers": [
+        "tout"
+      ],
+      "hint": "(tout court)",
+      "prompt": "Non ho nessuna opinione, punto e basta.",
+      "explain_it": "L'espressione è fissa: tout court va dopo la virgola e significa 'semplicemente'."
+    },
+    {
+      "id": "L082-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Non si tratta di vincere, ma di partecipare.",
+      "answers": [
+        "Il ne s'agit pas de gagner, mais de participer.",
+        "Il ne s'agit pas de vaincre, mais de participer."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Il ne s'agit pas de ... mais de ... è la struttura fissa per contrapporre due cose."
+    },
+    {
+      "id": "L082-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-y",
+      "prompt": "Se ci tiene, può restare.",
+      "answers": [
+        "Si vous y tenez, vous pouvez rester."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Il pronome y sostituisce la cosa a cui si tiene e si mette prima di tenez; vous indica la forma di cortesia."
+    },
+    {
+      "id": "L082-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "indefinites",
+      "prompt": "Alcuni sono d'accordo, altri no.",
+      "answers": [
+        "Certains sont d'accord, d'autres non.",
+        "Certains sont d'accord, d'autres pas."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Certains e d'autres si usano insieme per contrapporre due gruppi; d'autres può essere seguito da non o da pas."
+    },
+    {
+      "id": "L082-e28",
+      "type": "flash",
+      "level": 2,
+      "concept": "indefinites",
+      "front": "Come si dice « alcuni ... altri ... » con i pronomi indefiniti?",
+      "back": "Certains ... d'autres ...: Certains partent, d'autres restent (alcuni partono, altri restano).",
+      "note": "D' si usa davanti a autres: certains ... d'autres."
+    },
+    {
+      "id": "L082-e29",
+      "type": "mcq",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "In francese, 'actuel' significa:",
+      "options": [
+        "effettivo, reale",
+        "attuale, del momento",
+        "attivo, dinamico",
+        "azionario"
+      ],
+      "correct": 1,
+      "explain_it": "Falso amico: l'italiano 'effettivo' si dice effectif o réel in francese; actuel vuol dire 'attuale'."
+    },
+    {
+      "id": "L082-e30",
+      "type": "mcq",
+      "level": 2,
+      "concept": "pronunciation",
+      "prompt": "Nella parola « veuille » la vocale centrale si pronuncia come:",
+      "options": [
+        "la a di 'casa'",
+        "la eu di 'œil'",
+        "la u di 'luna'",
+        "la o di 'sole'"
+      ],
+      "correct": 1,
+      "explain_it": "In veuille la vocale centrale è quella della legatura œ di œil, non una semplice u o o."
+    },
+    {
+      "id": "L082-e31",
+      "type": "cloze",
+      "level": 2,
+      "concept": "negation-other",
+      "text": "Il n'y a ___ deux solutions.",
+      "answers": [
+        "que"
+      ],
+      "hint": "(ne ... que)",
+      "prompt": "Ci sono solo due soluzioni.",
+      "explain_it": "Con il y a e la struttura ne ... que il senso è 'ci sono solo due soluzioni'."
+    },
+    {
+      "id": "L082-e32",
+      "type": "write",
+      "level": 2,
+      "concept": "questions",
+      "prompt": "Il ministro è efficace?",
+      "answers": [
+        "Le ministre est-il efficace ?",
+        "Est-ce que le ministre est efficace ?",
+        "Le ministre est efficace ?"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Con soggetto nominale l'inversione ripete il pronome (le ministre est-il); est-ce que e l'intonazione sono più colloquiali."
+    },
+    {
+      "id": "L082-e33",
+      "type": "mcq",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Che cosa significa « Ça m'est indifférent » ?",
+      "options": [
+        "Per me è lo stesso",
+        "Mi fa male",
+        "Mi sembra difficile",
+        "Mi piace molto"
+      ],
+      "correct": 0,
+      "explain_it": "Ça m'est indifférent esprime che una cosa non cambia nulla per me: per me è lo stesso."
+    },
+    {
+      "id": "L082-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Non credo che tu abbia tempo, ma spero che tu verrai.",
+      "answers": [
+        "Je ne [crois|pense] pas que tu aies le temps, mais j'espère que tu viendras."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Dopo la negazione di croire il verbo va al congiuntivo; con espérer si usa l'indicativo futuro viendras."
+    },
+    {
+      "id": "L082-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "exclamatives",
+      "prompt": "Che idioti, questi sondaggisti! Fanno solo domande inutili.",
+      "answers": [
+        "[Qu'ils sont|Qu'est-ce qu'ils sont] idiots, ces sondeurs ! Ils ne posent que des questions [inutiles|sans intérêt]."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "L'esclamazione usa que + pronome + être + aggettivo con il nome ripreso in fondo; ne ... que indica 'solo' nella frase successiva."
+    },
+    {
+      "id": "L082-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "questions",
+      "prompt": "Il primo ministro è efficace? Ha ancora tempo?",
+      "answers": [
+        "[Le premier ministre est-il efficace|Est-ce que le premier ministre est efficace] ? [A-t-il|Est-ce qu'il a] encore [du|le] temps ?"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Due domande: la prima con inversione del soggetto, la seconda con la t eufonica in a-t-il o con est-ce que."
+    },
+    {
+      "id": "L082-e37",
+      "type": "order",
+      "level": 3,
+      "concept": "negation-other",
+      "prompt": "Ci sono solo due possibilità, partire o restare.",
+      "answers": [
+        "Il n'y a que deux possibilités, partir ou rester."
+      ],
+      "distractors": [
+        "plus",
+        "ni"
+      ],
+      "explain_it": "Il n'y a que significa 'ci sono solo'; l'alternativa partir ou rester è unita da ou, senza ni, che servirebbe solo con una doppia negazione."
+    },
+    {
+      "id": "L082-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "indefinites",
+      "prompt": "Alcuni deputati sono efficaci, altri no.",
+      "answers": [
+        "Certains députés sont efficaces, d'autres non.",
+        "Certains députés sont efficaces, d'autres ne le sont pas."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Certains e d'autres possono introdurre un gruppo di soggetti; la seconda frase riprende il verbo con ne ... pas."
+    },
+    {
+      "id": "L082-e39",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-y",
+      "prompt": "Se ci tieni, ne parliamo domani.",
+      "answers": [
+        "Si tu y tiens, on en parle demain",
+        "Si tu y tiens, nous en parlons demain",
+        "Si tu y tiens, on en parlera demain",
+        "Si tu y tiens, nous en parlerons demain"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Y sostituisce la cosa a cui si tiene (tu y tiens) e en riprende il complemento di parler de (on en parle); ognuno sta davanti al proprio verbo."
+    },
+    {
+      "id": "L082-e40",
+      "type": "mcq",
+      "level": 3,
+      "concept": "pronoun-y",
+      "prompt": "Come si sostituisce 'à ce débat' in « Je tiens à ce débat » ?",
+      "options": [
+        "Je lui tiens",
+        "J'y tiens",
+        "J'en tiens",
+        "Je le tiens"
+      ],
+      "correct": 1,
+      "explain_it": "Con tenir à + cosa il pronome è y: j'y tiens. Lui si usa per le persone con verbi come parler à, non con tenir à + cosa."
+    },
+    {
+      "id": "L082-e41",
+      "type": "mcq",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Quale frase significa 'Voglio che voi veniate'?",
+      "options": [
+        "Je veux que vous venez.",
+        "Je veux que vous veniez.",
+        "Je veux que vous viendriez.",
+        "Je veux que vous viendrez."
+      ],
+      "correct": 1,
+      "explain_it": "Vouloir que richiede il congiuntivo: que vous veniez, non il futuro né il condizionale."
+    },
+    {
+      "id": "L082-e42",
+      "type": "write",
+      "level": 3,
+      "concept": "subjonctif",
+      "prompt": "Peccato che tu non sia qui oggi.",
+      "answers": [
+        "Il est dommage que tu ne sois pas là aujourd'hui.",
+        "Il est dommage que tu ne sois pas ici aujourd'hui."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Dopo il est dommage que il verbo è al congiuntivo: que tu sois, con la forma irregolare di être."
+    },
+    {
+      "id": "L082-e43",
+      "type": "dictation",
+      "level": 3,
+      "concept": "negation-other",
+      "text": "Puisque tu insistes, je ne peux t'accorder que cinq minutes.",
+      "explain_it": "Ne ... que sta prima del verbo pouvoir, e que precede cinq minutes: 'solo cinque minuti'."
+    },
+    {
+      "id": "L082-e44",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Parliamo del più e del meno, senza scopo.",
+      "answers": [
+        "[Nous parlons|On parle] de tout et de rien, [sans but|sans raison|sans objectif]",
+        "Parlons de tout et de rien, [sans but|sans raison|sans objectif]"
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "De tout et de rien è l'espressione fissa per 'del più e del meno'; senza scopo si rende con sans but."
+    },
+    {
+      "id": "L082-e45",
+      "type": "cloze",
+      "level": 2,
+      "concept": "subjonctif",
+      "text": "Je ne veux pas que tu ___ seul ce soir.",
+      "answers": [
+        "sois"
+      ],
+      "hint": "(être, congiuntivo presente)",
+      "prompt": "Non voglio che tu sia solo stasera.",
+      "explain_it": "Vouloir que regge il congiuntivo anche in forma negativa: que tu sois, con la forma irregolare di être."
+    }
+  ]
+}

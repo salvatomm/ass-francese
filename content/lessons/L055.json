@@ -1,0 +1,1033 @@
+{
+  "n": 55,
+  "title_fr": "Mais c'est horrible, ton film !",
+  "title_it": "Ma è orribile, il tuo film!",
+  "review": false,
+  "status": "verified",
+  "source": "fa2f8a2c p7-13",
+  "theme_it": "Un amico racconta di aver visto al cinema un film dell'orrore appena uscito in un nuovo multisala e lo consiglia con entusiasmo. Ascoltando la trama, l'altro scopre che è ambientata nei luoghi dove chi parla trascorreva le vacanze da piccolo, e reagisce con ironia: il film gli sembra davvero orribile.",
+  "grammar": [
+    {
+      "id": "pronominal-verbs",
+      "title_it": "Verbi pronominali con significato diverso",
+      "explain_it": "Molti verbi cambiano senso quando si usano con il pronome riflessivo (se, s', me, te, nous, vous). 'Passer' significa trascorrere o passare (passer une soirée, trascorrere una serata), mentre 'se passer' significa accadere o svolgersi (Qu'est-ce qui se passe ?, che cosa succede?). 'Tromper' significa ingannare o tradire, mentre 'se tromper' significa sbagliarsi. 'S'entendre' con qualcuno vuol dire andare d'accordo, 'se trouver' significa trovarsi, essere situato, e 'amuser' significa divertire, 's'amuser' divertirsi. Non tradurre mai 'se' alla lettera: il significato va imparato per ogni verbo.",
+      "examples": [
+        {
+          "fr": "Qu'est-ce qui se passe dans la rue ?",
+          "it": "Che cosa succede in strada?"
+        },
+        {
+          "fr": "Je me suis trompé de route.",
+          "it": "Ho sbagliato strada."
+        }
+      ]
+    },
+    {
+      "id": "pronoun-order",
+      "title_it": "Due pronomi oggetto insieme: te le, me la, vous les",
+      "explain_it": "Quando ci sono due pronomi davanti al verbo e uno è me, te, nous o vous, questo viene prima di le/la/les: Je te le conseille, Il me la donne. Con la 3a persona viene invece prima il pronome diretto e poi lui/leur: Je le lui ai dit. In italiano il pronome indiretto precede sempre il diretto (te lo, glielo), in francese questo vale solo per me/te/nous/vous. I pronomi stanno davanti al verbo coniugato.",
+      "examples": [
+        {
+          "fr": "Je te le conseille vraiment.",
+          "it": "Te lo consiglio davvero."
+        },
+        {
+          "fr": "Il vous les envoie demain.",
+          "it": "Ve li manda domani."
+        }
+      ]
+    },
+    {
+      "id": "participle-agreement",
+      "title_it": "Passato prossimo dei verbi pronominali e accordo",
+      "explain_it": "I verbi pronominali formano il passato prossimo con être. Il participio si accorda con il soggetto quando il pronome riflessivo è complemento oggetto diretto: elle s'est cachée, nous nous sommes amusées, ils se sont battus. Se il pronome è complemento indiretto, come in se parler (parlarsi), non c'è accordo: elles se sont parlé. In italiano il participio concorda invece sempre con il soggetto (si sono parlate). Con je il participio dipende da chi parla: je me suis amusé (uomo), je me suis amusée (donna).",
+      "examples": [
+        {
+          "fr": "Elle s'est cachée sous la table.",
+          "it": "Si è nascosta sotto il tavolo."
+        },
+        {
+          "fr": "Nous nous sommes bien amusées.",
+          "it": "Ci siamo divertite molto (tutte donne)."
+        }
+      ]
+    },
+    {
+      "id": "exclamatives",
+      "title_it": "Esclamazioni con quel / quelle / quels / quelles",
+      "explain_it": "Per esclamare si usa quel davanti a un nome, concordando con il nome: quel (m. sing.), quelle (f. sing.), quels (m. pl.), quelles (f. pl.). Si mette prima del nome, con un eventuale aggettivo: Quel temps épouvantable ! Corrisponde all'italiano 'che': Quelle actrice ! (Che attrice!). Si può esclamare anche con c'est + aggettivo: C'est horrible !",
+      "examples": [
+        {
+          "fr": "Quelle actrice !",
+          "it": "Che attrice!"
+        },
+        {
+          "fr": "Quels beaux films !",
+          "it": "Che bei film!"
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Le espressioni con 'coup' e 'monstre sacré'",
+      "explain_it": "Il sostantivo 'coup' ha molti significati idiomatici che vanno imparati come blocchi: 'un coup de main' (un aiuto pratico), 'un coup d'œil' (una rapida occhiata), 'donner un coup de pied' (dare un calcio), 'à coups de' seguito da un nome (a colpi di, a forza di). 'Un monstre sacré' non è un mostro, ma una grande star o un mito di un settore, come il cinema o il teatro; si usa con ammirazione.",
+      "examples": [
+        {
+          "fr": "Tu peux me donner un coup de main ?",
+          "it": "Puoi darmi una mano?"
+        },
+        {
+          "fr": "Il l'a frappé à coups de bâton.",
+          "it": "Lo ha colpito a colpi di bastone."
+        }
+      ]
+    },
+    {
+      "id": "register",
+      "title_it": "Il registro familiare: 'un gosse'",
+      "explain_it": "Un gosse è un termine familiare per 'bambino, ragazzino'. Si usa spesso in un sale gosse (un monello) e un beau gosse (un bel ragazzo, anche adulto). Non è adatto ai contesti formali e in Québec gosse(s) può avere un senso volgare, quindi conviene evitarlo lì.",
+      "examples": [
+        {
+          "fr": "Ce sale gosse a cassé la fenêtre.",
+          "it": "Quel monello ha rotto la finestra."
+        },
+        {
+          "fr": "C'est vraiment un beau gosse.",
+          "it": "È proprio un bel ragazzo."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "l'épouvante (f.)",
+      "it": "il terrore, lo spavento",
+      "pos": "n"
+    },
+    {
+      "fr": "épouvantable",
+      "it": "terribile, spaventoso",
+      "pos": "adj",
+      "note": "anche per il tempo: un temps épouvantable"
+    },
+    {
+      "fr": "horrible",
+      "it": "orribile",
+      "pos": "adj"
+    },
+    {
+      "fr": "atroce",
+      "it": "atroce, orribile",
+      "pos": "adj"
+    },
+    {
+      "fr": "le record",
+      "it": "il record",
+      "pos": "n",
+      "note": "battre un record"
+    },
+    {
+      "fr": "battre",
+      "it": "battere, sconfiggere",
+      "pos": "v",
+      "note": "je bats, il a battu"
+    },
+    {
+      "fr": "l'audience (f.)",
+      "it": "l'audience, il pubblico",
+      "pos": "n"
+    },
+    {
+      "fr": "la salle",
+      "it": "la sala (di cinema, di teatro)",
+      "pos": "n"
+    },
+    {
+      "fr": "le multiplex",
+      "it": "il multisala",
+      "pos": "n"
+    },
+    {
+      "fr": "ouvrir",
+      "it": "aprire",
+      "pos": "v",
+      "note": "qui vient d'ouvrir: appena aperto"
+    },
+    {
+      "fr": "la programmation",
+      "it": "la programmazione",
+      "pos": "n"
+    },
+    {
+      "fr": "varié",
+      "it": "vario, variegato",
+      "pos": "adj",
+      "note": "f. variée"
+    },
+    {
+      "fr": "spacieux",
+      "it": "spazioso",
+      "pos": "adj",
+      "note": "f. spacieuse"
+    },
+    {
+      "fr": "une glace",
+      "it": "un gelato",
+      "pos": "n",
+      "note": "la glace = il ghiaccio"
+    },
+    {
+      "fr": "le hameau",
+      "it": "la frazione, il borgo",
+      "pos": "n"
+    },
+    {
+      "fr": "l'immeuble (m.)",
+      "it": "il palazzo, lo stabile",
+      "pos": "n"
+    },
+    {
+      "fr": "abandonné",
+      "it": "abbandonato",
+      "pos": "adj",
+      "note": "f. abandonnée"
+    },
+    {
+      "fr": "l'apparence (f.)",
+      "it": "l'apparenza",
+      "pos": "n"
+    },
+    {
+      "fr": "la cour",
+      "it": "il cortile",
+      "pos": "n"
+    },
+    {
+      "fr": "une dizaine de",
+      "it": "una decina di",
+      "pos": "expr"
+    },
+    {
+      "fr": "le bruit",
+      "it": "il rumore",
+      "pos": "n"
+    },
+    {
+      "fr": "étrange",
+      "it": "strano, bizzarro",
+      "pos": "adj"
+    },
+    {
+      "fr": "le bâton",
+      "it": "il bastone",
+      "pos": "n"
+    },
+    {
+      "fr": "le coup",
+      "it": "il colpo",
+      "pos": "n",
+      "note": "un coup d'œil, un coup de main"
+    },
+    {
+      "fr": "amuser",
+      "it": "divertire",
+      "pos": "v",
+      "note": "s'amuser: divertirsi"
+    },
+    {
+      "fr": "drôle",
+      "it": "divertente, buffo",
+      "pos": "adj",
+      "note": "f. drôle (invariato)"
+    },
+    {
+      "fr": "le monstre",
+      "it": "il mostro",
+      "pos": "n",
+      "note": "un monstre sacré: grande star"
+    },
+    {
+      "fr": "la vedette",
+      "it": "la star, la celebrità",
+      "pos": "n"
+    },
+    {
+      "fr": "conseiller",
+      "it": "consigliare",
+      "pos": "v",
+      "note": "je te conseille"
+    },
+    {
+      "fr": "se trouver",
+      "it": "trovarsi, essere situato",
+      "pos": "v"
+    },
+    {
+      "fr": "se tromper",
+      "it": "sbagliarsi",
+      "pos": "v",
+      "note": "je me suis trompé(e)"
+    },
+    {
+      "fr": "s'entendre (avec qqn)",
+      "it": "andare d'accordo (con qualcuno)",
+      "pos": "v",
+      "note": "s'entendre à merveille"
+    },
+    {
+      "fr": "se passer",
+      "it": "accadere, svolgersi",
+      "pos": "v",
+      "note": "qu'est-ce qui se passe ?"
+    },
+    {
+      "fr": "le gosse",
+      "it": "il ragazzino, il monello",
+      "pos": "n",
+      "note": "familiare; f. la gosse"
+    },
+    {
+      "fr": "du moins",
+      "it": "almeno, per lo meno",
+      "pos": "expr"
+    },
+    {
+      "fr": "le couple",
+      "it": "la coppia",
+      "pos": "n"
+    },
+    {
+      "fr": "la guitare",
+      "it": "la chitarra",
+      "pos": "n",
+      "note": "jouer de la guitare"
+    },
+    {
+      "fr": "la hache",
+      "it": "l'ascia",
+      "pos": "n",
+      "note": "h aspirata: la hache"
+    },
+    {
+      "fr": "l'histoire (f.)",
+      "it": "la storia",
+      "pos": "n"
+    },
+    {
+      "fr": "la moitié",
+      "it": "la metà",
+      "pos": "n"
+    },
+    {
+      "fr": "la mort",
+      "it": "la morte",
+      "pos": "n"
+    },
+    {
+      "fr": "néanmoins",
+      "it": "tuttavia, ciononostante",
+      "pos": "adv"
+    },
+    {
+      "fr": "l'oiseau (m.)",
+      "it": "l'uccello",
+      "pos": "n",
+      "note": "pl. les oiseaux"
+    },
+    {
+      "fr": "quoi",
+      "it": "che cosa",
+      "pos": "pron",
+      "note": "de quoi parle le film ? = di che cosa parla il film?"
+    },
+    {
+      "fr": "tuer",
+      "it": "uccidere",
+      "pos": "v"
+    },
+    {
+      "fr": "donner un coup de pied",
+      "it": "dare un calcio",
+      "pos": "expr",
+      "note": "un coup de poing = un pugno"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "un monstre sacré",
+      "it": "un mito, una grande star",
+      "note": "usato con ammirazione per attori e registi"
+    },
+    {
+      "fr": "s'entendre à merveille",
+      "it": "andare d'accordo a meraviglia",
+      "note": "per due persone o gruppi che si capiscono molto bene"
+    },
+    {
+      "fr": "un sale gosse",
+      "it": "un monello",
+      "note": "familiare, detto di un bambino dispettoso"
+    },
+    {
+      "fr": "un beau gosse",
+      "it": "un bel ragazzo",
+      "note": "familiare, anche per un uomo adulto"
+    },
+    {
+      "fr": "donner un coup de main",
+      "it": "dare una mano",
+      "note": "aiuto pratico e concreto"
+    },
+    {
+      "fr": "un coup d'œil",
+      "it": "uno sguardo rapido",
+      "note": "dare un'occhiata veloce"
+    },
+    {
+      "fr": "à coups de",
+      "it": "a colpi di",
+      "note": "seguito da un nome: à coups de bâton"
+    },
+    {
+      "fr": "Qu'est-ce qui se passe ?",
+      "it": "Che cosa succede?",
+      "note": "colloquiale, molto usato"
+    },
+    {
+      "fr": "une dizaine de",
+      "it": "una decina di",
+      "note": "seguito da un nome, senza articolo"
+    },
+    {
+      "fr": "du moins",
+      "it": "almeno",
+      "note": "per limitare un'affermazione"
+    }
+  ],
+  "notes_it": [
+    "Falsi amici e doppi significati: une glace è un gelato, ma la glace è anche il ghiaccio (e, con une glace, lo specchio). Un monstre sacré non è un mostro, ma una grande celebrità.",
+    "Dal sostantivo 'l'épouvante' (terrore) deriva l'aggettivo 'épouvantable', che nel parlato quotidiano descrive anche il tempo: un temps épouvantable è un tempaccio. 'Un film d'épouvante' è un film dell'orrore; nel parlato comune si dice spesso 'un film d'horreur'.",
+    "Il verbo 'tromper' ha due sensi: ingannare o tradire, come nel senso di 'tromper sa femme' (tradire la moglie). Con il pronome 'se tromper' significa invece sbagliarsi: attenzione a non confondere i due sensi.",
+    "Gosse è familiare e in Québec può avere un senso volgare. Il francese usa molto coup e monstre in espressioni idiomatiche da imparare a memoria, perché l'italiano non ha sempre un equivalente diretto."
+  ],
+  "exercises": [
+    {
+      "id": "L055-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronominal-verbs",
+      "prompt": "Nella domanda 'Qu'est-ce qui se passe ?', il verbo 'se passer' significa:",
+      "options": [
+        "accadere, succedere",
+        "passare davanti",
+        "trascorrere il tempo",
+        "superare un esame"
+      ],
+      "correct": 0,
+      "explain_it": "Con il pronome 'se' il verbo 'passer' assume il senso di accadere, mentre senza pronome significa trascorrere o passare."
+    },
+    {
+      "id": "L055-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronoun-order",
+      "prompt": "Come si dice 'Te lo consiglio'?",
+      "options": [
+        "Je te le conseille.",
+        "Je le te conseille.",
+        "Je te conseille le.",
+        "Je lui le conseille."
+      ],
+      "correct": 0,
+      "explain_it": "Con te, me, nous, vous il pronome di persona viene prima di quello di cosa: te le."
+    },
+    {
+      "id": "L055-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "exclamatives",
+      "prompt": "Completa l'esclamazione: '___ film horrible !'",
+      "options": [
+        "Quel",
+        "Quelle",
+        "Quels",
+        "Quelles"
+      ],
+      "correct": 0,
+      "explain_it": "'Film' è maschile singolare, quindi si usa 'quel'."
+    },
+    {
+      "id": "L055-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Che cosa significa 'un coup de main'?",
+      "options": [
+        "un aiuto",
+        "uno schiaffo",
+        "una mancia",
+        "una stretta di mano"
+      ],
+      "correct": 0,
+      "explain_it": "'Donner un coup de main' significa dare una mano, aiutare in modo pratico."
+    },
+    {
+      "id": "L055-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "false-friends",
+      "prompt": "Al bar il cameriere ti propone 'une glace à la vanille'. Che cosa ti offre?",
+      "options": [
+        "un gelato alla vaniglia",
+        "del ghiaccio alla vaniglia",
+        "uno specchio",
+        "un bicchiere di latte"
+      ],
+      "correct": 0,
+      "explain_it": "Une glace al bar è un gelato; la glace è anche il ghiaccio (e lo specchio), ma qui il contesto indica il gelato."
+    },
+    {
+      "id": "L055-e06",
+      "type": "mcq",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "Che cosa significa 'un monstre sacré' detto di un attore?",
+      "options": [
+        "una grande star, un mito",
+        "un mostro sacro, una creatura orribile",
+        "un animale protetto",
+        "un sacerdote del cinema"
+      ],
+      "correct": 0,
+      "explain_it": "Il francese 'monstre sacré' indica una celebrità ammirata; non ha nulla a che fare con un mostro in senso letterale."
+    },
+    {
+      "id": "L055-e07",
+      "type": "mcq",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Quale frase significa 'Ho sbagliato strada'?",
+      "options": [
+        "Je me suis trompé de route.",
+        "Je trompe la route.",
+        "Je me trompe la route.",
+        "Je suis trompé de la route."
+      ],
+      "correct": 0,
+      "explain_it": "'Se tromper de' significa sbagliare (strada, treno); 'tromper' da solo significa ingannare."
+    },
+    {
+      "id": "L055-e08",
+      "type": "mcq",
+      "level": 2,
+      "concept": "participle-agreement",
+      "prompt": "Completa: 'Elle s'est ___ dans la cour.' (cacher)",
+      "options": [
+        "cachée",
+        "caché",
+        "cachés",
+        "cachées"
+      ],
+      "correct": 0,
+      "explain_it": "Con 'être' il participio si accorda con il soggetto femminile singolare: cachée."
+    },
+    {
+      "id": "L055-e09",
+      "type": "order",
+      "level": 1,
+      "concept": "pronoun-order",
+      "prompt": "Te lo consiglio davvero.",
+      "answers": [
+        "Je te le conseille vraiment"
+      ],
+      "distractors": [
+        "lui"
+      ],
+      "explain_it": "Il pronome di persona 'te' precede il pronome di cosa 'le', davanti al verbo coniugato."
+    },
+    {
+      "id": "L055-e10",
+      "type": "order",
+      "level": 1,
+      "concept": "pronominal-verbs",
+      "prompt": "I bambini si divertono in giardino.",
+      "answers": [
+        "Les enfants s'amusent dans le jardin"
+      ],
+      "distractors": [
+        "jardins"
+      ],
+      "explain_it": "'S'amuser' significa divertirsi; il pronome si elide davanti a vocale o h muta."
+    },
+    {
+      "id": "L055-e11",
+      "type": "order",
+      "level": 1,
+      "concept": "exclamatives",
+      "prompt": "Che bell'attore!",
+      "answers": [
+        "Quel bel acteur !"
+      ],
+      "distractors": [
+        "Quelle"
+      ],
+      "explain_it": "'Acteur' è maschile e 'bel' si usa davanti a vocale, quindi 'quel bel acteur'."
+    },
+    {
+      "id": "L055-e12",
+      "type": "order",
+      "level": 2,
+      "concept": "participle-agreement",
+      "prompt": "Ieri sera ci siamo divertite molto (tutte donne).",
+      "answers": [
+        "Hier soir, nous nous sommes [beaucoup|bien] amusées"
+      ],
+      "distractors": [
+        "amusés"
+      ],
+      "explain_it": "Il soggetto 'nous' è femminile plurale, quindi il participio prende -ées."
+    },
+    {
+      "id": "L055-e13",
+      "type": "order",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Non so che cosa sia successo.",
+      "answers": [
+        "Je ne sais pas ce qui s'est passé"
+      ],
+      "distractors": [
+        "passer"
+      ],
+      "explain_it": "'Se passer' nel senso di accadere prende 'être' al passato prossimo e il participio 'passé' non cambia, perché il pronome 'se' non è un complemento oggetto diretto."
+    },
+    {
+      "id": "L055-e14",
+      "type": "order",
+      "level": 2,
+      "concept": "pronoun-order",
+      "prompt": "Gliel'ho detto ieri.",
+      "answers": [
+        "Je le lui ai dit hier"
+      ],
+      "distractors": [
+        "leur"
+      ],
+      "explain_it": "Con un pronome di cosa e uno di persona alla terza persona, il francese dice 'le lui': prima il diretto, poi l'indiretto."
+    },
+    {
+      "id": "L055-e15",
+      "type": "cloze",
+      "level": 1,
+      "concept": "pronominal-verbs",
+      "text": "Mes voisins ___ très bien avec nous.",
+      "answers": [
+        "s'entendent"
+      ],
+      "hint": "(s'entendre, presente)",
+      "prompt": "I miei vicini vanno molto d'accordo con noi.",
+      "explain_it": "'S'entendre avec' significa andare d'accordo; con un soggetto plurale si coniuga alla terza persona plurale."
+    },
+    {
+      "id": "L055-e16",
+      "type": "cloze",
+      "level": 1,
+      "concept": "idioms",
+      "text": "Peux-tu me donner un ___ de main ?",
+      "answers": [
+        "coup"
+      ],
+      "hint": "(sostantivo, la locuzione 'un ___ de main')",
+      "prompt": "Puoi darmi una mano?",
+      "explain_it": "La locuzione è 'donner un coup de main', dare una mano."
+    },
+    {
+      "id": "L055-e17",
+      "type": "cloze",
+      "level": 1,
+      "concept": "exclamatives",
+      "text": "___ actrice fantastique !",
+      "answers": [
+        "Quelle"
+      ],
+      "hint": "(esclamativo, femminile singolare)",
+      "prompt": "Che attrice fantastica!",
+      "explain_it": "'Actrice' è femminile singolare, quindi l'esclamativo è 'quelle'."
+    },
+    {
+      "id": "L055-e18",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-order",
+      "text": "Je ___ le conseille vraiment.",
+      "answers": [
+        "te"
+      ],
+      "hint": "(pronome di persona, 2ª persona singolare)",
+      "prompt": "Te lo consiglio davvero.",
+      "explain_it": "Il pronome di persona 'te' va prima di 'le' e del verbo."
+    },
+    {
+      "id": "L055-e19",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "text": "Le musée ___ près de la gare.",
+      "answers": [
+        "se trouve"
+      ],
+      "hint": "(se trouver, presente, terza persona singolare)",
+      "prompt": "Il museo si trova vicino alla stazione.",
+      "explain_it": "'Se trouver' significa trovarsi, essere situato; si coniuga come un verbo pronominale."
+    },
+    {
+      "id": "L055-e20",
+      "type": "cloze",
+      "level": 2,
+      "concept": "participle-agreement",
+      "text": "Elles se sont ___ dans la salle.",
+      "answers": [
+        "cachées"
+      ],
+      "hint": "(cacher, passato prossimo, femminile plurale)",
+      "prompt": "Si sono nascoste nella sala.",
+      "explain_it": "Con 'être' il participio concorda con il soggetto femminile plurale: cachées."
+    },
+    {
+      "id": "L055-e21",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "text": "Nous avons ___ une excellente soirée.",
+      "answers": [
+        "passé"
+      ],
+      "hint": "(passer, passato prossimo, 'trascorrere')",
+      "prompt": "Abbiamo trascorso un'ottima serata.",
+      "explain_it": "'Passer' senza pronome significa trascorrere e vuole 'avoir' al passato prossimo."
+    },
+    {
+      "id": "L055-e22",
+      "type": "cloze",
+      "level": 3,
+      "concept": "participle-agreement",
+      "text": "Ils se sont ___ à coups de bâton.",
+      "answers": [
+        "battus"
+      ],
+      "hint": "(se battre, passato prossimo, maschile plurale)",
+      "prompt": "Si sono picchiati a colpi di bastone.",
+      "explain_it": "'Se battre' è un verbo pronominale: al passato prossimo il participio concorda con il soggetto maschile plurale, battus."
+    },
+    {
+      "id": "L055-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Il museo si trova vicino alla stazione.",
+      "answers": [
+        "Le musée se trouve près de la gare.",
+        "Le musée se trouve tout près de la gare.",
+        "Le musée se trouve à côté de la gare."
+      ],
+      "explain_it": "'Se trouver' è il verbo giusto per 'trovarsi, essere situato'; per 'vicino' si usa 'près de' o 'à côté de'."
+    },
+    {
+      "id": "L055-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Ci divertiamo sempre insieme.",
+      "answers": [
+        "Nous nous amusons toujours ensemble.",
+        "On s'amuse toujours ensemble."
+      ],
+      "explain_it": "Al presente: nous nous amusons oppure, nel parlato, on s'amuse; toujours si mette dopo il verbo."
+    },
+    {
+      "id": "L055-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "exclamatives",
+      "prompt": "Che film orribile!",
+      "answers": [
+        "Quel film horrible !",
+        "Quel film horrible!"
+      ],
+      "explain_it": "'Film' è maschile singolare, quindi l'esclamativo è 'quel'; l'aggettivo 'horrible' resta uguale."
+    },
+    {
+      "id": "L055-e26",
+      "type": "write",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Mio marito e io andiamo d'accordo a meraviglia.",
+      "answers": [
+        "Mon mari et moi, nous nous entendons à merveille.",
+        "Mon mari et moi, on s'entend à merveille.",
+        "Mon mari et moi, nous nous entendons très bien."
+      ],
+      "explain_it": "'S'entendre' con 'à merveille' o 'très bien' significa andare molto d'accordo; con 'on' si usa la forma 's'entend'."
+    },
+    {
+      "id": "L055-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "participle-agreement",
+      "prompt": "Ho sbagliato strada (parla una donna).",
+      "answers": [
+        "Je me suis trompée de route.",
+        "Je me suis trompée de chemin."
+      ],
+      "explain_it": "Con 'se tromper de' e un soggetto femminile, il participio prende la -e finale: trompée."
+    },
+    {
+      "id": "L055-e28",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Il ragazzo ha dato un calcio alla porta.",
+      "answers": [
+        "Le garçon a donné un coup de pied [à|dans] la porte"
+      ],
+      "explain_it": "'Donner un coup de pied' si costruisce con 'à' o 'dans' davanti al bersaglio."
+    },
+    {
+      "id": "L055-e29",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Lei ha battuto il record d'audience.",
+      "answers": [
+        "Elle a battu le record d'audience."
+      ],
+      "explain_it": "'Battre' si coniuga con 'avoir' al passato prossimo; il participio resta battu perché il complemento è dopo il verbo."
+    },
+    {
+      "id": "L055-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "pronominal-verbs",
+      "prompt": "Ieri sera, al cinema, è successo qualcosa di strano.",
+      "answers": [
+        "Hier soir, au cinéma, il s'est passé quelque chose [d'étrange|de bizarre]",
+        "Hier soir, quelque chose [d'étrange|de bizarre] s'est passé au cinéma"
+      ],
+      "explain_it": "'Il se passe' è impersonale; al passato prossimo diventa 'il s'est passé' con 'être' e participio invariato."
+    },
+    {
+      "id": "L055-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-order",
+      "prompt": "Te lo consiglio: vedrai che ti divertirai.",
+      "answers": [
+        "Je te le [conseille|recommande] : tu verras que tu t'amuseras [bien|beaucoup]",
+        "Je te le [conseille|recommande] : tu verras que tu vas t'amuser"
+      ],
+      "explain_it": "Qui si combinano il pronome 'te le' con il futuro semplice del verbo pronominale 's'amuser'."
+    },
+    {
+      "id": "L055-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "participle-agreement",
+      "prompt": "Ieri sera, mio marito e io ci siamo divertiti molto al cinema.",
+      "answers": [
+        "Hier soir, mon mari et moi, [nous nous sommes|on s'est] [beaucoup|bien] amusés au cinéma"
+      ],
+      "explain_it": "Quando il soggetto include un uomo, il participio resta maschile plurale: amusés."
+    },
+    {
+      "id": "L055-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-etre",
+      "prompt": "Le donne sono rimaste sole in casa.",
+      "answers": [
+        "Les femmes sont restées seules [à la maison|dans la maison|chez elles]"
+      ],
+      "explain_it": "Con 'rester' al passato prossimo si usa 'être' e il participio concorda con il soggetto femminile plurale; anche 'seules' concorda."
+    },
+    {
+      "id": "L055-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "numbers",
+      "prompt": "C'erano una decina di persone nella sala.",
+      "answers": [
+        "Il y avait une dizaine de personnes dans la salle.",
+        "Il y avait une dizaine de personnes dans la salle de cinéma."
+      ],
+      "explain_it": "'Une dizaine de' è seguito direttamente dal nome al plurale, senza articolo."
+    },
+    {
+      "id": "L055-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "exclamatives",
+      "prompt": "Che belle sale spaziose!",
+      "answers": [
+        "Quelles belles salles spacieuses !",
+        "Quelles belles salles spacieuses!"
+      ],
+      "explain_it": "'Salles' è femminile plurale, quindi si usa 'quelles'; l'aggettivo 'belles' concorda al femminile plurale."
+    },
+    {
+      "id": "L055-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "pronominal-verbs",
+      "prompt": "Mio marito e io ci siamo ritrovati davanti al cinema.",
+      "answers": [
+        "Mon mari et moi, [nous nous sommes|on s'est] retrouvés devant le cinéma"
+      ],
+      "explain_it": "'Se retrouver' al passato prossimo prende 'être' e il participio si accorda con il soggetto maschile plurale."
+    },
+    {
+      "id": "L055-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Mi puoi dare una mano con la valigia?",
+      "answers": [
+        "[Tu peux|Peux-tu] me donner un coup de main [avec|pour] la valise",
+        "Tu peux m'aider avec la valise"
+      ],
+      "explain_it": "'Donner un coup de main' è seguito da 'avec' o 'pour' per indicare l'oggetto dell'aiuto."
+    },
+    {
+      "id": "L055-e38",
+      "type": "dictation",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "text": "Le film est horrible, mais les acteurs sont très bons.",
+      "answers": [
+        "Le film est horrible, mais les acteurs sont très bons."
+      ],
+      "explain_it": "'Bons' è plurale maschile perché si riferisce a 'les acteurs'."
+    },
+    {
+      "id": "L055-e39",
+      "type": "dictation",
+      "level": 2,
+      "concept": "exclamatives",
+      "text": "Quel temps épouvantable aujourd'hui !",
+      "answers": [
+        "Quel temps épouvantable aujourd'hui !"
+      ],
+      "explain_it": "'Temps' è maschile singolare, quindi 'quel'; 'épouvantable' indica un tempo terribile."
+    },
+    {
+      "id": "L055-e40",
+      "type": "dictation",
+      "level": 3,
+      "concept": "participle-agreement",
+      "text": "Hier soir, je me suis cachée sous la table pendant tout le film, mais je me suis amusée.",
+      "answers": [
+        "Hier soir, je me suis [cachée|caché] sous la table pendant tout le film, mais je me suis [amusée|amusé]"
+      ],
+      "explain_it": "Il participio concorda con il soggetto: -e se parla una donna (cachée, amusée), nulla se parla un uomo; a voce la differenza non si sente."
+    },
+    {
+      "id": "L055-e41",
+      "type": "dictation",
+      "level": 3,
+      "concept": "pronominal-verbs",
+      "text": "Ils se sont bien entendus, du moins au début.",
+      "answers": [
+        "Ils se sont bien entendus, du moins au début."
+      ],
+      "explain_it": "'S'entendre' al passato prossimo ha il participio 'entendus' al maschile plurale; 'du moins' significa almeno."
+    },
+    {
+      "id": "L055-e42",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "front": "Passer e se passer: quali significati?",
+      "back": "Passer significa trascorrere o passare (passer une soirée). Se passer significa accadere o svolgersi (Qu'est-ce qui se passe ?).",
+      "note": "Il pronome cambia completamente il senso del verbo: va imparato per ogni verbo pronominale."
+    },
+    {
+      "id": "L055-e43",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronoun-order",
+      "front": "Due pronomi oggetto insieme: quale viene prima?",
+      "back": "Se uno dei due è me, te, nous o vous, questo va prima: Je te le conseille. Con le e lui: je le lui ai dit.",
+      "note": "L'ordine si applica sempre davanti al verbo coniugato."
+    },
+    {
+      "id": "L055-e44",
+      "type": "flash",
+      "level": 3,
+      "concept": "participle-agreement",
+      "front": "Verbi pronominali al passato prossimo: quando il participio concorda?",
+      "back": "Concorda con il soggetto quando il pronome riflessivo è il complemento oggetto diretto: elle s'est cachée. Non concorda quando il pronome è un complemento indiretto: elles se sont parlé.",
+      "note": "In italiano il participio concorda sempre con il soggetto: in francese il criterio è il ruolo del pronome."
+    },
+    {
+      "id": "L055-e45",
+      "type": "flash",
+      "level": 2,
+      "concept": "exclamatives",
+      "front": "Quel / quelle / quels / quelles: come si sceglie?",
+      "back": "Si sceglie in base al genere e al numero del nome: quel (m. sing.), quelle (f. sing.), quels (m. pl.), quelles (f. pl.). Esempi: quel film, quelle actrice, quels acteurs, quelles salles.",
+      "note": "Il nome viene dopo 'quel' e prima dell'aggettivo facoltativo."
+    },
+    {
+      "id": "L055-e46",
+      "type": "flash",
+      "level": 2,
+      "concept": "idioms",
+      "front": "Tre espressioni con 'coup'",
+      "back": "un coup de main = un aiuto; un coup d'œil = uno sguardo rapido; donner un coup de pied = dare un calcio.",
+      "note": "Sono espressioni fisse da memorizzare come blocco."
+    },
+    {
+      "id": "L055-e47",
+      "type": "flash",
+      "level": 2,
+      "concept": "register",
+      "front": "Un gosse: significato e uso",
+      "back": "È un termine familiare per 'ragazzino'. Si dice anche un sale gosse (monello) e un beau gosse (bel ragazzo).",
+      "note": "Evitalo in contesti formali; in Canada francofono ha un senso volgare."
+    },
+    {
+      "id": "L055-e48",
+      "type": "write",
+      "level": 2,
+      "concept": "futur-simple",
+      "prompt": "Tu ti divertirai molto, ne sono sicuro.",
+      "answers": [
+        "Tu t'amuseras [beaucoup|bien], j'en suis [sûr|certain]"
+      ],
+      "explain_it": "Il futuro semplice di 's'amuser' alla seconda persona singolare è 'tu t'amuseras', con la desinenza -as."
+    },
+    {
+      "id": "L055-e49",
+      "type": "cloze",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Il joue de la ___ dans un petit groupe.",
+      "answers": [
+        "guitare"
+      ],
+      "prompt": "Suona la chitarra in un piccolo gruppo.",
+      "explain_it": "Jouer de + strumento: jouer de la guitare."
+    },
+    {
+      "id": "L055-e50",
+      "type": "write",
+      "level": 2,
+      "concept": "negation-other",
+      "prompt": "Ho visto solo la metà del film.",
+      "answers": [
+        "Je n'ai vu que la moitié du film.",
+        "Je n'ai vu que la moitié de ce film."
+      ],
+      "explain_it": "Ne... que = soltanto; la moitié de = la metà di."
+    }
+  ]
+}

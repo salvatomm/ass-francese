@@ -1,0 +1,580 @@
+{
+  "n": 68,
+  "title_fr": "La visite de la petite-fille",
+  "title_it": "La visita della nipotina",
+  "review": false,
+  "status": "verified",
+  "source": "a1be3e47 p8-15 (libro p.381-388)",
+  "theme_it": "Una nipote va a trovare i nonni, che non vede da parecchio tempo. Ci sono saluti affettuosi, battute e domande sulla sua vita sentimentale; lei spiega di essere sempre impegnata. Alla fine si parla del viaggio di ritorno a Parigi e lei, al verde, chiede in prestito venti euro promettendo di restituirli.",
+  "grammar": [
+    {
+      "id": "plural",
+      "title_it": "Nomi composti: petite-fille e petit-fils",
+      "explain_it": "Petite-fille (nipote, femminile) e petit-fils (nipote, maschile) sono nomi composti uniti dal trattino, che è essenziale: senza trattino « petite fille » vuol dire semplicemente bambina. Al plurale si pluralizzano entrambe le parti: petites-filles per il femminile, petits-fils per il maschile. In pronuncia le differenze sono minime, quindi conta molto l'articolo (une / un).",
+      "examples": [
+        { "fr": "Ma petite-fille a dix ans.", "it": "Mia nipote ha dieci anni." },
+        { "fr": "Mes petits-fils habitent à Lyon.", "it": "I miei nipoti abitano a Lione." }
+      ]
+    },
+    {
+      "id": "register",
+      "title_it": "Papy e mamie: il registro familiare",
+      "explain_it": "Papy (o papi) e mamie sono i nomi affettuosi per nonno e nonna, usati in famiglia e rivolgendosi direttamente ai nonni. Sono familiari, un po' come l'italiano « nonnino » e « nonnina », e per questo si usano più spesso con i bambini e in famiglia che in un contesto formale. Il termine papy-boom indica scherzosamente la generazione dei nati nel baby boom che va in pensione.",
+      "examples": [
+        { "fr": "Papy, tu viens dîner ce soir ?", "it": "Nonno, vieni a cena stasera?" },
+        { "fr": "Bonjour Mamie !", "it": "Buongiorno nonna!" }
+      ]
+    },
+    {
+      "id": "depuis-il-y-a",
+      "title_it": "Ça fait... que: da quanto tempo",
+      "explain_it": "Lo schema è ça fait + durata + que + verbo, equivalente all'italiano « sono ... che ». Se la situazione continua ancora adesso si usa il presente (Ça fait deux ans que je travaille ici). Il que non va confuso con depuis, che si usa in altre costruzioni. Se si nega, il verbo può essere al passato prossimo con ne ... pas, come in Ça fait longtemps que je n'ai pas vu la mer.",
+      "examples": [
+        { "fr": "Ça fait deux ans que je travaille ici.", "it": "Sono due anni che lavoro qui." },
+        { "fr": "Ça fait longtemps que nous ne mangeons plus ensemble.", "it": "Sono secoli che non mangiamo più insieme." }
+      ]
+    },
+    {
+      "id": "tout",
+      "title_it": "Tous les deux / toutes les deux: entrambi, entrambe",
+      "explain_it": "Il francese non ha una parola unica per « entrambi »: l'inglese both si traduce con tous les deux (maschile) e toutes les deux (femminile), di solito dopo il verbo o dopo il pronome tonico. Con moi, toi, eux si usa il pronome tonico e non il soggetto: Michel et moi, nous aimons tous les deux la campagne. Il plurale femminile di tout è toutes, e l'aggettivo concorda con il soggetto.",
+      "examples": [
+        { "fr": "Mes deux amies sont toutes les deux à Paris.", "it": "Entrambe le mie amiche sono a Parigi." },
+        { "fr": "Nous sommes tous les deux fatigués.", "it": "Siamo entrambi stanchi." }
+      ]
+    },
+    {
+      "id": "gender",
+      "title_it": "Aggettivi usati come sostantivi",
+      "explain_it": "In francese un aggettivo può diventare un nome che indica una persona: un aveugle / une aveugle (cieco/cieca), un sourd / une sourde (sordo/sorda), un chauve (calvo). Anche mon petit / ma petite si usa affettuosamente con un bambino o un giovane. In italiano spesso si aggiunge « uomo » o « donna »; in francese basta l'articolo, che indica il genere. Nei casi di persone e animali viventi questo è la regola generale.",
+      "examples": [
+        { "fr": "Mon petit, viens ici !", "it": "Piccolo mio, vieni qui!" },
+        { "fr": "Elle est amoureuse de son voisin.", "it": "È innamorata del suo vicino." }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Espressioni: mine, un tas de, être fauché",
+      "explain_it": "Tre espressioni del testo. Avoir mauvaise mine significa avere una brutta cera: mine indica l'aspetto del viso e non ha niente a che vedere con la mina esplosiva o la miniera. Un tas de vuol dire « un sacco di » ed è familiare; il plurale è des tas de. Être fauché(e), dal verbo faucher (tagliare il grano), significa essere al verde, senza soldi, e concorda con il soggetto (fauchée al femminile).",
+      "examples": [
+        { "fr": "Tu as mauvaise mine aujourd'hui.", "it": "Oggi hai una brutta cera." },
+        { "fr": "J'ai un tas de choses à faire.", "it": "Ho un sacco di cose da fare." },
+        { "fr": "Je suis fauché ce mois-ci.", "it": "Questo mese sono al verde." }
+      ]
+    },
+    {
+      "id": "prepositions",
+      "title_it": "Dès: a partire da, appena",
+      "explain_it": "Dès indica il punto di partenza nel tempo, « a partire da », senza una fine: dès neuf heures significa dalle nove in poi. Non si usa per un intervallo chiuso da... a (lì si usa de ... à). Con que diventa la congiunzione dès que, « appena », che introduce una frase con verbo, e può essere seguita da possible: dès que possible, appena possibile.",
+      "examples": [
+        { "fr": "Le magasin ouvre dès neuf heures.", "it": "Il negozio apre a partire dalle nove." },
+        { "fr": "Appelle-moi dès que tu arrives.", "it": "Chiamami appena arrivi." }
+      ]
+    },
+    {
+      "id": "indefinites",
+      "title_it": "Où que ce soit, quoi que ce soit: ovunque, qualunque cosa",
+      "explain_it": "Sono forme fisse con il congiuntivo di être (soit), che qui non serve studiare a parte: si imparano come blocchi. Dopo un pronome come où o quoi si aggiunge que e il senso è « ovunque » o « qualunque cosa », come l'italiano dovunque / qualsiasi. Usale sempre in questa forma fissa.",
+      "examples": [
+        { "fr": "Où que ce soit en France, on parle français.", "it": "Ovunque in Francia, si parla francese." },
+        { "fr": "Dis-moi quoi que ce soit.", "it": "Dimmi qualsiasi cosa." }
+      ]
+    }
+  ],
+  "vocab": [
+    { "fr": "la petite-fille", "it": "la nipote (figlia del figlio o della figlia)", "pos": "n" },
+    { "fr": "le petit-fils", "it": "il nipote (figlio del figlio o della figlia)", "pos": "n" },
+    { "fr": "le papy", "it": "il nonno (familiare)", "pos": "n" },
+    { "fr": "la mamie", "it": "la nonna (familiare)", "pos": "n" },
+    { "fr": "le grand-père", "it": "il nonno", "pos": "n" },
+    { "fr": "la mine", "it": "l'aspetto, il colorito (del viso)", "pos": "n" },
+    { "fr": "le tas", "it": "il mucchio, il cumulo", "pos": "n" },
+    { "fr": "fauché", "it": "al verde, senza soldi", "pos": "adj", "note": "f. fauchée" },
+    { "fr": "un aveugle", "it": "un cieco", "pos": "n", "note": "f. une aveugle" },
+    { "fr": "un sourd", "it": "un sordo", "pos": "n", "note": "f. une sourde" },
+    { "fr": "un chauve", "it": "un calvo", "pos": "n" },
+    { "fr": "un muet", "it": "un muto", "pos": "n" },
+    { "fr": "un malentendant", "it": "un non udente, un ipoacusico", "pos": "n" },
+    { "fr": "un non-voyant", "it": "un non vedente", "pos": "n" },
+    { "fr": "la blague", "it": "la barzelletta, lo scherzo", "pos": "n" },
+    { "fr": "espionner", "it": "spiare", "pos": "v" },
+    { "fr": "se cacher", "it": "nascondersi", "pos": "v", "note": "je me cache" },
+    { "fr": "les cheveux (m. pl.)", "it": "i capelli", "pos": "n" },
+    { "fr": "drôle", "it": "buffo, divertente", "pos": "adj" },
+    { "fr": "dès", "it": "a partire da, dalle (nel tempo)", "pos": "prep" },
+    { "fr": "les ressources (f. pl.)", "it": "le risorse, i mezzi (di denaro)", "pos": "n" },
+    { "fr": "temporairement", "it": "temporaneamente", "pos": "adv" },
+    { "fr": "prêter", "it": "prestare", "pos": "v", "note": "prêter qqch. à qqn" },
+    { "fr": "déposer", "it": "lasciare (qualcuno in auto)", "pos": "v", "note": "déposer qqn" },
+    { "fr": "l'horaire (m.)", "it": "l'orario (dei treni, dei bus)", "pos": "n" },
+    { "fr": "promettre", "it": "promettere", "pos": "v", "note": "c'est promis" },
+    { "fr": "le petit-ami", "it": "il fidanzato", "pos": "n" },
+    { "fr": "la gare", "it": "la stazione (ferroviaria)", "pos": "n" }
+  ],
+  "expressions": [
+    { "fr": "Ça fait longtemps !", "it": "Quanto tempo!", "note": "saluto dopo una lunga assenza" },
+    { "fr": "Vous avez bonne mine.", "it": "Avete una bella cera.", "note": "complimento usuale tra conoscenti" },
+    { "fr": "Chaque chose en son temps.", "it": "Ogni cosa a suo tempo.", "note": "si usa per rimandare un discorso" },
+    { "fr": "Je ne suis pas morte de rire.", "it": "Non mi fa morire dal ridere.", "note": "ironico, familiare" },
+    { "fr": "Être fauché comme les blés.", "it": "Essere al verde.", "note": "espressione molto familiare" },
+    { "fr": "Rendre visite à quelqu'un.", "it": "Far visita a qualcuno." },
+    { "fr": "Dès que possible.", "it": "Appena possibile." },
+    { "fr": "C'est promis.", "it": "È promesso.", "note": "rafforza una promessa" },
+    { "fr": "Autrement dit,", "it": "In altre parole," },
+    { "fr": "Quoi que ce soit.", "it": "Qualsiasi cosa." }
+  ],
+  "notes_it": [
+    "Falsi amici: mine qui non è la mina (une mine esplosiva) né la miniera, ma l'aspetto del viso. Avoir mauvaise mine = avere una brutta cera.",
+    "Pronuncia: in un tas la s finale è muta, si legge [ta]; il plurale si pronuncia uguale. Petit-ami e petite-amie si pronunciano allo stesso modo: ascoltate l'articolo per capire il genere.",
+    "Gli aggettivi sostantivati per persone con disabilità: oggi il francese preferisce non-voyant (non vedente) e malentendant (non udente) a un aveugle o un sourd, perché considerati più rispettosi. La scelta lessicale è cambiata molto negli ultimi decenni.",
+    "Ça fait... que è una costruzione tipica da ricordare: in italiano si usa spesso sono ... che, quindi la struttura è simile, ma il verbo francese va scelto con attenzione tra presente e passato prossimo."
+  ],
+  "exercises": [
+    {
+      "id": "L068-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "gender",
+      "prompt": "Quale parola indica la nipote (figlia del figlio o della figlia)?",
+      "options": ["une petite-fille", "un petit-fils", "une petit-fille", "un petite-fille"],
+      "correct": 0,
+      "explain_it": "Petite-fille è femminile e prende l'articolo une; il maschile è petit-fils."
+    },
+    {
+      "id": "L068-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "plural",
+      "prompt": "Qual è il plurale corretto di « une petite-fille »?",
+      "options": ["les petites-filles", "les petites-fille", "les petit-filles", "les petits-fille"],
+      "correct": 0,
+      "explain_it": "Nei nomi composti si pluralizzano entrambe le parti: petites-filles."
+    },
+    {
+      "id": "L068-e03",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Hai una brutta cera oggi.",
+      "answers": ["[Tu as|Vous avez] mauvaise mine aujourd'hui."],
+      "distractors": ["bonne", "suis"],
+      "explain_it": "Avoir mauvaise mine significa avere una brutta cera; mine è il colorito del viso."
+    },
+    {
+      "id": "L068-e04",
+      "type": "cloze",
+      "level": 1,
+      "concept": "depuis-il-y-a",
+      "text": "Ça ___ longtemps que nous ne mangeons plus ensemble.",
+      "answers": ["fait"],
+      "hint": "(faire, presente)",
+      "prompt": "Sono secoli che non mangiamo più insieme.",
+      "explain_it": "Con ça fait + durata + que, il verbo è al presente quando la situazione continua ancora."
+    },
+    {
+      "id": "L068-e05",
+      "type": "cloze",
+      "level": 1,
+      "concept": "tout",
+      "text": "Ils aiment ___ les deux la musique.",
+      "answers": ["tous"],
+      "hint": "(tout, maschile plurale)",
+      "prompt": "Amano entrambi la musica.",
+      "explain_it": "Con un soggetto maschile plurale si usa tous les deux, entrambi."
+    },
+    {
+      "id": "L068-e06",
+      "type": "cloze",
+      "level": 1,
+      "concept": "prepositions",
+      "text": "Le magasin est ouvert ___ huit heures du matin.",
+      "answers": ["dès"],
+      "hint": "(preposizione: a partire da)",
+      "prompt": "Il negozio è aperto a partire dalle otto del mattino.",
+      "explain_it": "Dès indica il punto di partenza nel tempo, senza una fine; non è un intervallo da... a."
+    },
+    {
+      "id": "L068-e07",
+      "type": "cloze",
+      "level": 1,
+      "concept": "idioms",
+      "text": "J'ai un ___ de choses à faire aujourd'hui.",
+      "answers": ["tas"],
+      "hint": "(un ___ de = un sacco di)",
+      "prompt": "Oggi ho un sacco di cose da fare.",
+      "explain_it": "Un tas de è un'espressione familiare che significa un sacco di."
+    },
+    {
+      "id": "L068-e08",
+      "type": "mcq",
+      "level": 1,
+      "concept": "indefinites",
+      "prompt": "Quale espressione fissa significa « qualunque cosa »?",
+      "options": ["quoi que ce soit", "quoi que c'est", "quoi que ce soient", "quoi qu'il soit"],
+      "correct": 0,
+      "explain_it": "Quoi que ce soit è una forma fissa con il congiuntivo di être: va imparata come blocco."
+    },
+    {
+      "id": "L068-e09",
+      "type": "order",
+      "level": 1,
+      "concept": "depuis-il-y-a",
+      "prompt": "Quanto tempo!",
+      "answers": ["Ça fait longtemps !"],
+      "distractors": ["depuis", "suis"],
+      "explain_it": "Ça fait longtemps è l'espressione fissa per dire quanto tempo è passato."
+    },
+    {
+      "id": "L068-e10",
+      "type": "order",
+      "level": 1,
+      "concept": "prepositions",
+      "prompt": "Il negozio apre a partire dalle nove.",
+      "answers": ["Le magasin ouvre dès neuf heures."],
+      "distractors": ["depuis", "à"],
+      "explain_it": "Dès significa a partire da; depuis indica una durata che continua dal passato e non si accorda con un orario di apertura."
+    },
+    {
+      "id": "L068-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "plural",
+      "text": "Mes deux ___ habitent à Lyon.",
+      "answers": ["petits-fils"],
+      "hint": "(petit-fils, plurale)",
+      "prompt": "I miei due nipoti abitano a Lione.",
+      "explain_it": "Il plurale di petit-fils è petits-fils: il genere è maschile e i due nipoti sono più di uno."
+    },
+    {
+      "id": "L068-e12",
+      "type": "mcq",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Cosa significa l'espressione « être fauché » ?",
+      "options": ["essere al verde, senza soldi", "essere affamato", "essere stanco morto", "essere tagliato fuori"],
+      "correct": 0,
+      "explain_it": "Fauché, dal verbo faucher (tagliare il grano), in senso figurato vuol dire senza un soldo."
+    },
+    {
+      "id": "L068-e13",
+      "type": "mcq",
+      "level": 2,
+      "concept": "register",
+      "prompt": "Nel registro familiare, come si dice « nonna » ?",
+      "options": ["mamie", "maman", "madame", "marraine"],
+      "correct": 0,
+      "explain_it": "Mamie è il vezzeggiativo familiare per nonna, come papy per nonno; maman è la mamma."
+    },
+    {
+      "id": "L068-e14",
+      "type": "write",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "Dì in francese: « Mia nipote (figlia di mio figlio) è molto intelligente. »",
+      "answers": ["Ma petite-fille est très intelligente."],
+      "explain_it": "Petite-fille è femminile, quindi l'articolo e il possessivo sono ma; intelligente non cambia forma."
+    },
+    {
+      "id": "L068-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "plural",
+      "prompt": "Dì in francese: « Ho due nipotine. »",
+      "answers": ["J'ai deux petites-filles."],
+      "explain_it": "Al plurale si pluralizzano entrambe le parti del composto: petites-filles."
+    },
+    {
+      "id": "L068-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "depuis-il-y-a",
+      "prompt": "Dì in francese: « Sono anni che non ci vediamo. »",
+      "answers": ["Ça fait des années que nous ne nous voyons pas.", "Ça fait des années qu'on ne se voit pas."],
+      "explain_it": "Schema ça fait + durata + que + verbo; qui la situazione continua, quindi il presente con ne ... pas."
+    },
+    {
+      "id": "L068-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "tout",
+      "prompt": "Dì in francese: « Mio fratello e io amiamo entrambi il mare. »",
+      "answers": ["Mon frère et moi aimons tous les deux la mer.", "Mon frère et moi, nous aimons tous les deux la mer."],
+      "explain_it": "Con il soggetto moi (pronome tonico) si usa tous les deux dopo il verbo."
+    },
+    {
+      "id": "L068-e18",
+      "type": "cloze",
+      "level": 2,
+      "concept": "tout",
+      "text": "Mes deux amies sont ___ les deux à Paris.",
+      "answers": ["toutes"],
+      "hint": "(tout, femminile plurale)",
+      "prompt": "Entrambe le mie amiche sono a Parigi.",
+      "explain_it": "Con un soggetto femminile plurale si usa toutes les deux."
+    },
+    {
+      "id": "L068-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Dì in francese: « Ho un sacco di cose da raccontarti. »",
+      "answers": ["J'ai [un|des] tas de choses à te raconter."],
+      "explain_it": "Un tas de significa un sacco di; con un plurale si usa des tas de."
+    },
+    {
+      "id": "L068-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Dì in francese: « Questo mese sono al verde. » (parla di te, una donna)",
+      "answers": ["Je suis fauchée ce mois-ci.", "Ce mois-ci, je suis fauchée."],
+      "explain_it": "Fauché è un aggettivo e concorda con il soggetto: al femminile fauchée."
+    },
+    {
+      "id": "L068-e21",
+      "type": "mcq",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "Nella frase « Elle a mauvaise mine », cosa significa « mine »?",
+      "options": ["aspetto, colorito del viso", "miniera", "mina esplosiva", "minatore"],
+      "correct": 0,
+      "explain_it": "Mine qui indica l'aspetto del viso; la mina e la miniera sono altri significati della stessa parola."
+    },
+    {
+      "id": "L068-e22",
+      "type": "order",
+      "level": 2,
+      "concept": "indefinites",
+      "prompt": "Il servizio è lo stesso, ovunque in Italia.",
+      "answers": ["Le service est le même, où que ce soit en Italie."],
+      "distractors": ["quoi", "sont"],
+      "explain_it": "Où que ce soit è la forma fissa per ovunque; la frase resta al presente con est."
+    },
+    {
+      "id": "L068-e23",
+      "type": "cloze",
+      "level": 2,
+      "concept": "prepositions",
+      "text": "Dès ___ tu arrives, appelle-moi.",
+      "answers": ["que"],
+      "hint": "(congiunzione: appena)",
+      "prompt": "Appena arrivi, chiamami.",
+      "explain_it": "Dès que è una congiunzione, « appena », e introduce una frase con il verbo al presente."
+    },
+    {
+      "id": "L068-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "prepositions",
+      "prompt": "Dì in francese: « Chiamami appena puoi. »",
+      "answers": ["Appelle-moi dès que tu peux.", "Appelle-moi dès que possible."],
+      "explain_it": "Dès que significa appena, e si usa con il presente nella frase che segue."
+    },
+    {
+      "id": "L068-e25",
+      "type": "mcq",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "Come si dice « una cieca » in francese?",
+      "options": ["une aveugle", "une aveugles", "un aveugle", "une aveuglée"],
+      "correct": 0,
+      "explain_it": "Aveugle non cambia forma al femminile: è l'articolo a indicare il genere, come un aveugle al maschile."
+    },
+    {
+      "id": "L068-e26",
+      "type": "mcq",
+      "level": 2,
+      "concept": "register",
+      "prompt": "Nel registro familiare, come si chiama affettuosamente il nonno in famiglia?",
+      "options": ["papy", "patron", "papier", "pape"],
+      "correct": 0,
+      "explain_it": "Papy è il vezzeggiativo familiare per nonno; pape significa papa, papier significa carta."
+    },
+    {
+      "id": "L068-e27",
+      "type": "write",
+      "level": 2,
+      "concept": "register",
+      "prompt": "Rivolgendoti ai nonni, dì: « Nonno, nonna, come state? »",
+      "answers": ["Papy, Mamie, comment allez-vous ?", "Papy, Mamie, comment ça va ?"],
+      "explain_it": "Papy e mamie sono forme familiari; con i nonni si usa il vous o il registro familiare comment ça va."
+    },
+    {
+      "id": "L068-e28",
+      "type": "cloze",
+      "level": 2,
+      "concept": "gender",
+      "text": "Ce vieux monsieur est ___ depuis sa naissance.",
+      "answers": ["aveugle"],
+      "hint": "(aveugle, maschile)",
+      "prompt": "Questo anziano signore è cieco dalla nascita.",
+      "explain_it": "Aveugle è invariabile nella forma: il maschile e il femminile hanno la stessa parola."
+    },
+    {
+      "id": "L068-e29",
+      "type": "flash",
+      "level": 2,
+      "concept": "tout",
+      "front": "Tous les deux / toutes les deux: quando si usa tous e quando toutes?",
+      "back": "Tous les deux per il maschile o il misto (entrambi), toutes les deux per il femminile (entrambe). Si collocano spesso dopo il verbo: Nous aimons tous les deux; elles sont toutes les deux.",
+      "note": "Con moi, toi, eux si usano i pronomi tonici: Mon frère et moi, nous aimons tous les deux.",
+      "explain_it": "Tous e toutes concordano con il genere del gruppo: tous per il maschile o il misto, toutes per il femminile."
+    },
+    {
+      "id": "L068-e30",
+      "type": "flash",
+      "level": 2,
+      "concept": "depuis-il-y-a",
+      "front": "Nella frase « Ça fait deux ans que je travaille ici », perché si usa il presente dopo que?",
+      "back": "Perché l'azione continua ancora adesso. Se è conclusa, si userebbe il passato prossimo.",
+      "note": "Schema: ça fait + durata + que + presente.",
+      "explain_it": "Con ça fait + durata + que, il presente segnala un'azione ancora in corso, come l'italiano sono due anni che."
+    },
+    {
+      "id": "L068-e31",
+      "type": "dictation",
+      "level": 2,
+      "concept": "depuis-il-y-a",
+      "text": "Ça fait longtemps que je n'ai pas vu la mer.",
+      "explain_it": "Con ça fait + durata + que, la negazione con passato prossimo esprime il tempo trascorso dall'ultima volta."
+    },
+    {
+      "id": "L068-e32",
+      "type": "dictation",
+      "level": 2,
+      "concept": "gender",
+      "text": "Ma petite-fille adore les chats.",
+      "explain_it": "Petite-fille è femminile: il possessivo è ma e l'articolo les dopo il verbo resta invariato."
+    },
+    {
+      "id": "L068-e33",
+      "type": "dictation",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Je te prête vingt euros, c'est promis.",
+      "explain_it": "Prêter con l'oggetto (vingt euros) e te indica a chi si presta; c'est promis conferma la promessa."
+    },
+    {
+      "id": "L068-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "depuis-il-y-a",
+      "prompt": "Dì in francese: « Sono due anni che lavoro qui e sto bene. »",
+      "answers": ["Ça fait deux ans que je travaille ici et je vais bien."],
+      "explain_it": "Ça fait deux ans que + presente per un'azione in corso; sto bene si rende con je vais bien."
+    },
+    {
+      "id": "L068-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "prompt": "Dì in francese: « Non preoccuparti, lo faccio appena possibile, è una promessa. »",
+      "answers": ["[Ne t'inquiète pas|Ne vous inquiétez pas], je le fais dès que possible, c'est promis."],
+      "explain_it": "Dès que possible equivale ad appena possibile; c'est promis conferma la promessa."
+    },
+    {
+      "id": "L068-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "gender",
+      "prompt": "Dì in francese: « Un cieco non vede la luce. »",
+      "answers": ["Un aveugle ne voit pas la [lumière|clarté]."],
+      "explain_it": "Un aveugle è un nome sostantivato al maschile; il verbo voir è alla terza persona singolare: voit."
+    },
+    {
+      "id": "L068-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "tout",
+      "prompt": "Dì in francese, in tono colloquiale: « Mio padre e mia madre sono entrambi stanchi, anche se non lo ammettono. »",
+      "answers": ["Mon père et ma mère sont [tous les deux|tous deux] fatigués, même s'ils ne l'admettent pas."],
+      "explain_it": "Tous les deux (o tous deux) significa entrambi; con même si si usa l'indicativo, non il congiuntivo."
+    },
+    {
+      "id": "L068-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "plural",
+      "prompt": "Dì in francese: « Mia nipote e mio nipote sono molto simpatici. »",
+      "answers": ["Ma petite-fille et mon petit-fils sont très [sympathiques|sympas]."],
+      "explain_it": "Entrambi i nomi composti hanno il trattino e l'aggettivo va al plurale maschile, perché il gruppo contiene un maschile."
+    },
+    {
+      "id": "L068-e39",
+      "type": "write",
+      "level": 3,
+      "concept": "indefinites",
+      "prompt": "Dì in francese: « Ovunque in Francia, si mangia bene. »",
+      "answers": ["Où que ce soit en France, on mange bien."],
+      "explain_it": "Où que ce soit è la forma fissa per ovunque; on mange bien è la frase che segue."
+    },
+    {
+      "id": "L068-e40",
+      "type": "write",
+      "level": 3,
+      "concept": "prepositions",
+      "prompt": "Dì in francese: « Mi piace lavorare dalle otto del mattino fino a sera. »",
+      "answers": ["J'aime travailler dès huit heures du matin jusqu'au soir."],
+      "explain_it": "Dès indica l'inizio (dalle otto) e jusqu'au soir indica la fine (fino a sera)."
+    },
+    {
+      "id": "L068-e41",
+      "type": "cloze",
+      "level": 3,
+      "concept": "idioms",
+      "text": "Après ces dépenses, nous sommes ___ comme les blés.",
+      "answers": ["fauchés"],
+      "hint": "(être fauché, plurale maschile)",
+      "prompt": "Dopo queste spese siamo tutti al verde.",
+      "explain_it": "Fauché concorda con il soggetto nous, qui maschile plurale: fauchés."
+    },
+    {
+      "id": "L068-e42",
+      "type": "order",
+      "level": 3,
+      "concept": "plural",
+      "prompt": "Le mie due nipoti sono simpatiche.",
+      "answers": ["Mes deux petites-filles sont sympathiques."],
+      "distractors": ["petits-fils", "sympathique"],
+      "explain_it": "Petites-filles è il plurale femminile di petite-fille; l'aggettivo prende il plurale femminile."
+    },
+    {
+      "id": "L068-e43",
+      "type": "mcq",
+      "level": 3,
+      "concept": "false-friends",
+      "prompt": "Quale frase significa « ha un brutto aspetto »?",
+      "options": ["Tu as mauvaise mine.", "Tu as mauvaise mina.", "Tu es mauvais mine.", "Tu as mal mine."],
+      "correct": 0,
+      "explain_it": "Mine è femminile in questa espressione: avoir mauvaise mine; mina in italiano non si usa qui."
+    },
+    {
+      "id": "L068-e44",
+      "type": "flash",
+      "level": 2,
+      "concept": "gender",
+      "front": "Perché « un aveugle » e « une aveugle » non cambiano la parola?",
+      "back": "Aveugle è invariabile: il genere si capisce dall'articolo (un / une). Attenzione: sourd invece fa sourde al femminile.",
+      "note": "Stessa logica per un chauve / une chauve.",
+      "explain_it": "Gli aggettivi usati come nomi di persona con forma invariabile si distinguono solo dall'articolo."
+    },
+    {
+      "id": "L068-e45",
+      "type": "flash",
+      "level": 2,
+      "concept": "false-friends",
+      "front": "Nell'espressione « Ne faites pas cette mine triste », cosa significa « mine »?",
+      "back": "Espressione del viso, aria: une mine triste = un'aria triste. Non significa miniera né mina esplosiva.",
+      "note": "Falso amico per chi parla italiano.",
+      "explain_it": "Mine nel senso di aspetto del viso non ha niente a che vedere con la mina o la miniera."
+    },
+    {
+      "id": "L068-e46",
+      "type": "dictation",
+      "level": 3,
+      "concept": "depuis-il-y-a",
+      "text": "Ça fait deux heures que j'attends le train, c'est vraiment pénible.",
+      "explain_it": "Ça fait + durata + que + presente: l'attesa continua ancora adesso."
+    }
+  ]
+}

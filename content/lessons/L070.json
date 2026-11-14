@@ -1,0 +1,980 @@
+{
+  "n": 70,
+  "title_fr": "Révision",
+  "title_it": "Ripasso",
+  "review": true,
+  "status": "verified",
+  "source": "a1be3e47 p22-30 (libro p.395-403)",
+  "theme_it": "Gérard, un amico, chiede come va a un conoscente che è stato malato. Si parla di vacanze al sud, di una località del Midi con il bel tempo, di spiaggia e di montagna, e il conoscente dà consigli su dove andare, con frasi al condizionale.",
+  "grammar": [
+    {
+      "id": "conditionnel",
+      "title_it": "Il condizionale presente e la frase ipotetica con « si »",
+      "explain_it": "Il condizionale presente si forma con la radice del futuro più le desinenze dell'imperfetto (-ais, -ais, -ait, -ions, -iez, -aient); nei verbi in -re si toglie la -e finale. Irregolari comuni: avoir → aurais, être → serais, aller → irais, faire → ferais, vouloir → voudrais, pouvoir → pourrais, devoir → devrais. Alcuni verbi cambiano ortografia (appeler → appellerais, acheter → achèterais). Il condizionale in francese serve a esprimere la cortesia (je voudrais, pourriez-vous) e, nelle frasi ipotetiche, si combina con « si » + imperfetto: Si j'étais riche, je serais heureux. Nelle richieste di invito la forma cortese è sempre al condizionale, come in italiano.",
+      "examples": [
+        {
+          "fr": "Je voudrais un café, s'il vous plaît.",
+          "it": "Vorrei un caffè, per favore."
+        },
+        {
+          "fr": "Il ferait meilleur ailleurs.",
+          "it": "Farebbe meglio altrove."
+        },
+        {
+          "fr": "Si j'avais le temps, j'irais à la mer.",
+          "it": "Se avessi il tempo, andrei al mare."
+        }
+      ]
+    },
+    {
+      "id": "passe-compose-etre",
+      "title_it": "Verbi di movimento: essere o avere al passato prossimo",
+      "explain_it": "Alcuni verbi di movimento (DR PREMS: descendre, rentrer, passer, retourner, entrer, monter, sortir) usano être se sono intransitivi e avoir se hanno un complemento oggetto diretto. Con être il participio concorda col soggetto (elle est rentrée); con avoir non concorda col soggetto, ma col complemento diretto se questo precede (les voitures que j'ai vues). Esempio: je suis sorti (uscito) ma j'ai sorti la voiture (ho tirato fuori la macchina). Il confronto con l'italiano non aiuta: in italiano i verbi di movimento usano essere, qui il verbo cambia con il significato.",
+      "examples": [
+        {
+          "fr": "Elle est rentrée tard.",
+          "it": "È tornata tardi."
+        },
+        {
+          "fr": "Il a rentré la voiture au garage.",
+          "it": "Ha messo in garage la macchina."
+        },
+        {
+          "fr": "Il est monté au premier étage.",
+          "it": "È salito al primo piano."
+        }
+      ]
+    },
+    {
+      "id": "tout",
+      "title_it": "Tout: aggettivo, avverbio e pronome",
+      "explain_it": "Tout ha tre funzioni. Come aggettivo concorda con il nome (tout, toute, tous, toutes: tutto/tutta/tutti/tutte): toute la famille. Come avverbio significa molto o del tutto ed è invariabile (tout droit, tout doucement, tout à fait), tranne davanti a un aggettivo femminile che inizia per consonante: elle est toute contente. Come pronome ha solo tout, tous, toutes, e con que diventa tout ce que (tutto quello che). In pronuncia tout, tous e toutes si dicono [tu] quando precedono un nome; la s di tous si sente solo quando è pronome in fine di frase.",
+      "examples": [
+        {
+          "fr": "Tout le temps et toute la journée.",
+          "it": "Tutto il tempo e tutta la giornata."
+        },
+        {
+          "fr": "Tu as tout compris ?",
+          "it": "Hai capito tutto?"
+        },
+        {
+          "fr": "Tout ce que vous voulez.",
+          "it": "Tutto quello che volete."
+        }
+      ]
+    },
+    {
+      "id": "indefinites",
+      "title_it": "N'importe: qualsiasi, chiunque, dovunque",
+      "explain_it": "N'importe seguito da qui, quoi, quel(le), où, quand indica indifferenza: chiunque, qualunque cosa, qualsiasi, dovunque, in qualsiasi momento. Qui importer è una forma fissa, non il verbo della frase affermativa con congiuntivo. N'importe quoi, da solo, significa a piacere o sciocchezze (tu dis n'importe quoi = dici sciocchezze). Come risposta gentile, « N'importe. » significa « non importa », come l'italiano « qualsiasi cosa va bene ».",
+      "examples": [
+        {
+          "fr": "Tu peux venir n'importe quand.",
+          "it": "Puoi venire in qualsiasi momento."
+        },
+        {
+          "fr": "Il faut cliquer sur une page, n'importe laquelle.",
+          "it": "Bisogna cliccare su una pagina, una qualsiasi."
+        },
+        {
+          "fr": "Tu dis n'importe quoi !",
+          "it": "Dici un sacco di sciocchezze!"
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "title_it": "Idiomi con gli animali (seconda parte)",
+      "explain_it": "Molte espressioni francesi usano un animale come immagine, e si imparano come blocchi fissi: non si cambia l'animale. Alcune hanno un equivalente italiano (être doux comme un agneau ~ mansueto come un agnello), altre no (bavard comme une pie, malin comme un singe, s'ennuyer comme un rat mort). La struttura comme un / une + animale rafforza l'aggettivo, come l'italiano « come un cane ». Con avoir indica spesso la quantità: avoir une faim de loup, avoir un appétit d'oiseau.",
+      "examples": [
+        {
+          "fr": "Il est malin comme un singe.",
+          "it": "È furbissimo."
+        },
+        {
+          "fr": "J'ai une faim de loup !",
+          "it": "Ho una fame da lupo!"
+        },
+        {
+          "fr": "Elle est bavarde comme une pie.",
+          "it": "È una chiacchierona."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le soleil",
+      "it": "il sole",
+      "pos": "n"
+    },
+    {
+      "fr": "la côte",
+      "it": "la costa",
+      "pos": "n"
+    },
+    {
+      "fr": "la mer",
+      "it": "il mare",
+      "pos": "n"
+    },
+    {
+      "fr": "la neige",
+      "it": "la neve",
+      "pos": "n"
+    },
+    {
+      "fr": "le beau temps",
+      "it": "il bel tempo",
+      "pos": "n",
+      "note": "avoir du beau temps"
+    },
+    {
+      "fr": "quelque part",
+      "it": "da qualche parte",
+      "pos": "adv"
+    },
+    {
+      "fr": "n'importe quand",
+      "it": "in qualsiasi momento",
+      "pos": "adv"
+    },
+    {
+      "fr": "aimer",
+      "it": "amare, piacere",
+      "pos": "v",
+      "note": "nous aimerions"
+    },
+    {
+      "fr": "nager",
+      "it": "nuotare",
+      "pos": "v",
+      "note": "savoir nager"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "passer une semaine",
+      "it": "trascorrere una settimana",
+      "note": "nel dialogo, con il condizionale"
+    },
+    {
+      "fr": "rien du tout",
+      "it": "niente di niente",
+      "note": "rafforzativo, nulla affatto"
+    },
+    {
+      "fr": "c'est tout pour le moment",
+      "it": "per ora è tutto",
+      "note": "per chiudere una conversazione"
+    },
+    {
+      "fr": "tout doucement",
+      "it": "pian piano",
+      "note": "avverbio con tout"
+    },
+    {
+      "fr": "être doux comme un agneau",
+      "it": "essere mansueto come un agnello"
+    },
+    {
+      "fr": "courir plusieurs lièvres à la fois",
+      "it": "avere più cose in cantiere",
+      "note": "registro colloquiale"
+    },
+    {
+      "fr": "avoir un appétit d'oiseau",
+      "it": "mangiare come un uccellino"
+    },
+    {
+      "fr": "être bavard comme une pie",
+      "it": "essere un chiacchierone",
+      "note": "registro familiare"
+    },
+    {
+      "fr": "s'ennuyer comme un rat mort",
+      "it": "annoiarsi a morte",
+      "note": "registro colloquiale"
+    },
+    {
+      "fr": "être malin comme un singe",
+      "it": "essere furbo come una volpe",
+      "note": "registro colloquiale"
+    }
+  ],
+  "notes_it": [
+    "Il Midi è il Sud della Francia mediterranea; nel dialogo « dans le Midi » indica la regione. Il Vaucluse e Avignone sono nomi propri della Provenza: non vanno tradotti.",
+    "Il condizionale in francese è molto usato per la cortesia (vorrei, potrebbe), anche dove in italiano useremmo il presente: non è un futuro incerto come nelle frasi ipotetiche italiane.",
+    "Gli idiomi con gli animali sono in questa lezione come ripasso della lezione 69: non tradurre parola per parola, impara le forme fisse.",
+    "Tout, tous e toutes si pronunciano [tu] davanti a un nome; la s finale di tous si sente quando è pronome in fine di frase."
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "level": 1,
+      "concept": "conditionnel",
+      "explain_it": "Per una richiesta gentile si usa il condizionale presente di vouloir: je voudrais.",
+      "prompt": "Quale forma è la più cortese per dire « vorrei »?",
+      "options": [
+        "je voudrais",
+        "je voudrai",
+        "je voulais",
+        "je veux"
+      ],
+      "correct": 0,
+      "id": "L070-e01"
+    },
+    {
+      "type": "mcq",
+      "level": 2,
+      "concept": "conditionnel",
+      "explain_it": "Pourrions è il condizionale di pouvoir; pouvions è l'imperfetto, pourrons il futuro.",
+      "prompt": "Completa: « Nous ___ aller à la mer demain si tu veux. »",
+      "options": [
+        "pourrions",
+        "pourrons",
+        "pouvions",
+        "pouvons"
+      ],
+      "correct": 0,
+      "id": "L070-e02"
+    },
+    {
+      "type": "cloze",
+      "level": 2,
+      "concept": "conditionnel",
+      "explain_it": "Nella frase ipotetica con si + imperfetto, la principale va al condizionale presente.",
+      "text": "Si j'étais riche, je ___ une maison au bord de la mer.",
+      "answers": [
+        "achèterais"
+      ],
+      "hint": "(acheter, condizionale presente)",
+      "prompt": "Se fossi ricco, comprerei una casa al mare.",
+      "id": "L070-e03"
+    },
+    {
+      "type": "cloze",
+      "level": 2,
+      "concept": "conditionnel",
+      "explain_it": "Aller al condizionale è irregolare: irais, non ira- né iras-.",
+      "text": "Vous ___ mieux si vous preniez un peu de repos.",
+      "answers": [
+        "iriez"
+      ],
+      "hint": "(aller, condizionale presente)",
+      "prompt": "Stareste meglio se vi riposaste un po'.",
+      "id": "L070-e04"
+    },
+    {
+      "type": "write",
+      "level": 2,
+      "concept": "conditionnel",
+      "explain_it": "Per chiedere cortesemente con vous si usa pourriez al condizionale, non pouvez.",
+      "prompt": "Chiedi gentilmente a qualcuno (vous) se può venire.",
+      "answers": [
+        "Pourriez-vous venir ?",
+        "Est-ce que vous pourriez venir ?"
+      ],
+      "id": "L070-e05"
+    },
+    {
+      "type": "write",
+      "level": 3,
+      "concept": "conditionnel",
+      "explain_it": "Il condizionale esprime il desiderio cortese; la negazione va attorno a avoir.",
+      "prompt": "Traduci: Mi piacerebbe andare al mare, ma non ho tempo.",
+      "answers": [
+        "J'aimerais aller à la mer, mais je n'ai pas le temps.",
+        "Je voudrais aller à la mer, mais je n'ai pas le temps."
+      ],
+      "id": "L070-e06"
+    },
+    {
+      "type": "write",
+      "level": 2,
+      "concept": "conditionnel",
+      "explain_it": "Pouvoir al condizionale esprime la possibilità non certa: je pourrais.",
+      "ask": "Volgi al condizionale presente",
+      "prompt": "« Je peux venir demain. »",
+      "answers": [
+        "Je pourrais [venir|passer] demain."
+      ],
+      "id": "L070-e07"
+    },
+    {
+      "type": "write",
+      "level": 2,
+      "concept": "conditionnel",
+      "explain_it": "Faire è irregolare al condizionale: ferait (radice fer-).",
+      "ask": "Volgi al condizionale presente",
+      "prompt": "« Il fait beau aujourd'hui. »",
+      "answers": [
+        "Il ferait beau aujourd'hui."
+      ],
+      "id": "L070-e08"
+    },
+    {
+      "type": "order",
+      "level": 1,
+      "concept": "conditionnel",
+      "explain_it": "Per chiedere una camera si usa je voudrais, con s'il vous plaît alla fine.",
+      "prompt": "Vorrei una camera per due persone, per favore.",
+      "answers": [
+        "Je voudrais une chambre pour deux personnes, s'il vous plaît."
+      ],
+      "distractors": [
+        "voudrai",
+        "voulais"
+      ],
+      "id": "L070-e09"
+    },
+    {
+      "type": "order",
+      "level": 1,
+      "concept": "conditionnel",
+      "explain_it": "Pourriez-vous è la forma cortese di pouvoir al condizionale, con inversione del soggetto.",
+      "prompt": "Potresti dirmi dove si trova la stazione?",
+      "answers": [
+        "Pourriez-vous me dire où se trouve la gare ?"
+      ],
+      "distractors": [
+        "pouvez",
+        "trouvera"
+      ],
+      "id": "L070-e10"
+    },
+    {
+      "type": "dictation",
+      "level": 2,
+      "concept": "conditionnel",
+      "explain_it": "Il condizionale di vouloir è voudrais, con la -s finale anche alla prima persona.",
+      "text": "Je voudrais un renseignement, s'il vous plaît.",
+      "id": "L070-e11"
+    },
+    {
+      "type": "dictation",
+      "level": 2,
+      "concept": "conditionnel",
+      "explain_it": "Si + imperfetto nella subordinata; nella principale il condizionale resterais (-ais finale).",
+      "text": "Si j'étais vous, je resterais chez moi.",
+      "id": "L070-e12"
+    },
+    {
+      "type": "flash",
+      "level": 2,
+      "concept": "conditionnel",
+      "explain_it": "Il condizionale presente usa la radice del futuro più le desinenze dell'imperfetto.",
+      "front": "Come si forma il condizionale presente?",
+      "back": "Radice del futuro + -ais, -ais, -ait, -ions, -iez, -aient. Nei verbi in -re si toglie la -e: je prendrais. Irregolari: aurais, serais, irais, ferais, voudrais, pourrais, devrais.",
+      "id": "L070-e13"
+    },
+    {
+      "type": "flash",
+      "level": 2,
+      "concept": "conditionnel",
+      "explain_it": "Gli stessi verbi con radice cambiata in -ll-, -tt-, -è- nel condizionale.",
+      "front": "Ortografia del condizionale: appeler, jeter, acheter",
+      "back": "appellerais (raddoppia la l), jetterais (raddoppia la t), achèterais (la e diventa è).",
+      "id": "L070-e14"
+    },
+    {
+      "type": "write",
+      "level": 2,
+      "concept": "conditionnel",
+      "explain_it": "Devoir al condizionale esprime un consiglio: devrais.",
+      "prompt": "Traduci: Dovresti chiamarla domani.",
+      "answers": [
+        "Tu devrais l'appeler demain.",
+        "Vous devriez l'appeler demain."
+      ],
+      "id": "L070-e15"
+    },
+    {
+      "type": "cloze",
+      "level": 2,
+      "concept": "conditionnel",
+      "explain_it": "Appeler raddoppia la l davanti alle desinenze del condizionale.",
+      "text": "Tu ___ le médecin si tu te sentais mal.",
+      "answers": [
+        "appellerais"
+      ],
+      "hint": "(appeler, condizionale presente)",
+      "prompt": "Chiameresti il medico se ti sentissi male.",
+      "id": "L070-e16"
+    },
+    {
+      "type": "cloze",
+      "level": 2,
+      "concept": "conditionnel",
+      "explain_it": "Acheter cambia la e in è davanti a una sillaba muta nel condizionale.",
+      "text": "Nous ___ une voiture neuve, si nous avions l'argent.",
+      "answers": [
+        "achèterions"
+      ],
+      "hint": "(acheter, condizionale presente)",
+      "prompt": "Compreremmo un'auto nuova, se avessimo i soldi.",
+      "id": "L070-e17"
+    },
+    {
+      "type": "mcq",
+      "level": 2,
+      "concept": "si-clauses",
+      "explain_it": "Con « si » + presente, la principale va al presente o futuro; il condizionale resta per l'ipotesi irreale.",
+      "prompt": "Quale frase è corretta? (Se piove, resto a casa)",
+      "options": [
+        "S'il pleut, je resterai à la maison.",
+        "S'il pleuvra, je resterai à la maison.",
+        "S'il pleut, je resterais à la maison.",
+        "S'il pleuvait, je resterais à la maison."
+      ],
+      "correct": 0,
+      "id": "L070-e18"
+    },
+    {
+      "type": "cloze",
+      "level": 2,
+      "concept": "si-clauses",
+      "explain_it": "Con « si » + presente la principale è al presente o futuro.",
+      "text": "Si tu ___ demain, nous irons ensemble.",
+      "answers": [
+        "viens"
+      ],
+      "hint": "(venir, presente)",
+      "prompt": "Se vieni domani, andremo insieme.",
+      "id": "L070-e19"
+    },
+    {
+      "type": "cloze",
+      "level": 3,
+      "concept": "si-clauses",
+      "explain_it": "Con « si » + imperfetto la principale è al condizionale: avions dall'avoir.",
+      "text": "Si nous ___ plus de temps, nous visiterions la côte.",
+      "answers": [
+        "avions"
+      ],
+      "hint": "(avoir, imperfetto)",
+      "prompt": "Se avessimo più tempo, visiteremmo la costa.",
+      "id": "L070-e20"
+    },
+    {
+      "type": "write",
+      "level": 3,
+      "concept": "si-clauses",
+      "explain_it": "Ipotesi irreale al presente: si + imperfetto, condizionale nella principale.",
+      "prompt": "Traduci: Se avessi il tempo, andrei in montagna.",
+      "answers": [
+        "Si j'avais le temps, j'irais à la montagne.",
+        "Si j'avais du temps, j'irais à la montagne.",
+        "Si j'avais le temps, j'irais en montagne."
+      ],
+      "id": "L070-e21"
+    },
+    {
+      "type": "write",
+      "level": 3,
+      "concept": "si-clauses",
+      "explain_it": "Il condizionale nella principale ha la radice di aller (ir-) e le desinenze -ions.",
+      "prompt": "Traduci: Se il tempo fosse bello, andremmo in spiaggia.",
+      "answers": [
+        "S'il faisait beau, nous irions à la plage.",
+        "S'il faisait beau, on irait à la plage."
+      ],
+      "id": "L070-e22"
+    },
+    {
+      "type": "flash",
+      "level": 2,
+      "concept": "si-clauses",
+      "explain_it": "Le frasi con « si » hanno due schemi: reale (presente/futuro) e ipotetico (imperfetto/condizionale).",
+      "front": "Frase ipotetica: con « si » + quale tempo e quale nella principale?",
+      "back": "Reale: si + presente, presente/futuro (S'il pleut, je reste). Ipotetica: si + imperfetto, condizionale presente (S'il faisait beau, nous irions).",
+      "id": "L070-e23"
+    },
+    {
+      "type": "mcq",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "explain_it": "Descendre intransitivo vuole essere, e il participio concorda con il soggetto (femminile: -e).",
+      "prompt": "Quale frase è corretta? (Sono scesa dal bus)",
+      "options": [
+        "Je suis descendue du bus.",
+        "J'ai descendu du bus.",
+        "Je suis descendu du bus.",
+        "J'ai descendue du bus."
+      ],
+      "correct": 0,
+      "id": "L070-e24"
+    },
+    {
+      "type": "mcq",
+      "level": 3,
+      "concept": "passe-compose-avoir",
+      "explain_it": "Monter con complemento oggetto diretto (les courses) vuole avere, senza accordo col soggetto.",
+      "prompt": "Quale frase significa « ho portato su la spesa »?",
+      "options": [
+        "J'ai monté les courses.",
+        "Je suis monté les courses.",
+        "J'ai monté aux courses.",
+        "Je suis monté aux courses."
+      ],
+      "correct": 0,
+      "id": "L070-e25"
+    },
+    {
+      "type": "cloze",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "explain_it": "Rentrer intransitivo (tornare a casa) vuole essere; il participio concorda con il soggetto femminile.",
+      "text": "Elle ___ tard hier soir.",
+      "answers": [
+        "est rentrée"
+      ],
+      "hint": "(rentrer, passato prossimo)",
+      "prompt": "Lei è tornata tardi ieri sera.",
+      "id": "L070-e26"
+    },
+    {
+      "type": "cloze",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "explain_it": "Rentrer transitivo (mettere dentro la macchina) vuole avere e non concorda.",
+      "text": "Il ___ la voiture au garage.",
+      "answers": [
+        "a rentré"
+      ],
+      "hint": "(rentrer, passato prossimo, uso transitivo)",
+      "prompt": "Ha messo in garage la macchina.",
+      "id": "L070-e27"
+    },
+    {
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-etre",
+      "explain_it": "Retourner (tornare) intransitivo vuole essere, con accordo del participio maschile plurale.",
+      "prompt": "Traduci: Siamo tornati in Bretagna il mese scorso.",
+      "answers": [
+        "Nous sommes retournés en Bretagne le mois dernier.",
+        "Nous sommes rentrés en Bretagne le mois dernier."
+      ],
+      "id": "L070-e28"
+    },
+    {
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "explain_it": "Passer con complemento diretto (l'aspirateur) vuole avere.",
+      "prompt": "Traduci: Stamattina ho passato l'aspirateur.",
+      "answers": [
+        "J'ai passé l'aspirateur ce matin.",
+        "Ce matin, j'ai passé l'aspirateur."
+      ],
+      "id": "L070-e29"
+    },
+    {
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "explain_it": "Sortir intransitivo con soggetto femminile plurale: elles sont sorties.",
+      "prompt": "Traduci: Sono uscite presto stamattina.",
+      "answers": [
+        "Elles sont sorties tôt ce matin.",
+        "Elles sont sorties de bonne heure ce matin."
+      ],
+      "id": "L070-e30"
+    },
+    {
+      "type": "order",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "explain_it": "Descendre intransitivo con être; il participio è al plurale maschile con nous.",
+      "prompt": "Siamo scesi dal treno alle sette.",
+      "answers": [
+        "Nous sommes descendus du train à sept heures."
+      ],
+      "distractors": [
+        "avons",
+        "descendons"
+      ],
+      "id": "L070-e31"
+    },
+    {
+      "type": "order",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "explain_it": "Faire è un verbo transitivo: si usa avoir.",
+      "prompt": "Ho fatto i piatti stamattina.",
+      "answers": [
+        "J'ai fait la vaisselle ce matin."
+      ],
+      "distractors": [
+        "suis",
+        "es"
+      ],
+      "id": "L070-e32"
+    },
+    {
+      "type": "flash",
+      "level": 2,
+      "concept": "passe-compose-etre",
+      "explain_it": "Il trucco DR PREMS riassume i verbi di movimento che possono usare être o avoir.",
+      "front": "Quali verbi di movimento (DR PREMS) usano « être » e quali « avoir »?",
+      "back": "Descendre, Rentrer, Passer, Retourner, Entrer, Monter, Sortir: essere se intransitivi (je suis sorti), avere se transitivi con oggetto diretto (j'ai sorti la voiture).",
+      "id": "L070-e33"
+    },
+    {
+      "type": "mcq",
+      "level": 3,
+      "concept": "passe-compose-avoir",
+      "explain_it": "Retourner con oggetto diretto (la crêpe) vuole avere: girare la crêpe.",
+      "prompt": "Quale frase significa « ho girato la crêpe »?",
+      "options": [
+        "J'ai retourné la crêpe.",
+        "Je suis retourné la crêpe.",
+        "J'ai retournée la crêpe.",
+        "Je suis retournée la crêpe."
+      ],
+      "correct": 0,
+      "id": "L070-e34"
+    },
+    {
+      "type": "mcq",
+      "level": 2,
+      "concept": "participle-agreement",
+      "explain_it": "Con avere il participio concorda con il complemento oggetto diretto che precede, qui les (femminile plurale).",
+      "prompt": "Ieri ho visto le mie sorelle. Quale frase è corretta?",
+      "options": [
+        "Je les ai vues hier.",
+        "Je les ai vus hier.",
+        "Je les ai vu hier.",
+        "Je les ai vue hier."
+      ],
+      "correct": 0,
+      "id": "L070-e35"
+    },
+    {
+      "type": "mcq",
+      "level": 2,
+      "concept": "tout",
+      "explain_it": "Tout come aggettivo concorda col nome: tous davanti a un nome maschile plurale.",
+      "prompt": "Completa: « ___ les enfants sont rentrés. »",
+      "options": [
+        "Tous",
+        "Toutes",
+        "Tout",
+        "Toute"
+      ],
+      "correct": 0,
+      "id": "L070-e36"
+    },
+    {
+      "type": "cloze",
+      "level": 2,
+      "concept": "tout",
+      "explain_it": "Tout come aggettivo davanti a un nome maschile singolare: tout le livre.",
+      "text": "Elle a lu ___ le livre en une heure.",
+      "answers": [
+        "tout"
+      ],
+      "hint": "(aggettivo, tutto il)",
+      "prompt": "Ha letto tutto il libro in un'ora.",
+      "id": "L070-e37"
+    },
+    {
+      "type": "write",
+      "level": 2,
+      "concept": "tout",
+      "explain_it": "Tout come aggettivo concorda col nome femminile singolare: toute la famille.",
+      "prompt": "Traduci: Tutta la famiglia è a casa.",
+      "answers": [
+        "Toute la famille est à la maison."
+      ],
+      "id": "L070-e38"
+    },
+    {
+      "type": "flash",
+      "level": 2,
+      "concept": "tout",
+      "explain_it": "Tout come avverbio è invariabile, tranne davanti a un aggettivo femminile che inizia per consonante.",
+      "front": "« Tout » avverbio: quando si accorda?",
+      "back": "È invariabile (tout droit, tout doucement). Si accorda solo davanti a un aggettivo femminile che inizia per consonante: elle est toute contente.",
+      "id": "L070-e39"
+    },
+    {
+      "type": "cloze",
+      "level": 2,
+      "concept": "tout",
+      "explain_it": "Tout avverbio con aller droit: resta invariabile.",
+      "text": "Allez ___ droit et tournez au feu rouge.",
+      "answers": [
+        "tout"
+      ],
+      "hint": "(avverbio, invariabile)",
+      "prompt": "Vada dritto e giri al semaforo rosso.",
+      "id": "L070-e40"
+    },
+    {
+      "type": "write",
+      "level": 3,
+      "concept": "tout",
+      "explain_it": "Tout pronome con que: tout ce que, cioè tutto quello che.",
+      "prompt": "Traduci: Tutto quello che vuoi.",
+      "answers": [
+        "Tout ce que vous voulez.",
+        "Tout ce que tu veux."
+      ],
+      "id": "L070-e41"
+    },
+    {
+      "type": "mcq",
+      "level": 2,
+      "concept": "indefinites",
+      "explain_it": "N'importe quand significa in qualsiasi momento; quelque part è da qualche parte.",
+      "prompt": "Come si dice « puoi venire quando vuoi »?",
+      "options": [
+        "Tu peux venir n'importe quand.",
+        "Tu peux venir n'importe quoi.",
+        "Tu peux venir n'importe qui.",
+        "Tu peux venir quelque part."
+      ],
+      "correct": 0,
+      "id": "L070-e42"
+    },
+    {
+      "type": "write",
+      "level": 3,
+      "concept": "indefinites",
+      "explain_it": "N'importe quoi = qualunque cosa; in questo caso è l'oggetto di demander.",
+      "prompt": "Traduci: Puoi chiedere qualsiasi cosa.",
+      "answers": [
+        "Tu peux demander n'importe quoi.",
+        "Vous pouvez demander n'importe quoi."
+      ],
+      "id": "L070-e43"
+    },
+    {
+      "type": "cloze",
+      "level": 2,
+      "concept": "indefinites",
+      "explain_it": "N'importe seguito da laquelle indica una qualsiasi tra le pagine.",
+      "text": "Il faut cliquer sur une page, ___ laquelle.",
+      "answers": [
+        "n'importe"
+      ],
+      "hint": "(qualsiasi)",
+      "prompt": "Bisogna cliccare su una pagina, una qualsiasi.",
+      "id": "L070-e44"
+    },
+    {
+      "type": "write",
+      "level": 2,
+      "concept": "indefinites",
+      "explain_it": "N'importe quel si accorda con il nome: quel jour, masc. o fem. secondo il nome.",
+      "prompt": "Traduci: Qualsiasi giorno va bene per me.",
+      "answers": [
+        "N'importe quel jour me convient.",
+        "N'importe quel jour me va bien."
+      ],
+      "id": "L070-e45"
+    },
+    {
+      "type": "flash",
+      "level": 2,
+      "concept": "indefinites",
+      "explain_it": "N'importe + pronome o avverbio esprime l'indifferenza: qualsiasi, chiunque, dovunque.",
+      "front": "« N'importe » + pronome o avverbio: quali forme?",
+      "back": "n'importe qui (chiunque), n'importe quoi (qualunque cosa / sciocchezze), n'importe quel/quelle (qualsiasi), n'importe où, n'importe quand. Da solo, « N'importe. » = non importa.",
+      "id": "L070-e46"
+    },
+    {
+      "type": "mcq",
+      "level": 2,
+      "concept": "idioms",
+      "explain_it": "Doux comme un agneau è una similitudine fissa: mansueto come un agnello.",
+      "prompt": "Cosa significa « être doux comme un agneau »?",
+      "options": [
+        "essere mansueto come un agnello",
+        "avere una fame da lupo",
+        "essere furbo come una volpe",
+        "avere molta fortuna"
+      ],
+      "correct": 0,
+      "id": "L070-e47"
+    },
+    {
+      "type": "mcq",
+      "level": 3,
+      "concept": "idioms",
+      "explain_it": "Appétit d'oiseau è l'opposto di faim de loup: poco appetito, come un uccellino.",
+      "prompt": "Quale espressione significa « mangiare come un uccellino »?",
+      "options": [
+        "avoir un appétit d'oiseau",
+        "avoir une faim de loup",
+        "avoir le cafard",
+        "avoir une fièvre de cheval"
+      ],
+      "correct": 0,
+      "id": "L070-e48"
+    },
+    {
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "explain_it": "Bavard comme une pie: il paragone con comme è fisso.",
+      "text": "Il est bavard ___ une pie.",
+      "answers": [
+        "comme"
+      ],
+      "hint": "(paragone rafforzativo)",
+      "prompt": "È un chiacchierone come una gazza.",
+      "id": "L070-e49"
+    },
+    {
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "explain_it": "S'ennuyer comme un rat mort = annoiarsi a morte; l'animale non cambia.",
+      "ask": "Usa l'espressione con l'animale",
+      "prompt": "Ci annoiamo a morte.",
+      "answers": [
+        "Nous nous ennuyons comme un rat mort.",
+        "On s'ennuie comme un rat mort."
+      ],
+      "id": "L070-e50"
+    },
+    {
+      "type": "order",
+      "level": 2,
+      "concept": "idioms",
+      "explain_it": "Avoir d'autres chats à fouetter = avere altro da fare; des chats, non des chiens.",
+      "prompt": "Oggi non posso aiutarti, ho altro da fare.",
+      "answers": [
+        "Aujourd'hui je ne peux pas t'aider, j'ai d'autres chats à fouetter."
+      ],
+      "distractors": [
+        "chiens",
+        "lapins"
+      ],
+      "id": "L070-e51"
+    },
+    {
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "explain_it": "Avoir une faim de loup: l'animale è il loup, la fame è forte.",
+      "text": "Après le sport, j'ai une faim de ___.",
+      "answers": [
+        "loup"
+      ],
+      "hint": "(animale)",
+      "prompt": "Dopo lo sport ho una fame da lupo.",
+      "id": "L070-e52"
+    },
+    {
+      "type": "flash",
+      "level": 2,
+      "concept": "idioms",
+      "explain_it": "Il paragone rafforzativo comme un + animale è fisso e si impara come blocco.",
+      "front": "Perché si dice « comme un + animale » e non si cambia l'animale?",
+      "back": "È un paragone rafforzativo, come l'italiano « come un cane »: malade comme un chien. L'espressione è fissa: non si può cambiare l'animale.",
+      "id": "L070-e53"
+    },
+    {
+      "type": "mcq",
+      "level": 2,
+      "concept": "superlatives",
+      "explain_it": "Il superlativo relativo si forma con la plus + aggettivo: la plus belle.",
+      "prompt": "Completa: « C'est la ___ belle plage de la côte. »",
+      "options": [
+        "plus",
+        "moins",
+        "très",
+        "aussi"
+      ],
+      "correct": 0,
+      "id": "L070-e54"
+    },
+    {
+      "type": "write",
+      "level": 2,
+      "concept": "superlatives",
+      "explain_it": "Il superlativo con la plus concorda con il nome femminile.",
+      "prompt": "Traduci: È la città più bella della regione.",
+      "answers": [
+        "C'est la plus belle ville de la région.",
+        "C'est la ville la plus belle de la région."
+      ],
+      "id": "L070-e55"
+    },
+    {
+      "type": "mcq",
+      "level": 1,
+      "concept": "faire",
+      "explain_it": "Per gli sport si usa faire du + sport; joue è per i giochi.",
+      "prompt": "Quale frase significa « faccio sport »?",
+      "options": [
+        "Je fais du sport.",
+        "Je joue le sport.",
+        "Je fais le sport.",
+        "Je suis du sport."
+      ],
+      "correct": 0,
+      "id": "L070-e56"
+    },
+    {
+      "type": "write",
+      "level": 2,
+      "concept": "modals",
+      "explain_it": "Savoir + infinito esprime una capacità acquisita: savoir nager.",
+      "prompt": "Traduci: Sai nuotare?",
+      "answers": [
+        "Tu sais nager ?",
+        "Vous savez nager ?"
+      ],
+      "id": "L070-e57"
+    },
+    {
+      "type": "cloze",
+      "level": 1,
+      "concept": "il-faut",
+      "explain_it": "Il faut è impersonale e seguito dall'infinito.",
+      "text": "Pour y aller, il ___ prendre le train.",
+      "answers": [
+        "faut"
+      ],
+      "hint": "(falloir, presente)",
+      "prompt": "Per andarci bisogna prendere il treno.",
+      "id": "L070-e58"
+    },
+    {
+      "type": "mcq",
+      "level": 1,
+      "concept": "il-faut",
+      "explain_it": "Bisognerebbe si esprime con il condizionale di falloir: il faudrait.",
+      "prompt": "Come si dice « bisognerebbe partire presto »?",
+      "options": [
+        "Il faudrait partir tôt.",
+        "Il faut partir tôt.",
+        "Il faudra partir tôt.",
+        "Il faudrais partir tôt."
+      ],
+      "correct": 0,
+      "id": "L070-e59"
+    },
+    {
+      "type": "order",
+      "level": 1,
+      "concept": "il-faut",
+      "explain_it": "Falloir al condizionale: il faudrait + infinito.",
+      "prompt": "Bisognerebbe comprare del pane.",
+      "answers": [
+        "Il faudrait acheter du pain."
+      ],
+      "distractors": [
+        "faut",
+        "achète"
+      ],
+      "id": "L070-e60"
+    }
+  ]
+}

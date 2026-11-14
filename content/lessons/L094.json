@@ -1,0 +1,798 @@
+{
+  "n": 94,
+  "title_fr": "Quatre-vingt-quatorzième leçon - Les inconvénients du travail à domicile",
+  "title_it": "Novantaquattresima lezione - Gli svantaggi del lavoro da casa",
+  "review": false,
+  "status": "verified",
+  "source": "4a88e539 pdf 14-20 (libro p.579-585); la lezione inizia a pdf 14 (p.579) con il titolo; dialogo a pdf 14, 16, 18 (righe 1-23); note pdf 14-19 (note 1-10); esercizio 1 a pdf 18 (p.583), risposte a pdf 19 (p.584); esercizio 2 a pdf 20 (p.585, in alto), risposte fuori dal range; la lezione 95 inizia a pdf 20 (p.585, in basso)",
+  "theme_it": "Una persona che lavora da casa, al computer, si alza un momento per mangiare e al ritorno trova tutto guasto. Con un familiare (o un collega) discute dell'accaduto: lui la rimprovera, lei si difende e si chiede da dove cominciare a rimettere in ordine lo studio. Il dialogo è pieno di frasi al passato del condizionale, che esprimono rimpianti e cose che si sarebbero potute fare.",
+  "grammar": [
+    {
+      "id": "conditionnel",
+      "title_it": "Il passato del condizionale: j'aurais fait, tu aurais dû",
+      "explain_it": "Il passato del condizionale (passé du conditionnel) si forma con il condizionale presente di avoir o di être più il participio passato: j'aurais fait (avrei fatto), elle serait partie (sarebbe partita). Si usa per i rimpianti, per le cose che si sarebbero potute fare ma non sono avvenute, e per i consigli al passato: tu aurais dû (avresti dovuto). Con être il participio concorda con il soggetto; con avoir concorda con il complemento diretto solo se questo lo precede. In italiano la struttura è identica (avrei fatto, sarebbe partita), quindi è una delle strutture più facili da riconoscere.",
+      "examples": [
+        {
+          "fr": "Tu aurais dû faire plus attention.",
+          "it": "Avresti dovuto fare più attenzione."
+        },
+        {
+          "fr": "Il aurait remis tout en ordre.",
+          "it": "Avrebbe rimesso tutto in ordine."
+        }
+      ]
+    },
+    {
+      "id": "si-clauses",
+      "title_it": "Il periodo ipotetico al passato: si j'avais su, je serais venu",
+      "explain_it": "Per un'ipotesi irreale riferita al passato, la frase con si vuole il trapassato prossimo (plus-que-parfait: avais su, avais eu), mentre la frase principale va al passato del condizionale (serais venu, aurais appelé). È lo schema dell'italiano 'se avessi saputo, sarei venuto'. Attenzione a non usare il condizionale dopo si: Si j'aurais su è sbagliato.",
+      "examples": [
+        {
+          "fr": "Si j'avais su, je l'aurais appelé sur le champ.",
+          "it": "Se avessi saputo, l'avrei chiamato sul colpo."
+        },
+        {
+          "fr": "Si tu avais fait attention, tu n'aurais pas eu ce problème.",
+          "it": "Se avessi fatto attenzione, non avresti avuto questo problema."
+        }
+      ]
+    },
+    {
+      "id": "vocab",
+      "title_it": "Il verbo fouiller: transitivo e intransitivo",
+      "explain_it": "Il verbo fouiller (frugare, rovistare) può essere transitivo, con complemento diretto: fouiller quelqu'un (perquisire qualcuno), fouiller la maison (perquisire la casa); oppure intransitivo, con la preposizione dans: fouiller dans ses poches (frugare nelle tasche). Il sostantivo derivato una fouille indica la perquisizione o lo scavo archeologico; il sostantivo un fouillis, molto diverso, significa disordine, caos. In italiano non c'è una differenza tra i due usi, quindi conviene memorizzare la costruzione con dans.",
+      "examples": [
+        {
+          "fr": "La police ne nous a pas fouillés.",
+          "it": "La polizia non ci ha perquisiti."
+        },
+        {
+          "fr": "J'ai fouillé dans mes poches.",
+          "it": "Ho frugato nelle tasche."
+        }
+      ]
+    },
+    {
+      "id": "pronoun-en",
+      "title_it": "S'en sortir: il pronome en nel senso di 'cavarsela'",
+      "explain_it": "Il verbo pronominale s'en sortir significa cavarsela, riuscire a farcela, anche in una situazione difficile. Il pronome en sostituisce il complemento introdotto da 'de' (en = di ciò, di questo) ed è normalmente obbligatorio: On s'en sort difficilement. Quando il senso è chiaro, il complemento viene omesso e si dice soltanto Je m'en sors, o Comment t'en sors-tu? (come te la cavi?). Con l'avverbio si può dire bene o male: Je m'en sors très bien.",
+      "examples": [
+        {
+          "fr": "Comment t'en sors-tu sans moi ?",
+          "it": "Come te la cavi senza di me?"
+        },
+        {
+          "fr": "Je m'en sors très bien, merci !",
+          "it": "Me la cavo benissimo, grazie!"
+        }
+      ]
+    },
+    {
+      "id": "subjonctif",
+      "title_it": "Pas que je sache: il congiuntivo di savoir nell'ellissi",
+      "explain_it": "Que je sache significa 'per quanto ne so'. È un'espressione fissa con il congiuntivo di savoir (sache), accorciata da pour autant que je sache. Si mette di solito in fondo a una frase: Il n'est pas venu, que je sache (non è venuto, per quanto ne so). Da sola, come risposta, Pas que je sache vuol dire 'non che io sappia'. Il verbo resta sempre alla forma sache, prima persona.",
+      "examples": [
+        {
+          "fr": "Est-ce qu'il est arrivé ? - Pas que je sache.",
+          "it": "È arrivato? - Non che io sappia."
+        },
+        {
+          "fr": "Il ne l'a pas fait, que je sache.",
+          "it": "Non l'ha fatto, per quanto ne so."
+        }
+      ]
+    },
+    {
+      "id": "negation",
+      "title_it": "Il ne che si perde nel parlato: c'est pas vrai, t'as vu",
+      "explain_it": "Nel francese parlato il ne della negazione spesso cade, soprattutto nelle esclamazioni: c'est pas vrai invece di ce n'est pas vrai. Nel parlato rapido si hanno anche contrazioni come t'as vu (tu as vu) e t'aurais (tu aurais). Nello scritto e in un registro formale si mantiene la negazione completa con ne: non imitare la forma abbreviata nei compiti.",
+      "examples": [
+        {
+          "fr": "C'est pas vrai !",
+          "it": "Non è vero!"
+        },
+        {
+          "fr": "Ce n'est pas vrai.",
+          "it": "Non è vero."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "les secours (m. pl.)",
+      "it": "i soccorsi, i servizi di emergenza",
+      "pos": "n",
+      "note": "au secours = aiuto!"
+    },
+    {
+      "fr": "ficher",
+      "it": "fare, combinare (fam.)",
+      "pos": "v",
+      "note": "qu'est-ce que tu as fichu ? = cosa hai combinato?"
+    },
+    {
+      "fr": "le tableur",
+      "it": "il foglio di calcolo",
+      "pos": "n"
+    },
+    {
+      "fr": "tranquillement",
+      "it": "tranquillamente",
+      "pos": "adv"
+    },
+    {
+      "fr": "la panne",
+      "it": "il guasto",
+      "pos": "n",
+      "note": "tomber en panne = guastarsi"
+    },
+    {
+      "fr": "patatras",
+      "it": "bum! (rumore di una caduta)",
+      "pos": "interj"
+    },
+    {
+      "fr": "l'ordinateur (m.)",
+      "it": "il computer",
+      "pos": "n"
+    },
+    {
+      "fr": "le clavier",
+      "it": "la tastiera",
+      "pos": "n"
+    },
+    {
+      "fr": "la prise",
+      "it": "la presa (elettrica)",
+      "pos": "n"
+    },
+    {
+      "fr": "ni... ni...",
+      "it": "né... né...",
+      "pos": "conj",
+      "note": "vuole ne prima del verbo"
+    },
+    {
+      "fr": "embêtant",
+      "it": "seccante, fastidioso",
+      "pos": "adj",
+      "note": "f. embêtante"
+    },
+    {
+      "fr": "le fouillis",
+      "it": "il disordine, il caos",
+      "pos": "n"
+    },
+    {
+      "fr": "le rangement",
+      "it": "il riordino, la sistemazione",
+      "pos": "n"
+    },
+    {
+      "fr": "de travers",
+      "it": "storto, fuori posto",
+      "pos": "adv"
+    },
+    {
+      "fr": "le ménage",
+      "it": "le faccende di casa, le pulizie",
+      "pos": "n",
+      "note": "faire le ménage = fare le pulizie"
+    },
+    {
+      "fr": "le réparateur",
+      "it": "il riparatore",
+      "pos": "n",
+      "note": "f. la réparatrice"
+    },
+    {
+      "fr": "l'attente (f.)",
+      "it": "l'attesa",
+      "pos": "n",
+      "note": "non è 'attenzione' (attention)"
+    },
+    {
+      "fr": "interminable",
+      "it": "interminabile",
+      "pos": "adj"
+    },
+    {
+      "fr": "un as",
+      "it": "un asso, un campione",
+      "pos": "n",
+      "note": "un as de l'informatique = un asso dell'informatica"
+    },
+    {
+      "fr": "l'atelier (m.)",
+      "it": "il laboratorio, il seminario pratico",
+      "pos": "n"
+    },
+    {
+      "fr": "serviable",
+      "it": "disponibile, pronto ad aiutare",
+      "pos": "adj"
+    },
+    {
+      "fr": "le passe-temps",
+      "it": "il passatempo, il hobby",
+      "pos": "n"
+    },
+    {
+      "fr": "se plaindre",
+      "it": "lamentarsi",
+      "pos": "v",
+      "note": "je me plains"
+    },
+    {
+      "fr": "l'équipement (m.)",
+      "it": "l'attrezzatura",
+      "pos": "n"
+    },
+    {
+      "fr": "débranché",
+      "it": "scollegato, staccato",
+      "pos": "adj"
+    },
+    {
+      "fr": "le cordon",
+      "it": "il cavo, il filo",
+      "pos": "n",
+      "note": "le cordon d'alimentation = il cavo di alimentazione"
+    },
+    {
+      "fr": "fouiller",
+      "it": "frugare, rovistare",
+      "pos": "v",
+      "note": "fouiller dans = frugare in"
+    },
+    {
+      "fr": "dangereux",
+      "it": "pericoloso",
+      "pos": "adj",
+      "note": "f. dangereuse"
+    },
+    {
+      "fr": "le bâtiment",
+      "it": "l'edificio",
+      "pos": "n"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Au secours !",
+      "it": "Aiuto!",
+      "note": "esclamazione di richiesta d'aiuto"
+    },
+    {
+      "fr": "Zut !",
+      "it": "Accidenti!",
+      "note": "esclamazione di fastidio; registro familiare"
+    },
+    {
+      "fr": "Sens dessus dessous",
+      "it": "sottosopra, a soqquadro",
+      "note": "si dice di un luogo o di una situazione in disordine"
+    },
+    {
+      "fr": "En moins de deux",
+      "it": "in men che non si dica",
+      "note": "in pochissimo tempo; registro familiare"
+    },
+    {
+      "fr": "Contre la montre",
+      "it": "contro il tempo",
+      "note": "lavorare o fare qualcosa con poco tempo a disposizione"
+    },
+    {
+      "fr": "Sur le champ",
+      "it": "sul colpo, subito",
+      "note": "registro neutro o formale"
+    },
+    {
+      "fr": "Peut-être bien",
+      "it": "forse sì",
+      "note": "si usa per concedere qualcosa prima di un'obiezione"
+    },
+    {
+      "fr": "Après coup",
+      "it": "a cose fatte",
+      "note": "riferito a lamentele o rimpianti tardivi"
+    },
+    {
+      "fr": "Quand même",
+      "it": "comunque, anche così",
+      "note": "esprime rimprovero o sorpresa"
+    },
+    {
+      "fr": "Patati et patata",
+      "it": "e così via, bla bla bla",
+      "note": "chiude un elenco o una lamentela; registro familiare"
+    },
+    {
+      "fr": "S'en sortir",
+      "it": "cavarsela, farcela",
+      "note": "s'en sortir bien = cavarsela bene"
+    }
+  ],
+  "notes_it": [
+    "Onomatopee ed esclamazioni: il francese ne ha molte (Sniff! per il pianto, Patatras! per la caduta). Sono in gran parte autoesplicative e spesso fanno sorridere, perché i suoni sono diversi da quelli italiani.",
+    "Falso amico: attente (f.) significa 'attesa', non 'attenzione', che in francese si dice attention.",
+    "Il ne della negazione cade spesso nel parlato, soprattutto nelle esclamazioni (c'est pas vrai, t'as vu); nei compiti e nello scritto mantieni la forma completa.",
+    "Un as e un crack (in prestito dall'inglese) indicano un esperto molto bravo, soprattutto in informatica o nel fai-da-te: sono quasi sinonimi, ma crack è più colloquiale."
+  ],
+  "exercises": [
+    {
+      "id": "L094-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "conditionnel",
+      "prompt": "Quale forma significa 'avrei fatto' (io)?",
+      "options": [
+        "j'aurais fait",
+        "j'avais fait",
+        "je ferais",
+        "j'aurai fait"
+      ],
+      "correct": 0,
+      "explain_it": "Il passato del condizionale si forma con il condizionale presente di avoir più il participio: j'aurais fait. J'avais fait è il trapassato (avevo fatto)."
+    },
+    {
+      "id": "L094-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "participle-agreement",
+      "prompt": "Come si dice 'sarebbe partita' (parlando di una donna)?",
+      "options": [
+        "elle aurait parti",
+        "elle serait parti",
+        "elle serait partie",
+        "elle sera partie"
+      ],
+      "correct": 2,
+      "explain_it": "Partir si coniuga con être: il condizionale è serait e il participio concorda con il soggetto femminile (partie)."
+    },
+    {
+      "id": "L094-e03",
+      "type": "mcq",
+      "level": 2,
+      "concept": "si-clauses",
+      "prompt": "Quale frase esprime 'Se avessi saputo, sarei venuto'?",
+      "options": [
+        "Si j'aurais su, je serais venu.",
+        "Si j'avais su, je serais venu.",
+        "Si je savais, je suis venu.",
+        "Si j'avais su, je suis venu."
+      ],
+      "correct": 1,
+      "explain_it": "Con si si usa il trapassato (avais su) e la principale va al condizionale passato (serais venu). Mai il condizionale dopo si."
+    },
+    {
+      "id": "L094-e04",
+      "type": "mcq",
+      "level": 2,
+      "concept": "negation-other",
+      "prompt": "Come si dice 'non sei né elettricista né riparatore'?",
+      "options": [
+        "Tu n'es ni électricien, ni réparateur.",
+        "Tu ne es ni électricien, ni réparateur.",
+        "Tu n'es ni électricien, ou réparateur.",
+        "Tu es ni électricien, ni réparateur."
+      ],
+      "correct": 0,
+      "explain_it": "Ni... ni... richiede il ne davanti al verbo e nessun pas; le altre forme sono scorrette (ne non elisa, ou al posto di ni, ne mancante)."
+    },
+    {
+      "id": "L094-e05",
+      "type": "mcq",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Quale espressione significa 's'en sortir'?",
+      "options": [
+        "cavarsela, farcela",
+        "uscire di nuovo",
+        "lasciare la casa",
+        "stare fuori"
+      ],
+      "correct": 0,
+      "explain_it": "S'en sortir vuol dire riuscire a cavarsela, anche in una situazione difficile. Non è letterale: il pronome en non significa 'da lì'."
+    },
+    {
+      "id": "L094-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "conditionnel",
+      "prompt": "Ieri avrei sistemato tutto, ma non avevo tempo.",
+      "answers": [
+        "J'aurais tout rangé hier, mais je n'avais pas le temps."
+      ],
+      "distractors": [
+        "vais",
+        "ayant"
+      ],
+      "explain_it": "Il passato del condizionale è aurais + participio; tout si mette prima del participio."
+    },
+    {
+      "id": "L094-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "conditionnel",
+      "prompt": "Avrei dovuto avvertirlo prima.",
+      "answers": [
+        "J'aurais dû le prévenir [plus tôt|avant]."
+      ],
+      "distractors": [
+        "suis",
+        "dois"
+      ],
+      "explain_it": "Il passato di devoir è dû: j'aurais dû; poi l'infinito prévenir con le (pronome) davanti."
+    },
+    {
+      "id": "L094-e08",
+      "type": "order",
+      "level": 2,
+      "concept": "conditionnel",
+      "prompt": "Lui avrebbe rimesso tutto in ordine in men che non si dica.",
+      "answers": [
+        "Il aurait remis tout en ordre en moins de deux.",
+        "Il aurait tout remis en ordre en moins de deux."
+      ],
+      "distractors": [
+        "aurais",
+        "remettre"
+      ],
+      "explain_it": "La 3a persona singolare è aurait; remis è il participio di remettre, senza accento."
+    },
+    {
+      "id": "L094-e09",
+      "type": "order",
+      "level": 1,
+      "concept": "negation-other",
+      "prompt": "Non sono né elettricista né riparatore.",
+      "answers": [
+        "Je ne suis ni électricien ni réparateur."
+      ],
+      "distractors": [
+        "pas",
+        "ou"
+      ],
+      "explain_it": "Con ni... ni... il ne precede il verbo e non si usa pas."
+    },
+    {
+      "id": "L094-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "conditionnel",
+      "text": "À ta place, j'___ fait le ménage tous les jours.",
+      "answers": [
+        "aurais"
+      ],
+      "hint": "(avoir, condizionale presente)",
+      "prompt": "Al tuo posto, avrei fatto le pulizie tutti i giorni.",
+      "explain_it": "Il passato del condizionale ha il condizionale di avoir (aurais) seguito dal participio fait."
+    },
+    {
+      "id": "L094-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "pronominal-verbs",
+      "text": "Je me suis ___ les deux pieds dans le tapis.",
+      "answers": [
+        "pris"
+      ],
+      "hint": "(prendre, passato prossimo)",
+      "prompt": "Mi sono impigliato i piedi nel tappeto.",
+      "explain_it": "Il participio di prendre è pris; con il pronome riflessivo e il complemento les pieds dopo, il participio non concorda."
+    },
+    {
+      "id": "L094-e12",
+      "type": "cloze",
+      "level": 2,
+      "concept": "conditionnel",
+      "text": "Tu ___ pu demander à Driss.",
+      "answers": [
+        "aurais"
+      ],
+      "hint": "(avoir, condizionale presente)",
+      "prompt": "Avresti potuto chiedere a Driss.",
+      "explain_it": "Pouvoir al passato del condizionale: aurais pu, con avoir."
+    },
+    {
+      "id": "L094-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-en",
+      "text": "On s'___ sort difficilement avec trois enfants.",
+      "answers": [
+        "en"
+      ],
+      "hint": "(pronome che sostituisce 'di ciò')",
+      "prompt": "Con tre bambini ci si cava con difficoltà.",
+      "explain_it": "Nel senso di cavarsela, s'en sortir richiede il pronome en, anche quando il complemento è sottinteso."
+    },
+    {
+      "id": "L094-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "negation-other",
+      "text": "Tu n'es ___ électricien, ni réparateur.",
+      "answers": [
+        "ni"
+      ],
+      "hint": "(congiunzione 'né')",
+      "prompt": "Non sei né elettricista né riparatore.",
+      "explain_it": "Ni... ni...: il primo ni sostituisce pas e il secondo ripete la negazione davanti al complemento successivo."
+    },
+    {
+      "id": "L094-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "si-clauses",
+      "text": "Si j'___ su, je serais venu.",
+      "answers": [
+        "avais"
+      ],
+      "hint": "(savoir, trapassato prossimo)",
+      "prompt": "Se avessi saputo, sarei venuto.",
+      "explain_it": "Con si l'ipotesi irreale al passato vuole il trapassato prossimo: avais su."
+    },
+    {
+      "id": "L094-e16",
+      "type": "cloze",
+      "level": 3,
+      "concept": "subjonctif",
+      "text": "Il n'est pas venu, que je ___.",
+      "answers": [
+        "sache"
+      ],
+      "hint": "(savoir, congiuntivo presente)",
+      "prompt": "Non è venuto, per quanto ne so.",
+      "explain_it": "Que je sache significa 'per quanto ne so': sache è il congiuntivo presente di savoir."
+    },
+    {
+      "id": "L094-e17",
+      "type": "write",
+      "level": 1,
+      "concept": "conditionnel",
+      "prompt": "Avrei potuto chiamarlo ieri.",
+      "answers": [
+        "J'aurais pu l'appeler hier."
+      ],
+      "explain_it": "Pouvoir al passato del condizionale è aurais pu, e il pronome l' va davanti all'infinito appeler."
+    },
+    {
+      "id": "L094-e18",
+      "type": "write",
+      "level": 1,
+      "concept": "conditionnel",
+      "prompt": "Avresti dovuto dirlo prima.",
+      "answers": [
+        "[Tu aurais|Vous auriez] dû le dire [plus tôt|avant]."
+      ],
+      "explain_it": "Devoir resta in forma dû; il pronome le sostituisce il complemento e precede dire."
+    },
+    {
+      "id": "L094-e19",
+      "type": "write",
+      "level": 1,
+      "concept": "adverbs",
+      "prompt": "Comunque, lui è molto disponibile.",
+      "answers": [
+        "Quand même, il est très serviable.",
+        "Quand même, il est très disponible.",
+        "Il est quand même très serviable.",
+        "En tout cas, il est très serviable."
+      ],
+      "explain_it": "Quand même esprime un'obiezione o un rimprovero anche con il senso di 'comunque'."
+    },
+    {
+      "id": "L094-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "conditionnel",
+      "prompt": "Io sarei andata al mercato con te.",
+      "answers": [
+        "Je serais allée au marché avec [toi|vous]."
+      ],
+      "explain_it": "Con être il participio concorda con il soggetto femminile: allée. Qui la forma è di passato del condizionale."
+    },
+    {
+      "id": "L094-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "conditionnel",
+      "prompt": "Avremmo dovuto avvertirli prima.",
+      "answers": [
+        "Nous aurions dû les prévenir [plus tôt|avant]."
+      ],
+      "explain_it": "Il condizionale di avoir per noi è aurions; dû resta invariato e les è il complemento diretto."
+    },
+    {
+      "id": "L094-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-cod",
+      "prompt": "Lo avrei fatto volentieri.",
+      "answers": [
+        "Je l'aurais fait [volontiers|avec plaisir].",
+        "Je l'aurais [volontiers|avec plaisir] fait."
+      ],
+      "explain_it": "Il pronome l' sostituisce il complemento diretto e si mette davanti all'ausiliare."
+    },
+    {
+      "id": "L094-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "negation-other",
+      "prompt": "Lui non è né il mio capo né il mio amico.",
+      "answers": [
+        "Il n'est ni mon chef ni mon ami."
+      ],
+      "explain_it": "Ni... ni... vuole il ne davanti al verbo e nessun pas."
+    },
+    {
+      "id": "L094-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "si-clauses",
+      "prompt": "Se avessi saputo, ti avrei chiamato.",
+      "answers": [
+        "Si j'avais su, je t'aurais appelé[|e].",
+        "Si j'avais su, je vous aurais appelé[|e|s|es]."
+      ],
+      "explain_it": "Con si il trapassato (avais su) nella subordinata e il condizionale passato (aurais appelé) nella principale."
+    },
+    {
+      "id": "L094-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "conditionnel",
+      "prompt": "Anche così, lei avrebbe potuto dirmi che partiva.",
+      "answers": [
+        "Elle aurait quand même pu me dire qu'elle partait.",
+        "Elle aurait tout de même pu me dire qu'elle partait."
+      ],
+      "explain_it": "Pouvoir al passato del condizionale, con il pronome me davanti a dire e il soggetto elle nella subordinata."
+    },
+    {
+      "id": "L094-e26",
+      "type": "write",
+      "level": 3,
+      "concept": "conditionnel",
+      "prompt": "Avresti dovuto avvertirmi prima di partire.",
+      "answers": [
+        "[Tu aurais|Vous auriez] dû me prévenir avant de partir."
+      ],
+      "explain_it": "Il passato del condizionale di devoir è aurais dû; me è il complemento indiretto e avant de si lega all'infinito."
+    },
+    {
+      "id": "L094-e27",
+      "type": "write",
+      "level": 3,
+      "concept": "conditionnel",
+      "prompt": "Lei non sarebbe mai venuta senza di lui.",
+      "answers": [
+        "Elle ne serait jamais venue sans lui."
+      ],
+      "explain_it": "Con venir si usa être; il participio concorda con elle (venue), e la negazione ne... jamais racchiude il verbo."
+    },
+    {
+      "id": "L094-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "si-clauses",
+      "prompt": "Se avessi avuto bisogno di aiuto, avrei chiamato Driss.",
+      "answers": [
+        "Si j'avais eu [besoin d'aide|besoin d'un coup de main], j'aurais appelé Driss."
+      ],
+      "explain_it": "Nel periodo ipotetico al passato il trapassato con avoir (avais eu) è seguito dal condizionale passato (aurais appelé)."
+    },
+    {
+      "id": "L094-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-en",
+      "prompt": "Come te la cavi senza di me?",
+      "answers": [
+        "Comment [t'en sors-tu|tu t'en sors|vous en sortez-vous|vous vous en sortez] sans moi ?"
+      ],
+      "explain_it": "S'en sortir richiede il pronome en; nella forma con inversione si dice t'en sors-tu (o, più colloquiale, tu t'en sors)."
+    },
+    {
+      "id": "L094-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "negation-other",
+      "prompt": "Lui non è né il mio capo né il mio amico, ma un collega.",
+      "answers": [
+        "Il n'est ni mon chef ni mon ami, mais un collègue.",
+        "Il n'est ni mon chef ni mon ami, mais un collègue de travail."
+      ],
+      "explain_it": "Con ni... ni... la struttura è quella italiana, ma il ne resta davanti al verbo e non si usa pas: ni mon chef ni mon ami."
+    },
+    {
+      "id": "L094-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "conditionnel",
+      "prompt": "Avrebbe dovuto rimettere in ordine la scrivania, ma non ha avuto tempo.",
+      "answers": [
+        "Il aurait dû remettre le bureau en ordre, mais il n'a pas eu le temps.",
+        "Il aurait dû ranger le bureau, mais il n'a pas eu le temps."
+      ],
+      "explain_it": "Devoir al passato del condizionale è aurait dû, seguito dall'infinito; remettre en ordre = rimettere in ordine."
+    },
+    {
+      "id": "L094-e32",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ha fatto tutto da solo, senza chiedere aiuto.",
+      "answers": [
+        "Il a tout fait tout seul, sans demander d'aide.",
+        "Il a tout fait tout seul sans demander d'aide."
+      ],
+      "explain_it": "Il passato prossimo di faire con avoir è a fait; tout seul è un'espressione avverbiale e davanti a sans si elimina l'articolo."
+    },
+    {
+      "id": "L094-e33",
+      "type": "dictation",
+      "level": 1,
+      "concept": "indefinites",
+      "text": "Il y a un petit peu de désordre.",
+      "explain_it": "Un petit peu de + nome non vuole l'articolo: un petit peu de désordre."
+    },
+    {
+      "id": "L094-e34",
+      "type": "dictation",
+      "level": 2,
+      "concept": "conditionnel",
+      "text": "Je l'aurais appelé sur le champ.",
+      "explain_it": "Il pronome l' è al maschile perché si riferisce a un uomo; il participio appelé concorda con il complemento diretto che precede."
+    },
+    {
+      "id": "L094-e35",
+      "type": "dictation",
+      "level": 3,
+      "concept": "si-clauses",
+      "text": "Si j'avais su, je ne serais jamais allé à Toulouse.",
+      "explain_it": "Nel periodo ipotetico con si il trapassato è avais su e la principale va al condizionale passato: serais allé."
+    },
+    {
+      "id": "L094-e36",
+      "type": "flash",
+      "level": 2,
+      "concept": "conditionnel",
+      "front": "Come si forma il passato del condizionale?",
+      "back": "Condizionale presente di avoir o être più il participio passato: j'aurais fait, je serais allé(e).",
+      "note": "Con être il participio concorda con il soggetto."
+    },
+    {
+      "id": "L094-e37",
+      "type": "flash",
+      "level": 2,
+      "concept": "participle-agreement",
+      "front": "Quando il participio del passato del condizionale con être concorda?",
+      "back": "Sempre con il soggetto, come nel passato prossimo: elle serait partie, ils seraient venus.",
+      "note": "Con avoir il participio concorda solo con il complemento diretto che lo precede."
+    },
+    {
+      "id": "L094-e38",
+      "type": "flash",
+      "level": 2,
+      "concept": "subjonctif",
+      "front": "Che cosa significa 'pas que je sache'?",
+      "back": "Non che io sappia. È l'ellissi di pour autant que je sache, con il congiuntivo di savoir (sache).",
+      "note": "Si mette in fondo a una frase negativa."
+    },
+    {
+      "id": "L094-e39",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronoun-en",
+      "front": "Come si usa en con s'en sortir?",
+      "back": "En sostituisce il complemento introdotto da 'de' (di ciò): On s'en sort; Comment t'en sors-tu?",
+      "note": "Con l'avverbio si può dire: Je m'en sors bien."
+    }
+  ]
+}

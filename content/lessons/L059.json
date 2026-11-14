@@ -1,0 +1,664 @@
+{
+  "n": 59,
+  "title_fr": "Il ne gagnait (presque) jamais",
+  "title_it": "Non vinceva (quasi) mai",
+  "review": false,
+  "status": "verified",
+  "source": "fa2f8a2c p35-42 (libro p.315-322)",
+  "theme_it": "Una persona ricorda il padre, appassionato del Tiercé, che ogni settimana andava in bicicletta al PMU per giocare, senza quasi mai vincere. Nel racconto emergono le differenze con il passato: niente telefoni, telegrammi costosi, forfait telefonici inesistenti e persino piccioni viaggiatori. Alla fine il padre sogna il nome di un cavallo vincente e, grazie a quel sogno, incassa una piccola fortuna.",
+  "grammar": [
+    {
+      "id": "imparfait",
+      "title_it": "L'imperfetto (imparfait)",
+      "explain_it": "L'imperfetto francese, come quello italiano, descrive abitudini, situazioni e descrizioni del passato senza indicare un inizio o una fine precisi. Si forma prendendo la radice della prima persona plurale del presente (nous jouons, quindi jou-) e aggiungendo -ais, -ais, -ait, -ions, -iez, -aient. Con i verbi in -ger e -cer la e o la c si adeguano davanti alla a e alla o: nous mangeons, je mangeais; nous commençons, je commençais; ma davanti a -ions la e non serve: nous mangions. L'unico verbo davvero irregolare è être, con radice ét-: j'étais, nous étions.",
+      "examples": [
+        {
+          "fr": "Chaque samedi, mon père allait au PMU.",
+          "it": "Ogni sabato mio padre andava al PMU."
+        },
+        {
+          "fr": "Quand nous étions jeunes, nous habitions à la campagne.",
+          "it": "Quando eravamo giovani, abitavamo in campagna."
+        }
+      ]
+    },
+    {
+      "id": "imparfait-vs-pc",
+      "title_it": "Imperfetto o passato prossimo",
+      "explain_it": "Nel passato si usa l'imperfetto per abitudini, descrizioni, sfondo e situazioni che durano; si usa il passato prossimo (passé composé) per un fatto puntuale, concluso, che fa avanzare la storia. Il contrasto è lo stesso dell'italiano, ma in francese è più netto: nella stessa frase l'imperfetto dà lo sfondo e il passé composé racconta l'evento. Attenzione: « il ne gagnait jamais » descrive un'abitudine, mentre « il a gagné une fois » indica un singolo evento.",
+      "examples": [
+        {
+          "fr": "Il pleuvait quand Luc est arrivé.",
+          "it": "Pioveva quando Luca è arrivato."
+        },
+        {
+          "fr": "Il jouait chaque semaine, mais il n'a jamais gagné.",
+          "it": "Giocava ogni settimana, ma non ha mai vinto."
+        }
+      ]
+    },
+    {
+      "id": "negation-other",
+      "title_it": "Ne … jamais, ne … pas non plus, ne … plus",
+      "explain_it": "« Jamais » (mai) sostituisce « pas » nella negazione: ne prima del verbo e jamais dopo, senza pas. Come in italiano « non… mai », ma attenzione: « ne … pas jamais » è sbagliato. Con « non… neanche » si usa ne … pas non plus, mentre « non… più » è ne … plus. Con l'imperfetto la struttura resta la stessa.",
+      "examples": [
+        {
+          "fr": "Il ne gagnait jamais à la loterie.",
+          "it": "Non vinceva mai alla lotteria."
+        },
+        {
+          "fr": "Je n'aime pas le café, et mon frère non plus.",
+          "it": "Non mi piace il caffè, e a mio fratello neanche."
+        }
+      ]
+    },
+    {
+      "id": "il-y-a",
+      "title_it": "Il y avait / il n'y avait pas de",
+      "explain_it": "« Il y a » esprime l'esistenza: al passato diventa il y avait (c'era, c'erano) e in negativo il n'y avait pas de + nome (non c'era, non c'erano). Dopo la negazione si usa sempre de, mai du, des o un: il n'y avait pas de téléphone. La locuzione il y a è fissa: il verbo resta al singolare anche con un nome plurale.",
+      "examples": [
+        {
+          "fr": "Il y avait une boulangerie au coin de la rue.",
+          "it": "C'era un forno all'angolo della strada."
+        },
+        {
+          "fr": "Il n'y avait pas de cinéma dans le village.",
+          "it": "Non c'era nessun cinema nel villaggio."
+        }
+      ]
+    },
+    {
+      "id": "false-friends",
+      "title_it": "Falsi amici: forfait, hasard, fortune, parent",
+      "explain_it": "Alcune parole francesi sembrano italiane ma hanno un significato diverso. « Un forfait » è un pacchetto o una tariffa a prezzo fisso (un forfait téléphonique), non il ritiro dell'italiano « dare forfait ». « Le hasard » è il caso o la sorte (par hasard = per caso); l'italiano « azzardo » corrisponde piuttosto a « risque » o « pari », anche se esistono i jeux de hasard, i giochi d'azzardo. « La fortune » significa anche ricchezza, patrimonio. « Un parent » può essere il genitore o un parente in generale, come « mes parents » che può includere zii e cugini.",
+      "examples": [
+        {
+          "fr": "Mon forfait téléphonique est illimité.",
+          "it": "Il mio piano telefonico è illimitato."
+        },
+        {
+          "fr": "Je l'ai rencontré par hasard.",
+          "it": "L'ho incontrato per caso."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la communication",
+      "it": "la comunicazione",
+      "pos": "n"
+    },
+    {
+      "fr": "un parent",
+      "it": "un parente, un genitore",
+      "pos": "n",
+      "note": "anche « un parent » per un parente qualsiasi"
+    },
+    {
+      "fr": "la lettre",
+      "it": "la lettera",
+      "pos": "n"
+    },
+    {
+      "fr": "le télégramme",
+      "it": "il telegramma",
+      "pos": "n"
+    },
+    {
+      "fr": "imbécile",
+      "it": "stupido, idiota",
+      "pos": "adj",
+      "note": "anche come sostantivo, in tono offensivo"
+    },
+    {
+      "fr": "l'urgence (f.)",
+      "it": "l'urgenza, l'emergenza",
+      "pos": "n"
+    },
+    {
+      "fr": "illimité (m.) / illimitée (f.)",
+      "it": "illimitato",
+      "pos": "adj"
+    },
+    {
+      "fr": "le forfait",
+      "it": "il pacchetto, la tariffa a prezzo fisso",
+      "pos": "n",
+      "note": "falso amico: non è il ritiro"
+    },
+    {
+      "fr": "le pigeon voyageur",
+      "it": "il piccione viaggiatore",
+      "pos": "n"
+    },
+    {
+      "fr": "l'époque (f.)",
+      "it": "l'epoca",
+      "pos": "n"
+    },
+    {
+      "fr": "le vélo",
+      "it": "la bicicletta",
+      "pos": "n",
+      "note": "derivato da vélocipède, antenato della bicicletta"
+    },
+    {
+      "fr": "le voisinage",
+      "it": "il vicinato",
+      "pos": "n"
+    },
+    {
+      "fr": "le dé",
+      "it": "il dado",
+      "pos": "n"
+    },
+    {
+      "fr": "le rêve",
+      "it": "il sogno",
+      "pos": "n"
+    },
+    {
+      "fr": "la fortune",
+      "it": "la ricchezza, il patrimonio",
+      "pos": "n",
+      "note": "falso amico: non è la fortuna (chance)"
+    },
+    {
+      "fr": "le gros lot",
+      "it": "il primo premio, la vincita grossa",
+      "pos": "n"
+    },
+    {
+      "fr": "le PMU",
+      "it": "il PMU, la ricevitoria delle scommesse ippiche",
+      "pos": "n"
+    },
+    {
+      "fr": "au hasard",
+      "it": "a caso",
+      "pos": "adv"
+    },
+    {
+      "fr": "par hasard",
+      "it": "per caso",
+      "pos": "adv"
+    },
+    {
+      "fr": "instantané (m.) / instantanée (f.)",
+      "it": "istantaneo, immediato",
+      "pos": "adj"
+    },
+    {
+      "fr": "rarement",
+      "it": "raramente",
+      "pos": "adv"
+    },
+    {
+      "fr": "l'appel (m.)",
+      "it": "la chiamata, la telefonata",
+      "pos": "n"
+    },
+    {
+      "fr": "grec (m.) / grecque (f.)",
+      "it": "greco",
+      "pos": "adj"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Laisse tomber !",
+      "it": "Lascia perdere!",
+      "note": "uso colloquiale, anche per « non importa »"
+    },
+    {
+      "fr": "laisser tomber ses études",
+      "it": "abbandonare gli studi",
+      "note": "significato figurato di laisser tomber"
+    },
+    {
+      "fr": "pile ou face",
+      "it": "testa o croce",
+      "note": "la moneta usata per decidere"
+    },
+    {
+      "fr": "Ça peut attendre.",
+      "it": "Può aspettare.",
+      "note": "quando non c'è urgenza"
+    },
+    {
+      "fr": "une petite fortune",
+      "it": "una fortuna, un patrimonio",
+      "note": "detto di una somma importante"
+    },
+    {
+      "fr": "toucher le gros lot",
+      "it": "vincere il primo premio",
+      "note": "anche « toucher le jackpot »"
+    },
+    {
+      "fr": "C'est affreux !",
+      "it": "Che orrore!",
+      "note": "reazione alla notizia, registro neutro"
+    },
+    {
+      "fr": "Je plaisante.",
+      "it": "Scherzo.",
+      "note": "per chiarire che si sta scherzando"
+    },
+    {
+      "fr": "en cas d'urgence",
+      "it": "in caso di emergenza"
+    }
+  ],
+  "notes_it": [
+    "Il Tiercé è la scommessa ippica gestita dal PMU (Pari Mutuel Urbain), organismo statale che opera nelle ricevitorie: si indovinano i primi tre cavalli all'arrivo, poi anche quattro (Quarté) o cinque (Quinté). « Un PMU » indica anche la ricevitoria.",
+    "Falso amico: « hasard » vuol dire caso o sorte, non azzardo. Per il rischio si usano « risque » o « danger », mentre « un pari » è la scommessa.",
+    "« Alors » qui significa « a quel tempo »: si usa spesso nel parlato, ma in apertura di frase suona meno elegante, e per l'epoca si preferisce « à cette époque ».",
+    "« Un parent » e « mes parents » possono indicare genitori o parenti in generale, come in italiano « i parenti ». Anche « le parent pauvre » (il parente povero) ha un corrispettivo in italiano."
+  ],
+  "exercises": [
+    {
+      "id": "L059-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "imparfait",
+      "prompt": "Come si dice « Quando ero giovane, andavo a scuola a piedi »?",
+      "options": [
+        "Quand j'étais jeune, j'allais à l'école à pied.",
+        "Quand j'étais jeune, je vais à l'école à pied.",
+        "Quand j'étais jeune, j'irai à l'école à pied.",
+        "Quand je suis jeune, j'allais à l'école à pied."
+      ],
+      "correct": 0,
+      "explain_it": "Un'abitudine del passato si esprime con l'imperfetto (allais), non con il presente, il futuro o un tempo misto."
+    },
+    {
+      "id": "L059-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "imparfait",
+      "prompt": "Quale forma dell'imperfetto corrisponde a « noi mangiavamo »?",
+      "options": [
+        "nous mangeions",
+        "nous mangions",
+        "nous mangeons",
+        "nous mangerons"
+      ],
+      "correct": 1,
+      "explain_it": "La e di mange- serve solo davanti a a e o; davanti a -ions si scrive mangions."
+    },
+    {
+      "id": "L059-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "negation-other",
+      "prompt": "Come si dice « Non vinceva mai »?",
+      "options": [
+        "Il gagnait jamais.",
+        "Il ne gagnait jamais.",
+        "Il ne gagnait pas jamais.",
+        "Il ne gagnait plus."
+      ],
+      "correct": 1,
+      "explain_it": "Jamais sostituisce pas: si costruisce con ne … jamais, senza pas, per evitare la doppia negazione."
+    },
+    {
+      "id": "L059-e04",
+      "type": "mcq",
+      "level": 1,
+      "concept": "il-y-a",
+      "prompt": "Come si dice « Non c'era nessun ristorante »?",
+      "options": [
+        "Il n'y avait pas de restaurant.",
+        "Il n'avait pas de restaurant.",
+        "Il n'y avait pas du restaurant.",
+        "Il y avait pas de restaurant."
+      ],
+      "correct": 0,
+      "explain_it": "Per l'esistenza al passato si usa il y avait, e dopo la negazione si scrive de, non du."
+    },
+    {
+      "id": "L059-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "false-friends",
+      "prompt": "Nel contesto della telefonia, « un forfait » significa:",
+      "options": [
+        "un abbandono o un ritiro dalla gara",
+        "un pacchetto o una tariffa a prezzo fisso",
+        "un errore di calcolo",
+        "una tassa di iscrizione"
+      ],
+      "correct": 1,
+      "explain_it": "È un falso amico: in italiano forfait è il ritiro, in francese è un pacchetto o una tariffa forfettaria."
+    },
+    {
+      "id": "L059-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "imparfait",
+      "prompt": "Ogni settimana mia madre andava al mercato.",
+      "answers": [
+        "Chaque semaine ma mère allait au marché.",
+        "Ma mère allait au marché chaque semaine."
+      ],
+      "distractors": [
+        "vais",
+        "irai"
+      ],
+      "explain_it": "L'imperfetto di aller è allais, allais, allait, allions, alliez, allaient; qui indica un'abitudine."
+    },
+    {
+      "id": "L059-e07",
+      "type": "order",
+      "level": 1,
+      "concept": "imparfait-vs-pc",
+      "prompt": "Pioveva quando Luca è arrivato.",
+      "answers": [
+        "Il pleuvait quand Luc est arrivé."
+      ],
+      "distractors": [
+        "pleut",
+        "pleuvra"
+      ],
+      "explain_it": "Lo sfondo (pioveva) va all'imperfetto, il fatto puntuale (è arrivato) al passato prossimo."
+    },
+    {
+      "id": "L059-e08",
+      "type": "order",
+      "level": 1,
+      "concept": "il-y-a",
+      "prompt": "Non c'era nessun cinema nel paese.",
+      "answers": [
+        "Il n'y avait pas de cinéma dans le village.",
+        "Dans le village, il n'y avait pas de cinéma."
+      ],
+      "distractors": [
+        "du",
+        "n'avait"
+      ],
+      "explain_it": "Per dire che qualcosa non esisteva nel passato si usa il n'y avait pas de + nome."
+    },
+    {
+      "id": "L059-e09",
+      "type": "order",
+      "level": 1,
+      "concept": "imparfait",
+      "prompt": "Eravamo sempre in campagna d'estate.",
+      "answers": [
+        "Nous étions toujours à la campagne [en été|l'été]."
+      ],
+      "distractors": [
+        "sommes",
+        "étaient"
+      ],
+      "explain_it": "Être all'imperfetto è irregolare: la radice è ét-, quindi étions alla prima persona plurale."
+    },
+    {
+      "id": "L059-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "imparfait",
+      "text": "Chaque samedi, mon père ___ au PMU.",
+      "answers": [
+        "allait"
+      ],
+      "hint": "(aller, imperfetto)",
+      "prompt": "Ogni sabato mio padre andava al PMU.",
+      "explain_it": "Un'azione ripetuta nel passato si esprime con l'imperfetto di aller, terza persona singolare."
+    },
+    {
+      "id": "L059-e11",
+      "type": "cloze",
+      "level": 2,
+      "concept": "imparfait",
+      "text": "Quand nous ___ petits, nous habitions à la campagne.",
+      "answers": [
+        "étions"
+      ],
+      "hint": "(être, imperfetto)",
+      "prompt": "Quando eravamo piccoli, abitavamo in campagna.",
+      "explain_it": "Être è l'unico verbo davvero irregolare all'imperfetto: la radice è ét-."
+    },
+    {
+      "id": "L059-e12",
+      "type": "cloze",
+      "level": 2,
+      "concept": "imparfait",
+      "text": "Autrefois, nous ___ souvent des pâtes le dimanche.",
+      "answers": [
+        "mangions"
+      ],
+      "hint": "(manger, imperfetto)",
+      "prompt": "Un tempo mangiavamo spesso la pasta la domenica.",
+      "explain_it": "Con i verbi in -ger la e si conserva solo davanti a a e o: davanti a -ions si scrive mangions."
+    },
+    {
+      "id": "L059-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "imparfait-vs-pc",
+      "text": "Il ___ quand le train est arrivé.",
+      "answers": [
+        "pleuvait"
+      ],
+      "hint": "(pleuvoir, imperfetto)",
+      "prompt": "Pioveva quando il treno è arrivato.",
+      "explain_it": "Lo sfondo è all'imperfetto, mentre l'arrivo del treno, evento puntuale, è al passato prossimo."
+    },
+    {
+      "id": "L059-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "negation-other",
+      "text": "Quand il était jeune, mon oncle ne jouait ___ à la loterie.",
+      "answers": [
+        "jamais"
+      ],
+      "hint": "(jamais)",
+      "prompt": "Da giovane mio zio non giocava mai alla lotteria.",
+      "explain_it": "Con ne … jamais l'imperfetto descrive un'abitudine negativa che durava nel tempo."
+    },
+    {
+      "id": "L059-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "imparfait",
+      "prompt": "Da piccolo, Marco andava in bici ogni giorno.",
+      "answers": [
+        "Quand Marc était petit, il [faisait du vélo|allait à vélo|roulait à vélo] [chaque jour|tous les jours].",
+        "Quand il était petit, Marc [faisait du vélo|allait à vélo|roulait à vélo] [chaque jour|tous les jours]."
+      ],
+      "explain_it": "Per un'abitudine del passato si usa l'imperfetto, sia con faire du vélo sia con aller à vélo."
+    },
+    {
+      "id": "L059-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "imparfait",
+      "prompt": "Mia nonna preparava sempre il pane.",
+      "answers": [
+        "Ma grand-mère [faisait|préparait] toujours [du|le] pain."
+      ],
+      "explain_it": "Faire du pain è l'espressione standard; in alternativa si usa préparer, sempre all'imperfetto."
+    },
+    {
+      "id": "L059-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "negation-other",
+      "prompt": "Mio padre non giocava più al Tiercé.",
+      "answers": [
+        "Mon père ne jouait plus au Tiercé."
+      ],
+      "ask": "Traduci in francese",
+      "explain_it": "Non più si esprime con ne … plus, con il verbo tra ne e plus."
+    },
+    {
+      "id": "L059-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "il-y-a",
+      "prompt": "Non c'erano più fattorie nel villaggio.",
+      "answers": [
+        "Il n'y avait plus de fermes dans le village.",
+        "Dans le village, il n'y avait plus de fermes."
+      ],
+      "explain_it": "Dopo la negazione con plus, de resta invariabile e precede direttamente il nome."
+    },
+    {
+      "id": "L059-e19",
+      "type": "dictation",
+      "level": 2,
+      "concept": "imparfait",
+      "text": "Le dimanche, mon père jouait au Tiercé et ma mère lisait le journal."
+    },
+    {
+      "id": "L059-e20",
+      "type": "dictation",
+      "level": 2,
+      "concept": "il-y-a",
+      "text": "Il n'y avait pas de téléphone portable à cette époque."
+    },
+    {
+      "id": "L059-e21",
+      "type": "flash",
+      "level": 2,
+      "concept": "imparfait",
+      "front": "Come si forma l'imparfait?",
+      "back": "Si prende la radice della 1ª persona plurale del presente (nous parlons → parl-) e si aggiungono -ais, -ais, -ait, -ions, -iez, -aient. Unica eccezione importante: être → ét-.",
+      "note": "nous mangeons → je mangeais (la e resta davanti alla a); nous mangions (la e cade davanti a -ions)."
+    },
+    {
+      "id": "L059-e22",
+      "type": "flash",
+      "level": 2,
+      "concept": "imparfait-vs-pc",
+      "front": "Imperfetto o passato prossimo: quando usare l'imperfetto?",
+      "back": "Per abitudini, descrizioni, sfondo e situazioni che durano: Il pleuvait. Il passato prossimo (passé composé) serve per un fatto puntuale e concluso che fa avanzare la storia: Il est arrivé.",
+      "note": "Nella stessa frase lo sfondo è all'imperfetto e l'evento al passato prossimo."
+    },
+    {
+      "id": "L059-e23",
+      "type": "flash",
+      "level": 2,
+      "concept": "negation-other",
+      "front": "Ne … jamais e ne … pas non plus: quale differenza?",
+      "back": "Jamais sostituisce pas (ne … jamais = mai, senza pas). Pas non plus = neanche: Je n'aime pas le café, moi non plus.",
+      "note": "Con il passato prossimo la negazione si mette intorno all'ausiliare: je ne suis jamais allé."
+    },
+    {
+      "id": "L059-e24",
+      "type": "flash",
+      "level": 2,
+      "concept": "false-friends",
+      "front": "« Forfait »: quale falso amico per un italiano?",
+      "back": "In italiano forfait è il ritiro (dare forfait); in francese è un pacchetto o una tariffa a prezzo fisso: un forfait téléphonique.",
+      "note": "Il significato dipende dal contesto: nei viaggi indica un pacchetto (forfait avion-hôtel)."
+    },
+    {
+      "id": "L059-e25",
+      "type": "write",
+      "level": 3,
+      "concept": "imparfait-vs-pc",
+      "prompt": "Quando ero bambino, mio padre lavorava in fabbrica. Un giorno si è rotto un braccio.",
+      "answers": [
+        "Quand j'étais [enfant|petit], mon père travaillait [à l'usine|dans une usine]. Un jour, il s'est cassé [le|un] bras."
+      ],
+      "explain_it": "Lo sfondo (lavorava) è all'imperfetto; l'incidente puntuale (si è rotto) è al passato prossimo con s'est cassé."
+    },
+    {
+      "id": "L059-e26",
+      "type": "write",
+      "level": 3,
+      "concept": "imparfait-vs-pc",
+      "prompt": "Ieri pioveva tutto il giorno, quindi non siamo usciti.",
+      "answers": [
+        "Hier, il pleuvait toute la journée, [donc|alors] [nous ne sommes|on n'est] pas sorti[s|es]."
+      ],
+      "explain_it": "La pioggia che dura è all'imperfetto, mentre l'azione di uscire (non siamo usciti) è un fatto concluso al passato prossimo."
+    },
+    {
+      "id": "L059-e27",
+      "type": "write",
+      "level": 3,
+      "concept": "negation-other",
+      "prompt": "Fino a vent'anni, mio padre non vedeva mai il mare.",
+      "answers": [
+        "Jusqu'à [vingt|20] ans, mon père ne voyait jamais la mer.",
+        "Jusqu'à l'âge de [vingt|20] ans, mon père ne voyait jamais la mer."
+      ],
+      "explain_it": "Ne … jamais con l'imperfetto indica un'abitudine negativa che durava per un periodo."
+    },
+    {
+      "id": "L059-e28",
+      "type": "write",
+      "level": 3,
+      "concept": "il-y-a",
+      "prompt": "Nel 1970 non c'erano ancora computer in quella scuola.",
+      "answers": [
+        "En 1970, il n'y avait pas encore d'ordinateur[s|] [dans|à] cette école.",
+        "Dans cette école, en 1970, il n'y avait pas encore d'ordinateur[s|]."
+      ],
+      "explain_it": "Per l'esistenza negata al passato: il n'y avait pas de; davanti a vocale de diventa d'."
+    },
+    {
+      "id": "L059-e29",
+      "type": "write",
+      "level": 3,
+      "concept": "imparfait",
+      "prompt": "Quando eravate giovani, dove abitavate?",
+      "answers": [
+        "Quand vous étiez jeunes, où habitiez-vous ?",
+        "Quand vous étiez jeunes, où est-ce que vous habitiez ?",
+        "Quand vous étiez jeunes, où vous habitiez ?"
+      ],
+      "explain_it": "Nelle domande con il vous l'inversione del soggetto dà habitiez-vous, con il trattino."
+    },
+    {
+      "id": "L059-e30",
+      "type": "write",
+      "level": 3,
+      "concept": "false-friends",
+      "prompt": "Ho consumato tutto il mio forfait, quindi ho pagato di più.",
+      "answers": [
+        "J'ai [consommé|utilisé|épuisé] tout mon forfait, donc j'ai payé [plus|plus cher]."
+      ],
+      "explain_it": "Forfait qui è un piano tariffario, non un ritiro: il falso amico va tenuto a mente anche nei contesti telefonici."
+    },
+    {
+      "id": "L059-e31",
+      "type": "write",
+      "level": 3,
+      "concept": "imparfait",
+      "prompt": "Quando ero piccola, i miei genitori non avevano il telefono in casa.",
+      "answers": [
+        "Quand j'étais petite, mes parents n'avaient pas [de|le] téléphone [à la maison|chez eux]."
+      ],
+      "explain_it": "La situazione di possesso passata è all'imperfetto; la negazione di avoir è n'avaient pas de."
+    },
+    {
+      "id": "L059-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "negation-other",
+      "prompt": "Da allora non giochiamo più a carte.",
+      "answers": [
+        "[Depuis ce temps-là|Depuis ce moment-là|Depuis lors|Depuis], [nous ne jouons|on ne joue] plus aux cartes."
+      ],
+      "explain_it": "Ne … plus = non più, con ne prima del verbo e plus dopo; con jouer à + articolo contratto si dice jouer aux cartes."
+    },
+    {
+      "id": "L059-e33",
+      "type": "write",
+      "level": 3,
+      "concept": "imparfait",
+      "prompt": "Mio padre era un giocatore: ogni settimana scommetteva al PMU, ma non vinceva mai.",
+      "answers": [
+        "Mon père était un joueur : [chaque semaine|toutes les semaines], il [pariait|jouait] au PMU, mais il ne gagnait jamais."
+      ],
+      "explain_it": "Le descrizioni e le abitudini del passato sono all'imperfetto, anche con la negazione ne … jamais."
+    }
+  ]
+}

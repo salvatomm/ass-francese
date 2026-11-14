@@ -1,0 +1,796 @@
+{
+  "n": 62,
+  "title_fr": "Soixante-deuxième leçon",
+  "title_it": "Sessantaduesima lezione",
+  "review": false,
+  "status": "verified",
+  "source": "fa2f8a2c p57-64 (pdf; libro pp. 337-344)",
+  "theme_it": "Un giovane che ha scelto di diventare programmatore racconta a un amico che il corso di formazione è più difficile del previsto: fatica a capire alcuni concetti, i compagni non lo aiutano e il professore è gentile ma non basta. L'amico lo incoraggia a cambiare strategia, a lavorare di più e a usare nuovi strumenti didattici.",
+  "grammar": [
+    {
+      "id": "adverbs",
+      "title_it": "L'avverbio doucement (dolcemente) dal femminile doux/douce",
+      "explain_it": "L'avverbio di 'dolcemente' è doucement. Si forma dal femminile dell'aggettivo (douce) aggiungendo -ment: douce + ment = doucement. Al maschile doux resta aggettivo, come in 'un temps doux' (tempo mite). Gli avverbi in -ment sono invariabili e in genere seguono il verbo. Il meccanismo è lo stesso dell'italiano, dove -mente si aggiunge alla forma femminile (dolce -> dolcemente).",
+      "examples": [
+        {
+          "fr": "Elle parle doucement à son chien.",
+          "it": "Lei parla dolcemente al suo cane."
+        },
+        {
+          "fr": "Il conduit doucement dans le centre-ville.",
+          "it": "Guida piano in centro."
+        }
+      ]
+    },
+    {
+      "id": "gender",
+      "title_it": "Aggettivi usati come sostantivi (un sourd, une jeune)",
+      "explain_it": "Un aggettivo può diventare un sostantivo quando indica una persona: un sourd (un sordo), une sourde (una sorda), les jeunes (i giovani). Il genere si riconosce dall'articolo e, per gli aggettivi che cambiano, dalla forma: un sourd / une sourde. Gli aggettivi come « jeune », uguali al maschile e al femminile, si distinguono solo dall'articolo: un jeune / une jeune.",
+      "examples": [
+        {
+          "fr": "Un sourd est entré dans le magasin.",
+          "it": "Un sordo è entrato nel negozio."
+        },
+        {
+          "fr": "Les jeunes aiment la technologie.",
+          "it": "I giovani amano la tecnologia."
+        }
+      ]
+    },
+    {
+      "id": "articles-definite",
+      "title_it": "Parti del corpo con l'articolo determinativo",
+      "explain_it": "Con le parti del corpo il francese usa di norma l'articolo determinativo al posto dell'aggettivo possessivo, quando il possessore è chiaro dal soggetto o dal pronome riflessivo: je me creuse la tête (mi scervello), je me lave les mains. Il possessivo (mes, tes, ses) compare solo per precisare o contrapporre. Anche in italiano si dice « mi lavo le mani » e non « mi lavo le mie mani ».",
+      "examples": [
+        {
+          "fr": "Je me lave les mains.",
+          "it": "Mi lavo le mani."
+        },
+        {
+          "fr": "J'ai mal à la tête.",
+          "it": "Ho mal di testa."
+        }
+      ]
+    },
+    {
+      "id": "pronominal-verbs",
+      "title_it": "Verbi riflessivi e imperativo negativo (se creuser la tête, ne te casse pas)",
+      "explain_it": "Con il pronome riflessivo, « se creuser la tête » (o « se casser la tête ») significa « scervellarsi », e il pronome non si può omettere: je me creuse la tête. Nell'imperativo negativo il pronome riflessivo va prima del verbo, dopo ne: ne te casse pas la tête (non ti scervellare). Nell'imperativo affermativo il pronome segue il verbo con un trattino: creuse-toi la tête.",
+      "examples": [
+        {
+          "fr": "Je me casse la tête pour ce problème.",
+          "it": "Mi scervello per questo problema."
+        },
+        {
+          "fr": "Ne te fais pas de souci.",
+          "it": "Non ti preoccupare."
+        }
+      ]
+    },
+    {
+      "id": "pronoun-coi",
+      "title_it": "Il pronome di termine con faire froid dans le dos",
+      "explain_it": "Faire froid dans le dos (letteralmente 'fare freddo nella schiena', cioè far venire i brividi) è costruito con un pronome di termine che indica chi prova la sensazione: me, te, lui, leur. Il pronome precede il verbo fait: l'idée me fait froid dans le dos. L'aggettivo froid resta invariato, e la costruzione può essere impersonale con ça: ça fait froid dans le dos.",
+      "examples": [
+        {
+          "fr": "Cette histoire me fait froid dans le dos.",
+          "it": "Questa storia mi fa venire i brividi."
+        },
+        {
+          "fr": "Ça te fait froid dans le dos ?",
+          "it": "Ti fa venire i brividi?"
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le métier",
+      "it": "mestiere, professione",
+      "pos": "n"
+    },
+    {
+      "fr": "le programmeur",
+      "it": "programmatore",
+      "pos": "n"
+    },
+    {
+      "fr": "l'informaticien (m.)",
+      "it": "informatico",
+      "pos": "n"
+    },
+    {
+      "fr": "l'entreprise (f.)",
+      "it": "azienda, impresa",
+      "pos": "n"
+    },
+    {
+      "fr": "accueillir",
+      "it": "accogliere",
+      "pos": "v",
+      "note": "elles accueilleront (futuro)"
+    },
+    {
+      "fr": "la formation",
+      "it": "formazione, corso di formazione",
+      "pos": "n"
+    },
+    {
+      "fr": "le coup de cœur",
+      "it": "colpo di fulmine, cotta, preferenza",
+      "pos": "n"
+    },
+    {
+      "fr": "sourd",
+      "it": "sordo",
+      "pos": "adj",
+      "note": "f. sourde"
+    },
+    {
+      "fr": "évident",
+      "it": "ovvio, evidente",
+      "pos": "adj"
+    },
+    {
+      "fr": "le concept",
+      "it": "concetto",
+      "pos": "n"
+    },
+    {
+      "fr": "simple",
+      "it": "semplice",
+      "pos": "adj"
+    },
+    {
+      "fr": "la tête",
+      "it": "testa",
+      "pos": "n"
+    },
+    {
+      "fr": "les cheveux (m. pl.)",
+      "it": "capelli",
+      "pos": "n"
+    },
+    {
+      "fr": "la jambe",
+      "it": "gamba",
+      "pos": "n"
+    },
+    {
+      "fr": "fuir",
+      "it": "fuggire, scappare",
+      "pos": "v",
+      "note": "je fuis"
+    },
+    {
+      "fr": "le prof",
+      "it": "professore (colloquiale)",
+      "pos": "n"
+    },
+    {
+      "fr": "la peur",
+      "it": "paura",
+      "pos": "n"
+    },
+    {
+      "fr": "le dos",
+      "it": "schiena",
+      "pos": "n"
+    },
+    {
+      "fr": "le bras",
+      "it": "braccio",
+      "pos": "n",
+      "note": "pl. les bras"
+    },
+    {
+      "fr": "l'idée (f.)",
+      "it": "idea",
+      "pos": "n"
+    },
+    {
+      "fr": "davantage",
+      "it": "di più, maggiormente",
+      "pos": "adv"
+    },
+    {
+      "fr": "surmonter",
+      "it": "superare, vincere (ostacoli, difficoltà)",
+      "pos": "v"
+    },
+    {
+      "fr": "la difficulté",
+      "it": "difficoltà",
+      "pos": "n"
+    },
+    {
+      "fr": "coûter",
+      "it": "costare",
+      "pos": "v",
+      "note": "ils coûtent"
+    },
+    {
+      "fr": "l'œil (m.)",
+      "it": "occhio",
+      "pos": "n",
+      "note": "pl. yeux"
+    },
+    {
+      "fr": "diplômé",
+      "it": "laureato, diplomato",
+      "pos": "adj",
+      "note": "f. diplômée"
+    },
+    {
+      "fr": "doucement",
+      "it": "dolcemente, piano",
+      "pos": "adv"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "avoir les dents longues",
+      "it": "essere ambiziosi",
+      "note": "non significa 'avere i denti lunghi': è un'espressione figurata"
+    },
+    {
+      "fr": "faire la sourde oreille",
+      "it": "fare orecchie da mercante",
+      "note": "registro neutro"
+    },
+    {
+      "fr": "se creuser la tête",
+      "it": "scervellarsi",
+      "note": "uso comune, anche all'imperativo negativo: ne te casse pas la tête"
+    },
+    {
+      "fr": "prendre ses jambes à son cou",
+      "it": "darsela a gambe levate",
+      "note": "registro colloquiale"
+    },
+    {
+      "fr": "mettre les pieds dans le plat",
+      "it": "mettere i piedi nel piatto, fare una gaffe",
+      "note": "dire una cosa troppo diretta o imbarazzante"
+    },
+    {
+      "fr": "faire froid dans le dos",
+      "it": "far venire i brividi",
+      "note": "con pronome di termine: ça me fait froid dans le dos"
+    },
+    {
+      "fr": "coûter les yeux de la tête",
+      "it": "costare un occhio della testa",
+      "note": "il plurale yeux è obbligatorio"
+    },
+    {
+      "fr": "lever le petit doigt",
+      "it": "muovere un dito",
+      "note": "di solito nella forma negativa"
+    },
+    {
+      "fr": "mettre un peu d'huile de coude",
+      "it": "darci dentro, rimboccarsi le maniche",
+      "note": "lett. 'mettere un po' di olio di gomito'"
+    },
+    {
+      "fr": "dormir sur ses deux oreilles",
+      "it": "dormire sonni tranquilli",
+      "note": "registro familiare"
+    },
+    {
+      "fr": "Quelle barbe !",
+      "it": "Che noia!",
+      "note": "esclamazione colloquiale"
+    },
+    {
+      "fr": "J'en ai marre",
+      "it": "ne ho piene le scatole",
+      "note": "registro colloquiale"
+    }
+  ],
+  "notes_it": [
+    "Corsica: la Corse è un'isola francese, detta anche « l'île de Beauté » (l'isola della bellezza).",
+    "« Quelle barbe ! » è un'esclamazione familiare che significa « che noia! », anche se « la barbe » vuol dire proprio « la barba »: va imparata come blocco.",
+    "« Avoir les dents longues » non si traduce alla lettera: significa essere molto ambiziosi.",
+    "Pronuncia: « œil » si legge circa [œj] al singolare e « yeux » [jø] al plurale. In « doux » la x finale è muta e « ou » vale come la u italiana: si legge [du].",
+    "Molti modi di dire francesi usano parti del corpo (testa, orecchie, cuore, schiena), come in italiano; ma espressioni come coûter les yeux de la tête e mettre les pieds dans le plat vanno imparate come blocchi, senza tradurre parola per parola."
+  ],
+  "exercises": [
+    {
+      "id": "L062-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "adverbs",
+      "prompt": "Come si dice « parlare dolcemente »?",
+      "options": [
+        "parler douxement",
+        "parler doucement",
+        "parler douce",
+        "parler doucemment"
+      ],
+      "correct": 1,
+      "explain_it": "L'avverbio si forma dal femminile douce + -ment, quindi doucement. Douxement e doucemment non esistono."
+    },
+    {
+      "id": "L062-e02",
+      "type": "cloze",
+      "level": 2,
+      "concept": "adverbs",
+      "text": "Elle parle très ___ à ses élèves.",
+      "answers": [
+        "doucement"
+      ],
+      "hint": "(avverbio, da doux)",
+      "prompt": "Lei parla molto dolcemente ai suoi allievi.",
+      "explain_it": "L'avverbio modifica il verbo parler e resta invariato: doucement."
+    },
+    {
+      "id": "L062-e03",
+      "type": "write",
+      "level": 3,
+      "concept": "adverbs",
+      "prompt": "Parla dolcemente, ma il suo sguardo è molto severo.",
+      "answers": [
+        "[Elle|Il] parle doucement, mais son regard est très [sévère|dur]."
+      ],
+      "explain_it": "Doucement è un avverbio invariabile; sévère concorda con regard, che è maschile singolare."
+    },
+    {
+      "id": "L062-e04",
+      "type": "order",
+      "level": 1,
+      "concept": "adverbs",
+      "prompt": "Lui le parla dolcemente.",
+      "answers": [
+        "Il lui parle doucement.",
+        "Elle lui parle doucement."
+      ],
+      "distractors": [
+        "douce",
+        "doux",
+        "Elle"
+      ],
+      "explain_it": "L'avverbio doucement va dopo il verbo e non cambia mai: doux e douce sono aggettivi, non avverbi."
+    },
+    {
+      "id": "L062-e05",
+      "type": "mcq",
+      "level": 1,
+      "concept": "gender",
+      "prompt": "Come si dice « una giovane donna »?",
+      "options": [
+        "un jeune femme",
+        "une jeune femme",
+        "une jeunes femme",
+        "un jeunes femme"
+      ],
+      "correct": 1,
+      "explain_it": "Jeune si scrive uguale al maschile e al femminile: il genere si vede dall'articolo e dal sostantivo, qui femme è femminile, quindi une."
+    },
+    {
+      "id": "L062-e06",
+      "type": "cloze",
+      "level": 2,
+      "concept": "gender",
+      "text": "La langue des signes aide beaucoup les ___.",
+      "answers": [
+        "sourds"
+      ],
+      "hint": "(aggettivo usato come sostantivo, plurale maschile)",
+      "prompt": "La lingua dei segni aiuta molto i sordi.",
+      "explain_it": "Sourd indica una persona quando è usato da solo: les sourds, al plurale maschile, indica le persone sorde in generale."
+    },
+    {
+      "id": "L062-e07",
+      "type": "write",
+      "level": 2,
+      "concept": "gender",
+      "prompt": "Un giovane sordo studia a Parigi.",
+      "answers": [
+        "Un jeune sourd [étudie|fait ses études] à Paris."
+      ],
+      "explain_it": "Jeune resta uguale, sourd è maschile singolare; il verbo étudier può essere reso anche con faire ses études."
+    },
+    {
+      "id": "L062-e08",
+      "type": "write",
+      "level": 3,
+      "concept": "gender",
+      "prompt": "Una giovane sorda ha iniziato un corso di programmazione.",
+      "answers": [
+        "Une jeune sourde a [commencé|débuté] [un cours|une formation] [de|en] programmation."
+      ],
+      "explain_it": "Qui sourde è al femminile perché si riferisce a una donna; l'uso di une formation al posto di un cours è una variante naturale."
+    },
+    {
+      "id": "L062-e09",
+      "type": "mcq",
+      "level": 1,
+      "concept": "articles-definite",
+      "prompt": "Come si dice « Mi strappo i capelli »?",
+      "options": [
+        "Je m'arrache mes cheveux.",
+        "Je m'arrache cheveux.",
+        "Je m'arrache les cheveux.",
+        "Je m'arrache ses cheveux."
+      ],
+      "correct": 2,
+      "explain_it": "Con i verbi riflessivi che indicano una parte del corpo si usa l'articolo determinativo, non il possessivo: les cheveux, non mes cheveux."
+    },
+    {
+      "id": "L062-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "articles-definite",
+      "text": "J'ai mal à ___ tête.",
+      "answers": [
+        "la"
+      ],
+      "hint": "(articolo determinativo)",
+      "prompt": "Ho mal di testa.",
+      "explain_it": "Con avoir mal à la parte del corpo vuole l'articolo determinativo: mal à la tête."
+    },
+    {
+      "id": "L062-e11",
+      "type": "write",
+      "level": 2,
+      "concept": "articles-definite",
+      "prompt": "Mi sono rotto la gamba.",
+      "answers": [
+        "Je me suis [cassé|fracturé] la jambe."
+      ],
+      "explain_it": "Con se casser il pronome riflessivo è il complemento di termine: la parte del corpo vuole l'articolo determinativo la, non il possessivo ma."
+    },
+    {
+      "id": "L062-e12",
+      "type": "write",
+      "level": 3,
+      "concept": "articles-definite",
+      "prompt": "Mi sono graffiato le braccia quando sono caduto.",
+      "answers": [
+        "Je me suis [égratigné|écorché] les bras quand je suis tombé[e|].",
+        "Je me suis [égratigné|écorché] les bras en tombant."
+      ],
+      "explain_it": "Les bras è il complemento diretto e viene dopo il verbo, quindi il participio égratigné non concorda; tombé concorda invece con il soggetto (tombée se parla una donna)."
+    },
+    {
+      "id": "L062-e13",
+      "type": "mcq",
+      "level": 1,
+      "concept": "pronoun-coi",
+      "prompt": "Come si dice « L'idea mi fa venire i brividi »?",
+      "options": [
+        "L'idée me fait froide dans le dos.",
+        "L'idée me fait froid dans le dos.",
+        "L'idée fait me froid dans le dos.",
+        "L'idée est froid dans mon dos."
+      ],
+      "correct": 1,
+      "explain_it": "Il pronome di termine me precede fait, e l'aggettivo froid non cambia: la costruzione è fissa."
+    },
+    {
+      "id": "L062-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "pronoun-coi",
+      "text": "Quand je vois ce film, ça ___ fait froid dans le dos.",
+      "answers": [
+        "me"
+      ],
+      "hint": "(pronome di termine, io)",
+      "prompt": "Quando vedo questo film mi vengono i brividi.",
+      "explain_it": "Il pronome me indica chi prova la sensazione e si mette prima del verbo fait."
+    },
+    {
+      "id": "L062-e15",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-coi",
+      "prompt": "Pensare a quella strada buia mi dà i brividi.",
+      "answers": [
+        "Penser à cette [route|rue] sombre me fait froid dans le dos."
+      ],
+      "explain_it": "Il soggetto è l'infinito penser, e il pronome me indica chi prova la sensazione."
+    },
+    {
+      "id": "L062-e16",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-coi",
+      "prompt": "Quando ci penso, il loro silenzio mi dà i brividi, perché ho paura di sbagliare.",
+      "answers": [
+        "Quand j'y pense, leur silence me fait froid dans le dos, [parce que|car] j'ai peur de [me tromper|faire une erreur]."
+      ],
+      "explain_it": "Il pronome y riprende l'idea già detta (ci penso); avoir peur de è seguito dall'infinito, qui con il pronome riflessivo me tromper."
+    },
+    {
+      "id": "L062-e17",
+      "type": "dictation",
+      "level": 3,
+      "concept": "pronoun-coi",
+      "text": "Ce film me fait froid dans le dos, mais je ne peux pas m'arrêter de le regarder.",
+      "explain_it": "Il pronome me precede il verbo fait; m'arrêter ha il pronome riflessivo davanti all'infinito che dipende da peux."
+    },
+    {
+      "id": "L062-e18",
+      "type": "mcq",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Come si dice « Mi scervello per capire »?",
+      "options": [
+        "Je creuse la tête pour comprendre.",
+        "Je me creuse le tête pour comprendre.",
+        "Je me creuse la tête pour compris.",
+        "Je me creuse la tête pour comprendre."
+      ],
+      "correct": 3,
+      "explain_it": "Se creuser la tête è riflessivo: il pronome me è obbligatorio, la tête è femminile, e il verbo resta all'infinito dopo pour."
+    },
+    {
+      "id": "L062-e19",
+      "type": "cloze",
+      "level": 1,
+      "concept": "pronominal-verbs",
+      "text": "Ne ___ casse pas la tête !",
+      "answers": [
+        "te"
+      ],
+      "hint": "(pronome, tu)",
+      "prompt": "Non ti scervellare!",
+      "explain_it": "Nell'imperativo negativo il pronome riflessivo va prima del verbo, dopo ne: ne te casse pas."
+    },
+    {
+      "id": "L062-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "prompt": "Non ti scervellare per questo esercizio.",
+      "answers": [
+        "Ne te [casse|creuse] pas la tête [pour|avec] cet exercice."
+      ],
+      "explain_it": "Nell'imperativo negativo di seconda persona singolare il pronome te sta tra ne e il verbo; exercice è maschile e davanti a vocale richiede cet."
+    },
+    {
+      "id": "L062-e21",
+      "type": "write",
+      "level": 3,
+      "concept": "pronominal-verbs",
+      "prompt": "Mi sono scervellato tutta la notte, ma non ho trovato la soluzione.",
+      "answers": [
+        "Je me suis [creusé|cassé] la tête toute la nuit, mais je n'ai pas trouvé [la|de] solution."
+      ],
+      "explain_it": "Il participio creusé non concorda, perché il complemento diretto la tête viene dopo il verbo; con un complemento indeterminato dopo la negazione si usa de, mentre con un complemento determinato resta la."
+    },
+    {
+      "id": "L062-e22",
+      "type": "mcq",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "prompt": "Come si dice « Ho imparato molto »?",
+      "options": [
+        "J'ai beaucoup apprendu.",
+        "J'ai beaucoup apprit.",
+        "J'ai beaucoup appris.",
+        "Je suis beaucoup appris."
+      ],
+      "correct": 2,
+      "explain_it": "Il participio passato di apprendre è appris e il verbo si coniuga con avoir: j'ai appris."
+    },
+    {
+      "id": "L062-e23",
+      "type": "cloze",
+      "level": 1,
+      "concept": "passe-compose-avoir",
+      "text": "J'ai ___ le doigt sur le problème.",
+      "answers": [
+        "mis"
+      ],
+      "hint": "(mettre, passato prossimo)",
+      "prompt": "Ho messo il dito sul problema (ho capito dov'è).",
+      "explain_it": "Il participio di mettre è mis, e si coniuga con avoir."
+    },
+    {
+      "id": "L062-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ho avuto un colpo di fulmine per questo mestiere.",
+      "answers": [
+        "J'ai eu un coup de cœur pour [ce métier|ce travail]."
+      ],
+      "explain_it": "Il participio di avoir è eu, e il verbo avoir si coniuga con avoir nel passato prossimo."
+    },
+    {
+      "id": "L062-e25",
+      "type": "write",
+      "level": 3,
+      "concept": "passe-compose-avoir",
+      "prompt": "Ho imparato a programmare, ma non ho capito tutto.",
+      "answers": [
+        "J'ai appris à programmer, mais je n'ai pas tout compris."
+      ],
+      "explain_it": "Apprendre e comprendre hanno participi irregolari (appris, compris) e si coniugano con avoir; la negazione ne ... pas incornicia avoir."
+    },
+    {
+      "id": "L062-e26",
+      "type": "mcq",
+      "level": 2,
+      "concept": "negation",
+      "prompt": "Come si dice « Non era così ovvio »?",
+      "options": [
+        "Ce n'était si pas évident que ça.",
+        "Ce n'était pas si évident que ça pas.",
+        "Ce n'était pas si évident de ça.",
+        "Ce n'était pas si évident que ça."
+      ],
+      "correct": 3,
+      "explain_it": "La forma pas si ... que ça significa 'non così ...': si per l'aggettivo, que ça alla fine."
+    },
+    {
+      "id": "L062-e27",
+      "type": "cloze",
+      "level": 2,
+      "concept": "negation",
+      "text": "Ce n'était ___ si évident que ça.",
+      "answers": [
+        "pas"
+      ],
+      "hint": "(negazione)",
+      "prompt": "Non era così ovvio.",
+      "explain_it": "Pas si + aggettivo + que ça esprime 'non così ...': la negazione è pas."
+    },
+    {
+      "id": "L062-e28",
+      "type": "mcq",
+      "level": 1,
+      "concept": "false-friends",
+      "prompt": "Quando un francese esclama « Quelle barbe ! », che cosa vuol dire?",
+      "options": [
+        "Che bella barba!",
+        "Che noia!",
+        "Che caldo!",
+        "Che sorpresa!"
+      ],
+      "correct": 1,
+      "explain_it": "Una barbe, usato come esclamazione, significa 'che noia': non ha a che fare con la barba, che in francese è la barbe."
+    },
+    {
+      "id": "L062-e29",
+      "type": "order",
+      "level": 1,
+      "concept": "idioms",
+      "prompt": "Puoi darmi una mano.",
+      "answers": [
+        "Tu peux me donner un coup de main."
+      ],
+      "distractors": [
+        "doigt",
+        "tête"
+      ],
+      "explain_it": "Donner un coup de main significa dare una mano; non si dice donner un coup de doigt."
+    },
+    {
+      "id": "L062-e30",
+      "type": "cloze",
+      "level": 2,
+      "concept": "idioms",
+      "text": "Mon voisin ne lève jamais le ___ pour m'aider.",
+      "answers": [
+        "petit doigt"
+      ],
+      "hint": "(espressione: non muovere un dito)",
+      "prompt": "Il mio vicino non muove mai un dito per aiutarmi.",
+      "explain_it": "Lever le petit doigt è un'espressione fissa, che di solito si usa al negativo."
+    },
+    {
+      "id": "L062-e31",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Non muove un dito per aiutarmi.",
+      "answers": [
+        "[Il|Elle] ne lève [pas|jamais] le petit doigt pour m'aider."
+      ],
+      "explain_it": "L'espressione lever le petit doigt richiede ne prima del verbo; pas e jamais sono entrambi accettabili."
+    },
+    {
+      "id": "L062-e32",
+      "type": "write",
+      "level": 3,
+      "concept": "idioms",
+      "ask": "Traduci (a un amico)",
+      "prompt": "Per superare l'esame devi impegnarti di più.",
+      "answers": [
+        "Pour réussir l'examen, [tu dois|il faut] [travailler davantage|travailler plus|faire plus d'efforts|mettre un peu d'huile de coude|mettre plus d'huile de coude]."
+      ],
+      "explain_it": "Si può dire in modo neutro « travailler davantage » oppure con l'espressione « mettre un peu d'huile de coude » (darci dentro). Réussir un examen = superare un esame."
+    },
+    {
+      "id": "L062-e33",
+      "type": "mcq",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Come si dice « Questo ristorante costa un occhio della testa »?",
+      "options": [
+        "Ce restaurant coûte les dents de la tête.",
+        "Ce restaurant coûte les oreilles de la tête.",
+        "Ce restaurant coûte les mains de la tête.",
+        "Ce restaurant coûte les yeux de la tête."
+      ],
+      "correct": 3,
+      "explain_it": "L'espressione coûter les yeux de la tête usa il plurale yeux, non œil."
+    },
+    {
+      "id": "L062-e34",
+      "type": "order",
+      "level": 1,
+      "concept": "pronominal-verbs",
+      "prompt": "Non ti scervellare!",
+      "answers": [
+        "Ne te [casse|creuse] pas la tête !"
+      ],
+      "distractors": [
+        "me",
+        "les",
+        "creuse"
+      ],
+      "explain_it": "Nell'imperativo negativo il pronome te si mette prima del verbo, dopo ne."
+    },
+    {
+      "id": "L062-e35",
+      "type": "order",
+      "level": 2,
+      "concept": "pronoun-coi",
+      "prompt": "Mi vengono i brividi.",
+      "answers": [
+        "Ça me fait froid dans le dos."
+      ],
+      "distractors": [
+        "froide",
+        "fais"
+      ],
+      "explain_it": "Ça è il soggetto impersonale, me il pronome di termine e fait la forma del verbo faire alla terza persona singolare."
+    },
+    {
+      "id": "L062-e36",
+      "type": "flash",
+      "level": 2,
+      "concept": "pronominal-verbs",
+      "front": "Ne te casse pas la tête: perché 'te' sta prima del verbo?",
+      "back": "All'imperativo negativo il pronome riflessivo si mette tra ne e il verbo: ne te casse pas la tête. All'imperativo affermativo, invece, il pronome segue il verbo con un trattino: creuse-toi la tête."
+    },
+    {
+      "id": "L062-e37",
+      "type": "flash",
+      "level": 2,
+      "concept": "articles-definite",
+      "front": "Parti del corpo: quando si usa l'articolo determinativo al posto del possessivo?",
+      "back": "Quando il possessore è chiaro dal soggetto o dal verbo riflessivo: je me creuse la tête, il m'arrache les cheveux, j'ai mal à la tête. Il possessivo compare solo per precisare o contrapporre."
+    },
+    {
+      "id": "L062-e38",
+      "type": "flash",
+      "level": 2,
+      "concept": "gender",
+      "front": "Aggettivi usati come sostantivi: un sourd, une jeune, les sourds",
+      "back": "Quando un aggettivo indica una persona diventa un sostantivo e prende l'articolo: un sourd (un sordo), une jeune (una giovane). Il genere si riconosce dall'articolo; il plurale è les sourds, les jeunes."
+    },
+    {
+      "id": "L062-e39",
+      "type": "flash",
+      "level": 2,
+      "concept": "adverbs",
+      "front": "Come si forma doucement da doux?",
+      "back": "Si parte dal femminile douce e si aggiunge -ment: douce + ment = doucement, 'dolcemente'. L'avverbio è invariabile e in genere segue il verbo."
+    },
+    {
+      "id": "L062-e40",
+      "type": "dictation",
+      "level": 2,
+      "concept": "pronunciation",
+      "text": "Il fait un temps doux et sec.",
+      "explain_it": "Doux si legge [du]: la x finale è muta e « ou » vale come la u italiana."
+    }
+  ]
+}

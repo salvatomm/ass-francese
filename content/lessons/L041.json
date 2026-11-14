@@ -1,0 +1,912 @@
+{
+  "n": 41,
+  "title_fr": "Un accueil désagréable",
+  "title_it": "Un'accoglienza sgradevole",
+  "review": false,
+  "status": "verified",
+  "source": "1db59936 p12-17 (libro pp. 193-198)",
+  "theme_it": "Un cliente telefona al ristorante La Fleur d'Argent per prenotare, ma la linea è sempre occupata e la comunicazione è difficile. Tra domande sul numero di persone, sull'orario e sulla scelta del tavolo, la prenotazione viene confermata per quattro persone; poi si parla di prenotazione con un'app e di come lasciare un recapito.",
+  "grammar": [
+    {
+      "id": "futur-simple",
+      "title_it": "Il futuro semplice (verbi in -er)",
+      "explain_it": "Il futuro francese è una sola parola, senza ausiliare, come in italiano. Per i verbi in -er si prende l'infinito intero e si aggiungono le desinenze -ai, -as, -a, -ons, -ez, -ont: je chanterai, nous chanterons. Questa lezione è la prima in cui il futuro compare nel corso: il punto di partenza è sempre l'infinito.",
+      "examples": [
+        {
+          "fr": "Demain, nous parlerons au directeur.",
+          "it": "Domani parleremo con il direttore."
+        },
+        {
+          "fr": "Je travaillerai ici l'année prochaine.",
+          "it": "Lavorerò qui il prossimo anno."
+        }
+      ]
+    },
+    {
+      "id": "depuis-il-y-a",
+      "title_it": "Depuis con il presente per un'azione ancora in corso",
+      "explain_it": "Per un'azione iniziata nel passato e ancora in corso si usa il presente con depuis: Je connais cet homme depuis vingt ans = conosco quest'uomo da vent'anni. In italiano anche il presente con 'da' funziona allo stesso modo. Per un'azione conclusa nel passato si usa invece il y a (= fa) con il passato prossimo: il est parti il y a deux ans = è partito due anni fa.",
+      "examples": [
+        {
+          "fr": "Il habite à Rome depuis deux ans.",
+          "it": "Abita a Roma da due anni."
+        },
+        {
+          "fr": "Nous attendons depuis une heure.",
+          "it": "Aspettiamo da un'ora."
+        }
+      ]
+    },
+    {
+      "id": "participle-agreement",
+      "title_it": "Il participio passato usato come aggettivo",
+      "explain_it": "Un participio passato usato come aggettivo, accanto a un nome o con être per descrivere uno stato, concorda con il nome in genere e numero, esattamente come un aggettivo. Non è un passato prossimo: descrive il risultato di un'azione. La table est prise = il tavolo è occupato; les tables sont prises = i tavoli sono occupati; la porte est ouverte = la porta è aperta.",
+      "examples": [
+        {
+          "fr": "La table est prise.",
+          "it": "Il tavolo è occupato."
+        },
+        {
+          "fr": "Les portes sont fermées.",
+          "it": "Le porte sono chiuse."
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "title_it": "La domanda con inversione (Cela vous convient-il ?)",
+      "explain_it": "Nel registro formale, specialmente nei rapporti di servizio con i clienti, il verbo può essere invertito con il pronome soggetto: Cela vous convient-il ? = vi va bene? Con un soggetto nominale si riprende il soggetto con il pronome (Votre fils, est-il là ?). Quando il verbo finisce in vocale e il pronome è il, elle o on, si inserisce una -t- per facilitare la pronuncia: parle-t-il. Nel parlato quotidiano si preferisce est-ce que o la semplice intonazione.",
+      "examples": [
+        {
+          "fr": "Cela vous convient-il ?",
+          "it": "Vi va bene?"
+        },
+        {
+          "fr": "Demain, parle-t-il au directeur ?",
+          "it": "Domani parla con il direttore?"
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "l'accueil (m.)",
+      "it": "l'accoglienza, la reception",
+      "pos": "n",
+      "note": "anche il banco della reception in un albergo o in un ufficio"
+    },
+    {
+      "fr": "accueillir",
+      "it": "accogliere",
+      "pos": "v",
+      "note": "nous accueillons"
+    },
+    {
+      "fr": "joindre",
+      "it": "raggiungere, mettersi in contatto con",
+      "pos": "v",
+      "note": "j'essaie de vous joindre"
+    },
+    {
+      "fr": "conscient / consciente",
+      "it": "consapevole",
+      "pos": "adj",
+      "note": "non significa 'cosciente' nel senso di privo di sensi"
+    },
+    {
+      "fr": "le guide touristique",
+      "it": "la guida turistica",
+      "pos": "n"
+    },
+    {
+      "fr": "le téléphone",
+      "it": "il telefono",
+      "pos": "n"
+    },
+    {
+      "fr": "sonner",
+      "it": "suonare",
+      "pos": "v",
+      "note": "le téléphone sonne"
+    },
+    {
+      "fr": "arrêter",
+      "it": "fermare, fermarsi",
+      "pos": "v",
+      "note": "ne pas arrêter de + infinito: non smettere di"
+    },
+    {
+      "fr": "complet / complète",
+      "it": "completo, al completo",
+      "pos": "adj",
+      "note": "detto di un ristorante o di un albergo senza posti o camere"
+    },
+    {
+      "fr": "réserver",
+      "it": "prenotare",
+      "pos": "v"
+    },
+    {
+      "fr": "l'application (f.)",
+      "it": "l'applicazione, l'app",
+      "pos": "n",
+      "note": "in parlato si dice spesso une appli"
+    },
+    {
+      "fr": "sûr / sûre",
+      "it": "sicuro",
+      "pos": "adj",
+      "note": "plus sûr = più sicuro"
+    },
+    {
+      "fr": "humain / humaine",
+      "it": "umano",
+      "pos": "adj"
+    },
+    {
+      "fr": "la voix",
+      "it": "la voce",
+      "pos": "n"
+    },
+    {
+      "fr": "le fil",
+      "it": "il filo; la linea telefonica",
+      "pos": "n",
+      "note": "au bout du fil = al telefono"
+    },
+    {
+      "fr": "souhaiter",
+      "it": "desiderare, augurarsi",
+      "pos": "v",
+      "note": "souhaitez-vous venir? = desiderate venire?"
+    },
+    {
+      "fr": "le couvert",
+      "it": "il coperto (posto a tavola)",
+      "pos": "n",
+      "note": "mettre le couvert = apparecchiare la tavola"
+    },
+    {
+      "fr": "la terrasse",
+      "it": "la terrazza",
+      "pos": "n"
+    },
+    {
+      "fr": "dehors",
+      "it": "fuori, all'aperto",
+      "pos": "adv"
+    },
+    {
+      "fr": "l'intérieur (m.)",
+      "it": "l'interno",
+      "pos": "n"
+    },
+    {
+      "fr": "le chèque",
+      "it": "l'assegno",
+      "pos": "n"
+    },
+    {
+      "fr": "l'empreinte digitale (f.)",
+      "it": "l'impronta digitale",
+      "pos": "n"
+    },
+    {
+      "fr": "l'annulation (f.)",
+      "it": "l'annullamento, la disdetta",
+      "pos": "n"
+    },
+    {
+      "fr": "le texto",
+      "it": "il messaggio di testo, l'SMS",
+      "pos": "n",
+      "note": "in Francia molto usato; non confonderlo con il testo scritto"
+    },
+    {
+      "fr": "le numéro",
+      "it": "il numero",
+      "pos": "n"
+    },
+    {
+      "fr": "convenir",
+      "it": "andare bene, convenire",
+      "pos": "v",
+      "note": "ça me convient = mi va bene"
+    },
+    {
+      "fr": "rassurer",
+      "it": "rassicurare",
+      "pos": "v",
+      "note": "rassurez-vous = stia tranquillo"
+    },
+    {
+      "fr": "dîner",
+      "it": "cenare",
+      "pos": "v",
+      "note": "anche nome: le dîner = la cena; déjeuner = pranzare, le déjeuner = il pranzo"
+    },
+    {
+      "fr": "la chanteuse",
+      "it": "la cantante",
+      "pos": "n"
+    },
+    {
+      "fr": "ainsi que",
+      "it": "così come, e anche",
+      "pos": "conj",
+      "note": "più formale di « et aussi »"
+    },
+    {
+      "fr": "cela",
+      "it": "ciò, questo",
+      "pos": "pron",
+      "note": "più formale di « ça »: Cela vous convient-il ?"
+    },
+    {
+      "fr": "chanter",
+      "it": "cantare",
+      "pos": "v",
+      "note": "futuro: je chanterai"
+    },
+    {
+      "fr": "le chéquier",
+      "it": "il libretto degli assegni",
+      "pos": "n"
+    },
+    {
+      "fr": "le couvercle",
+      "it": "il coperchio",
+      "pos": "n",
+      "note": "da non confondere con le couvert"
+    },
+    {
+      "fr": "couvrir",
+      "it": "coprire",
+      "pos": "v",
+      "note": "participio: couvert; le couvert = il coperto"
+    },
+    {
+      "fr": "le détail",
+      "it": "il dettaglio",
+      "pos": "n"
+    },
+    {
+      "fr": "éviter",
+      "it": "evitare",
+      "pos": "v"
+    },
+    {
+      "fr": "la fleur",
+      "it": "il fiore",
+      "pos": "n",
+      "note": "nel nome del ristorante « La Fleur d'Argent »"
+    },
+    {
+      "fr": "noter",
+      "it": "annotare, prendere nota",
+      "pos": "v",
+      "note": "non significa « notare »"
+    }
+  ],
+  "expressions": [
+    {
+      "fr": "Allô, bonjour !",
+      "it": "Pronto, buongiorno!",
+      "note": "allô è la formula per rispondere o chiamare al telefono"
+    },
+    {
+      "fr": "avoir qqn au bout du fil",
+      "it": "avere qualcuno al telefono",
+      "note": "qqn = quelqu'un; registro neutro"
+    },
+    {
+      "fr": "passer un coup de fil",
+      "it": "fare una telefonata",
+      "note": "registro familiare, molto comune"
+    },
+    {
+      "fr": "Ça sonne occupé.",
+      "it": "Suona occupato.",
+      "note": "per la linea telefonica"
+    },
+    {
+      "fr": "Ça ne me convient pas.",
+      "it": "Non mi va bene.",
+      "note": "formula cortese per rifiutare una proposta"
+    },
+    {
+      "fr": "Rassurez-vous !",
+      "it": "Stia tranquillo!",
+      "note": "dare del vous; con tu diventa rassure-toi"
+    },
+    {
+      "fr": "Comme vous voulez.",
+      "it": "Come preferite.",
+      "note": "formula di cortesia usata nei servizi"
+    },
+    {
+      "fr": "Très drôle !",
+      "it": "Molto divertente!",
+      "note": "detto con ironia, per una battuta che non fa ridere"
+    }
+  ],
+  "notes_it": [
+    "Accueil indica sia l'atmosfera di benvenuto sia il banco della reception: il contesto decide. Il verbo accueillir ha un significato più ampio di accogliere: può anche voler dire ricevere, ospitare o raccogliere (un'opinione, una proposta).",
+    "Per l'apocope: une appli è l'abbreviazione di application, come in italiano prof o bici. Anche un fil (filo) indica la linea telefonica, da cui passer un coup de fil.",
+    "Falso amico: dîner significa cenare, il pasto della sera, e non ha nulla a che fare con la moneta dinaro. Il pranzo è déjeuner.",
+    "Falso amico: conscient significa consapevole, non 'cosciente' nel senso di privo di sensi, che in francese si esprime con sans connaissance.",
+    "Pronuncia: in accueil il gruppo -ueil si legge [œj] (come in œil, occhio), con la c dura [k]. In accueillir la -ill- vale [j]: [akœjir]. Nella forma nous accueillons la s finale è muta."
+  ],
+  "exercises": [
+    {
+      "id": "L041-e01",
+      "type": "mcq",
+      "level": 1,
+      "concept": "futur-simple",
+      "prompt": "Qual è il futuro semplice di 'chanter' con 'je'?",
+      "options": [
+        "je chanterai",
+        "je chanterais",
+        "je chantais"
+      ],
+      "correct": 0,
+      "explain_it": "Per i verbi in -er si prende l'infinito e si aggiunge -ai per je: je chanterai."
+    },
+    {
+      "id": "L041-e02",
+      "type": "mcq",
+      "level": 1,
+      "concept": "futur-simple",
+      "prompt": "Completa: 'Demain, nous ___ à huit heures.' (domani arriveremo alle otto)",
+      "options": [
+        "arriverons",
+        "arrivons",
+        "arriverions"
+      ],
+      "correct": 0,
+      "explain_it": "Il futuro di arriver con nous prende la desinenza -ons: nous arriverons. Arrivons è il presente, arriverions il condizionale."
+    },
+    {
+      "id": "L041-e03",
+      "type": "mcq",
+      "level": 1,
+      "concept": "depuis-il-y-a",
+      "prompt": "Completa: 'Il travaille ici ___ deux ans.' (lavora qui da due anni)",
+      "options": [
+        "depuis",
+        "pendant",
+        "il y a"
+      ],
+      "correct": 0,
+      "explain_it": "Un'azione iniziata nel passato e ancora in corso con il presente vuole depuis. Il y a significa 'fa' e pendant indica una durata, ma non il punto di partenza."
+    },
+    {
+      "id": "L041-e04",
+      "type": "order",
+      "level": 1,
+      "concept": "futur-simple",
+      "prompt": "Domani parleremo con il direttore.",
+      "answers": [
+        "Demain, nous parlerons au directeur.",
+        "Nous parlerons au directeur demain."
+      ],
+      "distractors": [
+        "parlons",
+        "parlions"
+      ],
+      "explain_it": "Parler à qualcuno al futuro: parlerons, e à + le diventa au."
+    },
+    {
+      "id": "L041-e05",
+      "type": "order",
+      "level": 1,
+      "concept": "depuis-il-y-a",
+      "prompt": "Lavoro qui da tre anni.",
+      "answers": [
+        "Je travaille ici depuis trois ans."
+      ],
+      "distractors": [
+        "pendant",
+        "il y a"
+      ],
+      "explain_it": "Depuis con il presente indica un'azione ancora in corso, come il 'da' italiano."
+    },
+    {
+      "id": "L041-e06",
+      "type": "order",
+      "level": 1,
+      "concept": "participle-agreement",
+      "prompt": "Il tavolo è occupato.",
+      "answers": [
+        "La table est prise."
+      ],
+      "distractors": [
+        "pris",
+        "prend"
+      ],
+      "explain_it": "Il participio di prendre è pris, ma come aggettivo concorda con table al femminile: prise."
+    },
+    {
+      "id": "L041-e07",
+      "type": "mcq",
+      "level": 1,
+      "concept": "false-friends",
+      "prompt": "Che cosa significa 'dîner' in francese?",
+      "options": [
+        "cenare",
+        "pranzare",
+        "dinare (la moneta)"
+      ],
+      "correct": 0,
+      "explain_it": "Dîner è cenare, il pasto della sera. Il pranzo si dice déjeuner.",
+      "tags": [
+        "false-friend"
+      ]
+    },
+    {
+      "id": "L041-e08",
+      "type": "mcq",
+      "level": 1,
+      "concept": "contractions-au-du",
+      "prompt": "Completa (sono consapevole del problema): 'Je suis conscient ___ problème.'",
+      "options": [
+        "du",
+        "de le",
+        "au"
+      ],
+      "correct": 0,
+      "explain_it": "Conscient regge de; de + le si contrae in du. Non si scrive mai 'de le'."
+    },
+    {
+      "id": "L041-e09",
+      "type": "cloze",
+      "level": 1,
+      "concept": "depuis-il-y-a",
+      "text": "Elle est malade ___ Noël.",
+      "answers": [
+        "depuis"
+      ],
+      "hint": "(preposizione di tempo con il presente)",
+      "prompt": "È malata da Natale.",
+      "explain_it": "Con il presente e un punto di partenza nel passato si usa depuis."
+    },
+    {
+      "id": "L041-e10",
+      "type": "cloze",
+      "level": 1,
+      "concept": "futur-simple",
+      "text": "Demain, je ___ avec le client.",
+      "answers": [
+        "parlerai"
+      ],
+      "hint": "(parler, futuro semplice)",
+      "prompt": "Domani parlerò con il cliente.",
+      "explain_it": "Per je i verbi in -er al futuro prendono -ai: parlerai."
+    },
+    {
+      "id": "L041-e11",
+      "type": "cloze",
+      "level": 1,
+      "concept": "participle-agreement",
+      "text": "Ce soir, les tables de la terrasse sont ___.",
+      "answers": [
+        "prises",
+        "occupées"
+      ],
+      "hint": "(prendre, participio come aggettivo)",
+      "prompt": "Stasera i tavoli in terrazza sono occupati.",
+      "explain_it": "Il participio pris diventa prises perché concorda con tables, femminile plurale."
+    },
+    {
+      "id": "L041-e12",
+      "type": "cloze",
+      "level": 2,
+      "concept": "questions",
+      "text": "Demain à dix heures, cela vous convient-___ ?",
+      "answers": [
+        "il"
+      ],
+      "hint": "(convenir, inversione con il pronome)",
+      "prompt": "Domani alle dieci vi va bene?",
+      "explain_it": "Nella domanda invertita il pronome il si mette dopo il verbo, unito con un trattino: convient-il."
+    },
+    {
+      "id": "L041-e13",
+      "type": "cloze",
+      "level": 2,
+      "concept": "participle-agreement",
+      "text": "La porte est ___.",
+      "answers": [
+        "ouverte"
+      ],
+      "hint": "(ouvrir, participio come aggettivo)",
+      "prompt": "La porta è aperta.",
+      "explain_it": "Il participio ouvert, usato come aggettivo con porte, prende la forma femminile ouverte."
+    },
+    {
+      "id": "L041-e14",
+      "type": "cloze",
+      "level": 2,
+      "concept": "futur-simple",
+      "text": "Demain, nous ___ au restaurant.",
+      "answers": [
+        "téléphonerons"
+      ],
+      "hint": "(téléphoner, futuro semplice)",
+      "prompt": "Domani telefoneremo al ristorante.",
+      "explain_it": "Nous al futuro di téléphoner prende -erons: téléphonerons. Dopo il verbo si usa à, quindi 'au restaurant' è già corretto."
+    },
+    {
+      "id": "L041-e15",
+      "type": "cloze",
+      "level": 2,
+      "concept": "depuis-il-y-a",
+      "text": "Je connais ce quartier ___ dix ans.",
+      "answers": [
+        "depuis"
+      ],
+      "prompt": "Conosco questo quartiere da dieci anni.",
+      "explain_it": "Connaître al presente con dix ans indica una conoscenza che dura da un punto di partenza: depuis."
+    },
+    {
+      "id": "L041-e16",
+      "type": "write",
+      "level": 2,
+      "concept": "futur-simple",
+      "prompt": "Domani vi telefonerò.",
+      "ask": "Traduci in francese (dai del lei).",
+      "answers": [
+        "Je vous téléphonerai demain.",
+        "Demain, je vous téléphonerai.",
+        "Je vous appellerai demain.",
+        "Demain, je vous appellerai."
+      ],
+      "explain_it": "Al futuro si mette vous dopo il soggetto, e demain può stare prima o dopo il verbo."
+    },
+    {
+      "id": "L041-e17",
+      "type": "write",
+      "level": 2,
+      "concept": "depuis-il-y-a",
+      "prompt": "Lavoro in questa azienda da cinque anni.",
+      "answers": [
+        "Je travaille [dans|pour] cette [entreprise|société|boîte] depuis cinq ans."
+      ],
+      "explain_it": "Con depuis il verbo resta al presente, anche se in italiano diremmo lo stesso con 'da'."
+    },
+    {
+      "id": "L041-e18",
+      "type": "write",
+      "level": 2,
+      "concept": "questions",
+      "prompt": "Sabato alle venti, vi va bene?",
+      "ask": "Traduci in francese (dai del lei).",
+      "answers": [
+        "Samedi à vingt heures, cela vous convient-il ?",
+        "Samedi à vingt heures, [cela|ça] vous convient ?",
+        "Samedi à vingt heures, est-ce que [cela|ça] vous convient ?"
+      ],
+      "explain_it": "La forma con inversione è più formale; est-ce que è la versione del parlato."
+    },
+    {
+      "id": "L041-e19",
+      "type": "write",
+      "level": 2,
+      "concept": "false-friends",
+      "prompt": "Non sono consapevole del problema.",
+      "ask": "Traduci in francese.",
+      "answers": [
+        "Je ne suis pas conscient du problème.",
+        "Je ne suis pas consciente du problème."
+      ],
+      "explain_it": "Conscient significa consapevole, e concorda con la persona: consciente se parla una donna.",
+      "tags": [
+        "false-friend"
+      ]
+    },
+    {
+      "id": "L041-e20",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Il telefono non smette di squillare.",
+      "answers": [
+        "Le téléphone n'arrête pas de sonner."
+      ],
+      "explain_it": "Ne pas arrêter de + infinito significa non smettere di: il téléphone n'arrête pas de sonner."
+    },
+    {
+      "id": "L041-e21",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Vorrei fare una telefonata.",
+      "ask": "Traduci in francese, usando l'espressione idiomatica.",
+      "answers": [
+        "Je voudrais [passer|donner] un coup de [fil|téléphone]."
+      ],
+      "explain_it": "Passer un coup de fil è l'espressione colloquiale per fare una telefonata."
+    },
+    {
+      "id": "L041-e22",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Ho tuo figlio al telefono.",
+      "ask": "Traduci in francese.",
+      "answers": [
+        "J'ai ton fils au bout du fil.",
+        "J'ai ton fils au téléphone."
+      ],
+      "explain_it": "Avoir qqn au bout du fil significa avere qualcuno al telefono; au bout du fil è l'espressione più idiomatica."
+    },
+    {
+      "id": "L041-e23",
+      "type": "write",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Stasera accogliamo la grande cantante.",
+      "ask": "Traduci in francese.",
+      "answers": [
+        "Ce soir, [nous accueillons|on accueille] la grande chanteuse.",
+        "[Nous accueillons|On accueille] la grande chanteuse ce soir."
+      ],
+      "explain_it": "Accueillir è il verbo di accogliere; nel parlato si usa spesso on al posto di nous."
+    },
+    {
+      "id": "L041-e24",
+      "type": "write",
+      "level": 2,
+      "concept": "idioms",
+      "prompt": "Questo non mi va bene.",
+      "ask": "Traduci in francese.",
+      "answers": [
+        "Ça ne me convient pas.",
+        "Cela ne me convient pas."
+      ],
+      "explain_it": "Convenir a qualcuno significa andare bene a qualcuno, e la costruzione è me convient."
+    },
+    {
+      "id": "L041-e25",
+      "type": "write",
+      "level": 2,
+      "concept": "pronoun-coi",
+      "prompt": "Gli dico di aspettare.",
+      "ask": "Traduci in francese.",
+      "answers": [
+        "Je lui dis [d'attendre|de patienter]."
+      ],
+      "explain_it": "Lui è il pronome indiretto per una persona (gli/le in italiano) e si mette prima del verbo."
+    },
+    {
+      "id": "L041-e26",
+      "type": "dictation",
+      "level": 2,
+      "concept": "depuis-il-y-a",
+      "text": "Je travaille ici depuis trois mois.",
+      "explain_it": "Depuis con il presente: trois mois è la durata, il verbo resta al presente."
+    },
+    {
+      "id": "L041-e27",
+      "type": "dictation",
+      "level": 2,
+      "concept": "vocab",
+      "text": "Ce soir, nous accueillons un client important.",
+      "explain_it": "Accueillons si legge [akœjɔ̃]: la -ill- vale [j] e la s finale è muta."
+    },
+    {
+      "id": "L041-e28",
+      "type": "order",
+      "level": 2,
+      "concept": "futur-simple",
+      "prompt": "Vi telefonerò domani.",
+      "answers": [
+        "Je vous téléphonerai demain.",
+        "Demain, je vous téléphonerai."
+      ],
+      "distractors": [
+        "téléphone",
+        "téléphonais"
+      ],
+      "explain_it": "Il futuro di téléphoner con je è téléphonerai: la desinenza -ai si applica all'infinito intero."
+    },
+    {
+      "id": "L041-e29",
+      "type": "mcq",
+      "level": 2,
+      "concept": "adjective-agreement",
+      "prompt": "Completa (più sicura): 'Cette solution est ___ que l'autre.'",
+      "options": [
+        "plus sûre",
+        "plus sur",
+        "plus sûr"
+      ],
+      "correct": 0,
+      "explain_it": "Sûr al femminile diventa sûre e l'accento va mantenuto: sur è un'altra parola, la preposizione 'su'. Solution è femminile.",
+      "tags": [
+        "spelling"
+      ]
+    },
+    {
+      "id": "L041-e30",
+      "type": "mcq",
+      "level": 2,
+      "concept": "vocab",
+      "prompt": "Il cartello 'Complet' davanti a un ristorante significa:",
+      "options": [
+        "al completo, senza posti",
+        "completato, finito",
+        "il completo (abito da uomo)"
+      ],
+      "correct": 0,
+      "explain_it": "Complet, detto di un locale, significa al completo. Il completo da uomo non si dice complet ma costume: è un falso amico con l'italiano.",
+      "tags": [
+        "false-friend"
+      ]
+    },
+    {
+      "id": "L041-e31",
+      "type": "flash",
+      "level": 2,
+      "concept": "futur-simple",
+      "front": "Come si forma il futuro semplice dei verbi in -er?",
+      "back": "Si prende l'infinito intero e si aggiungono le desinenze -ai, -as, -a, -ons, -ez, -ont: je chanterai, nous chanterons.",
+      "note": "Nessun ausiliare: il futuro è una sola parola, come in italiano."
+    },
+    {
+      "id": "L041-e32",
+      "type": "flash",
+      "level": 2,
+      "concept": "depuis-il-y-a",
+      "front": "Depuis con il presente: che cosa indica?",
+      "back": "Un'azione iniziata nel passato e ancora in corso: Je travaille ici depuis trois ans = lavoro qui da tre anni.",
+      "note": "Con il passato si usa il y a (= fa): il est parti il y a deux ans."
+    },
+    {
+      "id": "L041-e33",
+      "type": "flash",
+      "level": 2,
+      "concept": "participle-agreement",
+      "front": "Un participio passato usato come aggettivo deve concordare con il nome?",
+      "back": "Sì, come un aggettivo: la porte est ouverte, les fenêtres sont fermées.",
+      "note": "Quando il participio è nel passato prossimo con avoir o être, invece, la concordanza segue regole diverse."
+    },
+    {
+      "id": "L041-e34",
+      "type": "write",
+      "level": 3,
+      "concept": "futur-simple",
+      "prompt": "Quando arriverai, parlerò al direttore.",
+      "ask": "Traduci in francese (dai del tu).",
+      "answers": [
+        "Quand tu arriveras, je parlerai au directeur."
+      ],
+      "explain_it": "Dopo quand il futuro è obbligatorio quando l'azione è futura, come in italiano: arriveras è il futuro di arriver con tu, parlerai con je."
+    },
+    {
+      "id": "L041-e35",
+      "type": "write",
+      "level": 3,
+      "concept": "futur-simple",
+      "prompt": "Non ti telefonerò più.",
+      "ask": "Traduci in francese (dai del tu).",
+      "answers": [
+        "Je ne te téléphonerai plus.",
+        "Je ne t'appellerai plus."
+      ],
+      "explain_it": "La negazione circonda il verbo al futuro: ne ... plus, con te davanti al verbo come pronome indiretto."
+    },
+    {
+      "id": "L041-e36",
+      "type": "write",
+      "level": 3,
+      "concept": "futur-simple",
+      "prompt": "Lei lavorerà domani.",
+      "ask": "Traduci in francese (futuro semplice).",
+      "answers": [
+        "Elle travaillera demain.",
+        "Demain, elle travaillera.",
+        "Elle va travailler demain."
+      ],
+      "explain_it": "Il futuro di travailler con elle è travaillera: la desinenza -a si applica all'infinito."
+    },
+    {
+      "id": "L041-e37",
+      "type": "write",
+      "level": 3,
+      "concept": "depuis-il-y-a",
+      "prompt": "Abito qui da cinque anni.",
+      "ask": "Traduci in francese.",
+      "answers": [
+        "J'habite ici depuis cinq ans.",
+        "Je vis ici depuis cinq ans."
+      ],
+      "explain_it": "Anche con habiter o vivre, depuis vuole il presente per un'azione che dura ancora."
+    },
+    {
+      "id": "L041-e38",
+      "type": "write",
+      "level": 3,
+      "concept": "participle-agreement",
+      "prompt": "Tutti i tavoli della terrazza sono occupati.",
+      "ask": "Traduci in francese.",
+      "answers": [
+        "Toutes les tables de la terrasse sont [prises|occupées].",
+        "Les tables de la terrasse sont toutes [prises|occupées]."
+      ],
+      "explain_it": "Prises concorda con tables, femminile plurale; toutes concorda con tables e resta al femminile plurale anche se è separato dal nome."
+    },
+    {
+      "id": "L041-e39",
+      "type": "write",
+      "level": 3,
+      "concept": "questions",
+      "prompt": "Lunedì alle diciannove, vi va bene?",
+      "ask": "Traduci in francese, dando del lei.",
+      "answers": [
+        "Lundi à dix-neuf heures, cela vous convient-il ?",
+        "Lundi à dix-neuf heures, [cela|ça] vous convient ?",
+        "Lundi à dix-neuf heures, est-ce que [cela|ça] vous convient ?"
+      ],
+      "explain_it": "Con l'inversione si mantiene il pronome il dopo convient, con trattino; est-ce que è la forma più usata nel parlato."
+    },
+    {
+      "id": "L041-e40",
+      "type": "write",
+      "level": 3,
+      "concept": "pronoun-coi",
+      "prompt": "Stia tranquillo, gli telefonerò domani.",
+      "ask": "Traduci in francese, dando del lei.",
+      "answers": [
+        "Rassurez-vous, je lui téléphonerai demain."
+      ],
+      "explain_it": "Téléphoner vuole il complemento indiretto con à: lui è il pronome per una persona, e il futuro è telefonerai."
+    },
+    {
+      "id": "L041-e41",
+      "type": "dictation",
+      "level": 3,
+      "concept": "futur-simple",
+      "text": "Demain soir, nous dînerons avec un client. Il habite à Lyon depuis dix ans.",
+      "explain_it": "Dînerons è il futuro di dîner con nous; la seconda frase combina depuis con il presente di habiter."
+    },
+    {
+      "id": "L041-e42",
+      "type": "write",
+      "level": 3,
+      "concept": "depuis-il-y-a",
+      "prompt": "Mi hanno detto che il ristorante è al completo da due giorni.",
+      "ask": "Traduci in francese.",
+      "answers": [
+        "On m'a dit que le restaurant est complet depuis deux jours.",
+        "Ils m'ont dit que le restaurant est complet depuis deux jours."
+      ],
+      "explain_it": "Depuis con il presente indica la durata di una condizione ancora in atto: est complet depuis deux jours."
+    },
+    {
+      "id": "L041-e43",
+      "type": "cloze",
+      "level": 2,
+      "text": "Notez son numéro de téléphone ___ les détails de sa carte.",
+      "answers": [
+        "ainsi que"
+      ],
+      "prompt": "Annota il suo numero di telefono così come i dettagli della sua carta.",
+      "concept": "connectors",
+      "explain_it": "« ainsi que » collega due elementi come « et aussi » ma in registro più formale."
+    },
+    {
+      "id": "L041-e44",
+      "type": "write",
+      "level": 2,
+      "prompt": "Vorrei evitare un'annullazione all'ultimo minuto.",
+      "ask": "Traduci in francese.",
+      "answers": [
+        "Je voudrais éviter une annulation de dernière minute.",
+        "J'aimerais éviter une annulation de dernière minute."
+      ],
+      "concept": "vocab",
+      "explain_it": "éviter + nome: éviter une annulation. « de dernière minute » = all'ultimo minuto."
+    }
+  ]
+}
