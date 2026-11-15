@@ -7,7 +7,8 @@ together with variants on the same grammar point.
 
 ## Run / deploy
 
-Any static HTTPS host works (Netlify, Vercel, GitHub Pages, Cloudflare Pages); paths are relative.
+Live on GitHub Pages: https://salvatomm.github.io/ass-francese/ (Settings → Pages → deploy from branch
+`main`, `/ (root)`). Any static HTTPS host works; paths are relative.
 On the phone: open the URL → browser menu → *Add to home screen*. After the first load it works offline.
 
 After changing content or app files: `python3 tools/build.py` (validates lessons, builds
